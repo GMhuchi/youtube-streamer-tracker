@@ -80,6 +80,7 @@ def check_registered_channels(
         entry = {
             "id": channel_id,
             "name": name,
+            "autoAdded": bool(ch.get("autoAdded")),
             "isLive": False,
             "title": None,
             "channelUrl": f"https://www.youtube.com/channel/{channel_id}",
@@ -183,6 +184,84 @@ def run_discovery(queries: list[dict], session: requests.Session, registered_ids
     return discovery, warnings
 
 
+def auto_register_discovered(
+    channels: list[dict],
+    discovery: dict,
+    *,
+    keywords: list[str],
+    max_channels: int,
+    session: requests.Session,
+    now: dt.datetime,
+    verifier=None,
+) -> tuple[list[dict], list[str]]:
+    """태그 검색으로 발견한 '미등록' 채널 중 실제로 대상 게임을 방송 중인 채널을
+    등록 목록에 자동으로 추가한다.
+
+    검색 결과는 검색어에 걸렸을 뿐이라 실제 게임이 다를 수 있으므로, 후보마다
+    워치 페이지를 한 번 확인해서 게임 이름/제목이 키워드와 맞을 때만 추가한다
+    (후보 1개당 요청 1번, 이미 등록된 채널은 아예 확인하지 않는다).
+
+    verifier: 테스트용 주입점. `verifier(video_id)` -> common.VideoLiveDetails|None.
+    반환: (추가된 채널 목록, 경고 메시지 목록)
+    """
+    added: list[dict] = []
+    warnings: list[str] = []
+    items = (discovery or {}).get("items") or []
+    if not items:
+        return added, warnings
+
+    known_ids = {c.get("id") for c in channels if c.get("id")}
+
+    def verify(video_id: str):
+        if verifier is not None:
+            return verifier(video_id)
+        try:
+            return fetch_video_live_details(video_id, session=session)
+        except (FetchError, ParseError) as e:
+            warnings.append(f"[자동등록] 영상 {video_id} 확인 실패: {e}")
+            return None
+
+    for item in items:
+        channel_id = item.get("channelId")
+        video_id = item.get("videoId")
+        if not channel_id or channel_id in known_ids:
+            continue
+        if len(channels) >= max_channels:
+            warnings.append(
+                f"등록 채널이 상한({max_channels}개)에 도달해 자동 추가를 멈췄습니다. "
+                "data/tags.json 의 maxChannels 를 조절하거나 필요 없는 채널을 삭제해주세요."
+            )
+            break
+
+        title = item.get("title")
+        game = None
+        if video_id:
+            details = verify(video_id)
+            if details is None:
+                continue  # 확인 실패 -> 이번엔 건너뛰고 다음 사이클에 다시 시도
+            game = getattr(details, "game", None)
+            title = getattr(details, "title", None) or title
+
+        if not history_mod.is_target_game(title, game, keywords):
+            continue
+
+        name = item.get("channelTitle") or channel_id
+        entry = {
+            "id": channel_id,
+            "name": name,
+            "autoAdded": True,
+            "autoAddedAt": history_mod.to_iso(now),
+            "autoAddedFrom": item.get("matchedQuery"),
+            "autoAddedGame": game,
+        }
+        channels.append(entry)
+        known_ids.add(channel_id)
+        added.append(entry)
+        polite_sleep(0.4)
+
+    return added, warnings
+
+
 def record_history(
     history: dict,
     channel_results: list[dict],
@@ -251,6 +330,7 @@ def main() -> int:
 
     prev_status = load_json(STATUS_PATH, {})
     prev_by_id = {c.get("id"): c for c in (prev_status.get("channels") or []) if c.get("id")}
+    newly_added: list[dict] = []
 
     with requests.Session() as session:
         channel_results, warn1 = check_registered_channels(
@@ -273,6 +353,37 @@ def main() -> int:
             registered_ids = {c.get("id") for c in channels if c.get("id")}
             discovery, warn2 = run_discovery(queries, session, registered_ids)
             all_warnings.extend(warn2)
+
+            # 미등록 채널 중 실제로 이터널리턴을 방송 중인 채널을 자동 등록
+            if tags_doc.get("autoRegisterDiscovered"):
+                newly_added, warn3 = auto_register_discovered(
+                    channels,
+                    discovery,
+                    keywords=keywords,
+                    max_channels=int(tags_doc.get("maxChannels", 60)),
+                    session=session,
+                    now=now,
+                    )
+                all_warnings.extend(warn3)
+                if newly_added:
+                    channels_doc["channels"] = channels
+                    save_json(CHANNELS_PATH, channels_doc)
+                    # 방금 추가된 채널도 이번 사이클부터 바로 확인한다
+                    extra_results, warn4 = check_registered_channels(
+                        newly_added, session, check_rss=False, prev_by_id=prev_by_id
+                    )
+                    all_warnings.extend(warn4)
+                    channel_results.extend(extra_results)
+                    closed_extra, warn5 = record_history(
+                        history, extra_results, now=now, keywords=keywords, session=session
+                    )
+                    all_warnings.extend(warn5)
+                    closed_sessions.extend(closed_extra)
+                    # 자동 추가된 채널은 이미 등록되었으므로 "등록됨" 표시를 갱신한다
+                    added_ids = {c["id"] for c in newly_added}
+                    for item in discovery.get("items", []):
+                        if item.get("channelId") in added_ids:
+                            item["alreadyRegistered"] = True
         else:
             discovery = prev_discovery  # 이번 사이클엔 검색 안 함 -> 이전 결과 유지
 
@@ -306,6 +417,8 @@ def main() -> int:
 
     live_count = sum(1 for c in channel_results if c["isLive"])
     print(f"완료: 등록 채널 {len(channels)}개 중 {live_count}개 라이브 중.")
+    for c in newly_added:
+        print(f"자동 등록: {c['name']} ({c['id']}) - 게임 {c.get('autoAddedGame') or '제목으로 판정'}")
     if closed_sessions:
         for s in closed_sessions:
             print(f"방송 종료 기록: {s.get('name')} {s.get('start')} ~ {s.get('end')} ({s.get('minutes')}분)")
