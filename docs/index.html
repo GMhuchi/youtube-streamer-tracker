@@ -99,6 +99,8 @@
   }
   .btn:hover{ border-color:var(--accent); }
   .btn:active{ transform:scale(.98); }
+  .btn.on{ border-color:var(--accent); background:var(--accent-soft); color:var(--accent); }
+  .btn[disabled]{ opacity:.5; cursor:not-allowed; }
 
   main{ max-width:980px; margin:0 auto; padding:1.6rem 1.4rem 5rem; }
 
@@ -175,6 +177,22 @@
     border:1px dashed var(--border-strong); border-radius:10px;
   }
 
+  .remove-list{ display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:.4rem; }
+  .remove-row{
+    display:flex; align-items:center; gap:.6rem; padding:.5rem .7rem;
+    background:var(--surface); border:1px solid var(--border); border-radius:8px; font-size:.85rem;
+  }
+  .remove-row .nm{ font-weight:600; flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .remove-row .del{
+    flex-shrink:0; border:1px solid var(--live); color:var(--live); background:transparent;
+    padding:.25em .6em; border-radius:6px; font-size:.76rem; font-weight:700; text-decoration:none;
+  }
+  .remove-row .del:hover{ background:var(--live); color:#fff; }
+  .auto-badge{
+    flex-shrink:0; font-family:'IBM Plex Mono',monospace; font-size:.64rem;
+    color:var(--accent); background:var(--accent-soft); padding:.1em .4em; border-radius:4px;
+  }
+
   details{ border:1px solid var(--border); border-radius:10px; overflow:hidden; }
   details summary{
     cursor:pointer; padding:.7rem .9rem; font-weight:700; font-size:.88rem;
@@ -202,11 +220,23 @@
   <span class="meta mono" id="updatedAt">불러오는 중…</span>
   <a class="btn" href="history.html">📊 방송 이력</a>
   <a class="btn" id="registerBtn" href="#" target="_blank" rel="noopener">＋ 채널 등록</a>
-  <a class="btn" id="removeBtn" href="#" target="_blank" rel="noopener">－ 채널 삭제</a>
+  <button class="btn" id="removeBtn" type="button" aria-expanded="false">－ 채널 삭제</button>
 </header>
 
 <main>
   <div class="banner" id="banner" hidden></div>
+
+  <section id="removePanel" hidden style="margin-top:0;">
+    <div class="section-head">
+      <h2 class="display">－ 채널 삭제</h2>
+      <span class="count mono" id="removeCount">0</span>
+      <span style="font-size:.75rem;color:var(--text-dim);margin-left:auto;">
+        지울 채널의 "삭제" 를 누르면 내용이 미리 채워진 요청이 열립니다. 그대로 제출하면 끝입니다.
+      </span>
+    </div>
+    <div class="remove-list" id="removeList"></div>
+    <div class="empty" id="removeEmpty" hidden>등록된 채널이 없습니다.</div>
+  </section>
 
   <section>
     <div class="section-head">
@@ -258,15 +288,50 @@
   var repoSlug = guessRepo();
   var registerBtn = document.getElementById('registerBtn');
   var removeBtn = document.getElementById('removeBtn');
+  var removePanel = document.getElementById('removePanel');
+
+  // 이슈 제목을 미리 채워 보내면 사용자는 "표시 이름"과 "주소"만 입력하면 됩니다.
+  // (GitHub 이슈 폼은 제목 칸 자체를 없앨 수 없어서, 값을 미리 넣어 건드릴 일이 없게 합니다.)
   if (repoSlug) {
-    registerBtn.href = 'https://github.com/' + repoSlug + '/issues/new?template=add-channel.yml';
-    removeBtn.href = 'https://github.com/' + repoSlug + '/issues/new?template=remove-channel.yml';
+    registerBtn.href = 'https://github.com/' + repoSlug +
+      '/issues/new?template=add-channel.yml&title=' + encodeURIComponent('[등록] ');
   } else {
     registerBtn.href = '#';
     registerBtn.title = '저장소를 자동으로 확인하지 못했습니다. index.html의 REPO_OVERRIDE를 설정하세요.';
-    removeBtn.href = '#';
+    removeBtn.disabled = true;
     removeBtn.title = '저장소를 자동으로 확인하지 못했습니다. index.html의 REPO_OVERRIDE를 설정하세요.';
   }
+
+  function removeUrl(c){
+    // 삭제 대상은 채널ID로 넘긴다 -> 이름이 겹치거나 바뀌어도 정확히 지워진다.
+    return 'https://github.com/' + repoSlug + '/issues/new?template=remove-channel.yml' +
+      '&title=' + encodeURIComponent('[삭제] ' + (c.name || c.id)) +
+      '&target=' + encodeURIComponent(c.id);
+  }
+
+  function renderRemoveList(channels){
+    if (!repoSlug) return;
+    var sorted = channels.slice().sort(function(a,b){
+      return String(a.name||'').localeCompare(String(b.name||''), 'ko');
+    });
+    document.getElementById('removeCount').textContent = sorted.length;
+    document.getElementById('removeList').innerHTML = sorted.map(function(c){
+      return '<div class="remove-row">' +
+        '<span class="nm">' + esc(c.name || c.id) + '</span>' +
+        (c.autoAdded ? '<span class="auto-badge">자동</span>' : '') +
+        '<a class="del" href="' + esc(removeUrl(c)) + '" target="_blank" rel="noopener">삭제</a>' +
+      '</div>';
+    }).join('');
+    document.getElementById('removeEmpty').hidden = sorted.length > 0;
+  }
+
+  removeBtn.addEventListener('click', function(){
+    var open = removePanel.hidden;
+    removePanel.hidden = !open;
+    removeBtn.setAttribute('aria-expanded', String(open));
+    removeBtn.classList.toggle('on', open);
+    if (open) removePanel.scrollIntoView({block:'nearest', behavior:'smooth'});
+  });
 
   function fmtRelative(iso){
     if(!iso) return '-';
@@ -317,6 +382,7 @@
       '<a class="offline-row" href="'+esc(c.channelUrl)+'" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">' +
         '<span class="off-dot"></span>' +
         '<span class="name">'+esc(c.name)+'</span>' +
+        (c.autoAdded ? '<span class="auto-badge">자동</span>' : '') +
         '<span class="sub">'+esc(sub)+'</span>' +
       '</a>'
     );
@@ -363,6 +429,8 @@
     document.getElementById('offlineCount').textContent = offline.length;
     document.getElementById('offlineList').innerHTML = offline.map(offlineRow).join('');
     document.getElementById('offlineEmpty').hidden = channels.length > 0;
+
+    renderRemoveList(channels);
 
     var disc = status.discovery || {};
     var items = disc.items || [];
