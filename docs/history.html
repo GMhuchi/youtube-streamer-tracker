@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>방송 이력 · 스트리머 트래커</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='38' fill='%230f8f79'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f5f6f8; --surface:#ffffff; --surface-2:#eef0f3;
+    --border:#dde1e6; --border-strong:#c7cdd5;
+    --text:#14171b; --text-dim:#5b6470;
+    --live:#d6291f; --accent:#0f8f79; --accent-soft:#e1f5f0;
+    --warn:#9a5b00; --warn-soft:#fdf0dc;
+    --shadow:0 1px 2px rgba(20,23,27,0.06), 0 10px 26px -18px rgba(20,23,27,0.35);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#0b0d10; --surface:#14171b; --surface-2:#1b1f25;
+      --border:#262b32; --border-strong:#343b44;
+      --text:#e8ecf1; --text-dim:#8b95a1;
+      --live:#ff453a; --accent:#34d5b7; --accent-soft:#12302b;
+      --warn:#f5b342; --warn-soft:#3a2c10;
+      --shadow:0 1px 2px rgba(0,0,0,0.4), 0 10px 30px -18px rgba(0,0,0,0.7);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#0b0d10; --surface:#14171b; --surface-2:#1b1f25;
+    --border:#262b32; --border-strong:#343b44;
+    --text:#e8ecf1; --text-dim:#8b95a1;
+    --live:#ff453a; --accent:#34d5b7; --accent-soft:#12302b;
+    --warn:#f5b342; --warn-soft:#3a2c10;
+    --shadow:0 1px 2px rgba(0,0,0,0.4), 0 10px 30px -18px rgba(0,0,0,0.7);
+  }
+
+  *{ box-sizing:border-box; }
+  [hidden]{ display:none !important; }
+  body{
+    margin:0; background:var(--bg); color:var(--text);
+    font-family:'Noto Sans KR','Archivo',system-ui,sans-serif;
+    line-height:1.6; -webkit-font-smoothing:antialiased;
+  }
+  .display{ font-family:'Archivo','Noto Sans KR',system-ui,sans-serif; }
+  .mono{ font-family:'IBM Plex Mono',ui-monospace,monospace; }
+
+  header{
+    position:sticky; top:0; z-index:10;
+    display:flex; align-items:center; gap:.9rem; flex-wrap:wrap;
+    padding:1rem 1.4rem; border-bottom:1px solid var(--border);
+    background:color-mix(in srgb, var(--bg) 85%, transparent);
+    backdrop-filter:blur(10px);
+  }
+  header h1{ font-size:1.15rem; font-weight:800; margin:0; letter-spacing:-.01em; }
+  header .spacer{ flex:1; }
+  header .meta{ font-size:.78rem; color:var(--text-dim); }
+  .btn{
+    display:inline-flex; align-items:center; gap:.4em;
+    border:1px solid var(--border-strong); background:var(--surface);
+    color:var(--text); padding:.5em .9em; border-radius:8px;
+    font-weight:700; font-size:.82rem; text-decoration:none; cursor:pointer;
+    transition:border-color .15s, transform .1s;
+  }
+  .btn:hover{ border-color:var(--accent); }
+  .btn:active{ transform:scale(.98); }
+  .btn.on{ border-color:var(--accent); background:var(--accent-soft); color:var(--accent); }
+
+  main{ max-width:1080px; margin:0 auto; padding:1.6rem 1.4rem 5rem; }
+
+  .banner{
+    display:flex; gap:.6rem; align-items:flex-start;
+    background:var(--warn-soft); border:1px solid var(--warn);
+    color:var(--warn); border-radius:10px; padding:.8rem 1rem;
+    font-size:.85rem; margin-bottom:1.4rem;
+  }
+
+  .totals{
+    display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:.9rem; margin-bottom:1.6rem;
+  }
+  .stat{
+    background:var(--surface); border:1px solid var(--border); border-radius:12px;
+    padding:1rem 1.1rem; box-shadow:var(--shadow);
+  }
+  .stat .label{ font-size:.78rem; color:var(--text-dim); font-weight:700; }
+  .stat .value{
+    font-family:'IBM Plex Mono',monospace; font-size:1.7rem; font-weight:600;
+    line-height:1.2; margin-top:.25rem;
+  }
+  .stat .value .unit{ font-size:.9rem; color:var(--text-dim); margin-left:.15em; }
+  .stat .sub{ font-size:.75rem; color:var(--text-dim); margin-top:.2rem; }
+
+  section{ margin-top:2.2rem; }
+  .section-head{ display:flex; align-items:baseline; gap:.6rem; margin-bottom:.9rem; flex-wrap:wrap; }
+  .section-head h2{ font-size:1.05rem; font-weight:800; margin:0; }
+  .section-head .count{
+    font-family:'IBM Plex Mono',monospace; font-size:.78rem; color:var(--text-dim);
+    background:var(--surface-2); border:1px solid var(--border); padding:.15em .55em; border-radius:999px;
+  }
+  .section-head .note{ font-size:.75rem; color:var(--text-dim); margin-left:auto; }
+
+  .table-wrap{ overflow-x:auto; border:1px solid var(--border); border-radius:12px; background:var(--surface); }
+  table{ width:100%; border-collapse:collapse; font-size:.86rem; min-width:640px; }
+  th,td{ padding:.6rem .8rem; text-align:left; border-bottom:1px solid var(--border); white-space:nowrap; }
+  th{
+    font-size:.75rem; color:var(--text-dim); font-weight:700; background:var(--surface-2);
+    position:sticky; top:0;
+  }
+  tr:last-child td{ border-bottom:none; }
+  td.num, th.num{ text-align:right; font-family:'IBM Plex Mono',monospace; }
+  td.name{ white-space:normal; min-width:150px; font-weight:600; }
+  td.name a{ color:inherit; text-decoration:none; }
+  td.name a:hover{ text-decoration:underline; }
+  .live-dot{
+    display:inline-block; width:.5rem; height:.5rem; border-radius:50%;
+    background:var(--live); margin-right:.4em; vertical-align:middle;
+  }
+  .off-dot{
+    display:inline-block; width:.5rem; height:.5rem; border-radius:50%;
+    background:var(--border-strong); margin-right:.4em; vertical-align:middle;
+  }
+  .zero{ color:var(--text-dim); }
+  .tag{
+    font-family:'IBM Plex Mono',monospace; font-size:.68rem;
+    color:var(--accent); background:var(--accent-soft); padding:.1em .45em; border-radius:4px;
+  }
+  .tag.gray{ color:var(--text-dim); background:var(--surface-2); }
+
+  .sessions{ display:flex; flex-direction:column; gap:.4rem; }
+  .srow{
+    display:flex; align-items:center; gap:.7rem; padding:.6rem .8rem; flex-wrap:wrap;
+    background:var(--surface); border:1px solid var(--border); border-radius:8px; font-size:.84rem;
+  }
+  .srow .who{ font-weight:700; min-width:9rem; }
+  .srow .when{ font-family:'IBM Plex Mono',monospace; font-size:.78rem; color:var(--text-dim); }
+  .srow .dur{ font-family:'IBM Plex Mono',monospace; font-weight:600; }
+  .srow .what{ color:var(--text-dim); flex:1; min-width:12rem; overflow:hidden; text-overflow:ellipsis; }
+  .srow a{ color:inherit; text-decoration:none; }
+  .srow a:hover{ text-decoration:underline; }
+
+  .empty{
+    color:var(--text-dim); font-size:.88rem; padding:1.4rem; text-align:center;
+    border:1px dashed var(--border-strong); border-radius:10px;
+  }
+  footer{
+    margin-top:3rem; padding-top:1.2rem; border-top:1px solid var(--border);
+    color:var(--text-dim); font-size:.78rem;
+  }
+  @media (prefers-reduced-motion:reduce){ *{ animation:none !important; transition:none !important; } }
+</style>
+</head>
+<body>
+
+<header>
+  <h1 class="display">📊 방송 이력</h1>
+  <span class="spacer"></span>
+  <span class="meta mono" id="updatedAt">불러오는 중…</span>
+  <button class="btn on" id="scopeBtn" type="button">이터널리턴만</button>
+  <a class="btn" href="./">← 라이브 현황</a>
+</header>
+
+<main>
+  <div class="banner" id="banner" hidden></div>
+
+  <div class="totals" id="totals"></div>
+
+  <section>
+    <div class="section-head">
+      <h2 class="display">채널별 방송 시간</h2>
+      <span class="count mono" id="channelCount">0</span>
+      <span class="note">등록된 채널은 방송 기록이 없어도 모두 표시됩니다 · 한국 시간(KST) 기준</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>채널</th>
+            <th class="num">오늘</th>
+            <th class="num">이번 주</th>
+            <th class="num">이번 달</th>
+            <th>최근 방송</th>
+          </tr>
+        </thead>
+        <tbody id="channelRows"></tbody>
+      </table>
+    </div>
+    <div class="empty" id="channelEmpty" hidden>등록된 채널이 없습니다.</div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2 class="display">최근 방송 기록</h2>
+      <span class="count mono" id="sessionCount">0</span>
+      <span class="note">방송 시작~종료 시각 (유튜브가 알려주는 실제 시각 기준)</span>
+    </div>
+    <div class="sessions" id="sessionList"></div>
+    <div class="empty" id="sessionEmpty" hidden>
+      아직 기록된 방송이 없습니다. 등록 채널이 방송을 시작하면 이때부터 자동으로 쌓입니다.
+    </div>
+  </section>
+
+  <footer>
+    <div>10분마다 자동 확인 · 이 페이지는 60초마다 새로고침됩니다.</div>
+    <div id="tzNote"></div>
+  </footer>
+</main>
+
+<script>
+(function(){
+  var scopeGame = true;   // true = 이터널리턴만, false = 전체 방송
+  var data = null;
+
+  function esc(s){
+    return String(s==null?'':s).replace(/[&<>"']/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
+  }
+
+  function fmtHours(minutes){
+    var m = Math.round(minutes || 0);
+    if (m <= 0) return '0';
+    var h = Math.floor(m / 60);
+    var rem = m % 60;
+    if (h === 0) return rem + '분';
+    if (rem === 0) return h + '시간';
+    return h + '시간 ' + rem + '분';
+  }
+
+  function fmtKst(iso){
+    if (!iso) return '-';
+    var d = new Date(iso);
+    if (isNaN(d)) return iso;
+    // KST(UTC+9) 고정 표시
+    var k = new Date(d.getTime() + 9*3600*1000);
+    var mm = String(k.getUTCMonth()+1).padStart(2,'0');
+    var dd = String(k.getUTCDate()).padStart(2,'0');
+    var hh = String(k.getUTCHours()).padStart(2,'0');
+    var mi = String(k.getUTCMinutes()).padStart(2,'0');
+    return mm + '/' + dd + ' ' + hh + ':' + mi;
+  }
+
+  function fmtRelative(iso){
+    if(!iso) return '-';
+    var d = new Date(iso);
+    if (isNaN(d)) return iso;
+    var diffSec = Math.max(0, Math.round((Date.now() - d.getTime())/1000));
+    if (diffSec <= 2) return '방금 전';
+    if (diffSec < 60) return diffSec + '초 전';
+    var diffMin = Math.round(diffSec/60);
+    if (diffMin < 60) return diffMin + '분 전';
+    var diffH = Math.round(diffMin/60);
+    if (diffH < 24) return diffH + '시간 전';
+    return Math.round(diffH/24) + '일 전';
+  }
+
+  function pick(bucket){
+    if (!bucket) return 0;
+    return scopeGame ? bucket.gameMinutes : bucket.totalMinutes;
+  }
+
+  function renderTotals(){
+    var t = data.totals || {};
+    var labels = [
+      ['today', '오늘'],
+      ['week', '이번 주'],
+      ['month', '이번 달']
+    ];
+    var html = labels.map(function(pair){
+      var key = pair[0], label = pair[1];
+      var b = t[key] || {};
+      var mins = pick(b);
+      var sub = scopeGame
+        ? ('전체 방송 ' + fmtHours(b.totalMinutes))
+        : ('이터널리턴 ' + fmtHours(b.gameMinutes));
+      return '<div class="stat">' +
+        '<div class="label">' + esc(label) + '</div>' +
+        '<div class="value">' + esc(fmtHours(mins)) + '</div>' +
+        '<div class="sub">' + esc(sub) + ' · ' + (b.sessions||0) + '회</div>' +
+      '</div>';
+    }).join('');
+    document.getElementById('totals').innerHTML = html;
+  }
+
+  function renderChannels(){
+    var rows = (data.channels || []).map(function(c){
+      var b = c.buckets || {};
+      function cell(key){
+        var mins = pick(b[key]);
+        var cls = mins > 0 ? 'num' : 'num zero';
+        return '<td class="' + cls + '">' + esc(fmtHours(mins)) + '</td>';
+      }
+      var status = c.isLive
+        ? '<span class="live-dot"></span>'
+        : '<span class="off-dot"></span>';
+      var badge = c.registered ? '' : ' <span class="tag gray">등록해제</span>';
+      var recent = c.isLive
+        ? ('방송 중 · ' + esc(fmtKst(c.liveSince)) + ' 시작')
+        : (c.lastEnd ? (esc(fmtKst(c.lastEnd)) + ' 종료 (' + esc(fmtRelative(c.lastEnd)) + ')') : '기록 없음');
+      return '<tr>' +
+        '<td class="name">' + status +
+          '<a href="' + esc(c.channelUrl) + '" target="_blank" rel="noopener">' + esc(c.name) + '</a>' +
+          badge +
+        '</td>' +
+        cell('today') + cell('week') + cell('month') +
+        '<td>' + recent + '</td>' +
+      '</tr>';
+    }).join('');
+    document.getElementById('channelRows').innerHTML = rows;
+    document.getElementById('channelCount').textContent = (data.channels || []).length;
+    document.getElementById('channelEmpty').hidden = (data.channels || []).length > 0;
+  }
+
+  function renderSessions(){
+    var list = (data.recentSessions || []).filter(function(s){
+      return scopeGame ? s.isTargetGame : true;
+    });
+    var html = list.map(function(s){
+      var link = s.videoUrl
+        ? '<a href="' + esc(s.videoUrl) + '" target="_blank" rel="noopener">' + esc(s.title || '(제목 없음)') + '</a>'
+        : esc(s.title || '(제목 없음)');
+      var tag = s.isTargetGame ? '<span class="tag">이터널리턴</span>' : '<span class="tag gray">' + esc(s.game || '기타') + '</span>';
+      return '<div class="srow">' +
+        '<span class="who">' + esc(s.name) + '</span>' +
+        '<span class="when">' + esc(fmtKst(s.start)) + ' → ' + esc(fmtKst(s.end)) + '</span>' +
+        '<span class="dur">' + esc(fmtHours(s.minutes)) + '</span>' +
+        tag +
+        '<span class="what">' + link + '</span>' +
+      '</div>';
+    }).join('');
+    document.getElementById('sessionList').innerHTML = html;
+    document.getElementById('sessionCount').textContent = list.length;
+    document.getElementById('sessionEmpty').hidden = list.length > 0;
+  }
+
+  function renderAll(){
+    if (!data) return;
+    document.getElementById('updatedAt').textContent = '갱신: ' + fmtRelative(data.updatedAt);
+    document.getElementById('tzNote').textContent =
+      '집계 기준: ' + (data.timezone || 'Asia/Seoul') + ' · 오늘=00:00부터, 이번 주=월요일부터, 이번 달=1일부터';
+    renderTotals();
+    renderChannels();
+    renderSessions();
+  }
+
+  document.getElementById('scopeBtn').addEventListener('click', function(){
+    scopeGame = !scopeGame;
+    this.textContent = scopeGame ? '이터널리턴만' : '전체 방송';
+    this.classList.toggle('on', scopeGame);
+    renderAll();
+  });
+
+  function load(){
+    fetch('history.json', {cache:'no-store'})
+      .then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+      .then(function(j){ data = j; document.getElementById('banner').hidden = true; renderAll(); })
+      .catch(function(err){
+        document.getElementById('updatedAt').textContent = '불러오기 실패';
+        var banner = document.getElementById('banner');
+        banner.hidden = false;
+        banner.textContent = '⚠ history.json을 불러오지 못했습니다 (' + err.message +
+          '). 트래킹 워크플로가 아직 한 번도 실행되지 않았을 수 있습니다.';
+      });
+  }
+
+  load();
+  setInterval(load, 60000);
+})();
+</script>
+</body>
+</html>
