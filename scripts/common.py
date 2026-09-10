@@ -157,6 +157,80 @@ class LiveStatus:
     thumbnail: Optional[str] = None
     viewers: Optional[int] = None
     started_at: Optional[str] = None
+    game: Optional[str] = None
+
+
+def extract_game_title(html: str) -> Optional[str]:
+    """워치 페이지에 게임 방송이면 박혀 있는 "게임 박스아트" 메타데이터에서
+    게임 이름을 뽑아낸다. 없으면 None (게임 방송이 아니거나 구조가 바뀐 경우).
+
+    유튜브는 게임 스트림 워치 페이지에 richMetadataRenderer(style이
+    RICH_METADATA_RENDERER_STYLE_BOX_ART)로 게임 제목을 넣어준다.
+    구조가 바뀌어도 전체 실행이 죽지 않도록 조용히 None 을 반환한다.
+    """
+    try:
+        data = extract_json_after_marker(html, "var ytInitialData =")
+    except ParseError:
+        return None
+
+    found: list[str] = []
+
+    def walk(node):
+        if found:
+            return
+        if isinstance(node, dict):
+            rmr = node.get("richMetadataRenderer")
+            if isinstance(rmr, dict):
+                style = rmr.get("style") or ""
+                if "BOX_ART" in str(style):
+                    title = dig(rmr, "title", "simpleText") or dig(rmr, "title", "runs", 0, "text")
+                    if title:
+                        found.append(str(title))
+                        return
+            for v in node.values():
+                walk(v)
+        elif isinstance(node, list):
+            for v in node:
+                walk(v)
+
+    walk(data)
+    return found[0] if found else None
+
+
+@dataclass
+class VideoLiveDetails:
+    """이미 끝난(또는 진행 중인) 라이브 영상의 정확한 시작/종료 시각."""
+
+    video_id: str
+    start_timestamp: Optional[str] = None
+    end_timestamp: Optional[str] = None
+    is_live_now: bool = False
+    title: Optional[str] = None
+    game: Optional[str] = None
+
+
+def fetch_video_live_details(video_id: str, session: Optional[requests.Session] = None) -> VideoLiveDetails:
+    """워치 페이지에서 liveBroadcastDetails 의 startTimestamp/endTimestamp 를 읽는다.
+    방송이 끝난 뒤 정확한 종료 시각을 알아내는 용도 (5~10분 간격 확인으로는
+    종료 시각이 최대 그만큼 밀리기 때문에, 끝난 시점에 한 번만 확인한다).
+    """
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    html, _final_url = get_html(url, session=session)
+    try:
+        player = extract_json_after_marker(html, "var ytInitialPlayerResponse =")
+    except ParseError as e:
+        raise ParseError(f"영상 {video_id} 플레이어 데이터를 찾지 못했습니다: {e}") from e
+
+    details = dig(player, "microformat", "playerMicroformatRenderer", "liveBroadcastDetails", default={}) or {}
+    video_details = dig(player, "videoDetails", default={}) or {}
+    return VideoLiveDetails(
+        video_id=video_id,
+        start_timestamp=details.get("startTimestamp"),
+        end_timestamp=details.get("endTimestamp"),
+        is_live_now=bool(details.get("isLiveNow", False)),
+        title=video_details.get("title"),
+        game=extract_game_title(html),
+    )
 
 
 def fetch_channel_live_status(channel_id: str, session: Optional[requests.Session] = None) -> LiveStatus:
@@ -210,6 +284,7 @@ def fetch_channel_live_status(channel_id: str, session: Optional[requests.Sessio
         thumbnail=thumbnail,
         viewers=viewers,
         started_at=started_at,
+        game=extract_game_title(html),
     )
 
 
@@ -307,7 +382,7 @@ def search_live_by_query(query: str, session: Optional[requests.Session] = None,
             thumbnail = thumbs[-1]["url"] if thumbs else None
             view_count_text = dig(vr, "viewCountText", "runs", 0, "text")
 
-            # sp=live 필터로 이미 걸렀지만, 뱃지로 쁜 번 더 확인(있으면 더 신뢰)
+            # sp=live 필터로 이미 걸렀지만, 뱃지로 한 번 더 확인(있으면 더 신뢰)
             overlays = vr.get("thumbnailOverlays", []) or []
             looks_live = any(
                 dig(o, "thumbnailOverlayTimeStatusRenderer", "style") == "LIVE" for o in overlays
