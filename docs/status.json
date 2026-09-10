@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T05:28:13Z",
+  "updatedAt": "2026-09-10T05:38:33Z",
   "ok": true,
   "warning": null,
   "channels": [],
@@ -44,5 +44,31 @@
         "alreadyRegistered": false
       }
     ]
+  },
+  "historySummary": {
+    "updatedAt": "2026-09-10T05:38:33Z",
+    "totals": {
+      "today": {
+        "totalMinutes": 0.0,
+        "gameMinutes": 0.0,
+        "totalHours": 0.0,
+        "gameHours": 0.0,
+        "sessions": 0
+      },
+      "week": {
+        "totalMinutes": 0.0,
+        "gameMinutes": 0.0,
+        "totalHours": 0.0,
+        "gameHours": 0.0,
+        "sessions": 0
+      },
+      "month": {
+        "totalMinutes": 0.0,
+        "gameMinutes": 0.0,
+        "totalHours": 0.0,
+        "gameHours": 0.0,
+        "sessions": 0
+      }
+    }
   }
 }
