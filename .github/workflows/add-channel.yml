@@ -1,16 +1,28 @@
-name: 채널 등록 요청 처리
+name: 채널 등록/삭제 요청 즉시 처리
 
+# 이슈가 열리면 바로 처리합니다(라벨에 의존하지 않고 제목 접두사로 판단).
+# 혹시 이 이벤트를 놓쳐도 "스트리머 트래킹" 워크플로가 매 사이클 열린 요청을
+# 다시 훑어서 처리하므로, 요청이 영구히 방치되지는 않습니다.
 on:
   issues:
-    types: [opened, reopened]
+    types: [opened, reopened, edited]
+  workflow_dispatch:
+    inputs:
+      issue:
+        description: "특정 이슈 번호만 처리 (비우면 열린 요청 전부)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
   issues: write
 
+concurrency:
+  group: channel-requests
+  cancel-in-progress: false
+
 jobs:
-  add-channel:
-    if: contains(github.event.issue.labels.*.name, 'add-channel')
+  process:
     runs-on: ubuntu-latest
     steps:
       - name: 저장소 체크아웃
@@ -24,42 +36,29 @@ jobs:
       - name: 의존성 설치
         run: pip install -r requirements.txt
 
-      - name: 이슈 본문 저장
+      - name: 요청 처리
+        id: process
         env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-        run: printf '%s' "$ISSUE_BODY" > /tmp/issue_body.txt
-
-      - name: 채널 정보 확인 및 등록
-        id: resolve
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number || inputs.issue }}
         run: |
-          python scripts/resolve_channel.py \
-            --issue-body-file /tmp/issue_body.txt \
-            --github-output "$GITHUB_OUTPUT"
+          if [ -n "$ISSUE_NUMBER" ]; then
+            python scripts/process_requests.py --issue "$ISSUE_NUMBER"
+          else
+            python scripts/process_requests.py
+          fi
 
       - name: 변경사항 커밋
-        if: steps.resolve.outputs.success == 'true'
+        if: steps.process.outputs.changed == 'true'
         run: |
           git config user.name "streamer-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/channels.json
-          git commit -m "chore: 채널 등록 - ${{ steps.resolve.outputs.channel_name }} [skip ci]"
-          git push
-
-      - name: 등록 완료 코멘트 및 이슈 닫기
-        if: steps.resolve.outputs.success == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh issue comment "${{ github.event.issue.number }}" --body "✅ ${{ steps.resolve.outputs.message }}
-
-          다음 트래킹 사이클(최대 5~10분 이내)부터 페이지에 나타납니다."
-          gh issue close "${{ github.event.issue.number }}"
-
-      - name: 실패 안내 코멘트
-        if: steps.resolve.outputs.success != 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh issue comment "${{ github.event.issue.number }}" --body "⚠️ ${{ steps.resolve.outputs.message }}
-
-          채널 URL/핸들을 다시 확인해서 이 이슈 내용을 수정해주세요. 수정 후 다시 실행하려면 이슈를 닫았다가 다시 열어주세요."
+          if git diff --cached --quiet; then
+            echo "변경 없음, 커밋 생략"
+          else
+            git commit -m "chore: 채널 목록 업데이트 (요청 처리) [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi

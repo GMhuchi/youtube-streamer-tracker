@@ -1,16 +1,25 @@
-name: 채널 삭제 요청 처리
+name: 요청 전체 다시 훑기 (수동)
 
+# 이 워크플로는 "수동 실행 전용" 백필 도구입니다.
+# 등록/삭제 요청의 실제 처리는
+#   - .github/workflows/add-channel.yml  (이슈가 열리면 즉시)
+#   - .github/workflows/track.yml        (매 확인 주기에 스윕)
+# 두 곳에서 하고, 이 파일은 "지금 당장 밀린 요청을 전부 처리해줘"가 필요할 때
+# Actions 탭에서 버튼으로 한 번 돌리는 용도입니다.
+# (이슈 이벤트로는 절대 실행되지 않으므로 중복 처리 걱정이 없습니다.)
 on:
-  issues:
-    types: [opened, reopened]
+  workflow_dispatch: {}
 
 permissions:
   contents: write
   issues: write
 
+concurrency:
+  group: channel-requests
+  cancel-in-progress: false
+
 jobs:
-  remove-channel:
-    if: contains(github.event.issue.labels.*.name, 'remove-channel')
+  backfill:
     runs-on: ubuntu-latest
     steps:
       - name: 저장소 체크아웃
@@ -24,42 +33,23 @@ jobs:
       - name: 의존성 설치
         run: pip install -r requirements.txt
 
-      - name: 이슈 본문 저장
+      - name: 열린 요청 전부 처리
+        id: process
         env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-        run: printf '%s' "$ISSUE_BODY" > /tmp/issue_body.txt
-
-      - name: 채널 삭제
-        id: remove
-        run: |
-          python scripts/remove_channel.py \
-            --issue-body-file /tmp/issue_body.txt \
-            --github-output "$GITHUB_OUTPUT"
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/process_requests.py
 
       - name: 변경사항 커밋
-        if: steps.remove.outputs.success == 'true'
+        if: steps.process.outputs.changed == 'true'
         run: |
           git config user.name "streamer-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/channels.json
-          git commit -m "chore: 채널 삭제 - ${{ steps.remove.outputs.channel_name }} [skip ci]"
-          git push
-
-      - name: 삭제 완료 코멘트 및 이슈 닫기
-        if: steps.remove.outputs.success == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh issue comment "${{ github.event.issue.number }}" --body "✅ ${{ steps.remove.outputs.message }}
-
-          다음 트래킹 사이클(최대 5~10분 이내)부터 목록에서 사라집니다."
-          gh issue close "${{ github.event.issue.number }}"
-
-      - name: 실패 안내 코멘트
-        if: steps.remove.outputs.success != 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh issue comment "${{ github.event.issue.number }}" --body "⚠️ ${{ steps.remove.outputs.message }}
-
-          사이트에 표시된 채널 이름을 정확히 복사해서 이 이슈 내용을 수정해주세요. 수정 후 다시 실행하려면 이슈를 닫았다가 다시 열어주세요."
+          if git diff --cached --quiet; then
+            echo "변경 없음, 커밋 생략"
+          else
+            git commit -m "chore: 채널 목록 업데이트 (백필) [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi
