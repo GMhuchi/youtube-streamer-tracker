@@ -51,5 +51,8 @@ jobs:
             echo "변경 없음, 커밋 생략"
           else
             git commit -m "chore: 트래킹 결과 업데이트 [skip ci]"
-            git push
+            # 확인하는 사이에 다른 커밋(요청 처리 등)이 올라와 있으면 push가 거부되므로
+            # 먼저 원격 변경을 받아 합친 뒤 밀어넣는다. 그래도 실패하면 한 번 더 시도.
+            git pull --rebase --autostash || true
+            git push || (sleep 5 && git pull --rebase --autostash && git push)
           fi
