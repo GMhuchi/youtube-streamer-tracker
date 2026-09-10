@@ -99,21 +99,23 @@ def check_registered_channels(
             results.append(entry)
             continue
 
-        # 최근 업로드(폴백 정보) - RSS는 실패해도 치명적이지 않음.
-        # 채널 수가 많으면 매 사이클 확인하지 않고 이전 결과를 재사용한다.
+        # 최근 업로드(폴백 정보). RSS는 어디까지나 부가 정보라서:
+        #  - 채널 수가 많으면 매 사이클 확인하지 않고(요청 수 절감) 이전 결과를 재사용하고,
+        #  - 실패해도 사이트 상단 경고에는 띄우지 않고 실행 로그에만 남긴다.
+        #    (유튜브가 이 피드를 막거나 채널에 공개 업로드가 없으면 404가 나는데,
+        #     라이브 확인은 정상 동작하므로 사용자에게 경고할 일이 아니다.)
         prev = prev_by_id.get(channel_id) or {}
-        if check_rss or not prev.get("latestVideoTitle"):
+        entry["latestVideoTitle"] = prev.get("latestVideoTitle")
+        entry["latestVideoAt"] = prev.get("latestVideoAt")
+        if check_rss:
             try:
                 rss_entries = fetch_channel_rss(channel_id, session=session)
                 if rss_entries:
                     entry["latestVideoTitle"] = rss_entries[0].get("title")
                     entry["latestVideoAt"] = rss_entries[0].get("publishedAt")
             except (FetchError, ParseError) as e:
-                warnings.append(f"[{name}] RSS 확인 실패: {e}")
+                print(f"[{name}] RSS 확인 실패(부가 정보라 무시): {e}")
             polite_sleep(0.3)
-        else:
-            entry["latestVideoTitle"] = prev.get("latestVideoTitle")
-            entry["latestVideoAt"] = prev.get("latestVideoAt")
 
         # 실시간 방송 여부 - 핵심 체크
         try:
