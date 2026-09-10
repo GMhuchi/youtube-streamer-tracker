@@ -6,8 +6,16 @@ body:
   - type: markdown
     attributes:
       value: |
-        등록하면 몇 분 안에 자동으로 처리되어 이슈가 닫히고,
-        다음 확인 주기부터 트래킹 목록에 나타납니다.
+        아래 두 칸만 채우고 제출하면 끝입니다. (제목은 이미 채워져 있으니 그대로 두세요.)
+        몇 분 안에 자동으로 처리되어 이슈가 닫히고, 다음 확인 주기부터 목록에 나타납니다.
+  - type: input
+    id: display_name
+    attributes:
+      label: 표시 이름
+      description: "사이트와 삭제 목록에 표시될 이름입니다. 비워두면 유튜브 채널명을 그대로 씁니다."
+      placeholder: "홍길동"
+    validations:
+      required: false
   - type: input
     id: channel_url
     attributes:
@@ -16,11 +24,3 @@ body:
       placeholder: "https://www.youtube.com/@example"
     validations:
       required: true
-  - type: input
-    id: display_name
-    attributes:
-      label: "표시 이름 (선택)"
-      description: 비워두면 유튜브 채널명을 그대로 사용합니다.
-      placeholder: "홍길동"
-    validations:
-      required: false
