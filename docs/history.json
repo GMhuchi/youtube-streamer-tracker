@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:49:10Z",
+  "updatedAt": "2026-09-11T10:59:42Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2461.4,
-      "gameMinutes": 1894.4,
-      "totalHours": 41.02,
-      "gameHours": 31.57,
-      "sessions": 13,
+      "totalMinutes": 2461.5,
+      "gameMinutes": 1894.5,
+      "totalHours": 41.03,
+      "gameHours": 31.58,
+      "sessions": 24,
       "avgViewers": 100.9,
       "peakViewers": 796
     },
     "week": {
-      "totalMinutes": 2461.4,
-      "gameMinutes": 1894.4,
-      "totalHours": 41.02,
-      "gameHours": 31.57,
-      "sessions": 13,
+      "totalMinutes": 2461.5,
+      "gameMinutes": 1894.5,
+      "totalHours": 41.03,
+      "gameHours": 31.58,
+      "sessions": 24,
       "avgViewers": 100.9,
       "peakViewers": 796
     },
     "month": {
-      "totalMinutes": 2461.4,
-      "gameMinutes": 1894.4,
-      "totalHours": 41.02,
-      "gameHours": 31.57,
-      "sessions": 13,
+      "totalMinutes": 2461.5,
+      "gameMinutes": 1894.5,
+      "totalHours": 41.03,
+      "gameHours": 31.58,
+      "sessions": 24,
       "avgViewers": 100.9,
       "peakViewers": 796
     }
@@ -49,9 +49,9 @@
       "name": "서토리 라이브 저장소!",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEdlID7vgnILT3NR-ifyjPg",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "이터널리턴 2026년 9월 11일 1부",
       "lastEnd": "2026-09-11T10:49:10Z",
       "lastTitle": "이터널리턴 2026년 9월 11일 1부",
       "buckets": {
@@ -60,7 +60,7 @@
           "gameMinutes": 374.2,
           "totalHours": 6.24,
           "gameHours": 6.24,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 3.1,
           "peakViewers": 6
         },
@@ -69,7 +69,7 @@
           "gameMinutes": 374.2,
           "totalHours": 6.24,
           "gameHours": 6.24,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 3.1,
           "peakViewers": 6
         },
@@ -78,7 +78,7 @@
           "gameMinutes": 374.2,
           "totalHours": 6.24,
           "gameHours": 6.24,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 3.1,
           "peakViewers": 6
         }
@@ -194,7 +194,720 @@
           ],
           "isTargetGame": true
         }
-      ]
+      ],
+      "liveViewers": 2,
+      "livePeakViewers": 2,
+      "liveAvgViewers": 2.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          2
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=wmJerM_yCJc"
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC1_HUmjQShLtT_MuZjry3hQ",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
+      "lastEnd": "2026-09-11T10:49:10Z",
+      "lastTitle": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 266.0,
+          "gameMinutes": 266.0,
+          "totalHours": 4.43,
+          "gameHours": 4.43,
+          "sessions": 2,
+          "avgViewers": 46.9,
+          "peakViewers": 61
+        },
+        "week": {
+          "totalMinutes": 266.0,
+          "gameMinutes": 266.0,
+          "totalHours": 4.43,
+          "gameHours": 4.43,
+          "sessions": 2,
+          "avgViewers": 46.9,
+          "peakViewers": 61
+        },
+        "month": {
+          "totalMinutes": 266.0,
+          "gameMinutes": 266.0,
+          "totalHours": 4.43,
+          "gameHours": 4.43,
+          "sessions": 2,
+          "avgViewers": 46.9,
+          "peakViewers": 61
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "6BM6ZkBV6Fk",
+          "videoUrl": "https://www.youtube.com/watch?v=6BM6ZkBV6Fk",
+          "start": "2026-09-11T06:23:09Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 266.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 61,
+          "avgViewers": 46.9,
+          "samples": [
+            [
+              "2026-09-11T06:23:09Z",
+              28
+            ],
+            [
+              "2026-09-11T06:44:27Z",
+              47
+            ],
+            [
+              "2026-09-11T06:59:21Z",
+              51
+            ],
+            [
+              "2026-09-11T07:18:56Z",
+              49
+            ],
+            [
+              "2026-09-11T07:34:07Z",
+              58
+            ],
+            [
+              "2026-09-11T07:49:38Z",
+              57
+            ],
+            [
+              "2026-09-11T08:00:26Z",
+              50
+            ],
+            [
+              "2026-09-11T08:24:12Z",
+              61
+            ],
+            [
+              "2026-09-11T08:42:31Z",
+              55
+            ],
+            [
+              "2026-09-11T08:57:40Z",
+              58
+            ],
+            [
+              "2026-09-11T09:16:26Z",
+              52
+            ],
+            [
+              "2026-09-11T09:32:43Z",
+              40
+            ],
+            [
+              "2026-09-11T09:49:33Z",
+              36
+            ],
+            [
+              "2026-09-11T10:00:03Z",
+              36
+            ],
+            [
+              "2026-09-11T10:19:41Z",
+              34
+            ],
+            [
+              "2026-09-11T10:35:04Z",
+              42
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 47,
+      "livePeakViewers": 47,
+      "liveAvgViewers": 47.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          47
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=6BM6ZkBV6Fk"
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCE4W22kKQQVdrA2KTiyZ_cA",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【エターナルリターン】カスタム！アビゲイルちゃん気になります✨【 #無原唱レコード / #メーメントヴァニタス 】",
+      "lastEnd": "2026-09-11T10:49:10Z",
+      "lastTitle": "【エターナルリターン】カスタム！アビゲイルちゃん気になります✨【 #無原唱レコード / #メーメントヴァニタス 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 92.7,
+          "gameMinutes": 92.7,
+          "totalHours": 1.55,
+          "gameHours": 1.55,
+          "sessions": 2,
+          "avgViewers": 259.2,
+          "peakViewers": 294
+        },
+        "week": {
+          "totalMinutes": 92.7,
+          "gameMinutes": 92.7,
+          "totalHours": 1.55,
+          "gameHours": 1.55,
+          "sessions": 2,
+          "avgViewers": 259.2,
+          "peakViewers": 294
+        },
+        "month": {
+          "totalMinutes": 92.7,
+          "gameMinutes": 92.7,
+          "totalHours": 1.55,
+          "gameHours": 1.55,
+          "sessions": 2,
+          "avgViewers": 259.2,
+          "peakViewers": 294
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "LlYd5JX95P8",
+          "videoUrl": "https://www.youtube.com/watch?v=LlYd5JX95P8",
+          "start": "2026-09-11T09:16:26Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 92.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】カスタム！アビゲイルちゃん気になります✨【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": 294,
+          "avgViewers": 259.2,
+          "samples": [
+            [
+              "2026-09-11T09:16:26Z",
+              219
+            ],
+            [
+              "2026-09-11T09:32:43Z",
+              237
+            ],
+            [
+              "2026-09-11T09:49:33Z",
+              270
+            ],
+            [
+              "2026-09-11T10:00:03Z",
+              281
+            ],
+            [
+              "2026-09-11T10:19:41Z",
+              255
+            ],
+            [
+              "2026-09-11T10:35:04Z",
+              294
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 291,
+      "livePeakViewers": 291,
+      "liveAvgViewers": 291.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          291
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=LlYd5JX95P8"
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
+      "lastEnd": "2026-09-11T10:49:10Z",
+      "lastTitle": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
+      "buckets": {
+        "today": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": 6.5,
+          "peakViewers": 8
+        },
+        "week": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": 6.5,
+          "peakViewers": 8
+        },
+        "month": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": 6.5,
+          "peakViewers": 8
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "oMpDuXO3Oto",
+          "videoUrl": "https://www.youtube.com/watch?v=oMpDuXO3Oto",
+          "start": "2026-09-11T10:19:41Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 29.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 6.5,
+          "samples": [
+            [
+              "2026-09-11T10:19:41Z",
+              5
+            ],
+            [
+              "2026-09-11T10:35:04Z",
+              8
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 6,
+      "livePeakViewers": 6,
+      "liveAvgViewers": 6.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          6
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=oMpDuXO3Oto"
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+      "lastEnd": "2026-09-11T10:49:10Z",
+      "lastTitle": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+      "buckets": {
+        "today": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": 24.5,
+          "peakViewers": 32
+        },
+        "week": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": 24.5,
+          "peakViewers": 32
+        },
+        "month": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": 24.5,
+          "peakViewers": 32
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "US2TCIQDrWQ",
+          "videoUrl": "https://www.youtube.com/watch?v=US2TCIQDrWQ",
+          "start": "2026-09-11T10:19:41Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 29.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+          "game": null,
+          "peakViewers": 27,
+          "avgViewers": 24.5,
+          "samples": [
+            [
+              "2026-09-11T10:19:41Z",
+              22
+            ],
+            [
+              "2026-09-11T10:35:04Z",
+              27
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 32,
+      "livePeakViewers": 32,
+      "liveAvgViewers": 32.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          32
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=US2TCIQDrWQ"
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
+      "lastEnd": "2026-09-11T10:49:10Z",
+      "lastTitle": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
+      "buckets": {
+        "today": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 29.5,
+          "gameMinutes": 29.5,
+          "totalHours": 0.49,
+          "gameHours": 0.49,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "qzAvYJlHzXE",
+          "videoUrl": "https://www.youtube.com/watch?v=qzAvYJlHzXE",
+          "start": "2026-09-11T10:19:41Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 29.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=qzAvYJlHzXE"
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【エターナルリターン】スクリム1日目！ガーネットで行く【#七乃羽すず┆すずみあ】",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 15.0,
+          "peakViewers": 15
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 15.0,
+          "peakViewers": 15
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 15.0,
+          "peakViewers": 15
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 15,
+      "livePeakViewers": 15,
+      "liveAvgViewers": 15.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          15
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=bZsD8__j58g"
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【エターナルリターン スクリム 】輝七瀬、瀬尾カザリ、十神仁 三人初集結！！！チーム4280円【十神仁/ YUMENOS】",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 9.0,
+          "peakViewers": 9
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 9.0,
+          "peakViewers": 9
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 9.0,
+          "peakViewers": 9
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 9,
+      "livePeakViewers": 9,
+      "liveAvgViewers": 9.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          9
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=LtoEGsT8Cb4"
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【エターナルリターン】来週の大会に向けて！エタリタスクリム！！【望月ほぐの/ゆにれいど！】",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 63.0,
+          "peakViewers": 63
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 63.0,
+          "peakViewers": 63
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 63.0,
+          "peakViewers": 63
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 63,
+      "livePeakViewers": 63,
+      "liveAvgViewers": 63.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          63
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=kY7gyGuDAwk"
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【Eternal Return】# あほぐみ でスクリム参戦！がんばる！【甘音あむ / ネオポルテ】",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 26.0,
+          "peakViewers": 26
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 26.0,
+          "peakViewers": 26
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 26.0,
+          "peakViewers": 26
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 26,
+      "livePeakViewers": 26,
+      "liveAvgViewers": 26.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          26
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=UatqoxucVJc"
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
+      "isLive": true,
+      "liveSince": "2026-09-11T10:59:42Z",
+      "liveTitle": "【 DOMINEX〜Eternal Return〜】チーム4280円エタリタスクリム w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION】",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 2.0,
+          "peakViewers": 2
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 2.0,
+          "peakViewers": 2
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 2.0,
+          "peakViewers": 2
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 2,
+      "livePeakViewers": 2,
+      "liveAvgViewers": 2.0,
+      "liveSamples": [
+        [
+          "2026-09-11T10:59:42Z",
+          2
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=YXDva-B_IJQ"
     },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
@@ -648,130 +1361,6 @@
       ]
     },
     {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC1_HUmjQShLtT_MuZjry3hQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T10:49:10Z",
-      "lastTitle": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 266.0,
-          "gameMinutes": 266.0,
-          "totalHours": 4.43,
-          "gameHours": 4.43,
-          "sessions": 1,
-          "avgViewers": 46.9,
-          "peakViewers": 61
-        },
-        "week": {
-          "totalMinutes": 266.0,
-          "gameMinutes": 266.0,
-          "totalHours": 4.43,
-          "gameHours": 4.43,
-          "sessions": 1,
-          "avgViewers": 46.9,
-          "peakViewers": 61
-        },
-        "month": {
-          "totalMinutes": 266.0,
-          "gameMinutes": 266.0,
-          "totalHours": 4.43,
-          "gameHours": 4.43,
-          "sessions": 1,
-          "avgViewers": 46.9,
-          "peakViewers": 61
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "6BM6ZkBV6Fk",
-          "videoUrl": "https://www.youtube.com/watch?v=6BM6ZkBV6Fk",
-          "start": "2026-09-11T06:23:09Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 266.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 61,
-          "avgViewers": 46.9,
-          "samples": [
-            [
-              "2026-09-11T06:23:09Z",
-              28
-            ],
-            [
-              "2026-09-11T06:44:27Z",
-              47
-            ],
-            [
-              "2026-09-11T06:59:21Z",
-              51
-            ],
-            [
-              "2026-09-11T07:18:56Z",
-              49
-            ],
-            [
-              "2026-09-11T07:34:07Z",
-              58
-            ],
-            [
-              "2026-09-11T07:49:38Z",
-              57
-            ],
-            [
-              "2026-09-11T08:00:26Z",
-              50
-            ],
-            [
-              "2026-09-11T08:24:12Z",
-              61
-            ],
-            [
-              "2026-09-11T08:42:31Z",
-              55
-            ],
-            [
-              "2026-09-11T08:57:40Z",
-              58
-            ],
-            [
-              "2026-09-11T09:16:26Z",
-              52
-            ],
-            [
-              "2026-09-11T09:32:43Z",
-              40
-            ],
-            [
-              "2026-09-11T09:49:33Z",
-              36
-            ],
-            [
-              "2026-09-11T10:00:03Z",
-              36
-            ],
-            [
-              "2026-09-11T10:19:41Z",
-              34
-            ],
-            [
-              "2026-09-11T10:35:04Z",
-              42
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
       "name": "愁子",
       "registered": true,
@@ -1072,285 +1661,6 @@
       ]
     },
     {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCE4W22kKQQVdrA2KTiyZ_cA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T10:49:10Z",
-      "lastTitle": "【エターナルリターン】カスタム！アビゲイルちゃん気になります✨【 #無原唱レコード / #メーメントヴァニタス 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 92.7,
-          "gameMinutes": 92.7,
-          "totalHours": 1.55,
-          "gameHours": 1.55,
-          "sessions": 1,
-          "avgViewers": 259.2,
-          "peakViewers": 294
-        },
-        "week": {
-          "totalMinutes": 92.7,
-          "gameMinutes": 92.7,
-          "totalHours": 1.55,
-          "gameHours": 1.55,
-          "sessions": 1,
-          "avgViewers": 259.2,
-          "peakViewers": 294
-        },
-        "month": {
-          "totalMinutes": 92.7,
-          "gameMinutes": 92.7,
-          "totalHours": 1.55,
-          "gameHours": 1.55,
-          "sessions": 1,
-          "avgViewers": 259.2,
-          "peakViewers": 294
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "LlYd5JX95P8",
-          "videoUrl": "https://www.youtube.com/watch?v=LlYd5JX95P8",
-          "start": "2026-09-11T09:16:26Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 92.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】カスタム！アビゲイルちゃん気になります✨【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": 294,
-          "avgViewers": 259.2,
-          "samples": [
-            [
-              "2026-09-11T09:16:26Z",
-              219
-            ],
-            [
-              "2026-09-11T09:32:43Z",
-              237
-            ],
-            [
-              "2026-09-11T09:49:33Z",
-              270
-            ],
-            [
-              "2026-09-11T10:00:03Z",
-              281
-            ],
-            [
-              "2026-09-11T10:19:41Z",
-              255
-            ],
-            [
-              "2026-09-11T10:35:04Z",
-              294
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T10:49:10Z",
-      "lastTitle": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
-      "buckets": {
-        "today": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": 6.5,
-          "peakViewers": 8
-        },
-        "week": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": 6.5,
-          "peakViewers": 8
-        },
-        "month": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": 6.5,
-          "peakViewers": 8
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "oMpDuXO3Oto",
-          "videoUrl": "https://www.youtube.com/watch?v=oMpDuXO3Oto",
-          "start": "2026-09-11T10:19:41Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 29.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 6.5,
-          "samples": [
-            [
-              "2026-09-11T10:19:41Z",
-              5
-            ],
-            [
-              "2026-09-11T10:35:04Z",
-              8
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T10:49:10Z",
-      "lastTitle": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-      "buckets": {
-        "today": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": 24.5,
-          "peakViewers": 27
-        },
-        "week": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": 24.5,
-          "peakViewers": 27
-        },
-        "month": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": 24.5,
-          "peakViewers": 27
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "US2TCIQDrWQ",
-          "videoUrl": "https://www.youtube.com/watch?v=US2TCIQDrWQ",
-          "start": "2026-09-11T10:19:41Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 29.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-          "game": null,
-          "peakViewers": 27,
-          "avgViewers": 24.5,
-          "samples": [
-            [
-              "2026-09-11T10:19:41Z",
-              22
-            ],
-            [
-              "2026-09-11T10:35:04Z",
-              27
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T10:49:10Z",
-      "lastTitle": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
-      "buckets": {
-        "today": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 29.5,
-          "gameMinutes": 29.5,
-          "totalHours": 0.49,
-          "gameHours": 0.49,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "qzAvYJlHzXE",
-          "videoUrl": "https://www.youtube.com/watch?v=qzAvYJlHzXE",
-          "start": "2026-09-11T10:19:41Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 29.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
       "channelId": "UC9TRoZsnlaE3b2CGxcgSJLA",
       "name": "NoneLifeZz",
       "registered": true,
@@ -1433,133 +1743,10 @@
       "recentSessions": []
     },
     {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": []
-    },
-    {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": []
-    },
-    {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": []
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
       "isLive": false,
       "liveSince": null,
       "liveTitle": null,
@@ -1720,47 +1907,6 @@
       "recentSessions": []
     },
     {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": []
-    },
-    {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
       "name": "綾見ユラ",
       "registered": true,
@@ -1806,47 +1952,6 @@
       "name": "赤彩みあ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": []
-    },
-    {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
       "isLive": false,
       "liveSince": null,
       "liveTitle": null,
