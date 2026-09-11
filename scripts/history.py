@@ -42,6 +42,10 @@ DEFAULT_GAME_KEYWORDS = [
 # 보관 정책: 너무 오래된 기록/과도한 개수는 잘라내 파일이 무한히 커지지 않게 한다.
 MAX_SESSION_AGE_DAYS = 400
 MAX_SESSIONS = 5000
+# 한 방송의 시청자수 표본 개수 상한 (10분 간격이면 300개 = 50시간)
+MAX_SAMPLES_PER_SESSION = 300
+# 이 기간이 지난 방송은 추이 그래프용 표본을 버리고 평균/최고값만 남긴다
+SAMPLE_RETENTION_DAYS = 45
 
 
 def parse_iso(value: Optional[str]) -> Optional[dt.datetime]:
@@ -84,6 +88,52 @@ def is_target_game(title: Optional[str], game: Optional[str], keywords: Iterable
 
 def empty_history() -> dict:
     return {"version": 1, "open": {}, "sessions": []}
+
+
+def average_viewers(samples) -> Optional[float]:
+    """시청자수 표본들의 평균. 표본 간격이 고르지 않을 수 있어 '시간 가중' 평균을 쓴다.
+
+    (마지막 표본은 그 앞 간격의 평균 간격만큼 지속된 것으로 본다.)
+    표본이 없으면 None, 1개뿐이면 그 값.
+    """
+    points = []
+    for item in samples or []:
+        if not isinstance(item, (list, tuple)) or len(item) < 2:
+            continue
+        t = parse_iso(item[0])
+        v = item[1]
+        if t is None or v is None:
+            continue
+        try:
+            points.append((t, float(v)))
+        except (TypeError, ValueError):
+            continue
+
+    if not points:
+        return None
+    if len(points) == 1:
+        return round(points[0][1], 1)
+
+    points.sort(key=lambda p: p[0])
+    total_weight = 0.0
+    total_value = 0.0
+    for i, (t, v) in enumerate(points):
+        if i < len(points) - 1:
+            weight = (points[i + 1][0] - t).total_seconds()
+        else:
+            # 마지막 표본: 평균 간격만큼 지속되었다고 본다
+            spans = [
+                (points[j + 1][0] - points[j][0]).total_seconds() for j in range(len(points) - 1)
+            ]
+            weight = sum(spans) / len(spans) if spans else 0.0
+        if weight <= 0:
+            weight = 1.0
+        total_weight += weight
+        total_value += v * weight
+
+    if total_weight <= 0:
+        return round(sum(v for _, v in points) / len(points), 1)
+    return round(total_value / total_weight, 1)
 
 
 def update_channel(
@@ -139,6 +189,8 @@ def update_channel(
                 "isTargetGame": is_target_game(title, game, kws),
                 "firstSeenAt": to_iso(now),
                 "lastSeenAt": to_iso(now),
+                # 시청자수 추이: [관측시각, 시청자수] 쌍을 확인 주기마다 쌓는다
+                "samples": [[to_iso(now), viewers]] if viewers is not None else [],
             }
             open_map[channel_id] = current
             return closed
@@ -158,6 +210,11 @@ def update_channel(
         if viewers is not None:
             prev_peak = current.get("peakViewers")
             current["peakViewers"] = viewers if prev_peak is None else max(prev_peak, viewers)
+            samples = current.setdefault("samples", [])
+            samples.append([to_iso(now), viewers])
+            if len(samples) > MAX_SAMPLES_PER_SESSION:
+                # 너무 길어지면 간격을 두 배로 줄여(격번 삭제) 추이 모양은 유지한다
+                current["samples"] = samples[::2]
         # 방송 중 제목이 바뀌어 게임이 확인되는 경우가 있어 매번 다시 판정한다
         if is_target_game(current.get("title"), current.get("game"), kws):
             current["isTargetGame"] = True
@@ -183,6 +240,7 @@ def _close_session(
 
     end = fallback_end or now
     end_source = "observed"
+    start_override = None
     video_id = current.get("videoId")
     if end_lookup and video_id:
         try:
@@ -194,15 +252,22 @@ def _close_session(
             if yt_end:
                 end = yt_end
                 end_source = "youtube"
+            # 방송이 끝나야 유튜브가 정확한 시작 시각도 함께 알려준다.
+            # 진행 중에는 못 받는 경우가 많아서, 여기서 관측값을 실제값으로 보정한다.
+            yt_start = parse_iso(getattr(details, "start_timestamp", None))
+            if yt_start:
+                start_override = yt_start
             yt_game = getattr(details, "game", None)
             if yt_game and not current.get("game"):
                 current["game"] = yt_game
 
-    start = parse_iso(current.get("start")) or end
+    start = start_override or parse_iso(current.get("start")) or end
+    start_source = "youtube" if start_override else current.get("startSource", "observed")
     if end < start:
         end = start
     minutes = round((end - start).total_seconds() / 60, 1)
 
+    samples = current.get("samples") or []
     session = {
         "channelId": channel_id,
         "name": current.get("name"),
@@ -211,11 +276,13 @@ def _close_session(
         "start": to_iso(start),
         "end": to_iso(end),
         "minutes": minutes,
-        "startSource": current.get("startSource", "observed"),
+        "startSource": start_source,
         "endSource": end_source,
         "title": current.get("title"),
         "game": current.get("game"),
         "peakViewers": current.get("peakViewers"),
+        "avgViewers": average_viewers(samples),
+        "samples": samples,
         "isTargetGame": bool(current.get("isTargetGame")),
     }
     sessions.append(session)
@@ -226,11 +293,17 @@ def _close_session(
 def prune(history: dict, now: dt.datetime) -> dict:
     """오래된 기록을 정리한다 (파일 크기 방어)."""
     cutoff = now - dt.timedelta(days=MAX_SESSION_AGE_DAYS)
+    sample_cutoff = now - dt.timedelta(days=SAMPLE_RETENTION_DAYS)
     sessions = history.get("sessions", []) or []
     kept = []
     for s in sessions:
         end = parse_iso(s.get("end"))
         if end is None or end >= cutoff:
+            # 오래된 방송은 추이 표본을 버리고 평균/최고값만 남긴다
+            if end is not None and end < sample_cutoff and s.get("samples"):
+                if s.get("avgViewers") is None:
+                    s["avgViewers"] = average_viewers(s.get("samples"))
+                s["samples"] = []
             kept.append(s)
     kept.sort(key=lambda s: s.get("start") or "")
     if len(kept) > MAX_SESSIONS:
@@ -254,6 +327,25 @@ def kst_windows(now: dt.datetime) -> dict[str, tuple[dt.datetime, dt.datetime]]:
         "week": (week_start.astimezone(dt.timezone.utc), now),
         "month": (month_start.astimezone(dt.timezone.utc), now),
     }
+
+
+def thin_samples(samples, max_points: int = 60) -> list:
+    """표본이 너무 많으면 일정 간격으로 솎아낸다(추이 모양은 유지, 마지막 점은 보존)."""
+    items = [s for s in (samples or []) if isinstance(s, (list, tuple)) and len(s) >= 2]
+    if len(items) <= max_points:
+        return [list(s) for s in items]
+    step = len(items) / float(max_points)
+    picked = []
+    seen = set()
+    for i in range(max_points):
+        idx = int(i * step)
+        if idx not in seen and idx < len(items):
+            seen.add(idx)
+            picked.append(list(items[idx]))
+    last = len(items) - 1
+    if last not in seen:
+        picked.append(list(items[last]))
+    return picked
 
 
 def _overlap_minutes(start: dt.datetime, end: dt.datetime, w0: dt.datetime, w1: dt.datetime) -> float:
@@ -297,7 +389,18 @@ def aggregate(history: dict, channels: list[dict], now: dt.datetime, keywords: O
             order.append(cid)
 
     def blank_buckets() -> dict:
-        return {k: {"totalMinutes": 0.0, "gameMinutes": 0.0, "sessions": 0} for k in windows}
+        return {
+            k: {
+                "totalMinutes": 0.0,
+                "gameMinutes": 0.0,
+                "sessions": 0,
+                # 시청자수: 방송 길이로 가중평균을 내기 위한 누적값
+                "_viewerWeighted": 0.0,
+                "_viewerMinutes": 0.0,
+                "peakViewers": None,
+            }
+            for k in windows
+        }
 
     per_channel: dict[str, dict] = {
         cid: {
@@ -317,15 +420,23 @@ def aggregate(history: dict, channels: list[dict], now: dt.datetime, keywords: O
     }
     totals = blank_buckets()
 
-    def add(entry_buckets: dict, start: dt.datetime, end: dt.datetime, is_game: bool):
+    def add(entry_buckets: dict, start: dt.datetime, end: dt.datetime, is_game: bool, avg=None, peak=None):
         for key, (w0, w1) in windows.items():
             mins = _overlap_minutes(start, end, w0, w1)
             if mins <= 0:
                 continue
-            entry_buckets[key]["totalMinutes"] += mins
+            bucket = entry_buckets[key]
+            bucket["totalMinutes"] += mins
             if is_game:
-                entry_buckets[key]["gameMinutes"] += mins
-            entry_buckets[key]["sessions"] += 1
+                bucket["gameMinutes"] += mins
+            bucket["sessions"] += 1
+            if avg is not None:
+                # 긴 방송의 평균이 더 크게 반영되도록 방송 길이로 가중한다
+                bucket["_viewerWeighted"] += float(avg) * mins
+                bucket["_viewerMinutes"] += mins
+            if peak is not None:
+                prev = bucket["peakViewers"]
+                bucket["peakViewers"] = peak if prev is None else max(prev, peak)
 
     for s in sessions:
         cid = s.get("channelId")
@@ -336,8 +447,12 @@ def aggregate(history: dict, channels: list[dict], now: dt.datetime, keywords: O
         if not start or not end:
             continue
         is_game = bool(s.get("isTargetGame")) or is_target_game(s.get("title"), s.get("game"), kws)
-        add(per_channel[cid]["buckets"], start, end, is_game)
-        add(totals, start, end, is_game)
+        avg = s.get("avgViewers")
+        if avg is None:
+            avg = average_viewers(s.get("samples"))
+        peak = s.get("peakViewers")
+        add(per_channel[cid]["buckets"], start, end, is_game, avg, peak)
+        add(totals, start, end, is_game, avg, peak)
 
         entry = per_channel[cid]
         if entry["lastEnd"] is None or (s.get("end") or "") > entry["lastEnd"]:
@@ -352,28 +467,54 @@ def aggregate(history: dict, channels: list[dict], now: dt.datetime, keywords: O
         if not start:
             continue
         is_game = bool(cur.get("isTargetGame")) or is_target_game(cur.get("title"), cur.get("game"), kws)
-        add(per_channel[cid]["buckets"], start, now, is_game)
-        add(totals, start, now, is_game)
+        cur_avg = average_viewers(cur.get("samples"))
+        add(per_channel[cid]["buckets"], start, now, is_game, cur_avg, cur.get("peakViewers"))
+        add(totals, start, now, is_game, cur_avg, cur.get("peakViewers"))
+        entry = per_channel[cid]
+        entry["liveViewers"] = (cur.get("samples") or [[None, None]])[-1][1]
+        entry["livePeakViewers"] = cur.get("peakViewers")
+        entry["liveAvgViewers"] = cur_avg
+        entry["liveSamples"] = cur.get("samples") or []
+        entry["liveVideoUrl"] = (
+            f"https://www.youtube.com/watch?v={cur.get('videoId')}" if cur.get("videoId") else None
+        )
 
-    # 채널별 최근 세션 목록(최신 5개)
+    # 채널별 최근 세션 목록(최신 8개).
+    # 추이 그래프용 표본은 페이지가 무거워지지 않게 "최근 방송 3개 + 최근 7일"
+    # 까지만, 그것도 최대 60포인트로 솎아서 싣는다.
+    sample_window_start = now - dt.timedelta(days=7)
     by_channel: dict[str, list[dict]] = {}
     for s in sessions:
         by_channel.setdefault(s.get("channelId"), []).append(s)
     for cid, entry in per_channel.items():
-        recent = sorted(by_channel.get(cid, []), key=lambda x: x.get("start") or "", reverse=True)[:5]
-        entry["recentSessions"] = recent
+        recent = sorted(by_channel.get(cid, []), key=lambda x: x.get("start") or "", reverse=True)[:8]
+        trimmed = []
+        for i, s in enumerate(recent):
+            item = dict(s)
+            end = parse_iso(s.get("end"))
+            keep_samples = i < 3 and end is not None and end >= sample_window_start
+            item["samples"] = thin_samples(s.get("samples"), 60) if keep_samples else []
+            if item.get("avgViewers") is None:
+                item["avgViewers"] = average_viewers(s.get("samples"))
+            trimmed.append(item)
+        entry["recentSessions"] = trimmed
 
     def round_buckets(buckets: dict) -> dict:
-        return {
-            k: {
+        out = {}
+        for k, v in buckets.items():
+            avg = None
+            if v["_viewerMinutes"] > 0:
+                avg = round(v["_viewerWeighted"] / v["_viewerMinutes"], 1)
+            out[k] = {
                 "totalMinutes": round(v["totalMinutes"], 1),
                 "gameMinutes": round(v["gameMinutes"], 1),
                 "totalHours": round(v["totalMinutes"] / 60, 2),
                 "gameHours": round(v["gameMinutes"] / 60, 2),
                 "sessions": v["sessions"],
+                "avgViewers": avg,
+                "peakViewers": v["peakViewers"],
             }
-            for k, v in buckets.items()
-        }
+        return out
 
     channel_list = []
     for cid in order:
@@ -390,7 +531,13 @@ def aggregate(history: dict, channels: list[dict], now: dt.datetime, keywords: O
         )
     )
 
-    all_recent = sorted(sessions, key=lambda s: s.get("start") or "", reverse=True)[:60]
+    # 전체 최근 목록은 표본 없이 요약만 싣는다 (표본은 채널별 상세에서 본다)
+    all_recent = []
+    for s in sorted(sessions, key=lambda s: s.get("start") or "", reverse=True)[:60]:
+        item = {k: v for k, v in s.items() if k != "samples"}
+        if item.get("avgViewers") is None:
+            item["avgViewers"] = average_viewers(s.get("samples"))
+        all_recent.append(item)
 
     return {
         "updatedAt": to_iso(now),

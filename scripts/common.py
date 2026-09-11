@@ -160,40 +160,93 @@ class LiveStatus:
     game: Optional[str] = None
 
 
-def extract_game_title(html: str) -> Optional[str]:
-    """워치 페이지에 게임 방송이면 박혀 있는 "게임 박스아트" 메타데이터에서
-    게임 이름을 뽑아낸다. 없으면 None (게임 방송이 아니거나 구조가 바뀐 경우).
+def _walk_dicts(node, visit):
+    """중첩 dict/list 를 훑으면서 dict 마다 visit(dict) 를 호출한다.
+    visit 이 True 를 돌려주면 즉시 멈춘다."""
+    stack = [node]
+    while stack:
+        cur = stack.pop()
+        if isinstance(cur, dict):
+            if visit(cur):
+                return
+            stack.extend(cur.values())
+        elif isinstance(cur, list):
+            stack.extend(cur)
 
-    유튜브는 게임 스트림 워치 페이지에 richMetadataRenderer(style이
-    RICH_METADATA_RENDERER_STYLE_BOX_ART)로 게임 제목을 넣어준다.
-    구조가 바뀌어도 전체 실행이 죽지 않도록 조용히 None 을 반환한다.
-    """
+
+def extract_game_from_data(data) -> Optional[str]:
+    """게임 방송이면 붙는 "게임 박스아트" 메타데이터에서 게임 이름을 뽑는다."""
+    found: list[str] = []
+
+    def visit(node: dict):
+        rmr = node.get("richMetadataRenderer")
+        if isinstance(rmr, dict) and "BOX_ART" in str(rmr.get("style") or ""):
+            title = dig(rmr, "title", "simpleText") or dig(rmr, "title", "runs", 0, "text")
+            if title:
+                found.append(str(title))
+                return True
+        return False
+
+    _walk_dicts(data, visit)
+    return found[0] if found else None
+
+
+def extract_game_title(html: str) -> Optional[str]:
+    """워치 페이지 HTML 에서 게임 이름을 뽑는다. 없으면 None."""
     try:
         data = extract_json_after_marker(html, "var ytInitialData =")
     except ParseError:
         return None
+    return extract_game_from_data(data)
 
-    found: list[str] = []
 
-    def walk(node):
-        if found:
-            return
-        if isinstance(node, dict):
-            rmr = node.get("richMetadataRenderer")
-            if isinstance(rmr, dict):
-                style = rmr.get("style") or ""
-                if "BOX_ART" in str(style):
-                    title = dig(rmr, "title", "simpleText") or dig(rmr, "title", "runs", 0, "text")
-                    if title:
-                        found.append(str(title))
-                        return
-            for v in node.values():
-                walk(v)
-        elif isinstance(node, list):
-            for v in node:
-                walk(v)
+_DIGITS_RE = re.compile(r"[\d][\d,\.\s]*")
 
-    walk(data)
+
+def _text_to_int(text: Optional[str]) -> Optional[int]:
+    """"현재 1,234명 시청 중" -> 1234. 숫자를 못 찾으면 None."""
+    if not text:
+        return None
+    m = _DIGITS_RE.search(str(text))
+    if not m:
+        return None
+    digits = re.sub(r"[^\d]", "", m.group(0))
+    if not digits:
+        return None
+    try:
+        return int(digits)
+    except ValueError:
+        return None
+
+
+def extract_live_viewers(data) -> Optional[int]:
+    """지금 이 방송을 **동시에** 보고 있는 사람 수를 뽑는다.
+
+    주의: `videoDetails.viewCount` 는 라이브에서도 '누적 조회수'라서 동시
+    시청자수가 아니다. 동시 시청자수는 ytInitialData 의
+    videoViewCountRenderer(isLive=true) 안에 "현재 N명 시청 중" 형태로 들어온다.
+    """
+    found: list[int] = []
+
+    def visit(node: dict):
+        vcr = node.get("videoViewCountRenderer")
+        if isinstance(vcr, dict) and vcr.get("isLive"):
+            text = dig(vcr, "viewCount", "simpleText")
+            if not text:
+                runs = dig(vcr, "viewCount", "runs", default=[]) or []
+                text = "".join(r.get("text", "") for r in runs if isinstance(r, dict))
+            value = _text_to_int(text)
+            if value is None:
+                # 축약형("4", "1.2천")은 정확하지 않을 수 있어 숫자만 있을 때만 쓴다
+                short = dig(vcr, "extraShortViewCount", "simpleText")
+                if short and str(short).strip().replace(",", "").isdigit():
+                    value = _text_to_int(short)
+            if value is not None:
+                found.append(value)
+                return True
+        return False
+
+    _walk_dicts(data, visit)
     return found[0] if found else None
 
 
@@ -233,17 +286,18 @@ def fetch_video_live_details(video_id: str, session: Optional[requests.Session] 
     )
 
 
-def fetch_channel_live_status(channel_id: str, session: Optional[requests.Session] = None) -> LiveStatus:
-    """`/channel/<id>/live` 는 그 채널이 지금 방송 중이면 해당 watch 페이지로,
-    아니면 채널 홈으로 리다이렉트된다. 다만 리다이렉트 여부만으로 판단하지
-    않고, 도착한 페이지에 박힌 ytInitialPlayerResponse.microformat 의
-    liveBroadcastDetails.isLiveNow 값으로 최종 판단한다 (더 신뢰도 높음).
-    """
-    url = f"https://www.youtube.com/channel/{channel_id}/live"
-    html, final_url = get_html(url, session=session)
+def parse_live_status(html: str, final_url: str = "") -> LiveStatus:
+    """`/channel/<id>/live` 로 도착한 페이지 HTML 을 보고 라이브 여부를 판정한다.
 
-    if "/watch" not in final_url:
-        # 라이브 중이 아니면 채널 홈으로 리다이렉트됨
+    ⚠️ 여기가 과거에 한 번도 라이브를 못 잡던 자리다. 원래는
+    `microformat.playerMicroformatRenderer.liveBroadcastDetails.isLiveNow` 를 봤는데,
+    **방송이 진행 중인 페이지에는 microformat 자체가 비어 있는 경우가 많다**
+    (liveBroadcastDetails 는 방송이 끝난 뒤에야 start/end 와 함께 채워진다).
+    그래서 진행 중 여부는 `videoDetails.isLive` 로 판정하고, 보조 신호로
+    `playabilityStatus.liveStreamability` 존재 여부를 함께 본다.
+    """
+    if final_url and "/watch" not in final_url:
+        # 라이브 중이 아니면 채널 홈으로 리다이렉트된다
         return LiveStatus(is_live=False)
 
     try:
@@ -252,26 +306,26 @@ def fetch_channel_live_status(channel_id: str, session: Optional[requests.Sessio
         # 워치 페이지이긴 한데 플레이어 데이터를 못 찾음 -> 보수적으로 오프라인 처리
         return LiveStatus(is_live=False)
 
-    is_live_now = bool(
-        dig(player, "microformat", "playerMicroformatRenderer", "liveBroadcastDetails", "isLiveNow", default=False)
-    )
     video_details = dig(player, "videoDetails", default={}) or {}
     video_id = video_details.get("videoId")
 
-    if not is_live_now:
+    is_live = bool(video_details.get("isLive"))
+    if not is_live and dig(player, "playabilityStatus", "liveStreamability") is not None:
+        is_live = True
+
+    if not is_live:
         return LiveStatus(is_live=False, video_id=video_id)
 
-    viewers_raw = video_details.get("viewCount")
-    viewers = None
-    if viewers_raw is not None:
-        try:
-            viewers = int(viewers_raw)
-        except (TypeError, ValueError):
-            viewers = None
+    try:
+        data = extract_json_after_marker(html, "var ytInitialData =")
+    except ParseError:
+        data = {}
 
     thumbs = dig(video_details, "thumbnail", "thumbnails", default=[]) or []
     thumbnail = thumbs[-1]["url"] if thumbs else None
 
+    # 진행 중에도 가끔 들어있다. 없으면 None -> 관측 시각으로 대체하고,
+    # 방송이 끝난 뒤 fetch_video_live_details 로 정확한 시각을 받아 보정한다.
     started_at = dig(
         player, "microformat", "playerMicroformatRenderer", "liveBroadcastDetails", "startTimestamp", default=None
     )
@@ -282,10 +336,17 @@ def fetch_channel_live_status(channel_id: str, session: Optional[requests.Sessio
         title=video_details.get("title"),
         channel_title=video_details.get("author"),
         thumbnail=thumbnail,
-        viewers=viewers,
+        viewers=extract_live_viewers(data),
         started_at=started_at,
-        game=extract_game_title(html),
+        game=extract_game_from_data(data),
     )
+
+
+def fetch_channel_live_status(channel_id: str, session: Optional[requests.Session] = None) -> LiveStatus:
+    """채널이 지금 라이브 중인지 확인한다 (`/channel/<id>/live` 사용)."""
+    url = f"https://www.youtube.com/channel/{channel_id}/live"
+    html, final_url = get_html(url, session=session)
+    return parse_live_status(html, final_url)
 
 
 # ---------------------------------------------------------------------------
