@@ -295,15 +295,20 @@ def parse_live_status(html: str, final_url: str = "") -> LiveStatus:
     (liveBroadcastDetails 는 방송이 끝난 뒤에야 start/end 와 함께 채워진다).
     그래서 진행 중 여부는 `videoDetails.isLive` 로 판정하고, 보조 신호로
     `playabilityStatus.liveStreamability` 존재 여부를 함께 본다.
+
+    ⚠️ 두 번째 함정: 예전에는 `/channel/<id>/live` 가 `/watch?v=...` 로 리다이렉트되어서
+    "최종 URL 에 /watch 가 없으면 오프라인" 이라고 판정했는데, 지금 유튜브는
+    **리다이렉트 없이 `/live` 주소 그대로 워치 페이지를 내려준다.** 그래서 URL 로
+    거르면 라이브 중인 채널까지 전부 오프라인으로 잘못 판정된다.
+    판정은 오직 플레이어 데이터(`ytInitialPlayerResponse`)로만 한다.
+    라이브가 아니면 채널 홈이 내려오고, 채널 홈에는 플레이어 데이터가 아예 없다.
     """
-    if final_url and "/watch" not in final_url:
-        # 라이브 중이 아니면 채널 홈으로 리다이렉트된다
-        return LiveStatus(is_live=False)
+    del final_url  # URL 로는 판정하지 않는다 (위 설명 참고)
 
     try:
         player = extract_json_after_marker(html, "var ytInitialPlayerResponse =")
     except ParseError:
-        # 워치 페이지이긴 한데 플레이어 데이터를 못 찾음 -> 보수적으로 오프라인 처리
+        # 플레이어 데이터가 없음 = 채널 홈 -> 오프라인
         return LiveStatus(is_live=False)
 
     video_details = dig(player, "videoDetails", default={}) or {}
