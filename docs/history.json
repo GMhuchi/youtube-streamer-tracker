@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T03:34:23Z",
+  "updatedAt": "2026-09-11T03:49:14Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 57.8,
-      "gameMinutes": 57.8,
-      "totalHours": 0.96,
-      "gameHours": 0.96,
-      "sessions": 1,
-      "avgViewers": 5.2,
+      "totalMinutes": 72.6,
+      "gameMinutes": 72.6,
+      "totalHours": 1.21,
+      "gameHours": 1.21,
+      "sessions": 2,
+      "avgViewers": 5.1,
       "peakViewers": 7
     },
     "week": {
-      "totalMinutes": 57.8,
-      "gameMinutes": 57.8,
-      "totalHours": 0.96,
-      "gameHours": 0.96,
-      "sessions": 1,
-      "avgViewers": 5.2,
+      "totalMinutes": 72.6,
+      "gameMinutes": 72.6,
+      "totalHours": 1.21,
+      "gameHours": 1.21,
+      "sessions": 2,
+      "avgViewers": 5.1,
       "peakViewers": 7
     },
     "month": {
-      "totalMinutes": 57.8,
-      "gameMinutes": 57.8,
-      "totalHours": 0.96,
-      "gameHours": 0.96,
-      "sessions": 1,
-      "avgViewers": 5.2,
+      "totalMinutes": 72.6,
+      "gameMinutes": 72.6,
+      "totalHours": 1.21,
+      "gameHours": 1.21,
+      "sessions": 2,
+      "avgViewers": 5.1,
       "peakViewers": 7
     }
   },
@@ -56,37 +56,37 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 57.8,
-          "gameMinutes": 57.8,
-          "totalHours": 0.96,
-          "gameHours": 0.96,
+          "totalMinutes": 72.6,
+          "gameMinutes": 72.6,
+          "totalHours": 1.21,
+          "gameHours": 1.21,
           "sessions": 1,
-          "avgViewers": 5.2,
+          "avgViewers": 5.1,
           "peakViewers": 7
         },
         "week": {
-          "totalMinutes": 57.8,
-          "gameMinutes": 57.8,
-          "totalHours": 0.96,
-          "gameHours": 0.96,
+          "totalMinutes": 72.6,
+          "gameMinutes": 72.6,
+          "totalHours": 1.21,
+          "gameHours": 1.21,
           "sessions": 1,
-          "avgViewers": 5.2,
+          "avgViewers": 5.1,
           "peakViewers": 7
         },
         "month": {
-          "totalMinutes": 57.8,
-          "gameMinutes": 57.8,
-          "totalHours": 0.96,
-          "gameHours": 0.96,
+          "totalMinutes": 72.6,
+          "gameMinutes": 72.6,
+          "totalHours": 1.21,
+          "gameHours": 1.21,
           "sessions": 1,
-          "avgViewers": 5.2,
+          "avgViewers": 5.1,
           "peakViewers": 7
         }
       },
       "recentSessions": [],
-      "liveViewers": 7,
+      "liveViewers": 4,
       "livePeakViewers": 7,
-      "liveAvgViewers": 5.2,
+      "liveAvgViewers": 5.1,
       "liveSamples": [
         [
           "2026-09-11T02:36:36Z",
@@ -111,9 +111,59 @@
         [
           "2026-09-11T03:34:23Z",
           7
+        ],
+        [
+          "2026-09-11T03:49:14Z",
+          4
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=_fgU1wQdOeo"
+    },
+    {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCLfO5ulnws_Z4VttSbwhdvQ",
+      "isLive": true,
+      "liveSince": "2026-09-11T03:49:14Z",
+      "liveTitle": "이터널 리턴)짐승 같은 짐승",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=7QbZ4naGgx4"
     },
     {
       "channelId": "UC9TRoZsnlaE3b2CGxcgSJLA",
@@ -1022,47 +1072,6 @@
       "name": "那和ツムグ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": []
-    },
-    {
-      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-      "name": "덤덤",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCLfO5ulnws_Z4VttSbwhdvQ",
       "isLive": false,
       "liveSince": null,
       "liveTitle": null,
