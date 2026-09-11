@@ -2,91 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCLfO5ulnws_Z4VttSbwhdvQ": {
-      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-      "name": "덤덤",
-      "videoId": "7QbZ4naGgx4",
-      "start": "2026-09-11T03:49:14Z",
-      "startSource": "observed",
-      "title": "이터널 리턴)짐승 같은 짐승",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T03:49:14Z",
-      "lastSeenAt": "2026-09-11T08:00:26Z",
-      "samples": []
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "zFqGv70GMSg",
-      "start": "2026-09-11T04:35:00Z",
-      "startSource": "observed",
-      "title": "エターナルリターン  | ソロで慣れる！ガーネットかわええ #愁子",
-      "game": null,
-      "peakViewers": 51,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T04:35:00Z",
-      "lastSeenAt": "2026-09-11T08:00:26Z",
-      "samples": [
-        [
-          "2026-09-11T04:35:00Z",
-          20
-        ],
-        [
-          "2026-09-11T04:48:48Z",
-          25
-        ],
-        [
-          "2026-09-11T04:59:23Z",
-          25
-        ],
-        [
-          "2026-09-11T05:17:43Z",
-          31
-        ],
-        [
-          "2026-09-11T05:32:43Z",
-          34
-        ],
-        [
-          "2026-09-11T05:48:21Z",
-          37
-        ],
-        [
-          "2026-09-11T05:59:00Z",
-          40
-        ],
-        [
-          "2026-09-11T06:23:09Z",
-          38
-        ],
-        [
-          "2026-09-11T06:44:27Z",
-          38
-        ],
-        [
-          "2026-09-11T06:59:21Z",
-          38
-        ],
-        [
-          "2026-09-11T07:18:56Z",
-          40
-        ],
-        [
-          "2026-09-11T07:34:07Z",
-          50
-        ],
-        [
-          "2026-09-11T07:49:38Z",
-          47
-        ],
-        [
-          "2026-09-11T08:00:26Z",
-          51
-        ]
-      ]
-    },
     "UCEdlID7vgnILT3NR-ifyjPg": {
       "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
       "name": "서토리 라이브 저장소!",
@@ -98,7 +13,7 @@
       "peakViewers": 5,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T04:35:00Z",
-      "lastSeenAt": "2026-09-11T08:00:26Z",
+      "lastSeenAt": "2026-09-11T08:24:12Z",
       "samples": [
         [
           "2026-09-11T04:35:00Z",
@@ -155,6 +70,10 @@
         [
           "2026-09-11T08:00:26Z",
           4
+        ],
+        [
+          "2026-09-11T08:24:12Z",
+          2
         ]
       ]
     },
@@ -169,7 +88,7 @@
       "peakViewers": 796,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T04:48:48Z",
-      "lastSeenAt": "2026-09-11T08:00:26Z",
+      "lastSeenAt": "2026-09-11T08:24:12Z",
       "samples": [
         [
           "2026-09-11T04:48:48Z",
@@ -222,6 +141,10 @@
         [
           "2026-09-11T08:00:26Z",
           467
+        ],
+        [
+          "2026-09-11T08:24:12Z",
+          440
         ]
       ]
     },
@@ -236,7 +159,7 @@
       "peakViewers": 5,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T05:48:21Z",
-      "lastSeenAt": "2026-09-11T08:00:26Z",
+      "lastSeenAt": "2026-09-11T08:24:12Z",
       "samples": [
         [
           "2026-09-11T05:59:00Z",
@@ -269,6 +192,10 @@
         [
           "2026-09-11T08:00:26Z",
           3
+        ],
+        [
+          "2026-09-11T08:24:12Z",
+          1
         ]
       ]
     },
@@ -280,10 +207,10 @@
       "startSource": "observed",
       "title": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
       "game": null,
-      "peakViewers": 58,
+      "peakViewers": 61,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T06:23:09Z",
-      "lastSeenAt": "2026-09-11T08:00:26Z",
+      "lastSeenAt": "2026-09-11T08:24:12Z",
       "samples": [
         [
           "2026-09-11T06:23:09Z",
@@ -312,6 +239,29 @@
         [
           "2026-09-11T08:00:26Z",
           50
+        ],
+        [
+          "2026-09-11T08:24:12Z",
+          61
+        ]
+      ]
+    },
+    "UCElYE3bfzjjmJ9xwjvro9Yw": {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "xjEH-m9gAUA",
+      "start": "2026-09-11T08:24:12Z",
+      "startSource": "observed",
+      "title": "【スト6】俺より強い奴だらけなんですけど？ガイル【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 33,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-11T08:24:12Z",
+      "lastSeenAt": "2026-09-11T08:24:12Z",
+      "samples": [
+        [
+          "2026-09-11T08:24:12Z",
+          33
         ]
       ]
     }
@@ -411,6 +361,97 @@
         [
           "2026-09-11T07:18:56Z",
           4
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "videoId": "7QbZ4naGgx4",
+      "videoUrl": "https://www.youtube.com/watch?v=7QbZ4naGgx4",
+      "start": "2026-09-11T03:49:14Z",
+      "end": "2026-09-11T08:24:12Z",
+      "minutes": 275.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널 리턴)짐승 같은 짐승",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "zFqGv70GMSg",
+      "videoUrl": "https://www.youtube.com/watch?v=zFqGv70GMSg",
+      "start": "2026-09-11T04:35:00Z",
+      "end": "2026-09-11T08:24:12Z",
+      "minutes": 229.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "エターナルリターン  | ソロで慣れる！ガーネットかわええ #愁子",
+      "game": null,
+      "peakViewers": 51,
+      "avgViewers": 36.9,
+      "samples": [
+        [
+          "2026-09-11T04:35:00Z",
+          20
+        ],
+        [
+          "2026-09-11T04:48:48Z",
+          25
+        ],
+        [
+          "2026-09-11T04:59:23Z",
+          25
+        ],
+        [
+          "2026-09-11T05:17:43Z",
+          31
+        ],
+        [
+          "2026-09-11T05:32:43Z",
+          34
+        ],
+        [
+          "2026-09-11T05:48:21Z",
+          37
+        ],
+        [
+          "2026-09-11T05:59:00Z",
+          40
+        ],
+        [
+          "2026-09-11T06:23:09Z",
+          38
+        ],
+        [
+          "2026-09-11T06:44:27Z",
+          38
+        ],
+        [
+          "2026-09-11T06:59:21Z",
+          38
+        ],
+        [
+          "2026-09-11T07:18:56Z",
+          40
+        ],
+        [
+          "2026-09-11T07:34:07Z",
+          50
+        ],
+        [
+          "2026-09-11T07:49:38Z",
+          47
+        ],
+        [
+          "2026-09-11T08:00:26Z",
+          51
         ]
       ],
       "isTargetGame": true
