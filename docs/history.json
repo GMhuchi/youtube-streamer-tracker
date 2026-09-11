@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T21:29:31Z",
+  "updatedAt": "2026-09-11T21:41:56Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 125.3,
       "totalHours": 18.65,
       "gameHours": 2.09,
-      "sessions": 9,
+      "sessions": 10,
       "avgViewers": 134.1,
       "peakViewers": 739
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 4763.2,
       "totalHours": 120.08,
       "gameHours": 79.39,
-      "sessions": 42,
+      "sessions": 43,
       "avgViewers": 94.4,
       "peakViewers": 796
     },
@@ -38,12 +38,118 @@
       "gameMinutes": 4763.2,
       "totalHours": 120.08,
       "gameHours": 79.39,
-      "sessions": 42,
+      "sessions": 43,
       "avgViewers": 94.4,
       "peakViewers": 796
     }
   },
   "channels": [
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "isLive": true,
+      "liveSince": "2026-09-11T21:41:56Z",
+      "liveTitle": "【朝活/雑談】#294［2026.9/12］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "lastEnd": "2026-09-11T13:33:39Z",
+      "lastTitle": "【エターナルリターン】来週の大会に向けて！エタリタスクリム！！【望月ほぐの/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 298.0,
+          "peakViewers": 298
+        },
+        "week": {
+          "totalMinutes": 154.0,
+          "gameMinutes": 153.9,
+          "totalHours": 2.57,
+          "gameHours": 2.57,
+          "sessions": 2,
+          "avgViewers": 157.7,
+          "peakViewers": 298
+        },
+        "month": {
+          "totalMinutes": 154.0,
+          "gameMinutes": 153.9,
+          "totalHours": 2.57,
+          "gameHours": 2.57,
+          "sessions": 2,
+          "avgViewers": 157.7,
+          "peakViewers": 298
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "kY7gyGuDAwk",
+          "videoUrl": "https://www.youtube.com/watch?v=kY7gyGuDAwk",
+          "start": "2026-09-11T10:59:42Z",
+          "end": "2026-09-11T13:33:39Z",
+          "minutes": 154.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】来週の大会に向けて！エタリタスクリム！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 190,
+          "avgViewers": 157.7,
+          "samples": [
+            [
+              "2026-09-11T10:59:42Z",
+              63
+            ],
+            [
+              "2026-09-11T11:18:27Z",
+              150
+            ],
+            [
+              "2026-09-11T11:33:39Z",
+              159
+            ],
+            [
+              "2026-09-11T11:47:19Z",
+              142
+            ],
+            [
+              "2026-09-11T11:57:45Z",
+              178
+            ],
+            [
+              "2026-09-11T12:22:15Z",
+              185
+            ],
+            [
+              "2026-09-11T12:44:23Z",
+              190
+            ],
+            [
+              "2026-09-11T12:58:36Z",
+              175
+            ],
+            [
+              "2026-09-11T13:18:16Z",
+              166
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 298,
+      "livePeakViewers": 298,
+      "liveAvgViewers": 298.0,
+      "liveSamples": [
+        [
+          "2026-09-11T21:41:56Z",
+          298
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=UkzJdtNBniA"
+    },
     {
       "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
       "name": "なつなっつん / natsu_game01",
@@ -3079,102 +3185,6 @@
             [
               "2026-09-11T14:00:11Z",
               373
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T13:33:39Z",
-      "lastTitle": "【エターナルリターン】来週の大会に向けて！エタリタスクリム！！【望月ほぐの/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 153.9,
-          "gameMinutes": 153.9,
-          "totalHours": 2.57,
-          "gameHours": 2.57,
-          "sessions": 1,
-          "avgViewers": 157.7,
-          "peakViewers": 190
-        },
-        "month": {
-          "totalMinutes": 153.9,
-          "gameMinutes": 153.9,
-          "totalHours": 2.57,
-          "gameHours": 2.57,
-          "sessions": 1,
-          "avgViewers": 157.7,
-          "peakViewers": 190
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "kY7gyGuDAwk",
-          "videoUrl": "https://www.youtube.com/watch?v=kY7gyGuDAwk",
-          "start": "2026-09-11T10:59:42Z",
-          "end": "2026-09-11T13:33:39Z",
-          "minutes": 154.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】来週の大会に向けて！エタリタスクリム！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 190,
-          "avgViewers": 157.7,
-          "samples": [
-            [
-              "2026-09-11T10:59:42Z",
-              63
-            ],
-            [
-              "2026-09-11T11:18:27Z",
-              150
-            ],
-            [
-              "2026-09-11T11:33:39Z",
-              159
-            ],
-            [
-              "2026-09-11T11:47:19Z",
-              142
-            ],
-            [
-              "2026-09-11T11:57:45Z",
-              178
-            ],
-            [
-              "2026-09-11T12:22:15Z",
-              185
-            ],
-            [
-              "2026-09-11T12:44:23Z",
-              190
-            ],
-            [
-              "2026-09-11T12:58:36Z",
-              175
-            ],
-            [
-              "2026-09-11T13:18:16Z",
-              166
             ]
           ],
           "isTargetGame": true

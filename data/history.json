@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "UkzJdtNBniA",
+      "start": "2026-09-11T21:41:56Z",
+      "startSource": "observed",
+      "title": "【朝活/雑談】#294［2026.9/12］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 298,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-11T21:41:56Z",
+      "lastSeenAt": "2026-09-11T21:41:56Z",
+      "samples": [
+        [
+          "2026-09-11T21:41:56Z",
+          298
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
