@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC_c3HArzuJYD-gdZ7tAroBw": {
+      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+      "name": "민키",
+      "videoId": "_fgU1wQdOeo",
+      "start": "2026-09-11T02:36:36Z",
+      "startSource": "observed",
+      "title": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
+      "game": null,
+      "peakViewers": 5,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-11T02:36:36Z",
+      "lastSeenAt": "2026-09-11T02:36:36Z",
+      "samples": [
+        [
+          "2026-09-11T02:36:36Z",
+          5
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",

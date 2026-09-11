@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:32:57Z",
+  "updatedAt": "2026-09-11T02:36:36Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,30 +20,81 @@
       "gameMinutes": 0.0,
       "totalHours": 0.0,
       "gameHours": 0.0,
-      "sessions": 0,
-      "avgViewers": null,
-      "peakViewers": null
+      "sessions": 1,
+      "avgViewers": 5.0,
+      "peakViewers": 5
     },
     "week": {
       "totalMinutes": 0.0,
       "gameMinutes": 0.0,
       "totalHours": 0.0,
       "gameHours": 0.0,
-      "sessions": 0,
-      "avgViewers": null,
-      "peakViewers": null
+      "sessions": 1,
+      "avgViewers": 5.0,
+      "peakViewers": 5
     },
     "month": {
       "totalMinutes": 0.0,
       "gameMinutes": 0.0,
       "totalHours": 0.0,
       "gameHours": 0.0,
-      "sessions": 0,
-      "avgViewers": null,
-      "peakViewers": null
+      "sessions": 1,
+      "avgViewers": 5.0,
+      "peakViewers": 5
     }
   },
   "channels": [
+    {
+      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+      "name": "민키",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC_c3HArzuJYD-gdZ7tAroBw",
+      "isLive": true,
+      "liveSince": "2026-09-11T02:36:36Z",
+      "liveTitle": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 5.0,
+          "peakViewers": 5
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 5.0,
+          "peakViewers": 5
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 5.0,
+          "peakViewers": 5
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 5,
+      "livePeakViewers": 5,
+      "liveAvgViewers": 5.0,
+      "liveSamples": [
+        [
+          "2026-09-11T02:36:36Z",
+          5
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=_fgU1wQdOeo"
+    },
     {
       "channelId": "UC9TRoZsnlaE3b2CGxcgSJLA",
       "name": "NoneLifeZz",
@@ -1289,47 +1340,6 @@
       "name": "덤덤",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCLfO5ulnws_Z4VttSbwhdvQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": []
-    },
-    {
-      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-      "name": "민키",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC_c3HArzuJYD-gdZ7tAroBw",
       "isLive": false,
       "liveSince": null,
       "liveTitle": null,
