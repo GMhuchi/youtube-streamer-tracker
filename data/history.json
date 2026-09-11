@@ -2,116 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "UatqoxucVJc",
-      "start": "2026-09-11T10:59:42Z",
-      "startSource": "observed",
-      "title": "【Eternal Return】# あほぐみ でスクリム参戦！がんばる！【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 89,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T10:59:42Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
-      "samples": [
-        [
-          "2026-09-11T10:59:42Z",
-          26
-        ],
-        [
-          "2026-09-11T11:18:27Z",
-          67
-        ],
-        [
-          "2026-09-11T11:33:39Z",
-          80
-        ],
-        [
-          "2026-09-11T11:47:19Z",
-          67
-        ],
-        [
-          "2026-09-11T11:57:45Z",
-          76
-        ],
-        [
-          "2026-09-11T12:22:15Z",
-          77
-        ],
-        [
-          "2026-09-11T12:44:23Z",
-          88
-        ],
-        [
-          "2026-09-11T12:58:36Z",
-          79
-        ],
-        [
-          "2026-09-11T13:18:16Z",
-          79
-        ],
-        [
-          "2026-09-11T13:33:39Z",
-          89
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "6BM6ZkBV6Fk",
-      "start": "2026-09-11T10:59:42Z",
-      "startSource": "observed",
-      "title": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 51,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T10:59:42Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
-      "samples": [
-        [
-          "2026-09-11T10:59:42Z",
-          47
-        ],
-        [
-          "2026-09-11T11:18:27Z",
-          46
-        ],
-        [
-          "2026-09-11T11:33:39Z",
-          51
-        ],
-        [
-          "2026-09-11T11:47:19Z",
-          35
-        ],
-        [
-          "2026-09-11T11:57:45Z",
-          31
-        ],
-        [
-          "2026-09-11T12:22:15Z",
-          28
-        ],
-        [
-          "2026-09-11T12:44:23Z",
-          29
-        ],
-        [
-          "2026-09-11T12:58:36Z",
-          24
-        ],
-        [
-          "2026-09-11T13:18:16Z",
-          21
-        ],
-        [
-          "2026-09-11T13:33:39Z",
-          21
-        ]
-      ]
-    },
     "UCEdlID7vgnILT3NR-ifyjPg": {
       "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
       "name": "서토리 라이브 저장소!",
@@ -123,7 +13,7 @@
       "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T10:59:42Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T10:59:42Z",
@@ -156,6 +46,10 @@
         [
           "2026-09-11T13:33:39Z",
           3
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          1
         ]
       ]
     },
@@ -170,7 +64,7 @@
       "peakViewers": 113,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T11:18:27Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T11:18:27Z",
@@ -207,6 +101,10 @@
         [
           "2026-09-11T13:33:39Z",
           102
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          95
         ]
       ]
     },
@@ -221,7 +119,7 @@
       "peakViewers": 37,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T11:18:27Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T11:18:27Z",
@@ -258,6 +156,10 @@
         [
           "2026-09-11T13:33:39Z",
           31
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          27
         ]
       ]
     },
@@ -272,7 +174,7 @@
       "peakViewers": 37,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T11:18:27Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T11:18:27Z",
@@ -309,6 +211,10 @@
         [
           "2026-09-11T13:33:39Z",
           28
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          25
         ]
       ]
     },
@@ -323,7 +229,7 @@
       "peakViewers": 4,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T11:18:27Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T11:18:27Z",
@@ -360,6 +266,10 @@
         [
           "2026-09-11T13:33:39Z",
           1
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          1
         ]
       ]
     },
@@ -374,7 +284,7 @@
       "peakViewers": 396,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T11:47:19Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T11:47:19Z",
@@ -403,45 +313,10 @@
         [
           "2026-09-11T13:33:39Z",
           391
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "PD6NcocTWXY",
-      "start": "2026-09-11T11:57:45Z",
-      "startSource": "observed",
-      "title": "【How to Fish】赤ギャンで釣りをしますw/うる虎がーる、坂本こん、石狩あかり【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 33,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T11:57:45Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
-      "samples": [
-        [
-          "2026-09-11T11:57:45Z",
-          28
         ],
         [
-          "2026-09-11T12:22:15Z",
-          31
-        ],
-        [
-          "2026-09-11T12:44:23Z",
-          33
-        ],
-        [
-          "2026-09-11T12:58:36Z",
-          27
-        ],
-        [
-          "2026-09-11T13:18:16Z",
-          33
-        ],
-        [
-          "2026-09-11T13:33:39Z",
-          33
+          "2026-09-11T13:49:15Z",
+          385
         ]
       ]
     },
@@ -456,7 +331,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T12:22:15Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T12:44:23Z",
@@ -469,6 +344,10 @@
         [
           "2026-09-11T13:33:39Z",
           1
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          3
         ]
       ]
     },
@@ -480,10 +359,10 @@
       "startSource": "observed",
       "title": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
       "game": null,
-      "peakViewers": 624,
+      "peakViewers": 653,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T12:58:36Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T12:58:36Z",
@@ -496,6 +375,10 @@
         [
           "2026-09-11T13:33:39Z",
           624
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          653
         ]
       ]
     },
@@ -510,7 +393,7 @@
       "peakViewers": 218,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T13:18:16Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T13:18:16Z",
@@ -519,6 +402,10 @@
         [
           "2026-09-11T13:33:39Z",
           218
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          188
         ]
       ]
     },
@@ -533,10 +420,14 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T13:33:39Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T13:33:39Z",
+          3
+        ],
+        [
+          "2026-09-11T13:49:15Z",
           3
         ]
       ]
@@ -552,11 +443,34 @@
       "peakViewers": 13,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T13:33:39Z",
-      "lastSeenAt": "2026-09-11T13:33:39Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
       "samples": [
         [
           "2026-09-11T13:33:39Z",
           13
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          12
+        ]
+      ]
+    },
+    "UCo3zRhsnXIieauvm6c-xwkA": {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "Pp2cYKZXhbc",
+      "start": "2026-09-11T13:49:15Z",
+      "startSource": "observed",
+      "title": "【Forza Horizon6】無免許爆走！オーバースペックはロマン＃26【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 24,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-11T13:49:15Z",
+      "lastSeenAt": "2026-09-11T13:49:15Z",
+      "samples": [
+        [
+          "2026-09-11T13:49:15Z",
+          24
         ]
       ]
     }
@@ -1710,6 +1624,122 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "UatqoxucVJc",
+      "videoUrl": "https://www.youtube.com/watch?v=UatqoxucVJc",
+      "start": "2026-09-11T10:59:42Z",
+      "end": "2026-09-11T13:49:15Z",
+      "minutes": 169.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Eternal Return】# あほぐみ でスクリム参戦！がんばる！【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 89,
+      "avgViewers": 72.5,
+      "samples": [
+        [
+          "2026-09-11T10:59:42Z",
+          26
+        ],
+        [
+          "2026-09-11T11:18:27Z",
+          67
+        ],
+        [
+          "2026-09-11T11:33:39Z",
+          80
+        ],
+        [
+          "2026-09-11T11:47:19Z",
+          67
+        ],
+        [
+          "2026-09-11T11:57:45Z",
+          76
+        ],
+        [
+          "2026-09-11T12:22:15Z",
+          77
+        ],
+        [
+          "2026-09-11T12:44:23Z",
+          88
+        ],
+        [
+          "2026-09-11T12:58:36Z",
+          79
+        ],
+        [
+          "2026-09-11T13:18:16Z",
+          79
+        ],
+        [
+          "2026-09-11T13:33:39Z",
+          89
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "6BM6ZkBV6Fk",
+      "videoUrl": "https://www.youtube.com/watch?v=6BM6ZkBV6Fk",
+      "start": "2026-09-11T10:59:42Z",
+      "end": "2026-09-11T13:49:15Z",
+      "minutes": 169.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 51,
+      "avgViewers": 32.7,
+      "samples": [
+        [
+          "2026-09-11T10:59:42Z",
+          47
+        ],
+        [
+          "2026-09-11T11:18:27Z",
+          46
+        ],
+        [
+          "2026-09-11T11:33:39Z",
+          51
+        ],
+        [
+          "2026-09-11T11:47:19Z",
+          35
+        ],
+        [
+          "2026-09-11T11:57:45Z",
+          31
+        ],
+        [
+          "2026-09-11T12:22:15Z",
+          28
+        ],
+        [
+          "2026-09-11T12:44:23Z",
+          29
+        ],
+        [
+          "2026-09-11T12:58:36Z",
+          24
+        ],
+        [
+          "2026-09-11T13:18:16Z",
+          21
+        ],
+        [
+          "2026-09-11T13:33:39Z",
+          21
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
       "name": "maŸUko",
       "videoId": "nJDo5J-KddI",
@@ -1842,6 +1872,48 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "PD6NcocTWXY",
+      "videoUrl": "https://www.youtube.com/watch?v=PD6NcocTWXY",
+      "start": "2026-09-11T11:51:35Z",
+      "end": "2026-09-11T13:42:56Z",
+      "minutes": 111.3,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【How to Fish】赤ギャンで釣りをしますw/うる虎がーる、坂本こん、石狩あかり【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 33,
+      "avgViewers": 30.5,
+      "samples": [
+        [
+          "2026-09-11T11:57:45Z",
+          28
+        ],
+        [
+          "2026-09-11T12:22:15Z",
+          31
+        ],
+        [
+          "2026-09-11T12:44:23Z",
+          33
+        ],
+        [
+          "2026-09-11T12:58:36Z",
+          27
+        ],
+        [
+          "2026-09-11T13:18:16Z",
+          33
+        ],
+        [
+          "2026-09-11T13:33:39Z",
+          33
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }
