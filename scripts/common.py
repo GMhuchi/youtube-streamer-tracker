@@ -158,6 +158,9 @@ class LiveStatus:
     viewers: Optional[int] = None
     started_at: Optional[str] = None
     game: Optional[str] = None
+    # 라이브가 아니라고 판정했을 때 "왜" 그렇게 봤는지 남기는 진단용 메모.
+    # (페이지는 받았는데 플레이어 데이터가 없다 같은 상황을 status.json 에서 보려고)
+    note: Optional[str] = None
 
 
 def _walk_dicts(node, visit):
@@ -307,16 +310,21 @@ def parse_live_status(html: str, final_url: str = "") -> LiveStatus:
 
     try:
         player = extract_json_after_marker(html, "var ytInitialPlayerResponse =")
-    except ParseError:
-        # 플레이어 데이터가 없음 = 채널 홈 -> 오프라인
-        return LiveStatus(is_live=False)
+    except ParseError as e:
+        # 보통은 "라이브 아님 -> 채널 홈" 이라 정상이다. 다만 동의 화면/봇 확인 같은
+        # 엉뚱한 페이지가 왔을 때도 여기로 떨어지므로, 구분할 수 있게 메모를 남긴다.
+        looks_like_channel_home = "ytInitialData" in html and "channelMetadataRenderer" in html
+        note = None if looks_like_channel_home else f"플레이어 데이터 없음({len(html)}바이트): {e}"
+        return LiveStatus(is_live=False, note=note)
 
     video_details = dig(player, "videoDetails", default={}) or {}
     video_id = video_details.get("videoId")
 
-    is_live = bool(video_details.get("isLive"))
-    if not is_live and dig(player, "playabilityStatus", "liveStreamability") is not None:
-        is_live = True
+    # ⚠️ `playabilityStatus.liveStreamability` 는 라이브 신호가 아니다.
+    # 방송이 꺼져 있는 채널의 /live 페이지에도 이 키가 그대로 들어있고
+    # (그때 status 는 "LIVE_STREAM_OFFLINE"), 이걸 보조 신호로 쓰면
+    # 방송을 안 하는 채널까지 전부 라이브로 잡힌다. 판정은 isLive 하나로 한다.
+    is_live = bool(video_details.get("isLive")) and dig(player, "playabilityStatus", "status") == "OK"
 
     if not is_live:
         return LiveStatus(is_live=False, video_id=video_id)

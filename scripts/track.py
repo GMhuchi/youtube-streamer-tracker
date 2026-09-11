@@ -123,6 +123,9 @@ def check_registered_channels(
             live = fetch_channel_live_status(channel_id, session=session)
             entry["isLive"] = live.is_live
             entry["videoId"] = live.video_id
+            if live.note:
+                entry["error"] = live.note
+                warnings.append(f"[{name}] {live.note}")
             if live.is_live:
                 entry["title"] = live.title
                 entry["videoUrl"] = f"https://www.youtube.com/watch?v={live.video_id}" if live.video_id else None
