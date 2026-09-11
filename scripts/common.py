@@ -161,6 +161,9 @@ class LiveStatus:
     # 라이브가 아니라고 판정했을 때 "왜" 그렇게 봤는지 남기는 진단용 메모.
     # (페이지는 받았는데 플레이어 데이터가 없다 같은 상황을 status.json 에서 보려고)
     note: Optional[str] = None
+    # 액션 로그에만 찍는 한 줄 요약. 깃허브 러너가 우리 브라우저와 다른 페이지를
+    # 받아오는 경우를 눈으로 확인하려고 둔다.
+    debug: Optional[str] = None
 
 
 def _walk_dicts(node, visit):
@@ -289,6 +292,14 @@ def fetch_video_live_details(video_id: str, session: Optional[requests.Session] 
     )
 
 
+_TITLE_RE = re.compile(r"<title>(.*?)</title>", re.S | re.I)
+
+
+def _page_title(html: str) -> str:
+    m = _TITLE_RE.search(html)
+    return (m.group(1).strip()[:80] if m else "")
+
+
 def parse_live_status(html: str, final_url: str = "") -> LiveStatus:
     """`/channel/<id>/live` 로 도착한 페이지 HTML 을 보고 라이브 여부를 판정한다.
 
@@ -315,7 +326,11 @@ def parse_live_status(html: str, final_url: str = "") -> LiveStatus:
         # 엉뚱한 페이지가 왔을 때도 여기로 떨어지므로, 구분할 수 있게 메모를 남긴다.
         looks_like_channel_home = "ytInitialData" in html and "channelMetadataRenderer" in html
         note = None if looks_like_channel_home else f"플레이어 데이터 없음({len(html)}바이트): {e}"
-        return LiveStatus(is_live=False, note=note)
+        return LiveStatus(
+            is_live=False,
+            note=note,
+            debug=f"플레이어없음 bytes={len(html)} 채널홈={looks_like_channel_home} 제목={_page_title(html)!r}",
+        )
 
     video_details = dig(player, "videoDetails", default={}) or {}
     video_id = video_details.get("videoId")
@@ -327,7 +342,14 @@ def parse_live_status(html: str, final_url: str = "") -> LiveStatus:
     is_live = bool(video_details.get("isLive")) and dig(player, "playabilityStatus", "status") == "OK"
 
     if not is_live:
-        return LiveStatus(is_live=False, video_id=video_id)
+        return LiveStatus(
+            is_live=False,
+            video_id=video_id,
+            debug=(
+                f"status={dig(player, 'playabilityStatus', 'status')!r} "
+                f"isLive={video_details.get('isLive')!r} bytes={len(html)}"
+            ),
+        )
 
     try:
         data = extract_json_after_marker(html, "var ytInitialData =")

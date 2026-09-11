@@ -123,6 +123,8 @@ def check_registered_channels(
             live = fetch_channel_live_status(channel_id, session=session)
             entry["isLive"] = live.is_live
             entry["videoId"] = live.video_id
+            if live.debug:
+                print(f"[진단][{name}] 라이브={live.is_live} {live.debug}")
             if live.note:
                 entry["error"] = live.note
                 warnings.append(f"[{name}] {live.note}")
