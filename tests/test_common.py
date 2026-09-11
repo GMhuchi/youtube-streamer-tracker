@@ -170,14 +170,9 @@ def _player_response_html(is_live: bool, viewers_text="현재 1,234명 시청 �
     )
 
 
-def test_fetch_channel_live_status_when_live(monkeypatch):
-    html = _player_response_html(True)
-
-    def fake_get_html(url, params=None, session=None):
-        return html, "https://www.youtube.com/watch?v=LIVEVID"
-
-    monkeypatch.setattr(common, "get_html", fake_get_html)
-    status = common.fetch_channel_live_status("UCTEST")
+def test_watch_page_live_parsing():
+    """워치 페이지 파서. (러너에서는 로봇 확인에 막혀서 지금은 보조 경로다)"""
+    status = common.parse_live_status(_player_response_html(True), "https://www.youtube.com/watch?v=LIVEVID")
     assert status.is_live is True
     assert status.video_id == "LIVEVID"
     # 누적 조회수(999999)가 아니라 동시 시청자수(1234)를 읽어야 한다
@@ -206,15 +201,9 @@ def test_viewer_count_parses_plain_and_large_numbers():
     assert common.parse_live_status(_player_response_html(True, "7 watching now"), "/watch").viewers == 7
 
 
-def test_fetch_channel_live_status_when_video_but_not_live(monkeypatch):
-    html = _player_response_html(False)
-
-    def fake_get_html(url, params=None, session=None):
-        # 과거에 라이브였던 다시보기 영상으로 리다이렉트되는 경우를 흉내
-        return html, "https://www.youtube.com/watch?v=OLDVOD"
-
-    monkeypatch.setattr(common, "get_html", fake_get_html)
-    status = common.fetch_channel_live_status("UCTEST")
+def test_watch_page_video_but_not_live():
+    # 과거에 라이브였던 다시보기 영상이 내려오는 경우
+    status = common.parse_live_status(_player_response_html(False), "https://www.youtube.com/watch?v=OLDVOD")
     assert status.is_live is False
 
 
@@ -228,30 +217,22 @@ def test_offline_live_tab_is_not_counted_as_live():
     assert status.note is None
 
 
-def test_live_detected_when_youtube_serves_live_url_without_redirect(monkeypatch):
+def test_watch_page_live_url_without_redirect():
     """회귀 방지: 유튜브가 `/live` 주소 그대로 워치 페이지를 내려주는 경우.
 
     예전에는 '최종 URL 에 /watch 가 없으면 오프라인' 으로 판정했는데, 유튜브가
     리다이렉트를 없애면서 라이브 중인 채널이 전부 오프라인으로 잡히던 버그가 있었다.
     """
-    html = _player_response_html(True, "현재 6명 시청 중")
-
-    def fake_get_html(url, params=None, session=None):
-        # 리다이렉트 없이 요청한 주소 그대로 응답
-        return html, "https://www.youtube.com/channel/UCTEST/live"
-
-    monkeypatch.setattr(common, "get_html", fake_get_html)
-    status = common.fetch_channel_live_status("UCTEST")
+    status = common.parse_live_status(
+        _player_response_html(True, "현재 6명 시청 중"),
+        "https://www.youtube.com/channel/UCTEST/live",
+    )
     assert status.is_live is True
     assert status.viewers == 6
 
 
-def test_fetch_channel_live_status_when_redirected_to_channel_home(monkeypatch):
-    def fake_get_html(url, params=None, session=None):
-        return "<html>channel home</html>", "https://www.youtube.com/channel/UCTEST"
-
-    monkeypatch.setattr(common, "get_html", fake_get_html)
-    status = common.fetch_channel_live_status("UCTEST")
+def test_watch_page_channel_home_is_offline():
+    status = common.parse_live_status("<html>channel home</html>", "https://www.youtube.com/channel/UCTEST")
     assert status.is_live is False
     assert status.video_id is None
 
@@ -350,3 +331,89 @@ def test_search_live_by_query_skips_items_without_channel_id(monkeypatch):
     monkeypatch.setattr(common, "get_html", lambda url, params=None, session=None: (html, url))
     results = common.search_live_by_query("테스트태그")
     assert results == []
+
+
+# ---------------------------------------------------------------------------
+# 채널 '실시간' 탭에서 라이브 잡아내기
+# (깃허브 러너에서는 워치 페이지가 로봇 확인에 막혀서 이 경로가 본선이다)
+# ---------------------------------------------------------------------------
+
+def _streams_tab_html(live: bool, viewers_text="3명 시청 중"):
+    lockup = {
+        "lockupViewModel": {
+            "contentId": "LIVEVID1234",
+            "contentType": "LOCKUP_CONTENT_TYPE_VIDEO",
+            "contentImage": {
+                "thumbnailViewModel": {
+                    "image": {"sources": [{"url": "https://i.ytimg.com/vi/LIVEVID1234/hq720.jpg"}]},
+                    "overlays": [
+                        {
+                            "thumbnailBottomOverlayViewModel": {
+                                "badges": [
+                                    {
+                                        "thumbnailBadgeViewModel": {
+                                            "text": "라이브" if live else "6:36:12",
+                                            "badgeStyle": (
+                                                "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE"
+                                                if live
+                                                else "THUMBNAIL_OVERLAY_BADGE_STYLE_DEFAULT"
+                                            ),
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                }
+            },
+            "metadata": {
+                "lockupMetadataViewModel": {
+                    "title": {"content": "이터널리턴 뉴비 랭크전"},
+                    "metadata": {
+                        "contentMetadataViewModel": {
+                            "metadataRows": [
+                                {"metadataParts": [{"text": {"content": "스트리밍 시작: 2시간 전"}}]},
+                                {"metadataParts": [{"text": {"content": viewers_text}}]},
+                            ]
+                        }
+                    },
+                }
+            },
+        }
+    }
+    data = {"contents": {"tabs": [{"items": [lockup]}]}}
+    return "<script>var ytInitialData = " + json.dumps(data, ensure_ascii=False) + ";</script>"
+
+
+def test_streams_tab_detects_live_with_viewers():
+    status = common.parse_channel_streams_live(_streams_tab_html(True))
+    assert status.is_live is True
+    assert status.video_id == "LIVEVID1234"
+    assert status.title == "이터널리턴 뉴비 랭크전"
+    assert status.viewers == 3
+    assert status.thumbnail.endswith("hq720.jpg")
+
+
+def test_streams_tab_ignores_finished_streams():
+    status = common.parse_channel_streams_live(_streams_tab_html(False))
+    assert status.is_live is False
+    assert status.video_id is None
+
+
+def test_streams_tab_does_not_read_viewers_from_other_rows():
+    """'스트리밍 시작: 2시간 전' 의 2를 시청자수로 착각하면 안 된다."""
+    status = common.parse_channel_streams_live(_streams_tab_html(True, "1,234명 시청 중"))
+    assert status.viewers == 1234
+
+
+def test_fetch_channel_live_status_uses_streams_tab(monkeypatch):
+    seen = {}
+
+    def fake_get_html(url, params=None, session=None):
+        seen["url"] = url
+        return _streams_tab_html(True), url
+
+    monkeypatch.setattr(common, "get_html", fake_get_html)
+    status = common.fetch_channel_live_status("UCTEST")
+    assert status.is_live is True
+    assert seen["url"].endswith("/streams")
