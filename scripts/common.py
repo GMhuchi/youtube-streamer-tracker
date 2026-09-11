@@ -377,11 +377,122 @@ def parse_live_status(html: str, final_url: str = "") -> LiveStatus:
     )
 
 
+LIVE_BADGE_STYLE = "THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE"
+
+
+def _find_live_badge(node) -> bool:
+    """이 서브트리 안에 '라이브' 배지가 있는지."""
+    found = [False]
+
+    def visit(d):
+        if d.get("badgeStyle") == LIVE_BADGE_STYLE:
+            found[0] = True
+            return True
+        # 예전 구조(videoRenderer)도 같이 본다
+        if dig(d, "thumbnailOverlayTimeStatusRenderer", "style") == "LIVE":
+            found[0] = True
+            return True
+        return False
+
+    _walk_dicts(node, visit)
+    return found[0]
+
+
+def _lockup_metadata_texts(lockup) -> list:
+    """lockupViewModel 의 부가 정보 줄들("3명 시청 중" 등)을 평평하게 뽑는다."""
+    rows = dig(
+        lockup, "metadata", "lockupMetadataViewModel", "metadata",
+        "contentMetadataViewModel", "metadataRows", default=[],
+    ) or []
+    texts = []
+    for row in rows:
+        for part in (row or {}).get("metadataParts", []) or []:
+            text = dig(part, "text", "content")
+            if text:
+                texts.append(text)
+    return texts
+
+
+def parse_channel_streams_live(html: str) -> LiveStatus:
+    """채널의 '실시간' 탭 HTML 에서 지금 방송 중인 스트림을 찾는다.
+
+    ⚠️ 왜 워치 페이지(`/channel/<id>/live`)를 안 쓰고 이걸 쓰는가:
+    깃허브 액션 러너(데이터센터 IP)로 라이브 워치 페이지를 열면 유튜브가
+    `playabilityStatus.status = "LOGIN_REQUIRED"` (로봇 확인) 을 돌려주고
+    `videoDetails` 를 아예 안 준다. 그래서 러너에서는 방송 중인 채널이
+    전부 오프라인으로 잡혔다. 반면 **채널 탭 페이지는 막히지 않는다.**
+    여기에는 라이브 배지, 영상 ID, 제목, 동시 시청자수가 다 들어있다.
+    """
+    try:
+        data = extract_json_after_marker(html, "var ytInitialData =")
+    except ParseError as e:
+        return LiveStatus(is_live=False, debug=f"채널탭 데이터 없음({len(html)}바이트): {e}")
+
+    hit = []
+
+    def visit(d):
+        lockup = d.get("lockupViewModel")
+        if isinstance(lockup, dict) and _find_live_badge(lockup):
+            hit.append(lockup)
+            return True
+        video = d.get("videoRenderer")
+        if isinstance(video, dict) and _find_live_badge(video):
+            hit.append(video)
+            return True
+        return False
+
+    _walk_dicts(data, visit)
+    if not hit:
+        return LiveStatus(is_live=False, debug=f"채널탭에 라이브 배지 없음 bytes={len(html)}")
+
+    item = hit[0]
+    if "contentId" in item:  # lockupViewModel
+        video_id = item.get("contentId")
+        title = dig(item, "metadata", "lockupMetadataViewModel", "title", "content")
+        sources = dig(item, "contentImage", "thumbnailViewModel", "image", "sources", default=[]) or []
+        thumbnail = sources[-1].get("url") if sources else None
+        texts = _lockup_metadata_texts(item)
+    else:  # 예전 videoRenderer 구조
+        video_id = item.get("videoId")
+        title = dig(item, "title", "runs", 0, "text") or dig(item, "title", "simpleText")
+        thumbs = dig(item, "thumbnail", "thumbnails", default=[]) or []
+        thumbnail = thumbs[-1].get("url") if thumbs else None
+        texts = [
+            t for t in (
+                dig(item, "viewCountText", "simpleText"),
+                "".join(r.get("text", "") for r in (dig(item, "viewCountText", "runs", default=[]) or [])),
+            ) if t
+        ]
+
+    # "3명 시청 중" / "3 watching now" 처럼 '보고 있는 중'을 뜻하는 줄만 시청자수로 본다.
+    # ("스트리밍 시작: 2시간 전" 같은 줄에서 2를 주워오면 안 된다)
+    watching_markers = ("시청", "watching", "視聴", "观看", "觀看", "espectador", "spectateur", "zuschauer")
+    viewers = None
+    for text in texts:
+        if any(m in str(text).casefold() for m in watching_markers):
+            viewers = _text_to_int(text)
+            if viewers is not None:
+                break
+
+    return LiveStatus(
+        is_live=True,
+        video_id=video_id,
+        title=title,
+        thumbnail=thumbnail,
+        viewers=viewers,
+        debug=f"채널탭 라이브 video={video_id} 시청자={viewers}",
+    )
+
+
 def fetch_channel_live_status(channel_id: str, session: Optional[requests.Session] = None) -> LiveStatus:
-    """채널이 지금 라이브 중인지 확인한다 (`/channel/<id>/live` 사용)."""
-    url = f"https://www.youtube.com/channel/{channel_id}/live"
-    html, final_url = get_html(url, session=session)
-    return parse_live_status(html, final_url)
+    """채널이 지금 라이브 중인지 확인한다.
+
+    채널의 '실시간' 탭을 본다. 워치 페이지는 러너 IP 에서 로봇 확인에 막히기
+    때문이다(자세한 사정은 parse_channel_streams_live 주석 참고).
+    """
+    url = f"https://www.youtube.com/channel/{channel_id}/streams"
+    html, _final_url = get_html(url, session=session)
+    return parse_channel_streams_live(html)
 
 
 # ---------------------------------------------------------------------------
