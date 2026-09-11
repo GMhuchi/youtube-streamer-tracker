@@ -144,6 +144,72 @@
     color:var(--text-dim); font-size:.88rem; padding:1.4rem; text-align:center;
     border:1px dashed var(--border-strong); border-radius:10px;
   }
+
+  /* --- 채널 상세 --- */
+  tbody tr{ cursor:pointer; }
+  tbody tr:hover{ background:var(--surface-2); }
+  tbody tr.sel{ background:var(--accent-soft); }
+  tbody tr.sel td{ border-bottom-color:var(--accent); }
+  td .chev-cell{ color:var(--text-dim); font-size:.7rem; }
+
+  .detail{
+    margin-top:1rem; background:var(--surface); border:1px solid var(--border);
+    border-radius:12px; box-shadow:var(--shadow); overflow:hidden;
+  }
+  .detail-head{
+    display:flex; align-items:center; gap:.7rem; flex-wrap:wrap;
+    padding:.9rem 1.1rem; border-bottom:1px solid var(--border); background:var(--surface-2);
+  }
+  .detail-head h3{ margin:0; font-size:1rem; font-weight:800; }
+  .detail-head a{ color:inherit; text-decoration:none; }
+  .detail-head a:hover{ text-decoration:underline; }
+  .detail-head .close{
+    margin-left:auto; border:1px solid var(--border-strong); background:var(--surface);
+    color:var(--text-dim); border-radius:6px; padding:.2em .55em; cursor:pointer; font-size:.78rem;
+  }
+  .detail-body{ padding:1rem 1.1rem 1.2rem; }
+
+  .mini-stats{ display:grid; grid-template-columns:repeat(auto-fit,minmax(130px,1fr)); gap:.6rem; margin-bottom:1.1rem; }
+  .mini{
+    border:1px solid var(--border); border-radius:10px; padding:.6rem .75rem; background:var(--bg);
+  }
+  .mini .l{ font-size:.72rem; color:var(--text-dim); font-weight:700; }
+  .mini .v{ font-family:'IBM Plex Mono',monospace; font-size:1.15rem; font-weight:600; line-height:1.3; }
+  .mini .s{ font-size:.7rem; color:var(--text-dim); }
+
+  .chart-wrap{ position:relative; margin:.2rem 0 1rem; }
+  .chart-title{ font-size:.82rem; font-weight:700; margin-bottom:.1rem; }
+  .chart-sub{ font-size:.72rem; color:var(--text-dim); margin-bottom:.5rem; }
+  .chart-wrap svg{ display:block; width:100%; height:auto; overflow:visible; touch-action:none; }
+  .chart-wrap .axis{ stroke:var(--border); stroke-width:1; }
+  .chart-wrap .grid{ stroke:var(--border); stroke-width:1; opacity:.55; }
+  .chart-wrap .tick{ fill:var(--text-dim); font-size:10px; font-family:'IBM Plex Mono',monospace; }
+  .chart-wrap .series{ fill:none; stroke:var(--accent); stroke-width:2; stroke-linejoin:round; stroke-linecap:round; }
+  .chart-wrap .area{ fill:var(--accent); opacity:.10; }
+  .chart-wrap .avgline{ stroke:var(--text-dim); stroke-width:1; stroke-dasharray:4 3; opacity:.8; }
+  .chart-wrap .cross{ stroke:var(--text-dim); stroke-width:1; opacity:.7; }
+  .chart-wrap .dot{ fill:var(--accent); stroke:var(--surface); stroke-width:2; }
+  .tip{
+    position:absolute; pointer-events:none; z-index:5; transform:translate(-50%, -115%);
+    background:var(--surface); border:1px solid var(--border-strong); border-radius:7px;
+    padding:.35rem .55rem; font-size:.75rem; white-space:nowrap; box-shadow:var(--shadow);
+  }
+  .tip .t{ color:var(--text-dim); font-family:'IBM Plex Mono',monospace; font-size:.7rem; }
+  .tip .v{ font-weight:700; font-family:'IBM Plex Mono',monospace; }
+
+  .sess-list{ display:flex; flex-direction:column; gap:.35rem; }
+  .sess{
+    display:flex; align-items:center; gap:.6rem; flex-wrap:wrap; text-align:left; width:100%;
+    padding:.5rem .7rem; border:1px solid var(--border); border-radius:8px;
+    background:var(--bg); color:inherit; font:inherit; font-size:.82rem; cursor:pointer;
+  }
+  .sess:hover{ border-color:var(--border-strong); }
+  .sess.on{ border-color:var(--accent); background:var(--accent-soft); }
+  .sess .when{ font-family:'IBM Plex Mono',monospace; font-size:.76rem; color:var(--text-dim); }
+  .sess .dur{ font-family:'IBM Plex Mono',monospace; font-weight:600; }
+  .sess .vw{ font-family:'IBM Plex Mono',monospace; font-size:.76rem; }
+  .sess .ttl{ flex:1; min-width:9rem; color:var(--text-dim); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .nodata{ font-size:.8rem; color:var(--text-dim); padding:.8rem 0; }
   footer{
     margin-top:3rem; padding-top:1.2rem; border-top:1px solid var(--border);
     color:var(--text-dim); font-size:.78rem;
@@ -170,7 +236,7 @@
     <div class="section-head">
       <h2 class="display">채널별 방송 시간</h2>
       <span class="count mono" id="channelCount">0</span>
-      <span class="note">등록된 채널은 방송 기록이 없어도 모두 표시됩니다 · 한국 시간(KST) 기준</span>
+      <span class="note">채널을 누르면 방송 이력과 시청자수 추이를 볼 수 있습니다 · 한국 시간(KST) 기준</span>
     </div>
     <div class="table-wrap">
       <table>
@@ -180,6 +246,8 @@
             <th class="num">오늘</th>
             <th class="num">이번 주</th>
             <th class="num">이번 달</th>
+            <th class="num">평균 시청자</th>
+            <th class="num">최고</th>
             <th>최근 방송</th>
           </tr>
         </thead>
@@ -187,6 +255,7 @@
       </table>
     </div>
     <div class="empty" id="channelEmpty" hidden>등록된 채널이 없습니다.</div>
+    <div id="detail"></div>
   </section>
 
   <section>
@@ -211,6 +280,8 @@
 (function(){
   var scopeGame = true;   // true = 이터널리턴만, false = 전체 방송
   var data = null;
+  var selectedChannel = null;  // 상세를 펼친 채널 ID
+  var selectedSession = 0;     // 상세에서 선택한 방송 인덱스
 
   function esc(s){
     return String(s==null?'':s).replace(/[&<>"']/g, function(c){
@@ -283,6 +354,11 @@
     document.getElementById('totals').innerHTML = html;
   }
 
+  function fmtNum(n){
+    if (n == null) return '-';
+    return new Intl.NumberFormat('ko-KR').format(Math.round(n));
+  }
+
   function renderChannels(){
     var rows = (data.channels || []).map(function(c){
       var b = c.buckets || {};
@@ -298,18 +374,239 @@
       var recent = c.isLive
         ? ('방송 중 · ' + esc(fmtKst(c.liveSince)) + ' 시작')
         : (c.lastEnd ? (esc(fmtKst(c.lastEnd)) + ' 종료 (' + esc(fmtRelative(c.lastEnd)) + ')') : '기록 없음');
-      return '<tr>' +
+      // 시청자 수치는 "선택한 기간"이 아니라 이번 달 기준으로 한 번에 보여준다
+      var mb = b.month || {};
+      var avg = c.isLive && c.liveViewers != null ? c.liveViewers : mb.avgViewers;
+      var avgLabel = c.isLive && c.liveViewers != null ? (fmtNum(avg) + '명 (지금)') : (mb.avgViewers != null ? fmtNum(mb.avgViewers) + '명' : '-');
+      var peak = mb.peakViewers;
+      var selected = selectedChannel === c.channelId ? ' class="sel"' : '';
+      return '<tr' + selected + ' data-cid="' + esc(c.channelId) + '">' +
         '<td class="name">' + status +
-          '<a href="' + esc(c.channelUrl) + '" target="_blank" rel="noopener">' + esc(c.name) + '</a>' +
-          badge +
+          esc(c.name) + badge + ' <span class="chev-cell">▾</span>' +
         '</td>' +
         cell('today') + cell('week') + cell('month') +
+        '<td class="num' + (avg == null ? ' zero' : '') + '">' + esc(avgLabel) + '</td>' +
+        '<td class="num' + (peak == null ? ' zero' : '') + '">' + (peak == null ? '-' : esc(fmtNum(peak)) + '명') + '</td>' +
         '<td>' + recent + '</td>' +
       '</tr>';
     }).join('');
-    document.getElementById('channelRows').innerHTML = rows;
+    var tbody = document.getElementById('channelRows');
+    tbody.innerHTML = rows;
     document.getElementById('channelCount').textContent = (data.channels || []).length;
     document.getElementById('channelEmpty').hidden = (data.channels || []).length > 0;
+    Array.prototype.forEach.call(tbody.querySelectorAll('tr'), function(tr){
+      tr.addEventListener('click', function(e){
+        if (e.target.tagName === 'A') return;
+        var cid = tr.getAttribute('data-cid');
+        selectedChannel = (selectedChannel === cid) ? null : cid;
+        selectedSession = 0;
+        renderChannels();
+        renderDetail();
+        if (selectedChannel) {
+          var d = document.getElementById('detail');
+          if (d) d.scrollIntoView({block:'nearest', behavior:'smooth'});
+        }
+      });
+    });
+  }
+
+  // ---- 시청자수 추이 차트 (의존성 없는 인라인 SVG) ----
+  // 단일 계열이라 범례 없이 제목이 계열을 설명한다. 선 2px, 눈금/격자는 흐리게,
+  // 점은 모든 포인트에 찍지 않고 마우스가 가리키는 지점에만 찍는다.
+  function buildChart(container, samples, opts){
+    opts = opts || {};
+    var pts = (samples || []).map(function(s){
+      return { t: new Date(s[0]).getTime(), v: Number(s[1]) };
+    }).filter(function(p){ return isFinite(p.t) && isFinite(p.v); })
+      .sort(function(a,b){ return a.t - b.t; });
+
+    if (pts.length === 0) {
+      container.innerHTML = '<div class="nodata">이 방송은 시청자수 기록이 없습니다. ' +
+        '(시청자수는 방송 중 10분마다 기록되며, 이 기능이 켜지기 전 방송은 값이 없습니다.)</div>';
+      return;
+    }
+
+    var W = 720, H = 210, padL = 46, padR = 12, padT = 12, padB = 26;
+    var t0 = pts[0].t, t1 = pts[pts.length-1].t;
+    if (t1 === t0) { t1 = t0 + 60000; }
+    var vmax = Math.max.apply(null, pts.map(function(p){ return p.v; }));
+    var vmin = 0;                       // 시청자수는 0 기준으로 봐야 크기 비교가 정직하다
+    var top = vmax <= 0 ? 1 : vmax * 1.15;
+
+    function X(t){ return padL + (t - t0) / (t1 - t0) * (W - padL - padR); }
+    function Y(v){ return padT + (1 - (v - vmin) / (top - vmin)) * (H - padT - padB); }
+
+    // y축 눈금 3개
+    function niceTicks(maxV){
+      var raw = maxV / 3;
+      var mag = Math.pow(10, Math.floor(Math.log10(Math.max(raw, 1))));
+      var step = Math.ceil(raw / mag) * mag;
+      var out = [];
+      for (var v = 0; v <= maxV * 1.0001; v += step) out.push(v);
+      return out;
+    }
+    var yticks = niceTicks(top);
+
+    var d = pts.map(function(p, i){ return (i ? 'L' : 'M') + X(p.t).toFixed(1) + ' ' + Y(p.v).toFixed(1); }).join(' ');
+    var area = 'M' + X(pts[0].t).toFixed(1) + ' ' + Y(0).toFixed(1) + ' ' +
+               pts.map(function(p){ return 'L' + X(p.t).toFixed(1) + ' ' + Y(p.v).toFixed(1); }).join(' ') +
+               ' L' + X(pts[pts.length-1].t).toFixed(1) + ' ' + Y(0).toFixed(1) + ' Z';
+
+    var svg = [];
+    svg.push('<svg viewBox="0 0 ' + W + ' ' + H + '" preserveAspectRatio="none" role="img" aria-label="시청자수 추이">');
+    yticks.forEach(function(v){
+      svg.push('<line class="grid" x1="' + padL + '" y1="' + Y(v).toFixed(1) + '" x2="' + (W-padR) + '" y2="' + Y(v).toFixed(1) + '"/>');
+      svg.push('<text class="tick" x="' + (padL - 6) + '" y="' + (Y(v) + 3).toFixed(1) + '" text-anchor="end">' + fmtNum(v) + '</text>');
+    });
+    svg.push('<path class="area" d="' + area + '"/>');
+    svg.push('<path class="series" d="' + d + '"/>');
+    if (opts.avg != null && isFinite(opts.avg)) {
+      svg.push('<line class="avgline" x1="' + padL + '" y1="' + Y(opts.avg).toFixed(1) + '" x2="' + (W-padR) + '" y2="' + Y(opts.avg).toFixed(1) + '"/>');
+      svg.push('<text class="tick" x="' + (W-padR) + '" y="' + (Y(opts.avg) - 4).toFixed(1) + '" text-anchor="end">평균 ' + fmtNum(opts.avg) + '</text>');
+    }
+    svg.push('<line class="axis" x1="' + padL + '" y1="' + Y(0).toFixed(1) + '" x2="' + (W-padR) + '" y2="' + Y(0).toFixed(1) + '"/>');
+    svg.push('<text class="tick" x="' + padL + '" y="' + (H - 8) + '">' + esc(fmtKst(new Date(t0).toISOString())) + '</text>');
+    svg.push('<text class="tick" x="' + (W-padR) + '" y="' + (H - 8) + '" text-anchor="end">' + esc(fmtKst(new Date(t1).toISOString())) + '</text>');
+    svg.push('<line class="cross" x1="0" y1="' + padT + '" x2="0" y2="' + (H-padB) + '" style="display:none"/>');
+    svg.push('<circle class="dot" r="4" cx="0" cy="0" style="display:none"/>');
+    svg.push('<rect x="' + padL + '" y="' + padT + '" width="' + (W-padL-padR) + '" height="' + (H-padT-padB) + '" fill="transparent"/>');
+    svg.push('</svg>');
+    container.innerHTML = svg.join('') + '<div class="tip" style="display:none"></div>';
+
+    // 호버: 세로 십자선 + 가까운 표본에 점 + 툴팁
+    var svgEl = container.querySelector('svg');
+    var cross = container.querySelector('.cross');
+    var dot = container.querySelector('.dot');
+    var tip = container.querySelector('.tip');
+
+    function onMove(ev){
+      var rect = svgEl.getBoundingClientRect();
+      var cx = ev.touches ? ev.touches[0].clientX : ev.clientX;
+      var ratio = (cx - rect.left) / rect.width;
+      var svgX = ratio * W;
+      if (svgX < padL || svgX > W - padR) { onLeave(); return; }
+      var t = t0 + (svgX - padL) / (W - padL - padR) * (t1 - t0);
+      var best = pts[0], bestD = Infinity;
+      pts.forEach(function(p){
+        var dd = Math.abs(p.t - t);
+        if (dd < bestD) { bestD = dd; best = p; }
+      });
+      var px = X(best.t), py = Y(best.v);
+      cross.setAttribute('x1', px); cross.setAttribute('x2', px);
+      cross.style.display = '';
+      dot.setAttribute('cx', px); dot.setAttribute('cy', py);
+      dot.style.display = '';
+      tip.innerHTML = '<div class="t">' + esc(fmtKst(new Date(best.t).toISOString())) + '</div>' +
+                      '<div class="v">' + esc(fmtNum(best.v)) + '명 시청 중</div>';
+      tip.style.display = '';
+      tip.style.left = (px / W * 100) + '%';
+      tip.style.top = (py / H * rect.height) + 'px';
+    }
+    function onLeave(){
+      cross.style.display = 'none';
+      dot.style.display = 'none';
+      tip.style.display = 'none';
+    }
+    svgEl.addEventListener('mousemove', onMove);
+    svgEl.addEventListener('mouseleave', onLeave);
+    svgEl.addEventListener('touchmove', onMove, {passive:true});
+    svgEl.addEventListener('touchend', onLeave);
+  }
+
+  function renderDetail(){
+    var host = document.getElementById('detail');
+    if (!host) return;
+    if (!selectedChannel) { host.innerHTML = ''; return; }
+    var c = (data.channels || []).filter(function(x){ return x.channelId === selectedChannel; })[0];
+    if (!c) { host.innerHTML = ''; return; }
+
+    var sessions = (c.recentSessions || []).slice();
+    // 진행 중인 방송을 목록 맨 앞에 가상 항목으로 얹는다
+    var liveItem = null;
+    if (c.isLive) {
+      liveItem = {
+        start: c.liveSince, end: null, minutes: null,
+        title: c.liveTitle, videoUrl: c.liveVideoUrl,
+        avgViewers: c.liveAvgViewers, peakViewers: c.livePeakViewers,
+        samples: c.liveSamples || [], live: true
+      };
+      sessions.unshift(liveItem);
+    }
+    if (selectedSession >= sessions.length) selectedSession = 0;
+
+    var mb = (c.buckets || {}).month || {};
+    var tb = (c.buckets || {}).today || {};
+    var wb = (c.buckets || {}).week || {};
+
+    var head = '<div class="detail-head">' +
+      (c.isLive ? '<span class="live-dot"></span>' : '<span class="off-dot"></span>') +
+      '<h3><a href="' + esc(c.channelUrl) + '" target="_blank" rel="noopener">' + esc(c.name) + '</a></h3>' +
+      (c.isLive ? '<span class="tag">방송 중</span>' : '') +
+      '<button class="close" type="button" id="detailClose">닫기 ✕</button>' +
+    '</div>';
+
+    function mini(label, value, sub){
+      return '<div class="mini"><div class="l">' + esc(label) + '</div>' +
+             '<div class="v">' + value + '</div>' +
+             '<div class="s">' + esc(sub || '') + '</div></div>';
+    }
+
+    var stats = '<div class="mini-stats">' +
+      mini('오늘', esc(fmtHours(pick(tb))), tb.sessions ? tb.sessions + '회 방송' : '방송 없음') +
+      mini('이번 주', esc(fmtHours(pick(wb))), wb.sessions ? wb.sessions + '회 방송' : '방송 없음') +
+      mini('이번 달', esc(fmtHours(pick(mb))), mb.sessions ? mb.sessions + '회 방송' : '방송 없음') +
+      mini('평균 시청자', mb.avgViewers != null ? esc(fmtNum(mb.avgViewers)) + '<span style="font-size:.75rem">명</span>' : '-', '이번 달, 방송 길이 가중') +
+      mini('최고 시청자', mb.peakViewers != null ? esc(fmtNum(mb.peakViewers)) + '<span style="font-size:.75rem">명</span>' : '-', '이번 달') +
+    '</div>';
+
+    var sel = sessions[selectedSession];
+    var chartTitle = '', chartSub = '';
+    if (sel) {
+      chartTitle = (sel.live ? '지금 방송 중' : esc(fmtKst(sel.start)) + ' 방송') + ' — 시청자수 추이';
+      chartSub = (sel.title ? esc(String(sel.title)) : '') +
+        (sel.avgViewers != null ? ' · 평균 ' + esc(fmtNum(sel.avgViewers)) + '명' : '') +
+        (sel.peakViewers != null ? ' · 최고 ' + esc(fmtNum(sel.peakViewers)) + '명' : '');
+    }
+    var chart = '<div class="chart-title">' + chartTitle + '</div>' +
+                '<div class="chart-sub">' + chartSub + '</div>' +
+                '<div class="chart-wrap" id="chartHost"></div>';
+
+    var list = sessions.length
+      ? '<div class="sess-list">' + sessions.map(function(s, i){
+          var when = s.live
+            ? (esc(fmtKst(s.start)) + ' ~ 진행 중')
+            : (esc(fmtKst(s.start)) + ' → ' + esc(fmtKst(s.end)));
+          var dur = s.live ? '진행 중' : fmtHours(s.minutes);
+          var vw = (s.avgViewers != null ? '평균 ' + fmtNum(s.avgViewers) : '평균 -') +
+                   (s.peakViewers != null ? ' / 최고 ' + fmtNum(s.peakViewers) : '');
+          return '<button class="sess' + (i === selectedSession ? ' on' : '') + '" data-idx="' + i + '" type="button">' +
+            '<span class="when">' + when + '</span>' +
+            '<span class="dur">' + esc(dur) + '</span>' +
+            '<span class="vw">' + esc(vw) + '</span>' +
+            '<span class="ttl">' + esc(s.title || '') + '</span>' +
+          '</button>';
+        }).join('') + '</div>'
+      : '<div class="nodata">아직 기록된 방송이 없습니다.</div>';
+
+    host.innerHTML = '<div class="detail">' + head +
+      '<div class="detail-body">' + stats + chart +
+      '<div class="chart-title" style="margin-top:.4rem;">방송 이력</div>' +
+      '<div class="chart-sub">방송을 누르면 그 방송의 추이를 볼 수 있습니다.</div>' +
+      list + '</div></div>';
+
+    if (sel) buildChart(document.getElementById('chartHost'), sel.samples, {avg: sel.avgViewers});
+
+    document.getElementById('detailClose').addEventListener('click', function(){
+      selectedChannel = null;
+      renderChannels();
+      renderDetail();
+    });
+    Array.prototype.forEach.call(host.querySelectorAll('.sess'), function(b){
+      b.addEventListener('click', function(){
+        selectedSession = parseInt(b.getAttribute('data-idx'), 10) || 0;
+        renderDetail();
+      });
+    });
   }
 
   function renderSessions(){
@@ -321,10 +618,14 @@
         ? '<a href="' + esc(s.videoUrl) + '" target="_blank" rel="noopener">' + esc(s.title || '(제목 없음)') + '</a>'
         : esc(s.title || '(제목 없음)');
       var tag = s.isTargetGame ? '<span class="tag">이터널리턴</span>' : '<span class="tag gray">' + esc(s.game || '기타') + '</span>';
+      var vw = s.avgViewers != null
+        ? ('평균 ' + fmtNum(s.avgViewers) + (s.peakViewers != null ? ' / 최고 ' + fmtNum(s.peakViewers) : '') + '명')
+        : '';
       return '<div class="srow">' +
         '<span class="who">' + esc(s.name) + '</span>' +
         '<span class="when">' + esc(fmtKst(s.start)) + ' → ' + esc(fmtKst(s.end)) + '</span>' +
         '<span class="dur">' + esc(fmtHours(s.minutes)) + '</span>' +
+        (vw ? '<span class="when">' + esc(vw) + '</span>' : '') +
         tag +
         '<span class="what">' + link + '</span>' +
       '</div>';
@@ -341,6 +642,7 @@
       '집계 기준: ' + (data.timezone || 'Asia/Seoul') + ' · 오늘=00:00부터, 이번 주=월요일부터, 이번 달=1일부터';
     renderTotals();
     renderChannels();
+    renderDetail();
     renderSessions();
   }
 
