@@ -2,120 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEdlID7vgnILT3NR-ifyjPg": {
-      "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
-      "name": "서토리 라이브 저장소!",
-      "videoId": "wmJerM_yCJc",
-      "start": "2026-09-11T10:59:42Z",
-      "startSource": "observed",
-      "title": "이터널리턴 2026년 9월 11일 1부",
-      "game": null,
-      "peakViewers": 4,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T10:59:42Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
-      "samples": [
-        [
-          "2026-09-11T10:59:42Z",
-          2
-        ],
-        [
-          "2026-09-11T11:18:27Z",
-          2
-        ],
-        [
-          "2026-09-11T11:57:45Z",
-          1
-        ],
-        [
-          "2026-09-11T12:22:15Z",
-          1
-        ],
-        [
-          "2026-09-11T12:44:23Z",
-          2
-        ],
-        [
-          "2026-09-11T12:58:36Z",
-          2
-        ],
-        [
-          "2026-09-11T13:18:16Z",
-          4
-        ],
-        [
-          "2026-09-11T13:33:39Z",
-          3
-        ],
-        [
-          "2026-09-11T13:49:15Z",
-          1
-        ],
-        [
-          "2026-09-11T14:00:11Z",
-          2
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "zFtWtoTJqok",
-      "start": "2026-09-11T11:18:27Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】スクリムやるぞ～！！！【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 37,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T11:18:27Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
-      "samples": [
-        [
-          "2026-09-11T11:18:27Z",
-          16
-        ],
-        [
-          "2026-09-11T11:33:39Z",
-          26
-        ],
-        [
-          "2026-09-11T11:47:19Z",
-          24
-        ],
-        [
-          "2026-09-11T11:57:45Z",
-          24
-        ],
-        [
-          "2026-09-11T12:22:15Z",
-          27
-        ],
-        [
-          "2026-09-11T12:44:23Z",
-          30
-        ],
-        [
-          "2026-09-11T12:58:36Z",
-          28
-        ],
-        [
-          "2026-09-11T13:18:16Z",
-          37
-        ],
-        [
-          "2026-09-11T13:33:39Z",
-          31
-        ],
-        [
-          "2026-09-11T13:49:15Z",
-          27
-        ],
-        [
-          "2026-09-11T14:00:11Z",
-          23
-        ]
-      ]
-    },
     "UCJIYiqfqTQa4vV7--giKWEQ": {
       "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
       "name": "なつなっつん / natsu_game01",
@@ -127,7 +13,7 @@
       "peakViewers": 4,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T11:18:27Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
       "samples": [
         [
           "2026-09-11T11:18:27Z",
@@ -172,57 +58,10 @@
         [
           "2026-09-11T14:00:11Z",
           2
-        ]
-      ]
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "videoId": "bzEofTrJVkI",
-      "start": "2026-09-11T11:47:19Z",
-      "startSource": "observed",
-      "title": "【 エターナルリターン / ゆかそ】ワタルとウピーと破壊する【 #奏手イヅル 】",
-      "game": null,
-      "peakViewers": 396,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T11:47:19Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
-      "samples": [
-        [
-          "2026-09-11T11:47:19Z",
-          324
         ],
         [
-          "2026-09-11T11:57:45Z",
-          320
-        ],
-        [
-          "2026-09-11T12:22:15Z",
-          327
-        ],
-        [
-          "2026-09-11T12:44:23Z",
-          317
-        ],
-        [
-          "2026-09-11T12:58:36Z",
-          382
-        ],
-        [
-          "2026-09-11T13:18:16Z",
-          396
-        ],
-        [
-          "2026-09-11T13:33:39Z",
-          391
-        ],
-        [
-          "2026-09-11T13:49:15Z",
-          385
-        ],
-        [
-          "2026-09-11T14:00:11Z",
-          373
+          "2026-09-11T14:23:05Z",
+          2
         ]
       ]
     },
@@ -237,7 +76,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T12:22:15Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
       "samples": [
         [
           "2026-09-11T12:44:23Z",
@@ -258,6 +97,10 @@
         [
           "2026-09-11T14:00:11Z",
           2
+        ],
+        [
+          "2026-09-11T14:23:05Z",
+          1
         ]
       ]
     },
@@ -269,10 +112,10 @@
       "startSource": "observed",
       "title": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
       "game": null,
-      "peakViewers": 653,
+      "peakViewers": 724,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T12:58:36Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
       "samples": [
         [
           "2026-09-11T12:58:36Z",
@@ -293,6 +136,10 @@
         [
           "2026-09-11T14:00:11Z",
           644
+        ],
+        [
+          "2026-09-11T14:23:05Z",
+          724
         ]
       ]
     },
@@ -307,7 +154,7 @@
       "peakViewers": 218,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T13:18:16Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
       "samples": [
         [
           "2026-09-11T13:18:16Z",
@@ -324,6 +171,10 @@
         [
           "2026-09-11T14:00:11Z",
           196
+        ],
+        [
+          "2026-09-11T14:23:05Z",
+          182
         ]
       ]
     },
@@ -338,7 +189,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-11T13:33:39Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
       "samples": [
         [
           "2026-09-11T13:33:39Z",
@@ -351,33 +202,10 @@
         [
           "2026-09-11T14:00:11Z",
           2
-        ]
-      ]
-    },
-    "UCuDY3ibSP2MFRgf7eo3cojg": {
-      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-      "name": "千燈ゆうひ",
-      "videoId": "AXz9c2098rw",
-      "start": "2026-09-11T13:33:39Z",
-      "startSource": "observed",
-      "title": "【Eternal Return】DOMINEXエタリタゆかそ部発進！【 ぶいすぽっ！ / 千燈ゆうひ 】",
-      "game": null,
-      "peakViewers": 14,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T13:33:39Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
-      "samples": [
-        [
-          "2026-09-11T13:33:39Z",
-          13
         ],
         [
-          "2026-09-11T13:49:15Z",
-          12
-        ],
-        [
-          "2026-09-11T14:00:11Z",
-          14
+          "2026-09-11T14:23:05Z",
+          3
         ]
       ]
     },
@@ -389,10 +217,10 @@
       "startSource": "observed",
       "title": "【Forza Horizon6】無免許爆走！オーバースペックはロマン＃26【#七乃羽すず┆すずみあ】",
       "game": null,
-      "peakViewers": 33,
+      "peakViewers": 51,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-11T13:49:15Z",
-      "lastSeenAt": "2026-09-11T14:00:11Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
       "samples": [
         [
           "2026-09-11T13:49:15Z",
@@ -401,6 +229,48 @@
         [
           "2026-09-11T14:00:11Z",
           33
+        ],
+        [
+          "2026-09-11T14:23:05Z",
+          51
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "8olv5OTlR2U",
+      "start": "2026-09-11T14:23:05Z",
+      "startSource": "observed",
+      "title": "【 #SURGETown ￤＃6】ガチおふざけ大魔神今日こそは神ピックする！【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 55,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-11T14:23:05Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
+      "samples": [
+        [
+          "2026-09-11T14:23:05Z",
+          55
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "tWB5aaxGnF0",
+      "start": "2026-09-11T14:23:05Z",
+      "startSource": "observed",
+      "title": "【 SURGETOWN 】#8　大型でも役に立ちたい！！！　【恋沼ミヤ/#surgetown】",
+      "game": null,
+      "peakViewers": 26,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-11T14:23:05Z",
+      "lastSeenAt": "2026-09-11T14:23:05Z",
+      "samples": [
+        [
+          "2026-09-11T14:23:05Z",
+          26
         ]
       ]
     }
@@ -1670,6 +1540,64 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
+      "name": "서토리 라이브 저장소!",
+      "videoId": "wmJerM_yCJc",
+      "videoUrl": "https://www.youtube.com/watch?v=wmJerM_yCJc",
+      "start": "2026-09-11T10:59:42Z",
+      "end": "2026-09-11T14:23:05Z",
+      "minutes": 203.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴 2026년 9월 11일 1부",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 1.9,
+      "samples": [
+        [
+          "2026-09-11T10:59:42Z",
+          2
+        ],
+        [
+          "2026-09-11T11:18:27Z",
+          2
+        ],
+        [
+          "2026-09-11T11:57:45Z",
+          1
+        ],
+        [
+          "2026-09-11T12:22:15Z",
+          1
+        ],
+        [
+          "2026-09-11T12:44:23Z",
+          2
+        ],
+        [
+          "2026-09-11T12:58:36Z",
+          2
+        ],
+        [
+          "2026-09-11T13:18:16Z",
+          4
+        ],
+        [
+          "2026-09-11T13:33:39Z",
+          3
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          1
+        ],
+        [
+          "2026-09-11T14:00:11Z",
+          2
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
       "name": "maŸUko",
       "videoId": "nJDo5J-KddI",
@@ -1920,6 +1848,122 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "zFtWtoTJqok",
+      "videoUrl": "https://www.youtube.com/watch?v=zFtWtoTJqok",
+      "start": "2026-09-11T11:18:27Z",
+      "end": "2026-09-11T14:23:05Z",
+      "minutes": 184.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】スクリムやるぞ～！！！【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 37,
+      "avgViewers": 26.6,
+      "samples": [
+        [
+          "2026-09-11T11:18:27Z",
+          16
+        ],
+        [
+          "2026-09-11T11:33:39Z",
+          26
+        ],
+        [
+          "2026-09-11T11:47:19Z",
+          24
+        ],
+        [
+          "2026-09-11T11:57:45Z",
+          24
+        ],
+        [
+          "2026-09-11T12:22:15Z",
+          27
+        ],
+        [
+          "2026-09-11T12:44:23Z",
+          30
+        ],
+        [
+          "2026-09-11T12:58:36Z",
+          28
+        ],
+        [
+          "2026-09-11T13:18:16Z",
+          37
+        ],
+        [
+          "2026-09-11T13:33:39Z",
+          31
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          27
+        ],
+        [
+          "2026-09-11T14:00:11Z",
+          23
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "videoId": "bzEofTrJVkI",
+      "videoUrl": "https://www.youtube.com/watch?v=bzEofTrJVkI",
+      "start": "2026-09-11T11:47:19Z",
+      "end": "2026-09-11T14:23:05Z",
+      "minutes": 155.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 エターナルリターン / ゆかそ】ワタルとウピーと破壊する【 #奏手イヅル 】",
+      "game": null,
+      "peakViewers": 396,
+      "avgViewers": 355.1,
+      "samples": [
+        [
+          "2026-09-11T11:47:19Z",
+          324
+        ],
+        [
+          "2026-09-11T11:57:45Z",
+          320
+        ],
+        [
+          "2026-09-11T12:22:15Z",
+          327
+        ],
+        [
+          "2026-09-11T12:44:23Z",
+          317
+        ],
+        [
+          "2026-09-11T12:58:36Z",
+          382
+        ],
+        [
+          "2026-09-11T13:18:16Z",
+          396
+        ],
+        [
+          "2026-09-11T13:33:39Z",
+          391
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          385
+        ],
+        [
+          "2026-09-11T14:00:11Z",
+          373
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
       "name": "那和ツムグ",
       "videoId": "PD6NcocTWXY",
@@ -1960,6 +2004,36 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+      "name": "千燈ゆうひ",
+      "videoId": "AXz9c2098rw",
+      "videoUrl": "https://www.youtube.com/watch?v=AXz9c2098rw",
+      "start": "2026-09-11T13:33:39Z",
+      "end": "2026-09-11T14:23:05Z",
+      "minutes": 49.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Eternal Return】DOMINEXエタリタゆかそ部発進！【 ぶいすぽっ！ / 千燈ゆうひ 】",
+      "game": null,
+      "peakViewers": 14,
+      "avgViewers": 13.1,
+      "samples": [
+        [
+          "2026-09-11T13:33:39Z",
+          13
+        ],
+        [
+          "2026-09-11T13:49:15Z",
+          12
+        ],
+        [
+          "2026-09-11T14:00:11Z",
+          14
+        ]
+      ],
+      "isTargetGame": true
     }
   ]
 }
