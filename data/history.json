@@ -1,157 +1,22 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "Zha0zrFesYQ",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "〖 お知らせ￤9/11まで 〗 新衣装グッズ🎀 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "1Lh9IEHrMjA",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "Free Chat🩵🤍🎐",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "tQH3VgMFeiU",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "🗝グッズ情報🗝メーメントヴァニタス1周年記念グッズ絶賛発売中！✨",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "QKgNjsiq6zM",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "┈┈・୨　𝕗𝕣𝕖𝕖𝕔𝕙𝕒𝕥　 ୧・┈┈",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "6e6Cj4aOKWk",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "【📢9/20(日) 23:59まで】望月ほぐの誕生日記念グッズ2026 発売中✨",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UCo3zRhsnXIieauvm6c-xwkA": {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "Uf95848rbJ0",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "キービジュアルグッズ常設販売開始！🪽✨",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UCeTb2MQrm8UBChlecw7pQOA": {
+  "open": {},
+  "sessions": [
+    {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
       "videoId": "mst1oJrSYcc",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
+      "videoUrl": "https://www.youtube.com/watch?v=mst1oJrSYcc",
+      "start": "2026-09-11T10:00:00Z",
+      "end": "2026-09-11T10:00:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
       "title": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
       "game": null,
       "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
+      "avgViewers": 1.0,
       "samples": [
         [
           "2026-09-11T01:55:31Z",
@@ -161,66 +26,23 @@
           "2026-09-11T01:57:35Z",
           1
         ]
-      ]
+      ],
+      "isTargetGame": false
     },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "etSB6NMbSCQ",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "フリーチャット　Xスペ用",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "wGXRAX4gwvE",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
-      "title": "𝒇𝒓𝒆𝒆 𝒄𝒉𝒂𝒕 & 𝒘𝒆𝒆𝒌𝒍𝒚 𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
-      "samples": [
-        [
-          "2026-09-11T01:55:31Z",
-          1
-        ],
-        [
-          "2026-09-11T01:57:35Z",
-          1
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
+    {
       "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
       "name": "maŸUko",
       "videoId": "nJDo5J-KddI",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
+      "videoUrl": "https://www.youtube.com/watch?v=nJDo5J-KddI",
+      "start": "2026-09-11T11:00:00Z",
+      "end": "2026-09-11T11:00:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
       "title": "🟣9/11【 #エターナルリターン 】スクリム行くぞ！ガンガン攻めるぞ！！【 maŸUko / #Vtuber 】",
       "game": null,
       "peakViewers": 1,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
+      "avgViewers": 1.0,
       "samples": [
         [
           "2026-09-11T01:55:31Z",
@@ -230,20 +52,205 @@
           "2026-09-11T01:57:35Z",
           1
         ]
-      ]
+      ],
+      "isTargetGame": true
     },
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "Zha0zrFesYQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Zha0zrFesYQ",
+      "start": "2026-09-11T14:45:00Z",
+      "end": "2026-09-11T14:45:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "〖 お知らせ￤9/11まで 〗 新衣装グッズ🎀 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "6e6Cj4aOKWk",
+      "videoUrl": "https://www.youtube.com/watch?v=6e6Cj4aOKWk",
+      "start": "2026-09-20T13:30:00Z",
+      "end": "2026-09-20T13:30:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "【📢9/20(日) 23:59まで】望月ほぐの誕生日記念グッズ2026 発売中✨",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "tQH3VgMFeiU",
+      "videoUrl": "https://www.youtube.com/watch?v=tQH3VgMFeiU",
+      "start": "2026-12-03T15:05:00Z",
+      "end": "2026-12-03T15:05:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "🗝グッズ情報🗝メーメントヴァニタス1周年記念グッズ絶賛発売中！✨",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "1Lh9IEHrMjA",
+      "videoUrl": "https://www.youtube.com/watch?v=1Lh9IEHrMjA",
+      "start": "2026-12-31T15:00:00Z",
+      "end": "2026-12-31T15:00:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "Free Chat🩵🤍🎐",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "Uf95848rbJ0",
+      "videoUrl": "https://www.youtube.com/watch?v=Uf95848rbJ0",
+      "start": "2027-01-01T12:00:00Z",
+      "end": "2027-01-01T12:00:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "キービジュアルグッズ常設販売開始！🪽✨",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "etSB6NMbSCQ",
+      "videoUrl": "https://www.youtube.com/watch?v=etSB6NMbSCQ",
+      "start": "2027-03-31T15:55:00Z",
+      "end": "2027-03-31T15:55:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "フリーチャット　Xスペ用",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "QKgNjsiq6zM",
+      "videoUrl": "https://www.youtube.com/watch?v=QKgNjsiq6zM",
+      "start": "2027-04-29T19:10:00Z",
+      "end": "2027-04-29T19:10:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "┈┈・୨　𝕗𝕣𝕖𝕖𝕔𝕙𝕒𝕥　 ୧・┈┈",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
       "name": "水上蒼太",
       "videoId": "C_77AeWlyGY",
-      "start": "2026-09-11T01:55:31Z",
-      "startSource": "observed",
+      "videoUrl": "https://www.youtube.com/watch?v=C_77AeWlyGY",
+      "start": "2027-07-25T15:00:00Z",
+      "end": "2027-07-25T15:00:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
       "title": "フリーチャットだよ【水上蒼太/ゆにれいど！】",
       "game": null,
       "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T01:55:31Z",
-      "lastSeenAt": "2026-09-11T01:57:35Z",
+      "avgViewers": 1.0,
       "samples": [
         [
           "2026-09-11T01:55:31Z",
@@ -253,8 +260,34 @@
           "2026-09-11T01:57:35Z",
           1
         ]
-      ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "wGXRAX4gwvE",
+      "videoUrl": "https://www.youtube.com/watch?v=wGXRAX4gwvE",
+      "start": "2028-01-16T14:45:00Z",
+      "end": "2028-01-16T14:45:00Z",
+      "minutes": 0.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "𝒇𝒓𝒆𝒆 𝒄𝒉𝒂𝒕 & 𝒘𝒆𝒆𝒌𝒍𝒚 𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-11T01:55:31Z",
+          1
+        ],
+        [
+          "2026-09-11T01:57:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
     }
-  },
-  "sessions": []
+  ]
 }
