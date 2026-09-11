@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:29:48Z",
+  "updatedAt": "2026-09-11T22:42:40Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,31 +16,31 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1167.0,
+      "totalMinutes": 1179.8,
       "gameMinutes": 125.3,
-      "totalHours": 19.45,
+      "totalHours": 19.66,
       "gameHours": 2.09,
       "sessions": 10,
-      "avgViewers": 154.3,
-      "peakViewers": 879
+      "avgViewers": 162.0,
+      "peakViewers": 928
     },
     "week": {
-      "totalMinutes": 7252.9,
+      "totalMinutes": 7265.7,
       "gameMinutes": 4763.2,
-      "totalHours": 120.88,
+      "totalHours": 121.1,
       "gameHours": 79.39,
       "sessions": 43,
-      "avgViewers": 98.1,
-      "peakViewers": 879
+      "avgViewers": 99.5,
+      "peakViewers": 928
     },
     "month": {
-      "totalMinutes": 7252.9,
+      "totalMinutes": 7265.7,
       "gameMinutes": 4763.2,
-      "totalHours": 120.88,
+      "totalHours": 121.1,
       "gameHours": 79.39,
       "sessions": 43,
-      "avgViewers": 98.1,
-      "peakViewers": 879
+      "avgViewers": 99.5,
+      "peakViewers": 928
     }
   },
   "channels": [
@@ -56,31 +56,31 @@
       "lastTitle": "【エターナルリターン】来週の大会に向けて！エタリタスクリム！！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 47.9,
+          "totalMinutes": 60.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.8,
+          "totalHours": 1.01,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 625.4,
-          "peakViewers": 879
+          "avgViewers": 675.6,
+          "peakViewers": 928
         },
         "week": {
-          "totalMinutes": 201.8,
+          "totalMinutes": 214.7,
           "gameMinutes": 153.9,
-          "totalHours": 3.36,
+          "totalHours": 3.58,
           "gameHours": 2.57,
           "sessions": 2,
-          "avgViewers": 268.6,
-          "peakViewers": 879
+          "avgViewers": 304.2,
+          "peakViewers": 928
         },
         "month": {
-          "totalMinutes": 201.8,
+          "totalMinutes": 214.7,
           "gameMinutes": 153.9,
-          "totalHours": 3.36,
+          "totalHours": 3.58,
           "gameHours": 2.57,
           "sessions": 2,
-          "avgViewers": 268.6,
-          "peakViewers": 879
+          "avgViewers": 304.2,
+          "peakViewers": 928
         }
       },
       "recentSessions": [
@@ -139,9 +139,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 879,
-      "livePeakViewers": 879,
-      "liveAvgViewers": 625.4,
+      "liveViewers": 928,
+      "livePeakViewers": 928,
+      "liveAvgViewers": 675.6,
       "liveSamples": [
         [
           "2026-09-11T21:41:56Z",
@@ -158,6 +158,10 @@
         [
           "2026-09-11T22:29:48Z",
           879
+        ],
+        [
+          "2026-09-11T22:42:40Z",
+          928
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=UkzJdtNBniA"
