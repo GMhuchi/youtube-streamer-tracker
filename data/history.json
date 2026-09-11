@@ -1,55 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "UkzJdtNBniA",
-      "start": "2026-09-11T21:41:56Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#294［2026.9/12］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 994,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-11T21:41:56Z",
-      "lastSeenAt": "2026-09-11T23:28:37Z",
-      "samples": [
-        [
-          "2026-09-11T21:41:56Z",
-          298
-        ],
-        [
-          "2026-09-11T21:55:51Z",
-          515
-        ],
-        [
-          "2026-09-11T22:12:29Z",
-          761
-        ],
-        [
-          "2026-09-11T22:29:48Z",
-          879
-        ],
-        [
-          "2026-09-11T22:42:40Z",
-          928
-        ],
-        [
-          "2026-09-11T22:55:51Z",
-          929
-        ],
-        [
-          "2026-09-11T23:11:06Z",
-          965
-        ],
-        [
-          "2026-09-11T23:28:37Z",
-          994
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -2424,6 +2376,56 @@
         [
           "2026-09-11T17:17:08Z",
           1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "UkzJdtNBniA",
+      "videoUrl": "https://www.youtube.com/watch?v=UkzJdtNBniA",
+      "start": "2026-09-11T21:41:56Z",
+      "end": "2026-09-11T23:40:48Z",
+      "minutes": 118.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#294［2026.9/12］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 994,
+      "avgViewers": 784.5,
+      "samples": [
+        [
+          "2026-09-11T21:41:56Z",
+          298
+        ],
+        [
+          "2026-09-11T21:55:51Z",
+          515
+        ],
+        [
+          "2026-09-11T22:12:29Z",
+          761
+        ],
+        [
+          "2026-09-11T22:29:48Z",
+          879
+        ],
+        [
+          "2026-09-11T22:42:40Z",
+          928
+        ],
+        [
+          "2026-09-11T22:55:51Z",
+          929
+        ],
+        [
+          "2026-09-11T23:11:06Z",
+          965
+        ],
+        [
+          "2026-09-11T23:28:37Z",
+          994
         ]
       ],
       "isTargetGame": false
