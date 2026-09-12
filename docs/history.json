@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T20:59:40Z",
+  "updatedAt": "2026-09-12T21:17:52Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,74 +16,519 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1663.4,
+      "totalMinutes": 1699.8,
       "gameMinutes": 14.4,
-      "totalHours": 27.72,
+      "totalHours": 28.33,
       "gameHours": 0.24,
       "sessions": 18,
-      "avgViewers": 118.2,
+      "avgViewers": 116.1,
       "peakViewers": 966
     },
     "week": {
-      "totalMinutes": 16430.2,
+      "totalMinutes": 16466.5,
       "gameMinutes": 7167.9,
-      "totalHours": 273.84,
+      "totalHours": 274.44,
       "gameHours": 119.46,
       "sessions": 90,
-      "avgViewers": 100.5,
+      "avgViewers": 100.4,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 16430.2,
+      "totalMinutes": 16466.5,
       "gameMinutes": 7167.9,
-      "totalHours": 273.84,
+      "totalHours": 274.44,
       "gameHours": 119.46,
       "sessions": 90,
-      "avgViewers": 100.5,
+      "avgViewers": 100.4,
       "peakViewers": 994
     }
   },
   "channels": [
     {
+      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+      "name": "지몽지",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCn5ZfWrb5xHwzqczEl5NlxQ",
+      "isLive": true,
+      "liveSince": "2026-09-12T16:42:48Z",
+      "liveTitle": "[단간론파 어나더] 4챕 | 오늘도 좋아하는 애가 죽을 것 인가...!? 누가 죽는가?!",
+      "lastEnd": "2026-09-12T16:30:08Z",
+      "lastTitle": "[단간론파 어나더] 4챕 | 오늘도 좋아하는 애가 죽을 것 인가...!? 누가 죽는가?!",
+      "buckets": {
+        "today": {
+          "totalMinutes": 365.2,
+          "gameMinutes": 0.0,
+          "totalHours": 6.09,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 1.1,
+          "peakViewers": 4
+        },
+        "week": {
+          "totalMinutes": 575.1,
+          "gameMinutes": 0.0,
+          "totalHours": 9.58,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 1.2,
+          "peakViewers": 4
+        },
+        "month": {
+          "totalMinutes": 575.1,
+          "gameMinutes": 0.0,
+          "totalHours": 9.58,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 1.2,
+          "peakViewers": 4
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "bEAKNZSoHkM",
+          "videoUrl": "https://www.youtube.com/watch?v=bEAKNZSoHkM",
+          "start": "2026-09-12T12:34:30Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 235.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[단간론파 어나더] 4챕 | 오늘도 좋아하는 애가 죽을 것 인가...!? 누가 죽는가?!",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 1.3,
+          "samples": [
+            [
+              "2026-09-12T12:49:58Z",
+              1
+            ],
+            [
+              "2026-09-12T13:00:43Z",
+              1
+            ],
+            [
+              "2026-09-12T13:20:22Z",
+              1
+            ],
+            [
+              "2026-09-12T14:00:01Z",
+              1
+            ],
+            [
+              "2026-09-12T14:16:46Z",
+              1
+            ],
+            [
+              "2026-09-12T14:57:22Z",
+              2
+            ],
+            [
+              "2026-09-12T15:14:26Z",
+              1
+            ],
+            [
+              "2026-09-12T15:29:00Z",
+              1
+            ],
+            [
+              "2026-09-12T15:55:54Z",
+              4
+            ],
+            [
+              "2026-09-12T16:12:45Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "Km2Tmbh4_d4",
+          "videoUrl": "https://www.youtube.com/watch?v=Km2Tmbh4_d4",
+          "start": "2026-09-12T11:10:51Z",
+          "end": "2026-09-12T12:15:12Z",
+          "minutes": 64.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[링피트 어드벤처] 저챗 후 남은 링피트... 예정...",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 1,
+      "livePeakViewers": 2,
+      "liveAvgViewers": 1.1,
+      "liveSamples": [
+        [
+          "2026-09-12T16:42:48Z",
+          1
+        ],
+        [
+          "2026-09-12T16:55:38Z",
+          1
+        ],
+        [
+          "2026-09-12T17:10:37Z",
+          1
+        ],
+        [
+          "2026-09-12T17:28:18Z",
+          2
+        ],
+        [
+          "2026-09-12T17:40:45Z",
+          1
+        ],
+        [
+          "2026-09-12T17:55:47Z",
+          1
+        ],
+        [
+          "2026-09-12T18:31:25Z",
+          1
+        ],
+        [
+          "2026-09-12T18:57:15Z",
+          1
+        ],
+        [
+          "2026-09-12T19:27:43Z",
+          1
+        ],
+        [
+          "2026-09-12T19:40:56Z",
+          2
+        ],
+        [
+          "2026-09-12T19:56:13Z",
+          1
+        ],
+        [
+          "2026-09-12T20:31:49Z",
+          1
+        ],
+        [
+          "2026-09-12T20:49:13Z",
+          1
+        ],
+        [
+          "2026-09-12T20:59:40Z",
+          1
+        ],
+        [
+          "2026-09-12T21:17:52Z",
+          1
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=bEAKNZSoHkM"
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-12T17:15:48Z",
+      "lastTitle": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+      "buckets": {
+        "today": {
+          "totalMinutes": 225.9,
+          "gameMinutes": 0.0,
+          "totalHours": 3.77,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 1149.9,
+          "gameMinutes": 0.0,
+          "totalHours": 19.16,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 345.2,
+          "peakViewers": 796
+        },
+        "month": {
+          "totalMinutes": 1149.9,
+          "gameMinutes": 0.0,
+          "totalHours": 19.16,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 345.2,
+          "peakViewers": 796
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zz0_U5-a5RI",
+          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
+          "start": "2026-09-12T12:33:45Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 236.4,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zz0_U5-a5RI",
+          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
+          "start": "2026-09-12T12:33:45Z",
+          "end": "2026-09-12T17:15:48Z",
+          "minutes": 282.1,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "n3cfBSANUw4",
+          "videoUrl": "https://www.youtube.com/watch?v=n3cfBSANUw4",
+          "start": "2026-09-12T08:21:54Z",
+          "end": "2026-09-12T11:10:51Z",
+          "minutes": 169.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの縦型だよ🎤🎶#shorts #歌枠  〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 310,
+          "avgViewers": 259.8,
+          "samples": [
+            [
+              "2026-09-12T08:21:54Z",
+              180
+            ],
+            [
+              "2026-09-12T08:40:36Z",
+              239
+            ],
+            [
+              "2026-09-12T08:56:02Z",
+              272
+            ],
+            [
+              "2026-09-12T09:12:41Z",
+              281
+            ],
+            [
+              "2026-09-12T09:29:31Z",
+              286
+            ],
+            [
+              "2026-09-12T09:42:40Z",
+              308
+            ],
+            [
+              "2026-09-12T09:55:51Z",
+              310
+            ],
+            [
+              "2026-09-12T10:12:15Z",
+              267
+            ],
+            [
+              "2026-09-12T10:29:27Z",
+              260
+            ],
+            [
+              "2026-09-12T10:42:30Z",
+              240
+            ],
+            [
+              "2026-09-12T10:55:34Z",
+              233
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "X-jq2tAO9Dg",
+          "videoUrl": "https://www.youtube.com/watch?v=X-jq2tAO9Dg",
+          "start": "2026-09-11T11:18:27Z",
+          "end": "2026-09-11T14:00:11Z",
+          "minutes": 161.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 R.E.P.O. 〗 ﾊｰﾄｻﾝｸﾞﾗｽﾊﾟﾘﾋﾟｰｽﾞ遊ぶよ～🕶💓.ᐟ.ᐟ⭐︎ / 絲依とい、えと、ゆう。、レイン・パターソン、夕霧レイ〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 113,
+          "avgViewers": 100.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "vxiRbmBAf1s",
+          "videoUrl": "https://www.youtube.com/watch?v=vxiRbmBAf1s",
+          "start": "2026-09-11T04:48:48Z",
+          "end": "2026-09-11T09:49:33Z",
+          "minutes": 300.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 ダイヤいくぞおおおおお〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 796,
+          "avgViewers": 524.9,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": true,
-      "liveSince": "2026-09-12T16:42:48Z",
-      "liveTitle": "【 SURGETOWN 】#9　警察で地上組として頑張りたい！【恋沼ミヤ/#surgetown】",
-      "lastEnd": "2026-09-12T16:30:08Z",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-12T21:17:52Z",
       "lastTitle": "【 SURGETOWN 】#9　警察で地上組として頑張りたい！【恋沼ミヤ/#surgetown】",
       "buckets": {
         "today": {
-          "totalMinutes": 347.0,
+          "totalMinutes": 365.2,
           "gameMinutes": 0.0,
-          "totalHours": 5.78,
+          "totalHours": 6.09,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 66.5,
+          "avgViewers": 66.9,
           "peakViewers": 95
         },
         "week": {
-          "totalMinutes": 1118.1,
+          "totalMinutes": 1136.3,
           "gameMinutes": 0.0,
-          "totalHours": 18.64,
+          "totalHours": 18.94,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 56.4,
+          "avgViewers": 56.6,
           "peakViewers": 98
         },
         "month": {
-          "totalMinutes": 1118.1,
+          "totalMinutes": 1136.3,
           "gameMinutes": 0.0,
-          "totalHours": 18.64,
+          "totalHours": 18.94,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 56.4,
+          "avgViewers": 56.6,
           "peakViewers": 98
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "koNNYjd9_Hk",
+          "videoUrl": "https://www.youtube.com/watch?v=koNNYjd9_Hk",
+          "start": "2026-09-12T16:42:48Z",
+          "end": "2026-09-12T21:17:52Z",
+          "minutes": 275.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#9　警察で地上組として頑張りたい！【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 73.2,
+          "samples": [
+            [
+              "2026-09-12T16:42:48Z",
+              46
+            ],
+            [
+              "2026-09-12T16:55:38Z",
+              46
+            ],
+            [
+              "2026-09-12T17:10:37Z",
+              46
+            ],
+            [
+              "2026-09-12T17:28:18Z",
+              62
+            ],
+            [
+              "2026-09-12T17:40:45Z",
+              76
+            ],
+            [
+              "2026-09-12T17:55:47Z",
+              62
+            ],
+            [
+              "2026-09-12T18:13:52Z",
+              64
+            ],
+            [
+              "2026-09-12T18:31:25Z",
+              86
+            ],
+            [
+              "2026-09-12T18:46:44Z",
+              84
+            ],
+            [
+              "2026-09-12T18:57:15Z",
+              69
+            ],
+            [
+              "2026-09-12T19:12:55Z",
+              75
+            ],
+            [
+              "2026-09-12T19:27:43Z",
+              86
+            ],
+            [
+              "2026-09-12T19:40:56Z",
+              80
+            ],
+            [
+              "2026-09-12T19:56:13Z",
+              82
+            ],
+            [
+              "2026-09-12T20:12:50Z",
+              95
+            ],
+            [
+              "2026-09-12T20:31:49Z",
+              79
+            ],
+            [
+              "2026-09-12T20:49:13Z",
+              91
+            ],
+            [
+              "2026-09-12T20:59:40Z",
+              94
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
           "name": "恋沼ミヤ",
@@ -306,488 +751,6 @@
           "game": null,
           "peakViewers": 57,
           "avgViewers": 36.0,
-          "samples": [
-            [
-              "2026-09-11T14:23:05Z",
-              26
-            ],
-            [
-              "2026-09-11T14:41:24Z",
-              25
-            ],
-            [
-              "2026-09-11T14:57:45Z",
-              29
-            ],
-            [
-              "2026-09-11T15:16:19Z",
-              41
-            ],
-            [
-              "2026-09-11T15:32:24Z",
-              33
-            ],
-            [
-              "2026-09-11T15:48:40Z",
-              38
-            ],
-            [
-              "2026-09-11T15:59:46Z",
-              40
-            ],
-            [
-              "2026-09-11T16:19:44Z",
-              57
-            ],
-            [
-              "2026-09-11T16:35:19Z",
-              35
-            ],
-            [
-              "2026-09-11T16:48:58Z",
-              37
-            ],
-            [
-              "2026-09-11T16:59:25Z",
-              27
-            ],
-            [
-              "2026-09-11T17:17:08Z",
-              47
-            ],
-            [
-              "2026-09-11T17:31:51Z",
-              38
-            ]
-          ],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 94,
-      "livePeakViewers": 95,
-      "liveAvgViewers": 73.2,
-      "liveSamples": [
-        [
-          "2026-09-12T16:42:48Z",
-          46
-        ],
-        [
-          "2026-09-12T16:55:38Z",
-          46
-        ],
-        [
-          "2026-09-12T17:10:37Z",
-          46
-        ],
-        [
-          "2026-09-12T17:28:18Z",
-          62
-        ],
-        [
-          "2026-09-12T17:40:45Z",
-          76
-        ],
-        [
-          "2026-09-12T17:55:47Z",
-          62
-        ],
-        [
-          "2026-09-12T18:13:52Z",
-          64
-        ],
-        [
-          "2026-09-12T18:31:25Z",
-          86
-        ],
-        [
-          "2026-09-12T18:46:44Z",
-          84
-        ],
-        [
-          "2026-09-12T18:57:15Z",
-          69
-        ],
-        [
-          "2026-09-12T19:12:55Z",
-          75
-        ],
-        [
-          "2026-09-12T19:27:43Z",
-          86
-        ],
-        [
-          "2026-09-12T19:40:56Z",
-          80
-        ],
-        [
-          "2026-09-12T19:56:13Z",
-          82
-        ],
-        [
-          "2026-09-12T20:12:50Z",
-          95
-        ],
-        [
-          "2026-09-12T20:31:49Z",
-          79
-        ],
-        [
-          "2026-09-12T20:49:13Z",
-          91
-        ],
-        [
-          "2026-09-12T20:59:40Z",
-          94
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=koNNYjd9_Hk"
-    },
-    {
-      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "name": "지몽지",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "isLive": true,
-      "liveSince": "2026-09-12T16:42:48Z",
-      "liveTitle": "[단간론파 어나더] 4챕 | 오늘도 좋아하는 애가 죽을 것 인가...!? 누가 죽는가?!",
-      "lastEnd": "2026-09-12T16:30:08Z",
-      "lastTitle": "[단간론파 어나더] 4챕 | 오늘도 좋아하는 애가 죽을 것 인가...!? 누가 죽는가?!",
-      "buckets": {
-        "today": {
-          "totalMinutes": 347.0,
-          "gameMinutes": 0.0,
-          "totalHours": 5.78,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 1.2,
-          "peakViewers": 4
-        },
-        "week": {
-          "totalMinutes": 556.9,
-          "gameMinutes": 0.0,
-          "totalHours": 9.28,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 1.2,
-          "peakViewers": 4
-        },
-        "month": {
-          "totalMinutes": 556.9,
-          "gameMinutes": 0.0,
-          "totalHours": 9.28,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 1.2,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "bEAKNZSoHkM",
-          "videoUrl": "https://www.youtube.com/watch?v=bEAKNZSoHkM",
-          "start": "2026-09-12T12:34:30Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 235.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[단간론파 어나더] 4챕 | 오늘도 좋아하는 애가 죽을 것 인가...!? 누가 죽는가?!",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 1.3,
-          "samples": [
-            [
-              "2026-09-12T12:49:58Z",
-              1
-            ],
-            [
-              "2026-09-12T13:00:43Z",
-              1
-            ],
-            [
-              "2026-09-12T13:20:22Z",
-              1
-            ],
-            [
-              "2026-09-12T14:00:01Z",
-              1
-            ],
-            [
-              "2026-09-12T14:16:46Z",
-              1
-            ],
-            [
-              "2026-09-12T14:57:22Z",
-              2
-            ],
-            [
-              "2026-09-12T15:14:26Z",
-              1
-            ],
-            [
-              "2026-09-12T15:29:00Z",
-              1
-            ],
-            [
-              "2026-09-12T15:55:54Z",
-              4
-            ],
-            [
-              "2026-09-12T16:12:45Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "Km2Tmbh4_d4",
-          "videoUrl": "https://www.youtube.com/watch?v=Km2Tmbh4_d4",
-          "start": "2026-09-12T11:10:51Z",
-          "end": "2026-09-12T12:15:12Z",
-          "minutes": 64.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[링피트 어드벤처] 저챗 후 남은 링피트... 예정...",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 1,
-      "livePeakViewers": 2,
-      "liveAvgViewers": 1.1,
-      "liveSamples": [
-        [
-          "2026-09-12T16:42:48Z",
-          1
-        ],
-        [
-          "2026-09-12T16:55:38Z",
-          1
-        ],
-        [
-          "2026-09-12T17:10:37Z",
-          1
-        ],
-        [
-          "2026-09-12T17:28:18Z",
-          2
-        ],
-        [
-          "2026-09-12T17:40:45Z",
-          1
-        ],
-        [
-          "2026-09-12T17:55:47Z",
-          1
-        ],
-        [
-          "2026-09-12T18:31:25Z",
-          1
-        ],
-        [
-          "2026-09-12T18:57:15Z",
-          1
-        ],
-        [
-          "2026-09-12T19:27:43Z",
-          1
-        ],
-        [
-          "2026-09-12T19:40:56Z",
-          2
-        ],
-        [
-          "2026-09-12T19:56:13Z",
-          1
-        ],
-        [
-          "2026-09-12T20:31:49Z",
-          1
-        ],
-        [
-          "2026-09-12T20:49:13Z",
-          1
-        ],
-        [
-          "2026-09-12T20:59:40Z",
-          1
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=bEAKNZSoHkM"
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-12T17:15:48Z",
-      "lastTitle": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 225.9,
-          "gameMinutes": 0.0,
-          "totalHours": 3.77,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 1149.9,
-          "gameMinutes": 0.0,
-          "totalHours": 19.16,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 345.2,
-          "peakViewers": 796
-        },
-        "month": {
-          "totalMinutes": 1149.9,
-          "gameMinutes": 0.0,
-          "totalHours": 19.16,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 345.2,
-          "peakViewers": 796
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zz0_U5-a5RI",
-          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
-          "start": "2026-09-12T12:33:45Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 236.4,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zz0_U5-a5RI",
-          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
-          "start": "2026-09-12T12:33:45Z",
-          "end": "2026-09-12T17:15:48Z",
-          "minutes": 282.1,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "n3cfBSANUw4",
-          "videoUrl": "https://www.youtube.com/watch?v=n3cfBSANUw4",
-          "start": "2026-09-12T08:21:54Z",
-          "end": "2026-09-12T11:10:51Z",
-          "minutes": 169.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの縦型だよ🎤🎶#shorts #歌枠  〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 310,
-          "avgViewers": 259.8,
-          "samples": [
-            [
-              "2026-09-12T08:21:54Z",
-              180
-            ],
-            [
-              "2026-09-12T08:40:36Z",
-              239
-            ],
-            [
-              "2026-09-12T08:56:02Z",
-              272
-            ],
-            [
-              "2026-09-12T09:12:41Z",
-              281
-            ],
-            [
-              "2026-09-12T09:29:31Z",
-              286
-            ],
-            [
-              "2026-09-12T09:42:40Z",
-              308
-            ],
-            [
-              "2026-09-12T09:55:51Z",
-              310
-            ],
-            [
-              "2026-09-12T10:12:15Z",
-              267
-            ],
-            [
-              "2026-09-12T10:29:27Z",
-              260
-            ],
-            [
-              "2026-09-12T10:42:30Z",
-              240
-            ],
-            [
-              "2026-09-12T10:55:34Z",
-              233
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "X-jq2tAO9Dg",
-          "videoUrl": "https://www.youtube.com/watch?v=X-jq2tAO9Dg",
-          "start": "2026-09-11T11:18:27Z",
-          "end": "2026-09-11T14:00:11Z",
-          "minutes": 161.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 R.E.P.O. 〗 ﾊｰﾄｻﾝｸﾞﾗｽﾊﾟﾘﾋﾟｰｽﾞ遊ぶよ～🕶💓.ᐟ.ᐟ⭐︎ / 絲依とい、えと、ゆう。、レイン・パターソン、夕霧レイ〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 113,
-          "avgViewers": 100.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "vxiRbmBAf1s",
-          "videoUrl": "https://www.youtube.com/watch?v=vxiRbmBAf1s",
-          "start": "2026-09-11T04:48:48Z",
-          "end": "2026-09-11T09:49:33Z",
-          "minutes": 300.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 ダイヤいくぞおおおおお〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 796,
-          "avgViewers": 524.9,
           "samples": [],
           "isTargetGame": false
         }
@@ -6419,6 +6382,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "koNNYjd9_Hk",
+      "videoUrl": "https://www.youtube.com/watch?v=koNNYjd9_Hk",
+      "start": "2026-09-12T16:42:48Z",
+      "end": "2026-09-12T21:17:52Z",
+      "minutes": 275.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 SURGETOWN 】#9　警察で地上組として頑張りたい！【恋沼ミヤ/#surgetown】",
+      "game": null,
+      "peakViewers": 95,
+      "avgViewers": 73.2,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
       "name": "埼凰リンネ",
       "videoId": "6tuH_RK0ULo",
@@ -7280,22 +7259,6 @@
       "game": null,
       "peakViewers": 39,
       "avgViewers": 29.5,
-      "isTargetGame": true
-    },
-    {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "bcA8FaaBkLo",
-      "videoUrl": "https://www.youtube.com/watch?v=bcA8FaaBkLo",
-      "start": "2026-09-11T11:18:27Z",
-      "end": "2026-09-11T13:18:16Z",
-      "minutes": 119.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "エターナルリターン  | スクリムでアヤちゃんを練習しまくるぞ！ #愁子",
-      "game": null,
-      "peakViewers": 21,
-      "avgViewers": 17.5,
       "isTargetGame": true
     }
   ]
