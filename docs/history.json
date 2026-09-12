@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T11:40:54Z",
+  "updatedAt": "2026-09-12T11:55:44Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 5965.2,
-      "gameMinutes": 2053.0,
-      "totalHours": 99.42,
-      "gameHours": 34.22,
-      "sessions": 36,
-      "avgViewers": 90.0,
+      "totalMinutes": 6143.3,
+      "gameMinutes": 2127.2,
+      "totalHours": 102.39,
+      "gameHours": 35.45,
+      "sessions": 38,
+      "avgViewers": 91.9,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 12051.1,
-      "gameMinutes": 6690.9,
-      "totalHours": 200.85,
-      "gameHours": 111.52,
-      "sessions": 69,
-      "avgViewers": 88.3,
+      "totalMinutes": 12229.2,
+      "gameMinutes": 6765.1,
+      "totalHours": 203.82,
+      "gameHours": 112.75,
+      "sessions": 71,
+      "avgViewers": 89.2,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 12051.1,
-      "gameMinutes": 6690.9,
-      "totalHours": 200.85,
-      "gameHours": 111.52,
-      "sessions": 69,
-      "avgViewers": 88.3,
+      "totalMinutes": 12229.2,
+      "gameMinutes": 6765.1,
+      "totalHours": 203.82,
+      "gameHours": 112.75,
+      "sessions": 71,
+      "avgViewers": 89.2,
       "peakViewers": 994
     }
   },
@@ -50,40 +50,57 @@
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCJIYiqfqTQa4vV7--giKWEQ",
       "isLive": true,
-      "liveSince": "2026-09-12T11:40:54Z",
-      "liveTitle": "なつ祭　抽選会",
-      "lastEnd": "2026-09-12T10:29:27Z",
-      "lastTitle": "【ポケユナ】【R642～】一旦落ち着けソロラン＆参加型カジュアル【ポケモンユナイト】",
+      "liveSince": "2026-09-12T11:55:44Z",
+      "liveTitle": "【エタリタ】【ブロンズⅠ～】シルバー目前で沼る男のランク【エターナルリターン】",
+      "lastEnd": "2026-09-12T11:55:44Z",
+      "lastTitle": "なつ祭　抽選会",
       "buckets": {
         "today": {
-          "totalMinutes": 222.9,
+          "totalMinutes": 237.7,
           "gameMinutes": 0.0,
-          "totalHours": 3.71,
+          "totalHours": 3.96,
           "gameHours": 0.0,
-          "sessions": 3,
+          "sessions": 4,
           "avgViewers": 1.7,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 715.8,
+          "totalMinutes": 730.6,
           "gameMinutes": 271.3,
-          "totalHours": 11.93,
+          "totalHours": 12.18,
           "gameHours": 4.52,
-          "sessions": 4,
+          "sessions": 5,
           "avgViewers": 2.1,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 715.8,
+          "totalMinutes": 730.6,
           "gameMinutes": 271.3,
-          "totalHours": 11.93,
+          "totalHours": 12.18,
           "gameHours": 4.52,
-          "sessions": 4,
+          "sessions": 5,
           "avgViewers": 2.1,
           "peakViewers": 5
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
+          "name": "なつなっつん / natsu_game01",
+          "videoId": "5Ii-od-JrmE",
+          "videoUrl": "https://www.youtube.com/watch?v=5Ii-od-JrmE",
+          "start": "2026-09-12T11:40:54Z",
+          "end": "2026-09-12T11:55:44Z",
+          "minutes": 14.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "なつ祭　抽選会",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
           "name": "なつなっつん / natsu_game01",
@@ -222,76 +239,20 @@
           "game": null,
           "peakViewers": 5,
           "avgViewers": 2.7,
-          "samples": [
-            [
-              "2026-09-11T05:59:00Z",
-              1
-            ],
-            [
-              "2026-09-11T06:23:09Z",
-              2
-            ],
-            [
-              "2026-09-11T06:44:27Z",
-              4
-            ],
-            [
-              "2026-09-11T06:59:21Z",
-              3
-            ],
-            [
-              "2026-09-11T07:18:56Z",
-              3
-            ],
-            [
-              "2026-09-11T07:34:07Z",
-              5
-            ],
-            [
-              "2026-09-11T07:49:38Z",
-              4
-            ],
-            [
-              "2026-09-11T08:00:26Z",
-              3
-            ],
-            [
-              "2026-09-11T08:24:12Z",
-              1
-            ],
-            [
-              "2026-09-11T08:42:31Z",
-              5
-            ],
-            [
-              "2026-09-11T08:57:40Z",
-              3
-            ],
-            [
-              "2026-09-11T09:16:26Z",
-              3
-            ],
-            [
-              "2026-09-11T09:32:43Z",
-              3
-            ],
-            [
-              "2026-09-11T09:49:33Z",
-              1
-            ],
-            [
-              "2026-09-11T10:00:03Z",
-              1
-            ]
-          ],
+          "samples": [],
           "isTargetGame": true
         }
       ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=5Ii-od-JrmE"
+      "liveViewers": 1,
+      "livePeakViewers": 1,
+      "liveAvgViewers": 1.0,
+      "liveSamples": [
+        [
+          "2026-09-12T11:55:44Z",
+          1
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=yEMQqEfSFSQ"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -305,30 +266,30 @@
       "lastTitle": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
       "buckets": {
         "today": {
-          "totalMinutes": 535.1,
+          "totalMinutes": 549.9,
           "gameMinutes": 0.0,
-          "totalHours": 8.92,
+          "totalHours": 9.17,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 58.5,
+          "avgViewers": 58.8,
           "peakViewers": 98
         },
         "week": {
-          "totalMinutes": 572.0,
+          "totalMinutes": 586.9,
           "gameMinutes": 0.0,
-          "totalHours": 9.53,
+          "totalHours": 9.78,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 57.0,
+          "avgViewers": 57.4,
           "peakViewers": 98
         },
         "month": {
-          "totalMinutes": 572.0,
+          "totalMinutes": 586.9,
           "gameMinutes": 0.0,
-          "totalHours": 9.53,
+          "totalHours": 9.78,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 57.0,
+          "avgViewers": 57.4,
           "peakViewers": 98
         }
       },
@@ -490,9 +451,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 66,
+      "liveViewers": 71,
       "livePeakViewers": 87,
-      "liveAvgViewers": 67.9,
+      "liveAvgViewers": 68.3,
       "liveSamples": [
         [
           "2026-09-12T09:55:51Z",
@@ -525,6 +486,10 @@
         [
           "2026-09-12T11:40:54Z",
           66
+        ],
+        [
+          "2026-09-12T11:55:44Z",
+          71
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=koNNYjd9_Hk"
@@ -541,27 +506,27 @@
       "lastTitle": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
       "buckets": {
         "today": {
-          "totalMinutes": 271.0,
+          "totalMinutes": 285.8,
           "gameMinutes": 0.0,
-          "totalHours": 4.52,
+          "totalHours": 4.76,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 11.1,
+          "avgViewers": 11.0,
           "peakViewers": 16
         },
         "week": {
-          "totalMinutes": 454.4,
+          "totalMinutes": 469.2,
           "gameMinutes": 183.4,
-          "totalHours": 7.57,
+          "totalHours": 7.82,
           "gameHours": 3.06,
           "sessions": 3,
           "avgViewers": 9.2,
           "peakViewers": 16
         },
         "month": {
-          "totalMinutes": 454.4,
+          "totalMinutes": 469.2,
           "gameMinutes": 183.4,
-          "totalHours": 7.57,
+          "totalHours": 7.82,
           "gameHours": 3.06,
           "sessions": 3,
           "avgViewers": 9.2,
@@ -650,9 +615,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 13,
+      "liveViewers": 10,
       "livePeakViewers": 16,
-      "liveAvgViewers": 11.1,
+      "liveAvgViewers": 11.0,
       "liveSamples": [
         [
           "2026-09-12T07:09:56Z",
@@ -729,6 +694,10 @@
         [
           "2026-09-12T11:40:54Z",
           13
+        ],
+        [
+          "2026-09-12T11:55:44Z",
+          10
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=rriWdxDclEU"
@@ -745,35 +714,35 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 402.3,
-          "gameMinutes": 402.3,
-          "totalHours": 6.7,
-          "gameHours": 6.7,
+          "totalMinutes": 417.1,
+          "gameMinutes": 417.1,
+          "totalHours": 6.95,
+          "gameHours": 6.95,
           "sessions": 1,
           "avgViewers": 16.3,
           "peakViewers": 29
         },
         "week": {
-          "totalMinutes": 402.3,
-          "gameMinutes": 402.3,
-          "totalHours": 6.7,
-          "gameHours": 6.7,
+          "totalMinutes": 417.1,
+          "gameMinutes": 417.1,
+          "totalHours": 6.95,
+          "gameHours": 6.95,
           "sessions": 1,
           "avgViewers": 16.3,
           "peakViewers": 29
         },
         "month": {
-          "totalMinutes": 402.3,
-          "gameMinutes": 402.3,
-          "totalHours": 6.7,
-          "gameHours": 6.7,
+          "totalMinutes": 417.1,
+          "gameMinutes": 417.1,
+          "totalHours": 6.95,
+          "gameHours": 6.95,
           "sessions": 1,
           "avgViewers": 16.3,
           "peakViewers": 29
         }
       },
       "recentSessions": [],
-      "liveViewers": 10,
+      "liveViewers": 16,
       "livePeakViewers": 29,
       "liveAvgViewers": 16.3,
       "liveSamples": [
@@ -884,6 +853,10 @@
         [
           "2026-09-12T11:40:54Z",
           10
+        ],
+        [
+          "2026-09-12T11:55:44Z",
+          16
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=azDYjPgX46g"
@@ -900,31 +873,31 @@
       "lastTitle": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
       "buckets": {
         "today": {
-          "totalMinutes": 237.7,
+          "totalMinutes": 252.5,
           "gameMinutes": 0.0,
-          "totalHours": 3.96,
+          "totalHours": 4.21,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 405.9,
-          "peakViewers": 739
+          "avgViewers": 429.4,
+          "peakViewers": 966
         },
         "week": {
-          "totalMinutes": 359.1,
+          "totalMinutes": 373.9,
           "gameMinutes": 0.0,
-          "totalHours": 5.99,
+          "totalHours": 6.23,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 462.7,
-          "peakViewers": 739
+          "avgViewers": 476.3,
+          "peakViewers": 966
         },
         "month": {
-          "totalMinutes": 359.1,
+          "totalMinutes": 373.9,
           "gameMinutes": 0.0,
-          "totalHours": 5.99,
+          "totalHours": 6.23,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 462.7,
-          "peakViewers": 739
+          "avgViewers": 476.3,
+          "peakViewers": 966
         }
       },
       "recentSessions": [
@@ -1019,9 +992,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 11,
-      "livePeakViewers": 18,
-      "liveAvgViewers": 15.0,
+      "liveViewers": 966,
+      "livePeakViewers": 966,
+      "liveAvgViewers": 150.9,
       "liveSamples": [
         [
           "2026-09-12T10:29:27Z",
@@ -1046,9 +1019,185 @@
         [
           "2026-09-12T11:40:54Z",
           11
+        ],
+        [
+          "2026-09-12T11:55:44Z",
+          966
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0"
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
+      "isLive": true,
+      "liveSince": "2026-09-12T11:55:44Z",
+      "liveTitle": "#SURGETown 5日目 | やっきょく！第5話「モデルをするぞ！？」 #愁子",
+      "lastEnd": "2026-09-11T13:18:16Z",
+      "lastTitle": "エターナルリターン  | スクリムでアヤちゃんを練習しまくるぞ！ #愁子",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 15.0,
+          "peakViewers": 15
+        },
+        "week": {
+          "totalMinutes": 349.0,
+          "gameMinutes": 349.0,
+          "totalHours": 5.82,
+          "gameHours": 5.82,
+          "sessions": 3,
+          "avgViewers": 30.2,
+          "peakViewers": 51
+        },
+        "month": {
+          "totalMinutes": 349.0,
+          "gameMinutes": 349.0,
+          "totalHours": 5.82,
+          "gameHours": 5.82,
+          "sessions": 3,
+          "avgViewers": 30.2,
+          "peakViewers": 51
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "bcA8FaaBkLo",
+          "videoUrl": "https://www.youtube.com/watch?v=bcA8FaaBkLo",
+          "start": "2026-09-11T11:18:27Z",
+          "end": "2026-09-11T13:18:16Z",
+          "minutes": 119.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "エターナルリターン  | スクリムでアヤちゃんを練習しまくるぞ！ #愁子",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 17.5,
+          "samples": [
+            [
+              "2026-09-11T11:18:27Z",
+              16
+            ],
+            [
+              "2026-09-11T11:33:39Z",
+              15
+            ],
+            [
+              "2026-09-11T11:47:19Z",
+              17
+            ],
+            [
+              "2026-09-11T11:57:45Z",
+              19
+            ],
+            [
+              "2026-09-11T12:22:15Z",
+              20
+            ],
+            [
+              "2026-09-11T12:44:23Z",
+              21
+            ],
+            [
+              "2026-09-11T12:58:36Z",
+              13
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "zFqGv70GMSg",
+          "videoUrl": "https://www.youtube.com/watch?v=zFqGv70GMSg",
+          "start": "2026-09-11T04:35:00Z",
+          "end": "2026-09-11T08:24:12Z",
+          "minutes": 229.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "エターナルリターン  | ソロで慣れる！ガーネットかわええ #愁子",
+          "game": null,
+          "peakViewers": 51,
+          "avgViewers": 36.9,
+          "samples": [
+            [
+              "2026-09-11T04:35:00Z",
+              20
+            ],
+            [
+              "2026-09-11T04:48:48Z",
+              25
+            ],
+            [
+              "2026-09-11T04:59:23Z",
+              25
+            ],
+            [
+              "2026-09-11T05:17:43Z",
+              31
+            ],
+            [
+              "2026-09-11T05:32:43Z",
+              34
+            ],
+            [
+              "2026-09-11T05:48:21Z",
+              37
+            ],
+            [
+              "2026-09-11T05:59:00Z",
+              40
+            ],
+            [
+              "2026-09-11T06:23:09Z",
+              38
+            ],
+            [
+              "2026-09-11T06:44:27Z",
+              38
+            ],
+            [
+              "2026-09-11T06:59:21Z",
+              38
+            ],
+            [
+              "2026-09-11T07:18:56Z",
+              40
+            ],
+            [
+              "2026-09-11T07:34:07Z",
+              50
+            ],
+            [
+              "2026-09-11T07:49:38Z",
+              47
+            ],
+            [
+              "2026-09-11T08:00:26Z",
+              51
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 15,
+      "livePeakViewers": 15,
+      "liveAvgViewers": 15.0,
+      "liveSamples": [
+        [
+          "2026-09-12T11:55:44Z",
+          15
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=6ymUENhVQDA"
     },
     {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
@@ -1062,30 +1211,30 @@
       "lastTitle": "【SURGETown】遅 番 出 勤【綾見ユラ/YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 208.6,
+          "totalMinutes": 223.4,
           "gameMinutes": 0.0,
-          "totalHours": 3.48,
+          "totalHours": 3.72,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 201.0,
+          "avgViewers": 201.3,
           "peakViewers": 275
         },
         "week": {
-          "totalMinutes": 310.3,
+          "totalMinutes": 325.2,
           "gameMinutes": 0.0,
-          "totalHours": 5.17,
+          "totalHours": 5.42,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 205.0,
+          "avgViewers": 205.1,
           "peakViewers": 275
         },
         "month": {
-          "totalMinutes": 310.3,
+          "totalMinutes": 325.2,
           "gameMinutes": 0.0,
-          "totalHours": 5.17,
+          "totalHours": 5.42,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 205.0,
+          "avgViewers": 205.1,
           "peakViewers": 275
         }
       },
@@ -1169,9 +1318,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 186,
-      "livePeakViewers": 205,
-      "liveAvgViewers": 177.3,
+      "liveViewers": 212,
+      "livePeakViewers": 212,
+      "liveAvgViewers": 182.3,
       "liveSamples": [
         [
           "2026-09-12T10:29:27Z",
@@ -1196,6 +1345,10 @@
         [
           "2026-09-12T11:40:54Z",
           186
+        ],
+        [
+          "2026-09-12T11:55:44Z",
+          212
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=UurEOU6b7_U"
@@ -1212,30 +1365,30 @@
       "lastTitle": "【朝活/雑談】#294［2026.9/12］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 131.4,
+          "totalMinutes": 146.3,
           "gameMinutes": 0.0,
-          "totalHours": 2.19,
+          "totalHours": 2.44,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 732.4,
+          "avgViewers": 684.8,
           "peakViewers": 994
         },
         "week": {
-          "totalMinutes": 285.4,
+          "totalMinutes": 300.2,
           "gameMinutes": 153.9,
-          "totalHours": 4.76,
+          "totalHours": 5.0,
           "gameHours": 2.57,
           "sessions": 3,
-          "avgViewers": 422.4,
+          "avgViewers": 414.5,
           "peakViewers": 994
         },
         "month": {
-          "totalMinutes": 285.4,
+          "totalMinutes": 300.2,
           "gameMinutes": 153.9,
-          "totalHours": 4.76,
+          "totalHours": 5.0,
           "gameHours": 2.57,
           "sessions": 3,
-          "avgViewers": 422.4,
+          "avgViewers": 414.5,
           "peakViewers": 994
         }
       },
@@ -1345,9 +1498,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 252,
-      "livePeakViewers": 252,
-      "liveAvgViewers": 239.5,
+      "liveViewers": 277,
+      "livePeakViewers": 277,
+      "liveAvgViewers": 252.7,
       "liveSamples": [
         [
           "2026-09-12T11:28:20Z",
@@ -1356,6 +1509,10 @@
         [
           "2026-09-12T11:40:54Z",
           252
+        ],
+        [
+          "2026-09-12T11:55:44Z",
+          277
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Bfac40Th2FY"
@@ -1372,30 +1529,30 @@
       "lastTitle": "【Eternal Return】# あほぐみ でスクリム参戦！がんばる！【甘音あむ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 88.7,
-          "gameMinutes": 88.7,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 103.5,
+          "gameMinutes": 103.5,
+          "totalHours": 1.72,
+          "gameHours": 1.72,
           "sessions": 1,
-          "avgViewers": 92.7,
+          "avgViewers": 93.9,
           "peakViewers": 106
         },
         "week": {
-          "totalMinutes": 258.2,
-          "gameMinutes": 258.2,
-          "totalHours": 4.3,
-          "gameHours": 4.3,
+          "totalMinutes": 273.0,
+          "gameMinutes": 273.0,
+          "totalHours": 4.55,
+          "gameHours": 4.55,
           "sessions": 2,
-          "avgViewers": 79.4,
+          "avgViewers": 80.6,
           "peakViewers": 106
         },
         "month": {
-          "totalMinutes": 258.2,
-          "gameMinutes": 258.2,
-          "totalHours": 4.3,
-          "gameHours": 4.3,
+          "totalMinutes": 273.0,
+          "gameMinutes": 273.0,
+          "totalHours": 4.55,
+          "gameHours": 4.55,
           "sessions": 2,
-          "avgViewers": 79.4,
+          "avgViewers": 80.6,
           "peakViewers": 106
         }
       },
@@ -1459,9 +1616,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 93,
+      "liveViewers": 102,
       "livePeakViewers": 106,
-      "liveAvgViewers": 92.7,
+      "liveAvgViewers": 93.9,
       "liveSamples": [
         [
           "2026-09-12T10:12:15Z",
@@ -1490,127 +1647,13 @@
         [
           "2026-09-12T11:40:54Z",
           93
+        ],
+        [
+          "2026-09-12T11:55:44Z",
+          102
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Pex7zJuV0Sk"
-    },
-    {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
-      "isLive": true,
-      "liveSince": "2026-09-12T10:12:15Z",
-      "liveTitle": "🟣9/12【 #エターナルリターン 】TRPG前にちょこっとソロ練【 maŸUko / #Vtuber 】",
-      "lastEnd": "2026-09-11T12:58:36Z",
-      "lastTitle": "🟣9/11【 #エターナルリターン 】スクリム行くぞ！ガンガン攻めるぞ！！【 maŸUko / #Vtuber 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 88.7,
-          "gameMinutes": 88.7,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
-          "sessions": 1,
-          "avgViewers": 12.0,
-          "peakViewers": 16
-        },
-        "week": {
-          "totalMinutes": 188.8,
-          "gameMinutes": 188.8,
-          "totalHours": 3.15,
-          "gameHours": 3.15,
-          "sessions": 2,
-          "avgViewers": 12.2,
-          "peakViewers": 16
-        },
-        "month": {
-          "totalMinutes": 188.8,
-          "gameMinutes": 188.8,
-          "totalHours": 3.15,
-          "gameHours": 3.15,
-          "sessions": 2,
-          "avgViewers": 12.2,
-          "peakViewers": 16
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "nJDo5J-KddI",
-          "videoUrl": "https://www.youtube.com/watch?v=nJDo5J-KddI",
-          "start": "2026-09-11T11:18:27Z",
-          "end": "2026-09-11T12:58:36Z",
-          "minutes": 100.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣9/11【 #エターナルリターン 】スクリム行くぞ！ガンガン攻めるぞ！！【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 12.4,
-          "samples": [
-            [
-              "2026-09-11T11:18:27Z",
-              10
-            ],
-            [
-              "2026-09-11T11:33:39Z",
-              13
-            ],
-            [
-              "2026-09-11T11:47:19Z",
-              9
-            ],
-            [
-              "2026-09-11T11:57:45Z",
-              14
-            ],
-            [
-              "2026-09-11T12:22:15Z",
-              14
-            ],
-            [
-              "2026-09-11T12:44:23Z",
-              12
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 16,
-      "livePeakViewers": 16,
-      "liveAvgViewers": 12.0,
-      "liveSamples": [
-        [
-          "2026-09-12T10:12:15Z",
-          8
-        ],
-        [
-          "2026-09-12T10:29:27Z",
-          9
-        ],
-        [
-          "2026-09-12T10:42:30Z",
-          11
-        ],
-        [
-          "2026-09-12T10:55:34Z",
-          13
-        ],
-        [
-          "2026-09-12T11:10:51Z",
-          14
-        ],
-        [
-          "2026-09-12T11:28:20Z",
-          13
-        ],
-        [
-          "2026-09-12T11:40:54Z",
-          16
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=FHwy6UiiDkg"
     },
     {
       "channelId": "UCQugPXHK8_F1RZ5nfTfeAaw",
@@ -1624,28 +1667,28 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 118.2,
-          "gameMinutes": 118.2,
-          "totalHours": 1.97,
-          "gameHours": 1.97,
+          "totalMinutes": 133.1,
+          "gameMinutes": 133.1,
+          "totalHours": 2.22,
+          "gameHours": 2.22,
           "sessions": 1,
           "avgViewers": 1.5,
           "peakViewers": 2
         },
         "week": {
-          "totalMinutes": 118.2,
-          "gameMinutes": 118.2,
-          "totalHours": 1.97,
-          "gameHours": 1.97,
+          "totalMinutes": 133.1,
+          "gameMinutes": 133.1,
+          "totalHours": 2.22,
+          "gameHours": 2.22,
           "sessions": 1,
           "avgViewers": 1.5,
           "peakViewers": 2
         },
         "month": {
-          "totalMinutes": 118.2,
-          "gameMinutes": 118.2,
-          "totalHours": 1.97,
-          "gameHours": 1.97,
+          "totalMinutes": 133.1,
+          "gameMinutes": 133.1,
+          "totalHours": 2.22,
+          "gameHours": 2.22,
           "sessions": 1,
           "avgViewers": 1.5,
           "peakViewers": 2
@@ -1691,27 +1734,27 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 30.1,
+          "totalMinutes": 44.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.5,
+          "totalHours": 0.75,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 30.1,
+          "totalMinutes": 44.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.5,
+          "totalHours": 0.75,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 30.1,
+          "totalMinutes": 44.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.5,
+          "totalHours": 0.75,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
@@ -1737,28 +1780,28 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 30.1,
-          "gameMinutes": 30.1,
-          "totalHours": 0.5,
-          "gameHours": 0.5,
+          "totalMinutes": 44.9,
+          "gameMinutes": 44.9,
+          "totalHours": 0.75,
+          "gameHours": 0.75,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 30.1,
-          "gameMinutes": 30.1,
-          "totalHours": 0.5,
-          "gameHours": 0.5,
+          "totalMinutes": 44.9,
+          "gameMinutes": 44.9,
+          "totalHours": 0.75,
+          "gameHours": 0.75,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 30.1,
-          "gameMinutes": 30.1,
-          "totalHours": 0.5,
-          "gameHours": 0.5,
+          "totalMinutes": 44.9,
+          "gameMinutes": 44.9,
+          "totalHours": 0.75,
+          "gameHours": 0.75,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
@@ -3730,168 +3773,6 @@
       ]
     },
     {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T13:18:16Z",
-      "lastTitle": "エターナルリターン  | スクリムでアヤちゃんを練習しまくるぞ！ #愁子",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 349.0,
-          "gameMinutes": 349.0,
-          "totalHours": 5.82,
-          "gameHours": 5.82,
-          "sessions": 2,
-          "avgViewers": 30.2,
-          "peakViewers": 51
-        },
-        "month": {
-          "totalMinutes": 349.0,
-          "gameMinutes": 349.0,
-          "totalHours": 5.82,
-          "gameHours": 5.82,
-          "sessions": 2,
-          "avgViewers": 30.2,
-          "peakViewers": 51
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "bcA8FaaBkLo",
-          "videoUrl": "https://www.youtube.com/watch?v=bcA8FaaBkLo",
-          "start": "2026-09-11T11:18:27Z",
-          "end": "2026-09-11T13:18:16Z",
-          "minutes": 119.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "エターナルリターン  | スクリムでアヤちゃんを練習しまくるぞ！ #愁子",
-          "game": null,
-          "peakViewers": 21,
-          "avgViewers": 17.5,
-          "samples": [
-            [
-              "2026-09-11T11:18:27Z",
-              16
-            ],
-            [
-              "2026-09-11T11:33:39Z",
-              15
-            ],
-            [
-              "2026-09-11T11:47:19Z",
-              17
-            ],
-            [
-              "2026-09-11T11:57:45Z",
-              19
-            ],
-            [
-              "2026-09-11T12:22:15Z",
-              20
-            ],
-            [
-              "2026-09-11T12:44:23Z",
-              21
-            ],
-            [
-              "2026-09-11T12:58:36Z",
-              13
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "zFqGv70GMSg",
-          "videoUrl": "https://www.youtube.com/watch?v=zFqGv70GMSg",
-          "start": "2026-09-11T04:35:00Z",
-          "end": "2026-09-11T08:24:12Z",
-          "minutes": 229.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "エターナルリターン  | ソロで慣れる！ガーネットかわええ #愁子",
-          "game": null,
-          "peakViewers": 51,
-          "avgViewers": 36.9,
-          "samples": [
-            [
-              "2026-09-11T04:35:00Z",
-              20
-            ],
-            [
-              "2026-09-11T04:48:48Z",
-              25
-            ],
-            [
-              "2026-09-11T04:59:23Z",
-              25
-            ],
-            [
-              "2026-09-11T05:17:43Z",
-              31
-            ],
-            [
-              "2026-09-11T05:32:43Z",
-              34
-            ],
-            [
-              "2026-09-11T05:48:21Z",
-              37
-            ],
-            [
-              "2026-09-11T05:59:00Z",
-              40
-            ],
-            [
-              "2026-09-11T06:23:09Z",
-              38
-            ],
-            [
-              "2026-09-11T06:44:27Z",
-              38
-            ],
-            [
-              "2026-09-11T06:59:21Z",
-              38
-            ],
-            [
-              "2026-09-11T07:18:56Z",
-              40
-            ],
-            [
-              "2026-09-11T07:34:07Z",
-              50
-            ],
-            [
-              "2026-09-11T07:49:38Z",
-              47
-            ],
-            [
-              "2026-09-11T08:00:26Z",
-              51
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
       "name": "那和ツムグ",
       "registered": true,
@@ -4481,6 +4362,136 @@
             [
               "2026-09-11T10:35:04Z",
               294
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-12T11:55:44Z",
+      "lastTitle": "🟣9/12【 #エターナルリターン 】TRPG前にちょこっとソロ練【 maŸUko / #Vtuber 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 103.5,
+          "gameMinutes": 103.5,
+          "totalHours": 1.72,
+          "gameHours": 1.72,
+          "sessions": 1,
+          "avgViewers": 12.0,
+          "peakViewers": 16
+        },
+        "week": {
+          "totalMinutes": 203.6,
+          "gameMinutes": 203.6,
+          "totalHours": 3.39,
+          "gameHours": 3.39,
+          "sessions": 2,
+          "avgViewers": 12.2,
+          "peakViewers": 16
+        },
+        "month": {
+          "totalMinutes": 203.6,
+          "gameMinutes": 203.6,
+          "totalHours": 3.39,
+          "gameHours": 3.39,
+          "sessions": 2,
+          "avgViewers": 12.2,
+          "peakViewers": 16
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "FHwy6UiiDkg",
+          "videoUrl": "https://www.youtube.com/watch?v=FHwy6UiiDkg",
+          "start": "2026-09-12T10:12:15Z",
+          "end": "2026-09-12T11:55:44Z",
+          "minutes": 103.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣9/12【 #エターナルリターン 】TRPG前にちょこっとソロ練【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 16,
+          "avgViewers": 12.0,
+          "samples": [
+            [
+              "2026-09-12T10:12:15Z",
+              8
+            ],
+            [
+              "2026-09-12T10:29:27Z",
+              9
+            ],
+            [
+              "2026-09-12T10:42:30Z",
+              11
+            ],
+            [
+              "2026-09-12T10:55:34Z",
+              13
+            ],
+            [
+              "2026-09-12T11:10:51Z",
+              14
+            ],
+            [
+              "2026-09-12T11:28:20Z",
+              13
+            ],
+            [
+              "2026-09-12T11:40:54Z",
+              16
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "nJDo5J-KddI",
+          "videoUrl": "https://www.youtube.com/watch?v=nJDo5J-KddI",
+          "start": "2026-09-11T11:18:27Z",
+          "end": "2026-09-11T12:58:36Z",
+          "minutes": 100.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣9/11【 #エターナルリターン 】スクリム行くぞ！ガンガン攻めるぞ！！【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 12.4,
+          "samples": [
+            [
+              "2026-09-11T11:18:27Z",
+              10
+            ],
+            [
+              "2026-09-11T11:33:39Z",
+              13
+            ],
+            [
+              "2026-09-11T11:47:19Z",
+              9
+            ],
+            [
+              "2026-09-11T11:57:45Z",
+              14
+            ],
+            [
+              "2026-09-11T12:22:15Z",
+              14
+            ],
+            [
+              "2026-09-11T12:44:23Z",
+              12
             ]
           ],
           "isTargetGame": true
@@ -5329,6 +5340,38 @@
     }
   ],
   "recentSessions": [
+    {
+      "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
+      "name": "なつなっつん / natsu_game01",
+      "videoId": "5Ii-od-JrmE",
+      "videoUrl": "https://www.youtube.com/watch?v=5Ii-od-JrmE",
+      "start": "2026-09-12T11:40:54Z",
+      "end": "2026-09-12T11:55:44Z",
+      "minutes": 14.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "なつ祭　抽選会",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "FHwy6UiiDkg",
+      "videoUrl": "https://www.youtube.com/watch?v=FHwy6UiiDkg",
+      "start": "2026-09-12T10:12:15Z",
+      "end": "2026-09-12T11:55:44Z",
+      "minutes": 103.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣9/12【 #エターナルリターン 】TRPG前にちょこっとソロ練【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 16,
+      "avgViewers": 12.0,
+      "isTargetGame": true
+    },
     {
       "channelId": "UC9TRoZsnlaE3b2CGxcgSJLA",
       "name": "NoneLifeZz",
