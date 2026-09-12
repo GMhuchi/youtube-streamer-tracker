@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T02:11:37Z",
+  "updatedAt": "2026-09-12T02:31:04Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1331.7,
-      "gameMinutes": 219.0,
-      "totalHours": 22.19,
-      "gameHours": 3.65,
-      "sessions": 11,
-      "avgViewers": 183.0,
+      "totalMinutes": 1351.1,
+      "gameMinutes": 238.5,
+      "totalHours": 22.52,
+      "gameHours": 3.97,
+      "sessions": 12,
+      "avgViewers": 180.4,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 7417.6,
-      "gameMinutes": 4857.0,
-      "totalHours": 123.63,
-      "gameHours": 80.95,
-      "sessions": 44,
-      "avgViewers": 104.8,
+      "totalMinutes": 7437.0,
+      "gameMinutes": 4876.4,
+      "totalHours": 123.95,
+      "gameHours": 81.27,
+      "sessions": 45,
+      "avgViewers": 104.5,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 7417.6,
-      "gameMinutes": 4857.0,
-      "totalHours": 123.63,
-      "gameHours": 80.95,
-      "sessions": 44,
-      "avgViewers": 104.8,
+      "totalMinutes": 7437.0,
+      "gameMinutes": 4876.4,
+      "totalHours": 123.95,
+      "gameHours": 81.27,
+      "sessions": 45,
+      "avgViewers": 104.5,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
       "buckets": {
         "today": {
-          "totalMinutes": 202.7,
-          "gameMinutes": 202.7,
-          "totalHours": 3.38,
-          "gameHours": 3.38,
+          "totalMinutes": 222.1,
+          "gameMinutes": 222.1,
+          "totalHours": 3.7,
+          "gameHours": 3.7,
           "sessions": 2,
-          "avgViewers": 3.4,
+          "avgViewers": 3.3,
           "peakViewers": 7
         },
         "week": {
-          "totalMinutes": 586.6,
-          "gameMinutes": 586.6,
-          "totalHours": 9.78,
-          "gameHours": 9.78,
+          "totalMinutes": 606.0,
+          "gameMinutes": 606.0,
+          "totalHours": 10.1,
+          "gameHours": 10.1,
           "sessions": 3,
-          "avgViewers": 3.8,
+          "avgViewers": 3.7,
           "peakViewers": 7
         },
         "month": {
-          "totalMinutes": 586.6,
-          "gameMinutes": 586.6,
-          "totalHours": 9.78,
-          "gameHours": 9.78,
+          "totalMinutes": 606.0,
+          "gameMinutes": 606.0,
+          "totalHours": 10.1,
+          "gameHours": 10.1,
           "sessions": 3,
-          "avgViewers": 3.8,
+          "avgViewers": 3.7,
           "peakViewers": 7
         }
       },
@@ -251,7 +251,7 @@
       ],
       "liveViewers": 3,
       "livePeakViewers": 7,
-      "liveAvgViewers": 4.4,
+      "liveAvgViewers": 4.1,
       "liveSamples": [
         [
           "2026-09-12T00:52:47Z",
@@ -276,9 +276,228 @@
         [
           "2026-09-12T02:11:37Z",
           3
+        ],
+        [
+          "2026-09-12T02:31:04Z",
+          3
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=YkO-iCXGs9k"
+    },
+    {
+      "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
+      "name": "서토리 라이브 저장소!",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEdlID7vgnILT3NR-ifyjPg",
+      "isLive": true,
+      "liveSince": "2026-09-12T02:31:04Z",
+      "liveTitle": "이터널리턴 2026년 9월 12일 1부",
+      "lastEnd": "2026-09-11T14:23:05Z",
+      "lastTitle": "이터널리턴 2026년 9월 11일 1부",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 577.6,
+          "gameMinutes": 577.6,
+          "totalHours": 9.63,
+          "gameHours": 9.63,
+          "sessions": 3,
+          "avgViewers": 2.7,
+          "peakViewers": 6
+        },
+        "month": {
+          "totalMinutes": 577.6,
+          "gameMinutes": 577.6,
+          "totalHours": 9.63,
+          "gameHours": 9.63,
+          "sessions": 3,
+          "avgViewers": 2.7,
+          "peakViewers": 6
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
+          "name": "서토리 라이브 저장소!",
+          "videoId": "wmJerM_yCJc",
+          "videoUrl": "https://www.youtube.com/watch?v=wmJerM_yCJc",
+          "start": "2026-09-11T10:59:42Z",
+          "end": "2026-09-11T14:23:05Z",
+          "minutes": 203.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 2026년 9월 11일 1부",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 1.9,
+          "samples": [
+            [
+              "2026-09-11T10:59:42Z",
+              2
+            ],
+            [
+              "2026-09-11T11:18:27Z",
+              2
+            ],
+            [
+              "2026-09-11T11:57:45Z",
+              1
+            ],
+            [
+              "2026-09-11T12:22:15Z",
+              1
+            ],
+            [
+              "2026-09-11T12:44:23Z",
+              2
+            ],
+            [
+              "2026-09-11T12:58:36Z",
+              2
+            ],
+            [
+              "2026-09-11T13:18:16Z",
+              4
+            ],
+            [
+              "2026-09-11T13:33:39Z",
+              3
+            ],
+            [
+              "2026-09-11T13:49:15Z",
+              1
+            ],
+            [
+              "2026-09-11T14:00:11Z",
+              2
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
+          "name": "서토리 라이브 저장소!",
+          "videoId": "wmJerM_yCJc",
+          "videoUrl": "https://www.youtube.com/watch?v=wmJerM_yCJc",
+          "start": "2026-09-11T04:35:00Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 374.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 2026년 9월 11일 1부",
+          "game": null,
+          "peakViewers": 6,
+          "avgViewers": 3.1,
+          "samples": [
+            [
+              "2026-09-11T04:35:00Z",
+              1
+            ],
+            [
+              "2026-09-11T04:48:48Z",
+              2
+            ],
+            [
+              "2026-09-11T04:59:23Z",
+              2
+            ],
+            [
+              "2026-09-11T05:17:43Z",
+              5
+            ],
+            [
+              "2026-09-11T05:32:43Z",
+              3
+            ],
+            [
+              "2026-09-11T05:48:21Z",
+              1
+            ],
+            [
+              "2026-09-11T05:59:00Z",
+              4
+            ],
+            [
+              "2026-09-11T06:23:09Z",
+              3
+            ],
+            [
+              "2026-09-11T06:44:27Z",
+              4
+            ],
+            [
+              "2026-09-11T06:59:21Z",
+              5
+            ],
+            [
+              "2026-09-11T07:18:56Z",
+              3
+            ],
+            [
+              "2026-09-11T07:34:07Z",
+              4
+            ],
+            [
+              "2026-09-11T07:49:38Z",
+              4
+            ],
+            [
+              "2026-09-11T08:00:26Z",
+              4
+            ],
+            [
+              "2026-09-11T08:24:12Z",
+              2
+            ],
+            [
+              "2026-09-11T08:42:31Z",
+              2
+            ],
+            [
+              "2026-09-11T08:57:40Z",
+              3
+            ],
+            [
+              "2026-09-11T09:16:26Z",
+              3
+            ],
+            [
+              "2026-09-11T09:32:43Z",
+              6
+            ],
+            [
+              "2026-09-11T09:49:33Z",
+              3
+            ],
+            [
+              "2026-09-11T10:00:03Z",
+              2
+            ],
+            [
+              "2026-09-11T10:19:41Z",
+              1
+            ],
+            [
+              "2026-09-11T10:35:04Z",
+              2
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=b44KFABeePM"
     },
     {
       "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
@@ -472,216 +691,6 @@
             [
               "2026-09-11T10:00:03Z",
               1
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
-      "name": "서토리 라이브 저장소!",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEdlID7vgnILT3NR-ifyjPg",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-11T14:23:05Z",
-      "lastTitle": "이터널리턴 2026년 9월 11일 1부",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 577.5,
-          "gameMinutes": 577.5,
-          "totalHours": 9.63,
-          "gameHours": 9.63,
-          "sessions": 2,
-          "avgViewers": 2.7,
-          "peakViewers": 6
-        },
-        "month": {
-          "totalMinutes": 577.5,
-          "gameMinutes": 577.5,
-          "totalHours": 9.63,
-          "gameHours": 9.63,
-          "sessions": 2,
-          "avgViewers": 2.7,
-          "peakViewers": 6
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
-          "name": "서토리 라이브 저장소!",
-          "videoId": "wmJerM_yCJc",
-          "videoUrl": "https://www.youtube.com/watch?v=wmJerM_yCJc",
-          "start": "2026-09-11T10:59:42Z",
-          "end": "2026-09-11T14:23:05Z",
-          "minutes": 203.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 2026년 9월 11일 1부",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 1.9,
-          "samples": [
-            [
-              "2026-09-11T10:59:42Z",
-              2
-            ],
-            [
-              "2026-09-11T11:18:27Z",
-              2
-            ],
-            [
-              "2026-09-11T11:57:45Z",
-              1
-            ],
-            [
-              "2026-09-11T12:22:15Z",
-              1
-            ],
-            [
-              "2026-09-11T12:44:23Z",
-              2
-            ],
-            [
-              "2026-09-11T12:58:36Z",
-              2
-            ],
-            [
-              "2026-09-11T13:18:16Z",
-              4
-            ],
-            [
-              "2026-09-11T13:33:39Z",
-              3
-            ],
-            [
-              "2026-09-11T13:49:15Z",
-              1
-            ],
-            [
-              "2026-09-11T14:00:11Z",
-              2
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
-          "name": "서토리 라이브 저장소!",
-          "videoId": "wmJerM_yCJc",
-          "videoUrl": "https://www.youtube.com/watch?v=wmJerM_yCJc",
-          "start": "2026-09-11T04:35:00Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 374.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 2026년 9월 11일 1부",
-          "game": null,
-          "peakViewers": 6,
-          "avgViewers": 3.1,
-          "samples": [
-            [
-              "2026-09-11T04:35:00Z",
-              1
-            ],
-            [
-              "2026-09-11T04:48:48Z",
-              2
-            ],
-            [
-              "2026-09-11T04:59:23Z",
-              2
-            ],
-            [
-              "2026-09-11T05:17:43Z",
-              5
-            ],
-            [
-              "2026-09-11T05:32:43Z",
-              3
-            ],
-            [
-              "2026-09-11T05:48:21Z",
-              1
-            ],
-            [
-              "2026-09-11T05:59:00Z",
-              4
-            ],
-            [
-              "2026-09-11T06:23:09Z",
-              3
-            ],
-            [
-              "2026-09-11T06:44:27Z",
-              4
-            ],
-            [
-              "2026-09-11T06:59:21Z",
-              5
-            ],
-            [
-              "2026-09-11T07:18:56Z",
-              3
-            ],
-            [
-              "2026-09-11T07:34:07Z",
-              4
-            ],
-            [
-              "2026-09-11T07:49:38Z",
-              4
-            ],
-            [
-              "2026-09-11T08:00:26Z",
-              4
-            ],
-            [
-              "2026-09-11T08:24:12Z",
-              2
-            ],
-            [
-              "2026-09-11T08:42:31Z",
-              2
-            ],
-            [
-              "2026-09-11T08:57:40Z",
-              3
-            ],
-            [
-              "2026-09-11T09:16:26Z",
-              3
-            ],
-            [
-              "2026-09-11T09:32:43Z",
-              6
-            ],
-            [
-              "2026-09-11T09:49:33Z",
-              3
-            ],
-            [
-              "2026-09-11T10:00:03Z",
-              2
-            ],
-            [
-              "2026-09-11T10:19:41Z",
-              1
-            ],
-            [
-              "2026-09-11T10:35:04Z",
-              2
             ]
           ],
           "isTargetGame": true
