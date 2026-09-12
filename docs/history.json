@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:40:36Z",
+  "updatedAt": "2026-09-12T08:56:02Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3868.7,
-      "gameMinutes": 1379.4,
-      "totalHours": 64.48,
-      "gameHours": 22.99,
+      "totalMinutes": 4023.1,
+      "gameMinutes": 1410.2,
+      "totalHours": 67.05,
+      "gameHours": 23.5,
       "sessions": 24,
-      "avgViewers": 105.8,
+      "avgViewers": 105.0,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 9954.6,
-      "gameMinutes": 6017.3,
-      "totalHours": 165.91,
-      "gameHours": 100.29,
+      "totalMinutes": 10109.0,
+      "gameMinutes": 6048.2,
+      "totalHours": 168.48,
+      "gameHours": 100.8,
       "sessions": 57,
-      "avgViewers": 93.8,
+      "avgViewers": 93.6,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 9954.6,
-      "gameMinutes": 6017.3,
-      "totalHours": 165.91,
-      "gameHours": 100.29,
+      "totalMinutes": 10109.0,
+      "gameMinutes": 6048.2,
+      "totalHours": 168.48,
+      "gameHours": 100.8,
       "sessions": 57,
-      "avgViewers": 93.8,
+      "avgViewers": 93.6,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【 エタリタ 】松マキサさんにエタリタを教えてもらう贅沢【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 248.7,
+          "totalMinutes": 264.2,
           "gameMinutes": 0.0,
-          "totalHours": 4.15,
+          "totalHours": 4.4,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 12.5,
-          "peakViewers": 17
+          "avgViewers": 13.0,
+          "peakViewers": 23
         },
         "week": {
-          "totalMinutes": 684.3,
+          "totalMinutes": 699.7,
           "gameMinutes": 435.6,
-          "totalHours": 11.4,
+          "totalHours": 11.66,
           "gameHours": 7.26,
           "sessions": 3,
-          "avgViewers": 30.9,
+          "avgViewers": 30.7,
           "peakViewers": 61
         },
         "month": {
-          "totalMinutes": 684.3,
+          "totalMinutes": 699.7,
           "gameMinutes": 435.6,
-          "totalHours": 11.4,
+          "totalHours": 11.66,
           "gameHours": 7.26,
           "sessions": 3,
-          "avgViewers": 30.9,
+          "avgViewers": 30.7,
           "peakViewers": 61
         }
       },
@@ -225,9 +225,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 15,
-      "livePeakViewers": 17,
-      "liveAvgViewers": 12.5,
+      "liveViewers": 23,
+      "livePeakViewers": 23,
+      "liveAvgViewers": 13.0,
       "liveSamples": [
         [
           "2026-09-12T04:31:53Z",
@@ -296,6 +296,10 @@
         [
           "2026-09-12T08:40:36Z",
           15
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          23
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=N2V5BmVKW_A"
@@ -312,30 +316,30 @@
       "lastTitle": "【ポケユナ】【R772～】レジェンド射程圏内ランクマ【ポケモンユナイト】",
       "buckets": {
         "today": {
-          "totalMinutes": 114.0,
+          "totalMinutes": 129.5,
           "gameMinutes": 0.0,
-          "totalHours": 1.9,
+          "totalHours": 2.16,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 1.9,
+          "avgViewers": 1.8,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 606.9,
+          "totalMinutes": 622.3,
           "gameMinutes": 271.3,
-          "totalHours": 10.12,
+          "totalHours": 10.37,
           "gameHours": 4.52,
           "sessions": 3,
-          "avgViewers": 2.3,
+          "avgViewers": 2.2,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 606.9,
+          "totalMinutes": 622.3,
           "gameMinutes": 271.3,
-          "totalHours": 10.12,
+          "totalHours": 10.37,
           "gameHours": 4.52,
           "sessions": 3,
-          "avgViewers": 2.3,
+          "avgViewers": 2.2,
           "peakViewers": 5
         }
       },
@@ -497,13 +501,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 2,
+      "liveViewers": 1,
       "livePeakViewers": 2,
-      "liveAvgViewers": 2.0,
+      "liveAvgViewers": 1.5,
       "liveSamples": [
         [
           "2026-09-12T08:40:36Z",
           2
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=s1ORhDZ4qkI"
@@ -520,28 +528,28 @@
       "lastTitle": "이터널 리턴)짐승 같은 짐승",
       "buckets": {
         "today": {
-          "totalMinutes": 292.9,
-          "gameMinutes": 292.9,
-          "totalHours": 4.88,
-          "gameHours": 4.88,
+          "totalMinutes": 308.4,
+          "gameMinutes": 308.4,
+          "totalHours": 5.14,
+          "gameHours": 5.14,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 567.9,
-          "gameMinutes": 567.9,
-          "totalHours": 9.46,
-          "gameHours": 9.46,
+          "totalMinutes": 583.3,
+          "gameMinutes": 583.3,
+          "totalHours": 9.72,
+          "gameHours": 9.72,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 567.9,
-          "gameMinutes": 567.9,
-          "totalHours": 9.46,
-          "gameHours": 9.46,
+          "totalMinutes": 583.3,
+          "gameMinutes": 583.3,
+          "totalHours": 9.72,
+          "gameHours": 9.72,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
@@ -584,30 +592,30 @@
       "lastTitle": "〖 R.E.P.O. 〗 ﾊｰﾄｻﾝｸﾞﾗｽﾊﾟﾘﾋﾟｰｽﾞ遊ぶよ～🕶💓.ᐟ.ᐟ⭐︎ / 絲依とい、えと、ゆう。、レイン・パターソン、夕霧レイ〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 18.7,
+          "totalMinutes": 34.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.31,
+          "totalHours": 0.57,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 209.5,
-          "peakViewers": 239
+          "avgViewers": 228.5,
+          "peakViewers": 272
         },
         "week": {
-          "totalMinutes": 481.2,
+          "totalMinutes": 496.6,
           "gameMinutes": 0.0,
-          "totalHours": 8.02,
+          "totalHours": 8.28,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 370.0,
+          "avgViewers": 366.3,
           "peakViewers": 796
         },
         "month": {
-          "totalMinutes": 481.2,
+          "totalMinutes": 496.6,
           "gameMinutes": 0.0,
-          "totalHours": 8.02,
+          "totalHours": 8.28,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 370.0,
+          "avgViewers": 366.3,
           "peakViewers": 796
         }
       },
@@ -761,9 +769,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 239,
-      "livePeakViewers": 239,
-      "liveAvgViewers": 209.5,
+      "liveViewers": 272,
+      "livePeakViewers": 272,
+      "liveAvgViewers": 228.5,
       "liveSamples": [
         [
           "2026-09-12T08:21:54Z",
@@ -772,6 +780,10 @@
         [
           "2026-09-12T08:40:36Z",
           239
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          272
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=n3cfBSANUw4"
@@ -788,30 +800,30 @@
       "lastTitle": "【エターナルリターン】スクリムやるぞ～！！！【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 248.7,
+          "totalMinutes": 264.2,
           "gameMinutes": 0.0,
-          "totalHours": 4.15,
+          "totalHours": 4.4,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 52.3,
+          "avgViewers": 53.0,
           "peakViewers": 86
         },
         "week": {
-          "totalMinutes": 433.4,
+          "totalMinutes": 448.8,
           "gameMinutes": 184.6,
-          "totalHours": 7.22,
+          "totalHours": 7.48,
           "gameHours": 3.08,
           "sessions": 2,
-          "avgViewers": 41.4,
+          "avgViewers": 42.1,
           "peakViewers": 86
         },
         "month": {
-          "totalMinutes": 433.4,
+          "totalMinutes": 448.8,
           "gameMinutes": 184.6,
-          "totalHours": 7.22,
+          "totalHours": 7.48,
           "gameHours": 3.08,
           "sessions": 2,
-          "avgViewers": 41.4,
+          "avgViewers": 42.1,
           "peakViewers": 86
         }
       },
@@ -879,9 +891,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 66,
+      "liveViewers": 65,
       "livePeakViewers": 86,
-      "liveAvgViewers": 52.3,
+      "liveAvgViewers": 53.0,
       "liveSamples": [
         [
           "2026-09-12T04:31:53Z",
@@ -950,6 +962,10 @@
         [
           "2026-09-12T08:40:36Z",
           66
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          65
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Kx8LHmmuwek"
@@ -966,30 +982,30 @@
       "lastTitle": "【 エターナルリターン / ゆかそ】ワタルとウピーと破壊する【 #奏手イヅル 】",
       "buckets": {
         "today": {
-          "totalMinutes": 263.8,
+          "totalMinutes": 279.2,
           "gameMinutes": 0.0,
-          "totalHours": 4.4,
+          "totalHours": 4.65,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 257.3,
+          "avgViewers": 257.9,
           "peakViewers": 307
         },
         "week": {
-          "totalMinutes": 419.6,
+          "totalMinutes": 435.0,
           "gameMinutes": 155.8,
-          "totalHours": 6.99,
+          "totalHours": 7.25,
           "gameHours": 2.6,
           "sessions": 2,
-          "avgViewers": 293.6,
+          "avgViewers": 292.7,
           "peakViewers": 396
         },
         "month": {
-          "totalMinutes": 419.6,
+          "totalMinutes": 435.0,
           "gameMinutes": 155.8,
-          "totalHours": 6.99,
+          "totalHours": 7.25,
           "gameHours": 2.6,
           "sessions": 2,
-          "avgViewers": 293.6,
+          "avgViewers": 292.7,
           "peakViewers": 396
         }
       },
@@ -1049,9 +1065,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 279,
+      "liveViewers": 269,
       "livePeakViewers": 307,
-      "liveAvgViewers": 257.3,
+      "liveAvgViewers": 257.9,
       "liveSamples": [
         [
           "2026-09-12T04:16:48Z",
@@ -1124,6 +1140,10 @@
         [
           "2026-09-12T08:40:36Z",
           279
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          269
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=KLXBbBImytY"
@@ -1140,30 +1160,30 @@
       "lastTitle": "【エターナルリターン】何使うか決めたぞー！#PR【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 18.7,
+          "totalMinutes": 34.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.31,
+          "totalHours": 0.57,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 31.0,
+          "avgViewers": 30.8,
           "peakViewers": 34
         },
         "week": {
-          "totalMinutes": 283.5,
+          "totalMinutes": 298.9,
           "gameMinutes": 119.8,
-          "totalHours": 4.72,
+          "totalHours": 4.98,
           "gameHours": 2.0,
           "sessions": 3,
-          "avgViewers": 37.7,
+          "avgViewers": 37.4,
           "peakViewers": 57
         },
         "month": {
-          "totalMinutes": 283.5,
+          "totalMinutes": 298.9,
           "gameMinutes": 119.8,
-          "totalHours": 4.72,
+          "totalHours": 4.98,
           "gameHours": 2.0,
           "sessions": 3,
-          "avgViewers": 37.7,
+          "avgViewers": 37.4,
           "peakViewers": 57
         }
       },
@@ -1269,9 +1289,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 34,
+      "liveViewers": 31,
       "livePeakViewers": 34,
-      "liveAvgViewers": 31.0,
+      "liveAvgViewers": 30.8,
       "liveSamples": [
         [
           "2026-09-12T08:21:54Z",
@@ -1280,6 +1300,10 @@
         [
           "2026-09-12T08:40:36Z",
           34
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          31
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=OI-s8JSWWwY"
@@ -1296,30 +1320,30 @@
       "lastTitle": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
       "buckets": {
         "today": {
-          "totalMinutes": 90.7,
+          "totalMinutes": 106.1,
           "gameMinutes": 0.0,
-          "totalHours": 1.51,
+          "totalHours": 1.77,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 13.1,
+          "avgViewers": 12.7,
           "peakViewers": 16
         },
         "week": {
-          "totalMinutes": 274.1,
+          "totalMinutes": 289.5,
           "gameMinutes": 183.4,
-          "totalHours": 4.57,
+          "totalHours": 4.83,
           "gameHours": 3.06,
           "sessions": 3,
-          "avgViewers": 8.7,
+          "avgViewers": 8.8,
           "peakViewers": 16
         },
         "month": {
-          "totalMinutes": 274.1,
+          "totalMinutes": 289.5,
           "gameMinutes": 183.4,
-          "totalHours": 4.57,
+          "totalHours": 4.83,
           "gameHours": 3.06,
           "sessions": 3,
-          "avgViewers": 8.7,
+          "avgViewers": 8.8,
           "peakViewers": 16
         }
       },
@@ -1407,7 +1431,7 @@
       ],
       "liveViewers": 10,
       "livePeakViewers": 16,
-      "liveAvgViewers": 13.1,
+      "liveAvgViewers": 12.7,
       "liveSamples": [
         [
           "2026-09-12T07:09:56Z",
@@ -1436,6 +1460,10 @@
         [
           "2026-09-12T08:40:36Z",
           10
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          10
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=rriWdxDclEU"
@@ -1452,27 +1480,27 @@
       "lastTitle": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
       "buckets": {
         "today": {
-          "totalMinutes": 204.8,
+          "totalMinutes": 220.2,
           "gameMinutes": 0.0,
-          "totalHours": 3.41,
+          "totalHours": 3.67,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 253.0,
+          "totalMinutes": 268.4,
           "gameMinutes": 48.2,
-          "totalHours": 4.22,
+          "totalHours": 4.47,
           "gameHours": 0.8,
           "sessions": 3,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 253.0,
+          "totalMinutes": 268.4,
           "gameMinutes": 48.2,
-          "totalHours": 4.22,
+          "totalHours": 4.47,
           "gameHours": 0.8,
           "sessions": 3,
           "avgViewers": null,
@@ -1533,37 +1561,37 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 222.0,
-          "gameMinutes": 222.0,
-          "totalHours": 3.7,
-          "gameHours": 3.7,
+          "totalMinutes": 237.4,
+          "gameMinutes": 237.4,
+          "totalHours": 3.96,
+          "gameHours": 3.96,
           "sessions": 1,
-          "avgViewers": 16.0,
+          "avgViewers": 15.8,
           "peakViewers": 29
         },
         "week": {
-          "totalMinutes": 222.0,
-          "gameMinutes": 222.0,
-          "totalHours": 3.7,
-          "gameHours": 3.7,
+          "totalMinutes": 237.4,
+          "gameMinutes": 237.4,
+          "totalHours": 3.96,
+          "gameHours": 3.96,
           "sessions": 1,
-          "avgViewers": 16.0,
+          "avgViewers": 15.8,
           "peakViewers": 29
         },
         "month": {
-          "totalMinutes": 222.0,
-          "gameMinutes": 222.0,
-          "totalHours": 3.7,
-          "gameHours": 3.7,
+          "totalMinutes": 237.4,
+          "gameMinutes": 237.4,
+          "totalHours": 3.96,
+          "gameHours": 3.96,
           "sessions": 1,
-          "avgViewers": 16.0,
+          "avgViewers": 15.8,
           "peakViewers": 29
         }
       },
       "recentSessions": [],
-      "liveViewers": 18,
+      "liveViewers": 13,
       "livePeakViewers": 29,
-      "liveAvgViewers": 16.0,
+      "liveAvgViewers": 15.8,
       "liveSamples": [
         [
           "2026-09-12T04:58:37Z",
@@ -1624,6 +1652,10 @@
         [
           "2026-09-12T08:40:36Z",
           18
+        ],
+        [
+          "2026-09-12T08:56:02Z",
+          13
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=azDYjPgX46g"
