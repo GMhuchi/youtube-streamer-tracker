@@ -2,45 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "rTC_PsVxkc0",
-      "start": "2026-09-12T16:42:48Z",
-      "startSource": "observed",
-      "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 780,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:55:47Z",
-      "samples": [
-        [
-          "2026-09-12T16:42:48Z",
-          780
-        ],
-        [
-          "2026-09-12T16:55:38Z",
-          12
-        ],
-        [
-          "2026-09-12T17:10:37Z",
-          2
-        ],
-        [
-          "2026-09-12T17:28:18Z",
-          2
-        ],
-        [
-          "2026-09-12T17:40:45Z",
-          15
-        ],
-        [
-          "2026-09-12T17:55:47Z",
-          14
-        ]
-      ]
-    },
     "UCXUu1nCtDMAbasD0wAK1cdw": {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -52,7 +13,7 @@
       "peakViewers": 76,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:55:47Z",
+      "lastSeenAt": "2026-09-12T18:13:52Z",
       "samples": [
         [
           "2026-09-12T16:42:48Z",
@@ -77,6 +38,10 @@
         [
           "2026-09-12T17:55:47Z",
           62
+        ],
+        [
+          "2026-09-12T18:13:52Z",
+          64
         ]
       ]
     },
@@ -91,7 +56,7 @@
       "peakViewers": 2,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:55:47Z",
+      "lastSeenAt": "2026-09-12T18:13:52Z",
       "samples": [
         [
           "2026-09-12T16:42:48Z",
@@ -5087,6 +5052,48 @@
         [
           "2026-09-12T17:10:37Z",
           67
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "rTC_PsVxkc0",
+      "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
+      "start": "2026-09-12T16:42:48Z",
+      "end": "2026-09-12T18:13:52Z",
+      "minutes": 91.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 780,
+      "avgViewers": 121.9,
+      "samples": [
+        [
+          "2026-09-12T16:42:48Z",
+          780
+        ],
+        [
+          "2026-09-12T16:55:38Z",
+          12
+        ],
+        [
+          "2026-09-12T17:10:37Z",
+          2
+        ],
+        [
+          "2026-09-12T17:28:18Z",
+          2
+        ],
+        [
+          "2026-09-12T17:40:45Z",
+          15
+        ],
+        [
+          "2026-09-12T17:55:47Z",
+          14
         ]
       ],
       "isTargetGame": false
