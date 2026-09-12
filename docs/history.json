@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T02:31:04Z",
+  "updatedAt": "2026-09-12T02:48:13Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1351.1,
-      "gameMinutes": 238.5,
-      "totalHours": 22.52,
-      "gameHours": 3.97,
+      "totalMinutes": 1385.4,
+      "gameMinutes": 272.8,
+      "totalHours": 23.09,
+      "gameHours": 4.55,
       "sessions": 12,
-      "avgViewers": 180.4,
+      "avgViewers": 176.0,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 7437.0,
-      "gameMinutes": 4876.4,
-      "totalHours": 123.95,
-      "gameHours": 81.27,
+      "totalMinutes": 7471.3,
+      "gameMinutes": 4910.7,
+      "totalHours": 124.52,
+      "gameHours": 81.85,
       "sessions": 45,
-      "avgViewers": 104.5,
+      "avgViewers": 104.1,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 7437.0,
-      "gameMinutes": 4876.4,
-      "totalHours": 123.95,
-      "gameHours": 81.27,
+      "totalMinutes": 7471.3,
+      "gameMinutes": 4910.7,
+      "totalHours": 124.52,
+      "gameHours": 81.85,
       "sessions": 45,
-      "avgViewers": 104.5,
+      "avgViewers": 104.1,
       "peakViewers": 994
     }
   },
@@ -56,28 +56,28 @@
       "lastTitle": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
       "buckets": {
         "today": {
-          "totalMinutes": 222.1,
-          "gameMinutes": 222.1,
-          "totalHours": 3.7,
-          "gameHours": 3.7,
+          "totalMinutes": 239.3,
+          "gameMinutes": 239.3,
+          "totalHours": 3.99,
+          "gameHours": 3.99,
           "sessions": 2,
           "avgViewers": 3.3,
           "peakViewers": 7
         },
         "week": {
-          "totalMinutes": 606.0,
-          "gameMinutes": 606.0,
-          "totalHours": 10.1,
-          "gameHours": 10.1,
+          "totalMinutes": 623.2,
+          "gameMinutes": 623.2,
+          "totalHours": 10.39,
+          "gameHours": 10.39,
           "sessions": 3,
           "avgViewers": 3.7,
           "peakViewers": 7
         },
         "month": {
-          "totalMinutes": 606.0,
-          "gameMinutes": 606.0,
-          "totalHours": 10.1,
-          "gameHours": 10.1,
+          "totalMinutes": 623.2,
+          "gameMinutes": 623.2,
+          "totalHours": 10.39,
+          "gameHours": 10.39,
           "sessions": 3,
           "avgViewers": 3.7,
           "peakViewers": 7
@@ -251,7 +251,7 @@
       ],
       "liveViewers": 3,
       "livePeakViewers": 7,
-      "liveAvgViewers": 4.1,
+      "liveAvgViewers": 4.0,
       "liveSamples": [
         [
           "2026-09-12T00:52:47Z",
@@ -280,6 +280,10 @@
         [
           "2026-09-12T02:31:04Z",
           3
+        ],
+        [
+          "2026-09-12T02:48:13Z",
+          3
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=YkO-iCXGs9k"
@@ -296,28 +300,28 @@
       "lastTitle": "이터널리턴 2026년 9월 11일 1부",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
+          "totalMinutes": 17.2,
+          "gameMinutes": 17.2,
+          "totalHours": 0.29,
+          "gameHours": 0.29,
           "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
+          "avgViewers": 3.0,
+          "peakViewers": 3
         },
         "week": {
-          "totalMinutes": 577.6,
-          "gameMinutes": 577.6,
-          "totalHours": 9.63,
-          "gameHours": 9.63,
+          "totalMinutes": 594.7,
+          "gameMinutes": 594.7,
+          "totalHours": 9.91,
+          "gameHours": 9.91,
           "sessions": 3,
           "avgViewers": 2.7,
           "peakViewers": 6
         },
         "month": {
-          "totalMinutes": 577.6,
-          "gameMinutes": 577.6,
-          "totalHours": 9.63,
-          "gameHours": 9.63,
+          "totalMinutes": 594.7,
+          "gameMinutes": 594.7,
+          "totalHours": 9.91,
+          "gameHours": 9.91,
           "sessions": 3,
           "avgViewers": 2.7,
           "peakViewers": 6
@@ -493,10 +497,15 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
+      "liveViewers": 3,
+      "livePeakViewers": 3,
+      "liveAvgViewers": 3.0,
+      "liveSamples": [
+        [
+          "2026-09-12T02:48:13Z",
+          3
+        ]
+      ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=b44KFABeePM"
     },
     {
