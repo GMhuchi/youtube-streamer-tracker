@@ -2,47 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "Zz0_U5-a5RI",
-      "start": "2026-09-12T16:42:48Z",
-      "startSource": "observed",
-      "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:10:37Z",
-      "samples": []
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "hAx2hJls7pE",
-      "start": "2026-09-12T16:42:48Z",
-      "startSource": "observed",
-      "title": "#10〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛今日は神獣狩り日和ですのよ～！〚 甘成じゅい/ゆにれいど！ 〛",
-      "game": null,
-      "peakViewers": 67,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:10:37Z",
-      "samples": [
-        [
-          "2026-09-12T16:42:48Z",
-          58
-        ],
-        [
-          "2026-09-12T16:55:38Z",
-          67
-        ],
-        [
-          "2026-09-12T17:10:37Z",
-          67
-        ]
-      ]
-    },
     "UCeTb2MQrm8UBChlecw7pQOA": {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
@@ -54,7 +13,7 @@
       "peakViewers": 780,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:10:37Z",
+      "lastSeenAt": "2026-09-12T17:28:18Z",
       "samples": [
         [
           "2026-09-12T16:42:48Z",
@@ -67,6 +26,10 @@
         [
           "2026-09-12T17:10:37Z",
           2
+        ],
+        [
+          "2026-09-12T17:28:18Z",
+          2
         ]
       ]
     },
@@ -78,10 +41,10 @@
       "startSource": "observed",
       "title": "【 SURGETOWN 】#9　警察で地上組として頑張りたい！【恋沼ミヤ/#surgetown】",
       "game": null,
-      "peakViewers": 46,
+      "peakViewers": 62,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:10:37Z",
+      "lastSeenAt": "2026-09-12T17:28:18Z",
       "samples": [
         [
           "2026-09-12T16:42:48Z",
@@ -94,6 +57,10 @@
         [
           "2026-09-12T17:10:37Z",
           46
+        ],
+        [
+          "2026-09-12T17:28:18Z",
+          62
         ]
       ]
     },
@@ -105,10 +72,10 @@
       "startSource": "observed",
       "title": "[단간론파 어나더] 4챕 | 오늘도 좋아하는 애가 죽을 것 인가...!? 누가 죽는가?!",
       "game": null,
-      "peakViewers": 1,
+      "peakViewers": 2,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-12T16:42:48Z",
-      "lastSeenAt": "2026-09-12T17:10:37Z",
+      "lastSeenAt": "2026-09-12T17:28:18Z",
       "samples": [
         [
           "2026-09-12T16:42:48Z",
@@ -121,6 +88,10 @@
         [
           "2026-09-12T17:10:37Z",
           1
+        ],
+        [
+          "2026-09-12T17:28:18Z",
+          2
         ]
       ]
     }
@@ -4733,6 +4704,23 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "Zz0_U5-a5RI",
+      "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
+      "start": "2026-09-12T12:33:45Z",
+      "end": "2026-09-12T17:15:48Z",
+      "minutes": 282.1,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
       "name": "なつなっつん / natsu_game01",
       "videoId": "H-k365XLB8Q",
@@ -5045,6 +5033,36 @@
         [
           "2026-09-12T16:55:38Z",
           49
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "hAx2hJls7pE",
+      "videoUrl": "https://www.youtube.com/watch?v=hAx2hJls7pE",
+      "start": "2026-09-12T16:42:48Z",
+      "end": "2026-09-12T17:28:18Z",
+      "minutes": 45.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "#10〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛今日は神獣狩り日和ですのよ～！〚 甘成じゅい/ゆにれいど！ 〛",
+      "game": null,
+      "peakViewers": 67,
+      "avgViewers": 64.2,
+      "samples": [
+        [
+          "2026-09-12T16:42:48Z",
+          58
+        ],
+        [
+          "2026-09-12T16:55:38Z",
+          67
+        ],
+        [
+          "2026-09-12T17:10:37Z",
+          67
         ]
       ],
       "isTargetGame": false
