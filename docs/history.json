@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T20:56:57Z",
+  "updatedAt": "2026-09-13T21:13:36Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,251 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1642.9,
-      "gameMinutes": 669.6,
-      "totalHours": 27.38,
-      "gameHours": 11.16,
-      "sessions": 14,
-      "avgViewers": 109.0,
+      "totalMinutes": 1659.5,
+      "gameMinutes": 686.2,
+      "totalHours": 27.66,
+      "gameHours": 11.44,
+      "sessions": 15,
+      "avgViewers": 107.9,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 1642.9,
-      "gameMinutes": 669.6,
-      "totalHours": 27.38,
-      "gameHours": 11.16,
-      "sessions": 14,
-      "avgViewers": 109.0,
+      "totalMinutes": 1659.5,
+      "gameMinutes": 686.2,
+      "totalHours": 27.66,
+      "gameHours": 11.44,
+      "sessions": 15,
+      "avgViewers": 107.9,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 23808.0,
-      "gameMinutes": 10170.7,
-      "totalHours": 396.8,
-      "gameHours": 169.51,
-      "sessions": 138,
+      "totalMinutes": 23824.7,
+      "gameMinutes": 10187.3,
+      "totalHours": 397.08,
+      "gameHours": 169.79,
+      "sessions": 139,
       "avgViewers": 103.6,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": true,
+      "liveSince": "2026-09-13T21:13:36Z",
+      "liveTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "lastEnd": "2026-09-13T08:32:45Z",
+      "lastTitle": "【競馬】GⅡ ローズS 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 7.0,
+          "peakViewers": 7
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 7.0,
+          "peakViewers": 7
+        },
+        "month": {
+          "totalMinutes": 756.5,
+          "gameMinutes": 183.4,
+          "totalHours": 12.61,
+          "gameHours": 3.06,
+          "sessions": 7,
+          "avgViewers": 9.2,
+          "peakViewers": 16
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "vgtCQhC7DKE",
+          "videoUrl": "https://www.youtube.com/watch?v=vgtCQhC7DKE",
+          "start": "2026-09-13T06:23:16Z",
+          "end": "2026-09-13T08:32:45Z",
+          "minutes": 129.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【競馬】GⅡ ローズS 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 9,
+          "avgViewers": 6.7,
+          "samples": [
+            [
+              "2026-09-13T06:23:16Z",
+              5
+            ],
+            [
+              "2026-09-13T06:44:24Z",
+              9
+            ],
+            [
+              "2026-09-13T06:58:33Z",
+              8
+            ],
+            [
+              "2026-09-13T07:16:37Z",
+              6
+            ],
+            [
+              "2026-09-13T07:31:32Z",
+              7
+            ],
+            [
+              "2026-09-13T07:47:19Z",
+              8
+            ],
+            [
+              "2026-09-13T07:58:05Z",
+              5
+            ],
+            [
+              "2026-09-13T08:17:43Z",
+              7
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "6tuH_RK0ULo",
+          "videoUrl": "https://www.youtube.com/watch?v=6tuH_RK0ULo",
+          "start": "2026-09-12T16:42:48Z",
+          "end": "2026-09-12T17:10:37Z",
+          "minutes": 27.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#SURGETown】6日目 / さて、検挙数にはこだわらず、できることをこなそう。そうしよう。【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 15,
+          "avgViewers": 14.0,
+          "samples": [
+            [
+              "2026-09-12T16:42:48Z",
+              13
+            ],
+            [
+              "2026-09-12T16:55:38Z",
+              15
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "6tuH_RK0ULo",
+          "videoUrl": "https://www.youtube.com/watch?v=6tuH_RK0ULo",
+          "start": "2026-09-12T15:14:26Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 75.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#SURGETown】6日目 / さて、検挙数にはこだわらず、できることをこなそう。そうしよう。【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 9.6,
+          "samples": [
+            [
+              "2026-09-12T15:14:26Z",
+              10
+            ],
+            [
+              "2026-09-12T15:29:00Z",
+              10
+            ],
+            [
+              "2026-09-12T15:42:04Z",
+              10
+            ],
+            [
+              "2026-09-12T15:55:54Z",
+              9
+            ],
+            [
+              "2026-09-12T16:12:45Z",
+              9
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "rriWdxDclEU",
+          "videoUrl": "https://www.youtube.com/watch?v=rriWdxDclEU",
+          "start": "2026-09-12T07:09:56Z",
+          "end": "2026-09-12T12:49:58Z",
+          "minutes": 340.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター】当時の記憶は蘇るのか？懐かしみながらプレイしよう！【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 16,
+          "avgViewers": 11.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "oMpDuXO3Oto",
+          "videoUrl": "https://www.youtube.com/watch?v=oMpDuXO3Oto",
+          "start": "2026-09-11T10:59:42Z",
+          "end": "2026-09-11T13:33:39Z",
+          "minutes": 154.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 6.5,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "oMpDuXO3Oto",
+          "videoUrl": "https://www.youtube.com/watch?v=oMpDuXO3Oto",
+          "start": "2026-09-11T10:19:41Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 29.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 6.5,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 7,
+      "livePeakViewers": 7,
+      "liveAvgViewers": 7.0,
+      "liveSamples": [
+        [
+          "2026-09-13T21:13:36Z",
+          7
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=nBGPUBMOhv0"
+    },
     {
       "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
       "name": "시엘스카이",
@@ -56,37 +273,37 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 195.1,
-          "gameMinutes": 195.1,
-          "totalHours": 3.25,
-          "gameHours": 3.25,
+          "totalMinutes": 211.8,
+          "gameMinutes": 211.8,
+          "totalHours": 3.53,
+          "gameHours": 3.53,
           "sessions": 1,
-          "avgViewers": 3.0,
+          "avgViewers": 2.9,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 195.1,
-          "gameMinutes": 195.1,
-          "totalHours": 3.25,
-          "gameHours": 3.25,
+          "totalMinutes": 211.8,
+          "gameMinutes": 211.8,
+          "totalHours": 3.53,
+          "gameHours": 3.53,
           "sessions": 1,
-          "avgViewers": 3.0,
+          "avgViewers": 2.9,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 195.1,
-          "gameMinutes": 195.1,
-          "totalHours": 3.25,
-          "gameHours": 3.25,
+          "totalMinutes": 211.8,
+          "gameMinutes": 211.8,
+          "totalHours": 3.53,
+          "gameHours": 3.53,
           "sessions": 1,
-          "avgViewers": 3.0,
+          "avgViewers": 2.9,
           "peakViewers": 4
         }
       },
       "recentSessions": [],
       "liveViewers": 2,
       "livePeakViewers": 4,
-      "liveAvgViewers": 3.0,
+      "liveAvgViewers": 2.9,
       "liveSamples": [
         [
           "2026-09-13T17:41:51Z",
@@ -142,6 +359,10 @@
         ],
         [
           "2026-09-13T20:56:57Z",
+          2
+        ],
+        [
+          "2026-09-13T21:13:36Z",
           2
         ]
       ],
@@ -3730,213 +3951,6 @@
           "avgViewers": 30.5,
           "samples": [],
           "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-13T08:32:45Z",
-      "lastTitle": "【競馬】GⅡ ローズS 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 756.5,
-          "gameMinutes": 183.4,
-          "totalHours": 12.61,
-          "gameHours": 3.06,
-          "sessions": 6,
-          "avgViewers": 9.2,
-          "peakViewers": 16
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "vgtCQhC7DKE",
-          "videoUrl": "https://www.youtube.com/watch?v=vgtCQhC7DKE",
-          "start": "2026-09-13T06:23:16Z",
-          "end": "2026-09-13T08:32:45Z",
-          "minutes": 129.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【競馬】GⅡ ローズS 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 9,
-          "avgViewers": 6.7,
-          "samples": [
-            [
-              "2026-09-13T06:23:16Z",
-              5
-            ],
-            [
-              "2026-09-13T06:44:24Z",
-              9
-            ],
-            [
-              "2026-09-13T06:58:33Z",
-              8
-            ],
-            [
-              "2026-09-13T07:16:37Z",
-              6
-            ],
-            [
-              "2026-09-13T07:31:32Z",
-              7
-            ],
-            [
-              "2026-09-13T07:47:19Z",
-              8
-            ],
-            [
-              "2026-09-13T07:58:05Z",
-              5
-            ],
-            [
-              "2026-09-13T08:17:43Z",
-              7
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "6tuH_RK0ULo",
-          "videoUrl": "https://www.youtube.com/watch?v=6tuH_RK0ULo",
-          "start": "2026-09-12T16:42:48Z",
-          "end": "2026-09-12T17:10:37Z",
-          "minutes": 27.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#SURGETown】6日目 / さて、検挙数にはこだわらず、できることをこなそう。そうしよう。【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 15,
-          "avgViewers": 14.0,
-          "samples": [
-            [
-              "2026-09-12T16:42:48Z",
-              13
-            ],
-            [
-              "2026-09-12T16:55:38Z",
-              15
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "6tuH_RK0ULo",
-          "videoUrl": "https://www.youtube.com/watch?v=6tuH_RK0ULo",
-          "start": "2026-09-12T15:14:26Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 75.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#SURGETown】6日目 / さて、検挙数にはこだわらず、できることをこなそう。そうしよう。【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 9.6,
-          "samples": [
-            [
-              "2026-09-12T15:14:26Z",
-              10
-            ],
-            [
-              "2026-09-12T15:29:00Z",
-              10
-            ],
-            [
-              "2026-09-12T15:42:04Z",
-              10
-            ],
-            [
-              "2026-09-12T15:55:54Z",
-              9
-            ],
-            [
-              "2026-09-12T16:12:45Z",
-              9
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "rriWdxDclEU",
-          "videoUrl": "https://www.youtube.com/watch?v=rriWdxDclEU",
-          "start": "2026-09-12T07:09:56Z",
-          "end": "2026-09-12T12:49:58Z",
-          "minutes": 340.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【トルネコの大冒険 不思議のダンジョン ちょっとステキなリマスター】当時の記憶は蘇るのか？懐かしみながらプレイしよう！【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 16,
-          "avgViewers": 11.1,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "oMpDuXO3Oto",
-          "videoUrl": "https://www.youtube.com/watch?v=oMpDuXO3Oto",
-          "start": "2026-09-11T10:59:42Z",
-          "end": "2026-09-11T13:33:39Z",
-          "minutes": 154.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 6.5,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "oMpDuXO3Oto",
-          "videoUrl": "https://www.youtube.com/watch?v=oMpDuXO3Oto",
-          "start": "2026-09-11T10:19:41Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 29.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Eternal Return】エタリタスクリム！！！今日こそは2位じゃなく1位取るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 6.5,
-          "samples": [],
-          "isTargetGame": true
         }
       ]
     },
