@@ -13,7 +13,7 @@
       "peakViewers": 45,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T02:17:37Z",
-      "lastSeenAt": "2026-09-13T04:58:38Z",
+      "lastSeenAt": "2026-09-13T05:16:01Z",
       "samples": [
         [
           "2026-09-13T02:17:37Z",
@@ -62,6 +62,10 @@
         [
           "2026-09-13T04:58:38Z",
           38
+        ],
+        [
+          "2026-09-13T05:16:01Z",
+          42
         ]
       ]
     },
@@ -76,7 +80,7 @@
       "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T02:17:37Z",
-      "lastSeenAt": "2026-09-13T04:58:38Z",
+      "lastSeenAt": "2026-09-13T05:16:01Z",
       "samples": [
         [
           "2026-09-13T02:32:14Z",
@@ -121,37 +125,10 @@
         [
           "2026-09-13T04:58:38Z",
           4
-        ]
-      ]
-    },
-    "UCEdlID7vgnILT3NR-ifyjPg": {
-      "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
-      "name": "서토리 라이브 저장소!",
-      "videoId": "5wDYBONSNEQ",
-      "start": "2026-09-13T03:58:08Z",
-      "startSource": "observed",
-      "title": "이터널리턴 2026년 9월 13일 1부",
-      "game": null,
-      "peakViewers": 2,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T03:58:08Z",
-      "lastSeenAt": "2026-09-13T04:58:38Z",
-      "samples": [
-        [
-          "2026-09-13T04:17:14Z",
-          2
         ],
         [
-          "2026-09-13T04:32:19Z",
-          1
-        ],
-        [
-          "2026-09-13T04:47:42Z",
-          1
-        ],
-        [
-          "2026-09-13T04:58:38Z",
-          1
+          "2026-09-13T05:16:01Z",
+          3
         ]
       ]
     },
@@ -166,7 +143,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T03:58:08Z",
-      "lastSeenAt": "2026-09-13T04:58:38Z",
+      "lastSeenAt": "2026-09-13T05:16:01Z",
       "samples": []
     },
     "UCEtUOMEAuAMz8dor89rt2RA": {
@@ -180,7 +157,7 @@
       "peakViewers": 342,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T04:17:14Z",
-      "lastSeenAt": "2026-09-13T04:58:38Z",
+      "lastSeenAt": "2026-09-13T05:16:01Z",
       "samples": [
         [
           "2026-09-13T04:17:14Z",
@@ -196,6 +173,10 @@
         ],
         [
           "2026-09-13T04:58:38Z",
+          309
+        ],
+        [
+          "2026-09-13T05:16:01Z",
           309
         ]
       ]
@@ -5398,6 +5379,40 @@
       "avgViewers": null,
       "samples": [],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
+      "name": "서토리 라이브 저장소!",
+      "videoId": "5wDYBONSNEQ",
+      "videoUrl": "https://www.youtube.com/watch?v=5wDYBONSNEQ",
+      "start": "2026-09-13T03:58:08Z",
+      "end": "2026-09-13T05:16:01Z",
+      "minutes": 77.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴 2026년 9월 13일 1부",
+      "game": null,
+      "peakViewers": 2,
+      "avgViewers": 1.3,
+      "samples": [
+        [
+          "2026-09-13T04:17:14Z",
+          2
+        ],
+        [
+          "2026-09-13T04:32:19Z",
+          1
+        ],
+        [
+          "2026-09-13T04:47:42Z",
+          1
+        ],
+        [
+          "2026-09-13T04:58:38Z",
+          1
+        ]
+      ],
+      "isTargetGame": true
     }
   ]
 }
