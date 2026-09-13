@@ -1,419 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCLfO5ulnws_Z4VttSbwhdvQ": {
-      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-      "name": "덤덤",
-      "videoId": "x7OY4Fr746k",
-      "start": "2026-09-13T03:58:08Z",
-      "startSource": "observed",
-      "title": "이터널 리턴)도둑 잡으러 갑시다",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T03:58:08Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": []
-    },
-    "UCB6AgLlZxso1HzFNIzVHmZw": {
-      "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
-      "name": "대한민국 이스포츠 리그 - KEL",
-      "videoId": "kCK4wGOmZnk",
-      "start": "2026-09-13T07:58:05Z",
-      "startSource": "observed",
-      "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
-      "game": null,
-      "peakViewers": 23,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T07:58:05Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T07:58:05Z",
-          3
-        ],
-        [
-          "2026-09-13T08:17:43Z",
-          8
-        ],
-        [
-          "2026-09-13T08:32:45Z",
-          14
-        ],
-        [
-          "2026-09-13T09:37:54Z",
-          23
-        ],
-        [
-          "2026-09-13T10:06:35Z",
-          18
-        ],
-        [
-          "2026-09-13T10:26:31Z",
-          15
-        ],
-        [
-          "2026-09-13T10:41:22Z",
-          22
-        ],
-        [
-          "2026-09-13T10:55:52Z",
-          15
-        ],
-        [
-          "2026-09-13T11:11:28Z",
-          21
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          16
-        ]
-      ]
-    },
-    "UCQugPXHK8_F1RZ5nfTfeAaw": {
-      "channelId": "UCQugPXHK8_F1RZ5nfTfeAaw",
-      "name": "므앙",
-      "videoId": "h1bYCPDnre4",
-      "start": "2026-09-13T09:37:54Z",
-      "startSource": "observed",
-      "title": "이터널리턴 뉴비 랭크3일차",
-      "game": null,
-      "peakViewers": 2,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T09:37:54Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T09:37:54Z",
-          2
-        ],
-        [
-          "2026-09-13T10:06:35Z",
-          1
-        ],
-        [
-          "2026-09-13T10:26:31Z",
-          1
-        ],
-        [
-          "2026-09-13T10:41:22Z",
-          1
-        ],
-        [
-          "2026-09-13T10:55:52Z",
-          1
-        ],
-        [
-          "2026-09-13T11:11:28Z",
-          1
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          1
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "tK0tiy4IqhM",
-      "start": "2026-09-13T10:06:35Z",
-      "startSource": "observed",
-      "title": "【SURGETown】アウトプットGO【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 234,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T10:06:35Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T10:06:35Z",
-          112
-        ],
-        [
-          "2026-09-13T10:26:31Z",
-          217
-        ],
-        [
-          "2026-09-13T10:41:22Z",
-          234
-        ],
-        [
-          "2026-09-13T10:55:52Z",
-          233
-        ],
-        [
-          "2026-09-13T11:11:28Z",
-          191
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          227
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "6TFEwmVxpII",
-      "start": "2026-09-13T10:06:35Z",
-      "startSource": "observed",
-      "title": "🟣9/13【 #エターナルリターン 】TRPG前にちょこっとソロ練　その2⃣【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 16,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T10:06:35Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T10:06:35Z",
-          1
-        ],
-        [
-          "2026-09-13T10:26:31Z",
-          14
-        ],
-        [
-          "2026-09-13T10:41:22Z",
-          15
-        ],
-        [
-          "2026-09-13T10:55:52Z",
-          16
-        ],
-        [
-          "2026-09-13T11:11:28Z",
-          13
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          11
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "TZ8LzMAa3_E",
-      "start": "2026-09-13T10:06:35Z",
-      "startSource": "observed",
-      "title": "【 SURGETOWN 】#10　車の練習いっぱいした🔥警察がんばってる🔥【恋沼ミヤ/#surgetown】",
-      "game": null,
-      "peakViewers": 114,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T10:06:35Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T10:06:35Z",
-          114
-        ],
-        [
-          "2026-09-13T10:26:31Z",
-          91
-        ],
-        [
-          "2026-09-13T10:41:22Z",
-          77
-        ],
-        [
-          "2026-09-13T10:55:52Z",
-          85
-        ],
-        [
-          "2026-09-13T11:11:28Z",
-          70
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          70
-        ]
-      ]
-    },
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "xeM8oMrFE00",
-      "start": "2026-09-13T10:26:31Z",
-      "startSource": "observed",
-      "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 22,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T10:26:31Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T10:26:31Z",
-          15
-        ],
-        [
-          "2026-09-13T10:41:22Z",
-          22
-        ],
-        [
-          "2026-09-13T10:55:52Z",
-          2
-        ],
-        [
-          "2026-09-13T11:11:28Z",
-          15
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          1
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "BY7iZLKlGeg",
-      "start": "2026-09-13T10:26:31Z",
-      "startSource": "observed",
-      "title": "【 #SURGETown ￤＃7】ヘリで神ピックをするのだ【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 129,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T10:26:31Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T10:26:31Z",
-          53
-        ],
-        [
-          "2026-09-13T10:41:22Z",
-          108
-        ],
-        [
-          "2026-09-13T10:55:52Z",
-          129
-        ],
-        [
-          "2026-09-13T11:11:28Z",
-          126
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          127
-        ]
-      ]
-    },
-    "UCtNOhAK9t4xBgXQKT9wYFfw": {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "videoId": "o0yhZtrCtxM",
-      "start": "2026-09-13T10:26:31Z",
-      "startSource": "observed",
-      "title": "카렐의 메가 함선 가려면 어떻게 해야 할까...",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T10:26:31Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": []
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "JIg_y9jXZno",
-      "start": "2026-09-13T11:11:28Z",
-      "startSource": "observed",
-      "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 512,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T11:11:28Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T11:11:28Z",
-          372
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          512
-        ]
-      ]
-    },
-    "UCn5ZfWrb5xHwzqczEl5NlxQ": {
-      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "name": "지몽지",
-      "videoId": "Yz_9ZV6wW6k",
-      "start": "2026-09-13T11:11:28Z",
-      "startSource": "observed",
-      "title": "[이터널 리턴] 오늘 실력 레전드 (이길 바람) / 골드3",
-      "game": null,
-      "peakViewers": 3,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T11:11:28Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T11:29:14Z",
-          3
-        ]
-      ]
-    },
-    "UCuDY3ibSP2MFRgf7eo3cojg": {
-      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-      "name": "千燈ゆうひ",
-      "videoId": "Lp69XSkQL48",
-      "start": "2026-09-13T11:11:28Z",
-      "startSource": "observed",
-      "title": "【 #ぶいすぽGG 】ぶいすぽGG 橘ひなの presents ~愉悦~ の~愉悦される側~【 ぶいすぽっ！ / 千燈ゆうひ 】",
-      "game": null,
-      "peakViewers": 22,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T11:11:28Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T11:11:28Z",
-          16
-        ],
-        [
-          "2026-09-13T11:29:14Z",
-          22
-        ]
-      ]
-    },
-    "UCyIhcCDDXC_1ssqC8Bcrcng": {
-      "channelId": "UCyIhcCDDXC_1ssqC8Bcrcng",
-      "name": "느긋하게 갑시다",
-      "videoId": "_rwYeHVACLw",
-      "start": "2026-09-13T11:29:14Z",
-      "startSource": "observed",
-      "title": "이터널리턴-분명 먹을 만 했는데 대체 왜 속이...",
-      "game": null,
-      "peakViewers": 3,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T11:29:14Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": [
-        [
-          "2026-09-13T11:29:14Z",
-          3
-        ]
-      ]
-    },
-    "UCOp8W06iik7YzDxvqd3HHig": {
-      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
-      "name": "우찬TV",
-      "videoId": "4TWOKv0VPhE",
-      "start": "2026-09-13T11:29:14Z",
-      "startSource": "observed",
-      "title": "9/13일 이터널리턴 랭크전",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T11:29:14Z",
-      "lastSeenAt": "2026-09-13T11:29:14Z",
-      "samples": []
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -5823,6 +5411,23 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "videoId": "x7OY4Fr746k",
+      "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
+      "start": "2026-09-13T03:58:08Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 463.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널 리턴)도둑 잡으러 갑시다",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
       "videoId": "1jV6cFvQU7k",
@@ -6023,6 +5628,442 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
+      "name": "대한민국 이스포츠 리그 - KEL",
+      "videoId": "kCK4wGOmZnk",
+      "videoUrl": "https://www.youtube.com/watch?v=kCK4wGOmZnk",
+      "start": "2026-09-13T07:58:05Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 224.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
+      "game": null,
+      "peakViewers": 23,
+      "avgViewers": 15.5,
+      "samples": [
+        [
+          "2026-09-13T07:58:05Z",
+          3
+        ],
+        [
+          "2026-09-13T08:17:43Z",
+          8
+        ],
+        [
+          "2026-09-13T08:32:45Z",
+          14
+        ],
+        [
+          "2026-09-13T09:37:54Z",
+          23
+        ],
+        [
+          "2026-09-13T10:06:35Z",
+          18
+        ],
+        [
+          "2026-09-13T10:26:31Z",
+          15
+        ],
+        [
+          "2026-09-13T10:41:22Z",
+          22
+        ],
+        [
+          "2026-09-13T10:55:52Z",
+          15
+        ],
+        [
+          "2026-09-13T11:11:28Z",
+          21
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          16
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCQugPXHK8_F1RZ5nfTfeAaw",
+      "name": "므앙",
+      "videoId": "h1bYCPDnre4",
+      "videoUrl": "https://www.youtube.com/watch?v=h1bYCPDnre4",
+      "start": "2026-09-13T09:37:54Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 124.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴 뉴비 랭크3일차",
+      "game": null,
+      "peakViewers": 2,
+      "avgViewers": 1.2,
+      "samples": [
+        [
+          "2026-09-13T09:37:54Z",
+          2
+        ],
+        [
+          "2026-09-13T10:06:35Z",
+          1
+        ],
+        [
+          "2026-09-13T10:26:31Z",
+          1
+        ],
+        [
+          "2026-09-13T10:41:22Z",
+          1
+        ],
+        [
+          "2026-09-13T10:55:52Z",
+          1
+        ],
+        [
+          "2026-09-13T11:11:28Z",
+          1
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          1
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "tK0tiy4IqhM",
+      "videoUrl": "https://www.youtube.com/watch?v=tK0tiy4IqhM",
+      "start": "2026-09-13T10:06:35Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 95.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【SURGETown】アウトプットGO【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 234,
+      "avgViewers": 197.9,
+      "samples": [
+        [
+          "2026-09-13T10:06:35Z",
+          112
+        ],
+        [
+          "2026-09-13T10:26:31Z",
+          217
+        ],
+        [
+          "2026-09-13T10:41:22Z",
+          234
+        ],
+        [
+          "2026-09-13T10:55:52Z",
+          233
+        ],
+        [
+          "2026-09-13T11:11:28Z",
+          191
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          227
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "6TFEwmVxpII",
+      "videoUrl": "https://www.youtube.com/watch?v=6TFEwmVxpII",
+      "start": "2026-09-13T10:06:35Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 95.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣9/13【 #エターナルリターン 】TRPG前にちょこっとソロ練　その2⃣【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 16,
+      "avgViewers": 11.2,
+      "samples": [
+        [
+          "2026-09-13T10:06:35Z",
+          1
+        ],
+        [
+          "2026-09-13T10:26:31Z",
+          14
+        ],
+        [
+          "2026-09-13T10:41:22Z",
+          15
+        ],
+        [
+          "2026-09-13T10:55:52Z",
+          16
+        ],
+        [
+          "2026-09-13T11:11:28Z",
+          13
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          11
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "TZ8LzMAa3_E",
+      "videoUrl": "https://www.youtube.com/watch?v=TZ8LzMAa3_E",
+      "start": "2026-09-13T10:06:35Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 95.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 SURGETOWN 】#10　車の練習いっぱいした🔥警察がんばってる🔥【恋沼ミヤ/#surgetown】",
+      "game": null,
+      "peakViewers": 114,
+      "avgViewers": 85.4,
+      "samples": [
+        [
+          "2026-09-13T10:06:35Z",
+          114
+        ],
+        [
+          "2026-09-13T10:26:31Z",
+          91
+        ],
+        [
+          "2026-09-13T10:41:22Z",
+          77
+        ],
+        [
+          "2026-09-13T10:55:52Z",
+          85
+        ],
+        [
+          "2026-09-13T11:11:28Z",
+          70
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          70
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "xeM8oMrFE00",
+      "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
+      "start": "2026-09-13T10:26:31Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 75.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 22,
+      "avgViewers": 10.9,
+      "samples": [
+        [
+          "2026-09-13T10:26:31Z",
+          15
+        ],
+        [
+          "2026-09-13T10:41:22Z",
+          22
+        ],
+        [
+          "2026-09-13T10:55:52Z",
+          2
+        ],
+        [
+          "2026-09-13T11:11:28Z",
+          15
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "BY7iZLKlGeg",
+      "videoUrl": "https://www.youtube.com/watch?v=BY7iZLKlGeg",
+      "start": "2026-09-13T10:26:31Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 75.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGETown ￤＃7】ヘリで神ピックをするのだ【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 129,
+      "avgViewers": 109.6,
+      "samples": [
+        [
+          "2026-09-13T10:26:31Z",
+          53
+        ],
+        [
+          "2026-09-13T10:41:22Z",
+          108
+        ],
+        [
+          "2026-09-13T10:55:52Z",
+          129
+        ],
+        [
+          "2026-09-13T11:11:28Z",
+          126
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          127
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "videoId": "o0yhZtrCtxM",
+      "videoUrl": "https://www.youtube.com/watch?v=o0yhZtrCtxM",
+      "start": "2026-09-13T10:26:31Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 75.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "카렐의 메가 함선 가려면 어떻게 해야 할까...",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "JIg_y9jXZno",
+      "videoUrl": "https://www.youtube.com/watch?v=JIg_y9jXZno",
+      "start": "2026-09-13T11:11:28Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 30.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 512,
+      "avgViewers": 442.0,
+      "samples": [
+        [
+          "2026-09-13T11:11:28Z",
+          372
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          512
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+      "name": "지몽지",
+      "videoId": "Yz_9ZV6wW6k",
+      "videoUrl": "https://www.youtube.com/watch?v=Yz_9ZV6wW6k",
+      "start": "2026-09-13T11:11:28Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 30.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[이터널 리턴] 오늘 실력 레전드 (이길 바람) / 골드3",
+      "game": null,
+      "peakViewers": 3,
+      "avgViewers": 3.0,
+      "samples": [
+        [
+          "2026-09-13T11:29:14Z",
+          3
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+      "name": "千燈ゆうひ",
+      "videoId": "Lp69XSkQL48",
+      "videoUrl": "https://www.youtube.com/watch?v=Lp69XSkQL48",
+      "start": "2026-09-13T11:11:28Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 30.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #ぶいすぽGG 】ぶいすぽGG 橘ひなの presents ~愉悦~ の~愉悦される側~【 ぶいすぽっ！ / 千燈ゆうひ 】",
+      "game": null,
+      "peakViewers": 22,
+      "avgViewers": 19.0,
+      "samples": [
+        [
+          "2026-09-13T11:11:28Z",
+          16
+        ],
+        [
+          "2026-09-13T11:29:14Z",
+          22
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCyIhcCDDXC_1ssqC8Bcrcng",
+      "name": "느긋하게 갑시다",
+      "videoId": "_rwYeHVACLw",
+      "videoUrl": "https://www.youtube.com/watch?v=_rwYeHVACLw",
+      "start": "2026-09-13T11:29:14Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 12.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴-분명 먹을 만 했는데 대체 왜 속이...",
+      "game": null,
+      "peakViewers": 3,
+      "avgViewers": 3.0,
+      "samples": [
+        [
+          "2026-09-13T11:29:14Z",
+          3
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+      "name": "우찬TV",
+      "videoId": "4TWOKv0VPhE",
+      "videoUrl": "https://www.youtube.com/watch?v=4TWOKv0VPhE",
+      "start": "2026-09-13T11:29:14Z",
+      "end": "2026-09-13T11:42:03Z",
+      "minutes": 12.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "9/13일 이터널리턴 랭크전",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": true
     }
   ]
 }
