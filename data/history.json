@@ -2,20 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCtNOhAK9t4xBgXQKT9wYFfw": {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "videoId": "dcFkfL9Djd4",
-      "start": "2026-09-13T01:30:29Z",
-      "startSource": "observed",
-      "title": "리링크 힐링 게임 가즈아~",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T01:30:29Z",
-      "lastSeenAt": "2026-09-13T04:47:42Z",
-      "samples": []
-    },
     "UC_mXkuKyIkO1hYjSeMvbt5g": {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
       "name": "火狩夜れんま",
@@ -27,7 +13,7 @@
       "peakViewers": 45,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T02:17:37Z",
-      "lastSeenAt": "2026-09-13T04:47:42Z",
+      "lastSeenAt": "2026-09-13T04:58:38Z",
       "samples": [
         [
           "2026-09-13T02:17:37Z",
@@ -72,6 +58,10 @@
         [
           "2026-09-13T04:47:42Z",
           40
+        ],
+        [
+          "2026-09-13T04:58:38Z",
+          38
         ]
       ]
     },
@@ -86,7 +76,7 @@
       "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T02:17:37Z",
-      "lastSeenAt": "2026-09-13T04:47:42Z",
+      "lastSeenAt": "2026-09-13T04:58:38Z",
       "samples": [
         [
           "2026-09-13T02:32:14Z",
@@ -127,6 +117,10 @@
         [
           "2026-09-13T04:47:42Z",
           3
+        ],
+        [
+          "2026-09-13T04:58:38Z",
+          4
         ]
       ]
     },
@@ -141,7 +135,7 @@
       "peakViewers": 2,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T03:58:08Z",
-      "lastSeenAt": "2026-09-13T04:47:42Z",
+      "lastSeenAt": "2026-09-13T04:58:38Z",
       "samples": [
         [
           "2026-09-13T04:17:14Z",
@@ -153,6 +147,10 @@
         ],
         [
           "2026-09-13T04:47:42Z",
+          1
+        ],
+        [
+          "2026-09-13T04:58:38Z",
           1
         ]
       ]
@@ -168,7 +166,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T03:58:08Z",
-      "lastSeenAt": "2026-09-13T04:47:42Z",
+      "lastSeenAt": "2026-09-13T04:58:38Z",
       "samples": []
     },
     "UCEtUOMEAuAMz8dor89rt2RA": {
@@ -182,7 +180,7 @@
       "peakViewers": 342,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T04:17:14Z",
-      "lastSeenAt": "2026-09-13T04:47:42Z",
+      "lastSeenAt": "2026-09-13T04:58:38Z",
       "samples": [
         [
           "2026-09-13T04:17:14Z",
@@ -195,6 +193,10 @@
         [
           "2026-09-13T04:47:42Z",
           342
+        ],
+        [
+          "2026-09-13T04:58:38Z",
+          309
         ]
       ]
     }
@@ -5378,6 +5380,23 @@
           1
         ]
       ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "videoId": "dcFkfL9Djd4",
+      "videoUrl": "https://www.youtube.com/watch?v=dcFkfL9Djd4",
+      "start": "2026-09-13T01:30:29Z",
+      "end": "2026-09-13T04:58:38Z",
+      "minutes": 208.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "리링크 힐링 게임 가즈아~",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
       "isTargetGame": false
     }
   ]
