@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:14:56Z",
+  "updatedAt": "2026-09-13T01:30:29Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 14.4,
       "totalHours": 28.55,
       "gameHours": 0.24,
-      "sessions": 18,
+      "sessions": 19,
       "avgViewers": 115.1,
       "peakViewers": 966
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 7167.9,
       "totalHours": 274.66,
       "gameHours": 119.46,
-      "sessions": 90,
+      "sessions": 91,
       "avgViewers": 100.3,
       "peakViewers": 994
     },
@@ -38,12 +38,127 @@
       "gameMinutes": 7167.9,
       "totalHours": 274.66,
       "gameHours": 119.46,
-      "sessions": 90,
+      "sessions": 91,
       "avgViewers": 100.3,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
+      "isLive": true,
+      "liveSince": "2026-09-13T01:30:29Z",
+      "liveTitle": "리링크 힐링 게임 가즈아~",
+      "lastEnd": "2026-09-12T11:28:20Z",
+      "lastTitle": "버그캣의 월드 오브 워쉽 오늘은 내가 즐거운 항해가 되어야 되겠습니다!",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 398.2,
+          "gameMinutes": 48.2,
+          "totalHours": 6.64,
+          "gameHours": 0.8,
+          "sessions": 5,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 398.2,
+          "gameMinutes": 48.2,
+          "totalHours": 6.64,
+          "gameHours": 0.8,
+          "sessions": 5,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "d_s3_bsXkBw",
+          "videoUrl": "https://www.youtube.com/watch?v=d_s3_bsXkBw",
+          "start": "2026-09-12T09:42:40Z",
+          "end": "2026-09-12T11:28:20Z",
+          "minutes": 105.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "버그캣의 월드 오브 워쉽 오늘은 내가 즐거운 항해가 되어야 되겠습니다!",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "f_7DtY6Z6TY",
+          "videoUrl": "https://www.youtube.com/watch?v=f_7DtY6Z6TY",
+          "start": "2026-09-12T05:09:53Z",
+          "end": "2026-09-12T09:14:11Z",
+          "minutes": 244.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "버그캣의 퍼스트 디센던트 뭐?! 스트레스 받아?? 그럼 간단하게 즐기는 퍼디나 하자!",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "qzAvYJlHzXE",
+          "videoUrl": "https://www.youtube.com/watch?v=qzAvYJlHzXE",
+          "start": "2026-09-11T10:59:42Z",
+          "end": "2026-09-11T11:18:27Z",
+          "minutes": 18.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "qzAvYJlHzXE",
+          "videoUrl": "https://www.youtube.com/watch?v=qzAvYJlHzXE",
+          "start": "2026-09-11T10:19:41Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 29.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=dcFkfL9Djd4"
+    },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -4167,116 +4282,6 @@
               166
             ]
           ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-12T11:28:20Z",
-      "lastTitle": "버그캣의 월드 오브 워쉽 오늘은 내가 즐거운 항해가 되어야 되겠습니다!",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 398.2,
-          "gameMinutes": 48.2,
-          "totalHours": 6.64,
-          "gameHours": 0.8,
-          "sessions": 4,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 398.2,
-          "gameMinutes": 48.2,
-          "totalHours": 6.64,
-          "gameHours": 0.8,
-          "sessions": 4,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "d_s3_bsXkBw",
-          "videoUrl": "https://www.youtube.com/watch?v=d_s3_bsXkBw",
-          "start": "2026-09-12T09:42:40Z",
-          "end": "2026-09-12T11:28:20Z",
-          "minutes": 105.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "버그캣의 월드 오브 워쉽 오늘은 내가 즐거운 항해가 되어야 되겠습니다!",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "f_7DtY6Z6TY",
-          "videoUrl": "https://www.youtube.com/watch?v=f_7DtY6Z6TY",
-          "start": "2026-09-12T05:09:53Z",
-          "end": "2026-09-12T09:14:11Z",
-          "minutes": 244.3,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "버그캣의 퍼스트 디센던트 뭐?! 스트레스 받아?? 그럼 간단하게 즐기는 퍼디나 하자!",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "qzAvYJlHzXE",
-          "videoUrl": "https://www.youtube.com/watch?v=qzAvYJlHzXE",
-          "start": "2026-09-11T10:59:42Z",
-          "end": "2026-09-11T11:18:27Z",
-          "minutes": 18.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "qzAvYJlHzXE",
-          "videoUrl": "https://www.youtube.com/watch?v=qzAvYJlHzXE",
-          "start": "2026-09-11T10:19:41Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 29.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "버그캣의 이터널리턴 그동안 귀무자에서 수련 했는데 먹힐까?",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
           "isTargetGame": true
         }
       ]
