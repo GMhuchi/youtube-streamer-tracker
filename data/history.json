@@ -1,7 +1,46 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "nBGPUBMOhv0",
+      "start": "2026-09-13T21:56:06Z",
+      "startSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 19,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-13T21:56:06Z",
+      "lastSeenAt": "2026-09-13T21:56:06Z",
+      "samples": [
+        [
+          "2026-09-13T21:56:06Z",
+          19
+        ]
+      ]
+    },
+    "UCCp0zFDfEZ2QePwO2LxXjQA": {
+      "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
+      "name": "시엘스카이",
+      "videoId": "6JEqDnXDTf0",
+      "start": "2026-09-13T21:56:06Z",
+      "startSource": "observed",
+      "title": "상남자의 이터널리턴 켠왕이야!",
+      "game": null,
+      "peakViewers": 2,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-13T21:56:06Z",
+      "lastSeenAt": "2026-09-13T21:56:06Z",
+      "samples": [
+        [
+          "2026-09-13T21:56:06Z",
+          2
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
