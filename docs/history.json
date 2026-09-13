@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:15:21Z",
+  "updatedAt": "2026-09-13T17:29:03Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,764 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1257.7,
-      "gameMinutes": 356.3,
-      "totalHours": 20.96,
-      "gameHours": 5.94,
+      "totalMinutes": 1312.4,
+      "gameMinutes": 383.7,
+      "totalHours": 21.87,
+      "gameHours": 6.4,
       "sessions": 13,
-      "avgViewers": 130.7,
+      "avgViewers": 133.0,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 1257.7,
-      "gameMinutes": 356.3,
-      "totalHours": 20.96,
-      "gameHours": 5.94,
+      "totalMinutes": 1312.4,
+      "gameMinutes": 383.7,
+      "totalHours": 21.87,
+      "gameHours": 6.4,
       "sessions": 13,
-      "avgViewers": 130.7,
+      "avgViewers": 133.0,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 23422.8,
-      "gameMinutes": 9857.4,
-      "totalHours": 390.38,
-      "gameHours": 164.29,
+      "totalMinutes": 23477.6,
+      "gameMinutes": 9884.8,
+      "totalHours": 391.29,
+      "gameHours": 164.75,
       "sessions": 137,
-      "avgViewers": 104.8,
+      "avgViewers": 105.0,
       "peakViewers": 994
     }
   },
   "channels": [
-    {
-      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-      "name": "민키",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC_c3HArzuJYD-gdZ7tAroBw",
-      "isLive": true,
-      "liveSince": "2026-09-13T13:28:36Z",
-      "liveTitle": "이터널리턴 뉴비 랭크전 플레4",
-      "lastEnd": "2026-09-13T07:31:32Z",
-      "lastTitle": "이터널리턴 뉴비 랭크전 골드1 카티야 나만의 빌드 완성!! 플레 가자",
-      "buckets": {
-        "today": {
-          "totalMinutes": 135.4,
-          "gameMinutes": 135.4,
-          "totalHours": 2.26,
-          "gameHours": 2.26,
-          "sessions": 1,
-          "avgViewers": 4.5,
-          "peakViewers": 10
-        },
-        "week": {
-          "totalMinutes": 135.4,
-          "gameMinutes": 135.4,
-          "totalHours": 2.26,
-          "gameHours": 2.26,
-          "sessions": 1,
-          "avgViewers": 4.5,
-          "peakViewers": 10
-        },
-        "month": {
-          "totalMinutes": 1425.5,
-          "gameMinutes": 1425.5,
-          "totalHours": 23.76,
-          "gameHours": 23.76,
-          "sessions": 5,
-          "avgViewers": 3.5,
-          "peakViewers": 10
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-          "name": "민키",
-          "videoId": "KzHjX1tHPVw",
-          "videoUrl": "https://www.youtube.com/watch?v=KzHjX1tHPVw",
-          "start": "2026-09-13T02:17:37Z",
-          "end": "2026-09-13T07:31:32Z",
-          "minutes": 313.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 뉴비 랭크전 골드1 카티야 나만의 빌드 완성!! 플레 가자",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 2.4,
-          "samples": [
-            [
-              "2026-09-13T02:32:14Z",
-              1
-            ],
-            [
-              "2026-09-13T02:47:30Z",
-              1
-            ],
-            [
-              "2026-09-13T02:58:14Z",
-              2
-            ],
-            [
-              "2026-09-13T03:17:26Z",
-              2
-            ],
-            [
-              "2026-09-13T03:32:45Z",
-              2
-            ],
-            [
-              "2026-09-13T03:47:38Z",
-              2
-            ],
-            [
-              "2026-09-13T03:58:08Z",
-              4
-            ],
-            [
-              "2026-09-13T04:17:14Z",
-              3
-            ],
-            [
-              "2026-09-13T04:32:19Z",
-              2
-            ],
-            [
-              "2026-09-13T04:47:42Z",
-              3
-            ],
-            [
-              "2026-09-13T04:58:38Z",
-              4
-            ],
-            [
-              "2026-09-13T05:16:01Z",
-              3
-            ],
-            [
-              "2026-09-13T05:30:16Z",
-              3
-            ],
-            [
-              "2026-09-13T05:46:15Z",
-              3
-            ],
-            [
-              "2026-09-13T05:56:58Z",
-              2
-            ],
-            [
-              "2026-09-13T06:23:16Z",
-              3
-            ],
-            [
-              "2026-09-13T06:44:24Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-          "name": "민키",
-          "videoId": "YkO-iCXGs9k",
-          "videoUrl": "https://www.youtube.com/watch?v=YkO-iCXGs9k",
-          "start": "2026-09-12T00:37:54Z",
-          "end": "2026-09-12T07:09:56Z",
-          "minutes": 392.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 뉴비 랭크전 카티야 내멋대로 빌드짜기",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 3.5,
-          "samples": [
-            [
-              "2026-09-12T00:52:47Z",
-              3
-            ],
-            [
-              "2026-09-12T01:09:53Z",
-              3
-            ],
-            [
-              "2026-09-12T01:24:32Z",
-              7
-            ],
-            [
-              "2026-09-12T01:39:06Z",
-              4
-            ],
-            [
-              "2026-09-12T01:51:14Z",
-              6
-            ],
-            [
-              "2026-09-12T02:11:37Z",
-              3
-            ],
-            [
-              "2026-09-12T02:31:04Z",
-              3
-            ],
-            [
-              "2026-09-12T02:48:13Z",
-              3
-            ],
-            [
-              "2026-09-12T02:58:54Z",
-              3
-            ],
-            [
-              "2026-09-12T03:17:18Z",
-              5
-            ],
-            [
-              "2026-09-12T03:32:53Z",
-              3
-            ],
-            [
-              "2026-09-12T03:47:41Z",
-              3
-            ],
-            [
-              "2026-09-12T03:58:17Z",
-              3
-            ],
-            [
-              "2026-09-12T04:16:48Z",
-              2
-            ],
-            [
-              "2026-09-12T04:31:53Z",
-              3
-            ],
-            [
-              "2026-09-12T04:48:07Z",
-              3
-            ],
-            [
-              "2026-09-12T04:58:37Z",
-              3
-            ],
-            [
-              "2026-09-12T05:15:50Z",
-              2
-            ],
-            [
-              "2026-09-12T05:30:03Z",
-              2
-            ],
-            [
-              "2026-09-12T05:43:01Z",
-              6
-            ],
-            [
-              "2026-09-12T05:55:39Z",
-              3
-            ],
-            [
-              "2026-09-12T06:15:20Z",
-              2
-            ],
-            [
-              "2026-09-12T06:35:15Z",
-              4
-            ],
-            [
-              "2026-09-12T06:50:43Z",
-              4
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-          "name": "민키",
-          "videoId": "Mz9Ss9M9qWs",
-          "videoUrl": "https://www.youtube.com/watch?v=Mz9Ss9M9qWs",
-          "start": "2026-09-11T13:33:39Z",
-          "end": "2026-09-11T16:48:58Z",
-          "minutes": 195.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 2.5,
-          "samples": [
-            [
-              "2026-09-11T13:33:39Z",
-              3
-            ],
-            [
-              "2026-09-11T13:49:15Z",
-              3
-            ],
-            [
-              "2026-09-11T14:00:11Z",
-              2
-            ],
-            [
-              "2026-09-11T14:23:05Z",
-              3
-            ],
-            [
-              "2026-09-11T14:41:24Z",
-              4
-            ],
-            [
-              "2026-09-11T14:57:45Z",
-              2
-            ],
-            [
-              "2026-09-11T15:16:19Z",
-              3
-            ],
-            [
-              "2026-09-11T15:32:24Z",
-              3
-            ],
-            [
-              "2026-09-11T15:48:40Z",
-              3
-            ],
-            [
-              "2026-09-11T15:59:46Z",
-              1
-            ],
-            [
-              "2026-09-11T16:19:44Z",
-              2
-            ],
-            [
-              "2026-09-11T16:35:19Z",
-              2
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-          "name": "민키",
-          "videoId": "_fgU1wQdOeo",
-          "videoUrl": "https://www.youtube.com/watch?v=_fgU1wQdOeo",
-          "start": "2026-09-11T02:36:36Z",
-          "end": "2026-09-11T07:34:07Z",
-          "minutes": 297.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 4.4,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 4,
-      "livePeakViewers": 10,
-      "liveAvgViewers": 4.5,
-      "liveSamples": [
-        [
-          "2026-09-13T13:55:39Z",
-          2
-        ],
-        [
-          "2026-09-13T14:11:43Z",
-          2
-        ],
-        [
-          "2026-09-13T14:29:39Z",
-          2
-        ],
-        [
-          "2026-09-13T14:42:51Z",
-          1
-        ],
-        [
-          "2026-09-13T14:55:46Z",
-          1
-        ],
-        [
-          "2026-09-13T15:12:10Z",
-          2
-        ],
-        [
-          "2026-09-13T15:29:37Z",
-          4
-        ],
-        [
-          "2026-09-13T15:43:07Z",
-          6
-        ],
-        [
-          "2026-09-13T15:56:00Z",
-          9
-        ],
-        [
-          "2026-09-13T16:13:00Z",
-          7
-        ],
-        [
-          "2026-09-13T16:30:52Z",
-          10
-        ],
-        [
-          "2026-09-13T16:47:59Z",
-          6
-        ],
-        [
-          "2026-09-13T16:58:52Z",
-          6
-        ],
-        [
-          "2026-09-13T17:15:21Z",
-          4
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=S8FYXJOgf3o"
-    },
-    {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
-      "isLive": true,
-      "liveSince": "2026-09-13T11:55:56Z",
-      "liveTitle": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
-      "lastEnd": "2026-09-13T11:42:03Z",
-      "lastTitle": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 135.4,
-          "gameMinutes": 0.0,
-          "totalHours": 2.26,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 610.0,
-          "peakViewers": 994
-        },
-        "week": {
-          "totalMinutes": 135.4,
-          "gameMinutes": 0.0,
-          "totalHours": 2.26,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 610.0,
-          "peakViewers": 994
-        },
-        "month": {
-          "totalMinutes": 1134.4,
-          "gameMinutes": 0.0,
-          "totalHours": 18.91,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 527.1,
-          "peakViewers": 994
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "xeM8oMrFE00",
-          "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
-          "start": "2026-09-13T10:26:31Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 75.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 10.9,
-          "samples": [
-            [
-              "2026-09-13T10:26:31Z",
-              15
-            ],
-            [
-              "2026-09-13T10:41:22Z",
-              22
-            ],
-            [
-              "2026-09-13T10:55:52Z",
-              2
-            ],
-            [
-              "2026-09-13T11:11:28Z",
-              15
-            ],
-            [
-              "2026-09-13T11:29:14Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "rTC_PsVxkc0",
-          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
-          "start": "2026-09-12T16:42:48Z",
-          "end": "2026-09-12T18:13:52Z",
-          "minutes": 91.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 780,
-          "avgViewers": 121.9,
-          "samples": [
-            [
-              "2026-09-12T16:42:48Z",
-              780
-            ],
-            [
-              "2026-09-12T16:55:38Z",
-              12
-            ],
-            [
-              "2026-09-12T17:10:37Z",
-              2
-            ],
-            [
-              "2026-09-12T17:28:18Z",
-              2
-            ],
-            [
-              "2026-09-12T17:40:45Z",
-              15
-            ],
-            [
-              "2026-09-12T17:55:47Z",
-              14
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "rTC_PsVxkc0",
-          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
-          "start": "2026-09-12T10:29:27Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 360.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 966,
-          "avgViewers": 626.8,
-          "samples": [
-            [
-              "2026-09-12T10:29:27Z",
-              13
-            ],
-            [
-              "2026-09-12T10:42:30Z",
-              17
-            ],
-            [
-              "2026-09-12T10:55:34Z",
-              18
-            ],
-            [
-              "2026-09-12T11:10:51Z",
-              18
-            ],
-            [
-              "2026-09-12T11:28:20Z",
-              12
-            ],
-            [
-              "2026-09-12T11:40:54Z",
-              11
-            ],
-            [
-              "2026-09-12T11:55:44Z",
-              966
-            ],
-            [
-              "2026-09-12T12:15:12Z",
-              861
-            ],
-            [
-              "2026-09-12T12:34:30Z",
-              818
-            ],
-            [
-              "2026-09-12T12:49:58Z",
-              868
-            ],
-            [
-              "2026-09-12T13:00:43Z",
-              889
-            ],
-            [
-              "2026-09-12T13:20:22Z",
-              789
-            ],
-            [
-              "2026-09-12T13:38:17Z",
-              862
-            ],
-            [
-              "2026-09-12T13:49:27Z",
-              803
-            ],
-            [
-              "2026-09-12T14:00:01Z",
-              827
-            ],
-            [
-              "2026-09-12T14:16:46Z",
-              876
-            ],
-            [
-              "2026-09-12T14:32:18Z",
-              804
-            ],
-            [
-              "2026-09-12T14:46:24Z",
-              776
-            ],
-            [
-              "2026-09-12T14:57:22Z",
-              766
-            ],
-            [
-              "2026-09-12T15:14:26Z",
-              867
-            ],
-            [
-              "2026-09-12T15:29:00Z",
-              774
-            ],
-            [
-              "2026-09-12T15:42:04Z",
-              803
-            ],
-            [
-              "2026-09-12T15:55:54Z",
-              716
-            ],
-            [
-              "2026-09-12T16:12:45Z",
-              659
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "mst1oJrSYcc",
-          "videoUrl": "https://www.youtube.com/watch?v=mst1oJrSYcc",
-          "start": "2026-09-11T12:58:36Z",
-          "end": "2026-09-11T17:46:15Z",
-          "minutes": 287.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 739,
-          "avgViewers": 573.9,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 836,
-      "livePeakViewers": 994,
-      "liveAvgViewers": 610.0,
-      "liveSamples": [
-        [
-          "2026-09-13T11:55:56Z",
-          975
-        ],
-        [
-          "2026-09-13T12:15:41Z",
-          913
-        ],
-        [
-          "2026-09-13T12:35:20Z",
-          12
-        ],
-        [
-          "2026-09-13T12:50:34Z",
-          11
-        ],
-        [
-          "2026-09-13T13:10:56Z",
-          13
-        ],
-        [
-          "2026-09-13T13:28:36Z",
-          971
-        ],
-        [
-          "2026-09-13T13:41:56Z",
-          12
-        ],
-        [
-          "2026-09-13T13:55:39Z",
-          1
-        ],
-        [
-          "2026-09-13T14:11:43Z",
-          981
-        ],
-        [
-          "2026-09-13T14:29:39Z",
-          919
-        ],
-        [
-          "2026-09-13T14:42:51Z",
-          956
-        ],
-        [
-          "2026-09-13T14:55:46Z",
-          11
-        ],
-        [
-          "2026-09-13T15:12:10Z",
-          994
-        ],
-        [
-          "2026-09-13T15:29:37Z",
-          855
-        ],
-        [
-          "2026-09-13T15:43:07Z",
-          817
-        ],
-        [
-          "2026-09-13T15:56:00Z",
-          774
-        ],
-        [
-          "2026-09-13T16:13:00Z",
-          717
-        ],
-        [
-          "2026-09-13T16:30:52Z",
-          788
-        ],
-        [
-          "2026-09-13T16:47:59Z",
-          742
-        ],
-        [
-          "2026-09-13T16:58:52Z",
-          673
-        ],
-        [
-          "2026-09-13T17:15:21Z",
-          836
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00"
-    },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
@@ -786,28 +56,28 @@
       "lastTitle": "【 VALORANT 】久々にそこで待ってろメンツで遊ぶ【グラニット/ゆにれいど！/史門/ぴりから/火狩夜れんま/白妙とき】",
       "buckets": {
         "today": {
-          "totalMinutes": 135.4,
-          "gameMinutes": 135.4,
-          "totalHours": 2.26,
-          "gameHours": 2.26,
+          "totalMinutes": 149.1,
+          "gameMinutes": 149.1,
+          "totalHours": 2.48,
+          "gameHours": 2.48,
           "sessions": 1,
-          "avgViewers": 17.2,
+          "avgViewers": 17.3,
           "peakViewers": 25
         },
         "week": {
-          "totalMinutes": 135.4,
-          "gameMinutes": 135.4,
-          "totalHours": 2.26,
-          "gameHours": 2.26,
+          "totalMinutes": 149.1,
+          "gameMinutes": 149.1,
+          "totalHours": 2.48,
+          "gameHours": 2.48,
           "sessions": 1,
-          "avgViewers": 17.2,
+          "avgViewers": 17.3,
           "peakViewers": 25
         },
         "month": {
-          "totalMinutes": 1132.0,
-          "gameMinutes": 715.6,
-          "totalHours": 18.87,
-          "gameHours": 11.93,
+          "totalMinutes": 1145.7,
+          "gameMinutes": 729.3,
+          "totalHours": 19.1,
+          "gameHours": 12.15,
           "sessions": 4,
           "avgViewers": 24.7,
           "peakViewers": 61
@@ -1081,9 +351,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 17,
+      "liveViewers": 18,
       "livePeakViewers": 25,
-      "liveAvgViewers": 17.2,
+      "liveAvgViewers": 17.3,
       "liveSamples": [
         [
           "2026-09-13T12:35:20Z",
@@ -1160,6 +430,10 @@
         [
           "2026-09-13T17:15:21Z",
           17
+        ],
+        [
+          "2026-09-13T17:29:03Z",
+          18
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=iOHf5haCeQ4"
@@ -1176,27 +450,27 @@
       "lastTitle": "【 #SURGETown ￤＃7】ヘリで神ピックをするのだ【YUMENOS/那和ツムグ】",
       "buckets": {
         "today": {
-          "totalMinutes": 135.4,
+          "totalMinutes": 149.1,
           "gameMinutes": 0.0,
-          "totalHours": 2.26,
+          "totalHours": 2.48,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 107.4,
+          "avgViewers": 106.5,
           "peakViewers": 124
         },
         "week": {
-          "totalMinutes": 135.4,
+          "totalMinutes": 149.1,
           "gameMinutes": 0.0,
-          "totalHours": 2.26,
+          "totalHours": 2.48,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 107.4,
+          "avgViewers": 106.5,
           "peakViewers": 124
         },
         "month": {
-          "totalMinutes": 740.5,
+          "totalMinutes": 754.2,
           "gameMinutes": 0.0,
-          "totalHours": 12.34,
+          "totalHours": 12.57,
           "gameHours": 0.0,
           "sessions": 4,
           "avgViewers": 84.8,
@@ -1363,9 +637,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 80,
+      "liveViewers": 84,
       "livePeakViewers": 124,
-      "liveAvgViewers": 107.4,
+      "liveAvgViewers": 106.5,
       "liveSamples": [
         [
           "2026-09-13T11:55:56Z",
@@ -1450,6 +724,10 @@
         [
           "2026-09-13T17:15:21Z",
           80
+        ],
+        [
+          "2026-09-13T17:29:03Z",
+          84
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=BY7iZLKlGeg"
@@ -1995,6 +1273,356 @@
       ]
     },
     {
+      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+      "name": "민키",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC_c3HArzuJYD-gdZ7tAroBw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-13T17:29:03Z",
+      "lastTitle": "이터널리턴 뉴비 랭크전 플레4",
+      "buckets": {
+        "today": {
+          "totalMinutes": 149.1,
+          "gameMinutes": 149.1,
+          "totalHours": 2.48,
+          "gameHours": 2.48,
+          "sessions": 1,
+          "avgViewers": 4.5,
+          "peakViewers": 10
+        },
+        "week": {
+          "totalMinutes": 149.1,
+          "gameMinutes": 149.1,
+          "totalHours": 2.48,
+          "gameHours": 2.48,
+          "sessions": 1,
+          "avgViewers": 4.5,
+          "peakViewers": 10
+        },
+        "month": {
+          "totalMinutes": 1439.2,
+          "gameMinutes": 1439.2,
+          "totalHours": 23.99,
+          "gameHours": 23.99,
+          "sessions": 5,
+          "avgViewers": 3.5,
+          "peakViewers": 10
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+          "name": "민키",
+          "videoId": "S8FYXJOgf3o",
+          "videoUrl": "https://www.youtube.com/watch?v=S8FYXJOgf3o",
+          "start": "2026-09-13T13:28:36Z",
+          "end": "2026-09-13T17:29:03Z",
+          "minutes": 240.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 뉴비 랭크전 플레4",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 4.5,
+          "samples": [
+            [
+              "2026-09-13T13:55:39Z",
+              2
+            ],
+            [
+              "2026-09-13T14:11:43Z",
+              2
+            ],
+            [
+              "2026-09-13T14:29:39Z",
+              2
+            ],
+            [
+              "2026-09-13T14:42:51Z",
+              1
+            ],
+            [
+              "2026-09-13T14:55:46Z",
+              1
+            ],
+            [
+              "2026-09-13T15:12:10Z",
+              2
+            ],
+            [
+              "2026-09-13T15:29:37Z",
+              4
+            ],
+            [
+              "2026-09-13T15:43:07Z",
+              6
+            ],
+            [
+              "2026-09-13T15:56:00Z",
+              9
+            ],
+            [
+              "2026-09-13T16:13:00Z",
+              7
+            ],
+            [
+              "2026-09-13T16:30:52Z",
+              10
+            ],
+            [
+              "2026-09-13T16:47:59Z",
+              6
+            ],
+            [
+              "2026-09-13T16:58:52Z",
+              6
+            ],
+            [
+              "2026-09-13T17:15:21Z",
+              4
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+          "name": "민키",
+          "videoId": "KzHjX1tHPVw",
+          "videoUrl": "https://www.youtube.com/watch?v=KzHjX1tHPVw",
+          "start": "2026-09-13T02:17:37Z",
+          "end": "2026-09-13T07:31:32Z",
+          "minutes": 313.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 뉴비 랭크전 골드1 카티야 나만의 빌드 완성!! 플레 가자",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.4,
+          "samples": [
+            [
+              "2026-09-13T02:32:14Z",
+              1
+            ],
+            [
+              "2026-09-13T02:47:30Z",
+              1
+            ],
+            [
+              "2026-09-13T02:58:14Z",
+              2
+            ],
+            [
+              "2026-09-13T03:17:26Z",
+              2
+            ],
+            [
+              "2026-09-13T03:32:45Z",
+              2
+            ],
+            [
+              "2026-09-13T03:47:38Z",
+              2
+            ],
+            [
+              "2026-09-13T03:58:08Z",
+              4
+            ],
+            [
+              "2026-09-13T04:17:14Z",
+              3
+            ],
+            [
+              "2026-09-13T04:32:19Z",
+              2
+            ],
+            [
+              "2026-09-13T04:47:42Z",
+              3
+            ],
+            [
+              "2026-09-13T04:58:38Z",
+              4
+            ],
+            [
+              "2026-09-13T05:16:01Z",
+              3
+            ],
+            [
+              "2026-09-13T05:30:16Z",
+              3
+            ],
+            [
+              "2026-09-13T05:46:15Z",
+              3
+            ],
+            [
+              "2026-09-13T05:56:58Z",
+              2
+            ],
+            [
+              "2026-09-13T06:23:16Z",
+              3
+            ],
+            [
+              "2026-09-13T06:44:24Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+          "name": "민키",
+          "videoId": "YkO-iCXGs9k",
+          "videoUrl": "https://www.youtube.com/watch?v=YkO-iCXGs9k",
+          "start": "2026-09-12T00:37:54Z",
+          "end": "2026-09-12T07:09:56Z",
+          "minutes": 392.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 뉴비 랭크전 카티야 내멋대로 빌드짜기",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 3.5,
+          "samples": [
+            [
+              "2026-09-12T00:52:47Z",
+              3
+            ],
+            [
+              "2026-09-12T01:09:53Z",
+              3
+            ],
+            [
+              "2026-09-12T01:24:32Z",
+              7
+            ],
+            [
+              "2026-09-12T01:39:06Z",
+              4
+            ],
+            [
+              "2026-09-12T01:51:14Z",
+              6
+            ],
+            [
+              "2026-09-12T02:11:37Z",
+              3
+            ],
+            [
+              "2026-09-12T02:31:04Z",
+              3
+            ],
+            [
+              "2026-09-12T02:48:13Z",
+              3
+            ],
+            [
+              "2026-09-12T02:58:54Z",
+              3
+            ],
+            [
+              "2026-09-12T03:17:18Z",
+              5
+            ],
+            [
+              "2026-09-12T03:32:53Z",
+              3
+            ],
+            [
+              "2026-09-12T03:47:41Z",
+              3
+            ],
+            [
+              "2026-09-12T03:58:17Z",
+              3
+            ],
+            [
+              "2026-09-12T04:16:48Z",
+              2
+            ],
+            [
+              "2026-09-12T04:31:53Z",
+              3
+            ],
+            [
+              "2026-09-12T04:48:07Z",
+              3
+            ],
+            [
+              "2026-09-12T04:58:37Z",
+              3
+            ],
+            [
+              "2026-09-12T05:15:50Z",
+              2
+            ],
+            [
+              "2026-09-12T05:30:03Z",
+              2
+            ],
+            [
+              "2026-09-12T05:43:01Z",
+              6
+            ],
+            [
+              "2026-09-12T05:55:39Z",
+              3
+            ],
+            [
+              "2026-09-12T06:15:20Z",
+              2
+            ],
+            [
+              "2026-09-12T06:35:15Z",
+              4
+            ],
+            [
+              "2026-09-12T06:50:43Z",
+              4
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+          "name": "민키",
+          "videoId": "Mz9Ss9M9qWs",
+          "videoUrl": "https://www.youtube.com/watch?v=Mz9Ss9M9qWs",
+          "start": "2026-09-11T13:33:39Z",
+          "end": "2026-09-11T16:48:58Z",
+          "minutes": 195.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.5,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+          "name": "민키",
+          "videoId": "_fgU1wQdOeo",
+          "videoUrl": "https://www.youtube.com/watch?v=_fgU1wQdOeo",
+          "start": "2026-09-11T02:36:36Z",
+          "end": "2026-09-11T07:34:07Z",
+          "minutes": 297.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 뉴비 랭크전 골드3 원딜의 무게 압박깜",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 4.4,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
       "name": "덤덤",
       "registered": true,
@@ -2101,6 +1729,264 @@
           "avgViewers": null,
           "samples": [],
           "isTargetGame": true
+        }
+      ]
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-13T17:29:03Z",
+      "lastTitle": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 149.1,
+          "gameMinutes": 0.0,
+          "totalHours": 2.48,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 610.0,
+          "peakViewers": 994
+        },
+        "week": {
+          "totalMinutes": 149.1,
+          "gameMinutes": 0.0,
+          "totalHours": 2.48,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 610.0,
+          "peakViewers": 994
+        },
+        "month": {
+          "totalMinutes": 1148.0,
+          "gameMinutes": 0.0,
+          "totalHours": 19.13,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 528.1,
+          "peakViewers": 994
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "xeM8oMrFE00",
+          "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T17:29:03Z",
+          "minutes": 333.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 994,
+          "avgViewers": 610.0,
+          "samples": [
+            [
+              "2026-09-13T11:55:56Z",
+              975
+            ],
+            [
+              "2026-09-13T12:15:41Z",
+              913
+            ],
+            [
+              "2026-09-13T12:35:20Z",
+              12
+            ],
+            [
+              "2026-09-13T12:50:34Z",
+              11
+            ],
+            [
+              "2026-09-13T13:10:56Z",
+              13
+            ],
+            [
+              "2026-09-13T13:28:36Z",
+              971
+            ],
+            [
+              "2026-09-13T13:41:56Z",
+              12
+            ],
+            [
+              "2026-09-13T13:55:39Z",
+              1
+            ],
+            [
+              "2026-09-13T14:11:43Z",
+              981
+            ],
+            [
+              "2026-09-13T14:29:39Z",
+              919
+            ],
+            [
+              "2026-09-13T14:42:51Z",
+              956
+            ],
+            [
+              "2026-09-13T14:55:46Z",
+              11
+            ],
+            [
+              "2026-09-13T15:12:10Z",
+              994
+            ],
+            [
+              "2026-09-13T15:29:37Z",
+              855
+            ],
+            [
+              "2026-09-13T15:43:07Z",
+              817
+            ],
+            [
+              "2026-09-13T15:56:00Z",
+              774
+            ],
+            [
+              "2026-09-13T16:13:00Z",
+              717
+            ],
+            [
+              "2026-09-13T16:30:52Z",
+              788
+            ],
+            [
+              "2026-09-13T16:47:59Z",
+              742
+            ],
+            [
+              "2026-09-13T16:58:52Z",
+              673
+            ],
+            [
+              "2026-09-13T17:15:21Z",
+              836
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "xeM8oMrFE00",
+          "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
+          "start": "2026-09-13T10:26:31Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 75.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 10.9,
+          "samples": [
+            [
+              "2026-09-13T10:26:31Z",
+              15
+            ],
+            [
+              "2026-09-13T10:41:22Z",
+              22
+            ],
+            [
+              "2026-09-13T10:55:52Z",
+              2
+            ],
+            [
+              "2026-09-13T11:11:28Z",
+              15
+            ],
+            [
+              "2026-09-13T11:29:14Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "rTC_PsVxkc0",
+          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
+          "start": "2026-09-12T16:42:48Z",
+          "end": "2026-09-12T18:13:52Z",
+          "minutes": 91.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 780,
+          "avgViewers": 121.9,
+          "samples": [
+            [
+              "2026-09-12T16:42:48Z",
+              780
+            ],
+            [
+              "2026-09-12T16:55:38Z",
+              12
+            ],
+            [
+              "2026-09-12T17:10:37Z",
+              2
+            ],
+            [
+              "2026-09-12T17:28:18Z",
+              2
+            ],
+            [
+              "2026-09-12T17:40:45Z",
+              15
+            ],
+            [
+              "2026-09-12T17:55:47Z",
+              14
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "rTC_PsVxkc0",
+          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
+          "start": "2026-09-12T10:29:27Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 360.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 966,
+          "avgViewers": 626.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "mst1oJrSYcc",
+          "videoUrl": "https://www.youtube.com/watch?v=mst1oJrSYcc",
+          "start": "2026-09-11T12:58:36Z",
+          "end": "2026-09-11T17:46:15Z",
+          "minutes": 287.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 739,
+          "avgViewers": 573.9,
+          "samples": [],
+          "isTargetGame": false
         }
       ]
     },
@@ -7581,6 +7467,22 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+      "name": "민키",
+      "videoId": "S8FYXJOgf3o",
+      "videoUrl": "https://www.youtube.com/watch?v=S8FYXJOgf3o",
+      "start": "2026-09-13T13:28:36Z",
+      "end": "2026-09-13T17:29:03Z",
+      "minutes": 240.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴 뉴비 랭크전 플레4",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 4.5,
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCK1gkGkLlMnksWktt7HBenA",
       "name": "Boss G | Goejoe Denzo",
       "videoId": "pCpjaJyvtW8",
@@ -7834,6 +7736,22 @@
       "game": null,
       "peakViewers": 140,
       "avgViewers": 66.8,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "xeM8oMrFE00",
+      "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
+      "start": "2026-09-13T11:55:56Z",
+      "end": "2026-09-13T17:29:03Z",
+      "minutes": 333.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 994,
+      "avgViewers": 610.0,
       "isTargetGame": false
     },
     {
@@ -8426,38 +8344,6 @@
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "Xd3jij2x8-A",
-      "videoUrl": "https://www.youtube.com/watch?v=Xd3jij2x8-A",
-      "start": "2026-09-12T12:15:12Z",
-      "end": "2026-09-12T14:16:46Z",
-      "minutes": 121.6,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【#歌枠/ KARAOKE】たまには歌わないとね…！？ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 969,
-      "avgViewers": 341.7,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "AKFRh-H3Q2Y",
-      "videoUrl": "https://www.youtube.com/watch?v=AKFRh-H3Q2Y",
-      "start": "2026-09-12T12:15:12Z",
-      "end": "2026-09-12T14:46:24Z",
-      "minutes": 151.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【BIGWALK】赤ｷﾞｬｿのみんなとBIGWALKしまつ【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 30,
-      "avgViewers": 25.7,
       "isTargetGame": false
     }
   ]
