@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T20:30:41Z",
+  "updatedAt": "2026-09-13T20:46:10Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1616.6,
-      "gameMinutes": 643.3,
-      "totalHours": 26.94,
-      "gameHours": 10.72,
+      "totalMinutes": 1632.1,
+      "gameMinutes": 658.8,
+      "totalHours": 27.2,
+      "gameHours": 10.98,
       "sessions": 14,
-      "avgViewers": 110.8,
+      "avgViewers": 109.7,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 1616.6,
-      "gameMinutes": 643.3,
-      "totalHours": 26.94,
-      "gameHours": 10.72,
+      "totalMinutes": 1632.1,
+      "gameMinutes": 658.8,
+      "totalHours": 27.2,
+      "gameHours": 10.98,
       "sessions": 14,
-      "avgViewers": 110.8,
+      "avgViewers": 109.7,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 23781.8,
-      "gameMinutes": 10144.4,
-      "totalHours": 396.36,
-      "gameHours": 169.07,
+      "totalMinutes": 23797.2,
+      "gameMinutes": 10159.9,
+      "totalHours": 396.62,
+      "gameHours": 169.33,
       "sessions": 138,
-      "avgViewers": 103.8,
+      "avgViewers": 103.7,
       "peakViewers": 994
     }
   },
@@ -56,37 +56,37 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 168.8,
-          "gameMinutes": 168.8,
-          "totalHours": 2.81,
-          "gameHours": 2.81,
+          "totalMinutes": 184.3,
+          "gameMinutes": 184.3,
+          "totalHours": 3.07,
+          "gameHours": 3.07,
           "sessions": 1,
-          "avgViewers": 3.1,
+          "avgViewers": 3.0,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 168.8,
-          "gameMinutes": 168.8,
-          "totalHours": 2.81,
-          "gameHours": 2.81,
+          "totalMinutes": 184.3,
+          "gameMinutes": 184.3,
+          "totalHours": 3.07,
+          "gameHours": 3.07,
           "sessions": 1,
-          "avgViewers": 3.1,
+          "avgViewers": 3.0,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 168.8,
-          "gameMinutes": 168.8,
-          "totalHours": 2.81,
-          "gameHours": 2.81,
+          "totalMinutes": 184.3,
+          "gameMinutes": 184.3,
+          "totalHours": 3.07,
+          "gameHours": 3.07,
           "sessions": 1,
-          "avgViewers": 3.1,
+          "avgViewers": 3.0,
           "peakViewers": 4
         }
       },
       "recentSessions": [],
-      "liveViewers": 2,
+      "liveViewers": 3,
       "livePeakViewers": 4,
-      "liveAvgViewers": 3.1,
+      "liveAvgViewers": 3.0,
       "liveSamples": [
         [
           "2026-09-13T17:41:51Z",
@@ -135,6 +135,10 @@
         [
           "2026-09-13T20:30:41Z",
           2
+        ],
+        [
+          "2026-09-13T20:46:10Z",
+          3
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=6JEqDnXDTf0"
