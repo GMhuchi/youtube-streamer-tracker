@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T02:47:30Z",
+  "updatedAt": "2026-09-13T02:58:14Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1849.8,
-      "gameMinutes": 44.3,
-      "totalHours": 30.83,
-      "gameHours": 0.74,
+      "totalMinutes": 1882.0,
+      "gameMinutes": 55.1,
+      "totalHours": 31.37,
+      "gameHours": 0.92,
       "sessions": 21,
-      "avgViewers": 111.3,
+      "avgViewers": 110.0,
       "peakViewers": 966
     },
     "week": {
-      "totalMinutes": 16616.5,
-      "gameMinutes": 7197.8,
-      "totalHours": 276.94,
-      "gameHours": 119.96,
+      "totalMinutes": 16648.7,
+      "gameMinutes": 7208.5,
+      "totalHours": 277.48,
+      "gameHours": 120.14,
       "sessions": 93,
-      "avgViewers": 100.0,
+      "avgViewers": 99.8,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 16616.5,
-      "gameMinutes": 7197.8,
-      "totalHours": 276.94,
-      "gameHours": 119.96,
+      "totalMinutes": 16648.7,
+      "gameMinutes": 7208.5,
+      "totalHours": 277.48,
+      "gameHours": 120.14,
       "sessions": 93,
-      "avgViewers": 100.0,
+      "avgViewers": 99.8,
       "peakViewers": 994
     }
   },
@@ -56,28 +56,28 @@
       "lastTitle": "이터널리턴 뉴비 랭크전 카티야 내멋대로 빌드짜기",
       "buckets": {
         "today": {
-          "totalMinutes": 29.9,
-          "gameMinutes": 29.9,
-          "totalHours": 0.5,
-          "gameHours": 0.5,
+          "totalMinutes": 40.6,
+          "gameMinutes": 40.6,
+          "totalHours": 0.68,
+          "gameHours": 0.68,
           "sessions": 1,
-          "avgViewers": 1.0,
-          "peakViewers": 1
+          "avgViewers": 1.3,
+          "peakViewers": 2
         },
         "week": {
-          "totalMinutes": 914.8,
-          "gameMinutes": 914.8,
-          "totalHours": 15.25,
-          "gameHours": 15.25,
+          "totalMinutes": 925.5,
+          "gameMinutes": 925.5,
+          "totalHours": 15.42,
+          "gameHours": 15.42,
           "sessions": 4,
           "avgViewers": 3.5,
           "peakViewers": 7
         },
         "month": {
-          "totalMinutes": 914.8,
-          "gameMinutes": 914.8,
-          "totalHours": 15.25,
-          "gameHours": 15.25,
+          "totalMinutes": 925.5,
+          "gameMinutes": 925.5,
+          "totalHours": 15.42,
+          "gameHours": 15.42,
           "sessions": 4,
           "avgViewers": 3.5,
           "peakViewers": 7
@@ -363,9 +363,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 1,
-      "livePeakViewers": 1,
-      "liveAvgViewers": 1.0,
+      "liveViewers": 2,
+      "livePeakViewers": 2,
+      "liveAvgViewers": 1.3,
       "liveSamples": [
         [
           "2026-09-13T02:32:14Z",
@@ -374,6 +374,10 @@
         [
           "2026-09-13T02:47:30Z",
           1
+        ],
+        [
+          "2026-09-13T02:58:14Z",
+          2
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=KzHjX1tHPVw"
@@ -390,30 +394,30 @@
       "lastTitle": "【 VALORANT 】フルパ！w/ぴりから,史門,白妙とき,グラニット【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 29.9,
+          "totalMinutes": 40.6,
           "gameMinutes": 0.0,
-          "totalHours": 0.5,
+          "totalHours": 0.68,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 33.0,
+          "avgViewers": 33.1,
           "peakViewers": 45
         },
         "week": {
-          "totalMinutes": 631.0,
+          "totalMinutes": 641.7,
           "gameMinutes": 184.6,
-          "totalHours": 10.52,
+          "totalHours": 10.7,
           "gameHours": 3.08,
           "sessions": 3,
-          "avgViewers": 40.8,
+          "avgViewers": 40.6,
           "peakViewers": 86
         },
         "month": {
-          "totalMinutes": 631.0,
+          "totalMinutes": 641.7,
           "gameMinutes": 184.6,
-          "totalHours": 10.52,
+          "totalHours": 10.7,
           "gameHours": 3.08,
           "sessions": 3,
-          "avgViewers": 40.8,
+          "avgViewers": 40.6,
           "peakViewers": 86
         }
       },
@@ -607,9 +611,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 45,
+      "liveViewers": 37,
       "livePeakViewers": 45,
-      "liveAvgViewers": 33.0,
+      "liveAvgViewers": 33.1,
       "liveSamples": [
         [
           "2026-09-13T02:17:37Z",
@@ -622,6 +626,10 @@
         [
           "2026-09-13T02:47:30Z",
           45
+        ],
+        [
+          "2026-09-13T02:58:14Z",
+          37
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=1Pr5lRhCYl0"
@@ -638,27 +646,27 @@
       "lastTitle": "버그캣의 월드 오브 워쉽 오늘은 내가 즐거운 항해가 되어야 되겠습니다!",
       "buckets": {
         "today": {
-          "totalMinutes": 77.0,
+          "totalMinutes": 87.8,
           "gameMinutes": 0.0,
-          "totalHours": 1.28,
+          "totalHours": 1.46,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 475.2,
+          "totalMinutes": 486.0,
           "gameMinutes": 48.2,
-          "totalHours": 7.92,
+          "totalHours": 8.1,
           "gameHours": 0.8,
           "sessions": 5,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 475.2,
+          "totalMinutes": 486.0,
           "gameMinutes": 48.2,
-          "totalHours": 7.92,
+          "totalHours": 8.1,
           "gameHours": 0.8,
           "sessions": 5,
           "avgViewers": null,
