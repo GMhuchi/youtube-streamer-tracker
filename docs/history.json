@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:13:36Z",
+  "updatedAt": "2026-09-13T21:29:25Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1659.5,
-      "gameMinutes": 686.2,
-      "totalHours": 27.66,
-      "gameHours": 11.44,
+      "totalMinutes": 1691.2,
+      "gameMinutes": 702.0,
+      "totalHours": 28.19,
+      "gameHours": 11.7,
       "sessions": 15,
-      "avgViewers": 107.9,
+      "avgViewers": 105.9,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 1659.5,
-      "gameMinutes": 686.2,
-      "totalHours": 27.66,
-      "gameHours": 11.44,
+      "totalMinutes": 1691.2,
+      "gameMinutes": 702.0,
+      "totalHours": 28.19,
+      "gameHours": 11.7,
       "sessions": 15,
-      "avgViewers": 107.9,
+      "avgViewers": 105.9,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 23824.7,
-      "gameMinutes": 10187.3,
-      "totalHours": 397.08,
-      "gameHours": 169.79,
+      "totalMinutes": 23856.3,
+      "gameMinutes": 10203.1,
+      "totalHours": 397.61,
+      "gameHours": 170.05,
       "sessions": 139,
-      "avgViewers": 103.6,
+      "avgViewers": 103.4,
       "peakViewers": 994
     }
   },
@@ -56,31 +56,31 @@
       "lastTitle": "【競馬】GⅡ ローズS 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 15.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.26,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 7.0,
-          "peakViewers": 7
+          "avgViewers": 13.0,
+          "peakViewers": 19
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 15.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.26,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 7.0,
-          "peakViewers": 7
+          "avgViewers": 13.0,
+          "peakViewers": 19
         },
         "month": {
-          "totalMinutes": 756.5,
+          "totalMinutes": 772.3,
           "gameMinutes": 183.4,
-          "totalHours": 12.61,
+          "totalHours": 12.87,
           "gameHours": 3.06,
           "sessions": 7,
-          "avgViewers": 9.2,
-          "peakViewers": 16
+          "avgViewers": 9.3,
+          "peakViewers": 19
         }
       },
       "recentSessions": [
@@ -250,13 +250,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 7,
-      "livePeakViewers": 7,
-      "liveAvgViewers": 7.0,
+      "liveViewers": 19,
+      "livePeakViewers": 19,
+      "liveAvgViewers": 13.0,
       "liveSamples": [
         [
           "2026-09-13T21:13:36Z",
           7
+        ],
+        [
+          "2026-09-13T21:29:25Z",
+          19
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=nBGPUBMOhv0"
@@ -273,37 +277,37 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 211.8,
-          "gameMinutes": 211.8,
-          "totalHours": 3.53,
-          "gameHours": 3.53,
+          "totalMinutes": 227.6,
+          "gameMinutes": 227.6,
+          "totalHours": 3.79,
+          "gameHours": 3.79,
           "sessions": 1,
-          "avgViewers": 2.9,
+          "avgViewers": 2.8,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 211.8,
-          "gameMinutes": 211.8,
-          "totalHours": 3.53,
-          "gameHours": 3.53,
+          "totalMinutes": 227.6,
+          "gameMinutes": 227.6,
+          "totalHours": 3.79,
+          "gameHours": 3.79,
           "sessions": 1,
-          "avgViewers": 2.9,
+          "avgViewers": 2.8,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 211.8,
-          "gameMinutes": 211.8,
-          "totalHours": 3.53,
-          "gameHours": 3.53,
+          "totalMinutes": 227.6,
+          "gameMinutes": 227.6,
+          "totalHours": 3.79,
+          "gameHours": 3.79,
           "sessions": 1,
-          "avgViewers": 2.9,
+          "avgViewers": 2.8,
           "peakViewers": 4
         }
       },
       "recentSessions": [],
       "liveViewers": 2,
       "livePeakViewers": 4,
-      "liveAvgViewers": 2.9,
+      "liveAvgViewers": 2.8,
       "liveSamples": [
         [
           "2026-09-13T17:41:51Z",
@@ -363,6 +367,10 @@
         ],
         [
           "2026-09-13T21:13:36Z",
+          2
+        ],
+        [
+          "2026-09-13T21:29:25Z",
           2
         ]
       ],
