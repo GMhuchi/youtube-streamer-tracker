@@ -2,37 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "JIg_y9jXZno",
-      "start": "2026-09-13T11:55:56Z",
-      "startSource": "observed",
-      "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 523,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
-      "samples": [
-        [
-          "2026-09-13T11:55:56Z",
-          508
-        ],
-        [
-          "2026-09-13T12:15:41Z",
-          523
-        ],
-        [
-          "2026-09-13T12:35:20Z",
-          488
-        ],
-        [
-          "2026-09-13T12:50:34Z",
-          486
-        ]
-      ]
-    },
     "UCeTb2MQrm8UBChlecw7pQOA": {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
@@ -44,7 +13,7 @@
       "peakViewers": 975,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -61,6 +30,10 @@
         [
           "2026-09-13T12:50:34Z",
           11
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          13
         ]
       ]
     },
@@ -75,7 +48,7 @@
       "peakViewers": 230,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -92,6 +65,10 @@
         [
           "2026-09-13T12:50:34Z",
           169
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          174
         ]
       ]
     },
@@ -106,7 +83,7 @@
       "peakViewers": 124,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -123,6 +100,10 @@
         [
           "2026-09-13T12:50:34Z",
           123
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          122
         ]
       ]
     },
@@ -137,7 +118,7 @@
       "peakViewers": 108,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -154,6 +135,10 @@
         [
           "2026-09-13T12:50:34Z",
           65
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          78
         ]
       ]
     },
@@ -168,7 +153,7 @@
       "peakViewers": 1,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -187,7 +172,7 @@
       "peakViewers": 404,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -204,6 +189,10 @@
         [
           "2026-09-13T12:50:34Z",
           399
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          396
         ]
       ]
     },
@@ -218,7 +207,7 @@
       "peakViewers": 26,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -235,37 +224,10 @@
         [
           "2026-09-13T12:50:34Z",
           23
-        ]
-      ]
-    },
-    "UCB6AgLlZxso1HzFNIzVHmZw": {
-      "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
-      "name": "대한민국 이스포츠 리그 - KEL",
-      "videoId": "kCK4wGOmZnk",
-      "start": "2026-09-13T11:55:56Z",
-      "startSource": "observed",
-      "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
-      "game": null,
-      "peakViewers": 18,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
-      "samples": [
-        [
-          "2026-09-13T11:55:56Z",
-          15
         ],
         [
-          "2026-09-13T12:15:41Z",
-          18
-        ],
-        [
-          "2026-09-13T12:35:20Z",
-          7
-        ],
-        [
-          "2026-09-13T12:50:34Z",
-          13
+          "2026-09-13T13:10:56Z",
+          21
         ]
       ]
     },
@@ -280,7 +242,7 @@
       "peakViewers": 2,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T11:55:56Z",
@@ -297,6 +259,10 @@
         [
           "2026-09-13T12:50:34Z",
           1
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          1
         ]
       ]
     },
@@ -311,7 +277,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T11:55:56Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": []
     },
     "UCb8nGgTFAL6B5zOm060Ff3Q": {
@@ -325,7 +291,7 @@
       "peakViewers": 45,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T12:15:41Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T12:15:41Z",
@@ -338,6 +304,10 @@
         [
           "2026-09-13T12:50:34Z",
           42
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          45
         ]
       ]
     },
@@ -352,7 +322,7 @@
       "peakViewers": 41,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-13T12:15:41Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T12:15:41Z",
@@ -365,6 +335,10 @@
         [
           "2026-09-13T12:50:34Z",
           41
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          30
         ]
       ]
     },
@@ -379,7 +353,7 @@
       "peakViewers": 21,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-13T12:35:20Z",
-      "lastSeenAt": "2026-09-13T12:50:34Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
       "samples": [
         [
           "2026-09-13T12:35:20Z",
@@ -388,8 +362,40 @@
         [
           "2026-09-13T12:50:34Z",
           21
+        ],
+        [
+          "2026-09-13T13:10:56Z",
+          16
         ]
       ]
+    },
+    "UCADIxr9ho7V60xs9gT9xWhA": {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "7KlH4LAOjs8",
+      "start": "2026-09-13T13:10:56Z",
+      "startSource": "observed",
+      "title": "【メン限配信】MVつくる、作業配信",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-13T13:10:56Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
+      "samples": []
+    },
+    "UCK1gkGkLlMnksWktt7HBenA": {
+      "channelId": "UCK1gkGkLlMnksWktt7HBenA",
+      "name": "Boss G | Goejoe Denzo",
+      "videoId": "pCpjaJyvtW8",
+      "start": "2026-09-13T13:10:56Z",
+      "startSource": "observed",
+      "title": "Boss G's #RoadToDayaMode (Eternal Return - Season 12) | 09/13/26",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-13T13:10:56Z",
+      "lastSeenAt": "2026-09-13T13:10:56Z",
+      "samples": []
     }
   },
   "sessions": [
@@ -6535,6 +6541,74 @@
       "peakViewers": null,
       "avgViewers": null,
       "samples": [],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "JIg_y9jXZno",
+      "videoUrl": "https://www.youtube.com/watch?v=JIg_y9jXZno",
+      "start": "2026-09-13T11:55:56Z",
+      "end": "2026-09-13T13:10:56Z",
+      "minutes": 75.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 523,
+      "avgViewers": 502.4,
+      "samples": [
+        [
+          "2026-09-13T11:55:56Z",
+          508
+        ],
+        [
+          "2026-09-13T12:15:41Z",
+          523
+        ],
+        [
+          "2026-09-13T12:35:20Z",
+          488
+        ],
+        [
+          "2026-09-13T12:50:34Z",
+          486
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
+      "name": "대한민국 이스포츠 리그 - KEL",
+      "videoId": "kCK4wGOmZnk",
+      "videoUrl": "https://www.youtube.com/watch?v=kCK4wGOmZnk",
+      "start": "2026-09-13T11:55:56Z",
+      "end": "2026-09-13T13:10:56Z",
+      "minutes": 75.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
+      "game": null,
+      "peakViewers": 18,
+      "avgViewers": 13.6,
+      "samples": [
+        [
+          "2026-09-13T11:55:56Z",
+          15
+        ],
+        [
+          "2026-09-13T12:15:41Z",
+          18
+        ],
+        [
+          "2026-09-13T12:35:20Z",
+          7
+        ],
+        [
+          "2026-09-13T12:50:34Z",
+          13
+        ]
+      ],
       "isTargetGame": true
     }
   ]
