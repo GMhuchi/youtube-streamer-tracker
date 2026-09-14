@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:18:27Z",
+  "updatedAt": "2026-09-14T01:32:43Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,216 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2072.5,
-      "gameMinutes": 977.3,
-      "totalHours": 34.54,
-      "gameHours": 16.29,
+      "totalMinutes": 2101.0,
+      "gameMinutes": 1005.8,
+      "totalHours": 35.02,
+      "gameHours": 16.76,
       "sessions": 18,
-      "avgViewers": 87.2,
+      "avgViewers": 86.1,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 2072.5,
-      "gameMinutes": 977.3,
-      "totalHours": 34.54,
-      "gameHours": 16.29,
+      "totalMinutes": 2101.0,
+      "gameMinutes": 1005.8,
+      "totalHours": 35.02,
+      "gameHours": 16.76,
       "sessions": 18,
-      "avgViewers": 87.2,
+      "avgViewers": 86.1,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 24237.6,
-      "gameMinutes": 10478.3,
-      "totalHours": 403.96,
-      "gameHours": 174.64,
+      "totalMinutes": 24266.1,
+      "gameMinutes": 10506.9,
+      "totalHours": 404.44,
+      "gameHours": 175.11,
       "sessions": 142,
-      "avgViewers": 101.7,
+      "avgViewers": 101.6,
       "peakViewers": 994
     }
   },
   "channels": [
-    {
-      "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
-      "name": "시엘스카이",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCCp0zFDfEZ2QePwO2LxXjQA",
-      "isLive": true,
-      "liveSince": "2026-09-13T21:56:06Z",
-      "liveTitle": "상남자의 이터널리턴 켠왕이야!",
-      "lastEnd": "2026-09-13T21:42:22Z",
-      "lastTitle": "상남자의 이터널리턴 켠왕이야!",
-      "buckets": {
-        "today": {
-          "totalMinutes": 442.9,
-          "gameMinutes": 442.9,
-          "totalHours": 7.38,
-          "gameHours": 7.38,
-          "sessions": 2,
-          "avgViewers": 2.6,
-          "peakViewers": 4
-        },
-        "week": {
-          "totalMinutes": 442.9,
-          "gameMinutes": 442.9,
-          "totalHours": 7.38,
-          "gameHours": 7.38,
-          "sessions": 2,
-          "avgViewers": 2.6,
-          "peakViewers": 4
-        },
-        "month": {
-          "totalMinutes": 442.9,
-          "gameMinutes": 442.9,
-          "totalHours": 7.38,
-          "gameHours": 7.38,
-          "sessions": 2,
-          "avgViewers": 2.6,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
-          "name": "시엘스카이",
-          "videoId": "6JEqDnXDTf0",
-          "videoUrl": "https://www.youtube.com/watch?v=6JEqDnXDTf0",
-          "start": "2026-09-13T17:41:51Z",
-          "end": "2026-09-13T21:42:22Z",
-          "minutes": 240.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "상남자의 이터널리턴 켠왕이야!",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 2.8,
-          "samples": [
-            [
-              "2026-09-13T17:41:51Z",
-              2
-            ],
-            [
-              "2026-09-13T17:55:41Z",
-              4
-            ],
-            [
-              "2026-09-13T18:13:40Z",
-              4
-            ],
-            [
-              "2026-09-13T18:32:48Z",
-              4
-            ],
-            [
-              "2026-09-13T18:49:07Z",
-              3
-            ],
-            [
-              "2026-09-13T18:59:48Z",
-              4
-            ],
-            [
-              "2026-09-13T19:15:43Z",
-              4
-            ],
-            [
-              "2026-09-13T19:28:26Z",
-              4
-            ],
-            [
-              "2026-09-13T19:40:32Z",
-              4
-            ],
-            [
-              "2026-09-13T19:55:39Z",
-              1
-            ],
-            [
-              "2026-09-13T20:12:11Z",
-              1
-            ],
-            [
-              "2026-09-13T20:30:41Z",
-              2
-            ],
-            [
-              "2026-09-13T20:46:10Z",
-              3
-            ],
-            [
-              "2026-09-13T20:56:57Z",
-              2
-            ],
-            [
-              "2026-09-13T21:13:36Z",
-              2
-            ],
-            [
-              "2026-09-13T21:29:25Z",
-              2
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 3,
-      "livePeakViewers": 4,
-      "liveAvgViewers": 2.3,
-      "liveSamples": [
-        [
-          "2026-09-13T21:56:06Z",
-          2
-        ],
-        [
-          "2026-09-13T22:12:41Z",
-          2
-        ],
-        [
-          "2026-09-13T22:31:11Z",
-          2
-        ],
-        [
-          "2026-09-13T22:46:54Z",
-          4
-        ],
-        [
-          "2026-09-13T22:57:38Z",
-          3
-        ],
-        [
-          "2026-09-13T23:13:56Z",
-          2
-        ],
-        [
-          "2026-09-13T23:29:13Z",
-          3
-        ],
-        [
-          "2026-09-13T23:41:54Z",
-          2
-        ],
-        [
-          "2026-09-13T23:55:42Z",
-          2
-        ],
-        [
-          "2026-09-14T00:18:32Z",
-          2
-        ],
-        [
-          "2026-09-14T00:40:47Z",
-          2
-        ],
-        [
-          "2026-09-14T00:59:35Z",
-          2
-        ],
-        [
-          "2026-09-14T01:18:27Z",
-          3
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=6JEqDnXDTf0"
-    },
     {
       "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
       "name": "十神仁",
@@ -238,30 +56,30 @@
       "lastTitle": "【エターナルリターン スクリム 】輝七瀬、瀬尾カザリ、十神仁 三人初集結！！！チーム4280円【十神仁/ YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 59.9,
-          "gameMinutes": 59.9,
-          "totalHours": 1.0,
-          "gameHours": 1.0,
+          "totalMinutes": 74.2,
+          "gameMinutes": 74.2,
+          "totalHours": 1.24,
+          "gameHours": 1.24,
           "sessions": 1,
-          "avgViewers": 9.6,
+          "avgViewers": 9.8,
           "peakViewers": 14
         },
         "week": {
-          "totalMinutes": 59.9,
-          "gameMinutes": 59.9,
-          "totalHours": 1.0,
-          "gameHours": 1.0,
+          "totalMinutes": 74.2,
+          "gameMinutes": 74.2,
+          "totalHours": 1.24,
+          "gameHours": 1.24,
           "sessions": 1,
-          "avgViewers": 9.6,
+          "avgViewers": 9.8,
           "peakViewers": 14
         },
         "month": {
-          "totalMinutes": 198.5,
-          "gameMinutes": 198.5,
-          "totalHours": 3.31,
-          "gameHours": 3.31,
+          "totalMinutes": 212.8,
+          "gameMinutes": 212.8,
+          "totalHours": 3.55,
+          "gameHours": 3.55,
           "sessions": 2,
-          "avgViewers": 9.3,
+          "avgViewers": 9.4,
           "peakViewers": 14
         }
       },
@@ -317,9 +135,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 14,
+      "liveViewers": 12,
       "livePeakViewers": 14,
-      "liveAvgViewers": 9.6,
+      "liveAvgViewers": 9.8,
       "liveSamples": [
         [
           "2026-09-14T00:18:32Z",
@@ -336,6 +154,10 @@
         [
           "2026-09-14T01:18:27Z",
           14
+        ],
+        [
+          "2026-09-14T01:32:43Z",
+          12
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=5tbNB3UNVPU"
@@ -5869,6 +5691,200 @@
       ]
     },
     {
+      "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
+      "name": "시엘스카이",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCCp0zFDfEZ2QePwO2LxXjQA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-14T01:32:43Z",
+      "lastTitle": "상남자의 이터널리턴 켠왕이야!",
+      "buckets": {
+        "today": {
+          "totalMinutes": 457.1,
+          "gameMinutes": 457.1,
+          "totalHours": 7.62,
+          "gameHours": 7.62,
+          "sessions": 2,
+          "avgViewers": 2.6,
+          "peakViewers": 4
+        },
+        "week": {
+          "totalMinutes": 457.1,
+          "gameMinutes": 457.1,
+          "totalHours": 7.62,
+          "gameHours": 7.62,
+          "sessions": 2,
+          "avgViewers": 2.6,
+          "peakViewers": 4
+        },
+        "month": {
+          "totalMinutes": 457.1,
+          "gameMinutes": 457.1,
+          "totalHours": 7.62,
+          "gameHours": 7.62,
+          "sessions": 2,
+          "avgViewers": 2.6,
+          "peakViewers": 4
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
+          "name": "시엘스카이",
+          "videoId": "6JEqDnXDTf0",
+          "videoUrl": "https://www.youtube.com/watch?v=6JEqDnXDTf0",
+          "start": "2026-09-13T21:56:06Z",
+          "end": "2026-09-14T01:32:43Z",
+          "minutes": 216.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "상남자의 이터널리턴 켠왕이야!",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.3,
+          "samples": [
+            [
+              "2026-09-13T21:56:06Z",
+              2
+            ],
+            [
+              "2026-09-13T22:12:41Z",
+              2
+            ],
+            [
+              "2026-09-13T22:31:11Z",
+              2
+            ],
+            [
+              "2026-09-13T22:46:54Z",
+              4
+            ],
+            [
+              "2026-09-13T22:57:38Z",
+              3
+            ],
+            [
+              "2026-09-13T23:13:56Z",
+              2
+            ],
+            [
+              "2026-09-13T23:29:13Z",
+              3
+            ],
+            [
+              "2026-09-13T23:41:54Z",
+              2
+            ],
+            [
+              "2026-09-13T23:55:42Z",
+              2
+            ],
+            [
+              "2026-09-14T00:18:32Z",
+              2
+            ],
+            [
+              "2026-09-14T00:40:47Z",
+              2
+            ],
+            [
+              "2026-09-14T00:59:35Z",
+              2
+            ],
+            [
+              "2026-09-14T01:18:27Z",
+              3
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
+          "name": "시엘스카이",
+          "videoId": "6JEqDnXDTf0",
+          "videoUrl": "https://www.youtube.com/watch?v=6JEqDnXDTf0",
+          "start": "2026-09-13T17:41:51Z",
+          "end": "2026-09-13T21:42:22Z",
+          "minutes": 240.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "상남자의 이터널리턴 켠왕이야!",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.8,
+          "samples": [
+            [
+              "2026-09-13T17:41:51Z",
+              2
+            ],
+            [
+              "2026-09-13T17:55:41Z",
+              4
+            ],
+            [
+              "2026-09-13T18:13:40Z",
+              4
+            ],
+            [
+              "2026-09-13T18:32:48Z",
+              4
+            ],
+            [
+              "2026-09-13T18:49:07Z",
+              3
+            ],
+            [
+              "2026-09-13T18:59:48Z",
+              4
+            ],
+            [
+              "2026-09-13T19:15:43Z",
+              4
+            ],
+            [
+              "2026-09-13T19:28:26Z",
+              4
+            ],
+            [
+              "2026-09-13T19:40:32Z",
+              4
+            ],
+            [
+              "2026-09-13T19:55:39Z",
+              1
+            ],
+            [
+              "2026-09-13T20:12:11Z",
+              1
+            ],
+            [
+              "2026-09-13T20:30:41Z",
+              2
+            ],
+            [
+              "2026-09-13T20:46:10Z",
+              3
+            ],
+            [
+              "2026-09-13T20:56:57Z",
+              2
+            ],
+            [
+              "2026-09-13T21:13:36Z",
+              2
+            ],
+            [
+              "2026-09-13T21:29:25Z",
+              2
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCQugPXHK8_F1RZ5nfTfeAaw",
       "name": "므앙",
       "registered": true,
@@ -7607,6 +7623,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
+      "name": "시엘스카이",
+      "videoId": "6JEqDnXDTf0",
+      "videoUrl": "https://www.youtube.com/watch?v=6JEqDnXDTf0",
+      "start": "2026-09-13T21:56:06Z",
+      "end": "2026-09-14T01:32:43Z",
+      "minutes": 216.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "상남자의 이터널리턴 켠왕이야!",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 2.3,
+      "isTargetGame": true
+    },
+    {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
       "name": "埼凰リンネ",
       "videoId": "nBGPUBMOhv0",
@@ -8533,22 +8565,6 @@
       "peakViewers": 793,
       "avgViewers": 559.5,
       "isTargetGame": false
-    },
-    {
-      "channelId": "UCK1gkGkLlMnksWktt7HBenA",
-      "name": "Boss G | Goejoe Denzo",
-      "videoId": "FIlgDBh8f1A",
-      "videoUrl": "https://www.youtube.com/watch?v=FIlgDBh8f1A",
-      "start": "2026-09-12T14:16:46Z",
-      "end": "2026-09-12T15:14:26Z",
-      "minutes": 57.7,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "Boss G's #RoadToDayaMode (Eternal Return - Season 12) | 09/12/26",
-      "game": null,
-      "peakViewers": null,
-      "avgViewers": null,
-      "isTargetGame": true
     }
   ]
 }
