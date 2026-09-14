@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T04:11:49Z",
+  "updatedAt": "2026-09-14T04:33:35Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2151.6,
-      "gameMinutes": 1056.4,
-      "totalHours": 35.86,
-      "gameHours": 17.61,
+      "totalMinutes": 2173.3,
+      "gameMinutes": 1078.1,
+      "totalHours": 36.22,
+      "gameHours": 17.97,
       "sessions": 19,
-      "avgViewers": 84.2,
+      "avgViewers": 83.4,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 2151.6,
-      "gameMinutes": 1056.4,
-      "totalHours": 35.86,
-      "gameHours": 17.61,
+      "totalMinutes": 2173.3,
+      "gameMinutes": 1078.1,
+      "totalHours": 36.22,
+      "gameHours": 17.97,
       "sessions": 19,
-      "avgViewers": 84.2,
+      "avgViewers": 83.4,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 24316.7,
-      "gameMinutes": 10557.4,
-      "totalHours": 405.28,
-      "gameHours": 175.96,
+      "totalMinutes": 24338.5,
+      "gameMinutes": 10579.2,
+      "totalHours": 405.64,
+      "gameHours": 176.32,
       "sessions": 143,
-      "avgViewers": 101.3,
+      "avgViewers": 101.2,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "이터널리턴 2026년 9월 13일 1부",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
+          "totalMinutes": 21.8,
+          "gameMinutes": 21.8,
+          "totalHours": 0.36,
+          "gameHours": 0.36,
           "sessions": 1,
-          "avgViewers": 5.0,
-          "peakViewers": 5
+          "avgViewers": 5.5,
+          "peakViewers": 6
         },
         "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
+          "totalMinutes": 21.8,
+          "gameMinutes": 21.8,
+          "totalHours": 0.36,
+          "gameHours": 0.36,
           "sessions": 1,
-          "avgViewers": 5.0,
-          "peakViewers": 5
+          "avgViewers": 5.5,
+          "peakViewers": 6
         },
         "month": {
-          "totalMinutes": 820.2,
-          "gameMinutes": 820.2,
-          "totalHours": 13.67,
-          "gameHours": 13.67,
+          "totalMinutes": 842.0,
+          "gameMinutes": 842.0,
+          "totalHours": 14.03,
+          "gameHours": 14.03,
           "sessions": 5,
-          "avgViewers": 2.5,
+          "avgViewers": 2.6,
           "peakViewers": 6
         }
       },
@@ -244,13 +244,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 5,
-      "livePeakViewers": 5,
-      "liveAvgViewers": 5.0,
+      "liveViewers": 6,
+      "livePeakViewers": 6,
+      "liveAvgViewers": 5.5,
       "liveSamples": [
         [
           "2026-09-14T04:11:49Z",
           5
+        ],
+        [
+          "2026-09-14T04:33:35Z",
+          6
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=tVQuQ2hT49U"
