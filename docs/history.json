@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T05:48:57Z",
+  "updatedAt": "2026-09-14T05:59:40Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2286.8,
-      "gameMinutes": 1191.6,
-      "totalHours": 38.11,
-      "gameHours": 19.86,
+      "totalMinutes": 2319.0,
+      "gameMinutes": 1213.0,
+      "totalHours": 38.65,
+      "gameHours": 20.22,
       "sessions": 21,
-      "avgViewers": 79.9,
+      "avgViewers": 79.4,
       "peakViewers": 994
     },
     "week": {
-      "totalMinutes": 2286.8,
-      "gameMinutes": 1191.6,
-      "totalHours": 38.11,
-      "gameHours": 19.86,
+      "totalMinutes": 2319.0,
+      "gameMinutes": 1213.0,
+      "totalHours": 38.65,
+      "gameHours": 20.22,
       "sessions": 21,
-      "avgViewers": 79.9,
+      "avgViewers": 79.4,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 24451.9,
-      "gameMinutes": 10692.7,
-      "totalHours": 407.53,
-      "gameHours": 178.21,
+      "totalMinutes": 24484.1,
+      "gameMinutes": 10714.1,
+      "totalHours": 408.07,
+      "gameHours": 178.57,
       "sessions": 145,
-      "avgViewers": 100.8,
+      "avgViewers": 100.7,
       "peakViewers": 994
     }
   },
@@ -56,31 +56,31 @@
       "lastTitle": "#SURGETown 5日目 | やっきょく！第6話「ボイス売りのお姉さん」 #愁子",
       "buckets": {
         "today": {
-          "totalMinutes": 173.5,
-          "gameMinutes": 38.1,
-          "totalHours": 2.89,
-          "gameHours": 0.64,
+          "totalMinutes": 184.2,
+          "gameMinutes": 48.8,
+          "totalHours": 3.07,
+          "gameHours": 0.81,
           "sessions": 2,
-          "avgViewers": 41.8,
-          "peakViewers": 64
+          "avgViewers": 42.5,
+          "peakViewers": 65
         },
         "week": {
-          "totalMinutes": 173.5,
-          "gameMinutes": 38.1,
-          "totalHours": 2.89,
-          "gameHours": 0.64,
+          "totalMinutes": 184.2,
+          "gameMinutes": 48.8,
+          "totalHours": 3.07,
+          "gameHours": 0.81,
           "sessions": 2,
-          "avgViewers": 41.8,
-          "peakViewers": 64
+          "avgViewers": 42.5,
+          "peakViewers": 65
         },
         "month": {
-          "totalMinutes": 989.0,
-          "gameMinutes": 387.1,
-          "totalHours": 16.48,
-          "gameHours": 6.45,
+          "totalMinutes": 999.7,
+          "gameMinutes": 397.8,
+          "totalHours": 16.66,
+          "gameHours": 6.63,
           "sessions": 6,
-          "avgViewers": 41.0,
-          "peakViewers": 64
+          "avgViewers": 41.1,
+          "peakViewers": 65
         }
       },
       "recentSessions": [
@@ -329,9 +329,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 64,
-      "livePeakViewers": 64,
-      "liveAvgViewers": 36.8,
+      "liveViewers": 65,
+      "livePeakViewers": 65,
+      "liveAvgViewers": 40.4,
       "liveSamples": [
         [
           "2026-09-14T05:10:51Z",
@@ -344,6 +344,10 @@
         [
           "2026-09-14T05:48:57Z",
           64
+        ],
+        [
+          "2026-09-14T05:59:40Z",
+          65
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=w4CjD53N0pE"
@@ -360,28 +364,28 @@
       "lastTitle": "이터널리턴 2026년 9월 13일 1부",
       "buckets": {
         "today": {
-          "totalMinutes": 97.1,
-          "gameMinutes": 97.1,
-          "totalHours": 1.62,
-          "gameHours": 1.62,
+          "totalMinutes": 107.9,
+          "gameMinutes": 107.9,
+          "totalHours": 1.8,
+          "gameHours": 1.8,
           "sessions": 1,
-          "avgViewers": 4.3,
+          "avgViewers": 4.5,
           "peakViewers": 6
         },
         "week": {
-          "totalMinutes": 97.1,
-          "gameMinutes": 97.1,
-          "totalHours": 1.62,
-          "gameHours": 1.62,
+          "totalMinutes": 107.9,
+          "gameMinutes": 107.9,
+          "totalHours": 1.8,
+          "gameHours": 1.8,
           "sessions": 1,
-          "avgViewers": 4.3,
+          "avgViewers": 4.5,
           "peakViewers": 6
         },
         "month": {
-          "totalMinutes": 917.3,
-          "gameMinutes": 917.3,
-          "totalHours": 15.29,
-          "gameHours": 15.29,
+          "totalMinutes": 928.1,
+          "gameMinutes": 928.1,
+          "totalHours": 15.47,
+          "gameHours": 15.47,
           "sessions": 5,
           "avgViewers": 2.7,
           "peakViewers": 6
@@ -548,9 +552,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 3,
+      "liveViewers": 5,
       "livePeakViewers": 6,
-      "liveAvgViewers": 4.3,
+      "liveAvgViewers": 4.5,
       "liveSamples": [
         [
           "2026-09-14T04:11:49Z",
@@ -575,6 +579,10 @@
         [
           "2026-09-14T05:48:57Z",
           3
+        ],
+        [
+          "2026-09-14T05:59:40Z",
+          5
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=tVQuQ2hT49U"
@@ -591,27 +599,27 @@
       "lastTitle": "카렐의 메가 함선 가려면 어떻게 해야 할까...",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 10.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.18,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 10.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.18,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 809.9,
+          "totalMinutes": 820.6,
           "gameMinutes": 48.2,
-          "totalHours": 13.5,
+          "totalHours": 13.68,
           "gameHours": 0.8,
           "sessions": 8,
           "avgViewers": null,
