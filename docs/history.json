@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T23:43:21Z",
+  "updatedAt": "2026-09-14T23:56:01Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2168.6,
+      "totalMinutes": 2194.0,
       "gameMinutes": 1162.2,
-      "totalHours": 36.14,
+      "totalHours": 36.57,
       "gameHours": 19.37,
       "sessions": 19,
-      "avgViewers": 93.1,
+      "avgViewers": 97.9,
       "peakViewers": 950
     },
     "week": {
-      "totalMinutes": 9474.1,
+      "totalMinutes": 9499.4,
       "gameMinutes": 5662.0,
-      "totalHours": 157.9,
+      "totalHours": 158.32,
       "gameHours": 94.37,
       "sessions": 68,
-      "avgViewers": 71.3,
+      "avgViewers": 72.4,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 31639.2,
+      "totalMinutes": 31664.5,
       "gameMinutes": 15163.1,
-      "totalHours": 527.32,
+      "totalHours": 527.74,
       "gameHours": 252.72,
       "sessions": 192,
-      "avgViewers": 93.6,
+      "avgViewers": 93.9,
       "peakViewers": 994
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
       "buckets": {
         "today": {
-          "totalMinutes": 141.7,
+          "totalMinutes": 154.3,
           "gameMinutes": 0.0,
-          "totalHours": 2.36,
+          "totalHours": 2.57,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 837.2,
+          "totalMinutes": 849.8,
           "gameMinutes": 0.0,
-          "totalHours": 13.95,
+          "totalHours": 14.16,
           "gameHours": 0.0,
           "sessions": 3,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 1647.0,
+          "totalMinutes": 1659.7,
           "gameMinutes": 48.2,
-          "totalHours": 27.45,
+          "totalHours": 27.66,
           "gameHours": 0.8,
           "sessions": 10,
           "avgViewers": null,
@@ -239,30 +239,30 @@
       "lastTitle": "【エターナルリターン】明後日の大会に向けて！ひよらず戦いたい！！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 122.4,
+          "totalMinutes": 135.1,
           "gameMinutes": 0.0,
-          "totalHours": 2.04,
+          "totalHours": 2.25,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 662.2,
-          "peakViewers": 778
+          "avgViewers": 675.9,
+          "peakViewers": 814
         },
         "week": {
-          "totalMinutes": 246.0,
+          "totalMinutes": 258.6,
           "gameMinutes": 123.5,
-          "totalHours": 4.1,
+          "totalHours": 4.31,
           "gameHours": 2.06,
           "sessions": 2,
-          "avgViewers": 425.5,
-          "peakViewers": 778
+          "avgViewers": 444.3,
+          "peakViewers": 814
         },
         "month": {
-          "totalMinutes": 754.3,
+          "totalMinutes": 767.0,
           "gameMinutes": 277.5,
-          "totalHours": 12.57,
+          "totalHours": 12.78,
           "gameHours": 4.62,
           "sessions": 7,
-          "avgViewers": 408.9,
+          "avgViewers": 415.5,
           "peakViewers": 994
         }
       },
@@ -421,9 +421,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 747,
-      "livePeakViewers": 778,
-      "liveAvgViewers": 662.2,
+      "liveViewers": 814,
+      "livePeakViewers": 814,
+      "liveAvgViewers": 675.9,
       "liveSamples": [
         [
           "2026-09-14T21:40:55Z",
@@ -460,6 +460,10 @@
         [
           "2026-09-14T23:43:21Z",
           747
+        ],
+        [
+          "2026-09-14T23:56:01Z",
+          814
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=gjM3eqQMQUw"
