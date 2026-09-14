@@ -1,35 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UClOhr2WzxqzuyjWWQgPLGIg": {
-      "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
-      "name": "냥슬이 또 게임해요",
-      "videoId": "GEqOauMvt3s",
-      "start": "2026-09-14T18:59:38Z",
-      "startSource": "observed",
-      "title": "2부 이터널리턴 w.눈가루,피즈커",
-      "game": null,
-      "peakViewers": 42,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-14T18:59:38Z",
-      "lastSeenAt": "2026-09-14T19:34:26Z",
-      "samples": [
-        [
-          "2026-09-14T18:59:38Z",
-          39
-        ],
-        [
-          "2026-09-14T19:19:02Z",
-          42
-        ],
-        [
-          "2026-09-14T19:34:26Z",
-          30
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -9663,6 +9635,36 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
+      "name": "냥슬이 또 게임해요",
+      "videoId": "GEqOauMvt3s",
+      "videoUrl": "https://www.youtube.com/watch?v=GEqOauMvt3s",
+      "start": "2026-09-14T18:59:38Z",
+      "end": "2026-09-14T19:47:46Z",
+      "minutes": 48.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "2부 이터널리턴 w.눈가루,피즈커",
+      "game": null,
+      "peakViewers": 42,
+      "avgViewers": 36.9,
+      "samples": [
+        [
+          "2026-09-14T18:59:38Z",
+          39
+        ],
+        [
+          "2026-09-14T19:19:02Z",
+          42
+        ],
+        [
+          "2026-09-14T19:34:26Z",
+          30
+        ]
+      ],
+      "isTargetGame": true
     }
   ]
 }
