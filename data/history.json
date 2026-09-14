@@ -1,51 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "5tbNB3UNVPU",
-      "start": "2026-09-14T00:18:32Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン 】キャラをちゃんと動かせるようになろうの巻【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 14,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-14T00:18:32Z",
-      "lastSeenAt": "2026-09-14T02:00:42Z",
-      "samples": [
-        [
-          "2026-09-14T00:18:32Z",
-          4
-        ],
-        [
-          "2026-09-14T00:40:47Z",
-          10
-        ],
-        [
-          "2026-09-14T00:59:35Z",
-          11
-        ],
-        [
-          "2026-09-14T01:18:27Z",
-          14
-        ],
-        [
-          "2026-09-14T01:32:43Z",
-          12
-        ],
-        [
-          "2026-09-14T01:49:17Z",
-          11
-        ],
-        [
-          "2026-09-14T02:00:42Z",
-          13
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -7607,6 +7563,52 @@
         [
           "2026-09-14T01:18:27Z",
           3
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "5tbNB3UNVPU",
+      "videoUrl": "https://www.youtube.com/watch?v=5tbNB3UNVPU",
+      "start": "2026-09-14T00:18:32Z",
+      "end": "2026-09-14T02:23:17Z",
+      "minutes": 124.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン 】キャラをちゃんと動かせるようになろうの巻【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 14,
+      "avgViewers": 10.3,
+      "samples": [
+        [
+          "2026-09-14T00:18:32Z",
+          4
+        ],
+        [
+          "2026-09-14T00:40:47Z",
+          10
+        ],
+        [
+          "2026-09-14T00:59:35Z",
+          11
+        ],
+        [
+          "2026-09-14T01:18:27Z",
+          14
+        ],
+        [
+          "2026-09-14T01:32:43Z",
+          12
+        ],
+        [
+          "2026-09-14T01:49:17Z",
+          11
+        ],
+        [
+          "2026-09-14T02:00:42Z",
+          13
         ]
       ],
       "isTargetGame": true
