@@ -2,93 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "A9autuQRrT8",
-      "start": "2026-09-14T11:32:47Z",
-      "startSource": "observed",
-      "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 950,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          21
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          2
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          18
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          18
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          16
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          19
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          19
-        ],
-        [
-          "2026-09-14T13:52:01Z",
-          21
-        ],
-        [
-          "2026-09-14T14:13:08Z",
-          2
-        ],
-        [
-          "2026-09-14T14:34:43Z",
-          15
-        ],
-        [
-          "2026-09-14T14:52:53Z",
-          11
-        ],
-        [
-          "2026-09-14T15:13:31Z",
-          12
-        ],
-        [
-          "2026-09-14T15:34:14Z",
-          11
-        ],
-        [
-          "2026-09-14T15:51:55Z",
-          1
-        ],
-        [
-          "2026-09-14T16:11:48Z",
-          935
-        ],
-        [
-          "2026-09-14T16:32:45Z",
-          950
-        ],
-        [
-          "2026-09-14T16:52:11Z",
-          881
-        ],
-        [
-          "2026-09-14T17:10:13Z",
-          633
-        ]
-      ]
-    },
     "UCXUu1nCtDMAbasD0wAK1cdw": {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -100,7 +13,7 @@
       "peakViewers": 97,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
+      "lastSeenAt": "2026-09-14T17:30:27Z",
       "samples": [
         [
           "2026-09-14T11:32:47Z",
@@ -173,22 +86,12 @@
         [
           "2026-09-14T17:10:13Z",
           64
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          85
         ]
       ]
-    },
-    "UCOp8W06iik7YzDxvqd3HHig": {
-      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
-      "name": "우찬TV",
-      "videoId": "Jrou7UZESHQ",
-      "start": "2026-09-14T11:50:44Z",
-      "startSource": "observed",
-      "title": "9/14일 이터널리턴 랭크전",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-14T11:50:44Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
-      "samples": []
     },
     "UCN00BJN3cRt2-ZOhrTCQaIA": {
       "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
@@ -201,7 +104,7 @@
       "peakViewers": 6,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T12:39:13Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
+      "lastSeenAt": "2026-09-14T17:30:27Z",
       "samples": [
         [
           "2026-09-14T12:39:13Z",
@@ -262,6 +165,10 @@
         [
           "2026-09-14T17:10:13Z",
           1
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          3
         ]
       ]
     },
@@ -276,7 +183,7 @@
       "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T14:52:53Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
+      "lastSeenAt": "2026-09-14T17:30:27Z",
       "samples": [
         [
           "2026-09-14T14:52:53Z",
@@ -309,6 +216,10 @@
         [
           "2026-09-14T17:10:13Z",
           1
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          3
         ]
       ]
     },
@@ -323,7 +234,7 @@
       "peakViewers": 66,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T14:52:53Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
+      "lastSeenAt": "2026-09-14T17:30:27Z",
       "samples": [
         [
           "2026-09-14T14:52:53Z",
@@ -356,6 +267,10 @@
         [
           "2026-09-14T17:10:13Z",
           44
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          41
         ]
       ]
     },
@@ -370,7 +285,7 @@
       "peakViewers": 5,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T16:52:11Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
+      "lastSeenAt": "2026-09-14T17:30:27Z",
       "samples": [
         [
           "2026-09-14T16:52:11Z",
@@ -378,6 +293,10 @@
         ],
         [
           "2026-09-14T17:10:13Z",
+          2
+        ],
+        [
+          "2026-09-14T17:30:27Z",
           2
         ]
       ]
@@ -393,7 +312,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T16:52:11Z",
-      "lastSeenAt": "2026-09-14T17:10:13Z",
+      "lastSeenAt": "2026-09-14T17:30:27Z",
       "samples": [
         [
           "2026-09-14T16:52:11Z",
@@ -401,6 +320,10 @@
         ],
         [
           "2026-09-14T17:10:13Z",
+          2
+        ],
+        [
+          "2026-09-14T17:30:27Z",
           2
         ]
       ]
@@ -9179,6 +9102,113 @@
           1
         ]
       ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "A9autuQRrT8",
+      "videoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8",
+      "start": "2026-09-14T11:32:47Z",
+      "end": "2026-09-14T17:30:27Z",
+      "minutes": 357.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 950,
+      "avgViewers": 196.2,
+      "samples": [
+        [
+          "2026-09-14T11:32:47Z",
+          21
+        ],
+        [
+          "2026-09-14T11:50:44Z",
+          2
+        ],
+        [
+          "2026-09-14T12:15:45Z",
+          18
+        ],
+        [
+          "2026-09-14T12:39:13Z",
+          18
+        ],
+        [
+          "2026-09-14T12:57:47Z",
+          16
+        ],
+        [
+          "2026-09-14T13:19:25Z",
+          19
+        ],
+        [
+          "2026-09-14T13:36:19Z",
+          19
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          21
+        ],
+        [
+          "2026-09-14T14:13:08Z",
+          2
+        ],
+        [
+          "2026-09-14T14:34:43Z",
+          15
+        ],
+        [
+          "2026-09-14T14:52:53Z",
+          11
+        ],
+        [
+          "2026-09-14T15:13:31Z",
+          12
+        ],
+        [
+          "2026-09-14T15:34:14Z",
+          11
+        ],
+        [
+          "2026-09-14T15:51:55Z",
+          1
+        ],
+        [
+          "2026-09-14T16:11:48Z",
+          935
+        ],
+        [
+          "2026-09-14T16:32:45Z",
+          950
+        ],
+        [
+          "2026-09-14T16:52:11Z",
+          881
+        ],
+        [
+          "2026-09-14T17:10:13Z",
+          633
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+      "name": "우찬TV",
+      "videoId": "Jrou7UZESHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Jrou7UZESHQ",
+      "start": "2026-09-14T11:50:44Z",
+      "end": "2026-09-14T17:30:27Z",
+      "minutes": 339.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "9/14일 이터널리턴 랭크전",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
       "isTargetGame": true
     },
     {

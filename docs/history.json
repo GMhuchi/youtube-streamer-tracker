@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:10:13Z",
+  "updatedAt": "2026-09-14T17:30:27Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1327.7,
-      "gameMinutes": 735.0,
-      "totalHours": 22.13,
-      "gameHours": 12.25,
+      "totalMinutes": 1489.6,
+      "gameMinutes": 856.4,
+      "totalHours": 24.83,
+      "gameHours": 14.27,
       "sessions": 14,
-      "avgViewers": 54.9,
+      "avgViewers": 54.0,
       "peakViewers": 950
     },
     "week": {
-      "totalMinutes": 8633.1,
-      "gameMinutes": 5234.8,
-      "totalHours": 143.88,
-      "gameHours": 87.25,
+      "totalMinutes": 8795.0,
+      "gameMinutes": 5356.3,
+      "totalHours": 146.58,
+      "gameHours": 89.27,
       "sessions": 63,
-      "avgViewers": 62.5,
+      "avgViewers": 62.2,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 30798.2,
-      "gameMinutes": 14735.9,
-      "totalHours": 513.3,
-      "gameHours": 245.6,
+      "totalMinutes": 30960.1,
+      "gameMinutes": 14857.3,
+      "totalHours": 516.0,
+      "gameHours": 247.62,
       "sessions": 187,
-      "avgViewers": 91.7,
+      "avgViewers": 91.4,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【 SURGETOWN 】#10　車の練習いっぱいした🔥警察がんばってる🔥【恋沼ミヤ/#surgetown】",
       "buckets": {
         "today": {
-          "totalMinutes": 130.2,
+          "totalMinutes": 150.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.17,
+          "totalHours": 2.51,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 67.6,
+          "avgViewers": 68.5,
           "peakViewers": 97
         },
         "week": {
-          "totalMinutes": 472.8,
+          "totalMinutes": 493.0,
           "gameMinutes": 0.0,
-          "totalHours": 7.88,
+          "totalHours": 8.22,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 67.4,
+          "avgViewers": 68.0,
           "peakViewers": 140
         },
         "month": {
-          "totalMinutes": 1888.6,
+          "totalMinutes": 1908.9,
           "gameMinutes": 0.0,
-          "totalHours": 31.48,
+          "totalHours": 31.81,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 61.8,
+          "avgViewers": 62.0,
           "peakViewers": 140
         }
       },
@@ -366,9 +366,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 64,
+      "liveViewers": 85,
       "livePeakViewers": 97,
-      "liveAvgViewers": 67.6,
+      "liveAvgViewers": 68.5,
       "liveSamples": [
         [
           "2026-09-14T11:32:47Z",
@@ -441,50 +441,586 @@
         [
           "2026-09-14T17:10:13Z",
           64
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          85
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=7qa0SrJ3SZM"
+    },
+    {
+      "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
+      "name": "사관혜진없는사람",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCN00BJN3cRt2-ZOhrTCQaIA",
+      "isLive": true,
+      "liveSince": "2026-09-14T12:39:13Z",
+      "liveTitle": "살아남아야 한다 [ 이터널리턴 ]",
+      "lastEnd": "2026-09-11T15:16:19Z",
+      "lastTitle": "유니온 (w.뮤황이.레제누프) [ 이터널리턴 ]",
+      "buckets": {
+        "today": {
+          "totalMinutes": 150.5,
+          "gameMinutes": 150.5,
+          "totalHours": 2.51,
+          "gameHours": 2.51,
+          "sessions": 1,
+          "avgViewers": 3.5,
+          "peakViewers": 6
+        },
+        "week": {
+          "totalMinutes": 291.2,
+          "gameMinutes": 291.2,
+          "totalHours": 4.85,
+          "gameHours": 4.85,
+          "sessions": 1,
+          "avgViewers": 3.5,
+          "peakViewers": 6
+        },
+        "month": {
+          "totalMinutes": 465.3,
+          "gameMinutes": 465.3,
+          "totalHours": 7.76,
+          "gameHours": 7.76,
+          "sessions": 2,
+          "avgViewers": 2.9,
+          "peakViewers": 6
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
+          "name": "사관혜진없는사람",
+          "videoId": "11uNdURw-80",
+          "videoUrl": "https://www.youtube.com/watch?v=11uNdURw-80",
+          "start": "2026-09-11T12:22:15Z",
+          "end": "2026-09-11T15:16:19Z",
+          "minutes": 174.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "유니온 (w.뮤황이.레제누프) [ 이터널리턴 ]",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.8,
+          "samples": [
+            [
+              "2026-09-11T12:44:23Z",
+              3
+            ],
+            [
+              "2026-09-11T13:18:16Z",
+              2
+            ],
+            [
+              "2026-09-11T13:33:39Z",
+              1
+            ],
+            [
+              "2026-09-11T13:49:15Z",
+              3
+            ],
+            [
+              "2026-09-11T14:00:11Z",
+              2
+            ],
+            [
+              "2026-09-11T14:23:05Z",
+              1
+            ],
+            [
+              "2026-09-11T14:57:45Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 3,
+      "livePeakViewers": 6,
+      "liveAvgViewers": 3.5,
+      "liveSamples": [
+        [
+          "2026-09-14T12:39:13Z",
+          1
+        ],
+        [
+          "2026-09-14T12:57:47Z",
+          4
+        ],
+        [
+          "2026-09-14T13:19:25Z",
+          2
+        ],
+        [
+          "2026-09-14T13:36:19Z",
+          3
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          3
+        ],
+        [
+          "2026-09-14T14:13:08Z",
+          5
+        ],
+        [
+          "2026-09-14T14:34:43Z",
+          4
+        ],
+        [
+          "2026-09-14T14:52:53Z",
+          5
+        ],
+        [
+          "2026-09-14T15:13:31Z",
+          3
+        ],
+        [
+          "2026-09-14T15:34:14Z",
+          5
+        ],
+        [
+          "2026-09-14T15:51:55Z",
+          6
+        ],
+        [
+          "2026-09-14T16:11:48Z",
+          4
+        ],
+        [
+          "2026-09-14T16:32:45Z",
+          3
+        ],
+        [
+          "2026-09-14T16:52:11Z",
+          4
+        ],
+        [
+          "2026-09-14T17:10:13Z",
+          1
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          3
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=330bLNYcAwE"
+    },
+    {
+      "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
+      "name": "냥슬이 또 게임해요",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UClOhr2WzxqzuyjWWQgPLGIg",
+      "isLive": true,
+      "liveSince": "2026-09-14T14:52:53Z",
+      "liveTitle": "2부 이터널리턴 w.눈가루,피즈커",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 150.5,
+          "gameMinutes": 150.5,
+          "totalHours": 2.51,
+          "gameHours": 2.51,
+          "sessions": 1,
+          "avgViewers": 52.8,
+          "peakViewers": 66
+        },
+        "week": {
+          "totalMinutes": 157.6,
+          "gameMinutes": 157.6,
+          "totalHours": 2.63,
+          "gameHours": 2.63,
+          "sessions": 1,
+          "avgViewers": 52.8,
+          "peakViewers": 66
+        },
+        "month": {
+          "totalMinutes": 157.6,
+          "gameMinutes": 157.6,
+          "totalHours": 2.63,
+          "gameHours": 2.63,
+          "sessions": 1,
+          "avgViewers": 52.8,
+          "peakViewers": 66
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 41,
+      "livePeakViewers": 66,
+      "liveAvgViewers": 52.8,
+      "liveSamples": [
+        [
+          "2026-09-14T14:52:53Z",
+          64
+        ],
+        [
+          "2026-09-14T15:13:31Z",
+          66
+        ],
+        [
+          "2026-09-14T15:34:14Z",
+          59
+        ],
+        [
+          "2026-09-14T15:51:55Z",
+          59
+        ],
+        [
+          "2026-09-14T16:11:48Z",
+          49
+        ],
+        [
+          "2026-09-14T16:32:45Z",
+          41
+        ],
+        [
+          "2026-09-14T16:52:11Z",
+          52
+        ],
+        [
+          "2026-09-14T17:10:13Z",
+          44
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          41
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=GEqOauMvt3s"
+    },
+    {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCcFkDV3IwGz-bUuLZFUu2fg",
+      "isLive": true,
+      "liveSince": "2026-09-14T14:52:53Z",
+      "liveTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 150.5,
+          "gameMinutes": 150.5,
+          "totalHours": 2.51,
+          "gameHours": 2.51,
+          "sessions": 1,
+          "avgViewers": 1.6,
+          "peakViewers": 4
+        },
+        "week": {
+          "totalMinutes": 157.6,
+          "gameMinutes": 157.6,
+          "totalHours": 2.63,
+          "gameHours": 2.63,
+          "sessions": 1,
+          "avgViewers": 1.6,
+          "peakViewers": 4
+        },
+        "month": {
+          "totalMinutes": 157.6,
+          "gameMinutes": 157.6,
+          "totalHours": 2.63,
+          "gameHours": 2.63,
+          "sessions": 1,
+          "avgViewers": 1.6,
+          "peakViewers": 4
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 3,
+      "livePeakViewers": 4,
+      "liveAvgViewers": 1.6,
+      "liveSamples": [
+        [
+          "2026-09-14T14:52:53Z",
+          1
+        ],
+        [
+          "2026-09-14T15:13:31Z",
+          1
+        ],
+        [
+          "2026-09-14T15:34:14Z",
+          4
+        ],
+        [
+          "2026-09-14T15:51:55Z",
+          1
+        ],
+        [
+          "2026-09-14T16:11:48Z",
+          2
+        ],
+        [
+          "2026-09-14T16:32:45Z",
+          1
+        ],
+        [
+          "2026-09-14T16:52:11Z",
+          1
+        ],
+        [
+          "2026-09-14T17:10:13Z",
+          1
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          3
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg"
+    },
+    {
+      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+      "name": "Alcatraz",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6CYnOID9JZjKv6YZwgCW5Q",
+      "isLive": true,
+      "liveSince": "2026-09-14T16:52:11Z",
+      "liveTitle": "멘탈 터져서 만드는 이터널 리턴 MMD",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 38.3,
+          "gameMinutes": 38.3,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
+          "sessions": 1,
+          "avgViewers": 2.3,
+          "peakViewers": 3
+        },
+        "week": {
+          "totalMinutes": 38.3,
+          "gameMinutes": 38.3,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
+          "sessions": 1,
+          "avgViewers": 2.3,
+          "peakViewers": 3
+        },
+        "month": {
+          "totalMinutes": 38.3,
+          "gameMinutes": 38.3,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
+          "sessions": 1,
+          "avgViewers": 2.3,
+          "peakViewers": 3
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 2,
+      "livePeakViewers": 3,
+      "liveAvgViewers": 2.3,
+      "liveSamples": [
+        [
+          "2026-09-14T16:52:11Z",
+          3
+        ],
+        [
+          "2026-09-14T17:10:13Z",
+          2
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          2
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=mx2i_3QwPUs"
+    },
+    {
+      "channelId": "UCXgWeGu5QgXfHbNj8xEUbjg",
+      "name": "긴파도 LongWave",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXgWeGu5QgXfHbNj8xEUbjg",
+      "isLive": true,
+      "liveSince": "2026-09-14T16:52:11Z",
+      "liveTitle": "톤레온 알려드립니다 [이터널리턴]",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 38.3,
+          "gameMinutes": 38.3,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
+          "sessions": 1,
+          "avgViewers": 2.9,
+          "peakViewers": 5
+        },
+        "week": {
+          "totalMinutes": 38.3,
+          "gameMinutes": 38.3,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
+          "sessions": 1,
+          "avgViewers": 2.9,
+          "peakViewers": 5
+        },
+        "month": {
+          "totalMinutes": 38.3,
+          "gameMinutes": 38.3,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
+          "sessions": 1,
+          "avgViewers": 2.9,
+          "peakViewers": 5
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": 2,
+      "livePeakViewers": 5,
+      "liveAvgViewers": 2.9,
+      "liveSamples": [
+        [
+          "2026-09-14T16:52:11Z",
+          5
+        ],
+        [
+          "2026-09-14T17:10:13Z",
+          2
+        ],
+        [
+          "2026-09-14T17:30:27Z",
+          2
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=Yw4hcdWgWEA"
     },
     {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
-      "isLive": true,
-      "liveSince": "2026-09-14T11:32:47Z",
-      "liveTitle": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
-      "lastEnd": "2026-09-14T11:12:12Z",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-14T17:30:27Z",
       "lastTitle": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
       "buckets": {
         "today": {
-          "totalMinutes": 130.2,
+          "totalMinutes": 150.4,
           "gameMinutes": 0.0,
-          "totalHours": 2.17,
+          "totalHours": 2.51,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 196.2,
           "peakViewers": 950
         },
         "week": {
-          "totalMinutes": 546.7,
+          "totalMinutes": 567.0,
           "gameMinutes": 0.0,
-          "totalHours": 9.11,
+          "totalHours": 9.45,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 319.7,
+          "avgViewers": 315.3,
           "peakViewers": 994
         },
         "month": {
-          "totalMinutes": 1545.7,
+          "totalMinutes": 1566.0,
           "gameMinutes": 0.0,
-          "totalHours": 25.76,
+          "totalHours": 26.1,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 446.5,
+          "avgViewers": 443.3,
           "peakViewers": 994
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "A9autuQRrT8",
+          "videoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T17:30:27Z",
+          "minutes": 357.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 950,
+          "avgViewers": 196.2,
+          "samples": [
+            [
+              "2026-09-14T11:32:47Z",
+              21
+            ],
+            [
+              "2026-09-14T11:50:44Z",
+              2
+            ],
+            [
+              "2026-09-14T12:15:45Z",
+              18
+            ],
+            [
+              "2026-09-14T12:39:13Z",
+              18
+            ],
+            [
+              "2026-09-14T12:57:47Z",
+              16
+            ],
+            [
+              "2026-09-14T13:19:25Z",
+              19
+            ],
+            [
+              "2026-09-14T13:36:19Z",
+              19
+            ],
+            [
+              "2026-09-14T13:52:01Z",
+              21
+            ],
+            [
+              "2026-09-14T14:13:08Z",
+              2
+            ],
+            [
+              "2026-09-14T14:34:43Z",
+              15
+            ],
+            [
+              "2026-09-14T14:52:53Z",
+              11
+            ],
+            [
+              "2026-09-14T15:13:31Z",
+              12
+            ],
+            [
+              "2026-09-14T15:34:14Z",
+              11
+            ],
+            [
+              "2026-09-14T15:51:55Z",
+              1
+            ],
+            [
+              "2026-09-14T16:11:48Z",
+              935
+            ],
+            [
+              "2026-09-14T16:32:45Z",
+              950
+            ],
+            [
+              "2026-09-14T16:52:11Z",
+              881
+            ],
+            [
+              "2026-09-14T17:10:13Z",
+              633
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
           "name": "赤彩みあ",
@@ -631,28 +1167,7 @@
           "game": null,
           "peakViewers": 22,
           "avgViewers": 10.9,
-          "samples": [
-            [
-              "2026-09-13T10:26:31Z",
-              15
-            ],
-            [
-              "2026-09-13T10:41:22Z",
-              22
-            ],
-            [
-              "2026-09-13T10:55:52Z",
-              2
-            ],
-            [
-              "2026-09-13T11:11:28Z",
-              15
-            ],
-            [
-              "2026-09-13T11:29:14Z",
-              1
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -706,588 +1221,7 @@
           "samples": [],
           "isTargetGame": false
         }
-      ],
-      "liveViewers": 633,
-      "livePeakViewers": 950,
-      "liveAvgViewers": 196.2,
-      "liveSamples": [
-        [
-          "2026-09-14T11:32:47Z",
-          21
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          2
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          18
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          18
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          16
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          19
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          19
-        ],
-        [
-          "2026-09-14T13:52:01Z",
-          21
-        ],
-        [
-          "2026-09-14T14:13:08Z",
-          2
-        ],
-        [
-          "2026-09-14T14:34:43Z",
-          15
-        ],
-        [
-          "2026-09-14T14:52:53Z",
-          11
-        ],
-        [
-          "2026-09-14T15:13:31Z",
-          12
-        ],
-        [
-          "2026-09-14T15:34:14Z",
-          11
-        ],
-        [
-          "2026-09-14T15:51:55Z",
-          1
-        ],
-        [
-          "2026-09-14T16:11:48Z",
-          935
-        ],
-        [
-          "2026-09-14T16:32:45Z",
-          950
-        ],
-        [
-          "2026-09-14T16:52:11Z",
-          881
-        ],
-        [
-          "2026-09-14T17:10:13Z",
-          633
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8"
-    },
-    {
-      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
-      "name": "우찬TV",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCOp8W06iik7YzDxvqd3HHig",
-      "isLive": true,
-      "liveSince": "2026-09-14T11:50:44Z",
-      "liveTitle": "9/14일 이터널리턴 랭크전",
-      "lastEnd": "2026-09-13T15:56:00Z",
-      "lastTitle": "9/13일 이터널리턴 랭크전",
-      "buckets": {
-        "today": {
-          "totalMinutes": 130.2,
-          "gameMinutes": 130.2,
-          "totalHours": 2.17,
-          "gameHours": 2.17,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 375.5,
-          "gameMinutes": 375.5,
-          "totalHours": 6.26,
-          "gameHours": 6.26,
-          "sessions": 2,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 572.4,
-          "gameMinutes": 572.4,
-          "totalHours": 9.54,
-          "gameHours": 9.54,
-          "sessions": 3,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCOp8W06iik7YzDxvqd3HHig",
-          "name": "우찬TV",
-          "videoId": "4TWOKv0VPhE",
-          "videoUrl": "https://www.youtube.com/watch?v=4TWOKv0VPhE",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T15:56:00Z",
-          "minutes": 240.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "9/13일 이터널리턴 랭크전",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCOp8W06iik7YzDxvqd3HHig",
-          "name": "우찬TV",
-          "videoId": "4TWOKv0VPhE",
-          "videoUrl": "https://www.youtube.com/watch?v=4TWOKv0VPhE",
-          "start": "2026-09-13T11:29:14Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 12.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "9/13일 이터널리턴 랭크전",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=Jrou7UZESHQ"
-    },
-    {
-      "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
-      "name": "사관혜진없는사람",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCN00BJN3cRt2-ZOhrTCQaIA",
-      "isLive": true,
-      "liveSince": "2026-09-14T12:39:13Z",
-      "liveTitle": "살아남아야 한다 [ 이터널리턴 ]",
-      "lastEnd": "2026-09-11T15:16:19Z",
-      "lastTitle": "유니온 (w.뮤황이.레제누프) [ 이터널리턴 ]",
-      "buckets": {
-        "today": {
-          "totalMinutes": 130.2,
-          "gameMinutes": 130.2,
-          "totalHours": 2.17,
-          "gameHours": 2.17,
-          "sessions": 1,
-          "avgViewers": 3.6,
-          "peakViewers": 6
-        },
-        "week": {
-          "totalMinutes": 271.0,
-          "gameMinutes": 271.0,
-          "totalHours": 4.52,
-          "gameHours": 4.52,
-          "sessions": 1,
-          "avgViewers": 3.6,
-          "peakViewers": 6
-        },
-        "month": {
-          "totalMinutes": 445.1,
-          "gameMinutes": 445.1,
-          "totalHours": 7.42,
-          "gameHours": 7.42,
-          "sessions": 2,
-          "avgViewers": 2.9,
-          "peakViewers": 6
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
-          "name": "사관혜진없는사람",
-          "videoId": "11uNdURw-80",
-          "videoUrl": "https://www.youtube.com/watch?v=11uNdURw-80",
-          "start": "2026-09-11T12:22:15Z",
-          "end": "2026-09-11T15:16:19Z",
-          "minutes": 174.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "유니온 (w.뮤황이.레제누프) [ 이터널리턴 ]",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 1.8,
-          "samples": [
-            [
-              "2026-09-11T12:44:23Z",
-              3
-            ],
-            [
-              "2026-09-11T13:18:16Z",
-              2
-            ],
-            [
-              "2026-09-11T13:33:39Z",
-              1
-            ],
-            [
-              "2026-09-11T13:49:15Z",
-              3
-            ],
-            [
-              "2026-09-11T14:00:11Z",
-              2
-            ],
-            [
-              "2026-09-11T14:23:05Z",
-              1
-            ],
-            [
-              "2026-09-11T14:57:45Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 1,
-      "livePeakViewers": 6,
-      "liveAvgViewers": 3.6,
-      "liveSamples": [
-        [
-          "2026-09-14T12:39:13Z",
-          1
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          4
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          2
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          3
-        ],
-        [
-          "2026-09-14T13:52:01Z",
-          3
-        ],
-        [
-          "2026-09-14T14:13:08Z",
-          5
-        ],
-        [
-          "2026-09-14T14:34:43Z",
-          4
-        ],
-        [
-          "2026-09-14T14:52:53Z",
-          5
-        ],
-        [
-          "2026-09-14T15:13:31Z",
-          3
-        ],
-        [
-          "2026-09-14T15:34:14Z",
-          5
-        ],
-        [
-          "2026-09-14T15:51:55Z",
-          6
-        ],
-        [
-          "2026-09-14T16:11:48Z",
-          4
-        ],
-        [
-          "2026-09-14T16:32:45Z",
-          3
-        ],
-        [
-          "2026-09-14T16:52:11Z",
-          4
-        ],
-        [
-          "2026-09-14T17:10:13Z",
-          1
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=330bLNYcAwE"
-    },
-    {
-      "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
-      "name": "냥슬이 또 게임해요",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UClOhr2WzxqzuyjWWQgPLGIg",
-      "isLive": true,
-      "liveSince": "2026-09-14T14:52:53Z",
-      "liveTitle": "2부 이터널리턴 w.눈가루,피즈커",
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 130.2,
-          "gameMinutes": 130.2,
-          "totalHours": 2.17,
-          "gameHours": 2.17,
-          "sessions": 1,
-          "avgViewers": 54.3,
-          "peakViewers": 66
-        },
-        "week": {
-          "totalMinutes": 137.3,
-          "gameMinutes": 137.3,
-          "totalHours": 2.29,
-          "gameHours": 2.29,
-          "sessions": 1,
-          "avgViewers": 54.3,
-          "peakViewers": 66
-        },
-        "month": {
-          "totalMinutes": 137.3,
-          "gameMinutes": 137.3,
-          "totalHours": 2.29,
-          "gameHours": 2.29,
-          "sessions": 1,
-          "avgViewers": 54.3,
-          "peakViewers": 66
-        }
-      },
-      "recentSessions": [],
-      "liveViewers": 44,
-      "livePeakViewers": 66,
-      "liveAvgViewers": 54.3,
-      "liveSamples": [
-        [
-          "2026-09-14T14:52:53Z",
-          64
-        ],
-        [
-          "2026-09-14T15:13:31Z",
-          66
-        ],
-        [
-          "2026-09-14T15:34:14Z",
-          59
-        ],
-        [
-          "2026-09-14T15:51:55Z",
-          59
-        ],
-        [
-          "2026-09-14T16:11:48Z",
-          49
-        ],
-        [
-          "2026-09-14T16:32:45Z",
-          41
-        ],
-        [
-          "2026-09-14T16:52:11Z",
-          52
-        ],
-        [
-          "2026-09-14T17:10:13Z",
-          44
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=GEqOauMvt3s"
-    },
-    {
-      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-      "name": "몰라",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCcFkDV3IwGz-bUuLZFUu2fg",
-      "isLive": true,
-      "liveSince": "2026-09-14T14:52:53Z",
-      "liveTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 130.2,
-          "gameMinutes": 130.2,
-          "totalHours": 2.17,
-          "gameHours": 2.17,
-          "sessions": 1,
-          "avgViewers": 1.5,
-          "peakViewers": 4
-        },
-        "week": {
-          "totalMinutes": 137.3,
-          "gameMinutes": 137.3,
-          "totalHours": 2.29,
-          "gameHours": 2.29,
-          "sessions": 1,
-          "avgViewers": 1.5,
-          "peakViewers": 4
-        },
-        "month": {
-          "totalMinutes": 137.3,
-          "gameMinutes": 137.3,
-          "totalHours": 2.29,
-          "gameHours": 2.29,
-          "sessions": 1,
-          "avgViewers": 1.5,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [],
-      "liveViewers": 1,
-      "livePeakViewers": 4,
-      "liveAvgViewers": 1.5,
-      "liveSamples": [
-        [
-          "2026-09-14T14:52:53Z",
-          1
-        ],
-        [
-          "2026-09-14T15:13:31Z",
-          1
-        ],
-        [
-          "2026-09-14T15:34:14Z",
-          4
-        ],
-        [
-          "2026-09-14T15:51:55Z",
-          1
-        ],
-        [
-          "2026-09-14T16:11:48Z",
-          2
-        ],
-        [
-          "2026-09-14T16:32:45Z",
-          1
-        ],
-        [
-          "2026-09-14T16:52:11Z",
-          1
-        ],
-        [
-          "2026-09-14T17:10:13Z",
-          1
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg"
-    },
-    {
-      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-      "name": "Alcatraz",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6CYnOID9JZjKv6YZwgCW5Q",
-      "isLive": true,
-      "liveSince": "2026-09-14T16:52:11Z",
-      "liveTitle": "멘탈 터져서 만드는 이터널 리턴 MMD",
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 18.0,
-          "gameMinutes": 18.0,
-          "totalHours": 0.3,
-          "gameHours": 0.3,
-          "sessions": 1,
-          "avgViewers": 2.5,
-          "peakViewers": 3
-        },
-        "week": {
-          "totalMinutes": 18.0,
-          "gameMinutes": 18.0,
-          "totalHours": 0.3,
-          "gameHours": 0.3,
-          "sessions": 1,
-          "avgViewers": 2.5,
-          "peakViewers": 3
-        },
-        "month": {
-          "totalMinutes": 18.0,
-          "gameMinutes": 18.0,
-          "totalHours": 0.3,
-          "gameHours": 0.3,
-          "sessions": 1,
-          "avgViewers": 2.5,
-          "peakViewers": 3
-        }
-      },
-      "recentSessions": [],
-      "liveViewers": 2,
-      "livePeakViewers": 3,
-      "liveAvgViewers": 2.5,
-      "liveSamples": [
-        [
-          "2026-09-14T16:52:11Z",
-          3
-        ],
-        [
-          "2026-09-14T17:10:13Z",
-          2
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=mx2i_3QwPUs"
-    },
-    {
-      "channelId": "UCXgWeGu5QgXfHbNj8xEUbjg",
-      "name": "긴파도 LongWave",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXgWeGu5QgXfHbNj8xEUbjg",
-      "isLive": true,
-      "liveSince": "2026-09-14T16:52:11Z",
-      "liveTitle": "톤레온 알려드립니다 [이터널리턴]",
-      "lastEnd": null,
-      "lastTitle": null,
-      "buckets": {
-        "today": {
-          "totalMinutes": 18.0,
-          "gameMinutes": 18.0,
-          "totalHours": 0.3,
-          "gameHours": 0.3,
-          "sessions": 1,
-          "avgViewers": 3.5,
-          "peakViewers": 5
-        },
-        "week": {
-          "totalMinutes": 18.0,
-          "gameMinutes": 18.0,
-          "totalHours": 0.3,
-          "gameHours": 0.3,
-          "sessions": 1,
-          "avgViewers": 3.5,
-          "peakViewers": 5
-        },
-        "month": {
-          "totalMinutes": 18.0,
-          "gameMinutes": 18.0,
-          "totalHours": 0.3,
-          "gameHours": 0.3,
-          "sessions": 1,
-          "avgViewers": 3.5,
-          "peakViewers": 5
-        }
-      },
-      "recentSessions": [],
-      "liveViewers": 2,
-      "livePeakViewers": 5,
-      "liveAvgViewers": 3.5,
-      "liveSamples": [
-        [
-          "2026-09-14T16:52:11Z",
-          5
-        ],
-        [
-          "2026-09-14T17:10:13Z",
-          2
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=Yw4hcdWgWEA"
+      ]
     },
     {
       "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
@@ -5798,6 +5732,99 @@
       ]
     },
     {
+      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+      "name": "우찬TV",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCOp8W06iik7YzDxvqd3HHig",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-14T17:30:27Z",
+      "lastTitle": "9/14일 이터널리턴 랭크전",
+      "buckets": {
+        "today": {
+          "totalMinutes": 150.4,
+          "gameMinutes": 150.4,
+          "totalHours": 2.51,
+          "gameHours": 2.51,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 395.7,
+          "gameMinutes": 395.7,
+          "totalHours": 6.6,
+          "gameHours": 6.6,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 592.6,
+          "gameMinutes": 592.6,
+          "totalHours": 9.88,
+          "gameHours": 9.88,
+          "sessions": 3,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+          "name": "우찬TV",
+          "videoId": "Jrou7UZESHQ",
+          "videoUrl": "https://www.youtube.com/watch?v=Jrou7UZESHQ",
+          "start": "2026-09-14T11:50:44Z",
+          "end": "2026-09-14T17:30:27Z",
+          "minutes": 339.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "9/14일 이터널리턴 랭크전",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+          "name": "우찬TV",
+          "videoId": "4TWOKv0VPhE",
+          "videoUrl": "https://www.youtube.com/watch?v=4TWOKv0VPhE",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T15:56:00Z",
+          "minutes": 240.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "9/13일 이터널리턴 랭크전",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+          "name": "우찬TV",
+          "videoId": "4TWOKv0VPhE",
+          "videoUrl": "https://www.youtube.com/watch?v=4TWOKv0VPhE",
+          "start": "2026-09-13T11:29:14Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 12.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "9/13일 이터널리턴 랭크전",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
       "registered": true,
@@ -8830,6 +8857,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+      "name": "우찬TV",
+      "videoId": "Jrou7UZESHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Jrou7UZESHQ",
+      "start": "2026-09-14T11:50:44Z",
+      "end": "2026-09-14T17:30:27Z",
+      "minutes": 339.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "9/14일 이터널리턴 랭크전",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
       "videoId": "n9U_-6BNjSM",
@@ -9084,6 +9127,22 @@
       "peakViewers": 3,
       "avgViewers": 1.7,
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "A9autuQRrT8",
+      "videoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8",
+      "start": "2026-09-14T11:32:47Z",
+      "end": "2026-09-14T17:30:27Z",
+      "minutes": 357.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 950,
+      "avgViewers": 196.2,
+      "isTargetGame": false
     },
     {
       "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
@@ -9660,38 +9719,6 @@
       "peakViewers": 18,
       "avgViewers": 13.6,
       "isTargetGame": true
-    },
-    {
-      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "name": "지몽지",
-      "videoId": "Yz_9ZV6wW6k",
-      "videoUrl": "https://www.youtube.com/watch?v=Yz_9ZV6wW6k",
-      "start": "2026-09-13T11:55:56Z",
-      "end": "2026-09-13T13:41:56Z",
-      "minutes": 106.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "[이터널 리턴] 오늘 실력 레전드 (이길 바람) / 골드3",
-      "game": null,
-      "peakViewers": 1,
-      "avgViewers": 1.0,
-      "isTargetGame": true
-    },
-    {
-      "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "videoId": "qD1Y5nKgRoo",
-      "videoUrl": "https://www.youtube.com/watch?v=qD1Y5nKgRoo",
-      "start": "2026-09-13T11:55:56Z",
-      "end": "2026-09-13T13:41:56Z",
-      "minutes": 106.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "光るだけしかない機械 をやる ※ﾈﾀﾊﾞﾚ注意【 #奏手イヅル 】",
-      "game": null,
-      "peakViewers": 404,
-      "avgViewers": 384.9,
-      "isTargetGame": false
     }
   ]
 }
