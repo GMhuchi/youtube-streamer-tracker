@@ -2,92 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "Qh73GHjE2OA",
-      "start": "2026-09-14T11:32:47Z",
-      "startSource": "observed",
-      "title": "【Eternal Return】大会前、最後！ #あほぐみ スクリム！【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 102,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          102
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          78
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          86
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          80
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          77
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          79
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          96
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "2sF8nAJ1JlQ",
-      "start": "2026-09-14T11:32:47Z",
-      "startSource": "observed",
-      "title": "【 エタリタ 】エタリタスクリムday 頭フル回転【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 35,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          33
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          30
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          24
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          35
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          28
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          23
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          23
-        ]
-      ]
-    },
     "UCeTb2MQrm8UBChlecw7pQOA": {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
@@ -99,7 +13,7 @@
       "peakViewers": 21,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T11:32:47Z",
@@ -128,6 +42,10 @@
         [
           "2026-09-14T13:36:19Z",
           19
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          21
         ]
       ]
     },
@@ -139,10 +57,10 @@
       "startSource": "observed",
       "title": "【 SURGETOWN 】#11　ギャング？個人医？絶対に負けないもん🔥【恋沼ミヤ/#surgetown】",
       "game": null,
-      "peakViewers": 87,
+      "peakViewers": 97,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T11:32:47Z",
@@ -171,6 +89,10 @@
         [
           "2026-09-14T13:36:19Z",
           83
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          97
         ]
       ]
     },
@@ -185,7 +107,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T11:32:47Z",
@@ -214,49 +136,10 @@
         [
           "2026-09-14T13:36:19Z",
           2
-        ]
-      ]
-    },
-    "UCdttMMRbi7pukx0jYqRlpvg": {
-      "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
-      "name": "白峯梅chドールオーナーVtuber",
-      "videoId": "vitD4d6idvk",
-      "start": "2026-09-14T11:32:47Z",
-      "startSource": "observed",
-      "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼ 初回3時間スペシャル　[初見配信]",
-      "game": null,
-      "peakViewers": 4,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-14T11:32:47Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          3
         ],
         [
-          "2026-09-14T11:50:44Z",
-          3
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          4
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          3
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          2
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          2
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          3
+          "2026-09-14T13:52:01Z",
+          1
         ]
       ]
     },
@@ -271,7 +154,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T11:50:44Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": []
     },
     "UCElYE3bfzjjmJ9xwjvro9Yw": {
@@ -285,7 +168,7 @@
       "peakViewers": 267,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-14T12:15:45Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T12:15:45Z",
@@ -306,6 +189,10 @@
         [
           "2026-09-14T13:36:19Z",
           229
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          213
         ]
       ]
     },
@@ -320,7 +207,7 @@
       "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T12:39:13Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T12:39:13Z",
@@ -337,6 +224,10 @@
         [
           "2026-09-14T13:36:19Z",
           3
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          3
         ]
       ]
     },
@@ -351,7 +242,7 @@
       "peakViewers": 2,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T12:39:13Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T12:39:13Z",
@@ -368,6 +259,10 @@
         [
           "2026-09-14T13:36:19Z",
           2
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          2
         ]
       ]
     },
@@ -382,7 +277,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-14T12:57:47Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T12:57:47Z",
@@ -395,6 +290,10 @@
         [
           "2026-09-14T13:36:19Z",
           1
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          2
         ]
       ]
     },
@@ -406,14 +305,18 @@
       "startSource": "observed",
       "title": "【SURGETown】NO TROLL【綾見ユラ/YUMENOS】",
       "game": null,
-      "peakViewers": 112,
+      "peakViewers": 166,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-14T13:36:19Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T13:36:19Z",
           112
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          166
         ]
       ]
     },
@@ -425,14 +328,18 @@
       "startSource": "observed",
       "title": "#SURGETown 7日目 | やっきょく！第7話「新しいお薬！？」 #愁子",
       "game": null,
-      "peakViewers": 20,
+      "peakViewers": 49,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-14T13:36:19Z",
-      "lastSeenAt": "2026-09-14T13:36:19Z",
+      "lastSeenAt": "2026-09-14T13:52:01Z",
       "samples": [
         [
           "2026-09-14T13:36:19Z",
           20
+        ],
+        [
+          "2026-09-14T13:52:01Z",
+          49
         ]
       ]
     }
@@ -8999,6 +8906,144 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "Qh73GHjE2OA",
+      "videoUrl": "https://www.youtube.com/watch?v=Qh73GHjE2OA",
+      "start": "2026-09-14T11:32:47Z",
+      "end": "2026-09-14T13:52:01Z",
+      "minutes": 139.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Eternal Return】大会前、最後！ #あほぐみ スクリム！【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 102,
+      "avgViewers": 85.1,
+      "samples": [
+        [
+          "2026-09-14T11:32:47Z",
+          102
+        ],
+        [
+          "2026-09-14T11:50:44Z",
+          78
+        ],
+        [
+          "2026-09-14T12:15:45Z",
+          86
+        ],
+        [
+          "2026-09-14T12:39:13Z",
+          80
+        ],
+        [
+          "2026-09-14T12:57:47Z",
+          77
+        ],
+        [
+          "2026-09-14T13:19:25Z",
+          79
+        ],
+        [
+          "2026-09-14T13:36:19Z",
+          96
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "2sF8nAJ1JlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=2sF8nAJ1JlQ",
+      "start": "2026-09-14T11:32:47Z",
+      "end": "2026-09-14T13:52:01Z",
+      "minutes": 139.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 エタリタ 】エタリタスクリムday 頭フル回転【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 35,
+      "avgViewers": 27.9,
+      "samples": [
+        [
+          "2026-09-14T11:32:47Z",
+          33
+        ],
+        [
+          "2026-09-14T11:50:44Z",
+          30
+        ],
+        [
+          "2026-09-14T12:15:45Z",
+          24
+        ],
+        [
+          "2026-09-14T12:39:13Z",
+          35
+        ],
+        [
+          "2026-09-14T12:57:47Z",
+          28
+        ],
+        [
+          "2026-09-14T13:19:25Z",
+          23
+        ],
+        [
+          "2026-09-14T13:36:19Z",
+          23
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
+      "name": "白峯梅chドールオーナーVtuber",
+      "videoId": "vitD4d6idvk",
+      "videoUrl": "https://www.youtube.com/watch?v=vitD4d6idvk",
+      "start": "2026-09-14T11:32:47Z",
+      "end": "2026-09-14T13:52:01Z",
+      "minutes": 139.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼ 初回3時間スペシャル　[初見配信]",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 2.9,
+      "samples": [
+        [
+          "2026-09-14T11:32:47Z",
+          3
+        ],
+        [
+          "2026-09-14T11:50:44Z",
+          3
+        ],
+        [
+          "2026-09-14T12:15:45Z",
+          4
+        ],
+        [
+          "2026-09-14T12:39:13Z",
+          3
+        ],
+        [
+          "2026-09-14T12:57:47Z",
+          2
+        ],
+        [
+          "2026-09-14T13:19:25Z",
+          2
+        ],
+        [
+          "2026-09-14T13:36:19Z",
+          3
+        ]
+      ],
+      "isTargetGame": true
     }
   ]
 }
