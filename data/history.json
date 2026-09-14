@@ -1,7 +1,65 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "7qa0SrJ3SZM",
+      "start": "2026-09-14T18:59:38Z",
+      "startSource": "observed",
+      "title": "【 SURGETOWN 】#11　ギャング？個人医？絶対に負けないもん🔥【恋沼ミヤ/#surgetown】",
+      "game": null,
+      "peakViewers": 139,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-14T18:59:38Z",
+      "lastSeenAt": "2026-09-14T18:59:38Z",
+      "samples": [
+        [
+          "2026-09-14T18:59:38Z",
+          139
+        ]
+      ]
+    },
+    "UCcFkDV3IwGz-bUuLZFUu2fg": {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "videoId": "jQN2Ecv7iTg",
+      "start": "2026-09-14T18:59:38Z",
+      "startSource": "observed",
+      "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+      "game": null,
+      "peakViewers": 1,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-14T18:59:38Z",
+      "lastSeenAt": "2026-09-14T18:59:38Z",
+      "samples": [
+        [
+          "2026-09-14T18:59:38Z",
+          1
+        ]
+      ]
+    },
+    "UClOhr2WzxqzuyjWWQgPLGIg": {
+      "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
+      "name": "냥슬이 또 게임해요",
+      "videoId": "GEqOauMvt3s",
+      "start": "2026-09-14T18:59:38Z",
+      "startSource": "observed",
+      "title": "2부 이터널리턴 w.눈가루,피즈커",
+      "game": null,
+      "peakViewers": 39,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-14T18:59:38Z",
+      "lastSeenAt": "2026-09-14T18:59:38Z",
+      "samples": [
+        [
+          "2026-09-14T18:59:38Z",
+          39
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
