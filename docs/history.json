@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T03:34:05Z",
+  "updatedAt": "2026-09-15T03:51:13Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,249 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2397.7,
-      "gameMinutes": 1183.4,
-      "totalHours": 39.96,
-      "gameHours": 19.72,
-      "sessions": 20,
+      "totalMinutes": 2414.9,
+      "gameMinutes": 1200.6,
+      "totalHours": 40.25,
+      "gameHours": 20.01,
+      "sessions": 21,
       "avgViewers": 105.0,
       "peakViewers": 950
     },
     "week": {
-      "totalMinutes": 9703.2,
-      "gameMinutes": 5683.2,
-      "totalHours": 161.72,
-      "gameHours": 94.72,
-      "sessions": 69,
+      "totalMinutes": 9720.3,
+      "gameMinutes": 5700.4,
+      "totalHours": 162.01,
+      "gameHours": 95.01,
+      "sessions": 70,
       "avgViewers": 74.1,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 31868.3,
-      "gameMinutes": 15184.3,
-      "totalHours": 531.14,
-      "gameHours": 253.07,
-      "sessions": 193,
+      "totalMinutes": 31885.4,
+      "gameMinutes": 15201.5,
+      "totalHours": 531.42,
+      "gameHours": 253.36,
+      "sessions": 194,
       "avgViewers": 94.4,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCAS1tKQTTPVw4-TFnKTzvnw",
+      "isLive": true,
+      "liveSince": "2026-09-15T03:51:13Z",
+      "liveTitle": "【雑談】初見さん大歓迎昼雑談【水上蒼太/ゆにれいど！】#shorts",
+      "lastEnd": "2026-09-13T16:47:59Z",
+      "lastTitle": "【#leagueoflegends 】別班 of legends 始動　チーム顔合わせ配信　【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 22.0,
+          "peakViewers": 22
+        },
+        "week": {
+          "totalMinutes": 95.8,
+          "gameMinutes": 0.0,
+          "totalHours": 1.6,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 17.8,
+          "peakViewers": 22
+        },
+        "month": {
+          "totalMinutes": 494.9,
+          "gameMinutes": 161.7,
+          "totalHours": 8.25,
+          "gameHours": 2.7,
+          "sessions": 5,
+          "avgViewers": 29.1,
+          "peakViewers": 41
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "syiroFfem78",
+          "videoUrl": "https://www.youtube.com/watch?v=syiroFfem78",
+          "start": "2026-09-13T15:12:10Z",
+          "end": "2026-09-13T16:47:59Z",
+          "minutes": 95.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#leagueoflegends 】別班 of legends 始動　チーム顔合わせ配信　【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+          "game": null,
+          "peakViewers": 20,
+          "avgViewers": 17.8,
+          "samples": [
+            [
+              "2026-09-13T15:12:10Z",
+              20
+            ],
+            [
+              "2026-09-13T15:29:37Z",
+              15
+            ],
+            [
+              "2026-09-13T15:43:07Z",
+              19
+            ],
+            [
+              "2026-09-13T15:56:00Z",
+              19
+            ],
+            [
+              "2026-09-13T16:13:00Z",
+              18
+            ],
+            [
+              "2026-09-13T16:30:52Z",
+              15
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "yPSKKE2Bckw",
+          "videoUrl": "https://www.youtube.com/watch?v=yPSKKE2Bckw",
+          "start": "2026-09-13T12:15:41Z",
+          "end": "2026-09-13T14:11:43Z",
+          "minutes": 116.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】初見さん大歓迎雑談とさせていただく【水上蒼太/ゆにれいど！】#shorts",
+          "game": null,
+          "peakViewers": 41,
+          "avgViewers": 35.3,
+          "samples": [
+            [
+              "2026-09-13T12:15:41Z",
+              34
+            ],
+            [
+              "2026-09-13T12:35:20Z",
+              39
+            ],
+            [
+              "2026-09-13T12:50:34Z",
+              41
+            ],
+            [
+              "2026-09-13T13:10:56Z",
+              30
+            ],
+            [
+              "2026-09-13T13:28:36Z",
+              37
+            ],
+            [
+              "2026-09-13T13:41:56Z",
+              34
+            ],
+            [
+              "2026-09-13T13:55:39Z",
+              32
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "jm0-xfQlKAE",
+          "videoUrl": "https://www.youtube.com/watch?v=jm0-xfQlKAE",
+          "start": "2026-09-11T11:18:27Z",
+          "end": "2026-09-11T14:00:11Z",
+          "minutes": 161.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【DOMINEX〜Eternal Return〜】脱初心者したい🔰【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 37,
+          "avgViewers": 27.9,
+          "samples": [
+            [
+              "2026-09-11T11:18:27Z",
+              22
+            ],
+            [
+              "2026-09-11T11:33:39Z",
+              23
+            ],
+            [
+              "2026-09-11T11:47:19Z",
+              30
+            ],
+            [
+              "2026-09-11T11:57:45Z",
+              30
+            ],
+            [
+              "2026-09-11T12:22:15Z",
+              37
+            ],
+            [
+              "2026-09-11T12:44:23Z",
+              29
+            ],
+            [
+              "2026-09-11T12:58:36Z",
+              26
+            ],
+            [
+              "2026-09-11T13:18:16Z",
+              25
+            ],
+            [
+              "2026-09-11T13:33:39Z",
+              28
+            ],
+            [
+              "2026-09-11T13:49:15Z",
+              25
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "P0e6uQc_unU",
+          "videoUrl": "https://www.youtube.com/watch?v=P0e6uQc_unU",
+          "start": "2026-09-11T05:48:21Z",
+          "end": "2026-09-11T07:49:38Z",
+          "minutes": 121.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】寝起きのイケボをお届けします【水上蒼太/ゆにれいど！】#shorts",
+          "game": null,
+          "peakViewers": 41,
+          "avgViewers": 33.5,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 22,
+      "livePeakViewers": 22,
+      "liveAvgViewers": 22.0,
+      "liveSamples": [
+        [
+          "2026-09-15T03:51:13Z",
+          22
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=OkLo7IHr5eE"
+    },
     {
       "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
       "name": "상자곰",
@@ -56,28 +271,28 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 21.2,
-          "gameMinutes": 21.2,
-          "totalHours": 0.35,
-          "gameHours": 0.35,
+          "totalMinutes": 38.4,
+          "gameMinutes": 38.4,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 21.2,
-          "gameMinutes": 21.2,
-          "totalHours": 0.35,
-          "gameHours": 0.35,
+          "totalMinutes": 38.4,
+          "gameMinutes": 38.4,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 21.2,
-          "gameMinutes": 21.2,
-          "totalHours": 0.35,
-          "gameHours": 0.35,
+          "totalMinutes": 38.4,
+          "gameMinutes": 38.4,
+          "totalHours": 0.64,
+          "gameHours": 0.64,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
@@ -5860,211 +6075,6 @@
           "avgViewers": 259.2,
           "samples": [],
           "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCAS1tKQTTPVw4-TFnKTzvnw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-13T16:47:59Z",
-      "lastTitle": "【#leagueoflegends 】別班 of legends 始動　チーム顔合わせ配信　【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 95.8,
-          "gameMinutes": 0.0,
-          "totalHours": 1.6,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 17.8,
-          "peakViewers": 20
-        },
-        "month": {
-          "totalMinutes": 494.9,
-          "gameMinutes": 161.7,
-          "totalHours": 8.25,
-          "gameHours": 2.7,
-          "sessions": 4,
-          "avgViewers": 29.1,
-          "peakViewers": 41
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "syiroFfem78",
-          "videoUrl": "https://www.youtube.com/watch?v=syiroFfem78",
-          "start": "2026-09-13T15:12:10Z",
-          "end": "2026-09-13T16:47:59Z",
-          "minutes": 95.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#leagueoflegends 】別班 of legends 始動　チーム顔合わせ配信　【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-          "game": null,
-          "peakViewers": 20,
-          "avgViewers": 17.8,
-          "samples": [
-            [
-              "2026-09-13T15:12:10Z",
-              20
-            ],
-            [
-              "2026-09-13T15:29:37Z",
-              15
-            ],
-            [
-              "2026-09-13T15:43:07Z",
-              19
-            ],
-            [
-              "2026-09-13T15:56:00Z",
-              19
-            ],
-            [
-              "2026-09-13T16:13:00Z",
-              18
-            ],
-            [
-              "2026-09-13T16:30:52Z",
-              15
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "yPSKKE2Bckw",
-          "videoUrl": "https://www.youtube.com/watch?v=yPSKKE2Bckw",
-          "start": "2026-09-13T12:15:41Z",
-          "end": "2026-09-13T14:11:43Z",
-          "minutes": 116.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】初見さん大歓迎雑談とさせていただく【水上蒼太/ゆにれいど！】#shorts",
-          "game": null,
-          "peakViewers": 41,
-          "avgViewers": 35.3,
-          "samples": [
-            [
-              "2026-09-13T12:15:41Z",
-              34
-            ],
-            [
-              "2026-09-13T12:35:20Z",
-              39
-            ],
-            [
-              "2026-09-13T12:50:34Z",
-              41
-            ],
-            [
-              "2026-09-13T13:10:56Z",
-              30
-            ],
-            [
-              "2026-09-13T13:28:36Z",
-              37
-            ],
-            [
-              "2026-09-13T13:41:56Z",
-              34
-            ],
-            [
-              "2026-09-13T13:55:39Z",
-              32
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "jm0-xfQlKAE",
-          "videoUrl": "https://www.youtube.com/watch?v=jm0-xfQlKAE",
-          "start": "2026-09-11T11:18:27Z",
-          "end": "2026-09-11T14:00:11Z",
-          "minutes": 161.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【DOMINEX〜Eternal Return〜】脱初心者したい🔰【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 37,
-          "avgViewers": 27.9,
-          "samples": [
-            [
-              "2026-09-11T11:18:27Z",
-              22
-            ],
-            [
-              "2026-09-11T11:33:39Z",
-              23
-            ],
-            [
-              "2026-09-11T11:47:19Z",
-              30
-            ],
-            [
-              "2026-09-11T11:57:45Z",
-              30
-            ],
-            [
-              "2026-09-11T12:22:15Z",
-              37
-            ],
-            [
-              "2026-09-11T12:44:23Z",
-              29
-            ],
-            [
-              "2026-09-11T12:58:36Z",
-              26
-            ],
-            [
-              "2026-09-11T13:18:16Z",
-              25
-            ],
-            [
-              "2026-09-11T13:33:39Z",
-              28
-            ],
-            [
-              "2026-09-11T13:49:15Z",
-              25
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "P0e6uQc_unU",
-          "videoUrl": "https://www.youtube.com/watch?v=P0e6uQc_unU",
-          "start": "2026-09-11T05:48:21Z",
-          "end": "2026-09-11T07:49:38Z",
-          "minutes": 121.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】寝起きのイケボをお届けします【水上蒼太/ゆにれいど！】#shorts",
-          "game": null,
-          "peakViewers": 41,
-          "avgViewers": 33.5,
-          "samples": [],
-          "isTargetGame": false
         }
       ]
     },
