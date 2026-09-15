@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T19:29:51Z",
+  "updatedAt": "2026-09-15T19:44:11Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,28 +16,28 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2353.6,
-      "gameMinutes": 1024.5,
-      "totalHours": 39.23,
-      "gameHours": 17.07,
+      "totalMinutes": 2368.0,
+      "gameMinutes": 1038.8,
+      "totalHours": 39.47,
+      "gameHours": 17.31,
       "sessions": 19,
-      "avgViewers": 64.9,
+      "avgViewers": 64.5,
       "peakViewers": 960
     },
     "week": {
-      "totalMinutes": 17665.7,
-      "gameMinutes": 8984.8,
-      "totalHours": 294.43,
-      "gameHours": 149.75,
+      "totalMinutes": 17680.1,
+      "gameMinutes": 8999.2,
+      "totalHours": 294.67,
+      "gameHours": 149.99,
       "sessions": 99,
-      "avgViewers": 71.8,
+      "avgViewers": 71.7,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 39830.9,
-      "gameMinutes": 18485.9,
-      "totalHours": 663.85,
-      "gameHours": 308.1,
+      "totalMinutes": 39845.2,
+      "gameMinutes": 18500.2,
+      "totalHours": 664.09,
+      "gameHours": 308.34,
       "sessions": 223,
       "avgViewers": 89.1,
       "peakViewers": 994
@@ -56,28 +56,28 @@
       "lastTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
       "buckets": {
         "today": {
-          "totalMinutes": 269.9,
-          "gameMinutes": 269.9,
-          "totalHours": 4.5,
-          "gameHours": 4.5,
+          "totalMinutes": 284.2,
+          "gameMinutes": 284.2,
+          "totalHours": 4.74,
+          "gameHours": 4.74,
           "sessions": 1,
           "avgViewers": 1.8,
           "peakViewers": 3
         },
         "week": {
-          "totalMinutes": 663.7,
-          "gameMinutes": 663.7,
-          "totalHours": 11.06,
-          "gameHours": 11.06,
+          "totalMinutes": 678.0,
+          "gameMinutes": 678.0,
+          "totalHours": 11.3,
+          "gameHours": 11.3,
           "sessions": 3,
           "avgViewers": 1.7,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 663.7,
-          "gameMinutes": 663.7,
-          "totalHours": 11.06,
-          "gameHours": 11.06,
+          "totalMinutes": 678.0,
+          "gameMinutes": 678.0,
+          "totalHours": 11.3,
+          "gameHours": 11.3,
           "sessions": 3,
           "avgViewers": 1.7,
           "peakViewers": 4
@@ -173,7 +173,7 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 3,
+      "liveViewers": 2,
       "livePeakViewers": 3,
       "liveAvgViewers": 1.8,
       "liveSamples": [
@@ -272,6 +272,10 @@
         [
           "2026-09-15T19:29:51Z",
           3
+        ],
+        [
+          "2026-09-15T19:44:11Z",
+          2
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=S7FczCXp9KA"
