@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:52:58Z",
+  "updatedAt": "2026-09-15T08:13:41Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3048.9,
-      "gameMinutes": 1518.3,
-      "totalHours": 50.81,
-      "gameHours": 25.31,
-      "sessions": 25,
-      "avgViewers": 92.0,
+      "totalMinutes": 3111.0,
+      "gameMinutes": 1559.8,
+      "totalHours": 51.85,
+      "gameHours": 26.0,
+      "sessions": 26,
+      "avgViewers": 91.0,
       "peakViewers": 950
     },
     "week": {
-      "totalMinutes": 10354.3,
-      "gameMinutes": 6018.1,
-      "totalHours": 172.57,
-      "gameHours": 100.3,
-      "sessions": 74,
-      "avgViewers": 72.2,
+      "totalMinutes": 10416.4,
+      "gameMinutes": 6059.6,
+      "totalHours": 173.61,
+      "gameHours": 100.99,
+      "sessions": 75,
+      "avgViewers": 72.0,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 32519.4,
-      "gameMinutes": 15519.2,
-      "totalHours": 541.99,
-      "gameHours": 258.65,
-      "sessions": 198,
-      "avgViewers": 93.5,
+      "totalMinutes": 32581.6,
+      "gameMinutes": 15560.7,
+      "totalHours": 543.03,
+      "gameHours": 259.34,
+      "sessions": 199,
+      "avgViewers": 93.4,
       "peakViewers": 994
     }
   },
@@ -56,28 +56,28 @@
       "lastTitle": "이터널 리턴)도둑 잡으러 갑시다",
       "buckets": {
         "today": {
-          "totalMinutes": 220.6,
-          "gameMinutes": 220.6,
-          "totalHours": 3.68,
-          "gameHours": 3.68,
+          "totalMinutes": 241.3,
+          "gameMinutes": 241.3,
+          "totalHours": 4.02,
+          "gameHours": 4.02,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 220.6,
-          "gameMinutes": 220.6,
-          "totalHours": 3.68,
-          "gameHours": 3.68,
+          "totalMinutes": 241.3,
+          "gameMinutes": 241.3,
+          "totalHours": 4.02,
+          "gameHours": 4.02,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 1382.2,
-          "gameMinutes": 1382.2,
-          "totalHours": 23.04,
-          "gameHours": 23.04,
+          "totalMinutes": 1403.0,
+          "gameMinutes": 1403.0,
+          "totalHours": 23.38,
+          "gameHours": 23.38,
           "sessions": 5,
           "avgViewers": null,
           "peakViewers": null
@@ -171,31 +171,31 @@
       "lastTitle": "김머만님의 실시간 스트림 이터널 리턴",
       "buckets": {
         "today": {
-          "totalMinutes": 88.7,
-          "gameMinutes": 88.7,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 109.4,
+          "gameMinutes": 109.4,
+          "totalHours": 1.82,
+          "gameHours": 1.82,
           "sessions": 2,
-          "avgViewers": 1.8,
-          "peakViewers": 3
+          "avgViewers": 2.3,
+          "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 435.4,
-          "gameMinutes": 435.4,
-          "totalHours": 7.26,
-          "gameHours": 7.26,
+          "totalMinutes": 456.1,
+          "gameMinutes": 456.1,
+          "totalHours": 7.6,
+          "gameHours": 7.6,
           "sessions": 3,
-          "avgViewers": 1.8,
-          "peakViewers": 3
+          "avgViewers": 1.9,
+          "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 435.4,
-          "gameMinutes": 435.4,
-          "totalHours": 7.26,
-          "gameHours": 7.26,
+          "totalMinutes": 456.1,
+          "gameMinutes": 456.1,
+          "totalHours": 7.6,
+          "gameHours": 7.6,
           "sessions": 3,
-          "avgViewers": 1.8,
-          "peakViewers": 3
+          "avgViewers": 1.9,
+          "peakViewers": 5
         }
       },
       "recentSessions": [
@@ -320,13 +320,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 2,
-      "livePeakViewers": 2,
-      "liveAvgViewers": 2.0,
+      "liveViewers": 5,
+      "livePeakViewers": 5,
+      "liveAvgViewers": 3.5,
       "liveSamples": [
         [
           "2026-09-15T07:52:58Z",
           2
+        ],
+        [
+          "2026-09-15T08:13:41Z",
+          5
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Nr2g2Dymi5Y"
@@ -343,30 +347,30 @@
       "lastTitle": "2부 이터널리턴 w.눈가루,피즈커",
       "buckets": {
         "today": {
-          "totalMinutes": 346.8,
+          "totalMinutes": 367.5,
           "gameMinutes": 273.0,
-          "totalHours": 5.78,
+          "totalHours": 6.12,
           "gameHours": 4.55,
           "sessions": 3,
-          "avgViewers": 51.3,
+          "avgViewers": 52.4,
           "peakViewers": 78
         },
         "week": {
-          "totalMinutes": 353.9,
+          "totalMinutes": 374.6,
           "gameMinutes": 280.1,
-          "totalHours": 5.9,
+          "totalHours": 6.24,
           "gameHours": 4.67,
           "sessions": 3,
-          "avgViewers": 51.3,
+          "avgViewers": 52.3,
           "peakViewers": 78
         },
         "month": {
-          "totalMinutes": 353.9,
+          "totalMinutes": 374.6,
           "gameMinutes": 280.1,
-          "totalHours": 5.9,
+          "totalHours": 6.24,
           "gameHours": 4.67,
           "sessions": 3,
-          "avgViewers": 51.3,
+          "avgViewers": 52.3,
           "peakViewers": 78
         }
       },
@@ -468,9 +472,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 63,
+      "liveViewers": 72,
       "livePeakViewers": 78,
-      "liveAvgViewers": 65.1,
+      "liveAvgViewers": 66.2,
       "liveSamples": [
         [
           "2026-09-15T06:39:12Z",
@@ -491,9 +495,82 @@
         [
           "2026-09-15T07:52:58Z",
           63
+        ],
+        [
+          "2026-09-15T08:13:41Z",
+          72
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=mwZlbtWEULg"
+    },
+    {
+      "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+      "name": "하늘고래",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCSTZTPTiHOScULJ4KdV8WSQ",
+      "isLive": true,
+      "liveSince": "2026-09-15T08:13:41Z",
+      "liveTitle": "오늘은 1등 할수있지않을까..?시참환영 (초보도 환영)",
+      "lastEnd": "2026-09-12T13:00:43Z",
+      "lastTitle": "이터널리턴 시참환영 (초보도 환영)",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        },
+        "month": {
+          "totalMinutes": 109.9,
+          "gameMinutes": 109.9,
+          "totalHours": 1.83,
+          "gameHours": 1.83,
+          "sessions": 2,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "XH1jSzWJoGA",
+          "videoUrl": "https://www.youtube.com/watch?v=XH1jSzWJoGA",
+          "start": "2026-09-12T11:10:51Z",
+          "end": "2026-09-12T13:00:43Z",
+          "minutes": 109.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 시참환영 (초보도 환영)",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 1,
+      "livePeakViewers": 1,
+      "liveAvgViewers": 1.0,
+      "liveSamples": [
+        [
+          "2026-09-15T08:13:41Z",
+          1
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=8djeXgv8h5E"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -8634,65 +8711,6 @@
               1
             ]
           ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-      "name": "하늘고래",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCSTZTPTiHOScULJ4KdV8WSQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-12T13:00:43Z",
-      "lastTitle": "이터널리턴 시참환영 (초보도 환영)",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 109.9,
-          "gameMinutes": 109.9,
-          "totalHours": 1.83,
-          "gameHours": 1.83,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "XH1jSzWJoGA",
-          "videoUrl": "https://www.youtube.com/watch?v=XH1jSzWJoGA",
-          "start": "2026-09-12T11:10:51Z",
-          "end": "2026-09-12T13:00:43Z",
-          "minutes": 109.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 시참환영 (초보도 환영)",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
           "isTargetGame": true
         }
       ]
