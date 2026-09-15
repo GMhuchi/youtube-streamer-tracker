@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:53:15Z",
+  "updatedAt": "2026-09-15T10:12:09Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3525.3,
-      "gameMinutes": 1758.9,
-      "totalHours": 58.76,
-      "gameHours": 29.31,
-      "sessions": 28,
-      "avgViewers": 83.6,
+      "totalMinutes": 3619.9,
+      "gameMinutes": 1777.8,
+      "totalHours": 60.33,
+      "gameHours": 29.63,
+      "sessions": 30,
+      "avgViewers": 83.0,
       "peakViewers": 950
     },
     "week": {
-      "totalMinutes": 10830.8,
-      "gameMinutes": 6258.7,
-      "totalHours": 180.51,
-      "gameHours": 104.31,
-      "sessions": 77,
-      "avgViewers": 70.5,
+      "totalMinutes": 10925.3,
+      "gameMinutes": 6277.6,
+      "totalHours": 182.09,
+      "gameHours": 104.63,
+      "sessions": 79,
+      "avgViewers": 70.4,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 32995.9,
-      "gameMinutes": 15759.8,
-      "totalHours": 549.93,
-      "gameHours": 262.66,
-      "sessions": 201,
-      "avgViewers": 92.7,
+      "totalMinutes": 33090.4,
+      "gameMinutes": 15778.7,
+      "totalHours": 551.51,
+      "gameHours": 262.98,
+      "sessions": 203,
+      "avgViewers": 92.6,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【 SURGETOWN 】#11　ギャング？個人医？絶対に負けないもん🔥【恋沼ミヤ/#surgetown】",
       "buckets": {
         "today": {
-          "totalMinutes": 259.7,
+          "totalMinutes": 278.6,
           "gameMinutes": 0.0,
-          "totalHours": 4.33,
+          "totalHours": 4.64,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 101.2,
+          "avgViewers": 108.5,
           "peakViewers": 428
         },
         "week": {
-          "totalMinutes": 602.2,
+          "totalMinutes": 621.1,
           "gameMinutes": 0.0,
-          "totalHours": 10.04,
+          "totalHours": 10.35,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 91.6,
+          "avgViewers": 95.1,
           "peakViewers": 428
         },
         "month": {
-          "totalMinutes": 2018.1,
+          "totalMinutes": 2037.0,
           "gameMinutes": 0.0,
-          "totalHours": 33.63,
+          "totalHours": 33.95,
           "gameHours": 0.0,
           "sessions": 9,
-          "avgViewers": 69.3,
+          "avgViewers": 70.6,
           "peakViewers": 428
         }
       },
@@ -400,16 +400,589 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 201,
-      "livePeakViewers": 201,
-      "liveAvgViewers": 201.0,
+      "liveViewers": 216,
+      "livePeakViewers": 216,
+      "liveAvgViewers": 208.5,
       "liveSamples": [
         [
           "2026-09-15T09:53:15Z",
           201
+        ],
+        [
+          "2026-09-15T10:12:09Z",
+          216
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=AZX4IzWrgJc"
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
+      "isLive": true,
+      "liveSince": "2026-09-15T10:12:09Z",
+      "liveTitle": "【 #SURGETown ￤#１２ 】ここにきて大金が必要になりました💰【 すずみあ / 赤彩みあ 】",
+      "lastEnd": "2026-09-14T17:30:27Z",
+      "lastTitle": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 150.5,
+          "gameMinutes": 0.0,
+          "totalHours": 2.51,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 196.2,
+          "peakViewers": 950
+        },
+        "week": {
+          "totalMinutes": 567.0,
+          "gameMinutes": 0.0,
+          "totalHours": 9.45,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 315.3,
+          "peakViewers": 994
+        },
+        "month": {
+          "totalMinutes": 1566.0,
+          "gameMinutes": 0.0,
+          "totalHours": 26.1,
+          "gameHours": 0.0,
+          "sessions": 8,
+          "avgViewers": 443.3,
+          "peakViewers": 994
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "A9autuQRrT8",
+          "videoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T17:30:27Z",
+          "minutes": 357.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 950,
+          "avgViewers": 196.2,
+          "samples": [
+            [
+              "2026-09-14T11:32:47Z",
+              21
+            ],
+            [
+              "2026-09-14T11:50:44Z",
+              2
+            ],
+            [
+              "2026-09-14T12:15:45Z",
+              18
+            ],
+            [
+              "2026-09-14T12:39:13Z",
+              18
+            ],
+            [
+              "2026-09-14T12:57:47Z",
+              16
+            ],
+            [
+              "2026-09-14T13:19:25Z",
+              19
+            ],
+            [
+              "2026-09-14T13:36:19Z",
+              19
+            ],
+            [
+              "2026-09-14T13:52:01Z",
+              21
+            ],
+            [
+              "2026-09-14T14:13:08Z",
+              2
+            ],
+            [
+              "2026-09-14T14:34:43Z",
+              15
+            ],
+            [
+              "2026-09-14T14:52:53Z",
+              11
+            ],
+            [
+              "2026-09-14T15:13:31Z",
+              12
+            ],
+            [
+              "2026-09-14T15:34:14Z",
+              11
+            ],
+            [
+              "2026-09-14T15:51:55Z",
+              1
+            ],
+            [
+              "2026-09-14T16:11:48Z",
+              935
+            ],
+            [
+              "2026-09-14T16:32:45Z",
+              950
+            ],
+            [
+              "2026-09-14T16:52:11Z",
+              881
+            ],
+            [
+              "2026-09-14T17:10:13Z",
+              633
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "A9autuQRrT8",
+          "videoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8",
+          "start": "2026-09-14T10:11:57Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 60.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 821,
+          "avgViewers": 293.4,
+          "samples": [
+            [
+              "2026-09-14T10:11:57Z",
+              821
+            ],
+            [
+              "2026-09-14T10:32:14Z",
+              15
+            ],
+            [
+              "2026-09-14T10:50:30Z",
+              2
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "xeM8oMrFE00",
+          "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T17:29:03Z",
+          "minutes": 333.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 994,
+          "avgViewers": 610.0,
+          "samples": [
+            [
+              "2026-09-13T11:55:56Z",
+              975
+            ],
+            [
+              "2026-09-13T12:15:41Z",
+              913
+            ],
+            [
+              "2026-09-13T12:35:20Z",
+              12
+            ],
+            [
+              "2026-09-13T12:50:34Z",
+              11
+            ],
+            [
+              "2026-09-13T13:10:56Z",
+              13
+            ],
+            [
+              "2026-09-13T13:28:36Z",
+              971
+            ],
+            [
+              "2026-09-13T13:41:56Z",
+              12
+            ],
+            [
+              "2026-09-13T13:55:39Z",
+              1
+            ],
+            [
+              "2026-09-13T14:11:43Z",
+              981
+            ],
+            [
+              "2026-09-13T14:29:39Z",
+              919
+            ],
+            [
+              "2026-09-13T14:42:51Z",
+              956
+            ],
+            [
+              "2026-09-13T14:55:46Z",
+              11
+            ],
+            [
+              "2026-09-13T15:12:10Z",
+              994
+            ],
+            [
+              "2026-09-13T15:29:37Z",
+              855
+            ],
+            [
+              "2026-09-13T15:43:07Z",
+              817
+            ],
+            [
+              "2026-09-13T15:56:00Z",
+              774
+            ],
+            [
+              "2026-09-13T16:13:00Z",
+              717
+            ],
+            [
+              "2026-09-13T16:30:52Z",
+              788
+            ],
+            [
+              "2026-09-13T16:47:59Z",
+              742
+            ],
+            [
+              "2026-09-13T16:58:52Z",
+              673
+            ],
+            [
+              "2026-09-13T17:15:21Z",
+              836
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "xeM8oMrFE00",
+          "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
+          "start": "2026-09-13T10:26:31Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 75.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 10.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "rTC_PsVxkc0",
+          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
+          "start": "2026-09-12T16:42:48Z",
+          "end": "2026-09-12T18:13:52Z",
+          "minutes": 91.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 780,
+          "avgViewers": 121.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "rTC_PsVxkc0",
+          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
+          "start": "2026-09-12T10:29:27Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 360.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 966,
+          "avgViewers": 626.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "mst1oJrSYcc",
+          "videoUrl": "https://www.youtube.com/watch?v=mst1oJrSYcc",
+          "start": "2026-09-11T12:58:36Z",
+          "end": "2026-09-11T17:46:15Z",
+          "minutes": 287.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 739,
+          "avgViewers": 573.9,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 648,
+      "livePeakViewers": 648,
+      "liveAvgViewers": 648.0,
+      "liveSamples": [
+        [
+          "2026-09-15T10:12:09Z",
+          648
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=ivuA6dru0tY"
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
+      "isLive": true,
+      "liveSince": "2026-09-15T10:12:09Z",
+      "liveTitle": "〖 APEX 〗 ダイヤを目指していこう💎〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-09-13T10:06:35Z",
+      "lastTitle": "〖 ALGS╎Watch Party 〗 ランク＆途中までYear6Split2みんなで応援会場📢🌟 〖 心白てと / ネオポルテ 〗",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 150.0,
+          "peakViewers": 150
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 150.0,
+          "peakViewers": 150
+        },
+        "month": {
+          "totalMinutes": 1499.2,
+          "gameMinutes": 0.0,
+          "totalHours": 24.99,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 353.2,
+          "peakViewers": 888
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "1jV6cFvQU7k",
+          "videoUrl": "https://www.youtube.com/watch?v=1jV6cFvQU7k",
+          "start": "2026-09-13T04:17:14Z",
+          "end": "2026-09-13T10:06:35Z",
+          "minutes": 349.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS╎Watch Party 〗 ランク＆途中までYear6Split2みんなで応援会場📢🌟 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 888,
+          "avgViewers": 367.6,
+          "samples": [
+            [
+              "2026-09-13T04:17:14Z",
+              180
+            ],
+            [
+              "2026-09-13T04:32:19Z",
+              255
+            ],
+            [
+              "2026-09-13T04:47:42Z",
+              342
+            ],
+            [
+              "2026-09-13T04:58:38Z",
+              309
+            ],
+            [
+              "2026-09-13T05:16:01Z",
+              309
+            ],
+            [
+              "2026-09-13T05:30:16Z",
+              338
+            ],
+            [
+              "2026-09-13T05:46:15Z",
+              305
+            ],
+            [
+              "2026-09-13T05:56:58Z",
+              318
+            ],
+            [
+              "2026-09-13T06:23:16Z",
+              302
+            ],
+            [
+              "2026-09-13T06:44:24Z",
+              272
+            ],
+            [
+              "2026-09-13T06:58:33Z",
+              256
+            ],
+            [
+              "2026-09-13T07:16:37Z",
+              257
+            ],
+            [
+              "2026-09-13T07:31:32Z",
+              286
+            ],
+            [
+              "2026-09-13T07:47:19Z",
+              315
+            ],
+            [
+              "2026-09-13T07:58:05Z",
+              353
+            ],
+            [
+              "2026-09-13T08:17:43Z",
+              412
+            ],
+            [
+              "2026-09-13T08:32:45Z",
+              478
+            ],
+            [
+              "2026-09-13T09:37:54Z",
+              888
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zz0_U5-a5RI",
+          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
+          "start": "2026-09-12T12:33:45Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 236.4,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zz0_U5-a5RI",
+          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
+          "start": "2026-09-12T12:33:45Z",
+          "end": "2026-09-12T17:15:48Z",
+          "minutes": 282.1,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "n3cfBSANUw4",
+          "videoUrl": "https://www.youtube.com/watch?v=n3cfBSANUw4",
+          "start": "2026-09-12T08:21:54Z",
+          "end": "2026-09-12T11:10:51Z",
+          "minutes": 169.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの縦型だよ🎤🎶#shorts #歌枠  〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 310,
+          "avgViewers": 259.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "X-jq2tAO9Dg",
+          "videoUrl": "https://www.youtube.com/watch?v=X-jq2tAO9Dg",
+          "start": "2026-09-11T11:18:27Z",
+          "end": "2026-09-11T14:00:11Z",
+          "minutes": 161.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 R.E.P.O. 〗 ﾊｰﾄｻﾝｸﾞﾗｽﾊﾟﾘﾋﾟｰｽﾞ遊ぶよ～🕶💓.ᐟ.ᐟ⭐︎ / 絲依とい、えと、ゆう。、レイン・パターソン、夕霧レイ〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 113,
+          "avgViewers": 100.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "vxiRbmBAf1s",
+          "videoUrl": "https://www.youtube.com/watch?v=vxiRbmBAf1s",
+          "start": "2026-09-11T04:48:48Z",
+          "end": "2026-09-11T09:49:33Z",
+          "minutes": 300.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 ダイヤいくぞおおおおお〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 796,
+          "avgViewers": 524.9,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 150,
+      "livePeakViewers": 150,
+      "liveAvgViewers": 150.0,
+      "liveSamples": [
+        [
+          "2026-09-15T10:12:09Z",
+          150
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=9kZIDSmIxFc"
     },
     {
       "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
@@ -423,30 +996,30 @@
       "lastTitle": "〚 エタリタ〛本番前の最後のカスタム！日々進化いぇい〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
       "buckets": {
         "today": {
-          "totalMinutes": 16.0,
+          "totalMinutes": 34.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.27,
+          "totalHours": 0.58,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 42.0,
-          "peakViewers": 48
+          "avgViewers": 45.7,
+          "peakViewers": 52
         },
         "week": {
-          "totalMinutes": 199.8,
+          "totalMinutes": 218.7,
           "gameMinutes": 183.8,
-          "totalHours": 3.33,
+          "totalHours": 3.65,
           "gameHours": 3.06,
           "sessions": 3,
-          "avgViewers": 29.3,
-          "peakViewers": 48
+          "avgViewers": 31.0,
+          "peakViewers": 52
         },
         "month": {
-          "totalMinutes": 683.7,
+          "totalMinutes": 702.6,
           "gameMinutes": 367.2,
-          "totalHours": 11.39,
+          "totalHours": 11.71,
           "gameHours": 6.12,
           "sessions": 7,
-          "avgViewers": 39.2,
+          "avgViewers": 39.4,
           "peakViewers": 67
         }
       },
@@ -605,9 +1178,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 48,
-      "livePeakViewers": 48,
-      "liveAvgViewers": 42.0,
+      "liveViewers": 52,
+      "livePeakViewers": 52,
+      "liveAvgViewers": 45.7,
       "liveSamples": [
         [
           "2026-09-15T09:37:14Z",
@@ -616,6 +1189,10 @@
         [
           "2026-09-15T09:53:15Z",
           48
+        ],
+        [
+          "2026-09-15T10:12:09Z",
+          52
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=XQGO8FT6Q3U"
@@ -632,28 +1209,28 @@
       "lastTitle": "김머만님의 실시간 스트림 이터널 리턴",
       "buckets": {
         "today": {
-          "totalMinutes": 209.0,
-          "gameMinutes": 209.0,
-          "totalHours": 3.48,
-          "gameHours": 3.48,
+          "totalMinutes": 227.9,
+          "gameMinutes": 227.9,
+          "totalHours": 3.8,
+          "gameHours": 3.8,
           "sessions": 2,
           "avgViewers": 2.5,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 555.7,
-          "gameMinutes": 555.7,
-          "totalHours": 9.26,
-          "gameHours": 9.26,
+          "totalMinutes": 574.6,
+          "gameMinutes": 574.6,
+          "totalHours": 9.58,
+          "gameHours": 9.58,
           "sessions": 3,
           "avgViewers": 2.1,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 555.7,
-          "gameMinutes": 555.7,
-          "totalHours": 9.26,
-          "gameHours": 9.26,
+          "totalMinutes": 574.6,
+          "gameMinutes": 574.6,
+          "totalHours": 9.58,
+          "gameHours": 9.58,
           "sessions": 3,
           "avgViewers": 2.1,
           "peakViewers": 5
@@ -783,7 +1360,7 @@
       ],
       "liveViewers": 2,
       "livePeakViewers": 5,
-      "liveAvgViewers": 2.9,
+      "liveAvgViewers": 2.8,
       "liveSamples": [
         [
           "2026-09-15T07:52:58Z",
@@ -812,6 +1389,10 @@
         [
           "2026-09-15T09:53:15Z",
           2
+        ],
+        [
+          "2026-09-15T10:12:09Z",
+          2
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Nr2g2Dymi5Y"
@@ -828,30 +1409,30 @@
       "lastTitle": "2부 이터널리턴 w.눈가루,피즈커",
       "buckets": {
         "today": {
-          "totalMinutes": 467.1,
+          "totalMinutes": 486.0,
           "gameMinutes": 273.0,
-          "totalHours": 7.78,
+          "totalHours": 8.1,
           "gameHours": 4.55,
           "sessions": 3,
-          "avgViewers": 56.9,
+          "avgViewers": 57.4,
           "peakViewers": 83
         },
         "week": {
-          "totalMinutes": 474.2,
+          "totalMinutes": 493.1,
           "gameMinutes": 280.1,
-          "totalHours": 7.9,
+          "totalHours": 8.22,
           "gameHours": 4.67,
           "sessions": 3,
-          "avgViewers": 56.8,
+          "avgViewers": 57.3,
           "peakViewers": 83
         },
         "month": {
-          "totalMinutes": 474.2,
+          "totalMinutes": 493.1,
           "gameMinutes": 280.1,
-          "totalHours": 7.9,
+          "totalHours": 8.22,
           "gameHours": 4.67,
           "sessions": 3,
-          "avgViewers": 56.8,
+          "avgViewers": 57.3,
           "peakViewers": 83
         }
       },
@@ -953,9 +1534,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 71,
+      "liveViewers": 69,
       "livePeakViewers": 83,
-      "liveAvgViewers": 70.0,
+      "liveAvgViewers": 69.9,
       "liveSamples": [
         [
           "2026-09-15T06:39:12Z",
@@ -1000,6 +1581,10 @@
         [
           "2026-09-15T09:53:15Z",
           71
+        ],
+        [
+          "2026-09-15T10:12:09Z",
+          69
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=mwZlbtWEULg"
@@ -1016,27 +1601,27 @@
       "lastTitle": "이터널리턴 시참환영 (초보도 환영)",
       "buckets": {
         "today": {
-          "totalMinutes": 99.6,
+          "totalMinutes": 118.5,
           "gameMinutes": 0.0,
-          "totalHours": 1.66,
+          "totalHours": 1.97,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "week": {
-          "totalMinutes": 99.6,
+          "totalMinutes": 118.5,
           "gameMinutes": 0.0,
-          "totalHours": 1.66,
+          "totalHours": 1.97,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 209.4,
+          "totalMinutes": 228.3,
           "gameMinutes": 109.9,
-          "totalHours": 3.49,
+          "totalHours": 3.81,
           "gameHours": 1.83,
           "sessions": 2,
           "avgViewers": 1.0,
@@ -1521,338 +2106,6 @@
       ]
     },
     {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-14T17:30:27Z",
-      "lastTitle": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 150.4,
-          "gameMinutes": 0.0,
-          "totalHours": 2.51,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 196.2,
-          "peakViewers": 950
-        },
-        "week": {
-          "totalMinutes": 567.0,
-          "gameMinutes": 0.0,
-          "totalHours": 9.45,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 315.3,
-          "peakViewers": 994
-        },
-        "month": {
-          "totalMinutes": 1566.0,
-          "gameMinutes": 0.0,
-          "totalHours": 26.1,
-          "gameHours": 0.0,
-          "sessions": 7,
-          "avgViewers": 443.3,
-          "peakViewers": 994
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "A9autuQRrT8",
-          "videoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T17:30:27Z",
-          "minutes": 357.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 950,
-          "avgViewers": 196.2,
-          "samples": [
-            [
-              "2026-09-14T11:32:47Z",
-              21
-            ],
-            [
-              "2026-09-14T11:50:44Z",
-              2
-            ],
-            [
-              "2026-09-14T12:15:45Z",
-              18
-            ],
-            [
-              "2026-09-14T12:39:13Z",
-              18
-            ],
-            [
-              "2026-09-14T12:57:47Z",
-              16
-            ],
-            [
-              "2026-09-14T13:19:25Z",
-              19
-            ],
-            [
-              "2026-09-14T13:36:19Z",
-              19
-            ],
-            [
-              "2026-09-14T13:52:01Z",
-              21
-            ],
-            [
-              "2026-09-14T14:13:08Z",
-              2
-            ],
-            [
-              "2026-09-14T14:34:43Z",
-              15
-            ],
-            [
-              "2026-09-14T14:52:53Z",
-              11
-            ],
-            [
-              "2026-09-14T15:13:31Z",
-              12
-            ],
-            [
-              "2026-09-14T15:34:14Z",
-              11
-            ],
-            [
-              "2026-09-14T15:51:55Z",
-              1
-            ],
-            [
-              "2026-09-14T16:11:48Z",
-              935
-            ],
-            [
-              "2026-09-14T16:32:45Z",
-              950
-            ],
-            [
-              "2026-09-14T16:52:11Z",
-              881
-            ],
-            [
-              "2026-09-14T17:10:13Z",
-              633
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "A9autuQRrT8",
-          "videoUrl": "https://www.youtube.com/watch?v=A9autuQRrT8",
-          "start": "2026-09-14T10:11:57Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 60.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#１１ 】たくさん敵を倒させてくださいドパ【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 821,
-          "avgViewers": 293.4,
-          "samples": [
-            [
-              "2026-09-14T10:11:57Z",
-              821
-            ],
-            [
-              "2026-09-14T10:32:14Z",
-              15
-            ],
-            [
-              "2026-09-14T10:50:30Z",
-              2
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "xeM8oMrFE00",
-          "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T17:29:03Z",
-          "minutes": 333.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 994,
-          "avgViewers": 610.0,
-          "samples": [
-            [
-              "2026-09-13T11:55:56Z",
-              975
-            ],
-            [
-              "2026-09-13T12:15:41Z",
-              913
-            ],
-            [
-              "2026-09-13T12:35:20Z",
-              12
-            ],
-            [
-              "2026-09-13T12:50:34Z",
-              11
-            ],
-            [
-              "2026-09-13T13:10:56Z",
-              13
-            ],
-            [
-              "2026-09-13T13:28:36Z",
-              971
-            ],
-            [
-              "2026-09-13T13:41:56Z",
-              12
-            ],
-            [
-              "2026-09-13T13:55:39Z",
-              1
-            ],
-            [
-              "2026-09-13T14:11:43Z",
-              981
-            ],
-            [
-              "2026-09-13T14:29:39Z",
-              919
-            ],
-            [
-              "2026-09-13T14:42:51Z",
-              956
-            ],
-            [
-              "2026-09-13T14:55:46Z",
-              11
-            ],
-            [
-              "2026-09-13T15:12:10Z",
-              994
-            ],
-            [
-              "2026-09-13T15:29:37Z",
-              855
-            ],
-            [
-              "2026-09-13T15:43:07Z",
-              817
-            ],
-            [
-              "2026-09-13T15:56:00Z",
-              774
-            ],
-            [
-              "2026-09-13T16:13:00Z",
-              717
-            ],
-            [
-              "2026-09-13T16:30:52Z",
-              788
-            ],
-            [
-              "2026-09-13T16:47:59Z",
-              742
-            ],
-            [
-              "2026-09-13T16:58:52Z",
-              673
-            ],
-            [
-              "2026-09-13T17:15:21Z",
-              836
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "xeM8oMrFE00",
-          "videoUrl": "https://www.youtube.com/watch?v=xeM8oMrFE00",
-          "start": "2026-09-13T10:26:31Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 75.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#１０ 】今日も新しいことができるはず【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 10.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "rTC_PsVxkc0",
-          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
-          "start": "2026-09-12T16:42:48Z",
-          "end": "2026-09-12T18:13:52Z",
-          "minutes": 91.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 780,
-          "avgViewers": 121.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "rTC_PsVxkc0",
-          "videoUrl": "https://www.youtube.com/watch?v=rTC_PsVxkc0",
-          "start": "2026-09-12T10:29:27Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 360.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤#９ 】犯罪しようぜ～～～～～～～～～～～！！！W【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 966,
-          "avgViewers": 626.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "mst1oJrSYcc",
-          "videoUrl": "https://www.youtube.com/watch?v=mst1oJrSYcc",
-          "start": "2026-09-11T12:58:36Z",
-          "end": "2026-09-11T17:46:15Z",
-          "minutes": 287.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGETown ￤＃８ 】ぶるどらご～～～～～ん～！！！🩵【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 739,
-          "avgViewers": 573.9,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
       "name": "덤덤",
       "registered": true,
@@ -1976,223 +2229,6 @@
           "avgViewers": null,
           "samples": [],
           "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-13T10:06:35Z",
-      "lastTitle": "〖 ALGS╎Watch Party 〗 ランク＆途中までYear6Split2みんなで応援会場📢🌟 〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 1499.2,
-          "gameMinutes": 0.0,
-          "totalHours": 24.99,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 353.2,
-          "peakViewers": 888
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "1jV6cFvQU7k",
-          "videoUrl": "https://www.youtube.com/watch?v=1jV6cFvQU7k",
-          "start": "2026-09-13T04:17:14Z",
-          "end": "2026-09-13T10:06:35Z",
-          "minutes": 349.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS╎Watch Party 〗 ランク＆途中までYear6Split2みんなで応援会場📢🌟 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 888,
-          "avgViewers": 367.6,
-          "samples": [
-            [
-              "2026-09-13T04:17:14Z",
-              180
-            ],
-            [
-              "2026-09-13T04:32:19Z",
-              255
-            ],
-            [
-              "2026-09-13T04:47:42Z",
-              342
-            ],
-            [
-              "2026-09-13T04:58:38Z",
-              309
-            ],
-            [
-              "2026-09-13T05:16:01Z",
-              309
-            ],
-            [
-              "2026-09-13T05:30:16Z",
-              338
-            ],
-            [
-              "2026-09-13T05:46:15Z",
-              305
-            ],
-            [
-              "2026-09-13T05:56:58Z",
-              318
-            ],
-            [
-              "2026-09-13T06:23:16Z",
-              302
-            ],
-            [
-              "2026-09-13T06:44:24Z",
-              272
-            ],
-            [
-              "2026-09-13T06:58:33Z",
-              256
-            ],
-            [
-              "2026-09-13T07:16:37Z",
-              257
-            ],
-            [
-              "2026-09-13T07:31:32Z",
-              286
-            ],
-            [
-              "2026-09-13T07:47:19Z",
-              315
-            ],
-            [
-              "2026-09-13T07:58:05Z",
-              353
-            ],
-            [
-              "2026-09-13T08:17:43Z",
-              412
-            ],
-            [
-              "2026-09-13T08:32:45Z",
-              478
-            ],
-            [
-              "2026-09-13T09:37:54Z",
-              888
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zz0_U5-a5RI",
-          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
-          "start": "2026-09-12T12:33:45Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 236.4,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zz0_U5-a5RI",
-          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
-          "start": "2026-09-12T12:33:45Z",
-          "end": "2026-09-12T17:15:48Z",
-          "minutes": 282.1,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "n3cfBSANUw4",
-          "videoUrl": "https://www.youtube.com/watch?v=n3cfBSANUw4",
-          "start": "2026-09-12T08:21:54Z",
-          "end": "2026-09-12T11:10:51Z",
-          "minutes": 169.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの縦型だよ🎤🎶#shorts #歌枠  〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 310,
-          "avgViewers": 259.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "X-jq2tAO9Dg",
-          "videoUrl": "https://www.youtube.com/watch?v=X-jq2tAO9Dg",
-          "start": "2026-09-11T11:18:27Z",
-          "end": "2026-09-11T14:00:11Z",
-          "minutes": 161.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 R.E.P.O. 〗 ﾊｰﾄｻﾝｸﾞﾗｽﾊﾟﾘﾋﾟｰｽﾞ遊ぶよ～🕶💓.ᐟ.ᐟ⭐︎ / 絲依とい、えと、ゆう。、レイン・パターソン、夕霧レイ〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 113,
-          "avgViewers": 100.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "vxiRbmBAf1s",
-          "videoUrl": "https://www.youtube.com/watch?v=vxiRbmBAf1s",
-          "start": "2026-09-11T04:48:48Z",
-          "end": "2026-09-11T09:49:33Z",
-          "minutes": 300.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 ダイヤいくぞおおおおお〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 796,
-          "avgViewers": 524.9,
-          "samples": [],
-          "isTargetGame": false
         }
       ]
     },
