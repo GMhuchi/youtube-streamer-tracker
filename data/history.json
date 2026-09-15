@@ -2,25 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCvtfuV9mBAw9znLzICiqpOw": {
-      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-      "name": "상자곰",
-      "videoId": "4VBAIJH_3ys",
-      "start": "2026-09-15T03:12:52Z",
-      "startSource": "observed",
-      "title": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-15T03:12:52Z",
-      "lastSeenAt": "2026-09-15T04:51:48Z",
-      "samples": [
-        [
-          "2026-09-15T04:12:25Z",
-          1
-        ]
-      ]
-    },
     "UCAS1tKQTTPVw4-TFnKTzvnw": {
       "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
       "name": "水上蒼太",
@@ -32,7 +13,7 @@
       "peakViewers": 34,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-15T03:51:13Z",
-      "lastSeenAt": "2026-09-15T04:51:48Z",
+      "lastSeenAt": "2026-09-15T05:11:32Z",
       "samples": [
         [
           "2026-09-15T03:51:13Z",
@@ -49,6 +30,10 @@
         [
           "2026-09-15T04:51:48Z",
           30
+        ],
+        [
+          "2026-09-15T05:11:32Z",
+          27
         ]
       ]
     },
@@ -63,7 +48,7 @@
       "peakViewers": 77,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-15T04:12:25Z",
-      "lastSeenAt": "2026-09-15T04:51:48Z",
+      "lastSeenAt": "2026-09-15T05:11:32Z",
       "samples": [
         [
           "2026-09-15T04:12:25Z",
@@ -76,6 +61,10 @@
         [
           "2026-09-15T04:51:48Z",
           77
+        ],
+        [
+          "2026-09-15T05:11:32Z",
+          76
         ]
       ]
     },
@@ -90,7 +79,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-15T04:12:25Z",
-      "lastSeenAt": "2026-09-15T04:51:48Z",
+      "lastSeenAt": "2026-09-15T05:11:32Z",
       "samples": []
     }
   },
@@ -9832,6 +9821,28 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "videoId": "4VBAIJH_3ys",
+      "videoUrl": "https://www.youtube.com/watch?v=4VBAIJH_3ys",
+      "start": "2026-09-15T03:12:52Z",
+      "end": "2026-09-15T05:11:32Z",
+      "minutes": 118.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-15T04:12:25Z",
+          1
+        ]
+      ],
+      "isTargetGame": true
     }
   ]
 }
