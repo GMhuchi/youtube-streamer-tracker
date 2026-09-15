@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:51:51Z",
+  "updatedAt": "2026-09-15T03:12:52Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 1162.2,
       "totalHours": 39.61,
       "gameHours": 19.37,
-      "sessions": 19,
+      "sessions": 20,
       "avgViewers": 105.0,
       "peakViewers": 950
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 5662.0,
       "totalHours": 161.37,
       "gameHours": 94.37,
-      "sessions": 68,
+      "sessions": 69,
       "avgViewers": 74.1,
       "peakViewers": 994
     },
@@ -38,12 +38,58 @@
       "gameMinutes": 15163.1,
       "totalHours": 530.78,
       "gameHours": 252.72,
-      "sessions": 192,
+      "sessions": 193,
       "avgViewers": 94.4,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCvtfuV9mBAw9znLzICiqpOw",
+      "isLive": true,
+      "liveSince": "2026-09-15T03:12:52Z",
+      "liveTitle": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
+      "lastEnd": null,
+      "lastTitle": null,
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=4VBAIJH_3ys"
+    },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
