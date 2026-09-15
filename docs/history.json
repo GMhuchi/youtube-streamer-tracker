@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T19:56:05Z",
+  "updatedAt": "2026-09-15T20:13:56Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,274 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2379.9,
-      "gameMinutes": 1050.7,
-      "totalHours": 39.66,
-      "gameHours": 17.51,
+      "totalMinutes": 2397.7,
+      "gameMinutes": 1068.5,
+      "totalHours": 39.96,
+      "gameHours": 17.81,
       "sessions": 19,
-      "avgViewers": 64.2,
+      "avgViewers": 63.7,
       "peakViewers": 960
     },
     "week": {
-      "totalMinutes": 17692.0,
-      "gameMinutes": 9011.1,
-      "totalHours": 294.87,
-      "gameHours": 150.18,
+      "totalMinutes": 17709.8,
+      "gameMinutes": 9028.9,
+      "totalHours": 295.16,
+      "gameHours": 150.48,
       "sessions": 99,
       "avgViewers": 71.6,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 39857.1,
-      "gameMinutes": 18512.1,
-      "totalHours": 664.29,
-      "gameHours": 308.54,
+      "totalMinutes": 39875.0,
+      "gameMinutes": 18530.0,
+      "totalHours": 664.58,
+      "gameHours": 308.83,
       "sessions": 223,
-      "avgViewers": 89.1,
+      "avgViewers": 89.0,
       "peakViewers": 994
     }
   },
   "channels": [
-    {
-      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-      "name": "몰라",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCcFkDV3IwGz-bUuLZFUu2fg",
-      "isLive": true,
-      "liveSince": "2026-09-15T12:37:32Z",
-      "liveTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-      "lastEnd": "2026-09-14T19:19:02Z",
-      "lastTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-      "buckets": {
-        "today": {
-          "totalMinutes": 296.1,
-          "gameMinutes": 296.1,
-          "totalHours": 4.93,
-          "gameHours": 4.93,
-          "sessions": 1,
-          "avgViewers": 1.8,
-          "peakViewers": 3
-        },
-        "week": {
-          "totalMinutes": 689.9,
-          "gameMinutes": 689.9,
-          "totalHours": 11.5,
-          "gameHours": 11.5,
-          "sessions": 3,
-          "avgViewers": 1.7,
-          "peakViewers": 4
-        },
-        "month": {
-          "totalMinutes": 689.9,
-          "gameMinutes": 689.9,
-          "totalHours": 11.5,
-          "gameHours": 11.5,
-          "sessions": 3,
-          "avgViewers": 1.7,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "jQN2Ecv7iTg",
-          "videoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg",
-          "start": "2026-09-14T18:59:38Z",
-          "end": "2026-09-14T19:19:02Z",
-          "minutes": 19.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-14T18:59:38Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "jQN2Ecv7iTg",
-          "videoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg",
-          "start": "2026-09-14T14:52:53Z",
-          "end": "2026-09-14T18:44:52Z",
-          "minutes": 232.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 1.5,
-          "samples": [
-            [
-              "2026-09-14T14:52:53Z",
-              1
-            ],
-            [
-              "2026-09-14T15:13:31Z",
-              1
-            ],
-            [
-              "2026-09-14T15:34:14Z",
-              4
-            ],
-            [
-              "2026-09-14T15:51:55Z",
-              1
-            ],
-            [
-              "2026-09-14T16:11:48Z",
-              2
-            ],
-            [
-              "2026-09-14T16:32:45Z",
-              1
-            ],
-            [
-              "2026-09-14T16:52:11Z",
-              1
-            ],
-            [
-              "2026-09-14T17:10:13Z",
-              1
-            ],
-            [
-              "2026-09-14T17:30:27Z",
-              3
-            ],
-            [
-              "2026-09-14T17:49:26Z",
-              1
-            ],
-            [
-              "2026-09-14T17:59:57Z",
-              1
-            ],
-            [
-              "2026-09-14T18:21:55Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 2,
-      "livePeakViewers": 3,
-      "liveAvgViewers": 1.8,
-      "liveSamples": [
-        [
-          "2026-09-15T12:37:32Z",
-          2
-        ],
-        [
-          "2026-09-15T12:54:18Z",
-          1
-        ],
-        [
-          "2026-09-15T13:12:22Z",
-          1
-        ],
-        [
-          "2026-09-15T13:32:46Z",
-          2
-        ],
-        [
-          "2026-09-15T13:50:45Z",
-          1
-        ],
-        [
-          "2026-09-15T14:12:12Z",
-          2
-        ],
-        [
-          "2026-09-15T14:31:50Z",
-          1
-        ],
-        [
-          "2026-09-15T14:50:33Z",
-          3
-        ],
-        [
-          "2026-09-15T15:11:13Z",
-          3
-        ],
-        [
-          "2026-09-15T15:31:02Z",
-          1
-        ],
-        [
-          "2026-09-15T15:49:51Z",
-          1
-        ],
-        [
-          "2026-09-15T16:00:25Z",
-          1
-        ],
-        [
-          "2026-09-15T16:23:14Z",
-          1
-        ],
-        [
-          "2026-09-15T16:41:37Z",
-          2
-        ],
-        [
-          "2026-09-15T16:57:21Z",
-          2
-        ],
-        [
-          "2026-09-15T17:14:11Z",
-          3
-        ],
-        [
-          "2026-09-15T17:29:18Z",
-          2
-        ],
-        [
-          "2026-09-15T17:43:48Z",
-          2
-        ],
-        [
-          "2026-09-15T17:56:15Z",
-          2
-        ],
-        [
-          "2026-09-15T18:14:46Z",
-          2
-        ],
-        [
-          "2026-09-15T18:33:09Z",
-          2
-        ],
-        [
-          "2026-09-15T18:51:04Z",
-          2
-        ],
-        [
-          "2026-09-15T19:10:13Z",
-          2
-        ],
-        [
-          "2026-09-15T19:29:51Z",
-          3
-        ],
-        [
-          "2026-09-15T19:44:11Z",
-          2
-        ],
-        [
-          "2026-09-15T19:56:05Z",
-          2
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=S7FczCXp9KA"
-    },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -6467,6 +6227,258 @@
       ]
     },
     {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCcFkDV3IwGz-bUuLZFUu2fg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-15T20:13:56Z",
+      "lastTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+      "buckets": {
+        "today": {
+          "totalMinutes": 313.9,
+          "gameMinutes": 313.9,
+          "totalHours": 5.23,
+          "gameHours": 5.23,
+          "sessions": 1,
+          "avgViewers": 1.8,
+          "peakViewers": 3
+        },
+        "week": {
+          "totalMinutes": 707.8,
+          "gameMinutes": 707.8,
+          "totalHours": 11.8,
+          "gameHours": 11.8,
+          "sessions": 3,
+          "avgViewers": 1.7,
+          "peakViewers": 4
+        },
+        "month": {
+          "totalMinutes": 707.8,
+          "gameMinutes": 707.8,
+          "totalHours": 11.8,
+          "gameHours": 11.8,
+          "sessions": 3,
+          "avgViewers": 1.7,
+          "peakViewers": 4
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "S7FczCXp9KA",
+          "videoUrl": "https://www.youtube.com/watch?v=S7FczCXp9KA",
+          "start": "2026-09-15T12:37:32Z",
+          "end": "2026-09-15T20:13:56Z",
+          "minutes": 456.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.8,
+          "samples": [
+            [
+              "2026-09-15T12:37:32Z",
+              2
+            ],
+            [
+              "2026-09-15T12:54:18Z",
+              1
+            ],
+            [
+              "2026-09-15T13:12:22Z",
+              1
+            ],
+            [
+              "2026-09-15T13:32:46Z",
+              2
+            ],
+            [
+              "2026-09-15T13:50:45Z",
+              1
+            ],
+            [
+              "2026-09-15T14:12:12Z",
+              2
+            ],
+            [
+              "2026-09-15T14:31:50Z",
+              1
+            ],
+            [
+              "2026-09-15T14:50:33Z",
+              3
+            ],
+            [
+              "2026-09-15T15:11:13Z",
+              3
+            ],
+            [
+              "2026-09-15T15:31:02Z",
+              1
+            ],
+            [
+              "2026-09-15T15:49:51Z",
+              1
+            ],
+            [
+              "2026-09-15T16:00:25Z",
+              1
+            ],
+            [
+              "2026-09-15T16:23:14Z",
+              1
+            ],
+            [
+              "2026-09-15T16:41:37Z",
+              2
+            ],
+            [
+              "2026-09-15T16:57:21Z",
+              2
+            ],
+            [
+              "2026-09-15T17:14:11Z",
+              3
+            ],
+            [
+              "2026-09-15T17:29:18Z",
+              2
+            ],
+            [
+              "2026-09-15T17:43:48Z",
+              2
+            ],
+            [
+              "2026-09-15T17:56:15Z",
+              2
+            ],
+            [
+              "2026-09-15T18:14:46Z",
+              2
+            ],
+            [
+              "2026-09-15T18:33:09Z",
+              2
+            ],
+            [
+              "2026-09-15T18:51:04Z",
+              2
+            ],
+            [
+              "2026-09-15T19:10:13Z",
+              2
+            ],
+            [
+              "2026-09-15T19:29:51Z",
+              3
+            ],
+            [
+              "2026-09-15T19:44:11Z",
+              2
+            ],
+            [
+              "2026-09-15T19:56:05Z",
+              2
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "jQN2Ecv7iTg",
+          "videoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg",
+          "start": "2026-09-14T18:59:38Z",
+          "end": "2026-09-14T19:19:02Z",
+          "minutes": 19.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-14T18:59:38Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "jQN2Ecv7iTg",
+          "videoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg",
+          "start": "2026-09-14T14:52:53Z",
+          "end": "2026-09-14T18:44:52Z",
+          "minutes": 232.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 1.5,
+          "samples": [
+            [
+              "2026-09-14T14:52:53Z",
+              1
+            ],
+            [
+              "2026-09-14T15:13:31Z",
+              1
+            ],
+            [
+              "2026-09-14T15:34:14Z",
+              4
+            ],
+            [
+              "2026-09-14T15:51:55Z",
+              1
+            ],
+            [
+              "2026-09-14T16:11:48Z",
+              2
+            ],
+            [
+              "2026-09-14T16:32:45Z",
+              1
+            ],
+            [
+              "2026-09-14T16:52:11Z",
+              1
+            ],
+            [
+              "2026-09-14T17:10:13Z",
+              1
+            ],
+            [
+              "2026-09-14T17:30:27Z",
+              3
+            ],
+            [
+              "2026-09-14T17:49:26Z",
+              1
+            ],
+            [
+              "2026-09-14T17:59:57Z",
+              1
+            ],
+            [
+              "2026-09-14T18:21:55Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
       "name": "七乃羽すず",
       "registered": true,
@@ -10375,6 +10387,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "videoId": "S7FczCXp9KA",
+      "videoUrl": "https://www.youtube.com/watch?v=S7FczCXp9KA",
+      "start": "2026-09-15T12:37:32Z",
+      "end": "2026-09-15T20:13:56Z",
+      "minutes": 456.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+      "game": null,
+      "peakViewers": 3,
+      "avgViewers": 1.8,
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
       "name": "白峯梅chドールオーナーVtuber",
       "videoId": "OGIFJHJ_O1U",
@@ -11189,22 +11217,6 @@
       "peakViewers": 3,
       "avgViewers": 1.9,
       "isTargetGame": false
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "Qh73GHjE2OA",
-      "videoUrl": "https://www.youtube.com/watch?v=Qh73GHjE2OA",
-      "start": "2026-09-14T11:32:47Z",
-      "end": "2026-09-14T13:52:01Z",
-      "minutes": 139.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【Eternal Return】大会前、最後！ #あほぐみ スクリム！【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 102,
-      "avgViewers": 85.1,
-      "isTargetGame": true
     }
   ]
 }
