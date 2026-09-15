@@ -2,45 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "vlkMOnAse78",
-      "start": "2026-09-15T04:12:25Z",
-      "startSource": "observed",
-      "title": "ちょっと一息お昼雑談 #愁子",
-      "game": null,
-      "peakViewers": 78,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-15T04:12:25Z",
-      "lastSeenAt": "2026-09-15T05:50:56Z",
-      "samples": [
-        [
-          "2026-09-15T04:12:25Z",
-          43
-        ],
-        [
-          "2026-09-15T04:33:32Z",
-          65
-        ],
-        [
-          "2026-09-15T04:51:48Z",
-          77
-        ],
-        [
-          "2026-09-15T05:11:32Z",
-          76
-        ],
-        [
-          "2026-09-15T05:32:26Z",
-          78
-        ],
-        [
-          "2026-09-15T05:50:56Z",
-          78
-        ]
-      ]
-    },
     "UCLfO5ulnws_Z4VttSbwhdvQ": {
       "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
       "name": "덤덤",
@@ -52,7 +13,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-15T04:12:25Z",
-      "lastSeenAt": "2026-09-15T05:50:56Z",
+      "lastSeenAt": "2026-09-15T06:15:09Z",
       "samples": []
     }
   },
@@ -9855,6 +9816,48 @@
         [
           "2026-09-15T05:32:26Z",
           18
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "vlkMOnAse78",
+      "videoUrl": "https://www.youtube.com/watch?v=vlkMOnAse78",
+      "start": "2026-09-15T04:12:25Z",
+      "end": "2026-09-15T06:15:09Z",
+      "minutes": 122.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "ちょっと一息お昼雑談 #愁子",
+      "game": null,
+      "peakViewers": 78,
+      "avgViewers": 69.2,
+      "samples": [
+        [
+          "2026-09-15T04:12:25Z",
+          43
+        ],
+        [
+          "2026-09-15T04:33:32Z",
+          65
+        ],
+        [
+          "2026-09-15T04:51:48Z",
+          77
+        ],
+        [
+          "2026-09-15T05:11:32Z",
+          76
+        ],
+        [
+          "2026-09-15T05:32:26Z",
+          78
+        ],
+        [
+          "2026-09-15T05:50:56Z",
+          78
         ]
       ],
       "isTargetGame": false
