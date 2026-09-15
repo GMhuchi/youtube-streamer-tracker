@@ -2,45 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "OkLo7IHr5eE",
-      "start": "2026-09-15T03:51:13Z",
-      "startSource": "observed",
-      "title": "【雑談】初見さん大歓迎昼雑談【水上蒼太/ゆにれいど！】#shorts",
-      "game": null,
-      "peakViewers": 34,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-15T03:51:13Z",
-      "lastSeenAt": "2026-09-15T05:32:26Z",
-      "samples": [
-        [
-          "2026-09-15T03:51:13Z",
-          22
-        ],
-        [
-          "2026-09-15T04:12:25Z",
-          28
-        ],
-        [
-          "2026-09-15T04:33:32Z",
-          34
-        ],
-        [
-          "2026-09-15T04:51:48Z",
-          30
-        ],
-        [
-          "2026-09-15T05:11:32Z",
-          27
-        ],
-        [
-          "2026-09-15T05:32:26Z",
-          18
-        ]
-      ]
-    },
     "UCb8nGgTFAL6B5zOm060Ff3Q": {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
       "name": "愁子",
@@ -52,7 +13,7 @@
       "peakViewers": 78,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-15T04:12:25Z",
-      "lastSeenAt": "2026-09-15T05:32:26Z",
+      "lastSeenAt": "2026-09-15T05:50:56Z",
       "samples": [
         [
           "2026-09-15T04:12:25Z",
@@ -73,6 +34,10 @@
         [
           "2026-09-15T05:32:26Z",
           78
+        ],
+        [
+          "2026-09-15T05:50:56Z",
+          78
         ]
       ]
     },
@@ -87,7 +52,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-15T04:12:25Z",
-      "lastSeenAt": "2026-09-15T05:32:26Z",
+      "lastSeenAt": "2026-09-15T05:50:56Z",
       "samples": []
     }
   },
@@ -9851,6 +9816,48 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "OkLo7IHr5eE",
+      "videoUrl": "https://www.youtube.com/watch?v=OkLo7IHr5eE",
+      "start": "2026-09-15T03:51:13Z",
+      "end": "2026-09-15T05:50:56Z",
+      "minutes": 119.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】初見さん大歓迎昼雑談【水上蒼太/ゆにれいど！】#shorts",
+      "game": null,
+      "peakViewers": 34,
+      "avgViewers": 26.3,
+      "samples": [
+        [
+          "2026-09-15T03:51:13Z",
+          22
+        ],
+        [
+          "2026-09-15T04:12:25Z",
+          28
+        ],
+        [
+          "2026-09-15T04:33:32Z",
+          34
+        ],
+        [
+          "2026-09-15T04:51:48Z",
+          30
+        ],
+        [
+          "2026-09-15T05:11:32Z",
+          27
+        ],
+        [
+          "2026-09-15T05:32:26Z",
+          18
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }
