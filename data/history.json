@@ -2,20 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCLfO5ulnws_Z4VttSbwhdvQ": {
-      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-      "name": "덤덤",
-      "videoId": "tZaO4bin-Mk",
-      "start": "2026-09-15T04:12:25Z",
-      "startSource": "observed",
-      "title": "이터널 리턴)집 날아간 첫째 돼지",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-15T04:12:25Z",
-      "lastSeenAt": "2026-09-15T09:37:14Z",
-      "samples": []
-    },
     "UClOhr2WzxqzuyjWWQgPLGIg": {
       "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
       "name": "냥슬이 또 게임해요",
@@ -27,7 +13,7 @@
       "peakViewers": 83,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-15T06:39:12Z",
-      "lastSeenAt": "2026-09-15T09:37:14Z",
+      "lastSeenAt": "2026-09-15T09:53:15Z",
       "samples": [
         [
           "2026-09-15T06:39:12Z",
@@ -68,6 +54,10 @@
         [
           "2026-09-15T09:37:14Z",
           74
+        ],
+        [
+          "2026-09-15T09:53:15Z",
+          71
         ]
       ]
     },
@@ -82,7 +72,7 @@
       "peakViewers": 5,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-15T07:36:04Z",
-      "lastSeenAt": "2026-09-15T09:37:14Z",
+      "lastSeenAt": "2026-09-15T09:53:15Z",
       "samples": [
         [
           "2026-09-15T07:52:58Z",
@@ -107,6 +97,10 @@
         [
           "2026-09-15T09:37:14Z",
           2
+        ],
+        [
+          "2026-09-15T09:53:15Z",
+          2
         ]
       ]
     },
@@ -121,7 +115,7 @@
       "peakViewers": 1,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-15T08:13:41Z",
-      "lastSeenAt": "2026-09-15T09:37:14Z",
+      "lastSeenAt": "2026-09-15T09:53:15Z",
       "samples": [
         [
           "2026-09-15T08:13:41Z",
@@ -137,14 +131,37 @@
       "startSource": "observed",
       "title": "〚 歌枠┊︎KARAOKE〛今日であれが最終日らしい！気ままに歌雑をするぞっ！ﾜｰ!ﾜｰ!ﾜｰ!〚 甘成じゅい/ゆにれいど！ 〛#vtuber",
       "game": null,
-      "peakViewers": 36,
+      "peakViewers": 48,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-15T09:37:14Z",
-      "lastSeenAt": "2026-09-15T09:37:14Z",
+      "lastSeenAt": "2026-09-15T09:53:15Z",
       "samples": [
         [
           "2026-09-15T09:37:14Z",
           36
+        ],
+        [
+          "2026-09-15T09:53:15Z",
+          48
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "AZX4IzWrgJc",
+      "start": "2026-09-15T09:53:15Z",
+      "startSource": "observed",
+      "title": "【 SURGETOWN 】#12　個人医は絶対に許さないんだからな…☔泣【恋沼ミヤ/#surgetown】",
+      "game": null,
+      "peakViewers": 201,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-15T09:53:15Z",
+      "lastSeenAt": "2026-09-15T09:53:15Z",
+      "samples": [
+        [
+          "2026-09-15T09:53:15Z",
+          201
         ]
       ]
     }
@@ -9993,6 +10010,23 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "videoId": "tZaO4bin-Mk",
+      "videoUrl": "https://www.youtube.com/watch?v=tZaO4bin-Mk",
+      "start": "2026-09-15T04:12:25Z",
+      "end": "2026-09-15T09:53:15Z",
+      "minutes": 340.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널 리턴)집 날아간 첫째 돼지",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": true
     }
   ]
 }

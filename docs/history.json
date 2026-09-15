@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:37:14Z",
+  "updatedAt": "2026-09-15T09:53:15Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,807 +16,42 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3445.2,
-      "gameMinutes": 1726.9,
-      "totalHours": 57.42,
-      "gameHours": 28.78,
-      "sessions": 27,
-      "avgViewers": 84.9,
+      "totalMinutes": 3525.3,
+      "gameMinutes": 1758.9,
+      "totalHours": 58.76,
+      "gameHours": 29.31,
+      "sessions": 28,
+      "avgViewers": 83.6,
       "peakViewers": 950
     },
     "week": {
-      "totalMinutes": 10750.6,
-      "gameMinutes": 6226.7,
-      "totalHours": 179.18,
-      "gameHours": 103.78,
-      "sessions": 76,
-      "avgViewers": 70.8,
+      "totalMinutes": 10830.8,
+      "gameMinutes": 6258.7,
+      "totalHours": 180.51,
+      "gameHours": 104.31,
+      "sessions": 77,
+      "avgViewers": 70.5,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 32915.8,
-      "gameMinutes": 15727.8,
-      "totalHours": 548.6,
-      "gameHours": 262.13,
-      "sessions": 200,
-      "avgViewers": 92.8,
+      "totalMinutes": 32995.9,
+      "gameMinutes": 15759.8,
+      "totalHours": 549.93,
+      "gameHours": 262.66,
+      "sessions": 201,
+      "avgViewers": 92.7,
       "peakViewers": 994
     }
   },
   "channels": [
     {
-      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-      "name": "덤덤",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCLfO5ulnws_Z4VttSbwhdvQ",
-      "isLive": true,
-      "liveSince": "2026-09-15T04:12:25Z",
-      "liveTitle": "이터널 리턴)집 날아간 첫째 돼지",
-      "lastEnd": "2026-09-13T12:50:34Z",
-      "lastTitle": "이터널 리턴)도둑 잡으러 갑시다",
-      "buckets": {
-        "today": {
-          "totalMinutes": 324.8,
-          "gameMinutes": 324.8,
-          "totalHours": 5.41,
-          "gameHours": 5.41,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 324.8,
-          "gameMinutes": 324.8,
-          "totalHours": 5.41,
-          "gameHours": 5.41,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 1486.5,
-          "gameMinutes": 1486.5,
-          "totalHours": 24.78,
-          "gameHours": 24.78,
-          "sessions": 5,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "x7OY4Fr746k",
-          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T12:50:34Z",
-          "minutes": 54.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)도둑 잡으러 갑시다",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "x7OY4Fr746k",
-          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
-          "start": "2026-09-13T03:58:08Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 463.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)도둑 잡으러 갑시다",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "afhLD-0FoFQ",
-          "videoUrl": "https://www.youtube.com/watch?v=afhLD-0FoFQ",
-          "start": "2026-09-12T03:47:41Z",
-          "end": "2026-09-12T09:55:51Z",
-          "minutes": 368.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)기세등등",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "7QbZ4naGgx4",
-          "videoUrl": "https://www.youtube.com/watch?v=7QbZ4naGgx4",
-          "start": "2026-09-11T03:49:14Z",
-          "end": "2026-09-11T08:24:12Z",
-          "minutes": 275.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)짐승 같은 짐승",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=tZaO4bin-Mk"
-    },
-    {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "isLive": true,
-      "liveSince": "2026-09-15T09:37:14Z",
-      "liveTitle": "〚 歌枠┊︎KARAOKE〛今日であれが最終日らしい！気ままに歌雑をするぞっ！ﾜｰ!ﾜｰ!ﾜｰ!〚 甘成じゅい/ゆにれいど！ 〛#vtuber",
-      "lastEnd": "2026-09-14T13:36:19Z",
-      "lastTitle": "〚 エタリタ〛本番前の最後のカスタム！日々進化いぇい〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 36.0,
-          "peakViewers": 36
-        },
-        "week": {
-          "totalMinutes": 183.8,
-          "gameMinutes": 183.8,
-          "totalHours": 3.06,
-          "gameHours": 3.06,
-          "sessions": 3,
-          "avgViewers": 28.2,
-          "peakViewers": 36
-        },
-        "month": {
-          "totalMinutes": 667.7,
-          "gameMinutes": 367.2,
-          "totalHours": 11.13,
-          "gameHours": 6.12,
-          "sessions": 7,
-          "avgViewers": 39.1,
-          "peakViewers": 67
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "k7_HWH_zsj4",
-          "videoUrl": "https://www.youtube.com/watch?v=k7_HWH_zsj4",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:36:19Z",
-          "minutes": 123.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 エタリタ〛本番前の最後のカスタム！日々進化いぇい〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-          "game": null,
-          "peakViewers": 35,
-          "avgViewers": 29.4,
-          "samples": [
-            [
-              "2026-09-14T11:32:47Z",
-              35
-            ],
-            [
-              "2026-09-14T11:50:44Z",
-              24
-            ],
-            [
-              "2026-09-14T12:15:45Z",
-              33
-            ],
-            [
-              "2026-09-14T12:39:13Z",
-              32
-            ],
-            [
-              "2026-09-14T12:57:47Z",
-              28
-            ],
-            [
-              "2026-09-14T13:19:25Z",
-              26
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "k7_HWH_zsj4",
-          "videoUrl": "https://www.youtube.com/watch?v=k7_HWH_zsj4",
-          "start": "2026-09-14T10:11:57Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 60.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 エタリタ〛本番前の最後のカスタム！日々進化いぇい〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 25.6,
-          "samples": [
-            [
-              "2026-09-14T10:11:57Z",
-              22
-            ],
-            [
-              "2026-09-14T10:32:14Z",
-              28
-            ],
-            [
-              "2026-09-14T10:50:30Z",
-              27
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "hAx2hJls7pE",
-          "videoUrl": "https://www.youtube.com/watch?v=hAx2hJls7pE",
-          "start": "2026-09-12T16:42:48Z",
-          "end": "2026-09-12T17:28:18Z",
-          "minutes": 45.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#10〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛今日は神獣狩り日和ですのよ～！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 67,
-          "avgViewers": 64.2,
-          "samples": [
-            [
-              "2026-09-12T16:42:48Z",
-              58
-            ],
-            [
-              "2026-09-12T16:55:38Z",
-              67
-            ],
-            [
-              "2026-09-12T17:10:37Z",
-              67
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "hAx2hJls7pE",
-          "videoUrl": "https://www.youtube.com/watch?v=hAx2hJls7pE",
-          "start": "2026-09-12T12:15:12Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 254.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#10〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛今日は神獣狩り日和ですのよ～！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 60,
-          "avgViewers": 51.1,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "US2TCIQDrWQ",
-          "videoUrl": "https://www.youtube.com/watch?v=US2TCIQDrWQ",
-          "start": "2026-09-11T10:59:42Z",
-          "end": "2026-09-11T13:33:39Z",
-          "minutes": 154.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 27.7,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "US2TCIQDrWQ",
-          "videoUrl": "https://www.youtube.com/watch?v=US2TCIQDrWQ",
-          "start": "2026-09-11T10:19:41Z",
-          "end": "2026-09-11T10:49:10Z",
-          "minutes": 29.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-          "game": null,
-          "peakViewers": 27,
-          "avgViewers": 24.5,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 36,
-      "livePeakViewers": 36,
-      "liveAvgViewers": 36.0,
-      "liveSamples": [
-        [
-          "2026-09-15T09:37:14Z",
-          36
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=XQGO8FT6Q3U"
-    },
-    {
-      "channelId": "UCdfqaZPAstutii6NLvGoblA",
-      "name": "김머만",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCdfqaZPAstutii6NLvGoblA",
-      "isLive": true,
-      "liveSince": "2026-09-15T07:36:04Z",
-      "liveTitle": "김머만님의 실시간 스트림 이터널 리턴",
-      "lastEnd": "2026-09-14T16:11:48Z",
-      "lastTitle": "김머만님의 실시간 스트림 이터널 리턴",
-      "buckets": {
-        "today": {
-          "totalMinutes": 193.0,
-          "gameMinutes": 193.0,
-          "totalHours": 3.22,
-          "gameHours": 3.22,
-          "sessions": 2,
-          "avgViewers": 2.5,
-          "peakViewers": 5
-        },
-        "week": {
-          "totalMinutes": 539.7,
-          "gameMinutes": 539.7,
-          "totalHours": 8.99,
-          "gameHours": 8.99,
-          "sessions": 3,
-          "avgViewers": 2.1,
-          "peakViewers": 5
-        },
-        "month": {
-          "totalMinutes": 539.7,
-          "gameMinutes": 539.7,
-          "totalHours": 8.99,
-          "gameHours": 8.99,
-          "sessions": 3,
-          "avgViewers": 2.1,
-          "peakViewers": 5
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCdfqaZPAstutii6NLvGoblA",
-          "name": "김머만",
-          "videoId": "MJAU9KY6R1w",
-          "videoUrl": "https://www.youtube.com/watch?v=MJAU9KY6R1w",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T16:11:48Z",
-          "minutes": 279.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "김머만님의 실시간 스트림 이터널 리턴",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 1.7,
-          "samples": [
-            [
-              "2026-09-14T11:32:47Z",
-              1
-            ],
-            [
-              "2026-09-14T11:50:44Z",
-              3
-            ],
-            [
-              "2026-09-14T12:15:45Z",
-              2
-            ],
-            [
-              "2026-09-14T12:39:13Z",
-              2
-            ],
-            [
-              "2026-09-14T12:57:47Z",
-              3
-            ],
-            [
-              "2026-09-14T13:19:25Z",
-              2
-            ],
-            [
-              "2026-09-14T13:36:19Z",
-              2
-            ],
-            [
-              "2026-09-14T13:52:01Z",
-              1
-            ],
-            [
-              "2026-09-14T14:13:08Z",
-              1
-            ],
-            [
-              "2026-09-14T14:34:43Z",
-              1
-            ],
-            [
-              "2026-09-14T14:52:53Z",
-              2
-            ],
-            [
-              "2026-09-14T15:13:31Z",
-              1
-            ],
-            [
-              "2026-09-14T15:34:14Z",
-              1
-            ],
-            [
-              "2026-09-14T15:51:55Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCdfqaZPAstutii6NLvGoblA",
-          "name": "김머만",
-          "videoId": "MJAU9KY6R1w",
-          "videoUrl": "https://www.youtube.com/watch?v=MJAU9KY6R1w",
-          "start": "2026-09-14T08:52:42Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 139.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "김머만님의 실시간 스트림 이터널 리턴",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 2.0,
-          "samples": [
-            [
-              "2026-09-14T08:52:42Z",
-              1
-            ],
-            [
-              "2026-09-14T09:13:38Z",
-              2
-            ],
-            [
-              "2026-09-14T09:33:50Z",
-              1
-            ],
-            [
-              "2026-09-14T09:51:11Z",
-              2
-            ],
-            [
-              "2026-09-14T10:11:57Z",
-              3
-            ],
-            [
-              "2026-09-14T10:32:14Z",
-              2
-            ],
-            [
-              "2026-09-14T10:50:30Z",
-              3
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 2,
-      "livePeakViewers": 5,
-      "liveAvgViewers": 3.0,
-      "liveSamples": [
-        [
-          "2026-09-15T07:52:58Z",
-          2
-        ],
-        [
-          "2026-09-15T08:13:41Z",
-          5
-        ],
-        [
-          "2026-09-15T08:35:23Z",
-          5
-        ],
-        [
-          "2026-09-15T08:54:00Z",
-          2
-        ],
-        [
-          "2026-09-15T09:13:21Z",
-          2
-        ],
-        [
-          "2026-09-15T09:37:14Z",
-          2
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=Nr2g2Dymi5Y"
-    },
-    {
-      "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
-      "name": "냥슬이 또 게임해요",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UClOhr2WzxqzuyjWWQgPLGIg",
-      "isLive": true,
-      "liveSince": "2026-09-15T06:39:12Z",
-      "liveTitle": "종겜데이 : 영주님은 방치중 (1부 로스트아크)",
-      "lastEnd": "2026-09-14T19:47:46Z",
-      "lastTitle": "2부 이터널리턴 w.눈가루,피즈커",
-      "buckets": {
-        "today": {
-          "totalMinutes": 451.0,
-          "gameMinutes": 273.0,
-          "totalHours": 7.52,
-          "gameHours": 4.55,
-          "sessions": 3,
-          "avgViewers": 56.4,
-          "peakViewers": 83
-        },
-        "week": {
-          "totalMinutes": 458.2,
-          "gameMinutes": 280.1,
-          "totalHours": 7.64,
-          "gameHours": 4.67,
-          "sessions": 3,
-          "avgViewers": 56.3,
-          "peakViewers": 83
-        },
-        "month": {
-          "totalMinutes": 458.2,
-          "gameMinutes": 280.1,
-          "totalHours": 7.64,
-          "gameHours": 4.67,
-          "sessions": 3,
-          "avgViewers": 56.3,
-          "peakViewers": 83
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
-          "name": "냥슬이 또 게임해요",
-          "videoId": "GEqOauMvt3s",
-          "videoUrl": "https://www.youtube.com/watch?v=GEqOauMvt3s",
-          "start": "2026-09-14T18:59:38Z",
-          "end": "2026-09-14T19:47:46Z",
-          "minutes": 48.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "2부 이터널리턴 w.눈가루,피즈커",
-          "game": null,
-          "peakViewers": 42,
-          "avgViewers": 36.9,
-          "samples": [
-            [
-              "2026-09-14T18:59:38Z",
-              39
-            ],
-            [
-              "2026-09-14T19:19:02Z",
-              42
-            ],
-            [
-              "2026-09-14T19:34:26Z",
-              30
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
-          "name": "냥슬이 또 게임해요",
-          "videoId": "GEqOauMvt3s",
-          "videoUrl": "https://www.youtube.com/watch?v=GEqOauMvt3s",
-          "start": "2026-09-14T14:52:53Z",
-          "end": "2026-09-14T18:44:52Z",
-          "minutes": 232.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "2부 이터널리턴 w.눈가루,피즈커",
-          "game": null,
-          "peakViewers": 66,
-          "avgViewers": 49.9,
-          "samples": [
-            [
-              "2026-09-14T14:52:53Z",
-              64
-            ],
-            [
-              "2026-09-14T15:13:31Z",
-              66
-            ],
-            [
-              "2026-09-14T15:34:14Z",
-              59
-            ],
-            [
-              "2026-09-14T15:51:55Z",
-              59
-            ],
-            [
-              "2026-09-14T16:11:48Z",
-              49
-            ],
-            [
-              "2026-09-14T16:32:45Z",
-              41
-            ],
-            [
-              "2026-09-14T16:52:11Z",
-              52
-            ],
-            [
-              "2026-09-14T17:10:13Z",
-              44
-            ],
-            [
-              "2026-09-14T17:30:27Z",
-              41
-            ],
-            [
-              "2026-09-14T17:49:26Z",
-              41
-            ],
-            [
-              "2026-09-14T17:59:57Z",
-              38
-            ],
-            [
-              "2026-09-14T18:21:55Z",
-              41
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 74,
-      "livePeakViewers": 83,
-      "liveAvgViewers": 70.0,
-      "liveSamples": [
-        [
-          "2026-09-15T06:39:12Z",
-          57
-        ],
-        [
-          "2026-09-15T06:57:25Z",
-          65
-        ],
-        [
-          "2026-09-15T07:18:45Z",
-          78
-        ],
-        [
-          "2026-09-15T07:36:04Z",
-          63
-        ],
-        [
-          "2026-09-15T07:52:58Z",
-          63
-        ],
-        [
-          "2026-09-15T08:13:41Z",
-          72
-        ],
-        [
-          "2026-09-15T08:35:23Z",
-          83
-        ],
-        [
-          "2026-09-15T08:54:00Z",
-          80
-        ],
-        [
-          "2026-09-15T09:13:21Z",
-          66
-        ],
-        [
-          "2026-09-15T09:37:14Z",
-          74
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=mwZlbtWEULg"
-    },
-    {
-      "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-      "name": "하늘고래",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCSTZTPTiHOScULJ4KdV8WSQ",
-      "isLive": true,
-      "liveSince": "2026-09-15T08:13:41Z",
-      "liveTitle": "오늘은 1등 할수있지않을까..?시참환영 (초보도 환영)",
-      "lastEnd": "2026-09-12T13:00:43Z",
-      "lastTitle": "이터널리턴 시참환영 (초보도 환영)",
-      "buckets": {
-        "today": {
-          "totalMinutes": 83.6,
-          "gameMinutes": 0.0,
-          "totalHours": 1.39,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        },
-        "week": {
-          "totalMinutes": 83.6,
-          "gameMinutes": 0.0,
-          "totalHours": 1.39,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        },
-        "month": {
-          "totalMinutes": 193.4,
-          "gameMinutes": 109.9,
-          "totalHours": 3.22,
-          "gameHours": 1.83,
-          "sessions": 2,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "XH1jSzWJoGA",
-          "videoUrl": "https://www.youtube.com/watch?v=XH1jSzWJoGA",
-          "start": "2026-09-12T11:10:51Z",
-          "end": "2026-09-12T13:00:43Z",
-          "minutes": 109.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 시참환영 (초보도 환영)",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 1,
-      "livePeakViewers": 1,
-      "liveAvgViewers": 1.0,
-      "liveSamples": [
-        [
-          "2026-09-15T08:13:41Z",
-          1
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=8djeXgv8h5E"
-    },
-    {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-09-15T09:53:15Z",
+      "liveTitle": "【 SURGETOWN 】#12　個人医は絶対に許さないんだからな…☔泣【恋沼ミヤ/#surgetown】",
       "lastEnd": "2026-09-14T19:34:26Z",
       "lastTitle": "【 SURGETOWN 】#11　ギャング？個人医？絶対に負けないもん🔥【恋沼ミヤ/#surgetown】",
       "buckets": {
@@ -825,7 +60,7 @@
           "gameMinutes": 0.0,
           "totalHours": 4.33,
           "gameHours": 0.0,
-          "sessions": 2,
+          "sessions": 3,
           "avgViewers": 101.2,
           "peakViewers": 428
         },
@@ -834,8 +69,8 @@
           "gameMinutes": 0.0,
           "totalHours": 10.04,
           "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 91.5,
+          "sessions": 4,
+          "avgViewers": 91.6,
           "peakViewers": 428
         },
         "month": {
@@ -843,7 +78,7 @@
           "gameMinutes": 0.0,
           "totalHours": 33.63,
           "gameHours": 0.0,
-          "sessions": 8,
+          "sessions": 9,
           "avgViewers": 69.3,
           "peakViewers": 428
         }
@@ -1164,7 +399,679 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 201,
+      "livePeakViewers": 201,
+      "liveAvgViewers": 201.0,
+      "liveSamples": [
+        [
+          "2026-09-15T09:53:15Z",
+          201
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=AZX4IzWrgJc"
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "isLive": true,
+      "liveSince": "2026-09-15T09:37:14Z",
+      "liveTitle": "〚 歌枠┊︎KARAOKE〛今日であれが最終日らしい！気ままに歌雑をするぞっ！ﾜｰ!ﾜｰ!ﾜｰ!〚 甘成じゅい/ゆにれいど！ 〛#vtuber",
+      "lastEnd": "2026-09-14T13:36:19Z",
+      "lastTitle": "〚 エタリタ〛本番前の最後のカスタム！日々進化いぇい〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+      "buckets": {
+        "today": {
+          "totalMinutes": 16.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.27,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 42.0,
+          "peakViewers": 48
+        },
+        "week": {
+          "totalMinutes": 199.8,
+          "gameMinutes": 183.8,
+          "totalHours": 3.33,
+          "gameHours": 3.06,
+          "sessions": 3,
+          "avgViewers": 29.3,
+          "peakViewers": 48
+        },
+        "month": {
+          "totalMinutes": 683.7,
+          "gameMinutes": 367.2,
+          "totalHours": 11.39,
+          "gameHours": 6.12,
+          "sessions": 7,
+          "avgViewers": 39.2,
+          "peakViewers": 67
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "k7_HWH_zsj4",
+          "videoUrl": "https://www.youtube.com/watch?v=k7_HWH_zsj4",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:36:19Z",
+          "minutes": 123.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 エタリタ〛本番前の最後のカスタム！日々進化いぇい〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 29.4,
+          "samples": [
+            [
+              "2026-09-14T11:32:47Z",
+              35
+            ],
+            [
+              "2026-09-14T11:50:44Z",
+              24
+            ],
+            [
+              "2026-09-14T12:15:45Z",
+              33
+            ],
+            [
+              "2026-09-14T12:39:13Z",
+              32
+            ],
+            [
+              "2026-09-14T12:57:47Z",
+              28
+            ],
+            [
+              "2026-09-14T13:19:25Z",
+              26
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "k7_HWH_zsj4",
+          "videoUrl": "https://www.youtube.com/watch?v=k7_HWH_zsj4",
+          "start": "2026-09-14T10:11:57Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 60.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 エタリタ〛本番前の最後のカスタム！日々進化いぇい〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 25.6,
+          "samples": [
+            [
+              "2026-09-14T10:11:57Z",
+              22
+            ],
+            [
+              "2026-09-14T10:32:14Z",
+              28
+            ],
+            [
+              "2026-09-14T10:50:30Z",
+              27
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "hAx2hJls7pE",
+          "videoUrl": "https://www.youtube.com/watch?v=hAx2hJls7pE",
+          "start": "2026-09-12T16:42:48Z",
+          "end": "2026-09-12T17:28:18Z",
+          "minutes": 45.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#10〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛今日は神獣狩り日和ですのよ～！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 67,
+          "avgViewers": 64.2,
+          "samples": [
+            [
+              "2026-09-12T16:42:48Z",
+              58
+            ],
+            [
+              "2026-09-12T16:55:38Z",
+              67
+            ],
+            [
+              "2026-09-12T17:10:37Z",
+              67
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "hAx2hJls7pE",
+          "videoUrl": "https://www.youtube.com/watch?v=hAx2hJls7pE",
+          "start": "2026-09-12T12:15:12Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 254.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#10〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛今日は神獣狩り日和ですのよ～！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 60,
+          "avgViewers": 51.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "US2TCIQDrWQ",
+          "videoUrl": "https://www.youtube.com/watch?v=US2TCIQDrWQ",
+          "start": "2026-09-11T10:59:42Z",
+          "end": "2026-09-11T13:33:39Z",
+          "minutes": 154.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 27.7,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "US2TCIQDrWQ",
+          "videoUrl": "https://www.youtube.com/watch?v=US2TCIQDrWQ",
+          "start": "2026-09-11T10:19:41Z",
+          "end": "2026-09-11T10:49:10Z",
+          "minutes": 29.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 エタリタ〛スクリムやるど！前回より少しはわかるようになったか！？〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+          "game": null,
+          "peakViewers": 27,
+          "avgViewers": 24.5,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 48,
+      "livePeakViewers": 48,
+      "liveAvgViewers": 42.0,
+      "liveSamples": [
+        [
+          "2026-09-15T09:37:14Z",
+          36
+        ],
+        [
+          "2026-09-15T09:53:15Z",
+          48
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=XQGO8FT6Q3U"
+    },
+    {
+      "channelId": "UCdfqaZPAstutii6NLvGoblA",
+      "name": "김머만",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCdfqaZPAstutii6NLvGoblA",
+      "isLive": true,
+      "liveSince": "2026-09-15T07:36:04Z",
+      "liveTitle": "김머만님의 실시간 스트림 이터널 리턴",
+      "lastEnd": "2026-09-14T16:11:48Z",
+      "lastTitle": "김머만님의 실시간 스트림 이터널 리턴",
+      "buckets": {
+        "today": {
+          "totalMinutes": 209.0,
+          "gameMinutes": 209.0,
+          "totalHours": 3.48,
+          "gameHours": 3.48,
+          "sessions": 2,
+          "avgViewers": 2.5,
+          "peakViewers": 5
+        },
+        "week": {
+          "totalMinutes": 555.7,
+          "gameMinutes": 555.7,
+          "totalHours": 9.26,
+          "gameHours": 9.26,
+          "sessions": 3,
+          "avgViewers": 2.1,
+          "peakViewers": 5
+        },
+        "month": {
+          "totalMinutes": 555.7,
+          "gameMinutes": 555.7,
+          "totalHours": 9.26,
+          "gameHours": 9.26,
+          "sessions": 3,
+          "avgViewers": 2.1,
+          "peakViewers": 5
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCdfqaZPAstutii6NLvGoblA",
+          "name": "김머만",
+          "videoId": "MJAU9KY6R1w",
+          "videoUrl": "https://www.youtube.com/watch?v=MJAU9KY6R1w",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T16:11:48Z",
+          "minutes": 279.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "김머만님의 실시간 스트림 이터널 리턴",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.7,
+          "samples": [
+            [
+              "2026-09-14T11:32:47Z",
+              1
+            ],
+            [
+              "2026-09-14T11:50:44Z",
+              3
+            ],
+            [
+              "2026-09-14T12:15:45Z",
+              2
+            ],
+            [
+              "2026-09-14T12:39:13Z",
+              2
+            ],
+            [
+              "2026-09-14T12:57:47Z",
+              3
+            ],
+            [
+              "2026-09-14T13:19:25Z",
+              2
+            ],
+            [
+              "2026-09-14T13:36:19Z",
+              2
+            ],
+            [
+              "2026-09-14T13:52:01Z",
+              1
+            ],
+            [
+              "2026-09-14T14:13:08Z",
+              1
+            ],
+            [
+              "2026-09-14T14:34:43Z",
+              1
+            ],
+            [
+              "2026-09-14T14:52:53Z",
+              2
+            ],
+            [
+              "2026-09-14T15:13:31Z",
+              1
+            ],
+            [
+              "2026-09-14T15:34:14Z",
+              1
+            ],
+            [
+              "2026-09-14T15:51:55Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCdfqaZPAstutii6NLvGoblA",
+          "name": "김머만",
+          "videoId": "MJAU9KY6R1w",
+          "videoUrl": "https://www.youtube.com/watch?v=MJAU9KY6R1w",
+          "start": "2026-09-14T08:52:42Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 139.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "김머만님의 실시간 스트림 이터널 리턴",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 2.0,
+          "samples": [
+            [
+              "2026-09-14T08:52:42Z",
+              1
+            ],
+            [
+              "2026-09-14T09:13:38Z",
+              2
+            ],
+            [
+              "2026-09-14T09:33:50Z",
+              1
+            ],
+            [
+              "2026-09-14T09:51:11Z",
+              2
+            ],
+            [
+              "2026-09-14T10:11:57Z",
+              3
+            ],
+            [
+              "2026-09-14T10:32:14Z",
+              2
+            ],
+            [
+              "2026-09-14T10:50:30Z",
+              3
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 2,
+      "livePeakViewers": 5,
+      "liveAvgViewers": 2.9,
+      "liveSamples": [
+        [
+          "2026-09-15T07:52:58Z",
+          2
+        ],
+        [
+          "2026-09-15T08:13:41Z",
+          5
+        ],
+        [
+          "2026-09-15T08:35:23Z",
+          5
+        ],
+        [
+          "2026-09-15T08:54:00Z",
+          2
+        ],
+        [
+          "2026-09-15T09:13:21Z",
+          2
+        ],
+        [
+          "2026-09-15T09:37:14Z",
+          2
+        ],
+        [
+          "2026-09-15T09:53:15Z",
+          2
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=Nr2g2Dymi5Y"
+    },
+    {
+      "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
+      "name": "냥슬이 또 게임해요",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UClOhr2WzxqzuyjWWQgPLGIg",
+      "isLive": true,
+      "liveSince": "2026-09-15T06:39:12Z",
+      "liveTitle": "종겜데이 : 영주님은 방치중 (1부 로스트아크)",
+      "lastEnd": "2026-09-14T19:47:46Z",
+      "lastTitle": "2부 이터널리턴 w.눈가루,피즈커",
+      "buckets": {
+        "today": {
+          "totalMinutes": 467.1,
+          "gameMinutes": 273.0,
+          "totalHours": 7.78,
+          "gameHours": 4.55,
+          "sessions": 3,
+          "avgViewers": 56.9,
+          "peakViewers": 83
+        },
+        "week": {
+          "totalMinutes": 474.2,
+          "gameMinutes": 280.1,
+          "totalHours": 7.9,
+          "gameHours": 4.67,
+          "sessions": 3,
+          "avgViewers": 56.8,
+          "peakViewers": 83
+        },
+        "month": {
+          "totalMinutes": 474.2,
+          "gameMinutes": 280.1,
+          "totalHours": 7.9,
+          "gameHours": 4.67,
+          "sessions": 3,
+          "avgViewers": 56.8,
+          "peakViewers": 83
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
+          "name": "냥슬이 또 게임해요",
+          "videoId": "GEqOauMvt3s",
+          "videoUrl": "https://www.youtube.com/watch?v=GEqOauMvt3s",
+          "start": "2026-09-14T18:59:38Z",
+          "end": "2026-09-14T19:47:46Z",
+          "minutes": 48.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "2부 이터널리턴 w.눈가루,피즈커",
+          "game": null,
+          "peakViewers": 42,
+          "avgViewers": 36.9,
+          "samples": [
+            [
+              "2026-09-14T18:59:38Z",
+              39
+            ],
+            [
+              "2026-09-14T19:19:02Z",
+              42
+            ],
+            [
+              "2026-09-14T19:34:26Z",
+              30
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
+          "name": "냥슬이 또 게임해요",
+          "videoId": "GEqOauMvt3s",
+          "videoUrl": "https://www.youtube.com/watch?v=GEqOauMvt3s",
+          "start": "2026-09-14T14:52:53Z",
+          "end": "2026-09-14T18:44:52Z",
+          "minutes": 232.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "2부 이터널리턴 w.눈가루,피즈커",
+          "game": null,
+          "peakViewers": 66,
+          "avgViewers": 49.9,
+          "samples": [
+            [
+              "2026-09-14T14:52:53Z",
+              64
+            ],
+            [
+              "2026-09-14T15:13:31Z",
+              66
+            ],
+            [
+              "2026-09-14T15:34:14Z",
+              59
+            ],
+            [
+              "2026-09-14T15:51:55Z",
+              59
+            ],
+            [
+              "2026-09-14T16:11:48Z",
+              49
+            ],
+            [
+              "2026-09-14T16:32:45Z",
+              41
+            ],
+            [
+              "2026-09-14T16:52:11Z",
+              52
+            ],
+            [
+              "2026-09-14T17:10:13Z",
+              44
+            ],
+            [
+              "2026-09-14T17:30:27Z",
+              41
+            ],
+            [
+              "2026-09-14T17:49:26Z",
+              41
+            ],
+            [
+              "2026-09-14T17:59:57Z",
+              38
+            ],
+            [
+              "2026-09-14T18:21:55Z",
+              41
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 71,
+      "livePeakViewers": 83,
+      "liveAvgViewers": 70.0,
+      "liveSamples": [
+        [
+          "2026-09-15T06:39:12Z",
+          57
+        ],
+        [
+          "2026-09-15T06:57:25Z",
+          65
+        ],
+        [
+          "2026-09-15T07:18:45Z",
+          78
+        ],
+        [
+          "2026-09-15T07:36:04Z",
+          63
+        ],
+        [
+          "2026-09-15T07:52:58Z",
+          63
+        ],
+        [
+          "2026-09-15T08:13:41Z",
+          72
+        ],
+        [
+          "2026-09-15T08:35:23Z",
+          83
+        ],
+        [
+          "2026-09-15T08:54:00Z",
+          80
+        ],
+        [
+          "2026-09-15T09:13:21Z",
+          66
+        ],
+        [
+          "2026-09-15T09:37:14Z",
+          74
+        ],
+        [
+          "2026-09-15T09:53:15Z",
+          71
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=mwZlbtWEULg"
+    },
+    {
+      "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+      "name": "하늘고래",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCSTZTPTiHOScULJ4KdV8WSQ",
+      "isLive": true,
+      "liveSince": "2026-09-15T08:13:41Z",
+      "liveTitle": "오늘은 1등 할수있지않을까..?시참환영 (초보도 환영)",
+      "lastEnd": "2026-09-12T13:00:43Z",
+      "lastTitle": "이터널리턴 시참환영 (초보도 환영)",
+      "buckets": {
+        "today": {
+          "totalMinutes": 99.6,
+          "gameMinutes": 0.0,
+          "totalHours": 1.66,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        },
+        "week": {
+          "totalMinutes": 99.6,
+          "gameMinutes": 0.0,
+          "totalHours": 1.66,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        },
+        "month": {
+          "totalMinutes": 209.4,
+          "gameMinutes": 109.9,
+          "totalHours": 3.49,
+          "gameHours": 1.83,
+          "sessions": 2,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "XH1jSzWJoGA",
+          "videoUrl": "https://www.youtube.com/watch?v=XH1jSzWJoGA",
+          "start": "2026-09-12T11:10:51Z",
+          "end": "2026-09-12T13:00:43Z",
+          "minutes": 109.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 시참환영 (초보도 환영)",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 1,
+      "livePeakViewers": 1,
+      "liveAvgViewers": 1.0,
+      "liveSamples": [
+        [
+          "2026-09-15T08:13:41Z",
+          1
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=8djeXgv8h5E"
     },
     {
       "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
@@ -1942,6 +1849,133 @@
           "avgViewers": 573.9,
           "samples": [],
           "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCLfO5ulnws_Z4VttSbwhdvQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-15T09:53:15Z",
+      "lastTitle": "이터널 리턴)집 날아간 첫째 돼지",
+      "buckets": {
+        "today": {
+          "totalMinutes": 340.8,
+          "gameMinutes": 340.8,
+          "totalHours": 5.68,
+          "gameHours": 5.68,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 340.8,
+          "gameMinutes": 340.8,
+          "totalHours": 5.68,
+          "gameHours": 5.68,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 1502.5,
+          "gameMinutes": 1502.5,
+          "totalHours": 25.04,
+          "gameHours": 25.04,
+          "sessions": 5,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "tZaO4bin-Mk",
+          "videoUrl": "https://www.youtube.com/watch?v=tZaO4bin-Mk",
+          "start": "2026-09-15T04:12:25Z",
+          "end": "2026-09-15T09:53:15Z",
+          "minutes": 340.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)집 날아간 첫째 돼지",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "x7OY4Fr746k",
+          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T12:50:34Z",
+          "minutes": 54.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)도둑 잡으러 갑시다",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "x7OY4Fr746k",
+          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
+          "start": "2026-09-13T03:58:08Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 463.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)도둑 잡으러 갑시다",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "afhLD-0FoFQ",
+          "videoUrl": "https://www.youtube.com/watch?v=afhLD-0FoFQ",
+          "start": "2026-09-12T03:47:41Z",
+          "end": "2026-09-12T09:55:51Z",
+          "minutes": 368.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)기세등등",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "7QbZ4naGgx4",
+          "videoUrl": "https://www.youtube.com/watch?v=7QbZ4naGgx4",
+          "start": "2026-09-11T03:49:14Z",
+          "end": "2026-09-11T08:24:12Z",
+          "minutes": 275.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)짐승 같은 짐승",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
         }
       ]
     },
@@ -9076,6 +9110,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "videoId": "tZaO4bin-Mk",
+      "videoUrl": "https://www.youtube.com/watch?v=tZaO4bin-Mk",
+      "start": "2026-09-15T04:12:25Z",
+      "end": "2026-09-15T09:53:15Z",
+      "minutes": 340.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널 리턴)집 날아간 첫째 돼지",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
       "name": "水上蒼太",
       "videoId": "OkLo7IHr5eE",
@@ -10001,22 +10051,6 @@
       "game": null,
       "peakViewers": 20,
       "avgViewers": 17.8,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "eVxknNNwrMY",
-      "videoUrl": "https://www.youtube.com/watch?v=eVxknNNwrMY",
-      "start": "2026-09-13T14:29:39Z",
-      "end": "2026-09-13T15:56:00Z",
-      "minutes": 86.4,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【雑談】誕生日前なので飲酒雑談【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 114,
-      "avgViewers": 105.8,
       "isTargetGame": false
     }
   ]
