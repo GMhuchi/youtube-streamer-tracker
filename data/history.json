@@ -13,63 +13,8 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-14T21:21:42Z",
-      "lastSeenAt": "2026-09-14T23:56:01Z",
+      "lastSeenAt": "2026-09-15T00:19:30Z",
       "samples": []
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "gjM3eqQMQUw",
-      "start": "2026-09-14T21:40:55Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#295［2026.9/15］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 814,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-14T21:40:55Z",
-      "lastSeenAt": "2026-09-14T23:56:01Z",
-      "samples": [
-        [
-          "2026-09-14T21:40:55Z",
-          344
-        ],
-        [
-          "2026-09-14T21:57:29Z",
-          550
-        ],
-        [
-          "2026-09-14T22:16:29Z",
-          668
-        ],
-        [
-          "2026-09-14T22:32:43Z",
-          721
-        ],
-        [
-          "2026-09-14T22:49:29Z",
-          761
-        ],
-        [
-          "2026-09-14T23:00:21Z",
-          728
-        ],
-        [
-          "2026-09-14T23:16:56Z",
-          778
-        ],
-        [
-          "2026-09-14T23:29:34Z",
-          764
-        ],
-        [
-          "2026-09-14T23:43:21Z",
-          747
-        ],
-        [
-          "2026-09-14T23:56:01Z",
-          814
-        ]
-      ]
     }
   },
   "sessions": [
@@ -9735,6 +9680,64 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "gjM3eqQMQUw",
+      "videoUrl": "https://www.youtube.com/watch?v=gjM3eqQMQUw",
+      "start": "2026-09-14T21:40:55Z",
+      "end": "2026-09-15T00:19:30Z",
+      "minutes": 158.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#295［2026.9/15］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 814,
+      "avgViewers": 675.9,
+      "samples": [
+        [
+          "2026-09-14T21:40:55Z",
+          344
+        ],
+        [
+          "2026-09-14T21:57:29Z",
+          550
+        ],
+        [
+          "2026-09-14T22:16:29Z",
+          668
+        ],
+        [
+          "2026-09-14T22:32:43Z",
+          721
+        ],
+        [
+          "2026-09-14T22:49:29Z",
+          761
+        ],
+        [
+          "2026-09-14T23:00:21Z",
+          728
+        ],
+        [
+          "2026-09-14T23:16:56Z",
+          778
+        ],
+        [
+          "2026-09-14T23:29:34Z",
+          764
+        ],
+        [
+          "2026-09-14T23:43:21Z",
+          747
+        ],
+        [
+          "2026-09-14T23:56:01Z",
+          814
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }
