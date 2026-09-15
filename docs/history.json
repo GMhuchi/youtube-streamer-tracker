@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T19:10:13Z",
+  "updatedAt": "2026-09-15T19:29:51Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,290 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2314.4,
-      "gameMinutes": 985.2,
-      "totalHours": 38.57,
-      "gameHours": 16.42,
+      "totalMinutes": 2353.6,
+      "gameMinutes": 1024.5,
+      "totalHours": 39.23,
+      "gameHours": 17.07,
       "sessions": 19,
-      "avgViewers": 66.1,
+      "avgViewers": 64.9,
       "peakViewers": 960
     },
     "week": {
-      "totalMinutes": 17626.5,
-      "gameMinutes": 8945.6,
-      "totalHours": 293.77,
-      "gameHours": 149.09,
+      "totalMinutes": 17665.7,
+      "gameMinutes": 8984.8,
+      "totalHours": 294.43,
+      "gameHours": 149.75,
       "sessions": 99,
-      "avgViewers": 71.9,
+      "avgViewers": 71.8,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 39791.6,
-      "gameMinutes": 18446.6,
-      "totalHours": 663.19,
-      "gameHours": 307.44,
+      "totalMinutes": 39830.9,
+      "gameMinutes": 18485.9,
+      "totalHours": 663.85,
+      "gameHours": 308.1,
       "sessions": 223,
-      "avgViewers": 89.2,
+      "avgViewers": 89.1,
       "peakViewers": 994
     }
   },
   "channels": [
-    {
-      "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
-      "name": "사관혜진없는사람",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCN00BJN3cRt2-ZOhrTCQaIA",
-      "isLive": true,
-      "liveSince": "2026-09-15T12:54:18Z",
-      "liveTitle": "내 아내 뎁마 [ 이터널리턴 ]",
-      "lastEnd": "2026-09-14T17:49:26Z",
-      "lastTitle": "살아남아야 한다 [ 이터널리턴 ]",
-      "buckets": {
-        "today": {
-          "totalMinutes": 250.2,
-          "gameMinutes": 250.2,
-          "totalHours": 4.17,
-          "gameHours": 4.17,
-          "sessions": 1,
-          "avgViewers": 2.1,
-          "peakViewers": 4
-        },
-        "week": {
-          "totalMinutes": 686.1,
-          "gameMinutes": 686.1,
-          "totalHours": 11.44,
-          "gameHours": 11.44,
-          "sessions": 2,
-          "avgViewers": 2.7,
-          "peakViewers": 6
-        },
-        "month": {
-          "totalMinutes": 860.2,
-          "gameMinutes": 860.2,
-          "totalHours": 14.34,
-          "gameHours": 14.34,
-          "sessions": 3,
-          "avgViewers": 2.5,
-          "peakViewers": 6
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
-          "name": "사관혜진없는사람",
-          "videoId": "330bLNYcAwE",
-          "videoUrl": "https://www.youtube.com/watch?v=330bLNYcAwE",
-          "start": "2026-09-14T12:39:13Z",
-          "end": "2026-09-14T17:49:26Z",
-          "minutes": 310.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "살아남아야 한다 [ 이터널리턴 ]",
-          "game": null,
-          "peakViewers": 6,
-          "avgViewers": 3.5,
-          "samples": [
-            [
-              "2026-09-14T12:39:13Z",
-              1
-            ],
-            [
-              "2026-09-14T12:57:47Z",
-              4
-            ],
-            [
-              "2026-09-14T13:19:25Z",
-              2
-            ],
-            [
-              "2026-09-14T13:36:19Z",
-              3
-            ],
-            [
-              "2026-09-14T13:52:01Z",
-              3
-            ],
-            [
-              "2026-09-14T14:13:08Z",
-              5
-            ],
-            [
-              "2026-09-14T14:34:43Z",
-              4
-            ],
-            [
-              "2026-09-14T14:52:53Z",
-              5
-            ],
-            [
-              "2026-09-14T15:13:31Z",
-              3
-            ],
-            [
-              "2026-09-14T15:34:14Z",
-              5
-            ],
-            [
-              "2026-09-14T15:51:55Z",
-              6
-            ],
-            [
-              "2026-09-14T16:11:48Z",
-              4
-            ],
-            [
-              "2026-09-14T16:32:45Z",
-              3
-            ],
-            [
-              "2026-09-14T16:52:11Z",
-              4
-            ],
-            [
-              "2026-09-14T17:10:13Z",
-              1
-            ],
-            [
-              "2026-09-14T17:30:27Z",
-              3
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
-          "name": "사관혜진없는사람",
-          "videoId": "11uNdURw-80",
-          "videoUrl": "https://www.youtube.com/watch?v=11uNdURw-80",
-          "start": "2026-09-11T12:22:15Z",
-          "end": "2026-09-11T15:16:19Z",
-          "minutes": 174.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "유니온 (w.뮤황이.레제누프) [ 이터널리턴 ]",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 1.8,
-          "samples": [
-            [
-              "2026-09-11T12:44:23Z",
-              3
-            ],
-            [
-              "2026-09-11T13:18:16Z",
-              2
-            ],
-            [
-              "2026-09-11T13:33:39Z",
-              1
-            ],
-            [
-              "2026-09-11T13:49:15Z",
-              3
-            ],
-            [
-              "2026-09-11T14:00:11Z",
-              2
-            ],
-            [
-              "2026-09-11T14:23:05Z",
-              1
-            ],
-            [
-              "2026-09-11T14:57:45Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 4,
-      "livePeakViewers": 4,
-      "liveAvgViewers": 2.1,
-      "liveSamples": [
-        [
-          "2026-09-15T12:54:18Z",
-          2
-        ],
-        [
-          "2026-09-15T13:12:22Z",
-          1
-        ],
-        [
-          "2026-09-15T13:32:46Z",
-          1
-        ],
-        [
-          "2026-09-15T13:50:45Z",
-          1
-        ],
-        [
-          "2026-09-15T14:12:12Z",
-          2
-        ],
-        [
-          "2026-09-15T14:50:33Z",
-          1
-        ],
-        [
-          "2026-09-15T15:11:13Z",
-          1
-        ],
-        [
-          "2026-09-15T15:31:02Z",
-          4
-        ],
-        [
-          "2026-09-15T16:00:25Z",
-          4
-        ],
-        [
-          "2026-09-15T16:23:14Z",
-          3
-        ],
-        [
-          "2026-09-15T16:41:37Z",
-          1
-        ],
-        [
-          "2026-09-15T16:57:21Z",
-          2
-        ],
-        [
-          "2026-09-15T17:14:11Z",
-          2
-        ],
-        [
-          "2026-09-15T17:29:18Z",
-          2
-        ],
-        [
-          "2026-09-15T17:43:48Z",
-          1
-        ],
-        [
-          "2026-09-15T17:56:15Z",
-          1
-        ],
-        [
-          "2026-09-15T18:14:46Z",
-          1
-        ],
-        [
-          "2026-09-15T18:33:09Z",
-          3
-        ],
-        [
-          "2026-09-15T18:51:04Z",
-          4
-        ],
-        [
-          "2026-09-15T19:10:13Z",
-          4
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=wZm4J56YDlw"
-    },
     {
       "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
       "name": "몰라",
@@ -312,28 +56,28 @@
       "lastTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
       "buckets": {
         "today": {
-          "totalMinutes": 250.2,
-          "gameMinutes": 250.2,
-          "totalHours": 4.17,
-          "gameHours": 4.17,
+          "totalMinutes": 269.9,
+          "gameMinutes": 269.9,
+          "totalHours": 4.5,
+          "gameHours": 4.5,
           "sessions": 1,
           "avgViewers": 1.8,
           "peakViewers": 3
         },
         "week": {
-          "totalMinutes": 644.1,
-          "gameMinutes": 644.1,
-          "totalHours": 10.73,
-          "gameHours": 10.73,
+          "totalMinutes": 663.7,
+          "gameMinutes": 663.7,
+          "totalHours": 11.06,
+          "gameHours": 11.06,
           "sessions": 3,
           "avgViewers": 1.7,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 644.1,
-          "gameMinutes": 644.1,
-          "totalHours": 10.73,
-          "gameHours": 10.73,
+          "totalMinutes": 663.7,
+          "gameMinutes": 663.7,
+          "totalHours": 11.06,
+          "gameHours": 11.06,
           "sessions": 3,
           "avgViewers": 1.7,
           "peakViewers": 4
@@ -429,7 +173,7 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 2,
+      "liveViewers": 3,
       "livePeakViewers": 3,
       "liveAvgViewers": 1.8,
       "liveSamples": [
@@ -524,6 +268,10 @@
         [
           "2026-09-15T19:10:13Z",
           2
+        ],
+        [
+          "2026-09-15T19:29:51Z",
+          3
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=S7FczCXp9KA"
@@ -5517,6 +5265,274 @@
       ]
     },
     {
+      "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
+      "name": "사관혜진없는사람",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCN00BJN3cRt2-ZOhrTCQaIA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-15T19:29:51Z",
+      "lastTitle": "내 아내 뎁마 [ 이터널리턴 ]",
+      "buckets": {
+        "today": {
+          "totalMinutes": 269.9,
+          "gameMinutes": 269.9,
+          "totalHours": 4.5,
+          "gameHours": 4.5,
+          "sessions": 1,
+          "avgViewers": 2.1,
+          "peakViewers": 4
+        },
+        "week": {
+          "totalMinutes": 705.8,
+          "gameMinutes": 705.8,
+          "totalHours": 11.76,
+          "gameHours": 11.76,
+          "sessions": 2,
+          "avgViewers": 2.7,
+          "peakViewers": 6
+        },
+        "month": {
+          "totalMinutes": 879.8,
+          "gameMinutes": 879.8,
+          "totalHours": 14.66,
+          "gameHours": 14.66,
+          "sessions": 3,
+          "avgViewers": 2.5,
+          "peakViewers": 6
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
+          "name": "사관혜진없는사람",
+          "videoId": "wZm4J56YDlw",
+          "videoUrl": "https://www.youtube.com/watch?v=wZm4J56YDlw",
+          "start": "2026-09-15T12:54:18Z",
+          "end": "2026-09-15T19:29:51Z",
+          "minutes": 395.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "내 아내 뎁마 [ 이터널리턴 ]",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.1,
+          "samples": [
+            [
+              "2026-09-15T12:54:18Z",
+              2
+            ],
+            [
+              "2026-09-15T13:12:22Z",
+              1
+            ],
+            [
+              "2026-09-15T13:32:46Z",
+              1
+            ],
+            [
+              "2026-09-15T13:50:45Z",
+              1
+            ],
+            [
+              "2026-09-15T14:12:12Z",
+              2
+            ],
+            [
+              "2026-09-15T14:50:33Z",
+              1
+            ],
+            [
+              "2026-09-15T15:11:13Z",
+              1
+            ],
+            [
+              "2026-09-15T15:31:02Z",
+              4
+            ],
+            [
+              "2026-09-15T16:00:25Z",
+              4
+            ],
+            [
+              "2026-09-15T16:23:14Z",
+              3
+            ],
+            [
+              "2026-09-15T16:41:37Z",
+              1
+            ],
+            [
+              "2026-09-15T16:57:21Z",
+              2
+            ],
+            [
+              "2026-09-15T17:14:11Z",
+              2
+            ],
+            [
+              "2026-09-15T17:29:18Z",
+              2
+            ],
+            [
+              "2026-09-15T17:43:48Z",
+              1
+            ],
+            [
+              "2026-09-15T17:56:15Z",
+              1
+            ],
+            [
+              "2026-09-15T18:14:46Z",
+              1
+            ],
+            [
+              "2026-09-15T18:33:09Z",
+              3
+            ],
+            [
+              "2026-09-15T18:51:04Z",
+              4
+            ],
+            [
+              "2026-09-15T19:10:13Z",
+              4
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
+          "name": "사관혜진없는사람",
+          "videoId": "330bLNYcAwE",
+          "videoUrl": "https://www.youtube.com/watch?v=330bLNYcAwE",
+          "start": "2026-09-14T12:39:13Z",
+          "end": "2026-09-14T17:49:26Z",
+          "minutes": 310.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "살아남아야 한다 [ 이터널리턴 ]",
+          "game": null,
+          "peakViewers": 6,
+          "avgViewers": 3.5,
+          "samples": [
+            [
+              "2026-09-14T12:39:13Z",
+              1
+            ],
+            [
+              "2026-09-14T12:57:47Z",
+              4
+            ],
+            [
+              "2026-09-14T13:19:25Z",
+              2
+            ],
+            [
+              "2026-09-14T13:36:19Z",
+              3
+            ],
+            [
+              "2026-09-14T13:52:01Z",
+              3
+            ],
+            [
+              "2026-09-14T14:13:08Z",
+              5
+            ],
+            [
+              "2026-09-14T14:34:43Z",
+              4
+            ],
+            [
+              "2026-09-14T14:52:53Z",
+              5
+            ],
+            [
+              "2026-09-14T15:13:31Z",
+              3
+            ],
+            [
+              "2026-09-14T15:34:14Z",
+              5
+            ],
+            [
+              "2026-09-14T15:51:55Z",
+              6
+            ],
+            [
+              "2026-09-14T16:11:48Z",
+              4
+            ],
+            [
+              "2026-09-14T16:32:45Z",
+              3
+            ],
+            [
+              "2026-09-14T16:52:11Z",
+              4
+            ],
+            [
+              "2026-09-14T17:10:13Z",
+              1
+            ],
+            [
+              "2026-09-14T17:30:27Z",
+              3
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
+          "name": "사관혜진없는사람",
+          "videoId": "11uNdURw-80",
+          "videoUrl": "https://www.youtube.com/watch?v=11uNdURw-80",
+          "start": "2026-09-11T12:22:15Z",
+          "end": "2026-09-11T15:16:19Z",
+          "minutes": 174.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "유니온 (w.뮤황이.레제누프) [ 이터널리턴 ]",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.8,
+          "samples": [
+            [
+              "2026-09-11T12:44:23Z",
+              3
+            ],
+            [
+              "2026-09-11T13:18:16Z",
+              2
+            ],
+            [
+              "2026-09-11T13:33:39Z",
+              1
+            ],
+            [
+              "2026-09-11T13:49:15Z",
+              3
+            ],
+            [
+              "2026-09-11T14:00:11Z",
+              2
+            ],
+            [
+              "2026-09-11T14:23:05Z",
+              1
+            ],
+            [
+              "2026-09-11T14:57:45Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
       "name": "지몽지",
       "registered": true,
@@ -10319,6 +10335,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCN00BJN3cRt2-ZOhrTCQaIA",
+      "name": "사관혜진없는사람",
+      "videoId": "wZm4J56YDlw",
+      "videoUrl": "https://www.youtube.com/watch?v=wZm4J56YDlw",
+      "start": "2026-09-15T12:54:18Z",
+      "end": "2026-09-15T19:29:51Z",
+      "minutes": 395.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "내 아내 뎁마 [ 이터널리턴 ]",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 2.1,
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
       "name": "氷乃渚",
       "videoId": "ISFoxAysKck",
@@ -11164,22 +11196,6 @@
       "game": null,
       "peakViewers": 102,
       "avgViewers": 85.1,
-      "isTargetGame": true
-    },
-    {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "2sF8nAJ1JlQ",
-      "videoUrl": "https://www.youtube.com/watch?v=2sF8nAJ1JlQ",
-      "start": "2026-09-14T11:32:47Z",
-      "end": "2026-09-14T13:52:01Z",
-      "minutes": 139.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 エタリタ 】エタリタスクリムday 頭フル回転【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 35,
-      "avgViewers": 27.9,
       "isTargetGame": true
     }
   ]
