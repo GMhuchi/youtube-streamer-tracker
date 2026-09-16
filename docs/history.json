@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:48:15Z",
+  "updatedAt": "2026-09-16T21:58:44Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,16 +20,16 @@
       "gameMinutes": 1306.5,
       "totalHours": 34.18,
       "gameHours": 21.78,
-      "sessions": 15,
+      "sessions": 17,
       "avgViewers": 51.1,
-      "peakViewers": 573
+      "peakViewers": 580
     },
     "week": {
       "totalMinutes": 26877.9,
       "gameMinutes": 16297.4,
       "totalHours": 447.96,
       "gameHours": 271.62,
-      "sessions": 174,
+      "sessions": 176,
       "avgViewers": 68.2,
       "peakViewers": 994
     },
@@ -38,12 +38,478 @@
       "gameMinutes": 25798.5,
       "totalHours": 817.38,
       "gameHours": 429.97,
-      "sessions": 298,
+      "sessions": 300,
       "avgViewers": 83.8,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
+      "isLive": true,
+      "liveSince": "2026-09-16T21:58:44Z",
+      "liveTitle": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-09-16T21:48:15Z",
+      "lastTitle": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+      "buckets": {
+        "today": {
+          "totalMinutes": 14.3,
+          "gameMinutes": 0.0,
+          "totalHours": 0.24,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 57.1,
+          "peakViewers": 230
+        },
+        "week": {
+          "totalMinutes": 587.8,
+          "gameMinutes": 168.3,
+          "totalHours": 9.8,
+          "gameHours": 2.8,
+          "sessions": 5,
+          "avgViewers": 182.5,
+          "peakViewers": 295
+        },
+        "month": {
+          "totalMinutes": 2087.0,
+          "gameMinutes": 168.3,
+          "totalHours": 34.78,
+          "gameHours": 2.8,
+          "sessions": 11,
+          "avgViewers": 289.3,
+          "peakViewers": 888
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zo7MULYVrlQ",
+          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
+          "start": "2026-09-16T21:33:55Z",
+          "end": "2026-09-16T21:48:15Z",
+          "minutes": 14.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 57,
+          "avgViewers": 57.0,
+          "samples": [
+            [
+              "2026-09-16T21:33:55Z",
+              57
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "LrTBWuYI7gE",
+          "videoUrl": "https://www.youtube.com/watch?v=LrTBWuYI7gE",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 65,
+          "avgViewers": 65.0,
+          "samples": [
+            [
+              "2026-09-16T13:02:30Z",
+              65
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "LrTBWuYI7gE",
+          "videoUrl": "https://www.youtube.com/watch?v=LrTBWuYI7gE",
+          "start": "2026-09-16T10:23:47Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 146.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 84,
+          "avgViewers": 66.4,
+          "samples": [
+            [
+              "2026-09-16T10:23:47Z",
+              65
+            ],
+            [
+              "2026-09-16T10:41:18Z",
+              65
+            ],
+            [
+              "2026-09-16T10:57:02Z",
+              84
+            ],
+            [
+              "2026-09-16T11:15:34Z",
+              68
+            ],
+            [
+              "2026-09-16T11:32:17Z",
+              55
+            ],
+            [
+              "2026-09-16T11:49:36Z",
+              69
+            ],
+            [
+              "2026-09-16T12:00:12Z",
+              61
+            ],
+            [
+              "2026-09-16T12:28:20Z",
+              67
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "9kZIDSmIxFc",
+          "videoUrl": "https://www.youtube.com/watch?v=9kZIDSmIxFc",
+          "start": "2026-09-15T10:12:09Z",
+          "end": "2026-09-15T16:57:21Z",
+          "minutes": 405.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 ダイヤを目指していこう💎〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 295,
+          "avgViewers": 235.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "1jV6cFvQU7k",
+          "videoUrl": "https://www.youtube.com/watch?v=1jV6cFvQU7k",
+          "start": "2026-09-13T04:17:14Z",
+          "end": "2026-09-13T10:06:35Z",
+          "minutes": 349.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS╎Watch Party 〗 ランク＆途中までYear6Split2みんなで応援会場📢🌟 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 888,
+          "avgViewers": 367.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zz0_U5-a5RI",
+          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
+          "start": "2026-09-12T12:33:45Z",
+          "end": "2026-09-12T16:30:08Z",
+          "minutes": 236.4,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zz0_U5-a5RI",
+          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
+          "start": "2026-09-12T12:33:45Z",
+          "end": "2026-09-12T17:15:48Z",
+          "minutes": 282.1,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "n3cfBSANUw4",
+          "videoUrl": "https://www.youtube.com/watch?v=n3cfBSANUw4",
+          "start": "2026-09-12T08:21:54Z",
+          "end": "2026-09-12T11:10:51Z",
+          "minutes": 169.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの縦型だよ🎤🎶#shorts #歌枠  〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 310,
+          "avgViewers": 259.8,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 230,
+      "livePeakViewers": 230,
+      "liveAvgViewers": 230.0,
+      "liveSamples": [
+        [
+          "2026-09-16T21:58:44Z",
+          230
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ"
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "isLive": true,
+      "liveSince": "2026-09-16T21:58:44Z",
+      "liveTitle": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "lastEnd": "2026-09-16T21:48:15Z",
+      "lastTitle": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 14.3,
+          "gameMinutes": 0.0,
+          "totalHours": 0.24,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 108.2,
+          "peakViewers": 580
+        },
+        "week": {
+          "totalMinutes": 717.1,
+          "gameMinutes": 544.2,
+          "totalHours": 11.95,
+          "gameHours": 9.07,
+          "sessions": 7,
+          "avgViewers": 299.2,
+          "peakViewers": 814
+        },
+        "month": {
+          "totalMinutes": 1225.5,
+          "gameMinutes": 698.2,
+          "totalHours": 20.42,
+          "gameHours": 11.64,
+          "sessions": 12,
+          "avgViewers": 341.4,
+          "peakViewers": 994
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "6IYPXCwHjbk",
+          "videoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk",
+          "start": "2026-09-16T21:33:55Z",
+          "end": "2026-09-16T21:48:15Z",
+          "minutes": 14.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 108,
+          "avgViewers": 108.0,
+          "samples": [
+            [
+              "2026-09-16T21:33:55Z",
+              108
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "j8o9qn-3gVw",
+          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 172,
+          "avgViewers": 172.0,
+          "samples": [
+            [
+              "2026-09-16T13:02:30Z",
+              172
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "j8o9qn-3gVw",
+          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
+          "start": "2026-09-16T10:00:44Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 169.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 253,
+          "avgViewers": 208.3,
+          "samples": [
+            [
+              "2026-09-16T10:00:44Z",
+              86
+            ],
+            [
+              "2026-09-16T10:23:47Z",
+              191
+            ],
+            [
+              "2026-09-16T10:41:18Z",
+              253
+            ],
+            [
+              "2026-09-16T10:57:02Z",
+              231
+            ],
+            [
+              "2026-09-16T11:15:34Z",
+              246
+            ],
+            [
+              "2026-09-16T11:32:17Z",
+              212
+            ],
+            [
+              "2026-09-16T11:49:36Z",
+              241
+            ],
+            [
+              "2026-09-16T12:00:12Z",
+              237
+            ],
+            [
+              "2026-09-16T12:28:20Z",
+              216
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "fTrDBAZNgr8",
+          "videoUrl": "https://www.youtube.com/watch?v=fTrDBAZNgr8",
+          "start": "2026-09-15T11:01:11Z",
+          "end": "2026-09-15T14:50:33Z",
+          "minutes": 229.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】明日の大会に向けて！デビマリで頑張りたい…！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 227,
+          "avgViewers": 188.5,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "gjM3eqQMQUw",
+          "videoUrl": "https://www.youtube.com/watch?v=gjM3eqQMQUw",
+          "start": "2026-09-14T21:40:55Z",
+          "end": "2026-09-15T00:19:30Z",
+          "minutes": 158.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#295［2026.9/15］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 814,
+          "avgViewers": 675.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "F_33RLjw9es",
+          "videoUrl": "https://www.youtube.com/watch?v=F_33RLjw9es",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:36:19Z",
+          "minutes": 123.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】明後日の大会に向けて！ひよらず戦いたい！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 204,
+          "avgViewers": 190.9,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "JIg_y9jXZno",
+          "videoUrl": "https://www.youtube.com/watch?v=JIg_y9jXZno",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T13:10:56Z",
+          "minutes": 75.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 523,
+          "avgViewers": 502.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "JIg_y9jXZno",
+          "videoUrl": "https://www.youtube.com/watch?v=JIg_y9jXZno",
+          "start": "2026-09-13T11:11:28Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 30.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 512,
+          "avgViewers": 442.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 580,
+      "livePeakViewers": 580,
+      "liveAvgViewers": 580.0,
+      "liveSamples": [
+        [
+          "2026-09-16T21:58:44Z",
+          580
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk"
+    },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -1002,227 +1468,6 @@
           "game": null,
           "peakViewers": 52,
           "avgViewers": 50.5,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-16T21:48:15Z",
-      "lastTitle": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 14.3,
-          "gameMinutes": 0.0,
-          "totalHours": 0.24,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 57.0,
-          "peakViewers": 57
-        },
-        "week": {
-          "totalMinutes": 587.8,
-          "gameMinutes": 168.3,
-          "totalHours": 9.8,
-          "gameHours": 2.8,
-          "sessions": 4,
-          "avgViewers": 182.5,
-          "peakViewers": 295
-        },
-        "month": {
-          "totalMinutes": 2087.0,
-          "gameMinutes": 168.3,
-          "totalHours": 34.78,
-          "gameHours": 2.8,
-          "sessions": 10,
-          "avgViewers": 289.3,
-          "peakViewers": 888
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zo7MULYVrlQ",
-          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
-          "start": "2026-09-16T21:33:55Z",
-          "end": "2026-09-16T21:48:15Z",
-          "minutes": 14.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 57,
-          "avgViewers": 57.0,
-          "samples": [
-            [
-              "2026-09-16T21:33:55Z",
-              57
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "LrTBWuYI7gE",
-          "videoUrl": "https://www.youtube.com/watch?v=LrTBWuYI7gE",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 65,
-          "avgViewers": 65.0,
-          "samples": [
-            [
-              "2026-09-16T13:02:30Z",
-              65
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "LrTBWuYI7gE",
-          "videoUrl": "https://www.youtube.com/watch?v=LrTBWuYI7gE",
-          "start": "2026-09-16T10:23:47Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 146.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 84,
-          "avgViewers": 66.4,
-          "samples": [
-            [
-              "2026-09-16T10:23:47Z",
-              65
-            ],
-            [
-              "2026-09-16T10:41:18Z",
-              65
-            ],
-            [
-              "2026-09-16T10:57:02Z",
-              84
-            ],
-            [
-              "2026-09-16T11:15:34Z",
-              68
-            ],
-            [
-              "2026-09-16T11:32:17Z",
-              55
-            ],
-            [
-              "2026-09-16T11:49:36Z",
-              69
-            ],
-            [
-              "2026-09-16T12:00:12Z",
-              61
-            ],
-            [
-              "2026-09-16T12:28:20Z",
-              67
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "9kZIDSmIxFc",
-          "videoUrl": "https://www.youtube.com/watch?v=9kZIDSmIxFc",
-          "start": "2026-09-15T10:12:09Z",
-          "end": "2026-09-15T16:57:21Z",
-          "minutes": 405.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 ダイヤを目指していこう💎〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 295,
-          "avgViewers": 235.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "1jV6cFvQU7k",
-          "videoUrl": "https://www.youtube.com/watch?v=1jV6cFvQU7k",
-          "start": "2026-09-13T04:17:14Z",
-          "end": "2026-09-13T10:06:35Z",
-          "minutes": 349.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS╎Watch Party 〗 ランク＆途中までYear6Split2みんなで応援会場📢🌟 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 888,
-          "avgViewers": 367.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zz0_U5-a5RI",
-          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
-          "start": "2026-09-12T12:33:45Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 236.4,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zz0_U5-a5RI",
-          "videoUrl": "https://www.youtube.com/watch?v=Zz0_U5-a5RI",
-          "start": "2026-09-12T12:33:45Z",
-          "end": "2026-09-12T17:15:48Z",
-          "minutes": 282.1,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〖 メン限 〗 ハートピアスローライフしながらまったり雑談 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "n3cfBSANUw4",
-          "videoUrl": "https://www.youtube.com/watch?v=n3cfBSANUw4",
-          "start": "2026-09-12T08:21:54Z",
-          "end": "2026-09-12T11:10:51Z",
-          "minutes": 169.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの縦型だよ🎤🎶#shorts #歌枠  〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 310,
-          "avgViewers": 259.8,
           "samples": [],
           "isTargetGame": false
         }
@@ -3642,231 +3887,6 @@
           "avgViewers": 2.0,
           "samples": [],
           "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-16T21:48:15Z",
-      "lastTitle": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 14.3,
-          "gameMinutes": 0.0,
-          "totalHours": 0.24,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 108.0,
-          "peakViewers": 108
-        },
-        "week": {
-          "totalMinutes": 717.1,
-          "gameMinutes": 544.2,
-          "totalHours": 11.95,
-          "gameHours": 9.07,
-          "sessions": 6,
-          "avgViewers": 299.2,
-          "peakViewers": 814
-        },
-        "month": {
-          "totalMinutes": 1225.5,
-          "gameMinutes": 698.2,
-          "totalHours": 20.42,
-          "gameHours": 11.64,
-          "sessions": 11,
-          "avgViewers": 341.4,
-          "peakViewers": 994
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "6IYPXCwHjbk",
-          "videoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk",
-          "start": "2026-09-16T21:33:55Z",
-          "end": "2026-09-16T21:48:15Z",
-          "minutes": 14.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 108,
-          "avgViewers": 108.0,
-          "samples": [
-            [
-              "2026-09-16T21:33:55Z",
-              108
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "j8o9qn-3gVw",
-          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 172,
-          "avgViewers": 172.0,
-          "samples": [
-            [
-              "2026-09-16T13:02:30Z",
-              172
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "j8o9qn-3gVw",
-          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
-          "start": "2026-09-16T10:00:44Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 169.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 253,
-          "avgViewers": 208.3,
-          "samples": [
-            [
-              "2026-09-16T10:00:44Z",
-              86
-            ],
-            [
-              "2026-09-16T10:23:47Z",
-              191
-            ],
-            [
-              "2026-09-16T10:41:18Z",
-              253
-            ],
-            [
-              "2026-09-16T10:57:02Z",
-              231
-            ],
-            [
-              "2026-09-16T11:15:34Z",
-              246
-            ],
-            [
-              "2026-09-16T11:32:17Z",
-              212
-            ],
-            [
-              "2026-09-16T11:49:36Z",
-              241
-            ],
-            [
-              "2026-09-16T12:00:12Z",
-              237
-            ],
-            [
-              "2026-09-16T12:28:20Z",
-              216
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "fTrDBAZNgr8",
-          "videoUrl": "https://www.youtube.com/watch?v=fTrDBAZNgr8",
-          "start": "2026-09-15T11:01:11Z",
-          "end": "2026-09-15T14:50:33Z",
-          "minutes": 229.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】明日の大会に向けて！デビマリで頑張りたい…！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 227,
-          "avgViewers": 188.5,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "gjM3eqQMQUw",
-          "videoUrl": "https://www.youtube.com/watch?v=gjM3eqQMQUw",
-          "start": "2026-09-14T21:40:55Z",
-          "end": "2026-09-15T00:19:30Z",
-          "minutes": 158.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#295［2026.9/15］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 814,
-          "avgViewers": 675.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "F_33RLjw9es",
-          "videoUrl": "https://www.youtube.com/watch?v=F_33RLjw9es",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:36:19Z",
-          "minutes": 123.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】明後日の大会に向けて！ひよらず戦いたい！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 204,
-          "avgViewers": 190.9,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "JIg_y9jXZno",
-          "videoUrl": "https://www.youtube.com/watch?v=JIg_y9jXZno",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T13:10:56Z",
-          "minutes": 75.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 523,
-          "avgViewers": 502.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "JIg_y9jXZno",
-          "videoUrl": "https://www.youtube.com/watch?v=JIg_y9jXZno",
-          "start": "2026-09-13T11:11:28Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 30.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほぐもぐ】おもち×たまごの『月見もっち』を食べてみるよ！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 512,
-          "avgViewers": 442.0,
-          "samples": [],
-          "isTargetGame": false
         }
       ]
     },
