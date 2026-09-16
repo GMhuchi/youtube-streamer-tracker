@@ -1,1359 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCdfqaZPAstutii6NLvGoblA": {
-      "channelId": "UCdfqaZPAstutii6NLvGoblA",
-      "name": "김머만",
-      "videoId": "_aF-ID75tXs",
-      "start": "2026-09-16T09:31:58Z",
-      "startSource": "observed",
-      "title": "김머만님의 실시간 스트림 이터널 리턴",
-      "game": null,
-      "peakViewers": 6,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T09:31:58Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T09:49:47Z",
-          2
-        ],
-        [
-          "2026-09-16T10:00:44Z",
-          2
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          6
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          2
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          2
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          2
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          3
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          4
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          3
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          1
-        ]
-      ]
-    },
-    "UCNGMMdEgYIUR6rC44v9aZ8w": {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "3OVkjc3wxuQ",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】肉食おうぜ！肉！いくぜ４２８０円！【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 25,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          8
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          20
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          21
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          24
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          25
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          25
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          25
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          25
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          24
-        ]
-      ]
-    },
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "TxCDQSrAs3I",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【Eternal Return】大会本番！あほぐみ で！ニアちゃんで！あむがんばる！【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 105,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          37
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          78
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          105
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          84
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          99
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          86
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          83
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          71
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          87
-        ]
-      ]
-    },
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "3lLsihugbV8",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】大会本番！朕たちがドミネーターだ！【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 289,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          102
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          216
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          234
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          276
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          248
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          260
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          247
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          289
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          280
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "j8o9qn-3gVw",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 253,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          86
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          191
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          253
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          231
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          246
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          212
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          241
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          237
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          216
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "LCB7h-42Pxw",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【 エタリタ 】DOMINEX 本番優勝するぞ w/メーメント・ヴァニタス 埼凰リンネ【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 31,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          4
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          20
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          20
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          29
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          27
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          30
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          26
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          31
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          26
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "yIGXfD7qmgI",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】熱笑界隈WIN【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 57,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          14
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          48
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          57
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          43
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          51
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          43
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          36
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          36
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          45
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "IY_zF1RcwuM",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【DOMINEX〜Eternal Return〜】大会本番、全力で勝ちに行くぞ【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 26,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          2
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          26
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          25
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          22
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          19
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          20
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          22
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          22
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          19
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "IUEM6zUaM0s",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【Eternal Return】大会本番だ！team酒好き！優勝目指して頑張るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
-      "game": null,
-      "peakViewers": 12,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          5
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          11
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          12
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          8
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          9
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          7
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          8
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          8
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          11
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "Y5nc5pfpDUY",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "🟣9/16【 #エターナルリターン 】本番必勝🔥優勝👑熱笑界隈！！【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 19,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          5
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          9
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          16
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          10
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          17
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          16
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          19
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          14
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          19
-        ]
-      ]
-    },
-    "UCADIxr9ho7V60xs9gT9xWhA": {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "nvuVCVqr2tQ",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【 DOMINEX〜Eternal Return〜】勝つぞ、4280円  w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION 】",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          1
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          8
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          7
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          7
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          6
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          2
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          6
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          6
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          7
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "KQb0pJwIMo8",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【エタリタ】大会本番🔥チーム：アクア・トリニティがんばります🔥　【恋沼ミヤ】",
-      "game": null,
-      "peakViewers": 40,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          4
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          30
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          35
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          40
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          23
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          16
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          28
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          29
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          23
-        ]
-      ]
-    },
-    "UCe5mbpYA9Yym4lZTdj06G6Q": {
-      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-      "name": "氷乃渚",
-      "videoId": "Dgpe4g-RVDk",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【エタリタ】大会本番！完全初心者でも優勝できますか【氷乃渚 / ゆにれいど！】",
-      "game": null,
-      "peakViewers": 43,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          9
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          36
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          43
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          31
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          28
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          34
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          33
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          31
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          31
-        ]
-      ]
-    },
-    "UCZgOv3YDEs-ZnZWDYVwJdmA": {
-      "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "videoId": "tTObyA8yfn4",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【 エターナルリターン / ゆかそ】遠慮なくいくぞ！ w/ Day1 千燈ゆうひ【 #奏手イヅル 】",
-      "game": null,
-      "peakViewers": 342,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          121
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          296
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          318
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          342
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          313
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          325
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          321
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          302
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          339
-        ]
-      ]
-    },
-    "UCuDY3ibSP2MFRgf7eo3cojg": {
-      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-      "name": "千燈ゆうひ",
-      "videoId": "OBN3i-9KDKs",
-      "start": "2026-09-16T10:00:44Z",
-      "startSource": "observed",
-      "title": "【Eternal Return】DOMINATORSに、俺らはなる！ #PR 【 ぶいすぽっ！ / 千燈ゆうひ 】",
-      "game": null,
-      "peakViewers": 620,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:00:44Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:00:44Z",
-          620
-        ],
-        [
-          "2026-09-16T10:23:47Z",
-          19
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          24
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          26
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          26
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          26
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          26
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          26
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          27
-        ]
-      ]
-    },
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "LrTBWuYI7gE",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 84,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          65
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          65
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          84
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          68
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          55
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          69
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          61
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          67
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "-cBpiZebXvA",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】本番勝つぞー！キャリーする！#PR【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 49,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          35
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          32
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          44
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          37
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          49
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          35
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          44
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          40
-        ]
-      ]
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "UrwkDfNbaP8",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "〚 エタリタ〛ついに本番！TeJüS︎✧のタンクいっきまーーす！！〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
-      "game": null,
-      "peakViewers": 28,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          22
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          26
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          28
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          27
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          23
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          19
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          20
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          22
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "e01odl0rjGQ",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】DOMINEX大会本番！# 熱笑界隈WIN【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 49,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          42
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          46
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          42
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          47
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          34
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          46
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          49
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          45
-        ]
-      ]
-    },
-    "UCo3zRhsnXIieauvm6c-xwkA": {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "PdXyHHaTknw",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン】大会本番！チームTeJüS✧【#七乃羽すず┆心白てと┆甘成じゅい】",
-      "game": null,
-      "peakViewers": 25,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          20
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          16
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          17
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          20
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          25
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          23
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          18
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          18
-        ]
-      ]
-    },
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "oCEPovS5T1w",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "【 エターナルリターン 】チームあほぐみWIN！✨大会本番頑張るぞ～！🔥【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 135,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          105
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          93
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          135
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          82
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          93
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          88
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          79
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          84
-        ]
-      ]
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "xYU9ymXL0TU",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
-      "game": null,
-      "peakViewers": 31,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          26
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          24
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          31
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          26
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          24
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          24
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          23
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          28
-        ]
-      ]
-    },
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "pTbhDa7JCmw",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "【DOMINEX〜Eternal Return〜】大会本番！私たち、優勝させていただきます【水上蒼太/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 39,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          27
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          39
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          31
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          30
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          26
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          33
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          25
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          25
-        ]
-      ]
-    },
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "obZTffLh1hE",
-      "start": "2026-09-16T10:23:47Z",
-      "startSource": "observed",
-      "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 11,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:23:47Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:23:47Z",
-          8
-        ],
-        [
-          "2026-09-16T10:41:18Z",
-          10
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          9
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          8
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          8
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          11
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          8
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          7
-        ]
-      ]
-    },
-    "UCuiCSi3AbTLTzvd74UIjZIQ": {
-      "channelId": "UCuiCSi3AbTLTzvd74UIjZIQ",
-      "name": "DOMINEX",
-      "videoId": "aIN0_vOXkzo",
-      "start": "2026-09-16T10:41:18Z",
-      "startSource": "observed",
-      "title": "【DOMINEX〜Eternal Return〜】第二回 『エターナルリターン』-本配信-",
-      "game": null,
-      "peakViewers": 965,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T10:41:18Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T10:41:18Z",
-          491
-        ],
-        [
-          "2026-09-16T10:57:02Z",
-          724
-        ],
-        [
-          "2026-09-16T11:15:34Z",
-          704
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          782
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          841
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          874
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          965
-        ]
-      ]
-    },
-    "UCn5ZfWrb5xHwzqczEl5NlxQ": {
-      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "name": "지몽지",
-      "videoId": "vn873FHBx_4",
-      "start": "2026-09-16T11:15:34Z",
-      "startSource": "observed",
-      "title": "[리버스 1999] 1부 도파민 디톡스 저챗 / 2부 리버스 1999 4챕터 완결내기",
-      "game": null,
-      "peakViewers": 4,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-16T11:15:34Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T11:15:34Z",
-          1
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          2
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          4
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          2
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          2
-        ]
-      ]
-    },
-    "UCyIhcCDDXC_1ssqC8Bcrcng": {
-      "channelId": "UCyIhcCDDXC_1ssqC8Bcrcng",
-      "name": "느긋하게 갑시다",
-      "videoId": "qbDhBGcvlso",
-      "start": "2026-09-16T11:15:34Z",
-      "startSource": "observed",
-      "title": "이터널리턴-일겜도 일겜이지만 살짝 플레 랭겜 찍먹은 괜찮잖아",
-      "game": null,
-      "peakViewers": 3,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T11:15:34Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T11:15:34Z",
-          2
-        ],
-        [
-          "2026-09-16T11:32:17Z",
-          3
-        ],
-        [
-          "2026-09-16T11:49:36Z",
-          2
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          2
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          2
-        ]
-      ]
-    },
-    "UCcFkDV3IwGz-bUuLZFUu2fg": {
-      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-      "name": "몰라",
-      "videoId": "JIi6Hnsxd04",
-      "start": "2026-09-16T11:49:36Z",
-      "startSource": "observed",
-      "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-      "game": null,
-      "peakViewers": 2,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T11:49:36Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T11:49:36Z",
-          2
-        ],
-        [
-          "2026-09-16T12:00:12Z",
-          2
-        ],
-        [
-          "2026-09-16T12:28:20Z",
-          2
-        ]
-      ]
-    },
-    "UCJIYiqfqTQa4vV7--giKWEQ": {
-      "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
-      "name": "なつなっつん / natsu_game01",
-      "videoId": "DRCHhyN_GGc",
-      "start": "2026-09-16T12:28:20Z",
-      "startSource": "observed",
-      "title": "【スプラレイダース】ヌル",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-16T12:28:20Z",
-      "lastSeenAt": "2026-09-16T12:28:20Z",
-      "samples": [
-        [
-          "2026-09-16T12:28:20Z",
-          1
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -13321,6 +11969,64 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UCdfqaZPAstutii6NLvGoblA",
+      "name": "김머만",
+      "videoId": "_aF-ID75tXs",
+      "videoUrl": "https://www.youtube.com/watch?v=_aF-ID75tXs",
+      "start": "2026-09-16T09:31:58Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 197.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "김머만님의 실시간 스트림 이터널 리턴",
+      "game": null,
+      "peakViewers": 6,
+      "avgViewers": 2.7,
+      "samples": [
+        [
+          "2026-09-16T09:49:47Z",
+          2
+        ],
+        [
+          "2026-09-16T10:00:44Z",
+          2
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          6
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          2
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          2
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          2
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          3
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          4
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          3
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          1
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCu_wzgY66UERqo1rz1HeILA",
       "name": "happy(^__^)",
       "videoId": "n7ZRSXnGc80",
@@ -13392,6 +12098,762 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "3OVkjc3wxuQ",
+      "videoUrl": "https://www.youtube.com/watch?v=3OVkjc3wxuQ",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】肉食おうぜ！肉！いくぜ４２８０円！【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 25,
+      "avgViewers": 21.5,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          8
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          20
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          21
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          24
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          25
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          25
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          25
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          25
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          24
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "TxCDQSrAs3I",
+      "videoUrl": "https://www.youtube.com/watch?v=TxCDQSrAs3I",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Eternal Return】大会本番！あほぐみ で！ニアちゃんで！あむがんばる！【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 105,
+      "avgViewers": 78.6,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          37
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          78
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          105
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          84
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          99
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          86
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          83
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          71
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          87
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "3lLsihugbV8",
+      "videoUrl": "https://www.youtube.com/watch?v=3lLsihugbV8",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】大会本番！朕たちがドミネーターだ！【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 289,
+      "avgViewers": 237.8,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          102
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          216
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          234
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          276
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          248
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          260
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          247
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          289
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          280
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "j8o9qn-3gVw",
+      "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 253,
+      "avgViewers": 208.3,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          86
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          191
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          253
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          231
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          246
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          212
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          241
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          237
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          216
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "LCB7h-42Pxw",
+      "videoUrl": "https://www.youtube.com/watch?v=LCB7h-42Pxw",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 エタリタ 】DOMINEX 本番優勝するぞ w/メーメント・ヴァニタス 埼凰リンネ【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 31,
+      "avgViewers": 23.4,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          4
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          20
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          20
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          29
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          27
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          30
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          26
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          31
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          26
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "yIGXfD7qmgI",
+      "videoUrl": "https://www.youtube.com/watch?v=yIGXfD7qmgI",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】熱笑界隈WIN【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 57,
+      "avgViewers": 40.2,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          14
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          48
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          57
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          43
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          51
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          43
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          36
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          36
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          45
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "IY_zF1RcwuM",
+      "videoUrl": "https://www.youtube.com/watch?v=IY_zF1RcwuM",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【DOMINEX〜Eternal Return〜】大会本番、全力で勝ちに行くぞ【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 26,
+      "avgViewers": 19.1,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          2
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          26
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          25
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          22
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          19
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          20
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          22
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          22
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          19
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "IUEM6zUaM0s",
+      "videoUrl": "https://www.youtube.com/watch?v=IUEM6zUaM0s",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Eternal Return】大会本番だ！team酒好き！優勝目指して頑張るぞ！！【埼凰リンネ / YUMENOS】#新人vtuber #EternalReturn",
+      "game": null,
+      "peakViewers": 12,
+      "avgViewers": 8.6,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          5
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          11
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          12
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          8
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          9
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          7
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          8
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          8
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          11
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "Y5nc5pfpDUY",
+      "videoUrl": "https://www.youtube.com/watch?v=Y5nc5pfpDUY",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣9/16【 #エターナルリターン 】本番必勝🔥優勝👑熱笑界隈！！【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 19,
+      "avgViewers": 13.4,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          5
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          9
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          16
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          10
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          17
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          16
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          19
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          14
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          19
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "nvuVCVqr2tQ",
+      "videoUrl": "https://www.youtube.com/watch?v=nvuVCVqr2tQ",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 DOMINEX〜Eternal Return〜】勝つぞ、4280円  w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION 】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 5.4,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          1
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          8
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          7
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          7
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          6
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          2
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          6
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          6
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          7
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "KQb0pJwIMo8",
+      "videoUrl": "https://www.youtube.com/watch?v=KQb0pJwIMo8",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エタリタ】大会本番🔥チーム：アクア・トリニティがんばります🔥　【恋沼ミヤ】",
+      "game": null,
+      "peakViewers": 40,
+      "avgViewers": 24.7,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          4
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          30
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          35
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          40
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          23
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          16
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          28
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          29
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          23
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+      "name": "氷乃渚",
+      "videoId": "Dgpe4g-RVDk",
+      "videoUrl": "https://www.youtube.com/watch?v=Dgpe4g-RVDk",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エタリタ】大会本番！完全初心者でも優勝できますか【氷乃渚 / ゆにれいど！】",
+      "game": null,
+      "peakViewers": 43,
+      "avgViewers": 29.7,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          9
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          36
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          43
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          31
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          28
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          34
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          33
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          31
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          31
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "videoId": "tTObyA8yfn4",
+      "videoUrl": "https://www.youtube.com/watch?v=tTObyA8yfn4",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 エターナルリターン / ゆかそ】遠慮なくいくぞ！ w/ Day1 千燈ゆうひ【 #奏手イヅル 】",
+      "game": null,
+      "peakViewers": 342,
+      "avgViewers": 291.1,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          121
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          296
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          318
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          342
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          313
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          325
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          321
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          302
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          339
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+      "name": "千燈ゆうひ",
+      "videoId": "OBN3i-9KDKs",
+      "videoUrl": "https://www.youtube.com/watch?v=OBN3i-9KDKs",
+      "start": "2026-09-16T10:00:44Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 169.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Eternal Return】DOMINATORSに、俺らはなる！ #PR 【 ぶいすぽっ！ / 千燈ゆうひ 】",
+      "game": null,
+      "peakViewers": 620,
+      "avgViewers": 107.6,
+      "samples": [
+        [
+          "2026-09-16T10:00:44Z",
+          620
+        ],
+        [
+          "2026-09-16T10:23:47Z",
+          19
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          24
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          26
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          26
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          26
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          26
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          26
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          27
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCu_wzgY66UERqo1rz1HeILA",
       "name": "happy(^__^)",
       "videoId": "pjnZfbywxWA",
@@ -13414,6 +12876,456 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "LrTBWuYI7gE",
+      "videoUrl": "https://www.youtube.com/watch?v=LrTBWuYI7gE",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 84,
+      "avgViewers": 66.4,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          65
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          65
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          84
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          68
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          55
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          69
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          61
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          67
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "-cBpiZebXvA",
+      "videoUrl": "https://www.youtube.com/watch?v=-cBpiZebXvA",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】本番勝つぞー！キャリーする！#PR【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 49,
+      "avgViewers": 40.2,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          35
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          32
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          44
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          37
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          49
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          35
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          44
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          40
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "UrwkDfNbaP8",
+      "videoUrl": "https://www.youtube.com/watch?v=UrwkDfNbaP8",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚 エタリタ〛ついに本番！TeJüS︎✧のタンクいっきまーーす！！〚 甘成じゅい/ゆにれいど！ 〛#エターナルリターン",
+      "game": null,
+      "peakViewers": 28,
+      "avgViewers": 23.3,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          22
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          26
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          28
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          27
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          23
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          19
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          20
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          22
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "e01odl0rjGQ",
+      "videoUrl": "https://www.youtube.com/watch?v=e01odl0rjGQ",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】DOMINEX大会本番！# 熱笑界隈WIN【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 49,
+      "avgViewers": 44.1,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          42
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          46
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          42
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          47
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          34
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          46
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          49
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          45
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "PdXyHHaTknw",
+      "videoUrl": "https://www.youtube.com/watch?v=PdXyHHaTknw",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン】大会本番！チームTeJüS✧【#七乃羽すず┆心白てと┆甘成じゅい】",
+      "game": null,
+      "peakViewers": 25,
+      "avgViewers": 19.4,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          20
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          16
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          17
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          20
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          25
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          23
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          18
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          18
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "oCEPovS5T1w",
+      "videoUrl": "https://www.youtube.com/watch?v=oCEPovS5T1w",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 エターナルリターン 】チームあほぐみWIN！✨大会本番頑張るぞ～！🔥【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 135,
+      "avgViewers": 94.4,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          105
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          93
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          135
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          82
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          93
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          88
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          79
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          84
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "xYU9ymXL0TU",
+      "videoUrl": "https://www.youtube.com/watch?v=xYU9ymXL0TU",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
+      "game": null,
+      "peakViewers": 31,
+      "avgViewers": 25.7,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          26
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          24
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          31
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          26
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          24
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          24
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          23
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          28
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "pTbhDa7JCmw",
+      "videoUrl": "https://www.youtube.com/watch?v=pTbhDa7JCmw",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【DOMINEX〜Eternal Return〜】大会本番！私たち、優勝させていただきます【水上蒼太/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 39,
+      "avgViewers": 28.9,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          27
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          39
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          31
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          30
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          26
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          33
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          25
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          25
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "obZTffLh1hE",
+      "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
+      "start": "2026-09-16T10:23:47Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 146.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 11,
+      "avgViewers": 8.4,
+      "samples": [
+        [
+          "2026-09-16T10:23:47Z",
+          8
+        ],
+        [
+          "2026-09-16T10:41:18Z",
+          10
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          9
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          8
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          8
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          11
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          8
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          7
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCu_wzgY66UERqo1rz1HeILA",
       "name": "happy(^__^)",
       "videoId": "3SWFj0Esi9U",
@@ -13428,6 +13340,52 @@
       "peakViewers": null,
       "avgViewers": null,
       "samples": [],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCuiCSi3AbTLTzvd74UIjZIQ",
+      "name": "DOMINEX",
+      "videoId": "aIN0_vOXkzo",
+      "videoUrl": "https://www.youtube.com/watch?v=aIN0_vOXkzo",
+      "start": "2026-09-16T10:41:18Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 128.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【DOMINEX〜Eternal Return〜】第二回 『エターナルリターン』-本配信-",
+      "game": null,
+      "peakViewers": 965,
+      "avgViewers": 778.2,
+      "samples": [
+        [
+          "2026-09-16T10:41:18Z",
+          491
+        ],
+        [
+          "2026-09-16T10:57:02Z",
+          724
+        ],
+        [
+          "2026-09-16T11:15:34Z",
+          704
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          782
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          841
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          874
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          965
+        ]
+      ],
       "isTargetGame": true
     },
     {
@@ -13446,6 +13404,134 @@
       "avgViewers": null,
       "samples": [],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+      "name": "지몽지",
+      "videoId": "vn873FHBx_4",
+      "videoUrl": "https://www.youtube.com/watch?v=vn873FHBx_4",
+      "start": "2026-09-16T11:15:34Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 94.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[리버스 1999] 1부 도파민 디톡스 저챗 / 2부 리버스 1999 4챕터 완결내기",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 2.0,
+      "samples": [
+        [
+          "2026-09-16T11:15:34Z",
+          1
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          2
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          4
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          2
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          2
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCyIhcCDDXC_1ssqC8Bcrcng",
+      "name": "느긋하게 갑시다",
+      "videoId": "qbDhBGcvlso",
+      "videoUrl": "https://www.youtube.com/watch?v=qbDhBGcvlso",
+      "start": "2026-09-16T11:15:34Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 94.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴-일겜도 일겜이지만 살짝 플레 랭겜 찍먹은 괜찮잖아",
+      "game": null,
+      "peakViewers": 3,
+      "avgViewers": 2.2,
+      "samples": [
+        [
+          "2026-09-16T11:15:34Z",
+          2
+        ],
+        [
+          "2026-09-16T11:32:17Z",
+          3
+        ],
+        [
+          "2026-09-16T11:49:36Z",
+          2
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          2
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          2
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "videoId": "JIi6Hnsxd04",
+      "videoUrl": "https://www.youtube.com/watch?v=JIi6Hnsxd04",
+      "start": "2026-09-16T11:49:36Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 60.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+      "game": null,
+      "peakViewers": 2,
+      "avgViewers": 2.0,
+      "samples": [
+        [
+          "2026-09-16T11:49:36Z",
+          2
+        ],
+        [
+          "2026-09-16T12:00:12Z",
+          2
+        ],
+        [
+          "2026-09-16T12:28:20Z",
+          2
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UCJIYiqfqTQa4vV7--giKWEQ",
+      "name": "なつなっつん / natsu_game01",
+      "videoId": "DRCHhyN_GGc",
+      "videoUrl": "https://www.youtube.com/watch?v=DRCHhyN_GGc",
+      "start": "2026-09-16T12:28:20Z",
+      "end": "2026-09-16T12:49:54Z",
+      "minutes": 21.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【スプラレイダース】ヌル",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-16T12:28:20Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }
