@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T18:51:37Z",
+  "updatedAt": "2026-09-16T19:10:46Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1605.1,
-      "gameMinutes": 873.2,
-      "totalHours": 26.75,
-      "gameHours": 14.55,
+      "totalMinutes": 1662.6,
+      "gameMinutes": 911.5,
+      "totalHours": 27.71,
+      "gameHours": 15.19,
       "sessions": 13,
-      "avgViewers": 64.2,
+      "avgViewers": 61.9,
       "peakViewers": 573
     },
     "week": {
-      "totalMinutes": 26432.0,
-      "gameMinutes": 15864.1,
-      "totalHours": 440.53,
-      "gameHours": 264.4,
+      "totalMinutes": 26489.4,
+      "gameMinutes": 15902.4,
+      "totalHours": 441.49,
+      "gameHours": 265.04,
       "sessions": 172,
-      "avgViewers": 69.4,
+      "avgViewers": 69.2,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 48597.1,
-      "gameMinutes": 25365.1,
-      "totalHours": 809.95,
-      "gameHours": 422.75,
+      "totalMinutes": 48654.6,
+      "gameMinutes": 25403.4,
+      "totalHours": 810.91,
+      "gameHours": 423.39,
       "sessions": 296,
-      "avgViewers": 84.6,
+      "avgViewers": 84.4,
       "peakViewers": 994
     }
   },
@@ -56,28 +56,28 @@
       "lastTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
       "buckets": {
         "today": {
-          "totalMinutes": 231.6,
-          "gameMinutes": 231.6,
-          "totalHours": 3.86,
-          "gameHours": 3.86,
+          "totalMinutes": 250.8,
+          "gameMinutes": 250.8,
+          "totalHours": 4.18,
+          "gameHours": 4.18,
           "sessions": 1,
           "avgViewers": 1.4,
           "peakViewers": 3
         },
         "week": {
-          "totalMinutes": 1117.2,
-          "gameMinutes": 1117.2,
-          "totalHours": 18.62,
-          "gameHours": 18.62,
+          "totalMinutes": 1136.4,
+          "gameMinutes": 1136.4,
+          "totalHours": 18.94,
+          "gameHours": 18.94,
           "sessions": 5,
           "avgViewers": 1.6,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 1117.2,
-          "gameMinutes": 1117.2,
-          "totalHours": 18.62,
-          "gameHours": 18.62,
+          "totalMinutes": 1136.4,
+          "gameMinutes": 1136.4,
+          "totalHours": 18.94,
+          "gameHours": 18.94,
           "sessions": 5,
           "avgViewers": 1.6,
           "peakViewers": 4
@@ -276,7 +276,7 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 1,
+      "liveViewers": 2,
       "livePeakViewers": 3,
       "liveAvgViewers": 1.4,
       "liveSamples": [
@@ -363,6 +363,10 @@
         [
           "2026-09-16T18:51:37Z",
           1
+        ],
+        [
+          "2026-09-16T19:10:46Z",
+          2
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=JIi6Hnsxd04"
@@ -379,31 +383,31 @@
       "lastTitle": "상남자의 이터널리턴 켠왕이야!",
       "buckets": {
         "today": {
-          "totalMinutes": 16.1,
+          "totalMinutes": 35.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.27,
+          "totalHours": 0.59,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 1.0,
-          "peakViewers": 1
+          "avgViewers": 3.0,
+          "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 473.2,
+          "totalMinutes": 492.4,
           "gameMinutes": 457.1,
-          "totalHours": 7.89,
+          "totalHours": 8.21,
           "gameHours": 7.62,
           "sessions": 3,
-          "avgViewers": 2.5,
-          "peakViewers": 4
+          "avgViewers": 2.6,
+          "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 473.2,
+          "totalMinutes": 492.4,
           "gameMinutes": 457.1,
-          "totalHours": 7.89,
+          "totalHours": 8.21,
           "gameHours": 7.62,
           "sessions": 3,
-          "avgViewers": 2.5,
-          "peakViewers": 4
+          "avgViewers": 2.6,
+          "peakViewers": 5
         }
       },
       "recentSessions": [
@@ -560,13 +564,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 1,
-      "livePeakViewers": 1,
-      "liveAvgViewers": 1.0,
+      "liveViewers": 5,
+      "livePeakViewers": 5,
+      "liveAvgViewers": 3.0,
       "liveSamples": [
         [
           "2026-09-16T18:35:31Z",
           1
+        ],
+        [
+          "2026-09-16T19:10:46Z",
+          5
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=FW_2UWwBwMU"
@@ -583,28 +591,28 @@
       "lastTitle": "FOMC 전까지 무소통 이터널리턴 솔랭",
       "buckets": {
         "today": {
-          "totalMinutes": 219.9,
-          "gameMinutes": 219.9,
-          "totalHours": 3.67,
-          "gameHours": 3.67,
+          "totalMinutes": 239.1,
+          "gameMinutes": 239.1,
+          "totalHours": 3.98,
+          "gameHours": 3.98,
           "sessions": 1,
           "avgViewers": 1.1,
           "peakViewers": 2
         },
         "week": {
-          "totalMinutes": 389.5,
-          "gameMinutes": 389.5,
-          "totalHours": 6.49,
-          "gameHours": 6.49,
+          "totalMinutes": 408.7,
+          "gameMinutes": 408.7,
+          "totalHours": 6.81,
+          "gameHours": 6.81,
           "sessions": 7,
           "avgViewers": 1.1,
           "peakViewers": 2
         },
         "month": {
-          "totalMinutes": 389.5,
-          "gameMinutes": 389.5,
-          "totalHours": 6.49,
-          "gameHours": 6.49,
+          "totalMinutes": 408.7,
+          "gameMinutes": 408.7,
+          "totalHours": 6.81,
+          "gameHours": 6.81,
           "sessions": 7,
           "avgViewers": 1.1,
           "peakViewers": 2
@@ -753,6 +761,10 @@
         ],
         [
           "2026-09-16T18:51:37Z",
+          1
+        ],
+        [
+          "2026-09-16T19:10:46Z",
           1
         ]
       ],
