@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:58:07Z",
+  "updatedAt": "2026-09-16T23:16:02Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2180.6,
+      "totalMinutes": 2252.2,
       "gameMinutes": 1306.5,
-      "totalHours": 36.34,
+      "totalHours": 37.54,
       "gameHours": 21.78,
-      "sessions": 19,
-      "avgViewers": 75.7,
-      "peakViewers": 747
+      "sessions": 20,
+      "avgViewers": 82.3,
+      "peakViewers": 776
     },
     "week": {
-      "totalMinutes": 27007.4,
+      "totalMinutes": 27079.1,
       "gameMinutes": 16297.4,
-      "totalHours": 450.12,
+      "totalHours": 451.32,
       "gameHours": 271.62,
-      "sessions": 178,
-      "avgViewers": 70.2,
+      "sessions": 179,
+      "avgViewers": 70.9,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 49172.6,
+      "totalMinutes": 49244.2,
       "gameMinutes": 25798.5,
-      "totalHours": 819.54,
+      "totalHours": 820.74,
       "gameHours": 429.97,
-      "sessions": 302,
-      "avgViewers": 84.8,
+      "sessions": 303,
+      "avgViewers": 85.1,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 73.7,
+          "totalMinutes": 91.6,
           "gameMinutes": 0.0,
-          "totalHours": 1.23,
+          "totalHours": 1.53,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 233.3,
-          "peakViewers": 301
+          "avgViewers": 249.6,
+          "peakViewers": 328
         },
         "week": {
-          "totalMinutes": 647.2,
+          "totalMinutes": 665.1,
           "gameMinutes": 168.3,
-          "totalHours": 10.79,
+          "totalHours": 11.09,
           "gameHours": 2.8,
           "sessions": 5,
-          "avgViewers": 191.1,
-          "peakViewers": 301
+          "avgViewers": 194.5,
+          "peakViewers": 328
         },
         "month": {
-          "totalMinutes": 2146.4,
+          "totalMinutes": 2164.3,
           "gameMinutes": 168.3,
-          "totalHours": 35.77,
+          "totalHours": 36.07,
           "gameHours": 2.8,
           "sessions": 11,
-          "avgViewers": 288.8,
+          "avgViewers": 289.1,
           "peakViewers": 888
         }
       },
@@ -264,9 +264,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 297,
-      "livePeakViewers": 301,
-      "liveAvgViewers": 275.9,
+      "liveViewers": 328,
+      "livePeakViewers": 328,
+      "liveAvgViewers": 285.3,
       "liveSamples": [
         [
           "2026-09-16T21:58:44Z",
@@ -287,9 +287,196 @@
         [
           "2026-09-16T22:58:07Z",
           297
+        ],
+        [
+          "2026-09-16T23:16:02Z",
+          328
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ"
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
+      "isLive": true,
+      "liveSince": "2026-09-16T23:16:02Z",
+      "liveTitle": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
+      "lastEnd": "2026-09-15T02:23:26Z",
+      "lastTitle": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 1008.9,
+          "gameMinutes": 0.0,
+          "totalHours": 16.82,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 1818.8,
+          "gameMinutes": 48.2,
+          "totalHours": 30.31,
+          "gameHours": 0.8,
+          "sessions": 11,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "Y7a0fOfI_0Y",
+          "videoUrl": "https://www.youtube.com/watch?v=Y7a0fOfI_0Y",
+          "start": "2026-09-14T21:10:03Z",
+          "end": "2026-09-15T02:23:26Z",
+          "minutes": 313.4,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "U1NakIGozwY",
+          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
+          "start": "2026-09-14T05:48:57Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 323.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "U1NakIGozwY",
+          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
+          "start": "2026-09-14T05:40:22Z",
+          "end": "2026-09-14T11:52:38Z",
+          "minutes": 372.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "o0yhZtrCtxM",
+          "videoUrl": "https://www.youtube.com/watch?v=o0yhZtrCtxM",
+          "start": "2026-09-13T10:26:31Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 75.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "카렐의 메가 함선 가려면 어떻게 해야 할까...",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "o0yhZtrCtxM",
+          "videoUrl": "https://www.youtube.com/watch?v=o0yhZtrCtxM",
+          "start": "2026-09-13T10:18:05Z",
+          "end": "2026-09-13T12:26:04Z",
+          "minutes": 128.0,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "카렐의 메가 함선 가려면 어떻게 해야 할까...",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "dcFkfL9Djd4",
+          "videoUrl": "https://www.youtube.com/watch?v=dcFkfL9Djd4",
+          "start": "2026-09-13T01:30:29Z",
+          "end": "2026-09-13T04:58:38Z",
+          "minutes": 208.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "리링크 힐링 게임 가즈아~",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "d_s3_bsXkBw",
+          "videoUrl": "https://www.youtube.com/watch?v=d_s3_bsXkBw",
+          "start": "2026-09-12T09:42:40Z",
+          "end": "2026-09-12T11:28:20Z",
+          "minutes": 105.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "버그캣의 월드 오브 워쉽 오늘은 내가 즐거운 항해가 되어야 되겠습니다!",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "f_7DtY6Z6TY",
+          "videoUrl": "https://www.youtube.com/watch?v=f_7DtY6Z6TY",
+          "start": "2026-09-12T05:09:53Z",
+          "end": "2026-09-12T09:14:11Z",
+          "minutes": 244.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "버그캣의 퍼스트 디센던트 뭐?! 스트레스 받아?? 그럼 간단하게 즐기는 퍼디나 하자!",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=UFBYCW00kzI"
     },
     {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
@@ -303,30 +490,30 @@
       "lastTitle": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 73.7,
+          "totalMinutes": 91.6,
           "gameMinutes": 0.0,
-          "totalHours": 1.23,
+          "totalHours": 1.53,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 575.2,
-          "peakViewers": 747
+          "avgViewers": 611.3,
+          "peakViewers": 776
         },
         "week": {
-          "totalMinutes": 776.5,
+          "totalMinutes": 794.4,
           "gameMinutes": 544.2,
-          "totalHours": 12.94,
+          "totalHours": 13.24,
           "gameHours": 9.07,
           "sessions": 7,
-          "avgViewers": 329.0,
+          "avgViewers": 338.7,
           "peakViewers": 814
         },
         "month": {
-          "totalMinutes": 1284.9,
+          "totalMinutes": 1302.8,
           "gameMinutes": 698.2,
-          "totalHours": 21.41,
+          "totalHours": 21.71,
           "gameHours": 11.64,
           "sessions": 12,
-          "avgViewers": 357.4,
+          "avgViewers": 363.0,
           "peakViewers": 994
         }
       },
@@ -515,9 +702,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 747,
-      "livePeakViewers": 747,
-      "liveAvgViewers": 688.0,
+      "liveViewers": 776,
+      "livePeakViewers": 776,
+      "liveAvgViewers": 704.6,
       "liveSamples": [
         [
           "2026-09-16T21:58:44Z",
@@ -538,6 +725,10 @@
         [
           "2026-09-16T22:58:07Z",
           747
+        ],
+        [
+          "2026-09-16T23:16:02Z",
+          776
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk"
@@ -554,30 +745,30 @@
       "lastTitle": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 10.8,
+          "totalMinutes": 28.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.18,
+          "totalHours": 0.48,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 9.0,
-          "peakViewers": 10
+          "avgViewers": 12.5,
+          "peakViewers": 20
         },
         "week": {
-          "totalMinutes": 524.0,
+          "totalMinutes": 541.9,
           "gameMinutes": 421.3,
-          "totalHours": 8.73,
+          "totalHours": 9.03,
           "gameHours": 7.02,
           "sessions": 8,
           "avgViewers": 12.2,
           "peakViewers": 33
         },
         "month": {
-          "totalMinutes": 662.5,
+          "totalMinutes": 680.4,
           "gameMinutes": 559.9,
-          "totalHours": 11.04,
+          "totalHours": 11.34,
           "gameHours": 9.33,
           "sessions": 9,
-          "avgViewers": 11.5,
+          "avgViewers": 11.6,
           "peakViewers": 33
         }
       },
@@ -762,9 +953,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 8,
-      "livePeakViewers": 10,
-      "liveAvgViewers": 9.0,
+      "liveViewers": 20,
+      "livePeakViewers": 20,
+      "liveAvgViewers": 12.5,
       "liveSamples": [
         [
           "2026-09-16T22:47:21Z",
@@ -773,6 +964,10 @@
         [
           "2026-09-16T22:58:07Z",
           8
+        ],
+        [
+          "2026-09-16T23:16:02Z",
+          20
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=KQ8qN6UIV-U"
@@ -789,30 +984,30 @@
       "lastTitle": "【Eternal Return】最後一天聯盟了 ｜永恆輪迴 エターナルリターン",
       "buckets": {
         "today": {
-          "totalMinutes": 49.3,
+          "totalMinutes": 67.2,
           "gameMinutes": 49.3,
-          "totalHours": 0.82,
+          "totalHours": 1.12,
           "gameHours": 0.82,
           "sessions": 2,
-          "avgViewers": 3.2,
+          "avgViewers": 2.6,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 89.9,
+          "totalMinutes": 107.9,
           "gameMinutes": 89.9,
-          "totalHours": 1.5,
+          "totalHours": 1.8,
           "gameHours": 1.5,
           "sessions": 2,
-          "avgViewers": 3.2,
+          "avgViewers": 2.8,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 89.9,
+          "totalMinutes": 107.9,
           "gameMinutes": 89.9,
-          "totalHours": 1.5,
+          "totalHours": 1.8,
           "gameHours": 1.5,
           "sessions": 2,
-          "avgViewers": 3.2,
+          "avgViewers": 2.8,
           "peakViewers": 5
         }
       },
@@ -856,10 +1051,15 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
+      "liveViewers": 1,
+      "livePeakViewers": 1,
+      "liveAvgViewers": 1.0,
+      "liveSamples": [
+        [
+          "2026-09-16T23:16:02Z",
+          1
+        ]
+      ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=HSmHEJ1Y68k"
     },
     {
@@ -2579,184 +2779,6 @@
           "avgViewers": 4.4,
           "samples": [],
           "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-15T02:23:26Z",
-      "lastTitle": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 1008.9,
-          "gameMinutes": 0.0,
-          "totalHours": 16.82,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 1818.8,
-          "gameMinutes": 48.2,
-          "totalHours": 30.31,
-          "gameHours": 0.8,
-          "sessions": 10,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "Y7a0fOfI_0Y",
-          "videoUrl": "https://www.youtube.com/watch?v=Y7a0fOfI_0Y",
-          "start": "2026-09-14T21:10:03Z",
-          "end": "2026-09-15T02:23:26Z",
-          "minutes": 313.4,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "U1NakIGozwY",
-          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
-          "start": "2026-09-14T05:48:57Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 323.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "U1NakIGozwY",
-          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
-          "start": "2026-09-14T05:40:22Z",
-          "end": "2026-09-14T11:52:38Z",
-          "minutes": 372.3,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "o0yhZtrCtxM",
-          "videoUrl": "https://www.youtube.com/watch?v=o0yhZtrCtxM",
-          "start": "2026-09-13T10:26:31Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 75.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "카렐의 메가 함선 가려면 어떻게 해야 할까...",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "o0yhZtrCtxM",
-          "videoUrl": "https://www.youtube.com/watch?v=o0yhZtrCtxM",
-          "start": "2026-09-13T10:18:05Z",
-          "end": "2026-09-13T12:26:04Z",
-          "minutes": 128.0,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "카렐의 메가 함선 가려면 어떻게 해야 할까...",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "dcFkfL9Djd4",
-          "videoUrl": "https://www.youtube.com/watch?v=dcFkfL9Djd4",
-          "start": "2026-09-13T01:30:29Z",
-          "end": "2026-09-13T04:58:38Z",
-          "minutes": 208.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "리링크 힐링 게임 가즈아~",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "d_s3_bsXkBw",
-          "videoUrl": "https://www.youtube.com/watch?v=d_s3_bsXkBw",
-          "start": "2026-09-12T09:42:40Z",
-          "end": "2026-09-12T11:28:20Z",
-          "minutes": 105.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "버그캣의 월드 오브 워쉽 오늘은 내가 즐거운 항해가 되어야 되겠습니다!",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "f_7DtY6Z6TY",
-          "videoUrl": "https://www.youtube.com/watch?v=f_7DtY6Z6TY",
-          "start": "2026-09-12T05:09:53Z",
-          "end": "2026-09-12T09:14:11Z",
-          "minutes": 244.3,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "버그캣의 퍼스트 디센던트 뭐?! 스트레스 받아?? 그럼 간단하게 즐기는 퍼디나 하자!",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
         }
       ]
     },
