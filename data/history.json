@@ -2,65 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC_c3HArzuJYD-gdZ7tAroBw": {
-      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-      "name": "민키",
-      "videoId": "lO9QL0wuNG4",
-      "start": "2026-09-16T13:02:30Z",
-      "startSource": "observed",
-      "title": "이터널리턴 뉴비 랭크전 플레4 무슨캐릭할까",
-      "game": null,
-      "peakViewers": 6,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-16T13:02:30Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
-      "samples": [
-        [
-          "2026-09-16T13:02:30Z",
-          2
-        ],
-        [
-          "2026-09-16T13:42:16Z",
-          1
-        ],
-        [
-          "2026-09-16T13:58:36Z",
-          1
-        ],
-        [
-          "2026-09-16T14:19:22Z",
-          1
-        ],
-        [
-          "2026-09-16T14:34:36Z",
-          2
-        ],
-        [
-          "2026-09-16T14:50:30Z",
-          2
-        ],
-        [
-          "2026-09-16T15:11:41Z",
-          3
-        ],
-        [
-          "2026-09-16T15:31:14Z",
-          6
-        ],
-        [
-          "2026-09-16T15:49:18Z",
-          4
-        ],
-        [
-          "2026-09-16T16:00:31Z",
-          3
-        ],
-        [
-          "2026-09-16T16:23:07Z",
-          4
-        ]
-      ]
-    },
     "UCcFkDV3IwGz-bUuLZFUu2fg": {
       "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
       "name": "몰라",
@@ -72,7 +13,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-16T13:02:30Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": [
         [
           "2026-09-16T13:02:30Z",
@@ -121,6 +62,10 @@
         [
           "2026-09-16T16:23:07Z",
           1
+        ],
+        [
+          "2026-09-16T16:40:54Z",
+          1
         ]
       ]
     },
@@ -135,7 +80,7 @@
       "peakViewers": 123,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-16T13:24:39Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": [
         [
           "2026-09-16T13:24:39Z",
@@ -180,6 +125,10 @@
         [
           "2026-09-16T16:23:07Z",
           123
+        ],
+        [
+          "2026-09-16T16:40:54Z",
+          96
         ]
       ]
     },
@@ -194,7 +143,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-16T13:58:36Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": []
     },
     "UC6CYnOID9JZjKv6YZwgCW5Q": {
@@ -203,12 +152,12 @@
       "videoId": "P6W6tKUMI94",
       "start": "2026-09-16T14:19:22Z",
       "startSource": "observed",
-      "title": "뎁마 원험으로 메테오 방어전",
+      "title": "어린이 출입금지! 이리 컨셉샷 공방",
       "game": null,
       "peakViewers": 9,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-16T14:19:22Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": [
         [
           "2026-09-16T14:19:22Z",
@@ -241,6 +190,10 @@
         [
           "2026-09-16T16:23:07Z",
           1
+        ],
+        [
+          "2026-09-16T16:40:54Z",
+          5
         ]
       ]
     },
@@ -252,10 +205,10 @@
       "startSource": "observed",
       "title": "【 #SURGETown ￤#１３ 】お金が…必要です…💰【 すずみあ / 赤彩みあ 】",
       "game": null,
-      "peakViewers": 565,
+      "peakViewers": 573,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-16T14:50:30Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": [
         [
           "2026-09-16T14:50:30Z",
@@ -280,6 +233,10 @@
         [
           "2026-09-16T16:23:07Z",
           495
+        ],
+        [
+          "2026-09-16T16:40:54Z",
+          573
         ]
       ]
     },
@@ -294,7 +251,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-16T15:11:41Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": [
         [
           "2026-09-16T15:11:41Z",
@@ -315,6 +272,10 @@
         [
           "2026-09-16T16:23:07Z",
           2
+        ],
+        [
+          "2026-09-16T16:40:54Z",
+          2
         ]
       ]
     },
@@ -329,7 +290,7 @@
       "peakViewers": 1,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-16T15:11:41Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": [
         [
           "2026-09-16T16:23:07Z",
@@ -348,7 +309,7 @@
       "peakViewers": 11,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-16T15:31:14Z",
-      "lastSeenAt": "2026-09-16T16:23:07Z",
+      "lastSeenAt": "2026-09-16T16:40:54Z",
       "samples": [
         [
           "2026-09-16T15:31:14Z",
@@ -364,6 +325,10 @@
         ],
         [
           "2026-09-16T16:23:07Z",
+          11
+        ],
+        [
+          "2026-09-16T16:40:54Z",
           11
         ]
       ]
@@ -14374,6 +14339,68 @@
         [
           "2026-09-16T15:11:41Z",
           1
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+      "name": "민키",
+      "videoId": "lO9QL0wuNG4",
+      "videoUrl": "https://www.youtube.com/watch?v=lO9QL0wuNG4",
+      "start": "2026-09-16T13:02:30Z",
+      "end": "2026-09-16T16:40:54Z",
+      "minutes": 218.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴 뉴비 랭크전 플레4 무슨캐릭할까",
+      "game": null,
+      "peakViewers": 6,
+      "avgViewers": 2.6,
+      "samples": [
+        [
+          "2026-09-16T13:02:30Z",
+          2
+        ],
+        [
+          "2026-09-16T13:42:16Z",
+          1
+        ],
+        [
+          "2026-09-16T13:58:36Z",
+          1
+        ],
+        [
+          "2026-09-16T14:19:22Z",
+          1
+        ],
+        [
+          "2026-09-16T14:34:36Z",
+          2
+        ],
+        [
+          "2026-09-16T14:50:30Z",
+          2
+        ],
+        [
+          "2026-09-16T15:11:41Z",
+          3
+        ],
+        [
+          "2026-09-16T15:31:14Z",
+          6
+        ],
+        [
+          "2026-09-16T15:49:18Z",
+          4
+        ],
+        [
+          "2026-09-16T16:00:31Z",
+          3
+        ],
+        [
+          "2026-09-16T16:23:07Z",
+          4
         ]
       ],
       "isTargetGame": true
