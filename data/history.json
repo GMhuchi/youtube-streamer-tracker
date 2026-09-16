@@ -13,39 +13,8 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-16T02:59:52Z",
-      "lastSeenAt": "2026-09-16T07:23:51Z",
+      "lastSeenAt": "2026-09-16T07:41:07Z",
       "samples": []
-    },
-    "UCvtfuV9mBAw9znLzICiqpOw": {
-      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-      "name": "상자곰",
-      "videoId": "bfipZ9hGZ2s",
-      "start": "2026-09-16T02:59:52Z",
-      "startSource": "observed",
-      "title": "[젠레스 존 제로]츤데레 아가씨의 이야기",
-      "game": null,
-      "peakViewers": 2,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-16T02:59:52Z",
-      "lastSeenAt": "2026-09-16T07:23:51Z",
-      "samples": [
-        [
-          "2026-09-16T03:34:47Z",
-          1
-        ],
-        [
-          "2026-09-16T03:49:31Z",
-          2
-        ],
-        [
-          "2026-09-16T04:00:21Z",
-          2
-        ],
-        [
-          "2026-09-16T06:45:45Z",
-          1
-        ]
-      ]
     },
     "UCEdlID7vgnILT3NR-ifyjPg": {
       "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
@@ -58,7 +27,7 @@
       "peakViewers": 2,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-16T07:00:29Z",
-      "lastSeenAt": "2026-09-16T07:23:51Z",
+      "lastSeenAt": "2026-09-16T07:41:07Z",
       "samples": [
         [
           "2026-09-16T07:00:29Z",
@@ -66,6 +35,10 @@
         ],
         [
           "2026-09-16T07:23:51Z",
+          2
+        ],
+        [
+          "2026-09-16T07:41:07Z",
           2
         ]
       ]
@@ -11866,6 +11839,40 @@
         [
           "2026-09-15T23:55:43Z",
           21
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "videoId": "bfipZ9hGZ2s",
+      "videoUrl": "https://www.youtube.com/watch?v=bfipZ9hGZ2s",
+      "start": "2026-09-16T02:59:52Z",
+      "end": "2026-09-16T07:41:07Z",
+      "minutes": 281.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[젠레스 존 제로]츤데레 아가씨의 이야기",
+      "game": null,
+      "peakViewers": 2,
+      "avgViewers": 1.7,
+      "samples": [
+        [
+          "2026-09-16T03:34:47Z",
+          1
+        ],
+        [
+          "2026-09-16T03:49:31Z",
+          2
+        ],
+        [
+          "2026-09-16T04:00:21Z",
+          2
+        ],
+        [
+          "2026-09-16T06:45:45Z",
+          1
         ]
       ],
       "isTargetGame": false
