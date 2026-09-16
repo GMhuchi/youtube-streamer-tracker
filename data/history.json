@@ -1,55 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "sChuta4qVGg",
-      "start": "2026-09-15T22:13:16Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 26,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-15T22:13:16Z",
-      "lastSeenAt": "2026-09-15T23:55:43Z",
-      "samples": [
-        [
-          "2026-09-15T22:13:16Z",
-          18
-        ],
-        [
-          "2026-09-15T22:30:11Z",
-          20
-        ],
-        [
-          "2026-09-15T22:42:58Z",
-          19
-        ],
-        [
-          "2026-09-15T22:55:40Z",
-          20
-        ],
-        [
-          "2026-09-15T23:11:17Z",
-          26
-        ],
-        [
-          "2026-09-15T23:29:21Z",
-          20
-        ],
-        [
-          "2026-09-15T23:41:58Z",
-          23
-        ],
-        [
-          "2026-09-15T23:55:43Z",
-          21
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -11797,6 +11749,56 @@
       "peakViewers": null,
       "avgViewers": null,
       "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "sChuta4qVGg",
+      "videoUrl": "https://www.youtube.com/watch?v=sChuta4qVGg",
+      "start": "2026-09-15T22:13:16Z",
+      "end": "2026-09-16T00:16:40Z",
+      "minutes": 123.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 26,
+      "avgViewers": 21.0,
+      "samples": [
+        [
+          "2026-09-15T22:13:16Z",
+          18
+        ],
+        [
+          "2026-09-15T22:30:11Z",
+          20
+        ],
+        [
+          "2026-09-15T22:42:58Z",
+          19
+        ],
+        [
+          "2026-09-15T22:55:40Z",
+          20
+        ],
+        [
+          "2026-09-15T23:11:17Z",
+          26
+        ],
+        [
+          "2026-09-15T23:29:21Z",
+          20
+        ],
+        [
+          "2026-09-15T23:41:58Z",
+          23
+        ],
+        [
+          "2026-09-15T23:55:43Z",
+          21
+        ]
+      ],
       "isTargetGame": false
     }
   ]
