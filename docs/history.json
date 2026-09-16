@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T06:24:39Z",
+  "updatedAt": "2026-09-16T06:45:45Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2930.7,
-      "gameMinutes": 1273.3,
-      "totalHours": 48.84,
-      "gameHours": 21.22,
+      "totalMinutes": 2972.9,
+      "gameMinutes": 1294.4,
+      "totalHours": 49.55,
+      "gameHours": 21.57,
       "sessions": 22,
-      "avgViewers": 56.6,
+      "avgViewers": 56.2,
       "peakViewers": 960
     },
     "week": {
-      "totalMinutes": 18242.8,
-      "gameMinutes": 9233.7,
-      "totalHours": 304.05,
-      "gameHours": 153.89,
+      "totalMinutes": 18285.0,
+      "gameMinutes": 9254.8,
+      "totalHours": 304.75,
+      "gameHours": 154.25,
       "sessions": 102,
-      "avgViewers": 70.3,
+      "avgViewers": 70.2,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 40407.9,
-      "gameMinutes": 18734.8,
-      "totalHours": 673.47,
-      "gameHours": 312.25,
+      "totalMinutes": 40450.1,
+      "gameMinutes": 18755.9,
+      "totalHours": 674.17,
+      "gameHours": 312.6,
       "sessions": 226,
-      "avgViewers": 88.3,
+      "avgViewers": 88.2,
       "peakViewers": 994
     }
   },
@@ -56,28 +56,28 @@
       "lastTitle": "이터널 리턴)집 날아간 첫째 돼지",
       "buckets": {
         "today": {
-          "totalMinutes": 204.8,
-          "gameMinutes": 204.8,
-          "totalHours": 3.41,
-          "gameHours": 3.41,
+          "totalMinutes": 225.9,
+          "gameMinutes": 225.9,
+          "totalHours": 3.76,
+          "gameHours": 3.76,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 545.6,
-          "gameMinutes": 545.6,
-          "totalHours": 9.09,
-          "gameHours": 9.09,
+          "totalMinutes": 566.7,
+          "gameMinutes": 566.7,
+          "totalHours": 9.45,
+          "gameHours": 9.45,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 1707.3,
-          "gameMinutes": 1707.3,
-          "totalHours": 28.46,
-          "gameHours": 28.46,
+          "totalMinutes": 1728.4,
+          "gameMinutes": 1728.4,
+          "totalHours": 28.81,
+          "gameHours": 28.81,
           "sessions": 6,
           "avgViewers": null,
           "peakViewers": null
@@ -188,30 +188,30 @@
       "lastTitle": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
       "buckets": {
         "today": {
-          "totalMinutes": 204.8,
+          "totalMinutes": 225.9,
           "gameMinutes": 0.0,
-          "totalHours": 3.41,
+          "totalHours": 3.76,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 1.6,
+          "avgViewers": 1.7,
           "peakViewers": 2
         },
         "week": {
-          "totalMinutes": 323.5,
+          "totalMinutes": 344.6,
           "gameMinutes": 118.7,
-          "totalHours": 5.39,
+          "totalHours": 5.74,
           "gameHours": 1.98,
           "sessions": 2,
-          "avgViewers": 1.4,
+          "avgViewers": 1.5,
           "peakViewers": 2
         },
         "month": {
-          "totalMinutes": 323.5,
+          "totalMinutes": 344.6,
           "gameMinutes": 118.7,
-          "totalHours": 5.39,
+          "totalHours": 5.74,
           "gameHours": 1.98,
           "sessions": 2,
-          "avgViewers": 1.4,
+          "avgViewers": 1.5,
           "peakViewers": 2
         }
       },
@@ -239,9 +239,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 2,
+      "liveViewers": 1,
       "livePeakViewers": 2,
-      "liveAvgViewers": 1.6,
+      "liveAvgViewers": 1.7,
       "liveSamples": [
         [
           "2026-09-16T03:34:47Z",
@@ -254,6 +254,10 @@
         [
           "2026-09-16T04:00:21Z",
           2
+        ],
+        [
+          "2026-09-16T06:45:45Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=bfipZ9hGZ2s"
