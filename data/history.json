@@ -10,10 +10,10 @@
       "startSource": "observed",
       "title": "【DBD】這是一個作息炸裂的晨跑！！　｜黎明死線 Dead by Daylight",
       "game": null,
-      "peakViewers": 3,
+      "peakViewers": 5,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-16T22:58:07Z",
-      "lastSeenAt": "2026-09-17T01:31:01Z",
+      "lastSeenAt": "2026-09-17T01:49:21Z",
       "samples": [
         [
           "2026-09-16T23:16:02Z",
@@ -50,6 +50,10 @@
         [
           "2026-09-17T01:31:01Z",
           3
+        ],
+        [
+          "2026-09-17T01:49:21Z",
+          5
         ]
       ]
     },
@@ -64,35 +68,8 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-16T23:16:02Z",
-      "lastSeenAt": "2026-09-17T01:31:01Z",
+      "lastSeenAt": "2026-09-17T01:49:21Z",
       "samples": []
-    },
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "Zo7MULYVrlQ",
-      "start": "2026-09-17T00:56:14Z",
-      "startSource": "observed",
-      "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 310,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-17T00:56:14Z",
-      "lastSeenAt": "2026-09-17T01:31:01Z",
-      "samples": [
-        [
-          "2026-09-17T00:56:14Z",
-          278
-        ],
-        [
-          "2026-09-17T01:13:21Z",
-          310
-        ],
-        [
-          "2026-09-17T01:31:01Z",
-          272
-        ]
-      ]
     }
   },
   "sessions": [
@@ -15101,6 +15078,36 @@
         [
           "2026-09-17T00:39:40Z",
           20
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "Zo7MULYVrlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
+      "start": "2026-09-17T00:56:14Z",
+      "end": "2026-09-17T01:49:21Z",
+      "minutes": 53.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 310,
+      "avgViewers": 286.8,
+      "samples": [
+        [
+          "2026-09-17T00:56:14Z",
+          278
+        ],
+        [
+          "2026-09-17T01:13:21Z",
+          310
+        ],
+        [
+          "2026-09-17T01:31:01Z",
+          272
         ]
       ],
       "isTargetGame": false
