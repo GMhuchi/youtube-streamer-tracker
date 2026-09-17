@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:21:50Z",
+  "updatedAt": "2026-09-17T18:43:12Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,373 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1860.7,
-      "gameMinutes": 412.1,
-      "totalHours": 31.01,
-      "gameHours": 6.87,
+      "totalMinutes": 1903.4,
+      "gameMinutes": 433.4,
+      "totalHours": 31.72,
+      "gameHours": 7.22,
       "sessions": 17,
-      "avgViewers": 140.2,
+      "avgViewers": 138.7,
       "peakViewers": 958
     },
     "week": {
-      "totalMinutes": 34696.7,
-      "gameMinutes": 18195.3,
-      "totalHours": 578.28,
-      "gameHours": 303.25,
+      "totalMinutes": 34739.4,
+      "gameMinutes": 18216.6,
+      "totalHours": 578.99,
+      "gameHours": 303.61,
       "sessions": 208,
       "avgViewers": 78.9,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 56861.9,
-      "gameMinutes": 27696.3,
-      "totalHours": 947.7,
-      "gameHours": 461.61,
+      "totalMinutes": 56904.6,
+      "gameMinutes": 27717.7,
+      "totalHours": 948.41,
+      "gameHours": 461.96,
       "sessions": 332,
       "avgViewers": 88.2,
       "peakViewers": 994
     }
   },
   "channels": [
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCB-aip0wsqKQPcrLW1BBJaw",
-      "isLive": true,
-      "liveSince": "2026-09-17T14:49:41Z",
-      "liveTitle": "【SURGETown】遅れて参上【綾見ユラ/YUMENOS】",
-      "lastEnd": "2026-09-16T13:24:39Z",
-      "lastTitle": "【エターナルリターン】熱笑界隈WIN【綾見ユラ/YUMENOS】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 201.8,
-          "gameMinutes": 0.0,
-          "totalHours": 3.36,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 155.9,
-          "peakViewers": 198
-        },
-        "week": {
-          "totalMinutes": 1012.6,
-          "gameMinutes": 191.3,
-          "totalHours": 16.88,
-          "gameHours": 3.19,
-          "sessions": 6,
-          "avgViewers": 122.3,
-          "peakViewers": 230
-        },
-        "month": {
-          "totalMinutes": 1919.5,
-          "gameMinutes": 191.3,
-          "totalHours": 31.99,
-          "gameHours": 3.19,
-          "sessions": 10,
-          "avgViewers": 153.6,
-          "peakViewers": 275
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "yIGXfD7qmgI",
-          "videoUrl": "https://www.youtube.com/watch?v=yIGXfD7qmgI",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】熱笑界隈WIN【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 49,
-          "avgViewers": 49.0,
-          "samples": [
-            [
-              "2026-09-16T13:02:30Z",
-              49
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "yIGXfD7qmgI",
-          "videoUrl": "https://www.youtube.com/watch?v=yIGXfD7qmgI",
-          "start": "2026-09-16T10:00:44Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 169.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】熱笑界隈WIN【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 57,
-          "avgViewers": 40.2,
-          "samples": [
-            [
-              "2026-09-16T10:00:44Z",
-              14
-            ],
-            [
-              "2026-09-16T10:23:47Z",
-              48
-            ],
-            [
-              "2026-09-16T10:41:18Z",
-              57
-            ],
-            [
-              "2026-09-16T10:57:02Z",
-              43
-            ],
-            [
-              "2026-09-16T11:15:34Z",
-              51
-            ],
-            [
-              "2026-09-16T11:32:17Z",
-              43
-            ],
-            [
-              "2026-09-16T11:49:36Z",
-              36
-            ],
-            [
-              "2026-09-16T12:00:12Z",
-              36
-            ],
-            [
-              "2026-09-16T12:28:20Z",
-              45
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "DNmX1g_t7hc",
-          "videoUrl": "https://www.youtube.com/watch?v=DNmX1g_t7hc",
-          "start": "2026-09-15T11:40:32Z",
-          "end": "2026-09-15T16:00:25Z",
-          "minutes": 259.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【マイクラ】竜宮ハドコア【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 196,
-          "avgViewers": 124.1,
-          "samples": [
-            [
-              "2026-09-15T11:40:32Z",
-              110
-            ],
-            [
-              "2026-09-15T11:55:37Z",
-              116
-            ],
-            [
-              "2026-09-15T12:15:49Z",
-              111
-            ],
-            [
-              "2026-09-15T12:37:32Z",
-              101
-            ],
-            [
-              "2026-09-15T12:54:18Z",
-              90
-            ],
-            [
-              "2026-09-15T13:12:22Z",
-              96
-            ],
-            [
-              "2026-09-15T13:32:46Z",
-              97
-            ],
-            [
-              "2026-09-15T13:50:45Z",
-              98
-            ],
-            [
-              "2026-09-15T14:12:12Z",
-              101
-            ],
-            [
-              "2026-09-15T14:31:50Z",
-              116
-            ],
-            [
-              "2026-09-15T14:50:33Z",
-              166
-            ],
-            [
-              "2026-09-15T15:11:13Z",
-              196
-            ],
-            [
-              "2026-09-15T15:31:02Z",
-              177
-            ],
-            [
-              "2026-09-15T15:49:51Z",
-              155
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "atJ1MuS6TJw",
-          "videoUrl": "https://www.youtube.com/watch?v=atJ1MuS6TJw",
-          "start": "2026-09-14T13:36:19Z",
-          "end": "2026-09-14T17:10:13Z",
-          "minutes": 213.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGETown】NO TROLL【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 181,
-          "avgViewers": 136.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "tK0tiy4IqhM",
-          "videoUrl": "https://www.youtube.com/watch?v=tK0tiy4IqhM",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T17:15:21Z",
-          "minutes": 319.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGETown】アウトプットGO【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 230,
-          "avgViewers": 157.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "tK0tiy4IqhM",
-          "videoUrl": "https://www.youtube.com/watch?v=tK0tiy4IqhM",
-          "start": "2026-09-13T10:06:35Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 95.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGETown】アウトプットGO【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 234,
-          "avgViewers": 197.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "UurEOU6b7_U",
-          "videoUrl": "https://www.youtube.com/watch?v=UurEOU6b7_U",
-          "start": "2026-09-12T16:42:48Z",
-          "end": "2026-09-12T17:10:37Z",
-          "minutes": 27.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGETown】早 番 出 勤【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 176,
-          "avgViewers": 173.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "UurEOU6b7_U",
-          "videoUrl": "https://www.youtube.com/watch?v=UurEOU6b7_U",
-          "start": "2026-09-12T10:29:27Z",
-          "end": "2026-09-12T16:30:08Z",
-          "minutes": 360.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGETown】早 番 出 勤【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 220,
-          "avgViewers": 186.8,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 158,
-      "livePeakViewers": 198,
-      "liveAvgViewers": 155.9,
-      "liveSamples": [
-        [
-          "2026-09-17T14:49:41Z",
-          77
-        ],
-        [
-          "2026-09-17T15:01:09Z",
-          84
-        ],
-        [
-          "2026-09-17T15:22:52Z",
-          173
-        ],
-        [
-          "2026-09-17T15:40:38Z",
-          171
-        ],
-        [
-          "2026-09-17T15:56:58Z",
-          198
-        ],
-        [
-          "2026-09-17T16:16:29Z",
-          184
-        ],
-        [
-          "2026-09-17T16:32:50Z",
-          157
-        ],
-        [
-          "2026-09-17T16:49:20Z",
-          143
-        ],
-        [
-          "2026-09-17T16:59:44Z",
-          138
-        ],
-        [
-          "2026-09-17T17:16:21Z",
-          176
-        ],
-        [
-          "2026-09-17T17:30:14Z",
-          194
-        ],
-        [
-          "2026-09-17T17:48:26Z",
-          175
-        ],
-        [
-          "2026-09-17T17:59:32Z",
-          148
-        ],
-        [
-          "2026-09-17T18:21:50Z",
-          158
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=K1K_8eBBVmA"
-    },
     {
       "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
       "name": "몰라",
@@ -395,28 +56,28 @@
       "lastTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
       "buckets": {
         "today": {
-          "totalMinutes": 201.8,
-          "gameMinutes": 201.8,
-          "totalHours": 3.36,
-          "gameHours": 3.36,
+          "totalMinutes": 223.2,
+          "gameMinutes": 223.2,
+          "totalHours": 3.72,
+          "gameHours": 3.72,
           "sessions": 1,
           "avgViewers": 1.4,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 1482.7,
-          "gameMinutes": 1482.7,
-          "totalHours": 24.71,
-          "gameHours": 24.71,
+          "totalMinutes": 1504.0,
+          "gameMinutes": 1504.0,
+          "totalHours": 25.07,
+          "gameHours": 25.07,
           "sessions": 6,
           "avgViewers": 1.6,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 1482.7,
-          "gameMinutes": 1482.7,
-          "totalHours": 24.71,
-          "gameHours": 24.71,
+          "totalMinutes": 1504.0,
+          "gameMinutes": 1504.0,
+          "totalHours": 25.07,
+          "gameHours": 25.07,
           "sessions": 6,
           "avgViewers": 1.6,
           "peakViewers": 4
@@ -724,7 +385,7 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 2,
+      "liveViewers": 1,
       "livePeakViewers": 4,
       "liveAvgViewers": 1.4,
       "liveSamples": [
@@ -803,6 +464,10 @@
         [
           "2026-09-17T18:21:50Z",
           2
+        ],
+        [
+          "2026-09-17T18:43:12Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=rczLviyAJSs"
@@ -2812,6 +2477,283 @@
           "avgViewers": 32.7,
           "samples": [],
           "isTargetGame": true
+        }
+      ]
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCB-aip0wsqKQPcrLW1BBJaw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-17T18:43:12Z",
+      "lastTitle": "【SURGETown】遅れて参上【綾見ユラ/YUMENOS】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 223.2,
+          "gameMinutes": 0.0,
+          "totalHours": 3.72,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 155.9,
+          "peakViewers": 198
+        },
+        "week": {
+          "totalMinutes": 1034.0,
+          "gameMinutes": 191.3,
+          "totalHours": 17.23,
+          "gameHours": 3.19,
+          "sessions": 6,
+          "avgViewers": 123.0,
+          "peakViewers": 230
+        },
+        "month": {
+          "totalMinutes": 1940.9,
+          "gameMinutes": 191.3,
+          "totalHours": 32.35,
+          "gameHours": 3.19,
+          "sessions": 10,
+          "avgViewers": 153.7,
+          "peakViewers": 275
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "K1K_8eBBVmA",
+          "videoUrl": "https://www.youtube.com/watch?v=K1K_8eBBVmA",
+          "start": "2026-09-17T14:49:41Z",
+          "end": "2026-09-17T18:43:12Z",
+          "minutes": 233.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGETown】遅れて参上【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 198,
+          "avgViewers": 155.9,
+          "samples": [
+            [
+              "2026-09-17T14:49:41Z",
+              77
+            ],
+            [
+              "2026-09-17T15:01:09Z",
+              84
+            ],
+            [
+              "2026-09-17T15:22:52Z",
+              173
+            ],
+            [
+              "2026-09-17T15:40:38Z",
+              171
+            ],
+            [
+              "2026-09-17T15:56:58Z",
+              198
+            ],
+            [
+              "2026-09-17T16:16:29Z",
+              184
+            ],
+            [
+              "2026-09-17T16:32:50Z",
+              157
+            ],
+            [
+              "2026-09-17T16:49:20Z",
+              143
+            ],
+            [
+              "2026-09-17T16:59:44Z",
+              138
+            ],
+            [
+              "2026-09-17T17:16:21Z",
+              176
+            ],
+            [
+              "2026-09-17T17:30:14Z",
+              194
+            ],
+            [
+              "2026-09-17T17:48:26Z",
+              175
+            ],
+            [
+              "2026-09-17T17:59:32Z",
+              148
+            ],
+            [
+              "2026-09-17T18:21:50Z",
+              158
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "yIGXfD7qmgI",
+          "videoUrl": "https://www.youtube.com/watch?v=yIGXfD7qmgI",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】熱笑界隈WIN【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 49,
+          "avgViewers": 49.0,
+          "samples": [
+            [
+              "2026-09-16T13:02:30Z",
+              49
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "yIGXfD7qmgI",
+          "videoUrl": "https://www.youtube.com/watch?v=yIGXfD7qmgI",
+          "start": "2026-09-16T10:00:44Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 169.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】熱笑界隈WIN【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 57,
+          "avgViewers": 40.2,
+          "samples": [
+            [
+              "2026-09-16T10:00:44Z",
+              14
+            ],
+            [
+              "2026-09-16T10:23:47Z",
+              48
+            ],
+            [
+              "2026-09-16T10:41:18Z",
+              57
+            ],
+            [
+              "2026-09-16T10:57:02Z",
+              43
+            ],
+            [
+              "2026-09-16T11:15:34Z",
+              51
+            ],
+            [
+              "2026-09-16T11:32:17Z",
+              43
+            ],
+            [
+              "2026-09-16T11:49:36Z",
+              36
+            ],
+            [
+              "2026-09-16T12:00:12Z",
+              36
+            ],
+            [
+              "2026-09-16T12:28:20Z",
+              45
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "DNmX1g_t7hc",
+          "videoUrl": "https://www.youtube.com/watch?v=DNmX1g_t7hc",
+          "start": "2026-09-15T11:40:32Z",
+          "end": "2026-09-15T16:00:25Z",
+          "minutes": 259.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【マイクラ】竜宮ハドコア【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 196,
+          "avgViewers": 124.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "atJ1MuS6TJw",
+          "videoUrl": "https://www.youtube.com/watch?v=atJ1MuS6TJw",
+          "start": "2026-09-14T13:36:19Z",
+          "end": "2026-09-14T17:10:13Z",
+          "minutes": 213.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGETown】NO TROLL【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 181,
+          "avgViewers": 136.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "tK0tiy4IqhM",
+          "videoUrl": "https://www.youtube.com/watch?v=tK0tiy4IqhM",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T17:15:21Z",
+          "minutes": 319.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGETown】アウトプットGO【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 230,
+          "avgViewers": 157.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "tK0tiy4IqhM",
+          "videoUrl": "https://www.youtube.com/watch?v=tK0tiy4IqhM",
+          "start": "2026-09-13T10:06:35Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 95.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGETown】アウトプットGO【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 234,
+          "avgViewers": 197.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "UurEOU6b7_U",
+          "videoUrl": "https://www.youtube.com/watch?v=UurEOU6b7_U",
+          "start": "2026-09-12T16:42:48Z",
+          "end": "2026-09-12T17:10:37Z",
+          "minutes": 27.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGETown】早 番 出 勤【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 176,
+          "avgViewers": 173.0,
+          "samples": [],
+          "isTargetGame": false
         }
       ]
     },
@@ -12038,6 +11980,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "K1K_8eBBVmA",
+      "videoUrl": "https://www.youtube.com/watch?v=K1K_8eBBVmA",
+      "start": "2026-09-17T14:49:41Z",
+      "end": "2026-09-17T18:43:12Z",
+      "minutes": 233.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【SURGETown】遅れて参上【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 198,
+      "avgViewers": 155.9,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
       "name": "팬텀이",
       "videoId": "EHXsD6PT0Iw",
@@ -12963,22 +12921,6 @@
       "game": null,
       "peakViewers": 9,
       "avgViewers": 9.0,
-      "isTargetGame": true
-    },
-    {
-      "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "videoId": "tTObyA8yfn4",
-      "videoUrl": "https://www.youtube.com/watch?v=tTObyA8yfn4",
-      "start": "2026-09-16T13:02:30Z",
-      "end": "2026-09-16T13:24:39Z",
-      "minutes": 22.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 エターナルリターン / ゆかそ】遠慮なくいくぞ！ w/ Day1 千燈ゆうひ【 #奏手イヅル 】",
-      "game": null,
-      "peakViewers": 314,
-      "avgViewers": 314.0,
       "isTargetGame": true
     }
   ]
