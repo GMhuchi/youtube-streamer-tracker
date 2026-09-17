@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T22:41:00Z",
+  "updatedAt": "2026-09-17T22:55:54Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2216.9,
+      "totalMinutes": 2246.7,
       "gameMinutes": 541.5,
-      "totalHours": 36.95,
+      "totalHours": 37.45,
       "gameHours": 9.02,
       "sessions": 19,
-      "avgViewers": 130.6,
+      "avgViewers": 131.0,
       "peakViewers": 958
     },
     "week": {
-      "totalMinutes": 35052.9,
+      "totalMinutes": 35082.7,
       "gameMinutes": 18324.7,
-      "totalHours": 584.21,
+      "totalHours": 584.71,
       "gameHours": 305.41,
       "sessions": 210,
-      "avgViewers": 78.6,
+      "avgViewers": 78.7,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 57218.0,
+      "totalMinutes": 57247.8,
       "gameMinutes": 27825.8,
-      "totalHours": 953.63,
+      "totalHours": 954.13,
       "gameHours": 463.76,
       "sessions": 334,
-      "avgViewers": 88.0,
+      "avgViewers": 88.1,
       "peakViewers": 994
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
       "buckets": {
         "today": {
-          "totalMinutes": 205.4,
+          "totalMinutes": 220.3,
           "gameMinutes": 0.0,
-          "totalHours": 3.42,
+          "totalHours": 3.67,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1561.2,
+          "totalMinutes": 1576.1,
           "gameMinutes": 0.0,
-          "totalHours": 26.02,
+          "totalHours": 26.27,
           "gameHours": 0.0,
           "sessions": 5,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 2371.1,
+          "totalMinutes": 2386.0,
           "gameMinutes": 48.2,
-          "totalHours": 39.52,
+          "totalHours": 39.77,
           "gameHours": 0.8,
           "sessions": 12,
           "avgViewers": null,
@@ -239,30 +239,30 @@
       "lastTitle": "【ほの暮しの庭】# 5 完全初見🌳深夜のチル！田舎暮らし！🐢【甘音あむ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 136.4,
+          "totalMinutes": 151.3,
           "gameMinutes": 0.0,
-          "totalHours": 2.27,
+          "totalHours": 2.52,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 109.6,
-          "peakViewers": 142
+          "avgViewers": 116.7,
+          "peakViewers": 221
         },
         "week": {
-          "totalMinutes": 623.7,
+          "totalMinutes": 638.6,
           "gameMinutes": 308.4,
-          "totalHours": 10.4,
+          "totalHours": 10.64,
           "gameHours": 5.14,
           "sessions": 6,
-          "avgViewers": 123.3,
+          "avgViewers": 124.6,
           "peakViewers": 270
         },
         "month": {
-          "totalMinutes": 1050.9,
+          "totalMinutes": 1065.8,
           "gameMinutes": 600.9,
-          "totalHours": 17.51,
+          "totalHours": 17.76,
           "gameHours": 10.01,
           "sessions": 9,
-          "avgViewers": 151.6,
+          "avgViewers": 152.0,
           "peakViewers": 793
         }
       },
@@ -507,13 +507,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 142,
-      "livePeakViewers": 142,
-      "liveAvgViewers": 142.0,
+      "liveViewers": 221,
+      "livePeakViewers": 221,
+      "liveAvgViewers": 181.5,
       "liveSamples": [
         [
           "2026-09-17T22:41:00Z",
           142
+        ],
+        [
+          "2026-09-17T22:55:54Z",
+          221
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=ltuFtQYFrls"
