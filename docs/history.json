@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T04:57:32Z",
+  "updatedAt": "2026-09-17T05:15:48Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,365 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3284.6,
+      "totalMinutes": 3302.8,
       "gameMinutes": 1306.5,
-      "totalHours": 54.74,
+      "totalHours": 55.05,
       "gameHours": 21.78,
-      "sessions": 22,
-      "avgViewers": 94.8,
+      "sessions": 23,
+      "avgViewers": 94.2,
       "peakViewers": 776
     },
     "week": {
-      "totalMinutes": 28111.4,
+      "totalMinutes": 28129.7,
       "gameMinutes": 16297.4,
-      "totalHours": 468.52,
+      "totalHours": 468.83,
       "gameHours": 271.62,
-      "sessions": 181,
+      "sessions": 182,
       "avgViewers": 72.5,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 50276.5,
+      "totalMinutes": 50294.8,
       "gameMinutes": 25798.5,
-      "totalHours": 837.94,
+      "totalHours": 838.25,
       "gameHours": 429.97,
-      "sessions": 305,
+      "sessions": 306,
       "avgViewers": 85.9,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
+      "isLive": true,
+      "liveSince": "2026-09-17T05:15:48Z",
+      "liveTitle": "※ネタバレあり これまでとは何か違いそう！？眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #15 #愁子",
+      "lastEnd": "2026-09-16T12:49:54Z",
+      "lastTitle": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 43.0,
+          "peakViewers": 43
+        },
+        "week": {
+          "totalMinutes": 1298.3,
+          "gameMinutes": 441.6,
+          "totalHours": 21.64,
+          "gameHours": 7.36,
+          "sessions": 8,
+          "avgViewers": 44.3,
+          "peakViewers": 78
+        },
+        "month": {
+          "totalMinutes": 2113.9,
+          "gameMinutes": 790.6,
+          "totalHours": 35.23,
+          "gameHours": 13.18,
+          "sessions": 12,
+          "avgViewers": 43.0,
+          "peakViewers": 78
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "xYU9ymXL0TU",
+          "videoUrl": "https://www.youtube.com/watch?v=xYU9ymXL0TU",
+          "start": "2026-09-16T10:23:47Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 146.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
+          "game": null,
+          "peakViewers": 31,
+          "avgViewers": 25.7,
+          "samples": [
+            [
+              "2026-09-16T10:23:47Z",
+              26
+            ],
+            [
+              "2026-09-16T10:41:18Z",
+              24
+            ],
+            [
+              "2026-09-16T10:57:02Z",
+              31
+            ],
+            [
+              "2026-09-16T11:15:34Z",
+              26
+            ],
+            [
+              "2026-09-16T11:32:17Z",
+              24
+            ],
+            [
+              "2026-09-16T11:49:36Z",
+              24
+            ],
+            [
+              "2026-09-16T12:00:12Z",
+              23
+            ],
+            [
+              "2026-09-16T12:28:20Z",
+              28
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "oiEtcQ9TQGw",
+          "videoUrl": "https://www.youtube.com/watch?v=oiEtcQ9TQGw",
+          "start": "2026-09-15T10:49:24Z",
+          "end": "2026-09-15T17:14:11Z",
+          "minutes": 384.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#SURGETown 8日目 | くろふく！ #愁子",
+          "game": null,
+          "peakViewers": 61,
+          "avgViewers": 44.0,
+          "samples": [
+            [
+              "2026-09-15T10:49:24Z",
+              24
+            ],
+            [
+              "2026-09-15T11:01:11Z",
+              33
+            ],
+            [
+              "2026-09-15T11:22:05Z",
+              41
+            ],
+            [
+              "2026-09-15T11:40:32Z",
+              44
+            ],
+            [
+              "2026-09-15T11:55:37Z",
+              50
+            ],
+            [
+              "2026-09-15T12:15:49Z",
+              43
+            ],
+            [
+              "2026-09-15T12:37:32Z",
+              39
+            ],
+            [
+              "2026-09-15T12:54:18Z",
+              42
+            ],
+            [
+              "2026-09-15T13:12:22Z",
+              36
+            ],
+            [
+              "2026-09-15T13:32:46Z",
+              44
+            ],
+            [
+              "2026-09-15T13:50:45Z",
+              42
+            ],
+            [
+              "2026-09-15T14:12:12Z",
+              46
+            ],
+            [
+              "2026-09-15T14:31:50Z",
+              44
+            ],
+            [
+              "2026-09-15T14:50:33Z",
+              40
+            ],
+            [
+              "2026-09-15T15:11:13Z",
+              45
+            ],
+            [
+              "2026-09-15T15:31:02Z",
+              46
+            ],
+            [
+              "2026-09-15T15:49:51Z",
+              57
+            ],
+            [
+              "2026-09-15T16:00:25Z",
+              61
+            ],
+            [
+              "2026-09-15T16:23:14Z",
+              47
+            ],
+            [
+              "2026-09-15T16:41:37Z",
+              44
+            ],
+            [
+              "2026-09-15T16:57:21Z",
+              53
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "vlkMOnAse78",
+          "videoUrl": "https://www.youtube.com/watch?v=vlkMOnAse78",
+          "start": "2026-09-15T04:12:25Z",
+          "end": "2026-09-15T06:15:09Z",
+          "minutes": 122.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "ちょっと一息お昼雑談 #愁子",
+          "game": null,
+          "peakViewers": 78,
+          "avgViewers": 69.2,
+          "samples": [
+            [
+              "2026-09-15T04:12:25Z",
+              43
+            ],
+            [
+              "2026-09-15T04:33:32Z",
+              65
+            ],
+            [
+              "2026-09-15T04:51:48Z",
+              77
+            ],
+            [
+              "2026-09-15T05:11:32Z",
+              76
+            ],
+            [
+              "2026-09-15T05:32:26Z",
+              78
+            ],
+            [
+              "2026-09-15T05:50:56Z",
+              78
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "Mrn3xSbG5J0",
+          "videoUrl": "https://www.youtube.com/watch?v=Mrn3xSbG5J0",
+          "start": "2026-09-14T13:36:19Z",
+          "end": "2026-09-14T17:10:13Z",
+          "minutes": 213.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#SURGETown 7日目 | やっきょく！第7話「新しいお薬！？」 #愁子",
+          "game": null,
+          "peakViewers": 51,
+          "avgViewers": 41.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "7WwePG3A3EI",
+          "videoUrl": "https://www.youtube.com/watch?v=7WwePG3A3EI",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:19:25Z",
+          "minutes": 106.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "エターナルリターン  | スクリムDay2！まだまだうまくなれます #愁子",
+          "game": null,
+          "peakViewers": 26,
+          "avgViewers": 24.3,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "w4CjD53N0pE",
+          "videoUrl": "https://www.youtube.com/watch?v=w4CjD53N0pE",
+          "start": "2026-09-14T05:10:51Z",
+          "end": "2026-09-14T08:19:39Z",
+          "minutes": 188.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "エターナルリターン  | DOMINEXに向けて引き続きアヤのこそ練🎵 #愁子",
+          "game": null,
+          "peakViewers": 77,
+          "avgViewers": 58.4,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "e7ZXJrM_v0s",
+          "videoUrl": "https://www.youtube.com/watch?v=e7ZXJrM_v0s",
+          "start": "2026-09-13T12:15:41Z",
+          "end": "2026-09-13T17:15:21Z",
+          "minutes": 299.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#SURGETown 5日目 | やっきょく！第6話「ボイス売りのお姉さん」 #愁子",
+          "game": null,
+          "peakViewers": 52,
+          "avgViewers": 43.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "6ymUENhVQDA",
+          "videoUrl": "https://www.youtube.com/watch?v=6ymUENhVQDA",
+          "start": "2026-09-12T16:42:48Z",
+          "end": "2026-09-12T17:10:37Z",
+          "minutes": 27.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#SURGETown 5日目 | やっきょく！第5話「モデルをするぞ！？」 #愁子",
+          "game": null,
+          "peakViewers": 52,
+          "avgViewers": 50.5,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 43,
+      "livePeakViewers": 43,
+      "liveAvgViewers": 43.0,
+      "liveSamples": [
+        [
+          "2026-09-17T05:15:48Z",
+          43
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=qywVIq1g9Yw"
+    },
     {
       "channelId": "UCkU9ZIU40wqsm6Ze7G0W2dw",
       "name": "貓良 / Ryo",
@@ -56,30 +387,30 @@
       "lastTitle": "【Eternal Return】最後一天聯盟了 ｜永恆輪迴 エターナルリターン",
       "buckets": {
         "today": {
-          "totalMinutes": 408.7,
+          "totalMinutes": 427.0,
           "gameMinutes": 49.3,
-          "totalHours": 6.81,
+          "totalHours": 7.12,
           "gameHours": 0.82,
           "sessions": 2,
-          "avgViewers": 3.1,
+          "avgViewers": 3.2,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 449.4,
+          "totalMinutes": 467.6,
           "gameMinutes": 89.9,
-          "totalHours": 7.49,
+          "totalHours": 7.79,
           "gameHours": 1.5,
           "sessions": 2,
-          "avgViewers": 3.1,
+          "avgViewers": 3.2,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 449.4,
+          "totalMinutes": 467.6,
           "gameMinutes": 89.9,
-          "totalHours": 7.49,
+          "totalHours": 7.79,
           "gameHours": 1.5,
           "sessions": 2,
-          "avgViewers": 3.1,
+          "avgViewers": 3.2,
           "peakViewers": 5
         }
       },
@@ -125,7 +456,7 @@
       ],
       "liveViewers": 5,
       "livePeakViewers": 5,
-      "liveAvgViewers": 3.1,
+      "liveAvgViewers": 3.2,
       "liveSamples": [
         [
           "2026-09-16T23:16:02Z",
@@ -209,6 +540,10 @@
         ],
         [
           "2026-09-17T04:57:32Z",
+          5
+        ],
+        [
+          "2026-09-17T05:15:48Z",
           5
         ]
       ],
@@ -1266,327 +1601,6 @@
           "game": null,
           "peakViewers": null,
           "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-16T12:49:54Z",
-      "lastTitle": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 1298.3,
-          "gameMinutes": 441.6,
-          "totalHours": 21.64,
-          "gameHours": 7.36,
-          "sessions": 7,
-          "avgViewers": 44.3,
-          "peakViewers": 78
-        },
-        "month": {
-          "totalMinutes": 2113.9,
-          "gameMinutes": 790.6,
-          "totalHours": 35.23,
-          "gameHours": 13.18,
-          "sessions": 11,
-          "avgViewers": 43.0,
-          "peakViewers": 78
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "xYU9ymXL0TU",
-          "videoUrl": "https://www.youtube.com/watch?v=xYU9ymXL0TU",
-          "start": "2026-09-16T10:23:47Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 146.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
-          "game": null,
-          "peakViewers": 31,
-          "avgViewers": 25.7,
-          "samples": [
-            [
-              "2026-09-16T10:23:47Z",
-              26
-            ],
-            [
-              "2026-09-16T10:41:18Z",
-              24
-            ],
-            [
-              "2026-09-16T10:57:02Z",
-              31
-            ],
-            [
-              "2026-09-16T11:15:34Z",
-              26
-            ],
-            [
-              "2026-09-16T11:32:17Z",
-              24
-            ],
-            [
-              "2026-09-16T11:49:36Z",
-              24
-            ],
-            [
-              "2026-09-16T12:00:12Z",
-              23
-            ],
-            [
-              "2026-09-16T12:28:20Z",
-              28
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "oiEtcQ9TQGw",
-          "videoUrl": "https://www.youtube.com/watch?v=oiEtcQ9TQGw",
-          "start": "2026-09-15T10:49:24Z",
-          "end": "2026-09-15T17:14:11Z",
-          "minutes": 384.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#SURGETown 8日目 | くろふく！ #愁子",
-          "game": null,
-          "peakViewers": 61,
-          "avgViewers": 44.0,
-          "samples": [
-            [
-              "2026-09-15T10:49:24Z",
-              24
-            ],
-            [
-              "2026-09-15T11:01:11Z",
-              33
-            ],
-            [
-              "2026-09-15T11:22:05Z",
-              41
-            ],
-            [
-              "2026-09-15T11:40:32Z",
-              44
-            ],
-            [
-              "2026-09-15T11:55:37Z",
-              50
-            ],
-            [
-              "2026-09-15T12:15:49Z",
-              43
-            ],
-            [
-              "2026-09-15T12:37:32Z",
-              39
-            ],
-            [
-              "2026-09-15T12:54:18Z",
-              42
-            ],
-            [
-              "2026-09-15T13:12:22Z",
-              36
-            ],
-            [
-              "2026-09-15T13:32:46Z",
-              44
-            ],
-            [
-              "2026-09-15T13:50:45Z",
-              42
-            ],
-            [
-              "2026-09-15T14:12:12Z",
-              46
-            ],
-            [
-              "2026-09-15T14:31:50Z",
-              44
-            ],
-            [
-              "2026-09-15T14:50:33Z",
-              40
-            ],
-            [
-              "2026-09-15T15:11:13Z",
-              45
-            ],
-            [
-              "2026-09-15T15:31:02Z",
-              46
-            ],
-            [
-              "2026-09-15T15:49:51Z",
-              57
-            ],
-            [
-              "2026-09-15T16:00:25Z",
-              61
-            ],
-            [
-              "2026-09-15T16:23:14Z",
-              47
-            ],
-            [
-              "2026-09-15T16:41:37Z",
-              44
-            ],
-            [
-              "2026-09-15T16:57:21Z",
-              53
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "vlkMOnAse78",
-          "videoUrl": "https://www.youtube.com/watch?v=vlkMOnAse78",
-          "start": "2026-09-15T04:12:25Z",
-          "end": "2026-09-15T06:15:09Z",
-          "minutes": 122.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "ちょっと一息お昼雑談 #愁子",
-          "game": null,
-          "peakViewers": 78,
-          "avgViewers": 69.2,
-          "samples": [
-            [
-              "2026-09-15T04:12:25Z",
-              43
-            ],
-            [
-              "2026-09-15T04:33:32Z",
-              65
-            ],
-            [
-              "2026-09-15T04:51:48Z",
-              77
-            ],
-            [
-              "2026-09-15T05:11:32Z",
-              76
-            ],
-            [
-              "2026-09-15T05:32:26Z",
-              78
-            ],
-            [
-              "2026-09-15T05:50:56Z",
-              78
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "Mrn3xSbG5J0",
-          "videoUrl": "https://www.youtube.com/watch?v=Mrn3xSbG5J0",
-          "start": "2026-09-14T13:36:19Z",
-          "end": "2026-09-14T17:10:13Z",
-          "minutes": 213.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#SURGETown 7日目 | やっきょく！第7話「新しいお薬！？」 #愁子",
-          "game": null,
-          "peakViewers": 51,
-          "avgViewers": 41.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "7WwePG3A3EI",
-          "videoUrl": "https://www.youtube.com/watch?v=7WwePG3A3EI",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:19:25Z",
-          "minutes": 106.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "エターナルリターン  | スクリムDay2！まだまだうまくなれます #愁子",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 24.3,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "w4CjD53N0pE",
-          "videoUrl": "https://www.youtube.com/watch?v=w4CjD53N0pE",
-          "start": "2026-09-14T05:10:51Z",
-          "end": "2026-09-14T08:19:39Z",
-          "minutes": 188.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "エターナルリターン  | DOMINEXに向けて引き続きアヤのこそ練🎵 #愁子",
-          "game": null,
-          "peakViewers": 77,
-          "avgViewers": 58.4,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "e7ZXJrM_v0s",
-          "videoUrl": "https://www.youtube.com/watch?v=e7ZXJrM_v0s",
-          "start": "2026-09-13T12:15:41Z",
-          "end": "2026-09-13T17:15:21Z",
-          "minutes": 299.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#SURGETown 5日目 | やっきょく！第6話「ボイス売りのお姉さん」 #愁子",
-          "game": null,
-          "peakViewers": 52,
-          "avgViewers": 43.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "6ymUENhVQDA",
-          "videoUrl": "https://www.youtube.com/watch?v=6ymUENhVQDA",
-          "start": "2026-09-12T16:42:48Z",
-          "end": "2026-09-12T17:10:37Z",
-          "minutes": 27.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#SURGETown 5日目 | やっきょく！第5話「モデルをするぞ！？」 #愁子",
-          "game": null,
-          "peakViewers": 52,
-          "avgViewers": 50.5,
           "samples": [],
           "isTargetGame": false
         }
