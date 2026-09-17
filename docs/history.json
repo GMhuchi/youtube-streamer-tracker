@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:15:36Z",
+  "updatedAt": "2026-09-17T19:29:30Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1935.9,
-      "gameMinutes": 465.8,
-      "totalHours": 32.26,
-      "gameHours": 7.76,
+      "totalMinutes": 1963.6,
+      "gameMinutes": 479.7,
+      "totalHours": 32.73,
+      "gameHours": 8.0,
       "sessions": 18,
-      "avgViewers": 136.2,
+      "avgViewers": 135.1,
       "peakViewers": 958
     },
     "week": {
-      "totalMinutes": 34771.9,
-      "gameMinutes": 18249.0,
-      "totalHours": 579.53,
-      "gameHours": 304.15,
+      "totalMinutes": 34799.6,
+      "gameMinutes": 18262.9,
+      "totalHours": 579.99,
+      "gameHours": 304.38,
       "sessions": 209,
       "avgViewers": 78.8,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 56937.0,
-      "gameMinutes": 27750.1,
-      "totalHours": 948.95,
-      "gameHours": 462.5,
+      "totalMinutes": 56964.8,
+      "gameMinutes": 27764.0,
+      "totalHours": 949.41,
+      "gameHours": 462.73,
       "sessions": 333,
-      "avgViewers": 88.2,
+      "avgViewers": 88.1,
       "peakViewers": 994
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 13.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.23,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1355.8,
+          "totalMinutes": 1369.7,
           "gameMinutes": 0.0,
-          "totalHours": 22.6,
+          "totalHours": 22.83,
           "gameHours": 0.0,
           "sessions": 5,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 2165.7,
+          "totalMinutes": 2179.6,
           "gameMinutes": 48.2,
-          "totalHours": 36.09,
+          "totalHours": 36.33,
           "gameHours": 0.8,
           "sessions": 12,
           "avgViewers": null,
@@ -239,30 +239,30 @@
       "lastTitle": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
       "buckets": {
         "today": {
-          "totalMinutes": 255.6,
-          "gameMinutes": 255.6,
-          "totalHours": 4.26,
-          "gameHours": 4.26,
+          "totalMinutes": 269.5,
+          "gameMinutes": 269.5,
+          "totalHours": 4.49,
+          "gameHours": 4.49,
           "sessions": 1,
-          "avgViewers": 1.4,
+          "avgViewers": 1.3,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 1536.4,
-          "gameMinutes": 1536.4,
-          "totalHours": 25.61,
-          "gameHours": 25.61,
+          "totalMinutes": 1550.3,
+          "gameMinutes": 1550.3,
+          "totalHours": 25.84,
+          "gameHours": 25.84,
           "sessions": 6,
-          "avgViewers": 1.6,
+          "avgViewers": 1.5,
           "peakViewers": 4
         },
         "month": {
-          "totalMinutes": 1536.4,
-          "gameMinutes": 1536.4,
-          "totalHours": 25.61,
-          "gameHours": 25.61,
+          "totalMinutes": 1550.3,
+          "gameMinutes": 1550.3,
+          "totalHours": 25.84,
+          "gameHours": 25.84,
           "sessions": 6,
-          "avgViewers": 1.6,
+          "avgViewers": 1.5,
           "peakViewers": 4
         }
       },
@@ -570,7 +570,7 @@
       ],
       "liveViewers": 1,
       "livePeakViewers": 4,
-      "liveAvgViewers": 1.4,
+      "liveAvgViewers": 1.3,
       "liveSamples": [
         [
           "2026-09-17T13:20:22Z",
@@ -658,6 +658,10 @@
         ],
         [
           "2026-09-17T19:15:36Z",
+          1
+        ],
+        [
+          "2026-09-17T19:29:30Z",
           1
         ]
       ],
