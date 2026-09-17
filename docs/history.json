@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T06:45:40Z",
+  "updatedAt": "2026-09-17T07:00:23Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3426.0,
-      "gameMinutes": 1306.5,
-      "totalHours": 57.1,
-      "gameHours": 21.78,
-      "sessions": 24,
-      "avgViewers": 92.5,
+      "totalMinutes": 3455.4,
+      "gameMinutes": 1321.3,
+      "totalHours": 57.59,
+      "gameHours": 22.02,
+      "sessions": 25,
+      "avgViewers": 92.1,
       "peakViewers": 776
     },
     "week": {
-      "totalMinutes": 28252.8,
-      "gameMinutes": 16297.4,
-      "totalHours": 470.88,
-      "gameHours": 271.62,
-      "sessions": 183,
+      "totalMinutes": 28282.2,
+      "gameMinutes": 16312.1,
+      "totalHours": 471.37,
+      "gameHours": 271.87,
+      "sessions": 184,
       "avgViewers": 72.4,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 50418.0,
-      "gameMinutes": 25798.5,
-      "totalHours": 840.3,
-      "gameHours": 429.97,
-      "sessions": 307,
-      "avgViewers": 85.8,
+      "totalMinutes": 50447.4,
+      "gameMinutes": 25813.2,
+      "totalHours": 840.79,
+      "gameHours": 430.22,
+      "sessions": 308,
+      "avgViewers": 85.7,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
       "buckets": {
         "today": {
-          "totalMinutes": 89.9,
+          "totalMinutes": 104.6,
           "gameMinutes": 0.0,
-          "totalHours": 1.5,
+          "totalHours": 1.74,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 74.4,
+          "avgViewers": 76.1,
           "peakViewers": 103
         },
         "week": {
-          "totalMinutes": 1388.2,
+          "totalMinutes": 1402.9,
           "gameMinutes": 441.6,
-          "totalHours": 23.14,
+          "totalHours": 23.38,
           "gameHours": 7.36,
           "sessions": 8,
-          "avgViewers": 46.3,
+          "avgViewers": 46.7,
           "peakViewers": 103
         },
         "month": {
-          "totalMinutes": 2203.7,
+          "totalMinutes": 2218.5,
           "gameMinutes": 790.6,
-          "totalHours": 36.73,
+          "totalHours": 36.97,
           "gameHours": 13.18,
           "sessions": 12,
-          "avgViewers": 44.2,
+          "avgViewers": 44.5,
           "peakViewers": 103
         }
       },
@@ -364,9 +364,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 103,
+      "liveViewers": 92,
       "livePeakViewers": 103,
-      "liveAvgViewers": 74.4,
+      "liveAvgViewers": 76.1,
       "liveSamples": [
         [
           "2026-09-17T05:15:48Z",
@@ -391,9 +391,162 @@
         [
           "2026-09-17T06:45:40Z",
           103
+        ],
+        [
+          "2026-09-17T07:00:23Z",
+          92
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=qywVIq1g9Yw"
+    },
+    {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCLfO5ulnws_Z4VttSbwhdvQ",
+      "isLive": true,
+      "liveSince": "2026-09-17T07:00:23Z",
+      "liveTitle": "이터널 리턴)울부짖는 셋째 돼지",
+      "lastEnd": "2026-09-16T10:23:47Z",
+      "lastTitle": "이터널 리턴)벽돌 올리는 둘째 돼지",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 784.8,
+          "gameMinutes": 784.8,
+          "totalHours": 13.08,
+          "gameHours": 13.08,
+          "sessions": 3,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 1946.4,
+          "gameMinutes": 1946.4,
+          "totalHours": 32.44,
+          "gameHours": 32.44,
+          "sessions": 7,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "Hssfxg42wZ8",
+          "videoUrl": "https://www.youtube.com/watch?v=Hssfxg42wZ8",
+          "start": "2026-09-16T02:59:52Z",
+          "end": "2026-09-16T10:23:47Z",
+          "minutes": 443.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)벽돌 올리는 둘째 돼지",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "tZaO4bin-Mk",
+          "videoUrl": "https://www.youtube.com/watch?v=tZaO4bin-Mk",
+          "start": "2026-09-15T04:12:25Z",
+          "end": "2026-09-15T09:53:15Z",
+          "minutes": 340.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)집 날아간 첫째 돼지",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "x7OY4Fr746k",
+          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T12:50:34Z",
+          "minutes": 54.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)도둑 잡으러 갑시다",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "x7OY4Fr746k",
+          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
+          "start": "2026-09-13T03:58:08Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 463.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)도둑 잡으러 갑시다",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "afhLD-0FoFQ",
+          "videoUrl": "https://www.youtube.com/watch?v=afhLD-0FoFQ",
+          "start": "2026-09-12T03:47:41Z",
+          "end": "2026-09-12T09:55:51Z",
+          "minutes": 368.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)기세등등",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+          "name": "덤덤",
+          "videoId": "7QbZ4naGgx4",
+          "videoUrl": "https://www.youtube.com/watch?v=7QbZ4naGgx4",
+          "start": "2026-09-11T03:49:14Z",
+          "end": "2026-09-11T08:24:12Z",
+          "minutes": 275.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴)짐승 같은 짐승",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=3o5Jllm1XIY"
     },
     {
       "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
@@ -407,31 +560,31 @@
       "lastTitle": "이터널리턴 2026년 9월 16일 1부",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
+          "totalMinutes": 14.7,
+          "gameMinutes": 14.7,
+          "totalHours": 0.25,
+          "gameHours": 0.25,
           "sessions": 1,
-          "avgViewers": 3.0,
-          "peakViewers": 3
+          "avgViewers": 5.0,
+          "peakViewers": 7
         },
         "week": {
-          "totalMinutes": 709.5,
-          "gameMinutes": 709.5,
-          "totalHours": 11.83,
-          "gameHours": 11.83,
+          "totalMinutes": 724.2,
+          "gameMinutes": 724.2,
+          "totalHours": 12.07,
+          "gameHours": 12.07,
           "sessions": 3,
           "avgViewers": 2.5,
-          "peakViewers": 6
+          "peakViewers": 7
         },
         "month": {
-          "totalMinutes": 1529.7,
-          "gameMinutes": 1529.7,
-          "totalHours": 25.5,
-          "gameHours": 25.5,
+          "totalMinutes": 1544.4,
+          "gameMinutes": 1544.4,
+          "totalHours": 25.74,
+          "gameHours": 25.74,
           "sessions": 7,
           "avgViewers": 2.5,
-          "peakViewers": 6
+          "peakViewers": 7
         }
       },
       "recentSessions": [
@@ -697,13 +850,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 3,
-      "livePeakViewers": 3,
-      "liveAvgViewers": 3.0,
+      "liveViewers": 7,
+      "livePeakViewers": 7,
+      "liveAvgViewers": 5.0,
       "liveSamples": [
         [
           "2026-09-17T06:45:40Z",
           3
+        ],
+        [
+          "2026-09-17T07:00:23Z",
+          7
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=cboOKb3x1OI"
@@ -2057,150 +2214,6 @@
           "game": null,
           "peakViewers": 51,
           "avgViewers": 32.7,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-      "name": "덤덤",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCLfO5ulnws_Z4VttSbwhdvQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-16T10:23:47Z",
-      "lastTitle": "이터널 리턴)벽돌 올리는 둘째 돼지",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 784.8,
-          "gameMinutes": 784.8,
-          "totalHours": 13.08,
-          "gameHours": 13.08,
-          "sessions": 2,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 1946.4,
-          "gameMinutes": 1946.4,
-          "totalHours": 32.44,
-          "gameHours": 32.44,
-          "sessions": 6,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "Hssfxg42wZ8",
-          "videoUrl": "https://www.youtube.com/watch?v=Hssfxg42wZ8",
-          "start": "2026-09-16T02:59:52Z",
-          "end": "2026-09-16T10:23:47Z",
-          "minutes": 443.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)벽돌 올리는 둘째 돼지",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "tZaO4bin-Mk",
-          "videoUrl": "https://www.youtube.com/watch?v=tZaO4bin-Mk",
-          "start": "2026-09-15T04:12:25Z",
-          "end": "2026-09-15T09:53:15Z",
-          "minutes": 340.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)집 날아간 첫째 돼지",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "x7OY4Fr746k",
-          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T12:50:34Z",
-          "minutes": 54.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)도둑 잡으러 갑시다",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "x7OY4Fr746k",
-          "videoUrl": "https://www.youtube.com/watch?v=x7OY4Fr746k",
-          "start": "2026-09-13T03:58:08Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 463.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)도둑 잡으러 갑시다",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "afhLD-0FoFQ",
-          "videoUrl": "https://www.youtube.com/watch?v=afhLD-0FoFQ",
-          "start": "2026-09-12T03:47:41Z",
-          "end": "2026-09-12T09:55:51Z",
-          "minutes": 368.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)기세등등",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
-          "name": "덤덤",
-          "videoId": "7QbZ4naGgx4",
-          "videoUrl": "https://www.youtube.com/watch?v=7QbZ4naGgx4",
-          "start": "2026-09-11T03:49:14Z",
-          "end": "2026-09-11T08:24:12Z",
-          "minutes": 275.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴)짐승 같은 짐승",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
           "samples": [],
           "isTargetGame": true
         }
