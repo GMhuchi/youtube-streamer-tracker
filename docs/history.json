@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T03:49:44Z",
+  "updatedAt": "2026-09-17T04:00:43Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3132.6,
+      "totalMinutes": 3165.5,
       "gameMinutes": 1306.5,
-      "totalHours": 52.21,
+      "totalHours": 52.76,
       "gameHours": 21.78,
       "sessions": 22,
-      "avgViewers": 97.0,
+      "avgViewers": 96.7,
       "peakViewers": 776
     },
     "week": {
-      "totalMinutes": 27959.5,
+      "totalMinutes": 27992.4,
       "gameMinutes": 16297.4,
-      "totalHours": 465.99,
+      "totalHours": 466.54,
       "gameHours": 271.62,
       "sessions": 181,
       "avgViewers": 72.7,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 50124.6,
+      "totalMinutes": 50157.5,
       "gameMinutes": 25798.5,
-      "totalHours": 835.41,
+      "totalHours": 835.96,
       "gameHours": 429.97,
       "sessions": 305,
       "avgViewers": 86.0,
@@ -56,27 +56,27 @@
       "lastTitle": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
       "buckets": {
         "today": {
-          "totalMinutes": 273.7,
+          "totalMinutes": 284.7,
           "gameMinutes": 0.0,
-          "totalHours": 4.56,
+          "totalHours": 4.74,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1282.6,
+          "totalMinutes": 1293.6,
           "gameMinutes": 0.0,
-          "totalHours": 21.38,
+          "totalHours": 21.56,
           "gameHours": 0.0,
           "sessions": 4,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 2092.5,
+          "totalMinutes": 2103.5,
           "gameMinutes": 48.2,
-          "totalHours": 34.87,
+          "totalHours": 35.06,
           "gameHours": 0.8,
           "sessions": 11,
           "avgViewers": null,
@@ -228,109 +228,6 @@
       "liveVideoUrl": "https://www.youtube.com/watch?v=UFBYCW00kzI"
     },
     {
-      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-      "name": "상자곰",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCvtfuV9mBAw9znLzICiqpOw",
-      "isLive": true,
-      "liveSince": "2026-09-17T03:17:25Z",
-      "liveTitle": "[PEAK]최종장이라는 이름의 흔한 마지막 이야기",
-      "lastEnd": "2026-09-16T07:41:07Z",
-      "lastTitle": "[젠레스 존 제로]츤데레 아가씨의 이야기",
-      "buckets": {
-        "today": {
-          "totalMinutes": 32.3,
-          "gameMinutes": 0.0,
-          "totalHours": 0.54,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 432.2,
-          "gameMinutes": 118.7,
-          "totalHours": 7.2,
-          "gameHours": 1.98,
-          "sessions": 3,
-          "avgViewers": 1.5,
-          "peakViewers": 2
-        },
-        "month": {
-          "totalMinutes": 432.2,
-          "gameMinutes": 118.7,
-          "totalHours": 7.2,
-          "gameHours": 1.98,
-          "sessions": 3,
-          "avgViewers": 1.5,
-          "peakViewers": 2
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-          "name": "상자곰",
-          "videoId": "bfipZ9hGZ2s",
-          "videoUrl": "https://www.youtube.com/watch?v=bfipZ9hGZ2s",
-          "start": "2026-09-16T02:59:52Z",
-          "end": "2026-09-16T07:41:07Z",
-          "minutes": 281.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[젠레스 존 제로]츤데레 아가씨의 이야기",
-          "game": null,
-          "peakViewers": 2,
-          "avgViewers": 1.7,
-          "samples": [
-            [
-              "2026-09-16T03:34:47Z",
-              1
-            ],
-            [
-              "2026-09-16T03:49:31Z",
-              2
-            ],
-            [
-              "2026-09-16T04:00:21Z",
-              2
-            ],
-            [
-              "2026-09-16T06:45:45Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-          "name": "상자곰",
-          "videoId": "4VBAIJH_3ys",
-          "videoUrl": "https://www.youtube.com/watch?v=4VBAIJH_3ys",
-          "start": "2026-09-15T03:12:52Z",
-          "end": "2026-09-15T05:11:32Z",
-          "minutes": 118.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-15T04:12:25Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=nPORQRKYRTM"
-    },
-    {
       "channelId": "UCkU9ZIU40wqsm6Ze7G0W2dw",
       "name": "貓良 / Ryo",
       "registered": true,
@@ -342,27 +239,27 @@
       "lastTitle": "【Eternal Return】最後一天聯盟了 ｜永恆輪迴 エターナルリターン",
       "buckets": {
         "today": {
-          "totalMinutes": 340.9,
+          "totalMinutes": 351.9,
           "gameMinutes": 49.3,
-          "totalHours": 5.68,
+          "totalHours": 5.87,
           "gameHours": 0.82,
           "sessions": 2,
           "avgViewers": 3.0,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 381.6,
+          "totalMinutes": 392.5,
           "gameMinutes": 89.9,
-          "totalHours": 6.36,
+          "totalHours": 6.54,
           "gameHours": 1.5,
           "sessions": 2,
           "avgViewers": 3.0,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 381.6,
+          "totalMinutes": 392.5,
           "gameMinutes": 89.9,
-          "totalHours": 6.36,
+          "totalHours": 6.54,
           "gameHours": 1.5,
           "sessions": 2,
           "avgViewers": 3.0,
@@ -479,6 +376,10 @@
         ],
         [
           "2026-09-17T03:49:44Z",
+          3
+        ],
+        [
+          "2026-09-17T04:00:43Z",
           3
         ]
       ],
@@ -9861,6 +9762,121 @@
       ]
     },
     {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCvtfuV9mBAw9znLzICiqpOw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-17T04:00:43Z",
+      "lastTitle": "[PEAK]최종장이라는 이름의 흔한 마지막 이야기",
+      "buckets": {
+        "today": {
+          "totalMinutes": 43.3,
+          "gameMinutes": 0.0,
+          "totalHours": 0.72,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 443.2,
+          "gameMinutes": 118.7,
+          "totalHours": 7.39,
+          "gameHours": 1.98,
+          "sessions": 3,
+          "avgViewers": 1.5,
+          "peakViewers": 2
+        },
+        "month": {
+          "totalMinutes": 443.2,
+          "gameMinutes": 118.7,
+          "totalHours": 7.39,
+          "gameHours": 1.98,
+          "sessions": 3,
+          "avgViewers": 1.5,
+          "peakViewers": 2
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "nPORQRKYRTM",
+          "videoUrl": "https://www.youtube.com/watch?v=nPORQRKYRTM",
+          "start": "2026-09-17T03:17:25Z",
+          "end": "2026-09-17T04:00:43Z",
+          "minutes": 43.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[PEAK]최종장이라는 이름의 흔한 마지막 이야기",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "bfipZ9hGZ2s",
+          "videoUrl": "https://www.youtube.com/watch?v=bfipZ9hGZ2s",
+          "start": "2026-09-16T02:59:52Z",
+          "end": "2026-09-16T07:41:07Z",
+          "minutes": 281.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[젠레스 존 제로]츤데레 아가씨의 이야기",
+          "game": null,
+          "peakViewers": 2,
+          "avgViewers": 1.7,
+          "samples": [
+            [
+              "2026-09-16T03:34:47Z",
+              1
+            ],
+            [
+              "2026-09-16T03:49:31Z",
+              2
+            ],
+            [
+              "2026-09-16T04:00:21Z",
+              2
+            ],
+            [
+              "2026-09-16T06:45:45Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "4VBAIJH_3ys",
+          "videoUrl": "https://www.youtube.com/watch?v=4VBAIJH_3ys",
+          "start": "2026-09-15T03:12:52Z",
+          "end": "2026-09-15T05:11:32Z",
+          "minutes": 118.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-15T04:12:25Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
       "name": "하늘고래",
       "registered": true,
@@ -11186,6 +11202,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "videoId": "nPORQRKYRTM",
+      "videoUrl": "https://www.youtube.com/watch?v=nPORQRKYRTM",
+      "start": "2026-09-17T03:17:25Z",
+      "end": "2026-09-17T04:00:43Z",
+      "minutes": 43.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[PEAK]최종장이라는 이름의 흔한 마지막 이야기",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
       "videoId": "Zo7MULYVrlQ",
@@ -12127,22 +12159,6 @@
       "game": null,
       "peakViewers": 289,
       "avgViewers": 237.8,
-      "isTargetGame": true
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "j8o9qn-3gVw",
-      "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
-      "start": "2026-09-16T10:00:44Z",
-      "end": "2026-09-16T12:49:54Z",
-      "minutes": 169.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 253,
-      "avgViewers": 208.3,
       "isTargetGame": true
     }
   ]
