@@ -13,7 +13,7 @@
       "peakViewers": 361,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-17T09:35:09Z",
-      "lastSeenAt": "2026-09-17T17:30:14Z",
+      "lastSeenAt": "2026-09-17T17:48:26Z",
       "samples": [
         [
           "2026-09-17T09:35:09Z",
@@ -130,22 +130,12 @@
         [
           "2026-09-17T17:30:14Z",
           100
+        ],
+        [
+          "2026-09-17T17:48:26Z",
+          93
         ]
       ]
-    },
-    "UCOp8W06iik7YzDxvqd3HHig": {
-      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
-      "name": "우찬TV",
-      "videoId": "IxpagaMfcJc",
-      "start": "2026-09-17T10:56:55Z",
-      "startSource": "observed",
-      "title": "9/17일 이터널리턴 랭크전",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-17T10:56:55Z",
-      "lastSeenAt": "2026-09-17T17:30:14Z",
-      "samples": []
     },
     "UCcFkDV3IwGz-bUuLZFUu2fg": {
       "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
@@ -158,7 +148,7 @@
       "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-17T13:20:22Z",
-      "lastSeenAt": "2026-09-17T17:30:14Z",
+      "lastSeenAt": "2026-09-17T17:48:26Z",
       "samples": [
         [
           "2026-09-17T13:20:22Z",
@@ -223,6 +213,10 @@
         [
           "2026-09-17T17:30:14Z",
           1
+        ],
+        [
+          "2026-09-17T17:48:26Z",
+          1
         ]
       ]
     },
@@ -237,7 +231,7 @@
       "peakViewers": 198,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-17T14:49:41Z",
-      "lastSeenAt": "2026-09-17T17:30:14Z",
+      "lastSeenAt": "2026-09-17T17:48:26Z",
       "samples": [
         [
           "2026-09-17T14:49:41Z",
@@ -282,6 +276,10 @@
         [
           "2026-09-17T17:30:14Z",
           194
+        ],
+        [
+          "2026-09-17T17:48:26Z",
+          175
         ]
       ]
     }
@@ -16093,6 +16091,23 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UCOp8W06iik7YzDxvqd3HHig",
+      "name": "우찬TV",
+      "videoId": "IxpagaMfcJc",
+      "videoUrl": "https://www.youtube.com/watch?v=IxpagaMfcJc",
+      "start": "2026-09-17T10:56:55Z",
+      "end": "2026-09-17T17:48:26Z",
+      "minutes": 411.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "9/17일 이터널리턴 랭크전",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": true
     },
     {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
