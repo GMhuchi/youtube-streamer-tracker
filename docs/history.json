@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T05:15:48Z",
+  "updatedAt": "2026-09-17T05:31:35Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3302.8,
+      "totalMinutes": 3334.4,
       "gameMinutes": 1306.5,
-      "totalHours": 55.05,
+      "totalHours": 55.57,
       "gameHours": 21.78,
       "sessions": 23,
-      "avgViewers": 94.2,
+      "avgViewers": 93.4,
       "peakViewers": 776
     },
     "week": {
-      "totalMinutes": 28129.7,
+      "totalMinutes": 28161.2,
       "gameMinutes": 16297.4,
-      "totalHours": 468.83,
+      "totalHours": 469.35,
       "gameHours": 271.62,
       "sessions": 182,
-      "avgViewers": 72.5,
+      "avgViewers": 72.4,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 50294.8,
+      "totalMinutes": 50326.4,
       "gameMinutes": 25798.5,
-      "totalHours": 838.25,
+      "totalHours": 838.77,
       "gameHours": 429.97,
       "sessions": 306,
-      "avgViewers": 85.9,
+      "avgViewers": 85.8,
       "peakViewers": 994
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "エターナルリターン  | クロックムッシュがんばるどい♫ #愁子",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 15.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.26,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 43.0,
-          "peakViewers": 43
+          "avgViewers": 52.5,
+          "peakViewers": 62
         },
         "week": {
-          "totalMinutes": 1298.3,
+          "totalMinutes": 1314.1,
           "gameMinutes": 441.6,
-          "totalHours": 21.64,
+          "totalHours": 21.9,
           "gameHours": 7.36,
           "sessions": 8,
-          "avgViewers": 44.3,
+          "avgViewers": 44.4,
           "peakViewers": 78
         },
         "month": {
-          "totalMinutes": 2113.9,
+          "totalMinutes": 2129.7,
           "gameMinutes": 790.6,
-          "totalHours": 35.23,
+          "totalHours": 35.49,
           "gameHours": 13.18,
           "sessions": 12,
           "avgViewers": 43.0,
@@ -364,13 +364,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 43,
-      "livePeakViewers": 43,
-      "liveAvgViewers": 43.0,
+      "liveViewers": 62,
+      "livePeakViewers": 62,
+      "liveAvgViewers": 52.5,
       "liveSamples": [
         [
           "2026-09-17T05:15:48Z",
           43
+        ],
+        [
+          "2026-09-17T05:31:35Z",
+          62
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=qywVIq1g9Yw"
@@ -387,27 +391,27 @@
       "lastTitle": "【Eternal Return】最後一天聯盟了 ｜永恆輪迴 エターナルリターン",
       "buckets": {
         "today": {
-          "totalMinutes": 427.0,
+          "totalMinutes": 442.8,
           "gameMinutes": 49.3,
-          "totalHours": 7.12,
+          "totalHours": 7.38,
           "gameHours": 0.82,
           "sessions": 2,
           "avgViewers": 3.2,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 467.6,
+          "totalMinutes": 483.4,
           "gameMinutes": 89.9,
-          "totalHours": 7.79,
+          "totalHours": 8.06,
           "gameHours": 1.5,
           "sessions": 2,
           "avgViewers": 3.2,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 467.6,
+          "totalMinutes": 483.4,
           "gameMinutes": 89.9,
-          "totalHours": 7.79,
+          "totalHours": 8.06,
           "gameHours": 1.5,
           "sessions": 2,
           "avgViewers": 3.2,
@@ -454,7 +458,7 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 5,
+      "liveViewers": 4,
       "livePeakViewers": 5,
       "liveAvgViewers": 3.2,
       "liveSamples": [
@@ -545,6 +549,10 @@
         [
           "2026-09-17T05:15:48Z",
           5
+        ],
+        [
+          "2026-09-17T05:31:35Z",
+          4
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=HSmHEJ1Y68k"
