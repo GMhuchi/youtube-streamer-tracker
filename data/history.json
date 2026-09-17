@@ -2,61 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "qywVIq1g9Yw",
-      "start": "2026-09-17T05:15:48Z",
-      "startSource": "observed",
-      "title": "※ネタバレあり これまでとは何か違いそう！？眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #15 #愁子",
-      "game": null,
-      "peakViewers": 103,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-17T05:15:48Z",
-      "lastSeenAt": "2026-09-17T07:57:08Z",
-      "samples": [
-        [
-          "2026-09-17T05:15:48Z",
-          43
-        ],
-        [
-          "2026-09-17T05:31:35Z",
-          62
-        ],
-        [
-          "2026-09-17T05:49:04Z",
-          75
-        ],
-        [
-          "2026-09-17T05:59:48Z",
-          74
-        ],
-        [
-          "2026-09-17T06:24:49Z",
-          84
-        ],
-        [
-          "2026-09-17T06:45:40Z",
-          103
-        ],
-        [
-          "2026-09-17T07:00:23Z",
-          92
-        ],
-        [
-          "2026-09-17T07:24:14Z",
-          93
-        ],
-        [
-          "2026-09-17T07:41:38Z",
-          92
-        ],
-        [
-          "2026-09-17T07:57:08Z",
-          97
-        ]
-      ]
-    },
     "UCEdlID7vgnILT3NR-ifyjPg": {
       "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
       "name": "서토리 라이브 저장소!",
@@ -68,7 +13,7 @@
       "peakViewers": 7,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-17T06:45:40Z",
-      "lastSeenAt": "2026-09-17T07:57:08Z",
+      "lastSeenAt": "2026-09-17T08:17:40Z",
       "samples": [
         [
           "2026-09-17T06:45:40Z",
@@ -89,6 +34,10 @@
         [
           "2026-09-17T07:57:08Z",
           4
+        ],
+        [
+          "2026-09-17T08:17:40Z",
+          2
         ]
       ]
     },
@@ -103,7 +52,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-17T07:00:23Z",
-      "lastSeenAt": "2026-09-17T07:57:08Z",
+      "lastSeenAt": "2026-09-17T08:17:40Z",
       "samples": []
     },
     "UCSTZTPTiHOScULJ4KdV8WSQ": {
@@ -117,7 +66,21 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-17T07:57:08Z",
-      "lastSeenAt": "2026-09-17T07:57:08Z",
+      "lastSeenAt": "2026-09-17T08:17:40Z",
+      "samples": []
+    },
+    "UCdfqaZPAstutii6NLvGoblA": {
+      "channelId": "UCdfqaZPAstutii6NLvGoblA",
+      "name": "김머만",
+      "videoId": "wE5YmNadehU",
+      "start": "2026-09-17T08:17:40Z",
+      "startSource": "observed",
+      "title": "이터널 리턴",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-17T08:17:40Z",
+      "lastSeenAt": "2026-09-17T08:17:40Z",
       "samples": []
     }
   },
@@ -15303,6 +15266,64 @@
       "peakViewers": null,
       "avgViewers": null,
       "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "qywVIq1g9Yw",
+      "videoUrl": "https://www.youtube.com/watch?v=qywVIq1g9Yw",
+      "start": "2026-09-17T05:15:48Z",
+      "end": "2026-09-17T08:17:40Z",
+      "minutes": 181.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "※ネタバレあり これまでとは何か違いそう！？眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #15 #愁子",
+      "game": null,
+      "peakViewers": 103,
+      "avgViewers": 81.8,
+      "samples": [
+        [
+          "2026-09-17T05:15:48Z",
+          43
+        ],
+        [
+          "2026-09-17T05:31:35Z",
+          62
+        ],
+        [
+          "2026-09-17T05:49:04Z",
+          75
+        ],
+        [
+          "2026-09-17T05:59:48Z",
+          74
+        ],
+        [
+          "2026-09-17T06:24:49Z",
+          84
+        ],
+        [
+          "2026-09-17T06:45:40Z",
+          103
+        ],
+        [
+          "2026-09-17T07:00:23Z",
+          92
+        ],
+        [
+          "2026-09-17T07:24:14Z",
+          93
+        ],
+        [
+          "2026-09-17T07:41:38Z",
+          92
+        ],
+        [
+          "2026-09-17T07:57:08Z",
+          97
+        ]
+      ],
       "isTargetGame": false
     }
   ]
