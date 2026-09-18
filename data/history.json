@@ -1,7 +1,22 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCtNOhAK9t4xBgXQKT9wYFfw": {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "videoId": "_FhqsMnMfog",
+      "start": "2026-09-18T22:56:00Z",
+      "startSource": "observed",
+      "title": "얼티밋 헤일리 후딱 해금하고 후딱 써보고 성능 체감 함 가즈아아!!",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-18T22:56:00Z",
+      "lastSeenAt": "2026-09-18T22:56:00Z",
+      "samples": []
+    }
+  },
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
