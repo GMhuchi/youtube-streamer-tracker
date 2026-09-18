@@ -13,7 +13,7 @@
       "peakViewers": 8,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T19:29:36Z",
+      "lastSeenAt": "2026-09-18T19:40:52Z",
       "samples": [
         [
           "2026-09-18T14:49:04Z",
@@ -90,6 +90,10 @@
         [
           "2026-09-18T19:29:36Z",
           1
+        ],
+        [
+          "2026-09-18T19:40:52Z",
+          1
         ]
       ]
     },
@@ -104,7 +108,7 @@
       "peakViewers": 2,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-18T14:59:23Z",
-      "lastSeenAt": "2026-09-18T19:29:36Z",
+      "lastSeenAt": "2026-09-18T19:40:52Z",
       "samples": [
         [
           "2026-09-18T16:57:42Z",
@@ -145,6 +149,10 @@
         [
           "2026-09-18T19:29:36Z",
           1
+        ],
+        [
+          "2026-09-18T19:40:52Z",
+          1
         ]
       ]
     },
@@ -159,7 +167,7 @@
       "peakViewers": 85,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-18T17:40:40Z",
-      "lastSeenAt": "2026-09-18T19:29:36Z",
+      "lastSeenAt": "2026-09-18T19:40:52Z",
       "samples": [
         [
           "2026-09-18T17:40:40Z",
@@ -192,25 +200,10 @@
         [
           "2026-09-18T19:29:36Z",
           80
-        ]
-      ]
-    },
-    "UCu_wzgY66UERqo1rz1HeILA": {
-      "channelId": "UCu_wzgY66UERqo1rz1HeILA",
-      "name": "happy(^__^)",
-      "videoId": "tR86ZoFVNWg",
-      "start": "2026-09-18T18:47:56Z",
-      "startSource": "observed",
-      "title": "새로운 마음으로",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-18T18:47:56Z",
-      "lastSeenAt": "2026-09-18T19:29:36Z",
-      "samples": [
+        ],
         [
-          "2026-09-18T18:58:47Z",
-          1
+          "2026-09-18T19:40:52Z",
+          80
         ]
       ]
     }
@@ -19675,6 +19668,28 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCu_wzgY66UERqo1rz1HeILA",
+      "name": "happy(^__^)",
+      "videoId": "tR86ZoFVNWg",
+      "videoUrl": "https://www.youtube.com/watch?v=tR86ZoFVNWg",
+      "start": "2026-09-18T18:47:56Z",
+      "end": "2026-09-18T19:40:52Z",
+      "minutes": 52.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "새로운 마음으로",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-18T18:58:47Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }
