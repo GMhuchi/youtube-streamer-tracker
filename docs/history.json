@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:56:07Z",
+  "updatedAt": "2026-09-18T02:13:34Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2605.5,
+      "totalMinutes": 2623.0,
       "gameMinutes": 541.5,
-      "totalHours": 43.43,
+      "totalHours": 43.72,
       "gameHours": 9.02,
-      "sessions": 20,
-      "avgViewers": 106.4,
+      "sessions": 21,
+      "avgViewers": 105.7,
       "peakViewers": 958
     },
     "week": {
-      "totalMinutes": 35441.5,
+      "totalMinutes": 35459.0,
       "gameMinutes": 18324.7,
-      "totalHours": 590.69,
+      "totalHours": 590.98,
       "gameHours": 305.41,
-      "sessions": 211,
+      "sessions": 212,
       "avgViewers": 77.7,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 57606.6,
+      "totalMinutes": 57624.1,
       "gameMinutes": 27825.8,
-      "totalHours": 960.11,
+      "totalHours": 960.4,
       "gameHours": 463.76,
-      "sessions": 335,
-      "avgViewers": 87.4,
+      "sessions": 336,
+      "avgViewers": 87.3,
       "peakViewers": 994
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
       "buckets": {
         "today": {
-          "totalMinutes": 400.5,
+          "totalMinutes": 418.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.68,
+          "totalHours": 6.97,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "week": {
-          "totalMinutes": 1756.3,
+          "totalMinutes": 1773.8,
           "gameMinutes": 0.0,
-          "totalHours": 29.27,
+          "totalHours": 29.56,
           "gameHours": 0.0,
           "sessions": 5,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 2566.2,
+          "totalMinutes": 2583.6,
           "gameMinutes": 48.2,
-          "totalHours": 42.77,
+          "totalHours": 43.06,
           "gameHours": 0.8,
           "sessions": 12,
           "avgViewers": 1.0,
@@ -231,6 +231,75 @@
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=wqbQdxWUXp4"
+    },
+    {
+      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+      "name": "전부벗은새우튀김",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCHReTde3AGMElSQCbCftF7Q",
+      "isLive": true,
+      "liveSince": "2026-09-18T02:13:34Z",
+      "liveTitle": "[2026.9.18] 이터널리턴 짧게 랭크",
+      "lastEnd": "2026-09-14T07:24:32Z",
+      "lastTitle": "[2026.9.14] 이터널리턴 랭크 달리기",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 22.5,
+          "gameMinutes": 22.5,
+          "totalHours": 0.38,
+          "gameHours": 0.38,
+          "sessions": 2,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        },
+        "month": {
+          "totalMinutes": 22.5,
+          "gameMinutes": 22.5,
+          "totalHours": 0.38,
+          "gameHours": 0.38,
+          "sessions": 2,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+          "name": "전부벗은새우튀김",
+          "videoId": "1GUxUm_t4p8",
+          "videoUrl": "https://www.youtube.com/watch?v=1GUxUm_t4p8",
+          "start": "2026-09-14T07:02:02Z",
+          "end": "2026-09-14T07:24:32Z",
+          "minutes": 22.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[2026.9.14] 이터널리턴 랭크 달리기",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-14T07:02:02Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=qvRsJNgvSM8"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -11816,70 +11885,6 @@
             [
               "2026-09-12T11:10:51Z",
               5
-            ]
-          ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-      "name": "전부벗은새우튀김",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCHReTde3AGMElSQCbCftF7Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-14T07:24:32Z",
-      "lastTitle": "[2026.9.14] 이터널리턴 랭크 달리기",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 22.5,
-          "gameMinutes": 22.5,
-          "totalHours": 0.38,
-          "gameHours": 0.38,
-          "sessions": 1,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        },
-        "month": {
-          "totalMinutes": 22.5,
-          "gameMinutes": 22.5,
-          "totalHours": 0.38,
-          "gameHours": 0.38,
-          "sessions": 1,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-          "name": "전부벗은새우튀김",
-          "videoId": "1GUxUm_t4p8",
-          "videoUrl": "https://www.youtube.com/watch?v=1GUxUm_t4p8",
-          "start": "2026-09-14T07:02:02Z",
-          "end": "2026-09-14T07:24:32Z",
-          "minutes": 22.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[2026.9.14] 이터널리턴 랭크 달리기",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-14T07:02:02Z",
-              1
             ]
           ],
           "isTargetGame": true
