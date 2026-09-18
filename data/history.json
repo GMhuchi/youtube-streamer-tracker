@@ -2,77 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCcFkDV3IwGz-bUuLZFUu2fg": {
-      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-      "name": "몰라",
-      "videoId": "7vQ08yKCWKQ",
-      "start": "2026-09-18T14:59:23Z",
-      "startSource": "observed",
-      "title": "tictactalk dev",
-      "game": null,
-      "peakViewers": 2,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-18T14:59:23Z",
-      "lastSeenAt": "2026-09-18T20:29:56Z",
-      "samples": [
-        [
-          "2026-09-18T16:57:42Z",
-          1
-        ],
-        [
-          "2026-09-18T17:14:37Z",
-          1
-        ],
-        [
-          "2026-09-18T17:28:31Z",
-          2
-        ],
-        [
-          "2026-09-18T17:55:44Z",
-          1
-        ],
-        [
-          "2026-09-18T18:13:51Z",
-          1
-        ],
-        [
-          "2026-09-18T18:32:54Z",
-          1
-        ],
-        [
-          "2026-09-18T18:47:56Z",
-          1
-        ],
-        [
-          "2026-09-18T18:58:47Z",
-          2
-        ],
-        [
-          "2026-09-18T19:16:28Z",
-          2
-        ],
-        [
-          "2026-09-18T19:29:36Z",
-          1
-        ],
-        [
-          "2026-09-18T19:40:52Z",
-          1
-        ],
-        [
-          "2026-09-18T19:55:42Z",
-          2
-        ],
-        [
-          "2026-09-18T20:12:01Z",
-          2
-        ],
-        [
-          "2026-09-18T20:29:56Z",
-          2
-        ]
-      ]
-    },
     "UCAS1tKQTTPVw4-TFnKTzvnw": {
       "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
       "name": "水上蒼太",
@@ -84,7 +13,7 @@
       "peakViewers": 85,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-18T17:40:40Z",
-      "lastSeenAt": "2026-09-18T20:29:56Z",
+      "lastSeenAt": "2026-09-18T20:43:29Z",
       "samples": [
         [
           "2026-09-18T17:40:40Z",
@@ -133,6 +62,10 @@
         [
           "2026-09-18T20:29:56Z",
           74
+        ],
+        [
+          "2026-09-18T20:43:29Z",
+          70
         ]
       ]
     }
@@ -19615,6 +19548,80 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "videoId": "7vQ08yKCWKQ",
+      "videoUrl": "https://www.youtube.com/watch?v=7vQ08yKCWKQ",
+      "start": "2026-09-18T14:59:23Z",
+      "end": "2026-09-18T20:43:29Z",
+      "minutes": 344.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "tictactalk dev",
+      "game": null,
+      "peakViewers": 2,
+      "avgViewers": 1.5,
+      "samples": [
+        [
+          "2026-09-18T16:57:42Z",
+          1
+        ],
+        [
+          "2026-09-18T17:14:37Z",
+          1
+        ],
+        [
+          "2026-09-18T17:28:31Z",
+          2
+        ],
+        [
+          "2026-09-18T17:55:44Z",
+          1
+        ],
+        [
+          "2026-09-18T18:13:51Z",
+          1
+        ],
+        [
+          "2026-09-18T18:32:54Z",
+          1
+        ],
+        [
+          "2026-09-18T18:47:56Z",
+          1
+        ],
+        [
+          "2026-09-18T18:58:47Z",
+          2
+        ],
+        [
+          "2026-09-18T19:16:28Z",
+          2
+        ],
+        [
+          "2026-09-18T19:29:36Z",
+          1
+        ],
+        [
+          "2026-09-18T19:40:52Z",
+          1
+        ],
+        [
+          "2026-09-18T19:55:42Z",
+          2
+        ],
+        [
+          "2026-09-18T20:12:01Z",
+          2
+        ],
+        [
+          "2026-09-18T20:29:56Z",
+          2
+        ]
+      ],
+      "isTargetGame": false
     },
     {
       "channelId": "UCZgOv3YDEs-ZnZWDYVwJdmA",
