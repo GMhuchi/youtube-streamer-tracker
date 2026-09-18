@@ -2,69 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "yt3XYE-ouxA",
-      "start": "2026-09-18T14:49:04Z",
-      "startSource": "observed",
-      "title": "〖 VALORANT 〗プラチナ目指してGO.ᐟ.ᐟ⭐︎ / あやちゃん〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 355,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
-      "samples": [
-        [
-          "2026-09-18T14:49:04Z",
-          242
-        ],
-        [
-          "2026-09-18T14:59:23Z",
-          283
-        ],
-        [
-          "2026-09-18T15:17:53Z",
-          251
-        ],
-        [
-          "2026-09-18T15:32:59Z",
-          267
-        ],
-        [
-          "2026-09-18T15:48:36Z",
-          239
-        ],
-        [
-          "2026-09-18T15:59:31Z",
-          280
-        ],
-        [
-          "2026-09-18T16:17:01Z",
-          304
-        ],
-        [
-          "2026-09-18T16:32:01Z",
-          329
-        ],
-        [
-          "2026-09-18T16:47:09Z",
-          302
-        ],
-        [
-          "2026-09-18T16:57:42Z",
-          316
-        ],
-        [
-          "2026-09-18T17:14:37Z",
-          355
-        ],
-        [
-          "2026-09-18T17:28:31Z",
-          338
-        ]
-      ]
-    },
     "UC_c3HArzuJYD-gdZ7tAroBw": {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
       "name": "민키",
@@ -76,7 +13,7 @@
       "peakViewers": 6,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": [
         [
           "2026-09-18T14:49:04Z",
@@ -125,6 +62,10 @@
         [
           "2026-09-18T17:28:31Z",
           2
+        ],
+        [
+          "2026-09-18T17:40:40Z",
+          3
         ]
       ]
     },
@@ -139,7 +80,7 @@
       "peakViewers": 1,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": [
         [
           "2026-09-18T14:59:23Z",
@@ -151,6 +92,10 @@
         ],
         [
           "2026-09-18T17:28:31Z",
+          1
+        ],
+        [
+          "2026-09-18T17:40:40Z",
           1
         ]
       ]
@@ -166,7 +111,7 @@
       "peakViewers": 7,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": [
         [
           "2026-09-18T14:49:04Z",
@@ -225,7 +170,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": []
     },
     "UC6CYnOID9JZjKv6YZwgCW5Q": {
@@ -239,7 +184,7 @@
       "peakViewers": 8,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": [
         [
           "2026-09-18T14:49:04Z",
@@ -288,6 +233,10 @@
         [
           "2026-09-18T17:28:31Z",
           4
+        ],
+        [
+          "2026-09-18T17:40:40Z",
+          3
         ]
       ]
     },
@@ -302,7 +251,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T14:49:04Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": []
     },
     "UCcFkDV3IwGz-bUuLZFUu2fg": {
@@ -316,7 +265,7 @@
       "peakViewers": 2,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-18T14:59:23Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": [
         [
           "2026-09-18T16:57:42Z",
@@ -340,10 +289,10 @@
       "startSource": "observed",
       "title": "잠영 너프 체감하기 [이터널리턴]",
       "game": null,
-      "peakViewers": 1,
+      "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T15:17:53Z",
-      "lastSeenAt": "2026-09-18T17:28:31Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
       "samples": [
         [
           "2026-09-18T15:32:59Z",
@@ -352,6 +301,29 @@
         [
           "2026-09-18T16:17:01Z",
           1
+        ],
+        [
+          "2026-09-18T17:40:40Z",
+          3
+        ]
+      ]
+    },
+    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "bEsgUsUF89M",
+      "start": "2026-09-18T17:40:40Z",
+      "startSource": "observed",
+      "title": "【#leagueoflegends 】メイカさんにTOPレーン教わるぞ！！！　【歌衣メイカ/水上蒼太】※敬称略",
+      "game": null,
+      "peakViewers": 49,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-18T17:40:40Z",
+      "lastSeenAt": "2026-09-18T17:40:40Z",
+      "samples": [
+        [
+          "2026-09-18T17:40:40Z",
+          49
         ]
       ]
     }
@@ -19451,6 +19423,72 @@
         [
           "2026-09-18T17:14:37Z",
           91
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "yt3XYE-ouxA",
+      "videoUrl": "https://www.youtube.com/watch?v=yt3XYE-ouxA",
+      "start": "2026-09-18T14:49:04Z",
+      "end": "2026-09-18T17:40:40Z",
+      "minutes": 171.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 VALORANT 〗プラチナ目指してGO.ᐟ.ᐟ⭐︎ / あやちゃん〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 355,
+      "avgViewers": 293.8,
+      "samples": [
+        [
+          "2026-09-18T14:49:04Z",
+          242
+        ],
+        [
+          "2026-09-18T14:59:23Z",
+          283
+        ],
+        [
+          "2026-09-18T15:17:53Z",
+          251
+        ],
+        [
+          "2026-09-18T15:32:59Z",
+          267
+        ],
+        [
+          "2026-09-18T15:48:36Z",
+          239
+        ],
+        [
+          "2026-09-18T15:59:31Z",
+          280
+        ],
+        [
+          "2026-09-18T16:17:01Z",
+          304
+        ],
+        [
+          "2026-09-18T16:32:01Z",
+          329
+        ],
+        [
+          "2026-09-18T16:47:09Z",
+          302
+        ],
+        [
+          "2026-09-18T16:57:42Z",
+          316
+        ],
+        [
+          "2026-09-18T17:14:37Z",
+          355
+        ],
+        [
+          "2026-09-18T17:28:31Z",
+          338
         ]
       ],
       "isTargetGame": false
