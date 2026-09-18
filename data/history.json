@@ -2,25 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCtNOhAK9t4xBgXQKT9wYFfw": {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "videoId": "wqbQdxWUXp4",
-      "start": "2026-09-17T19:15:36Z",
-      "startSource": "observed",
-      "title": "무리를 해보는 날 얼티밋 헤일리 얻고 그 다음 몬헌 방송 할거닷!",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-17T19:15:36Z",
-      "lastSeenAt": "2026-09-18T05:30:43Z",
-      "samples": [
-        [
-          "2026-09-17T23:58:56Z",
-          1
-        ]
-      ]
-    },
     "UCLfO5ulnws_Z4VttSbwhdvQ": {
       "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
       "name": "덤덤",
@@ -32,7 +13,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T03:48:15Z",
-      "lastSeenAt": "2026-09-18T05:30:43Z",
+      "lastSeenAt": "2026-09-18T05:47:26Z",
       "samples": []
     },
     "UCb8nGgTFAL6B5zOm060Ff3Q": {
@@ -43,10 +24,10 @@
       "startSource": "observed",
       "title": "※ネタバレあり ふぁんとむ・てぃーふ大ピンチ！？眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #16 #愁子",
       "game": null,
-      "peakViewers": 74,
+      "peakViewers": 80,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-18T04:18:08Z",
-      "lastSeenAt": "2026-09-18T05:30:43Z",
+      "lastSeenAt": "2026-09-18T05:47:26Z",
       "samples": [
         [
           "2026-09-18T04:18:08Z",
@@ -71,6 +52,10 @@
         [
           "2026-09-18T05:30:43Z",
           74
+        ],
+        [
+          "2026-09-18T05:47:26Z",
+          80
         ]
       ]
     },
@@ -82,14 +67,18 @@
       "startSource": "observed",
       "title": "이터널리턴 2026년 9월 18일 1부",
       "game": null,
-      "peakViewers": 2,
+      "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T05:30:43Z",
-      "lastSeenAt": "2026-09-18T05:30:43Z",
+      "lastSeenAt": "2026-09-18T05:47:26Z",
       "samples": [
         [
           "2026-09-18T05:30:43Z",
           2
+        ],
+        [
+          "2026-09-18T05:47:26Z",
+          4
         ]
       ]
     },
@@ -104,7 +93,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-18T05:30:43Z",
-      "lastSeenAt": "2026-09-18T05:30:43Z",
+      "lastSeenAt": "2026-09-18T05:47:26Z",
       "samples": []
     }
   },
@@ -17039,6 +17028,28 @@
         [
           "2026-09-17T18:21:50Z",
           158
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "videoId": "wqbQdxWUXp4",
+      "videoUrl": "https://www.youtube.com/watch?v=wqbQdxWUXp4",
+      "start": "2026-09-17T19:15:21Z",
+      "end": "2026-09-18T05:40:13Z",
+      "minutes": 624.9,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "무리를 해보는 날 얼티밋 헤일리 얻고 그 다음 몬헌 방송 할거닷!",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-17T23:58:56Z",
+          1
         ]
       ],
       "isTargetGame": false
