@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:13:15Z",
+  "updatedAt": "2026-09-19T01:30:28Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3405.4,
+      "totalMinutes": 3422.6,
       "gameMinutes": 1637.4,
-      "totalHours": 56.76,
+      "totalHours": 57.04,
       "gameHours": 27.29,
-      "sessions": 20,
+      "sessions": 21,
       "avgViewers": 93.0,
       "peakViewers": 989
     },
     "week": {
-      "totalMinutes": 45221.8,
+      "totalMinutes": 45239.0,
       "gameMinutes": 22487.4,
-      "totalHours": 753.7,
+      "totalHours": 753.98,
       "gameHours": 374.79,
-      "sessions": 265,
+      "sessions": 266,
       "avgViewers": 77.2,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 67386.9,
+      "totalMinutes": 67404.2,
       "gameMinutes": 31988.5,
-      "totalHours": 1123.12,
+      "totalHours": 1123.4,
       "gameHours": 533.14,
-      "sessions": 389,
+      "sessions": 390,
       "avgViewers": 85.7,
       "peakViewers": 994
     }
@@ -56,27 +56,27 @@
       "lastTitle": "어센던스 오기 전에 손에 감을 익히려는 버그 고양이",
       "buckets": {
         "today": {
-          "totalMinutes": 137.3,
+          "totalMinutes": 154.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.29,
+          "totalHours": 2.57,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 2224.6,
+          "totalMinutes": 2241.8,
           "gameMinutes": 0.0,
-          "totalHours": 37.08,
+          "totalHours": 37.36,
           "gameHours": 0.0,
           "sessions": 7,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 3034.5,
+          "totalMinutes": 3051.7,
           "gameMinutes": 48.2,
-          "totalHours": 50.57,
+          "totalHours": 50.86,
           "gameHours": 0.8,
           "sessions": 14,
           "avgViewers": 1.0,
@@ -231,6 +231,296 @@
       "liveAvgViewers": null,
       "liveSamples": [],
       "liveVideoUrl": "https://www.youtube.com/watch?v=_FhqsMnMfog"
+    },
+    {
+      "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
+      "name": "대한민국 이스포츠 리그 - KEL",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCB6AgLlZxso1HzFNIzVHmZw",
+      "isLive": true,
+      "liveSince": "2026-09-19T01:30:28Z",
+      "liveTitle": "서킷3 3일차, 패자조/최종전 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
+      "lastEnd": "2026-09-13T13:10:56Z",
+      "lastTitle": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 7.0,
+          "peakViewers": 7
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 7.0,
+          "peakViewers": 7
+        },
+        "month": {
+          "totalMinutes": 800.7,
+          "gameMinutes": 800.7,
+          "totalHours": 13.35,
+          "gameHours": 13.35,
+          "sessions": 4,
+          "avgViewers": 15.3,
+          "peakViewers": 29
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
+          "name": "대한민국 이스포츠 리그 - KEL",
+          "videoId": "kCK4wGOmZnk",
+          "videoUrl": "https://www.youtube.com/watch?v=kCK4wGOmZnk",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T13:10:56Z",
+          "minutes": 75.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
+          "game": null,
+          "peakViewers": 18,
+          "avgViewers": 13.6,
+          "samples": [
+            [
+              "2026-09-13T11:55:56Z",
+              15
+            ],
+            [
+              "2026-09-13T12:15:41Z",
+              18
+            ],
+            [
+              "2026-09-13T12:35:20Z",
+              7
+            ],
+            [
+              "2026-09-13T12:50:34Z",
+              13
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
+          "name": "대한민국 이스포츠 리그 - KEL",
+          "videoId": "kCK4wGOmZnk",
+          "videoUrl": "https://www.youtube.com/watch?v=kCK4wGOmZnk",
+          "start": "2026-09-13T07:58:05Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 224.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 15.5,
+          "samples": [
+            [
+              "2026-09-13T07:58:05Z",
+              3
+            ],
+            [
+              "2026-09-13T08:17:43Z",
+              8
+            ],
+            [
+              "2026-09-13T08:32:45Z",
+              14
+            ],
+            [
+              "2026-09-13T09:37:54Z",
+              23
+            ],
+            [
+              "2026-09-13T10:06:35Z",
+              18
+            ],
+            [
+              "2026-09-13T10:26:31Z",
+              15
+            ],
+            [
+              "2026-09-13T10:41:22Z",
+              22
+            ],
+            [
+              "2026-09-13T10:55:52Z",
+              15
+            ],
+            [
+              "2026-09-13T11:11:28Z",
+              21
+            ],
+            [
+              "2026-09-13T11:29:14Z",
+              16
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
+          "name": "대한민국 이스포츠 리그 - KEL",
+          "videoId": "azDYjPgX46g",
+          "videoUrl": "https://www.youtube.com/watch?v=azDYjPgX46g",
+          "start": "2026-09-12T04:58:37Z",
+          "end": "2026-09-12T13:20:22Z",
+          "minutes": 501.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "서킷3 1일차, A조 + B조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
+          "game": null,
+          "peakViewers": 29,
+          "avgViewers": 15.4,
+          "samples": [
+            [
+              "2026-09-12T04:58:37Z",
+              17
+            ],
+            [
+              "2026-09-12T05:15:50Z",
+              14
+            ],
+            [
+              "2026-09-12T05:30:03Z",
+              17
+            ],
+            [
+              "2026-09-12T05:43:01Z",
+              10
+            ],
+            [
+              "2026-09-12T05:55:39Z",
+              9
+            ],
+            [
+              "2026-09-12T06:15:20Z",
+              13
+            ],
+            [
+              "2026-09-12T06:35:15Z",
+              14
+            ],
+            [
+              "2026-09-12T06:50:43Z",
+              18
+            ],
+            [
+              "2026-09-12T07:09:56Z",
+              20
+            ],
+            [
+              "2026-09-12T07:24:08Z",
+              29
+            ],
+            [
+              "2026-09-12T07:38:38Z",
+              18
+            ],
+            [
+              "2026-09-12T07:49:34Z",
+              13
+            ],
+            [
+              "2026-09-12T08:00:20Z",
+              19
+            ],
+            [
+              "2026-09-12T08:21:54Z",
+              12
+            ],
+            [
+              "2026-09-12T08:40:36Z",
+              18
+            ],
+            [
+              "2026-09-12T08:56:02Z",
+              13
+            ],
+            [
+              "2026-09-12T09:12:41Z",
+              18
+            ],
+            [
+              "2026-09-12T09:29:31Z",
+              21
+            ],
+            [
+              "2026-09-12T09:42:40Z",
+              20
+            ],
+            [
+              "2026-09-12T09:55:51Z",
+              19
+            ],
+            [
+              "2026-09-12T10:12:15Z",
+              19
+            ],
+            [
+              "2026-09-12T10:29:27Z",
+              16
+            ],
+            [
+              "2026-09-12T10:42:30Z",
+              22
+            ],
+            [
+              "2026-09-12T10:55:34Z",
+              12
+            ],
+            [
+              "2026-09-12T11:10:51Z",
+              15
+            ],
+            [
+              "2026-09-12T11:28:20Z",
+              19
+            ],
+            [
+              "2026-09-12T11:40:54Z",
+              10
+            ],
+            [
+              "2026-09-12T11:55:44Z",
+              16
+            ],
+            [
+              "2026-09-12T12:15:12Z",
+              8
+            ],
+            [
+              "2026-09-12T12:34:30Z",
+              12
+            ],
+            [
+              "2026-09-12T12:49:58Z",
+              9
+            ],
+            [
+              "2026-09-12T13:00:43Z",
+              6
+            ]
+          ],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 7,
+      "livePeakViewers": 7,
+      "liveAvgViewers": 7.0,
+      "liveSamples": [
+        [
+          "2026-09-19T01:30:28Z",
+          7
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=rs71o-TcmUg"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -9331,286 +9621,6 @@
           "peakViewers": 5,
           "avgViewers": 5.0,
           "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
-      "name": "대한민국 이스포츠 리그 - KEL",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCB6AgLlZxso1HzFNIzVHmZw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-13T13:10:56Z",
-      "lastTitle": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 800.7,
-          "gameMinutes": 800.7,
-          "totalHours": 13.35,
-          "gameHours": 13.35,
-          "sessions": 3,
-          "avgViewers": 15.3,
-          "peakViewers": 29
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
-          "name": "대한민국 이스포츠 리그 - KEL",
-          "videoId": "kCK4wGOmZnk",
-          "videoUrl": "https://www.youtube.com/watch?v=kCK4wGOmZnk",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T13:10:56Z",
-          "minutes": 75.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
-          "game": null,
-          "peakViewers": 18,
-          "avgViewers": 13.6,
-          "samples": [
-            [
-              "2026-09-13T11:55:56Z",
-              15
-            ],
-            [
-              "2026-09-13T12:15:41Z",
-              18
-            ],
-            [
-              "2026-09-13T12:35:20Z",
-              7
-            ],
-            [
-              "2026-09-13T12:50:34Z",
-              13
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
-          "name": "대한민국 이스포츠 리그 - KEL",
-          "videoId": "kCK4wGOmZnk",
-          "videoUrl": "https://www.youtube.com/watch?v=kCK4wGOmZnk",
-          "start": "2026-09-13T07:58:05Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 224.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 15.5,
-          "samples": [
-            [
-              "2026-09-13T07:58:05Z",
-              3
-            ],
-            [
-              "2026-09-13T08:17:43Z",
-              8
-            ],
-            [
-              "2026-09-13T08:32:45Z",
-              14
-            ],
-            [
-              "2026-09-13T09:37:54Z",
-              23
-            ],
-            [
-              "2026-09-13T10:06:35Z",
-              18
-            ],
-            [
-              "2026-09-13T10:26:31Z",
-              15
-            ],
-            [
-              "2026-09-13T10:41:22Z",
-              22
-            ],
-            [
-              "2026-09-13T10:55:52Z",
-              15
-            ],
-            [
-              "2026-09-13T11:11:28Z",
-              21
-            ],
-            [
-              "2026-09-13T11:29:14Z",
-              16
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
-          "name": "대한민국 이스포츠 리그 - KEL",
-          "videoId": "azDYjPgX46g",
-          "videoUrl": "https://www.youtube.com/watch?v=azDYjPgX46g",
-          "start": "2026-09-12T04:58:37Z",
-          "end": "2026-09-12T13:20:22Z",
-          "minutes": 501.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "서킷3 1일차, A조 + B조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
-          "game": null,
-          "peakViewers": 29,
-          "avgViewers": 15.4,
-          "samples": [
-            [
-              "2026-09-12T04:58:37Z",
-              17
-            ],
-            [
-              "2026-09-12T05:15:50Z",
-              14
-            ],
-            [
-              "2026-09-12T05:30:03Z",
-              17
-            ],
-            [
-              "2026-09-12T05:43:01Z",
-              10
-            ],
-            [
-              "2026-09-12T05:55:39Z",
-              9
-            ],
-            [
-              "2026-09-12T06:15:20Z",
-              13
-            ],
-            [
-              "2026-09-12T06:35:15Z",
-              14
-            ],
-            [
-              "2026-09-12T06:50:43Z",
-              18
-            ],
-            [
-              "2026-09-12T07:09:56Z",
-              20
-            ],
-            [
-              "2026-09-12T07:24:08Z",
-              29
-            ],
-            [
-              "2026-09-12T07:38:38Z",
-              18
-            ],
-            [
-              "2026-09-12T07:49:34Z",
-              13
-            ],
-            [
-              "2026-09-12T08:00:20Z",
-              19
-            ],
-            [
-              "2026-09-12T08:21:54Z",
-              12
-            ],
-            [
-              "2026-09-12T08:40:36Z",
-              18
-            ],
-            [
-              "2026-09-12T08:56:02Z",
-              13
-            ],
-            [
-              "2026-09-12T09:12:41Z",
-              18
-            ],
-            [
-              "2026-09-12T09:29:31Z",
-              21
-            ],
-            [
-              "2026-09-12T09:42:40Z",
-              20
-            ],
-            [
-              "2026-09-12T09:55:51Z",
-              19
-            ],
-            [
-              "2026-09-12T10:12:15Z",
-              19
-            ],
-            [
-              "2026-09-12T10:29:27Z",
-              16
-            ],
-            [
-              "2026-09-12T10:42:30Z",
-              22
-            ],
-            [
-              "2026-09-12T10:55:34Z",
-              12
-            ],
-            [
-              "2026-09-12T11:10:51Z",
-              15
-            ],
-            [
-              "2026-09-12T11:28:20Z",
-              19
-            ],
-            [
-              "2026-09-12T11:40:54Z",
-              10
-            ],
-            [
-              "2026-09-12T11:55:44Z",
-              16
-            ],
-            [
-              "2026-09-12T12:15:12Z",
-              8
-            ],
-            [
-              "2026-09-12T12:34:30Z",
-              12
-            ],
-            [
-              "2026-09-12T12:49:58Z",
-              9
-            ],
-            [
-              "2026-09-12T13:00:43Z",
-              6
-            ]
-          ],
           "isTargetGame": true
         }
       ]
