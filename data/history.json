@@ -2,53 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "aywYhwc3KEA",
-      "start": "2026-09-19T17:12:16Z",
-      "startSource": "observed",
-      "title": "【Minecraft】深夜のソロマイクラ🐢雑談しながらゆるゆるっと！【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 328,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-19T17:12:16Z",
-      "lastSeenAt": "2026-09-19T18:58:23Z",
-      "samples": [
-        [
-          "2026-09-19T17:12:16Z",
-          222
-        ],
-        [
-          "2026-09-19T17:27:50Z",
-          225
-        ],
-        [
-          "2026-09-19T17:39:54Z",
-          222
-        ],
-        [
-          "2026-09-19T17:50:42Z",
-          225
-        ],
-        [
-          "2026-09-19T18:12:28Z",
-          296
-        ],
-        [
-          "2026-09-19T18:31:46Z",
-          312
-        ],
-        [
-          "2026-09-19T18:47:54Z",
-          328
-        ],
-        [
-          "2026-09-19T18:58:23Z",
-          305
-        ]
-      ]
-    },
     "UCcFkDV3IwGz-bUuLZFUu2fg": {
       "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
       "name": "몰라",
@@ -60,7 +13,7 @@
       "peakViewers": 4,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-19T17:12:16Z",
-      "lastSeenAt": "2026-09-19T18:58:23Z",
+      "lastSeenAt": "2026-09-19T19:13:53Z",
       "samples": [
         [
           "2026-09-19T17:12:16Z",
@@ -93,53 +46,10 @@
         [
           "2026-09-19T18:58:23Z",
           2
-        ]
-      ]
-    },
-    "UCUSAoYADTE73SAXIeuI-4bw": {
-      "channelId": "UCUSAoYADTE73SAXIeuI-4bw",
-      "name": "きくちのようつべ",
-      "videoId": "fibkeNaltBg",
-      "start": "2026-09-19T17:12:16Z",
-      "startSource": "observed",
-      "title": "【#EternalReturn】東京ゲームショウいます！展示ブース ホール8  08-N17　【#エターナルリターン】",
-      "game": null,
-      "peakViewers": 7,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-19T17:12:16Z",
-      "lastSeenAt": "2026-09-19T18:58:23Z",
-      "samples": [
-        [
-          "2026-09-19T17:12:16Z",
-          6
         ],
         [
-          "2026-09-19T17:27:50Z",
-          7
-        ],
-        [
-          "2026-09-19T17:39:54Z",
-          5
-        ],
-        [
-          "2026-09-19T17:50:42Z",
-          4
-        ],
-        [
-          "2026-09-19T18:12:28Z",
-          5
-        ],
-        [
-          "2026-09-19T18:31:46Z",
-          4
-        ],
-        [
-          "2026-09-19T18:47:54Z",
-          5
-        ],
-        [
-          "2026-09-19T18:58:23Z",
-          3
+          "2026-09-19T19:13:53Z",
+          2
         ]
       ]
     },
@@ -154,7 +64,7 @@
       "peakViewers": 3,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-19T18:31:46Z",
-      "lastSeenAt": "2026-09-19T18:58:23Z",
+      "lastSeenAt": "2026-09-19T19:13:53Z",
       "samples": [
         [
           "2026-09-19T18:31:46Z",
@@ -167,6 +77,10 @@
         [
           "2026-09-19T18:58:23Z",
           2
+        ],
+        [
+          "2026-09-19T19:13:53Z",
+          3
         ]
       ]
     }
@@ -24414,6 +24328,106 @@
         [
           "2026-09-19T18:47:54Z",
           2
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "aywYhwc3KEA",
+      "videoUrl": "https://www.youtube.com/watch?v=aywYhwc3KEA",
+      "start": "2026-09-19T17:12:16Z",
+      "end": "2026-09-19T19:13:53Z",
+      "minutes": 121.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Minecraft】深夜のソロマイクラ🐢雑談しながらゆるゆるっと！【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 328,
+      "avgViewers": 266.1,
+      "samples": [
+        [
+          "2026-09-19T17:12:16Z",
+          222
+        ],
+        [
+          "2026-09-19T17:27:50Z",
+          225
+        ],
+        [
+          "2026-09-19T17:39:54Z",
+          222
+        ],
+        [
+          "2026-09-19T17:50:42Z",
+          225
+        ],
+        [
+          "2026-09-19T18:12:28Z",
+          296
+        ],
+        [
+          "2026-09-19T18:31:46Z",
+          312
+        ],
+        [
+          "2026-09-19T18:47:54Z",
+          328
+        ],
+        [
+          "2026-09-19T18:58:23Z",
+          305
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCUSAoYADTE73SAXIeuI-4bw",
+      "name": "きくちのようつべ",
+      "videoId": "fibkeNaltBg",
+      "videoUrl": "https://www.youtube.com/watch?v=fibkeNaltBg",
+      "start": "2026-09-19T17:12:16Z",
+      "end": "2026-09-19T19:13:53Z",
+      "minutes": 121.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#EternalReturn】東京ゲームショウいます！展示ブース ホール8  08-N17　【#エターナルリターン】",
+      "game": null,
+      "peakViewers": 7,
+      "avgViewers": 4.8,
+      "samples": [
+        [
+          "2026-09-19T17:12:16Z",
+          6
+        ],
+        [
+          "2026-09-19T17:27:50Z",
+          7
+        ],
+        [
+          "2026-09-19T17:39:54Z",
+          5
+        ],
+        [
+          "2026-09-19T17:50:42Z",
+          4
+        ],
+        [
+          "2026-09-19T18:12:28Z",
+          5
+        ],
+        [
+          "2026-09-19T18:31:46Z",
+          4
+        ],
+        [
+          "2026-09-19T18:47:54Z",
+          5
+        ],
+        [
+          "2026-09-19T18:58:23Z",
+          3
         ]
       ],
       "isTargetGame": true
