@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:55:55Z",
+  "updatedAt": "2026-09-19T11:11:38Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 9725.1,
-      "gameMinutes": 5483.2,
-      "totalHours": 162.08,
-      "gameHours": 91.39,
-      "sessions": 47,
-      "avgViewers": 53.5,
+      "totalMinutes": 9945.1,
+      "gameMinutes": 5546.1,
+      "totalHours": 165.75,
+      "gameHours": 92.43,
+      "sessions": 52,
+      "avgViewers": 54.7,
       "peakViewers": 989
     },
     "week": {
-      "totalMinutes": 51541.5,
-      "gameMinutes": 26333.2,
-      "totalHours": 859.03,
-      "gameHours": 438.89,
-      "sessions": 292,
-      "avgViewers": 71.8,
+      "totalMinutes": 51761.6,
+      "gameMinutes": 26396.1,
+      "totalHours": 862.69,
+      "gameHours": 439.93,
+      "sessions": 297,
+      "avgViewers": 72.0,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 73706.7,
-      "gameMinutes": 35834.3,
-      "totalHours": 1228.44,
-      "gameHours": 597.24,
-      "sessions": 416,
-      "avgViewers": 81.2,
+      "totalMinutes": 73926.7,
+      "gameMinutes": 35897.2,
+      "totalHours": 1232.11,
+      "gameHours": 598.29,
+      "sessions": 421,
+      "avgViewers": 81.3,
       "peakViewers": 994
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "寝起き雑談（寝坊してごめんなさい）",
       "buckets": {
         "today": {
-          "totalMinutes": 297.6,
+          "totalMinutes": 313.3,
           "gameMinutes": 0.0,
-          "totalHours": 4.96,
+          "totalHours": 5.22,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 83.1,
+          "avgViewers": 84.1,
           "peakViewers": 166
         },
         "week": {
-          "totalMinutes": 2720.7,
+          "totalMinutes": 2736.4,
           "gameMinutes": 169.2,
-          "totalHours": 45.34,
+          "totalHours": 45.61,
           "gameHours": 2.82,
           "sessions": 11,
           "avgViewers": 104.7,
           "peakViewers": 428
         },
         "month": {
-          "totalMinutes": 4136.5,
+          "totalMinutes": 4152.3,
           "gameMinutes": 169.2,
-          "totalHours": 68.94,
+          "totalHours": 69.2,
           "gameHours": 2.82,
           "sessions": 16,
           "avgViewers": 89.4,
@@ -360,9 +360,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 93,
+      "liveViewers": 101,
       "livePeakViewers": 166,
-      "liveAvgViewers": 115.4,
+      "liveAvgViewers": 113.1,
       "liveSamples": [
         [
           "2026-09-19T09:43:06Z",
@@ -387,9 +387,364 @@
         [
           "2026-09-19T10:55:55Z",
           93
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          101
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ"
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
+      "isLive": true,
+      "liveSince": "2026-09-19T11:11:38Z",
+      "liveTitle": "〖 クロノ・トリガー╎#6 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-09-19T09:30:05Z",
+      "lastTitle": "〖 BOMBANANA! 〗 ここ☆すぺで爆弾解除するよ💣～* / こんこん、ゆげちゃん〖 心白てと / ネオポルテ 〗",
+      "buckets": {
+        "today": {
+          "totalMinutes": 355.6,
+          "gameMinutes": 0.0,
+          "totalHours": 5.93,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 230.4,
+          "peakViewers": 355
+        },
+        "week": {
+          "totalMinutes": 1810.5,
+          "gameMinutes": 168.3,
+          "totalHours": 30.17,
+          "gameHours": 2.8,
+          "sessions": 11,
+          "avgViewers": 235.7,
+          "peakViewers": 355
+        },
+        "month": {
+          "totalMinutes": 3309.7,
+          "gameMinutes": 168.3,
+          "totalHours": 55.16,
+          "gameHours": 2.8,
+          "sessions": 17,
+          "avgViewers": 277.0,
+          "peakViewers": 888
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "yhQQQA3Y4VE",
+          "videoUrl": "https://www.youtube.com/watch?v=yhQQQA3Y4VE",
+          "start": "2026-09-19T06:15:11Z",
+          "end": "2026-09-19T09:30:05Z",
+          "minutes": 194.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 BOMBANANA! 〗 ここ☆すぺで爆弾解除するよ💣～* / こんこん、ゆげちゃん〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 208,
+          "avgViewers": 178.1,
+          "samples": [
+            [
+              "2026-09-19T06:15:11Z",
+              153
+            ],
+            [
+              "2026-09-19T06:35:00Z",
+              208
+            ],
+            [
+              "2026-09-19T06:50:02Z",
+              204
+            ],
+            [
+              "2026-09-19T07:00:52Z",
+              204
+            ],
+            [
+              "2026-09-19T07:20:28Z",
+              202
+            ],
+            [
+              "2026-09-19T07:38:38Z",
+              189
+            ],
+            [
+              "2026-09-19T07:49:51Z",
+              177
+            ],
+            [
+              "2026-09-19T08:00:23Z",
+              169
+            ],
+            [
+              "2026-09-19T08:22:42Z",
+              188
+            ],
+            [
+              "2026-09-19T08:40:05Z",
+              160
+            ],
+            [
+              "2026-09-19T08:52:08Z",
+              170
+            ],
+            [
+              "2026-09-19T09:10:55Z",
+              123
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "yt3XYE-ouxA",
+          "videoUrl": "https://www.youtube.com/watch?v=yt3XYE-ouxA",
+          "start": "2026-09-18T14:49:04Z",
+          "end": "2026-09-18T17:40:40Z",
+          "minutes": 171.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 VALORANT 〗プラチナ目指してGO.ᐟ.ᐟ⭐︎ / あやちゃん〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 355,
+          "avgViewers": 293.8,
+          "samples": [
+            [
+              "2026-09-18T14:49:04Z",
+              242
+            ],
+            [
+              "2026-09-18T14:59:23Z",
+              283
+            ],
+            [
+              "2026-09-18T15:17:53Z",
+              251
+            ],
+            [
+              "2026-09-18T15:32:59Z",
+              267
+            ],
+            [
+              "2026-09-18T15:48:36Z",
+              239
+            ],
+            [
+              "2026-09-18T15:59:31Z",
+              280
+            ],
+            [
+              "2026-09-18T16:17:01Z",
+              304
+            ],
+            [
+              "2026-09-18T16:32:01Z",
+              329
+            ],
+            [
+              "2026-09-18T16:47:09Z",
+              302
+            ],
+            [
+              "2026-09-18T16:57:42Z",
+              316
+            ],
+            [
+              "2026-09-18T17:14:37Z",
+              355
+            ],
+            [
+              "2026-09-18T17:28:31Z",
+              338
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "yt3XYE-ouxA",
+          "videoUrl": "https://www.youtube.com/watch?v=yt3XYE-ouxA",
+          "start": "2026-09-18T10:18:01Z",
+          "end": "2026-09-18T14:33:39Z",
+          "minutes": 255.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 VALORANT 〗プラチナ目指してGO.ᐟ.ᐟ⭐︎ / あやちゃん〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 352,
+          "avgViewers": 276.5,
+          "samples": [
+            [
+              "2026-09-18T10:18:01Z",
+              216
+            ],
+            [
+              "2026-09-18T10:33:34Z",
+              324
+            ],
+            [
+              "2026-09-18T10:47:52Z",
+              352
+            ],
+            [
+              "2026-09-18T10:58:42Z",
+              322
+            ],
+            [
+              "2026-09-18T11:16:49Z",
+              333
+            ],
+            [
+              "2026-09-18T11:31:13Z",
+              334
+            ],
+            [
+              "2026-09-18T11:47:10Z",
+              320
+            ],
+            [
+              "2026-09-18T11:57:36Z",
+              300
+            ],
+            [
+              "2026-09-18T12:20:16Z",
+              301
+            ],
+            [
+              "2026-09-18T12:43:42Z",
+              260
+            ],
+            [
+              "2026-09-18T12:57:47Z",
+              259
+            ],
+            [
+              "2026-09-18T13:15:58Z",
+              239
+            ],
+            [
+              "2026-09-18T13:31:02Z",
+              227
+            ],
+            [
+              "2026-09-18T13:48:36Z",
+              225
+            ],
+            [
+              "2026-09-18T13:59:07Z",
+              193
+            ],
+            [
+              "2026-09-18T14:17:56Z",
+              240
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "O11bCw2VVNs",
+          "videoUrl": "https://www.youtube.com/watch?v=O11bCw2VVNs",
+          "start": "2026-09-17T10:22:50Z",
+          "end": "2026-09-17T16:49:20Z",
+          "minutes": 386.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 新スプリットきた.ᐟ.ᐟ⭐︎心昏ランクするよ～！！〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 348,
+          "avgViewers": 263.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zo7MULYVrlQ",
+          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
+          "start": "2026-09-17T00:56:14Z",
+          "end": "2026-09-17T01:49:21Z",
+          "minutes": 53.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 310,
+          "avgViewers": 286.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zo7MULYVrlQ",
+          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
+          "start": "2026-09-16T21:58:44Z",
+          "end": "2026-09-17T00:39:40Z",
+          "minutes": 160.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 328,
+          "avgViewers": 288.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Zo7MULYVrlQ",
+          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
+          "start": "2026-09-16T21:33:55Z",
+          "end": "2026-09-16T21:48:15Z",
+          "minutes": 14.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 57,
+          "avgViewers": 57.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "LrTBWuYI7gE",
+          "videoUrl": "https://www.youtube.com/watch?v=LrTBWuYI7gE",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 65,
+          "avgViewers": 65.0,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 39,
+      "livePeakViewers": 39,
+      "liveAvgViewers": 39.0,
+      "liveSamples": [
+        [
+          "2026-09-19T11:11:38Z",
+          39
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=cZob8ogKFzg"
     },
     {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
@@ -403,30 +758,30 @@
       "lastTitle": "【 #SURGETown ￤#１５ 】鍛錬あるのみ！！！！【 すずみあ / 赤彩みあ 】",
       "buckets": {
         "today": {
-          "totalMinutes": 178.2,
+          "totalMinutes": 193.9,
           "gameMinutes": 0.0,
-          "totalHours": 2.97,
+          "totalHours": 3.23,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 526.9,
+          "avgViewers": 548.1,
           "peakViewers": 989
         },
         "week": {
-          "totalMinutes": 2272.2,
+          "totalMinutes": 2288.0,
           "gameMinutes": 168.3,
-          "totalHours": 37.87,
+          "totalHours": 38.13,
           "gameHours": 2.8,
           "sessions": 12,
-          "avgViewers": 338.5,
+          "avgViewers": 341.5,
           "peakViewers": 994
         },
         "month": {
-          "totalMinutes": 3271.2,
+          "totalMinutes": 3287.0,
           "gameMinutes": 168.3,
-          "totalHours": 54.52,
+          "totalHours": 54.78,
           "gameHours": 2.8,
           "sessions": 16,
-          "avgViewers": 392.6,
+          "avgViewers": 394.5,
           "peakViewers": 994
         }
       },
@@ -775,9 +1130,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 15,
-      "livePeakViewers": 761,
-      "liveAvgViewers": 240.9,
+      "liveViewers": 985,
+      "livePeakViewers": 985,
+      "liveAvgViewers": 386.1,
       "liveSamples": [
         [
           "2026-09-19T10:12:20Z",
@@ -794,6 +1149,10 @@
         [
           "2026-09-19T10:55:55Z",
           15
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          985
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Cxpd2alwlfU"
@@ -810,28 +1169,28 @@
       "lastTitle": "이터널리턴 2026년 9월 18일 1부",
       "buckets": {
         "today": {
-          "totalMinutes": 341.4,
-          "gameMinutes": 341.4,
-          "totalHours": 5.69,
-          "gameHours": 5.69,
+          "totalMinutes": 357.1,
+          "gameMinutes": 357.1,
+          "totalHours": 5.95,
+          "gameHours": 5.95,
           "sessions": 1,
-          "avgViewers": 1.9,
+          "avgViewers": 2.0,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 1798.8,
-          "gameMinutes": 1798.8,
-          "totalHours": 29.98,
-          "gameHours": 29.98,
+          "totalMinutes": 1814.5,
+          "gameMinutes": 1814.5,
+          "totalHours": 30.24,
+          "gameHours": 30.24,
           "sessions": 5,
           "avgViewers": 2.5,
           "peakViewers": 9
         },
         "month": {
-          "totalMinutes": 2619.0,
-          "gameMinutes": 2619.0,
-          "totalHours": 43.65,
-          "gameHours": 43.65,
+          "totalMinutes": 2634.7,
+          "gameMinutes": 2634.7,
+          "totalHours": 43.91,
+          "gameHours": 43.91,
           "sessions": 9,
           "avgViewers": 2.5,
           "peakViewers": 9
@@ -1202,9 +1561,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 5,
+      "liveViewers": 4,
       "livePeakViewers": 5,
-      "liveAvgViewers": 1.9,
+      "liveAvgViewers": 2.0,
       "liveSamples": [
         [
           "2026-09-19T05:29:06Z",
@@ -1273,6 +1632,10 @@
         [
           "2026-09-19T10:55:55Z",
           5
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          4
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=0hWOvzcsSx8"
@@ -1289,28 +1652,28 @@
       "lastTitle": "이터널 리턴",
       "buckets": {
         "today": {
-          "totalMinutes": 435.4,
-          "gameMinutes": 435.4,
-          "totalHours": 7.26,
-          "gameHours": 7.26,
+          "totalMinutes": 451.1,
+          "gameMinutes": 451.1,
+          "totalHours": 7.52,
+          "gameHours": 7.52,
           "sessions": 2,
-          "avgViewers": 2.6,
+          "avgViewers": 2.5,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 2463.4,
-          "gameMinutes": 2463.4,
-          "totalHours": 41.06,
-          "gameHours": 41.06,
+          "totalMinutes": 2479.2,
+          "gameMinutes": 2479.2,
+          "totalHours": 41.32,
+          "gameHours": 41.32,
           "sessions": 9,
           "avgViewers": 2.3,
           "peakViewers": 6
         },
         "month": {
-          "totalMinutes": 2463.4,
-          "gameMinutes": 2463.4,
-          "totalHours": 41.06,
-          "gameHours": 41.06,
+          "totalMinutes": 2479.2,
+          "gameMinutes": 2479.2,
+          "totalHours": 41.32,
+          "gameHours": 41.32,
           "sessions": 9,
           "avgViewers": 2.3,
           "peakViewers": 6
@@ -1659,7 +2022,7 @@
       ],
       "liveViewers": 1,
       "livePeakViewers": 4,
-      "liveAvgViewers": 2.5,
+      "liveAvgViewers": 2.4,
       "liveSamples": [
         [
           "2026-09-19T04:57:35Z",
@@ -1756,6 +2119,10 @@
         [
           "2026-09-19T10:55:55Z",
           1
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=1RcUGm_UFVA"
@@ -1772,30 +2139,30 @@
       "lastTitle": "【SURGETown】炒めていこうや【綾見ユラ/YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 134.6,
+          "totalMinutes": 150.3,
           "gameMinutes": 0.0,
-          "totalHours": 2.24,
+          "totalHours": 2.51,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 121.4,
+          "avgViewers": 116.7,
           "peakViewers": 131
         },
         "week": {
-          "totalMinutes": 1376.4,
+          "totalMinutes": 1392.1,
           "gameMinutes": 191.3,
-          "totalHours": 22.94,
+          "totalHours": 23.2,
           "gameHours": 3.19,
           "sessions": 9,
-          "avgViewers": 123.9,
+          "avgViewers": 123.4,
           "peakViewers": 230
         },
         "month": {
-          "totalMinutes": 2283.3,
+          "totalMinutes": 2299.0,
           "gameMinutes": 191.3,
-          "totalHours": 38.05,
+          "totalHours": 38.32,
           "gameHours": 3.19,
           "sessions": 13,
-          "avgViewers": 149.6,
+          "avgViewers": 149.1,
           "peakViewers": 275
         }
       },
@@ -2091,6 +2458,10 @@
         [
           "2026-09-19T10:55:55Z",
           76
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          76
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=1OM-ZOGPrXA"
@@ -2107,27 +2478,27 @@
       "lastTitle": "【 雑談 】眠気をお届けまったり雑談【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 61.5,
+          "totalMinutes": 77.2,
           "gameMinutes": 0.0,
-          "totalHours": 1.02,
+          "totalHours": 1.29,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 14.5,
+          "avgViewers": 14.7,
           "peakViewers": 22
         },
         "week": {
-          "totalMinutes": 1176.8,
+          "totalMinutes": 1192.5,
           "gameMinutes": 971.0,
-          "totalHours": 19.61,
+          "totalHours": 19.88,
           "gameHours": 16.18,
           "sessions": 9,
-          "avgViewers": 23.6,
+          "avgViewers": 23.5,
           "peakViewers": 50
         },
         "month": {
-          "totalMinutes": 2173.5,
+          "totalMinutes": 2189.2,
           "gameMinutes": 1551.3,
-          "totalHours": 36.23,
+          "totalHours": 36.49,
           "gameHours": 25.85,
           "sessions": 12,
           "avgViewers": 24.6,
@@ -2321,7 +2692,7 @@
       ],
       "liveViewers": 16,
       "livePeakViewers": 16,
-      "liveAvgViewers": 12.3,
+      "liveAvgViewers": 13.1,
       "liveSamples": [
         [
           "2026-09-19T10:12:20Z",
@@ -2338,9 +2709,340 @@
         [
           "2026-09-19T10:55:55Z",
           16
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          16
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=RxTW4OWIauc"
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "isLive": true,
+      "liveSince": "2026-09-19T11:11:38Z",
+      "liveTitle": "【#天下無双ARK】ゆるっと恐竜の世界にご挨拶🦖！【望月ほぐの/ゆにれいど！】",
+      "lastEnd": "2026-09-18T13:59:07Z",
+      "lastTitle": "【Pizza House Simulator🍕】同期６人でピザを作りたいっ！！【望月ほぐの/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 432.0,
+          "peakViewers": 432
+        },
+        "week": {
+          "totalMinutes": 1286.2,
+          "gameMinutes": 544.2,
+          "totalHours": 21.44,
+          "gameHours": 9.07,
+          "sessions": 10,
+          "avgViewers": 313.4,
+          "peakViewers": 958
+        },
+        "month": {
+          "totalMinutes": 1794.6,
+          "gameMinutes": 698.2,
+          "totalHours": 29.91,
+          "gameHours": 11.64,
+          "sessions": 15,
+          "avgViewers": 338.2,
+          "peakViewers": 994
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "31IfOL24j74",
+          "videoUrl": "https://www.youtube.com/watch?v=31IfOL24j74",
+          "start": "2026-09-18T11:16:49Z",
+          "end": "2026-09-18T13:59:07Z",
+          "minutes": 162.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Pizza House Simulator🍕】同期６人でピザを作りたいっ！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 303,
+          "avgViewers": 246.6,
+          "samples": [
+            [
+              "2026-09-18T11:16:49Z",
+              214
+            ],
+            [
+              "2026-09-18T11:31:13Z",
+              270
+            ],
+            [
+              "2026-09-18T11:47:10Z",
+              302
+            ],
+            [
+              "2026-09-18T11:57:36Z",
+              303
+            ],
+            [
+              "2026-09-18T12:20:16Z",
+              261
+            ],
+            [
+              "2026-09-18T12:43:42Z",
+              240
+            ],
+            [
+              "2026-09-18T12:57:47Z",
+              241
+            ],
+            [
+              "2026-09-18T13:15:58Z",
+              243
+            ],
+            [
+              "2026-09-18T13:31:02Z",
+              217
+            ],
+            [
+              "2026-09-18T13:48:36Z",
+              168
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "JihHvMeyJzk",
+          "videoUrl": "https://www.youtube.com/watch?v=JihHvMeyJzk",
+          "start": "2026-09-17T11:14:49Z",
+          "end": "2026-09-17T15:40:38Z",
+          "minutes": 265.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ポケモンチャンピオンズ】新レギュM-Cどんな感じか見る！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 958,
+          "avgViewers": 184.9,
+          "samples": [
+            [
+              "2026-09-17T11:14:49Z",
+              506
+            ],
+            [
+              "2026-09-17T11:30:55Z",
+              746
+            ],
+            [
+              "2026-09-17T11:48:35Z",
+              958
+            ],
+            [
+              "2026-09-17T11:59:29Z",
+              1
+            ],
+            [
+              "2026-09-17T12:24:01Z",
+              1
+            ],
+            [
+              "2026-09-17T12:44:43Z",
+              1
+            ],
+            [
+              "2026-09-17T12:59:39Z",
+              1
+            ],
+            [
+              "2026-09-17T13:20:22Z",
+              1
+            ],
+            [
+              "2026-09-17T13:41:14Z",
+              1
+            ],
+            [
+              "2026-09-17T13:57:59Z",
+              11
+            ],
+            [
+              "2026-09-17T14:17:23Z",
+              1
+            ],
+            [
+              "2026-09-17T14:33:40Z",
+              11
+            ],
+            [
+              "2026-09-17T14:49:41Z",
+              1
+            ],
+            [
+              "2026-09-17T15:01:09Z",
+              1
+            ],
+            [
+              "2026-09-17T15:22:52Z",
+              949
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "6IYPXCwHjbk",
+          "videoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk",
+          "start": "2026-09-16T21:58:44Z",
+          "end": "2026-09-17T00:19:43Z",
+          "minutes": 141.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 776,
+          "avgViewers": 704.2,
+          "samples": [
+            [
+              "2026-09-16T21:58:44Z",
+              580
+            ],
+            [
+              "2026-09-16T22:16:52Z",
+              705
+            ],
+            [
+              "2026-09-16T22:31:44Z",
+              704
+            ],
+            [
+              "2026-09-16T22:47:21Z",
+              742
+            ],
+            [
+              "2026-09-16T22:58:07Z",
+              747
+            ],
+            [
+              "2026-09-16T23:16:02Z",
+              776
+            ],
+            [
+              "2026-09-16T23:30:26Z",
+              725
+            ],
+            [
+              "2026-09-16T23:45:58Z",
+              737
+            ],
+            [
+              "2026-09-16T23:56:47Z",
+              661
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "6IYPXCwHjbk",
+          "videoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk",
+          "start": "2026-09-16T21:33:55Z",
+          "end": "2026-09-16T21:48:15Z",
+          "minutes": 14.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 108,
+          "avgViewers": 108.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "j8o9qn-3gVw",
+          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 172,
+          "avgViewers": 172.0,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "j8o9qn-3gVw",
+          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
+          "start": "2026-09-16T10:00:44Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 169.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 253,
+          "avgViewers": 208.3,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "fTrDBAZNgr8",
+          "videoUrl": "https://www.youtube.com/watch?v=fTrDBAZNgr8",
+          "start": "2026-09-15T11:01:11Z",
+          "end": "2026-09-15T14:50:33Z",
+          "minutes": 229.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】明日の大会に向けて！デビマリで頑張りたい…！！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 227,
+          "avgViewers": 188.5,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "gjM3eqQMQUw",
+          "videoUrl": "https://www.youtube.com/watch?v=gjM3eqQMQUw",
+          "start": "2026-09-14T21:40:55Z",
+          "end": "2026-09-15T00:19:30Z",
+          "minutes": 158.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#295［2026.9/15］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 814,
+          "avgViewers": 675.9,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 432,
+      "livePeakViewers": 432,
+      "liveAvgViewers": 432.0,
+      "liveSamples": [
+        [
+          "2026-09-19T11:11:38Z",
+          432
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=NaeG6tTRbts"
     },
     {
       "channelId": "UClOhr2WzxqzuyjWWQgPLGIg",
@@ -2354,27 +3056,27 @@
       "lastTitle": "2부 롤 증바람 ㅎㅎ;;",
       "buckets": {
         "today": {
-          "totalMinutes": 429.3,
+          "totalMinutes": 445.0,
           "gameMinutes": 0.0,
-          "totalHours": 7.15,
+          "totalHours": 7.42,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 101.2,
+          "avgViewers": 100.4,
           "peakViewers": 160
         },
         "week": {
-          "totalMinutes": 1752.3,
+          "totalMinutes": 1768.1,
           "gameMinutes": 280.1,
-          "totalHours": 29.21,
+          "totalHours": 29.47,
           "gameHours": 4.67,
           "sessions": 6,
           "avgViewers": 74.3,
           "peakViewers": 171
         },
         "month": {
-          "totalMinutes": 1752.3,
+          "totalMinutes": 1768.1,
           "gameMinutes": 280.1,
-          "totalHours": 29.21,
+          "totalHours": 29.47,
           "gameHours": 4.67,
           "sessions": 6,
           "avgViewers": 74.3,
@@ -2751,9 +3453,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 75,
+      "liveViewers": 79,
       "livePeakViewers": 122,
-      "liveAvgViewers": 90.3,
+      "liveAvgViewers": 89.7,
       "liveSamples": [
         [
           "2026-09-19T06:15:11Z",
@@ -2830,9 +3532,275 @@
         [
           "2026-09-19T10:55:55Z",
           75
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          79
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Gf4dp00zIQ8"
+    },
+    {
+      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+      "name": "지몽지",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCn5ZfWrb5xHwzqczEl5NlxQ",
+      "isLive": true,
+      "liveSince": "2026-09-19T11:11:38Z",
+      "liveTitle": "[단간론파 어나더] 단간론파 어나더 6.5챕터 | 이건 뭔 챕터여. + 단간론파 어나더 스토리 호로록 먹어보기",
+      "lastEnd": "2026-09-18T17:55:44Z",
+      "lastTitle": "[이터널 리턴] 짧 저챗 - 이리 - 새벽 따따듀 / 2부 갬빗 가능 티어에 어서오세요 / [스타듀밸리] 잔잔 따따듀",
+      "buckets": {
+        "today": {
+          "totalMinutes": 175.7,
+          "gameMinutes": 175.7,
+          "totalHours": 2.93,
+          "gameHours": 2.93,
+          "sessions": 2,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        },
+        "week": {
+          "totalMinutes": 839.9,
+          "gameMinutes": 383.5,
+          "totalHours": 14.0,
+          "gameHours": 6.39,
+          "sessions": 7,
+          "avgViewers": 1.6,
+          "peakViewers": 4
+        },
+        "month": {
+          "totalMinutes": 1564.7,
+          "gameMinutes": 520.1,
+          "totalHours": 26.08,
+          "gameHours": 8.67,
+          "sessions": 12,
+          "avgViewers": 1.4,
+          "peakViewers": 4
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "GrvDTBVkcm8",
+          "videoUrl": "https://www.youtube.com/watch?v=GrvDTBVkcm8",
+          "start": "2026-09-18T14:49:04Z",
+          "end": "2026-09-18T17:55:44Z",
+          "minutes": 186.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[이터널 리턴] 짧 저챗 - 이리 - 새벽 따따듀 / 2부 갬빗 가능 티어에 어서오세요 / [스타듀밸리] 잔잔 따따듀",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-18T14:59:23Z",
+              1
+            ],
+            [
+              "2026-09-18T16:17:01Z",
+              1
+            ],
+            [
+              "2026-09-18T17:28:31Z",
+              1
+            ],
+            [
+              "2026-09-18T17:40:40Z",
+              1
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "GrvDTBVkcm8",
+          "videoUrl": "https://www.youtube.com/watch?v=GrvDTBVkcm8",
+          "start": "2026-09-18T11:16:49Z",
+          "end": "2026-09-18T14:33:39Z",
+          "minutes": 196.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[이터널 리턴] 짧 저챗 - 이리 - 새벽 따따듀 / 2부 갬빗 가능 티어에 어서오세요",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 2.1,
+          "samples": [
+            [
+              "2026-09-18T11:47:10Z",
+              3
+            ],
+            [
+              "2026-09-18T11:57:36Z",
+              3
+            ],
+            [
+              "2026-09-18T12:20:16Z",
+              2
+            ],
+            [
+              "2026-09-18T12:43:42Z",
+              2
+            ],
+            [
+              "2026-09-18T12:57:47Z",
+              3
+            ],
+            [
+              "2026-09-18T13:15:58Z",
+              2
+            ],
+            [
+              "2026-09-18T13:31:02Z",
+              2
+            ],
+            [
+              "2026-09-18T13:48:36Z",
+              1
+            ],
+            [
+              "2026-09-18T13:59:07Z",
+              1
+            ],
+            [
+              "2026-09-18T14:17:56Z",
+              2
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "1LPrYCoYOz4",
+          "videoUrl": "https://www.youtube.com/watch?v=1LPrYCoYOz4",
+          "start": "2026-09-17T11:14:49Z",
+          "end": "2026-09-17T13:41:14Z",
+          "minutes": 146.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[마비노기 모바일] 갓?패치?인가요? | 9/30 오리지널 공개 / 2부 [리버스 1999] 짧립구 계정 키우기",
+          "game": null,
+          "peakViewers": 2,
+          "avgViewers": 1.3,
+          "samples": [
+            [
+              "2026-09-17T11:30:55Z",
+              1
+            ],
+            [
+              "2026-09-17T11:48:35Z",
+              1
+            ],
+            [
+              "2026-09-17T12:44:43Z",
+              2
+            ],
+            [
+              "2026-09-17T12:59:39Z",
+              2
+            ],
+            [
+              "2026-09-17T13:20:22Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "vn873FHBx_4",
+          "videoUrl": "https://www.youtube.com/watch?v=vn873FHBx_4",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T14:34:36Z",
+          "minutes": 92.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[리버스 1999] 1부 도파민 디톡스 저챗 / 2부 리버스 1999 4챕터 완결내기 / 3부 도파민 디톡스 따따듀",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "vn873FHBx_4",
+          "videoUrl": "https://www.youtube.com/watch?v=vn873FHBx_4",
+          "start": "2026-09-16T11:15:34Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 94.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[리버스 1999] 1부 도파민 디톡스 저챗 / 2부 리버스 1999 4챕터 완결내기",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "_H3yiXcaET4",
+          "videoUrl": "https://www.youtube.com/watch?v=_H3yiXcaET4",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:36:19Z",
+          "minutes": 123.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[마비노기 모바일] 이것은 대체 무슨 게임입니까?",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "Yz_9ZV6wW6k",
+          "videoUrl": "https://www.youtube.com/watch?v=Yz_9ZV6wW6k",
+          "start": "2026-09-13T11:55:56Z",
+          "end": "2026-09-13T13:41:56Z",
+          "minutes": 106.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[이터널 리턴] 오늘 실력 레전드 (이길 바람) / 골드3",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+          "name": "지몽지",
+          "videoId": "Yz_9ZV6wW6k",
+          "videoUrl": "https://www.youtube.com/watch?v=Yz_9ZV6wW6k",
+          "start": "2026-09-13T11:11:28Z",
+          "end": "2026-09-13T11:42:03Z",
+          "minutes": 30.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[이터널 리턴] 오늘 실력 레전드 (이길 바람) / 골드3",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=4UNHr-Z1NjQ"
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
@@ -2846,30 +3814,30 @@
       "lastTitle": "【 OW 】恐竜前最終FPS【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 85.8,
+          "totalMinutes": 101.6,
           "gameMinutes": 0.0,
-          "totalHours": 1.43,
+          "totalHours": 1.69,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 61.7,
+          "avgViewers": 61.2,
           "peakViewers": 73
         },
         "week": {
-          "totalMinutes": 554.7,
+          "totalMinutes": 570.4,
           "gameMinutes": 291.8,
-          "totalHours": 9.25,
+          "totalHours": 9.51,
           "gameHours": 4.86,
           "sessions": 5,
-          "avgViewers": 35.4,
+          "avgViewers": 36.1,
           "peakViewers": 73
         },
         "month": {
-          "totalMinutes": 1436.7,
+          "totalMinutes": 1452.4,
           "gameMinutes": 476.4,
-          "totalHours": 23.95,
+          "totalHours": 24.21,
           "gameHours": 7.94,
           "sessions": 8,
-          "avgViewers": 37.8,
+          "avgViewers": 38.1,
           "peakViewers": 86
         }
       },
@@ -3081,9 +4049,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 50,
+      "liveViewers": 59,
       "livePeakViewers": 73,
-      "liveAvgViewers": 61.7,
+      "liveAvgViewers": 61.2,
       "liveSamples": [
         [
           "2026-09-19T09:30:05Z",
@@ -3112,6 +4080,10 @@
         [
           "2026-09-19T10:55:55Z",
           50
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          59
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=QcAWDdcMK98"
@@ -3128,30 +4100,30 @@
       "lastTitle": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
       "buckets": {
         "today": {
-          "totalMinutes": 565.5,
-          "gameMinutes": 565.5,
-          "totalHours": 9.42,
-          "gameHours": 9.42,
+          "totalMinutes": 581.2,
+          "gameMinutes": 581.2,
+          "totalHours": 9.69,
+          "gameHours": 9.69,
           "sessions": 1,
-          "avgViewers": 11.8,
+          "avgViewers": 11.6,
           "peakViewers": 22
         },
         "week": {
-          "totalMinutes": 565.5,
-          "gameMinutes": 565.5,
-          "totalHours": 9.42,
-          "gameHours": 9.42,
+          "totalMinutes": 581.2,
+          "gameMinutes": 581.2,
+          "totalHours": 9.69,
+          "gameHours": 9.69,
           "sessions": 1,
-          "avgViewers": 11.8,
+          "avgViewers": 11.6,
           "peakViewers": 22
         },
         "month": {
-          "totalMinutes": 1366.2,
-          "gameMinutes": 1366.2,
-          "totalHours": 22.77,
-          "gameHours": 22.77,
+          "totalMinutes": 1381.9,
+          "gameMinutes": 1381.9,
+          "totalHours": 23.03,
+          "gameHours": 23.03,
           "sessions": 4,
-          "avgViewers": 13.8,
+          "avgViewers": 13.7,
           "peakViewers": 29
         }
       },
@@ -3395,9 +4367,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 2,
+      "liveViewers": 4,
       "livePeakViewers": 22,
-      "liveAvgViewers": 11.8,
+      "liveAvgViewers": 11.6,
       "liveSamples": [
         [
           "2026-09-19T01:30:28Z",
@@ -3550,6 +4522,10 @@
         [
           "2026-09-19T10:55:55Z",
           2
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          4
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=rs71o-TcmUg"
@@ -3566,30 +4542,30 @@
       "lastTitle": "【雑談】食欲の秋早く来てほしい【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 175.5,
+          "totalMinutes": 191.3,
           "gameMinutes": 0.0,
-          "totalHours": 2.93,
+          "totalHours": 3.19,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 56.0,
+          "avgViewers": 56.3,
           "peakViewers": 90
         },
         "week": {
-          "totalMinutes": 664.2,
+          "totalMinutes": 680.0,
           "gameMinutes": 168.3,
-          "totalHours": 11.07,
+          "totalHours": 11.33,
           "gameHours": 2.8,
           "sessions": 8,
-          "avgViewers": 86.0,
+          "avgViewers": 85.3,
           "peakViewers": 267
         },
         "month": {
-          "totalMinutes": 1260.2,
+          "totalMinutes": 1275.9,
           "gameMinutes": 288.1,
-          "totalHours": 21.0,
+          "totalHours": 21.27,
           "gameHours": 4.8,
           "sessions": 12,
-          "avgViewers": 66.8,
+          "avgViewers": 66.7,
           "peakViewers": 267
         }
       },
@@ -3786,9 +4762,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 61,
+      "liveViewers": 59,
       "livePeakViewers": 90,
-      "liveAvgViewers": 64.7,
+      "liveAvgViewers": 64.0,
       "liveSamples": [
         [
           "2026-09-19T09:10:55Z",
@@ -3821,6 +4797,10 @@
         [
           "2026-09-19T10:55:55Z",
           61
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          59
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Q7Rb4FnX1wM"
@@ -3837,30 +4817,30 @@
       "lastTitle": "〚 Pizza House Simulator〛同期とピザをたくさん作る！お腹すきました！食べたいです！！！！W／卯埜らび，坂本こん，翠星アスト，水上蒼太，望月ほぐの〚 甘成じゅい/ゆにれいど！ 〛",
       "buckets": {
         "today": {
-          "totalMinutes": 105.0,
+          "totalMinutes": 120.7,
           "gameMinutes": 0.0,
-          "totalHours": 1.75,
+          "totalHours": 2.01,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 92.3,
+          "avgViewers": 92.7,
           "peakViewers": 112
         },
         "week": {
-          "totalMinutes": 767.4,
+          "totalMinutes": 783.1,
           "gameMinutes": 352.0,
-          "totalHours": 12.79,
+          "totalHours": 13.05,
           "gameHours": 5.87,
           "sessions": 7,
-          "avgViewers": 38.5,
+          "avgViewers": 39.7,
           "peakViewers": 112
         },
         "month": {
-          "totalMinutes": 1251.3,
+          "totalMinutes": 1267.0,
           "gameMinutes": 535.5,
-          "totalHours": 20.85,
+          "totalHours": 21.12,
           "gameHours": 8.92,
           "sessions": 11,
-          "avgViewers": 40.4,
+          "avgViewers": 41.1,
           "peakViewers": 112
         }
       },
@@ -4077,9 +5057,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 101,
+      "liveViewers": 95,
       "livePeakViewers": 112,
-      "liveAvgViewers": 92.3,
+      "liveAvgViewers": 92.7,
       "liveSamples": [
         [
           "2026-09-19T09:10:55Z",
@@ -4112,9 +5092,267 @@
         [
           "2026-09-19T10:55:55Z",
           101
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          95
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=xW8MOSj_ZLM"
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "isLive": true,
+      "liveSince": "2026-09-19T11:11:38Z",
+      "liveTitle": "【メンバー限定】9月も半分終わりましたねメン限雑談！！",
+      "lastEnd": "2026-09-18T01:16:04Z",
+      "lastTitle": "【最高アルマス リュウ レバー】次はアルマス1900目指す【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 768.0,
+          "gameMinutes": 421.3,
+          "totalHours": 12.8,
+          "gameHours": 7.02,
+          "sessions": 10,
+          "avgViewers": 14.3,
+          "peakViewers": 33
+        },
+        "month": {
+          "totalMinutes": 906.6,
+          "gameMinutes": 559.9,
+          "totalHours": 15.11,
+          "gameHours": 9.33,
+          "sessions": 11,
+          "avgViewers": 13.5,
+          "peakViewers": 33
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "zIHvY_BaHGM",
+          "videoUrl": "https://www.youtube.com/watch?v=zIHvY_BaHGM",
+          "start": "2026-09-17T23:10:07Z",
+          "end": "2026-09-18T01:16:04Z",
+          "minutes": 126.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】次はアルマス1900目指す【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 26,
+          "avgViewers": 20.1,
+          "samples": [
+            [
+              "2026-09-17T23:10:07Z",
+              7
+            ],
+            [
+              "2026-09-17T23:22:24Z",
+              9
+            ],
+            [
+              "2026-09-17T23:36:58Z",
+              22
+            ],
+            [
+              "2026-09-17T23:48:33Z",
+              26
+            ],
+            [
+              "2026-09-17T23:58:56Z",
+              23
+            ],
+            [
+              "2026-09-18T00:24:30Z",
+              24
+            ],
+            [
+              "2026-09-18T00:43:27Z",
+              23
+            ],
+            [
+              "2026-09-18T00:57:55Z",
+              23
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "KQ8qN6UIV-U",
+          "videoUrl": "https://www.youtube.com/watch?v=KQ8qN6UIV-U",
+          "start": "2026-09-16T22:47:21Z",
+          "end": "2026-09-17T00:56:14Z",
+          "minutes": 128.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】ブランクを取り戻す！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 16.8,
+          "samples": [
+            [
+              "2026-09-16T22:47:21Z",
+              10
+            ],
+            [
+              "2026-09-16T22:58:07Z",
+              8
+            ],
+            [
+              "2026-09-16T23:16:02Z",
+              20
+            ],
+            [
+              "2026-09-16T23:30:26Z",
+              16
+            ],
+            [
+              "2026-09-16T23:45:58Z",
+              18
+            ],
+            [
+              "2026-09-16T23:56:47Z",
+              17
+            ],
+            [
+              "2026-09-17T00:19:43Z",
+              23
+            ],
+            [
+              "2026-09-17T00:39:40Z",
+              20
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "obZTffLh1hE",
+          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 9,
+          "avgViewers": 9.0,
+          "samples": [
+            [
+              "2026-09-16T13:02:30Z",
+              9
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "obZTffLh1hE",
+          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
+          "start": "2026-09-16T10:23:47Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 146.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 8.4,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "5UxGq379cg0",
+          "videoUrl": "https://www.youtube.com/watch?v=5UxGq379cg0",
+          "start": "2026-09-15T12:54:18Z",
+          "end": "2026-09-15T13:12:22Z",
+          "minutes": 18.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#⁠十神仁誕生日2026】ちょっと雑談した後、ちょっとした告知枠『十神仁 /  YUMENOS』",
+          "game": null,
+          "peakViewers": 24,
+          "avgViewers": 24.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "UgsbnzuHk_0",
+          "videoUrl": "https://www.youtube.com/watch?v=UgsbnzuHk_0",
+          "start": "2026-09-15T11:40:32Z",
+          "end": "2026-09-15T12:54:18Z",
+          "minutes": 73.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#十神仁誕生日2026】今年もみんなと殴り合うぞー！！！【世界のアソビ大全51 - 視聴者参加型】『十神仁 /  YUMENOS』",
+          "game": null,
+          "peakViewers": 33,
+          "avgViewers": 29.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "R-kp9MyNw58",
+          "videoUrl": "https://www.youtube.com/watch?v=R-kp9MyNw58",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:19:25Z",
+          "minutes": 106.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン スクリム 】チーム4280円 一体どうなってしまうのか！！！【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 8.1,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "R-kp9MyNw58",
+          "videoUrl": "https://www.youtube.com/watch?v=R-kp9MyNw58",
+          "start": "2026-09-14T10:50:30Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 21.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン スクリム 】チーム4280円 一体どうなってしまうのか！！！【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 5,
+          "avgViewers": 5.0,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=wDUlJGAENds"
     },
     {
       "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
@@ -4128,27 +5366,27 @@
       "lastTitle": "트릭컬 3주년 방송 같이보실 교주님들",
       "buckets": {
         "today": {
-          "totalMinutes": 153.2,
+          "totalMinutes": 168.9,
           "gameMinutes": 0.0,
-          "totalHours": 2.55,
+          "totalHours": 2.82,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 610.5,
+          "totalMinutes": 626.3,
           "gameMinutes": 0.0,
-          "totalHours": 10.18,
+          "totalHours": 10.44,
           "gameHours": 0.0,
           "sessions": 4,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 720.4,
+          "totalMinutes": 736.1,
           "gameMinutes": 109.9,
-          "totalHours": 12.01,
+          "totalHours": 12.27,
           "gameHours": 1.83,
           "sessions": 5,
           "avgViewers": 1.0,
@@ -4248,30 +5486,30 @@
       "lastTitle": "【 DOMINEX〜Eternal Return〜】勝つぞ、4280円  w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION 】",
       "buckets": {
         "today": {
-          "totalMinutes": 85.8,
+          "totalMinutes": 101.6,
           "gameMinutes": 0.0,
-          "totalHours": 1.43,
+          "totalHours": 1.69,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 6.5,
+          "avgViewers": 6.1,
           "peakViewers": 13
         },
         "week": {
-          "totalMinutes": 383.3,
+          "totalMinutes": 399.1,
           "gameMinutes": 297.5,
-          "totalHours": 6.39,
+          "totalHours": 6.65,
           "gameHours": 4.96,
           "sessions": 4,
-          "avgViewers": 6.6,
+          "avgViewers": 6.5,
           "peakViewers": 13
         },
         "month": {
-          "totalMinutes": 589.6,
+          "totalMinutes": 605.3,
           "gameMinutes": 436.1,
-          "totalHours": 9.83,
+          "totalHours": 10.09,
           "gameHours": 7.27,
           "sessions": 6,
-          "avgViewers": 7.7,
+          "avgViewers": 7.6,
           "peakViewers": 15
         }
       },
@@ -4427,7 +5665,7 @@
       ],
       "liveViewers": 4,
       "livePeakViewers": 13,
-      "liveAvgViewers": 6.5,
+      "liveAvgViewers": 6.1,
       "liveSamples": [
         [
           "2026-09-19T09:30:05Z",
@@ -4456,9 +5694,245 @@
         [
           "2026-09-19T10:55:55Z",
           4
+        ],
+        [
+          "2026-09-19T11:11:38Z",
+          4
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU"
+    },
+    {
+      "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
+      "name": "白峯梅chドールオーナーVtuber",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCdttMMRbi7pukx0jYqRlpvg",
+      "isLive": true,
+      "liveSince": "2026-09-19T11:11:38Z",
+      "liveTitle": "[ #warthunder  ]  あほみたいなアップデートのせいであほみたいな環境らしい　[RB:参加可能　概要欄要確認]",
+      "lastEnd": "2026-09-18T13:31:02Z",
+      "lastTitle": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼  [初見配信]",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 5.0,
+          "peakViewers": 5
+        },
+        "week": {
+          "totalMinutes": 593.2,
+          "gameMinutes": 295.1,
+          "totalHours": 9.89,
+          "gameHours": 4.92,
+          "sessions": 6,
+          "avgViewers": 2.6,
+          "peakViewers": 5
+        },
+        "month": {
+          "totalMinutes": 593.2,
+          "gameMinutes": 295.1,
+          "totalHours": 9.89,
+          "gameHours": 4.92,
+          "sessions": 6,
+          "avgViewers": 2.6,
+          "peakViewers": 5
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
+          "name": "白峯梅chドールオーナーVtuber",
+          "videoId": "TqR2r4-d_O8",
+          "videoUrl": "https://www.youtube.com/watch?v=TqR2r4-d_O8",
+          "start": "2026-09-18T11:16:49Z",
+          "end": "2026-09-18T13:31:02Z",
+          "minutes": 134.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼  [初見配信]",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 2.3,
+          "samples": [
+            [
+              "2026-09-18T11:16:49Z",
+              3
+            ],
+            [
+              "2026-09-18T11:31:13Z",
+              2
+            ],
+            [
+              "2026-09-18T11:47:10Z",
+              1
+            ],
+            [
+              "2026-09-18T11:57:36Z",
+              2
+            ],
+            [
+              "2026-09-18T12:20:16Z",
+              2
+            ],
+            [
+              "2026-09-18T12:43:42Z",
+              3
+            ],
+            [
+              "2026-09-18T12:57:47Z",
+              2
+            ],
+            [
+              "2026-09-18T13:15:58Z",
+              3
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
+          "name": "白峯梅chドールオーナーVtuber",
+          "videoId": "_Xbtkv6AXwE",
+          "videoUrl": "https://www.youtube.com/watch?v=_Xbtkv6AXwE",
+          "start": "2026-09-17T11:59:29Z",
+          "end": "2026-09-17T15:01:09Z",
+          "minutes": 181.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[ #overwatch  ]　定期コラボ　大人数！！6人やと！　 [ OW：#コラボ配信  ]",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 2.3,
+          "samples": [
+            [
+              "2026-09-17T12:24:01Z",
+              2
+            ],
+            [
+              "2026-09-17T12:44:43Z",
+              2
+            ],
+            [
+              "2026-09-17T12:59:39Z",
+              2
+            ],
+            [
+              "2026-09-17T13:20:22Z",
+              2
+            ],
+            [
+              "2026-09-17T13:41:14Z",
+              2
+            ],
+            [
+              "2026-09-17T13:57:59Z",
+              3
+            ],
+            [
+              "2026-09-17T14:17:23Z",
+              3
+            ],
+            [
+              "2026-09-17T14:33:40Z",
+              2
+            ],
+            [
+              "2026-09-17T14:49:41Z",
+              3
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
+          "name": "白峯梅chドールオーナーVtuber",
+          "videoId": "OGIFJHJ_O1U",
+          "videoUrl": "https://www.youtube.com/watch?v=OGIFJHJ_O1U",
+          "start": "2026-09-15T12:15:49Z",
+          "end": "2026-09-15T14:12:12Z",
+          "minutes": 116.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[ #overwatch  ]　迷走するマウス感度を解決したい配信　 [ #aimlabs  ]",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 3.0,
+          "samples": [
+            [
+              "2026-09-15T12:15:49Z",
+              2
+            ],
+            [
+              "2026-09-15T12:37:32Z",
+              2
+            ],
+            [
+              "2026-09-15T12:54:18Z",
+              3
+            ],
+            [
+              "2026-09-15T13:12:22Z",
+              4
+            ],
+            [
+              "2026-09-15T13:32:46Z",
+              3
+            ],
+            [
+              "2026-09-15T13:50:45Z",
+              4
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
+          "name": "白峯梅chドールオーナーVtuber",
+          "videoId": "vitD4d6idvk",
+          "videoUrl": "https://www.youtube.com/watch?v=vitD4d6idvk",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:52:01Z",
+          "minutes": 139.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼ 初回3時間スペシャル　[初見配信]",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.9,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
+          "name": "白峯梅chドールオーナーVtuber",
+          "videoId": "vitD4d6idvk",
+          "videoUrl": "https://www.youtube.com/watch?v=vitD4d6idvk",
+          "start": "2026-09-14T10:50:30Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 21.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼ 初回3時間スペシャル　[初見配信]",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 5,
+      "livePeakViewers": 5,
+      "liveAvgViewers": 5.0,
+      "liveSamples": [
+        [
+          "2026-09-19T11:11:38Z",
+          5
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=0EqN0MC-xtg"
     },
     {
       "channelId": "UCHReTde3AGMElSQCbCftF7Q",
@@ -4472,28 +5946,28 @@
       "lastTitle": "[2026.9.18] 이터널리턴 짧게 랭크",
       "buckets": {
         "today": {
-          "totalMinutes": 26.0,
-          "gameMinutes": 26.0,
-          "totalHours": 0.43,
-          "gameHours": 0.43,
+          "totalMinutes": 41.7,
+          "gameMinutes": 41.7,
+          "totalHours": 0.69,
+          "gameHours": 0.69,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 127.7,
-          "gameMinutes": 127.7,
-          "totalHours": 2.13,
-          "gameHours": 2.13,
+          "totalMinutes": 143.4,
+          "gameMinutes": 143.4,
+          "totalHours": 2.39,
+          "gameHours": 2.39,
           "sessions": 3,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 127.7,
-          "gameMinutes": 127.7,
-          "totalHours": 2.13,
-          "gameHours": 2.13,
+          "totalMinutes": 143.4,
+          "gameMinutes": 143.4,
+          "totalHours": 2.39,
+          "gameHours": 2.39,
           "sessions": 3,
           "avgViewers": 1.0,
           "peakViewers": 1
@@ -4731,347 +6205,6 @@
           "avgViewers": null,
           "samples": [],
           "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-19T09:30:05Z",
-      "lastTitle": "〖 BOMBANANA! 〗 ここ☆すぺで爆弾解除するよ💣～* / こんこん、ゆげちゃん〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 355.6,
-          "gameMinutes": 0.0,
-          "totalHours": 5.93,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 230.4,
-          "peakViewers": 355
-        },
-        "week": {
-          "totalMinutes": 1810.5,
-          "gameMinutes": 168.3,
-          "totalHours": 30.17,
-          "gameHours": 2.8,
-          "sessions": 10,
-          "avgViewers": 235.7,
-          "peakViewers": 355
-        },
-        "month": {
-          "totalMinutes": 3309.7,
-          "gameMinutes": 168.3,
-          "totalHours": 55.16,
-          "gameHours": 2.8,
-          "sessions": 16,
-          "avgViewers": 277.0,
-          "peakViewers": 888
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "yhQQQA3Y4VE",
-          "videoUrl": "https://www.youtube.com/watch?v=yhQQQA3Y4VE",
-          "start": "2026-09-19T06:15:11Z",
-          "end": "2026-09-19T09:30:05Z",
-          "minutes": 194.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 BOMBANANA! 〗 ここ☆すぺで爆弾解除するよ💣～* / こんこん、ゆげちゃん〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 208,
-          "avgViewers": 178.1,
-          "samples": [
-            [
-              "2026-09-19T06:15:11Z",
-              153
-            ],
-            [
-              "2026-09-19T06:35:00Z",
-              208
-            ],
-            [
-              "2026-09-19T06:50:02Z",
-              204
-            ],
-            [
-              "2026-09-19T07:00:52Z",
-              204
-            ],
-            [
-              "2026-09-19T07:20:28Z",
-              202
-            ],
-            [
-              "2026-09-19T07:38:38Z",
-              189
-            ],
-            [
-              "2026-09-19T07:49:51Z",
-              177
-            ],
-            [
-              "2026-09-19T08:00:23Z",
-              169
-            ],
-            [
-              "2026-09-19T08:22:42Z",
-              188
-            ],
-            [
-              "2026-09-19T08:40:05Z",
-              160
-            ],
-            [
-              "2026-09-19T08:52:08Z",
-              170
-            ],
-            [
-              "2026-09-19T09:10:55Z",
-              123
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "yt3XYE-ouxA",
-          "videoUrl": "https://www.youtube.com/watch?v=yt3XYE-ouxA",
-          "start": "2026-09-18T14:49:04Z",
-          "end": "2026-09-18T17:40:40Z",
-          "minutes": 171.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 VALORANT 〗プラチナ目指してGO.ᐟ.ᐟ⭐︎ / あやちゃん〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 355,
-          "avgViewers": 293.8,
-          "samples": [
-            [
-              "2026-09-18T14:49:04Z",
-              242
-            ],
-            [
-              "2026-09-18T14:59:23Z",
-              283
-            ],
-            [
-              "2026-09-18T15:17:53Z",
-              251
-            ],
-            [
-              "2026-09-18T15:32:59Z",
-              267
-            ],
-            [
-              "2026-09-18T15:48:36Z",
-              239
-            ],
-            [
-              "2026-09-18T15:59:31Z",
-              280
-            ],
-            [
-              "2026-09-18T16:17:01Z",
-              304
-            ],
-            [
-              "2026-09-18T16:32:01Z",
-              329
-            ],
-            [
-              "2026-09-18T16:47:09Z",
-              302
-            ],
-            [
-              "2026-09-18T16:57:42Z",
-              316
-            ],
-            [
-              "2026-09-18T17:14:37Z",
-              355
-            ],
-            [
-              "2026-09-18T17:28:31Z",
-              338
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "yt3XYE-ouxA",
-          "videoUrl": "https://www.youtube.com/watch?v=yt3XYE-ouxA",
-          "start": "2026-09-18T10:18:01Z",
-          "end": "2026-09-18T14:33:39Z",
-          "minutes": 255.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 VALORANT 〗プラチナ目指してGO.ᐟ.ᐟ⭐︎ / あやちゃん〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 352,
-          "avgViewers": 276.5,
-          "samples": [
-            [
-              "2026-09-18T10:18:01Z",
-              216
-            ],
-            [
-              "2026-09-18T10:33:34Z",
-              324
-            ],
-            [
-              "2026-09-18T10:47:52Z",
-              352
-            ],
-            [
-              "2026-09-18T10:58:42Z",
-              322
-            ],
-            [
-              "2026-09-18T11:16:49Z",
-              333
-            ],
-            [
-              "2026-09-18T11:31:13Z",
-              334
-            ],
-            [
-              "2026-09-18T11:47:10Z",
-              320
-            ],
-            [
-              "2026-09-18T11:57:36Z",
-              300
-            ],
-            [
-              "2026-09-18T12:20:16Z",
-              301
-            ],
-            [
-              "2026-09-18T12:43:42Z",
-              260
-            ],
-            [
-              "2026-09-18T12:57:47Z",
-              259
-            ],
-            [
-              "2026-09-18T13:15:58Z",
-              239
-            ],
-            [
-              "2026-09-18T13:31:02Z",
-              227
-            ],
-            [
-              "2026-09-18T13:48:36Z",
-              225
-            ],
-            [
-              "2026-09-18T13:59:07Z",
-              193
-            ],
-            [
-              "2026-09-18T14:17:56Z",
-              240
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "O11bCw2VVNs",
-          "videoUrl": "https://www.youtube.com/watch?v=O11bCw2VVNs",
-          "start": "2026-09-17T10:22:50Z",
-          "end": "2026-09-17T16:49:20Z",
-          "minutes": 386.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 新スプリットきた.ᐟ.ᐟ⭐︎心昏ランクするよ～！！〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 348,
-          "avgViewers": 263.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zo7MULYVrlQ",
-          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
-          "start": "2026-09-17T00:56:14Z",
-          "end": "2026-09-17T01:49:21Z",
-          "minutes": 53.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 310,
-          "avgViewers": 286.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zo7MULYVrlQ",
-          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
-          "start": "2026-09-16T21:58:44Z",
-          "end": "2026-09-17T00:39:40Z",
-          "minutes": 160.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 328,
-          "avgViewers": 288.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Zo7MULYVrlQ",
-          "videoUrl": "https://www.youtube.com/watch?v=Zo7MULYVrlQ",
-          "start": "2026-09-16T21:33:55Z",
-          "end": "2026-09-16T21:48:15Z",
-          "minutes": 14.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 てともに╎#7 〗 毎週木曜日になるという噂のてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 57,
-          "avgViewers": 57.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "LrTBWuYI7gE",
-          "videoUrl": "https://www.youtube.com/watch?v=LrTBWuYI7gE",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 エターナルリターン 〗 イベントだああああ🔥/ 甘成じゅいさん、七乃羽すずさん 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 65,
-          "avgViewers": 65.0,
-          "samples": [],
-          "isTargetGame": true
         }
       ]
     },
@@ -6657,323 +7790,6 @@
       ]
     },
     {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-18T13:59:07Z",
-      "lastTitle": "【Pizza House Simulator🍕】同期６人でピザを作りたいっ！！【望月ほぐの/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 1286.2,
-          "gameMinutes": 544.2,
-          "totalHours": 21.44,
-          "gameHours": 9.07,
-          "sessions": 9,
-          "avgViewers": 313.4,
-          "peakViewers": 958
-        },
-        "month": {
-          "totalMinutes": 1794.6,
-          "gameMinutes": 698.2,
-          "totalHours": 29.91,
-          "gameHours": 11.64,
-          "sessions": 14,
-          "avgViewers": 338.2,
-          "peakViewers": 994
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "31IfOL24j74",
-          "videoUrl": "https://www.youtube.com/watch?v=31IfOL24j74",
-          "start": "2026-09-18T11:16:49Z",
-          "end": "2026-09-18T13:59:07Z",
-          "minutes": 162.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Pizza House Simulator🍕】同期６人でピザを作りたいっ！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 303,
-          "avgViewers": 246.6,
-          "samples": [
-            [
-              "2026-09-18T11:16:49Z",
-              214
-            ],
-            [
-              "2026-09-18T11:31:13Z",
-              270
-            ],
-            [
-              "2026-09-18T11:47:10Z",
-              302
-            ],
-            [
-              "2026-09-18T11:57:36Z",
-              303
-            ],
-            [
-              "2026-09-18T12:20:16Z",
-              261
-            ],
-            [
-              "2026-09-18T12:43:42Z",
-              240
-            ],
-            [
-              "2026-09-18T12:57:47Z",
-              241
-            ],
-            [
-              "2026-09-18T13:15:58Z",
-              243
-            ],
-            [
-              "2026-09-18T13:31:02Z",
-              217
-            ],
-            [
-              "2026-09-18T13:48:36Z",
-              168
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "JihHvMeyJzk",
-          "videoUrl": "https://www.youtube.com/watch?v=JihHvMeyJzk",
-          "start": "2026-09-17T11:14:49Z",
-          "end": "2026-09-17T15:40:38Z",
-          "minutes": 265.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ポケモンチャンピオンズ】新レギュM-Cどんな感じか見る！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 958,
-          "avgViewers": 184.9,
-          "samples": [
-            [
-              "2026-09-17T11:14:49Z",
-              506
-            ],
-            [
-              "2026-09-17T11:30:55Z",
-              746
-            ],
-            [
-              "2026-09-17T11:48:35Z",
-              958
-            ],
-            [
-              "2026-09-17T11:59:29Z",
-              1
-            ],
-            [
-              "2026-09-17T12:24:01Z",
-              1
-            ],
-            [
-              "2026-09-17T12:44:43Z",
-              1
-            ],
-            [
-              "2026-09-17T12:59:39Z",
-              1
-            ],
-            [
-              "2026-09-17T13:20:22Z",
-              1
-            ],
-            [
-              "2026-09-17T13:41:14Z",
-              1
-            ],
-            [
-              "2026-09-17T13:57:59Z",
-              11
-            ],
-            [
-              "2026-09-17T14:17:23Z",
-              1
-            ],
-            [
-              "2026-09-17T14:33:40Z",
-              11
-            ],
-            [
-              "2026-09-17T14:49:41Z",
-              1
-            ],
-            [
-              "2026-09-17T15:01:09Z",
-              1
-            ],
-            [
-              "2026-09-17T15:22:52Z",
-              949
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "6IYPXCwHjbk",
-          "videoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk",
-          "start": "2026-09-16T21:58:44Z",
-          "end": "2026-09-17T00:19:43Z",
-          "minutes": 141.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 776,
-          "avgViewers": 704.2,
-          "samples": [
-            [
-              "2026-09-16T21:58:44Z",
-              580
-            ],
-            [
-              "2026-09-16T22:16:52Z",
-              705
-            ],
-            [
-              "2026-09-16T22:31:44Z",
-              704
-            ],
-            [
-              "2026-09-16T22:47:21Z",
-              742
-            ],
-            [
-              "2026-09-16T22:58:07Z",
-              747
-            ],
-            [
-              "2026-09-16T23:16:02Z",
-              776
-            ],
-            [
-              "2026-09-16T23:30:26Z",
-              725
-            ],
-            [
-              "2026-09-16T23:45:58Z",
-              737
-            ],
-            [
-              "2026-09-16T23:56:47Z",
-              661
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "6IYPXCwHjbk",
-          "videoUrl": "https://www.youtube.com/watch?v=6IYPXCwHjbk",
-          "start": "2026-09-16T21:33:55Z",
-          "end": "2026-09-16T21:48:15Z",
-          "minutes": 14.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#296［2026.9/17］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 108,
-          "avgViewers": 108.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "j8o9qn-3gVw",
-          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 172,
-          "avgViewers": 172.0,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "j8o9qn-3gVw",
-          "videoUrl": "https://www.youtube.com/watch?v=j8o9qn-3gVw",
-          "start": "2026-09-16T10:00:44Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 169.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！『あほぐみ』ほぐ担当、頑張ります！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 253,
-          "avgViewers": 208.3,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "fTrDBAZNgr8",
-          "videoUrl": "https://www.youtube.com/watch?v=fTrDBAZNgr8",
-          "start": "2026-09-15T11:01:11Z",
-          "end": "2026-09-15T14:50:33Z",
-          "minutes": 229.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】明日の大会に向けて！デビマリで頑張りたい…！！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 227,
-          "avgViewers": 188.5,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "gjM3eqQMQUw",
-          "videoUrl": "https://www.youtube.com/watch?v=gjM3eqQMQUw",
-          "start": "2026-09-14T21:40:55Z",
-          "end": "2026-09-15T00:19:30Z",
-          "minutes": 158.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#295［2026.9/15］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 814,
-          "avgViewers": 675.9,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCOp8W06iik7YzDxvqd3HHig",
       "name": "우찬TV",
       "registered": true,
@@ -7472,263 +8288,6 @@
           "avgViewers": 30.5,
           "samples": [],
           "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "name": "지몽지",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-18T17:55:44Z",
-      "lastTitle": "[이터널 리턴] 짧 저챗 - 이리 - 새벽 따따듀 / 2부 갬빗 가능 티어에 어서오세요 / [스타듀밸리] 잔잔 따따듀",
-      "buckets": {
-        "today": {
-          "totalMinutes": 175.7,
-          "gameMinutes": 175.7,
-          "totalHours": 2.93,
-          "gameHours": 2.93,
-          "sessions": 1,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        },
-        "week": {
-          "totalMinutes": 839.9,
-          "gameMinutes": 383.5,
-          "totalHours": 14.0,
-          "gameHours": 6.39,
-          "sessions": 6,
-          "avgViewers": 1.6,
-          "peakViewers": 4
-        },
-        "month": {
-          "totalMinutes": 1564.7,
-          "gameMinutes": 520.1,
-          "totalHours": 26.08,
-          "gameHours": 8.67,
-          "sessions": 11,
-          "avgViewers": 1.4,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "GrvDTBVkcm8",
-          "videoUrl": "https://www.youtube.com/watch?v=GrvDTBVkcm8",
-          "start": "2026-09-18T14:49:04Z",
-          "end": "2026-09-18T17:55:44Z",
-          "minutes": 186.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[이터널 리턴] 짧 저챗 - 이리 - 새벽 따따듀 / 2부 갬빗 가능 티어에 어서오세요 / [스타듀밸리] 잔잔 따따듀",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-18T14:59:23Z",
-              1
-            ],
-            [
-              "2026-09-18T16:17:01Z",
-              1
-            ],
-            [
-              "2026-09-18T17:28:31Z",
-              1
-            ],
-            [
-              "2026-09-18T17:40:40Z",
-              1
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "GrvDTBVkcm8",
-          "videoUrl": "https://www.youtube.com/watch?v=GrvDTBVkcm8",
-          "start": "2026-09-18T11:16:49Z",
-          "end": "2026-09-18T14:33:39Z",
-          "minutes": 196.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[이터널 리턴] 짧 저챗 - 이리 - 새벽 따따듀 / 2부 갬빗 가능 티어에 어서오세요",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 2.1,
-          "samples": [
-            [
-              "2026-09-18T11:47:10Z",
-              3
-            ],
-            [
-              "2026-09-18T11:57:36Z",
-              3
-            ],
-            [
-              "2026-09-18T12:20:16Z",
-              2
-            ],
-            [
-              "2026-09-18T12:43:42Z",
-              2
-            ],
-            [
-              "2026-09-18T12:57:47Z",
-              3
-            ],
-            [
-              "2026-09-18T13:15:58Z",
-              2
-            ],
-            [
-              "2026-09-18T13:31:02Z",
-              2
-            ],
-            [
-              "2026-09-18T13:48:36Z",
-              1
-            ],
-            [
-              "2026-09-18T13:59:07Z",
-              1
-            ],
-            [
-              "2026-09-18T14:17:56Z",
-              2
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "1LPrYCoYOz4",
-          "videoUrl": "https://www.youtube.com/watch?v=1LPrYCoYOz4",
-          "start": "2026-09-17T11:14:49Z",
-          "end": "2026-09-17T13:41:14Z",
-          "minutes": 146.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[마비노기 모바일] 갓?패치?인가요? | 9/30 오리지널 공개 / 2부 [리버스 1999] 짧립구 계정 키우기",
-          "game": null,
-          "peakViewers": 2,
-          "avgViewers": 1.3,
-          "samples": [
-            [
-              "2026-09-17T11:30:55Z",
-              1
-            ],
-            [
-              "2026-09-17T11:48:35Z",
-              1
-            ],
-            [
-              "2026-09-17T12:44:43Z",
-              2
-            ],
-            [
-              "2026-09-17T12:59:39Z",
-              2
-            ],
-            [
-              "2026-09-17T13:20:22Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "vn873FHBx_4",
-          "videoUrl": "https://www.youtube.com/watch?v=vn873FHBx_4",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T14:34:36Z",
-          "minutes": 92.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[리버스 1999] 1부 도파민 디톡스 저챗 / 2부 리버스 1999 4챕터 완결내기 / 3부 도파민 디톡스 따따듀",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "vn873FHBx_4",
-          "videoUrl": "https://www.youtube.com/watch?v=vn873FHBx_4",
-          "start": "2026-09-16T11:15:34Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 94.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[리버스 1999] 1부 도파민 디톡스 저챗 / 2부 리버스 1999 4챕터 완결내기",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 2.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "_H3yiXcaET4",
-          "videoUrl": "https://www.youtube.com/watch?v=_H3yiXcaET4",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:36:19Z",
-          "minutes": 123.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[마비노기 모바일] 이것은 대체 무슨 게임입니까?",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 1.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "Yz_9ZV6wW6k",
-          "videoUrl": "https://www.youtube.com/watch?v=Yz_9ZV6wW6k",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T13:41:56Z",
-          "minutes": 106.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[이터널 리턴] 오늘 실력 레전드 (이길 바람) / 골드3",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-          "name": "지몽지",
-          "videoId": "Yz_9ZV6wW6k",
-          "videoUrl": "https://www.youtube.com/watch?v=Yz_9ZV6wW6k",
-          "start": "2026-09-13T11:11:28Z",
-          "end": "2026-09-13T11:42:03Z",
-          "minutes": 30.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[이터널 리턴] 오늘 실력 레전드 (이길 바람) / 골드3",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [],
-          "isTargetGame": true
         }
       ]
     },
@@ -10788,255 +11347,6 @@
       ]
     },
     {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-18T01:16:04Z",
-      "lastTitle": "【最高アルマス リュウ レバー】次はアルマス1900目指す【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 768.0,
-          "gameMinutes": 421.3,
-          "totalHours": 12.8,
-          "gameHours": 7.02,
-          "sessions": 9,
-          "avgViewers": 14.3,
-          "peakViewers": 33
-        },
-        "month": {
-          "totalMinutes": 906.6,
-          "gameMinutes": 559.9,
-          "totalHours": 15.11,
-          "gameHours": 9.33,
-          "sessions": 10,
-          "avgViewers": 13.5,
-          "peakViewers": 33
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "zIHvY_BaHGM",
-          "videoUrl": "https://www.youtube.com/watch?v=zIHvY_BaHGM",
-          "start": "2026-09-17T23:10:07Z",
-          "end": "2026-09-18T01:16:04Z",
-          "minutes": 126.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】次はアルマス1900目指す【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 20.1,
-          "samples": [
-            [
-              "2026-09-17T23:10:07Z",
-              7
-            ],
-            [
-              "2026-09-17T23:22:24Z",
-              9
-            ],
-            [
-              "2026-09-17T23:36:58Z",
-              22
-            ],
-            [
-              "2026-09-17T23:48:33Z",
-              26
-            ],
-            [
-              "2026-09-17T23:58:56Z",
-              23
-            ],
-            [
-              "2026-09-18T00:24:30Z",
-              24
-            ],
-            [
-              "2026-09-18T00:43:27Z",
-              23
-            ],
-            [
-              "2026-09-18T00:57:55Z",
-              23
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "KQ8qN6UIV-U",
-          "videoUrl": "https://www.youtube.com/watch?v=KQ8qN6UIV-U",
-          "start": "2026-09-16T22:47:21Z",
-          "end": "2026-09-17T00:56:14Z",
-          "minutes": 128.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】ブランクを取り戻す！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 16.8,
-          "samples": [
-            [
-              "2026-09-16T22:47:21Z",
-              10
-            ],
-            [
-              "2026-09-16T22:58:07Z",
-              8
-            ],
-            [
-              "2026-09-16T23:16:02Z",
-              20
-            ],
-            [
-              "2026-09-16T23:30:26Z",
-              16
-            ],
-            [
-              "2026-09-16T23:45:58Z",
-              18
-            ],
-            [
-              "2026-09-16T23:56:47Z",
-              17
-            ],
-            [
-              "2026-09-17T00:19:43Z",
-              23
-            ],
-            [
-              "2026-09-17T00:39:40Z",
-              20
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "obZTffLh1hE",
-          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 9,
-          "avgViewers": 9.0,
-          "samples": [
-            [
-              "2026-09-16T13:02:30Z",
-              9
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "obZTffLh1hE",
-          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
-          "start": "2026-09-16T10:23:47Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 146.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 8.4,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "5UxGq379cg0",
-          "videoUrl": "https://www.youtube.com/watch?v=5UxGq379cg0",
-          "start": "2026-09-15T12:54:18Z",
-          "end": "2026-09-15T13:12:22Z",
-          "minutes": 18.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#⁠十神仁誕生日2026】ちょっと雑談した後、ちょっとした告知枠『十神仁 /  YUMENOS』",
-          "game": null,
-          "peakViewers": 24,
-          "avgViewers": 24.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "UgsbnzuHk_0",
-          "videoUrl": "https://www.youtube.com/watch?v=UgsbnzuHk_0",
-          "start": "2026-09-15T11:40:32Z",
-          "end": "2026-09-15T12:54:18Z",
-          "minutes": 73.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#十神仁誕生日2026】今年もみんなと殴り合うぞー！！！【世界のアソビ大全51 - 視聴者参加型】『十神仁 /  YUMENOS』",
-          "game": null,
-          "peakViewers": 33,
-          "avgViewers": 29.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "R-kp9MyNw58",
-          "videoUrl": "https://www.youtube.com/watch?v=R-kp9MyNw58",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:19:25Z",
-          "minutes": 106.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン スクリム 】チーム4280円 一体どうなってしまうのか！！！【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 8.1,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "R-kp9MyNw58",
-          "videoUrl": "https://www.youtube.com/watch?v=R-kp9MyNw58",
-          "start": "2026-09-14T10:50:30Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 21.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン スクリム 】チーム4280円 一体どうなってしまうのか！！！【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 5,
-          "avgViewers": 5.0,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
       "registered": true,
@@ -11512,228 +11822,6 @@
               2
             ]
           ],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
-      "name": "白峯梅chドールオーナーVtuber",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCdttMMRbi7pukx0jYqRlpvg",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-18T13:31:02Z",
-      "lastTitle": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼  [初見配信]",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 593.2,
-          "gameMinutes": 295.1,
-          "totalHours": 9.89,
-          "gameHours": 4.92,
-          "sessions": 5,
-          "avgViewers": 2.6,
-          "peakViewers": 4
-        },
-        "month": {
-          "totalMinutes": 593.2,
-          "gameMinutes": 295.1,
-          "totalHours": 9.89,
-          "gameHours": 4.92,
-          "sessions": 5,
-          "avgViewers": 2.6,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
-          "name": "白峯梅chドールオーナーVtuber",
-          "videoId": "TqR2r4-d_O8",
-          "videoUrl": "https://www.youtube.com/watch?v=TqR2r4-d_O8",
-          "start": "2026-09-18T11:16:49Z",
-          "end": "2026-09-18T13:31:02Z",
-          "minutes": 134.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼  [初見配信]",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 2.3,
-          "samples": [
-            [
-              "2026-09-18T11:16:49Z",
-              3
-            ],
-            [
-              "2026-09-18T11:31:13Z",
-              2
-            ],
-            [
-              "2026-09-18T11:47:10Z",
-              1
-            ],
-            [
-              "2026-09-18T11:57:36Z",
-              2
-            ],
-            [
-              "2026-09-18T12:20:16Z",
-              2
-            ],
-            [
-              "2026-09-18T12:43:42Z",
-              3
-            ],
-            [
-              "2026-09-18T12:57:47Z",
-              2
-            ],
-            [
-              "2026-09-18T13:15:58Z",
-              3
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
-          "name": "白峯梅chドールオーナーVtuber",
-          "videoId": "_Xbtkv6AXwE",
-          "videoUrl": "https://www.youtube.com/watch?v=_Xbtkv6AXwE",
-          "start": "2026-09-17T11:59:29Z",
-          "end": "2026-09-17T15:01:09Z",
-          "minutes": 181.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[ #overwatch  ]　定期コラボ　大人数！！6人やと！　 [ OW：#コラボ配信  ]",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 2.3,
-          "samples": [
-            [
-              "2026-09-17T12:24:01Z",
-              2
-            ],
-            [
-              "2026-09-17T12:44:43Z",
-              2
-            ],
-            [
-              "2026-09-17T12:59:39Z",
-              2
-            ],
-            [
-              "2026-09-17T13:20:22Z",
-              2
-            ],
-            [
-              "2026-09-17T13:41:14Z",
-              2
-            ],
-            [
-              "2026-09-17T13:57:59Z",
-              3
-            ],
-            [
-              "2026-09-17T14:17:23Z",
-              3
-            ],
-            [
-              "2026-09-17T14:33:40Z",
-              2
-            ],
-            [
-              "2026-09-17T14:49:41Z",
-              3
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
-          "name": "白峯梅chドールオーナーVtuber",
-          "videoId": "OGIFJHJ_O1U",
-          "videoUrl": "https://www.youtube.com/watch?v=OGIFJHJ_O1U",
-          "start": "2026-09-15T12:15:49Z",
-          "end": "2026-09-15T14:12:12Z",
-          "minutes": 116.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[ #overwatch  ]　迷走するマウス感度を解決したい配信　 [ #aimlabs  ]",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 3.0,
-          "samples": [
-            [
-              "2026-09-15T12:15:49Z",
-              2
-            ],
-            [
-              "2026-09-15T12:37:32Z",
-              2
-            ],
-            [
-              "2026-09-15T12:54:18Z",
-              3
-            ],
-            [
-              "2026-09-15T13:12:22Z",
-              4
-            ],
-            [
-              "2026-09-15T13:32:46Z",
-              3
-            ],
-            [
-              "2026-09-15T13:50:45Z",
-              4
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
-          "name": "白峯梅chドールオーナーVtuber",
-          "videoId": "vitD4d6idvk",
-          "videoUrl": "https://www.youtube.com/watch?v=vitD4d6idvk",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:52:01Z",
-          "minutes": 139.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼ 初回3時間スペシャル　[初見配信]",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 2.9,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCdttMMRbi7pukx0jYqRlpvg",
-          "name": "白峯梅chドールオーナーVtuber",
-          "videoId": "vitD4d6idvk",
-          "videoUrl": "https://www.youtube.com/watch?v=vitD4d6idvk",
-          "start": "2026-09-14T10:50:30Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 21.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[ #エターナルリターン   ]  APEX+LOL ?　今日からエタリタ‼ 初回3時間スペシャル　[初見配信]",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [],
           "isTargetGame": true
         }
       ]
