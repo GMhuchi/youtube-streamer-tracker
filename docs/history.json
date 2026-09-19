@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T03:16:27Z",
+  "updatedAt": "2026-09-19T03:31:24Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3990.6,
-      "gameMinutes": 2010.5,
-      "totalHours": 66.51,
-      "gameHours": 33.51,
+      "totalMinutes": 4110.3,
+      "gameMinutes": 2100.2,
+      "totalHours": 68.5,
+      "gameHours": 35.0,
       "sessions": 27,
-      "avgViewers": 88.3,
+      "avgViewers": 80.1,
       "peakViewers": 989
     },
     "week": {
-      "totalMinutes": 45807.0,
-      "gameMinutes": 22860.5,
-      "totalHours": 763.45,
-      "gameHours": 381.01,
+      "totalMinutes": 45926.7,
+      "gameMinutes": 22950.2,
+      "totalHours": 765.45,
+      "gameHours": 382.5,
       "sessions": 272,
-      "avgViewers": 76.9,
+      "avgViewers": 76.3,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 67972.2,
-      "gameMinutes": 32361.5,
-      "totalHours": 1132.87,
-      "gameHours": 539.36,
+      "totalMinutes": 68091.8,
+      "gameMinutes": 32451.3,
+      "totalHours": 1134.86,
+      "gameHours": 540.85,
       "sessions": 396,
-      "avgViewers": 85.5,
+      "avgViewers": 85.0,
       "peakViewers": 994
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "어센던스 오기 전에 손에 감을 익히려는 버그 고양이",
       "buckets": {
         "today": {
-          "totalMinutes": 260.5,
+          "totalMinutes": 275.4,
           "gameMinutes": 0.0,
-          "totalHours": 4.34,
+          "totalHours": 4.59,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
+          "avgViewers": 1.0,
+          "peakViewers": 1
         },
         "week": {
-          "totalMinutes": 2347.8,
+          "totalMinutes": 2362.8,
           "gameMinutes": 0.0,
-          "totalHours": 39.13,
+          "totalHours": 39.38,
           "gameHours": 0.0,
           "sessions": 7,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 3157.7,
+          "totalMinutes": 3172.6,
           "gameMinutes": 48.2,
-          "totalHours": 52.63,
+          "totalHours": 52.88,
           "gameHours": 0.8,
           "sessions": 14,
           "avgViewers": 1.0,
@@ -226,10 +226,15 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
+      "liveViewers": 1,
+      "livePeakViewers": 1,
+      "liveAvgViewers": 1.0,
+      "liveSamples": [
+        [
+          "2026-09-19T03:31:24Z",
+          1
+        ]
+      ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=_FhqsMnMfog"
     },
     {
@@ -244,28 +249,28 @@
       "lastTitle": "이터널 리턴)에이든 이거 재밌구만",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
+          "totalMinutes": 15.0,
+          "gameMinutes": 15.0,
+          "totalHours": 0.25,
+          "gameHours": 0.25,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1468.2,
-          "gameMinutes": 1468.2,
-          "totalHours": 24.47,
-          "gameHours": 24.47,
+          "totalMinutes": 1483.1,
+          "gameMinutes": 1483.1,
+          "totalHours": 24.72,
+          "gameHours": 24.72,
           "sessions": 5,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 2629.9,
-          "gameMinutes": 2629.9,
-          "totalHours": 43.83,
-          "gameHours": 43.83,
+          "totalMinutes": 2644.8,
+          "gameMinutes": 2644.8,
+          "totalHours": 44.08,
+          "gameHours": 44.08,
           "sessions": 9,
           "avgViewers": null,
           "peakViewers": null
@@ -427,28 +432,28 @@
       "lastTitle": "이터널리턴 뉴비 치지직오셔서 드롭스받아가세요",
       "buckets": {
         "today": {
-          "totalMinutes": 193.9,
-          "gameMinutes": 193.9,
-          "totalHours": 3.23,
-          "gameHours": 3.23,
+          "totalMinutes": 208.8,
+          "gameMinutes": 208.8,
+          "totalHours": 3.48,
+          "gameHours": 3.48,
           "sessions": 2,
           "avgViewers": 3.3,
           "peakViewers": 6
         },
         "week": {
-          "totalMinutes": 894.7,
-          "gameMinutes": 894.7,
-          "totalHours": 14.91,
-          "gameHours": 14.91,
+          "totalMinutes": 909.7,
+          "gameMinutes": 909.7,
+          "totalHours": 15.16,
+          "gameHours": 15.16,
           "sessions": 6,
           "avgViewers": 3.6,
           "peakViewers": 10
         },
         "month": {
-          "totalMinutes": 2184.9,
-          "gameMinutes": 2184.9,
-          "totalHours": 36.42,
-          "gameHours": 36.42,
+          "totalMinutes": 2199.9,
+          "gameMinutes": 2199.9,
+          "totalHours": 36.66,
+          "gameHours": 36.66,
           "sessions": 10,
           "avgViewers": 3.5,
           "peakViewers": 10
@@ -715,13 +720,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 2,
-      "livePeakViewers": 2,
-      "liveAvgViewers": 2.0,
+      "liveViewers": 4,
+      "livePeakViewers": 4,
+      "liveAvgViewers": 3.0,
       "liveSamples": [
         [
           "2026-09-19T03:16:27Z",
           2
+        ],
+        [
+          "2026-09-19T03:31:24Z",
+          4
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=JUdX9aXGua0"
@@ -738,28 +747,28 @@
       "lastTitle": "서킷3 2일차, 승자조 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
       "buckets": {
         "today": {
-          "totalMinutes": 106.0,
-          "gameMinutes": 106.0,
-          "totalHours": 1.77,
-          "gameHours": 1.77,
+          "totalMinutes": 120.9,
+          "gameMinutes": 120.9,
+          "totalHours": 2.02,
+          "gameHours": 2.02,
           "sessions": 1,
-          "avgViewers": 10.9,
+          "avgViewers": 11.1,
           "peakViewers": 17
         },
         "week": {
-          "totalMinutes": 106.0,
-          "gameMinutes": 106.0,
-          "totalHours": 1.77,
-          "gameHours": 1.77,
+          "totalMinutes": 120.9,
+          "gameMinutes": 120.9,
+          "totalHours": 2.02,
+          "gameHours": 2.02,
           "sessions": 1,
-          "avgViewers": 10.9,
+          "avgViewers": 11.1,
           "peakViewers": 17
         },
         "month": {
-          "totalMinutes": 906.7,
-          "gameMinutes": 906.7,
-          "totalHours": 15.11,
-          "gameHours": 15.11,
+          "totalMinutes": 921.7,
+          "gameMinutes": 921.7,
+          "totalHours": 15.36,
+          "gameHours": 15.36,
           "sessions": 4,
           "avgViewers": 14.7,
           "peakViewers": 29
@@ -1005,9 +1014,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 17,
+      "liveViewers": 13,
       "livePeakViewers": 17,
-      "liveAvgViewers": 10.9,
+      "liveAvgViewers": 11.1,
       "liveSamples": [
         [
           "2026-09-19T01:30:28Z",
@@ -1040,6 +1049,10 @@
         [
           "2026-09-19T03:16:27Z",
           17
+        ],
+        [
+          "2026-09-19T03:31:24Z",
+          13
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=rs71o-TcmUg"
@@ -1056,30 +1069,30 @@
       "lastTitle": "【Machine Party】ぶいすぽフレッシュ＆大御所メンバーとましんぱ❓【 ぶいすぽっ！ / 千燈ゆうひ 】",
       "buckets": {
         "today": {
-          "totalMinutes": 89.0,
+          "totalMinutes": 104.0,
           "gameMinutes": 0.0,
-          "totalHours": 1.48,
+          "totalHours": 1.73,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 105.4,
+          "avgViewers": 94.1,
           "peakViewers": 902
         },
         "week": {
-          "totalMinutes": 535.6,
+          "totalMinutes": 550.5,
           "gameMinutes": 191.3,
-          "totalHours": 8.93,
+          "totalHours": 9.18,
           "gameHours": 3.19,
           "sessions": 5,
-          "avgViewers": 70.9,
+          "avgViewers": 69.3,
           "peakViewers": 902
         },
         "month": {
-          "totalMinutes": 751.4,
+          "totalMinutes": 766.3,
           "gameMinutes": 240.8,
-          "totalHours": 12.52,
+          "totalHours": 12.77,
           "gameHours": 4.01,
           "sessions": 8,
-          "avgViewers": 52.8,
+          "avgViewers": 52.2,
           "peakViewers": 902
         }
       },
@@ -1244,7 +1257,7 @@
       ],
       "liveViewers": 16,
       "livePeakViewers": 902,
-      "liveAvgViewers": 105.4,
+      "liveAvgViewers": 94.1,
       "liveSamples": [
         [
           "2026-09-19T01:47:27Z",
@@ -1273,6 +1286,10 @@
         [
           "2026-09-19T03:16:27Z",
           16
+        ],
+        [
+          "2026-09-19T03:31:24Z",
+          16
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=CNAmPNR6L4I"
@@ -1289,37 +1306,37 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
-          "avgViewers": 14.4,
+          "avgViewers": 15.5,
           "peakViewers": 25
         },
         "week": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
-          "avgViewers": 14.4,
+          "avgViewers": 15.5,
           "peakViewers": 25
         },
         "month": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
-          "avgViewers": 14.4,
+          "avgViewers": 15.5,
           "peakViewers": 25
         }
       },
       "recentSessions": [],
-      "liveViewers": 25,
+      "liveViewers": 23,
       "livePeakViewers": 25,
-      "liveAvgViewers": 14.4,
+      "liveAvgViewers": 15.5,
       "liveSamples": [
         [
           "2026-09-19T01:47:27Z",
@@ -1348,6 +1365,10 @@
         [
           "2026-09-19T03:16:27Z",
           25
+        ],
+        [
+          "2026-09-19T03:31:24Z",
+          23
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=S7kvmRkLIlU"
@@ -1364,28 +1385,28 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
@@ -1410,28 +1431,28 @@
       "lastTitle": null,
       "buckets": {
         "today": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 89.0,
-          "gameMinutes": 89.0,
-          "totalHours": 1.48,
-          "gameHours": 1.48,
+          "totalMinutes": 104.0,
+          "gameMinutes": 104.0,
+          "totalHours": 1.73,
+          "gameHours": 1.73,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
