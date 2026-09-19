@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:12:18Z",
+  "updatedAt": "2026-09-19T22:29:15Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3583.3,
+      "totalMinutes": 3600.3,
       "gameMinutes": 622.5,
-      "totalHours": 59.72,
+      "totalHours": 60.0,
       "gameHours": 10.37,
       "sessions": 38,
-      "avgViewers": 76.7,
+      "avgViewers": 79.6,
       "peakViewers": 979
     },
     "week": {
-      "totalMinutes": 60347.5,
+      "totalMinutes": 60364.5,
       "gameMinutes": 27947.2,
-      "totalHours": 1005.79,
+      "totalHours": 1006.07,
       "gameHours": 465.79,
       "sessions": 350,
-      "avgViewers": 73.3,
+      "avgViewers": 73.5,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 82512.7,
+      "totalMinutes": 82529.6,
       "gameMinutes": 37448.3,
-      "totalHours": 1375.21,
+      "totalHours": 1375.49,
       "gameHours": 624.14,
       "sessions": 474,
-      "avgViewers": 81.2,
+      "avgViewers": 81.3,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【#天下無双ARK】ゆるっと恐竜の世界にご挨拶🦖！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 175.5,
+          "totalMinutes": 192.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.93,
+          "totalHours": 3.21,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 248.8,
+          "avgViewers": 287.2,
           "peakViewers": 960
         },
         "week": {
-          "totalMinutes": 1675.1,
+          "totalMinutes": 1692.1,
           "gameMinutes": 544.2,
-          "totalHours": 27.92,
+          "totalHours": 28.2,
           "gameHours": 9.07,
           "sessions": 13,
-          "avgViewers": 316.0,
+          "avgViewers": 319.7,
           "peakViewers": 960
         },
         "month": {
-          "totalMinutes": 2183.5,
+          "totalMinutes": 2200.4,
           "gameMinutes": 698.2,
-          "totalHours": 36.39,
+          "totalHours": 36.67,
           "gameHours": 11.64,
           "sessions": 18,
-          "avgViewers": 335.8,
+          "avgViewers": 338.5,
           "peakViewers": 994
         }
       },
@@ -320,9 +320,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 640,
-      "livePeakViewers": 640,
-      "liveAvgViewers": 461.7,
+      "liveViewers": 760,
+      "livePeakViewers": 760,
+      "liveAvgViewers": 540.1,
       "liveSamples": [
         [
           "2026-09-19T21:41:07Z",
@@ -335,6 +335,10 @@
         [
           "2026-09-19T22:12:18Z",
           640
+        ],
+        [
+          "2026-09-19T22:29:15Z",
+          760
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=TEj5iW_VHAA"
