@@ -2,73 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCcFkDV3IwGz-bUuLZFUu2fg": {
-      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-      "name": "몰라",
-      "videoId": "bomew_0tLKI",
-      "start": "2026-09-19T17:12:16Z",
-      "startSource": "observed",
-      "title": "tictactalk dev",
-      "game": null,
-      "peakViewers": 4,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-19T17:12:16Z",
-      "lastSeenAt": "2026-09-19T20:10:40Z",
-      "samples": [
-        [
-          "2026-09-19T17:12:16Z",
-          3
-        ],
-        [
-          "2026-09-19T17:27:50Z",
-          3
-        ],
-        [
-          "2026-09-19T17:39:54Z",
-          3
-        ],
-        [
-          "2026-09-19T17:50:42Z",
-          4
-        ],
-        [
-          "2026-09-19T18:12:28Z",
-          2
-        ],
-        [
-          "2026-09-19T18:31:46Z",
-          2
-        ],
-        [
-          "2026-09-19T18:47:54Z",
-          1
-        ],
-        [
-          "2026-09-19T18:58:23Z",
-          2
-        ],
-        [
-          "2026-09-19T19:13:53Z",
-          2
-        ],
-        [
-          "2026-09-19T19:27:48Z",
-          2
-        ],
-        [
-          "2026-09-19T19:39:26Z",
-          2
-        ],
-        [
-          "2026-09-19T19:50:48Z",
-          2
-        ],
-        [
-          "2026-09-19T20:10:40Z",
-          2
-        ]
-      ]
-    },
     "UCCp0zFDfEZ2QePwO2LxXjQA": {
       "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
       "name": "시엘스카이",
@@ -80,7 +13,7 @@
       "peakViewers": 3,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-19T18:31:46Z",
-      "lastSeenAt": "2026-09-19T20:10:40Z",
+      "lastSeenAt": "2026-09-19T20:29:57Z",
       "samples": [
         [
           "2026-09-19T18:31:46Z",
@@ -24459,6 +24392,76 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "videoId": "bomew_0tLKI",
+      "videoUrl": "https://www.youtube.com/watch?v=bomew_0tLKI",
+      "start": "2026-09-19T17:12:16Z",
+      "end": "2026-09-19T20:29:57Z",
+      "minutes": 197.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "tictactalk dev",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 2.4,
+      "samples": [
+        [
+          "2026-09-19T17:12:16Z",
+          3
+        ],
+        [
+          "2026-09-19T17:27:50Z",
+          3
+        ],
+        [
+          "2026-09-19T17:39:54Z",
+          3
+        ],
+        [
+          "2026-09-19T17:50:42Z",
+          4
+        ],
+        [
+          "2026-09-19T18:12:28Z",
+          2
+        ],
+        [
+          "2026-09-19T18:31:46Z",
+          2
+        ],
+        [
+          "2026-09-19T18:47:54Z",
+          1
+        ],
+        [
+          "2026-09-19T18:58:23Z",
+          2
+        ],
+        [
+          "2026-09-19T19:13:53Z",
+          2
+        ],
+        [
+          "2026-09-19T19:27:48Z",
+          2
+        ],
+        [
+          "2026-09-19T19:39:26Z",
+          2
+        ],
+        [
+          "2026-09-19T19:50:48Z",
+          2
+        ],
+        [
+          "2026-09-19T20:10:40Z",
+          2
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }

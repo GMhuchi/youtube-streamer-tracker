@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:10:40Z",
+  "updatedAt": "2026-09-19T20:29:57Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,497 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3427.5,
+      "totalMinutes": 3466.0,
       "gameMinutes": 622.5,
-      "totalHours": 57.12,
+      "totalHours": 57.77,
       "gameHours": 10.37,
       "sessions": 37,
-      "avgViewers": 75.9,
+      "avgViewers": 75.1,
       "peakViewers": 979
     },
     "week": {
-      "totalMinutes": 60191.7,
+      "totalMinutes": 60230.2,
       "gameMinutes": 27947.2,
-      "totalHours": 1003.19,
+      "totalHours": 1003.84,
       "gameHours": 465.79,
       "sessions": 349,
-      "avgViewers": 73.2,
+      "avgViewers": 73.1,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 82356.8,
+      "totalMinutes": 82395.3,
       "gameMinutes": 37448.3,
-      "totalHours": 1372.61,
+      "totalHours": 1373.26,
       "gameHours": 624.14,
       "sessions": 473,
-      "avgViewers": 81.2,
+      "avgViewers": 81.1,
       "peakViewers": 994
     }
   },
   "channels": [
-    {
-      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-      "name": "몰라",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCcFkDV3IwGz-bUuLZFUu2fg",
-      "isLive": true,
-      "liveSince": "2026-09-19T17:12:16Z",
-      "liveTitle": "tictactalk dev",
-      "lastEnd": "2026-09-19T16:56:41Z",
-      "lastTitle": "tictactalk dev",
-      "buckets": {
-        "today": {
-          "totalMinutes": 295.1,
-          "gameMinutes": 0.0,
-          "totalHours": 4.92,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 2.2,
-          "peakViewers": 4
-        },
-        "week": {
-          "totalMinutes": 2381.4,
-          "gameMinutes": 1612.1,
-          "totalHours": 39.69,
-          "gameHours": 26.87,
-          "sessions": 9,
-          "avgViewers": 1.6,
-          "peakViewers": 4
-        },
-        "month": {
-          "totalMinutes": 2381.4,
-          "gameMinutes": 1612.1,
-          "totalHours": 39.69,
-          "gameHours": 26.87,
-          "sessions": 9,
-          "avgViewers": 1.6,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "bomew_0tLKI",
-          "videoUrl": "https://www.youtube.com/watch?v=bomew_0tLKI",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 246.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "tictactalk dev",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 1.9,
-          "samples": [
-            [
-              "2026-09-19T12:49:54Z",
-              1
-            ],
-            [
-              "2026-09-19T13:21:07Z",
-              2
-            ],
-            [
-              "2026-09-19T13:37:54Z",
-              1
-            ],
-            [
-              "2026-09-19T13:48:47Z",
-              1
-            ],
-            [
-              "2026-09-19T13:59:22Z",
-              2
-            ],
-            [
-              "2026-09-19T14:16:46Z",
-              1
-            ],
-            [
-              "2026-09-19T14:30:52Z",
-              1
-            ],
-            [
-              "2026-09-19T14:46:21Z",
-              1
-            ],
-            [
-              "2026-09-19T14:56:53Z",
-              1
-            ],
-            [
-              "2026-09-19T15:13:18Z",
-              2
-            ],
-            [
-              "2026-09-19T15:29:16Z",
-              2
-            ],
-            [
-              "2026-09-19T15:41:50Z",
-              3
-            ],
-            [
-              "2026-09-19T15:55:46Z",
-              3
-            ],
-            [
-              "2026-09-19T16:12:11Z",
-              3
-            ],
-            [
-              "2026-09-19T16:30:14Z",
-              3
-            ],
-            [
-              "2026-09-19T16:46:13Z",
-              3
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "7vQ08yKCWKQ",
-          "videoUrl": "https://www.youtube.com/watch?v=7vQ08yKCWKQ",
-          "start": "2026-09-18T14:59:23Z",
-          "end": "2026-09-18T20:43:29Z",
-          "minutes": 344.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "tictactalk dev",
-          "game": null,
-          "peakViewers": 2,
-          "avgViewers": 1.5,
-          "samples": [
-            [
-              "2026-09-18T16:57:42Z",
-              1
-            ],
-            [
-              "2026-09-18T17:14:37Z",
-              1
-            ],
-            [
-              "2026-09-18T17:28:31Z",
-              2
-            ],
-            [
-              "2026-09-18T17:55:44Z",
-              1
-            ],
-            [
-              "2026-09-18T18:13:51Z",
-              1
-            ],
-            [
-              "2026-09-18T18:32:54Z",
-              1
-            ],
-            [
-              "2026-09-18T18:47:56Z",
-              1
-            ],
-            [
-              "2026-09-18T18:58:47Z",
-              2
-            ],
-            [
-              "2026-09-18T19:16:28Z",
-              2
-            ],
-            [
-              "2026-09-18T19:29:36Z",
-              1
-            ],
-            [
-              "2026-09-18T19:40:52Z",
-              1
-            ],
-            [
-              "2026-09-18T19:55:42Z",
-              2
-            ],
-            [
-              "2026-09-18T20:12:01Z",
-              2
-            ],
-            [
-              "2026-09-18T20:29:56Z",
-              2
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "rczLviyAJSs",
-          "videoUrl": "https://www.youtube.com/watch?v=rczLviyAJSs",
-          "start": "2026-09-17T13:20:22Z",
-          "end": "2026-09-17T20:31:15Z",
-          "minutes": 430.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 1.4,
-          "samples": [
-            [
-              "2026-09-17T13:20:22Z",
-              2
-            ],
-            [
-              "2026-09-17T13:41:14Z",
-              1
-            ],
-            [
-              "2026-09-17T13:57:59Z",
-              1
-            ],
-            [
-              "2026-09-17T14:17:23Z",
-              1
-            ],
-            [
-              "2026-09-17T14:33:40Z",
-              1
-            ],
-            [
-              "2026-09-17T14:49:41Z",
-              1
-            ],
-            [
-              "2026-09-17T15:01:09Z",
-              1
-            ],
-            [
-              "2026-09-17T15:22:52Z",
-              1
-            ],
-            [
-              "2026-09-17T15:40:38Z",
-              1
-            ],
-            [
-              "2026-09-17T15:56:58Z",
-              1
-            ],
-            [
-              "2026-09-17T16:16:29Z",
-              4
-            ],
-            [
-              "2026-09-17T16:32:50Z",
-              2
-            ],
-            [
-              "2026-09-17T16:49:20Z",
-              2
-            ],
-            [
-              "2026-09-17T16:59:44Z",
-              2
-            ],
-            [
-              "2026-09-17T17:16:21Z",
-              1
-            ],
-            [
-              "2026-09-17T17:30:14Z",
-              1
-            ],
-            [
-              "2026-09-17T17:48:26Z",
-              1
-            ],
-            [
-              "2026-09-17T17:59:32Z",
-              1
-            ],
-            [
-              "2026-09-17T18:21:50Z",
-              2
-            ],
-            [
-              "2026-09-17T18:43:12Z",
-              1
-            ],
-            [
-              "2026-09-17T18:58:28Z",
-              1
-            ],
-            [
-              "2026-09-17T19:15:36Z",
-              1
-            ],
-            [
-              "2026-09-17T19:29:30Z",
-              1
-            ],
-            [
-              "2026-09-17T19:42:58Z",
-              2
-            ],
-            [
-              "2026-09-17T19:56:15Z",
-              2
-            ],
-            [
-              "2026-09-17T20:14:07Z",
-              2
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "JIi6Hnsxd04",
-          "videoUrl": "https://www.youtube.com/watch?v=JIi6Hnsxd04",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T19:55:36Z",
-          "minutes": 413.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 1.4,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "JIi6Hnsxd04",
-          "videoUrl": "https://www.youtube.com/watch?v=JIi6Hnsxd04",
-          "start": "2026-09-16T11:49:36Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 60.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 2,
-          "avgViewers": 2.0,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "S7FczCXp9KA",
-          "videoUrl": "https://www.youtube.com/watch?v=S7FczCXp9KA",
-          "start": "2026-09-15T12:37:32Z",
-          "end": "2026-09-15T20:13:56Z",
-          "minutes": 456.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 1.8,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "jQN2Ecv7iTg",
-          "videoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg",
-          "start": "2026-09-14T18:59:38Z",
-          "end": "2026-09-14T19:19:02Z",
-          "minutes": 19.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
-          "name": "몰라",
-          "videoId": "jQN2Ecv7iTg",
-          "videoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg",
-          "start": "2026-09-14T14:52:53Z",
-          "end": "2026-09-14T18:44:52Z",
-          "minutes": 232.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 1.5,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 2,
-      "livePeakViewers": 4,
-      "liveAvgViewers": 2.4,
-      "liveSamples": [
-        [
-          "2026-09-19T17:12:16Z",
-          3
-        ],
-        [
-          "2026-09-19T17:27:50Z",
-          3
-        ],
-        [
-          "2026-09-19T17:39:54Z",
-          3
-        ],
-        [
-          "2026-09-19T17:50:42Z",
-          4
-        ],
-        [
-          "2026-09-19T18:12:28Z",
-          2
-        ],
-        [
-          "2026-09-19T18:31:46Z",
-          2
-        ],
-        [
-          "2026-09-19T18:47:54Z",
-          1
-        ],
-        [
-          "2026-09-19T18:58:23Z",
-          2
-        ],
-        [
-          "2026-09-19T19:13:53Z",
-          2
-        ],
-        [
-          "2026-09-19T19:27:48Z",
-          2
-        ],
-        [
-          "2026-09-19T19:39:26Z",
-          2
-        ],
-        [
-          "2026-09-19T19:50:48Z",
-          2
-        ],
-        [
-          "2026-09-19T20:10:40Z",
-          2
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=bomew_0tLKI"
-    },
     {
       "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
       "name": "시엘스카이",
@@ -519,27 +56,27 @@
       "lastTitle": "이터널리턴 -흡혈귀 공주님인것이다!",
       "buckets": {
         "today": {
-          "totalMinutes": 98.9,
+          "totalMinutes": 118.2,
           "gameMinutes": 0.0,
-          "totalHours": 1.65,
+          "totalHours": 1.97,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 2.6,
           "peakViewers": 3
         },
         "week": {
-          "totalMinutes": 748.8,
+          "totalMinutes": 768.1,
           "gameMinutes": 649.9,
-          "totalHours": 12.48,
+          "totalHours": 12.8,
           "gameHours": 10.83,
           "sessions": 4,
           "avgViewers": 2.9,
           "peakViewers": 7
         },
         "month": {
-          "totalMinutes": 748.8,
+          "totalMinutes": 768.1,
           "gameMinutes": 649.9,
-          "totalHours": 12.48,
+          "totalHours": 12.8,
           "gameHours": 10.83,
           "sessions": 4,
           "avgViewers": 2.9,
@@ -4027,6 +3564,359 @@
           "game": null,
           "peakViewers": 7,
           "avgViewers": 3.5,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCcFkDV3IwGz-bUuLZFUu2fg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-19T20:29:57Z",
+      "lastTitle": "tictactalk dev",
+      "buckets": {
+        "today": {
+          "totalMinutes": 314.4,
+          "gameMinutes": 0.0,
+          "totalHours": 5.24,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 2.2,
+          "peakViewers": 4
+        },
+        "week": {
+          "totalMinutes": 2400.6,
+          "gameMinutes": 1612.1,
+          "totalHours": 40.01,
+          "gameHours": 26.87,
+          "sessions": 9,
+          "avgViewers": 1.6,
+          "peakViewers": 4
+        },
+        "month": {
+          "totalMinutes": 2400.6,
+          "gameMinutes": 1612.1,
+          "totalHours": 40.01,
+          "gameHours": 26.87,
+          "sessions": 9,
+          "avgViewers": 1.6,
+          "peakViewers": 4
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "bomew_0tLKI",
+          "videoUrl": "https://www.youtube.com/watch?v=bomew_0tLKI",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T20:29:57Z",
+          "minutes": 197.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "tictactalk dev",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 2.4,
+          "samples": [
+            [
+              "2026-09-19T17:12:16Z",
+              3
+            ],
+            [
+              "2026-09-19T17:27:50Z",
+              3
+            ],
+            [
+              "2026-09-19T17:39:54Z",
+              3
+            ],
+            [
+              "2026-09-19T17:50:42Z",
+              4
+            ],
+            [
+              "2026-09-19T18:12:28Z",
+              2
+            ],
+            [
+              "2026-09-19T18:31:46Z",
+              2
+            ],
+            [
+              "2026-09-19T18:47:54Z",
+              1
+            ],
+            [
+              "2026-09-19T18:58:23Z",
+              2
+            ],
+            [
+              "2026-09-19T19:13:53Z",
+              2
+            ],
+            [
+              "2026-09-19T19:27:48Z",
+              2
+            ],
+            [
+              "2026-09-19T19:39:26Z",
+              2
+            ],
+            [
+              "2026-09-19T19:50:48Z",
+              2
+            ],
+            [
+              "2026-09-19T20:10:40Z",
+              2
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "bomew_0tLKI",
+          "videoUrl": "https://www.youtube.com/watch?v=bomew_0tLKI",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 246.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "tictactalk dev",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.9,
+          "samples": [
+            [
+              "2026-09-19T12:49:54Z",
+              1
+            ],
+            [
+              "2026-09-19T13:21:07Z",
+              2
+            ],
+            [
+              "2026-09-19T13:37:54Z",
+              1
+            ],
+            [
+              "2026-09-19T13:48:47Z",
+              1
+            ],
+            [
+              "2026-09-19T13:59:22Z",
+              2
+            ],
+            [
+              "2026-09-19T14:16:46Z",
+              1
+            ],
+            [
+              "2026-09-19T14:30:52Z",
+              1
+            ],
+            [
+              "2026-09-19T14:46:21Z",
+              1
+            ],
+            [
+              "2026-09-19T14:56:53Z",
+              1
+            ],
+            [
+              "2026-09-19T15:13:18Z",
+              2
+            ],
+            [
+              "2026-09-19T15:29:16Z",
+              2
+            ],
+            [
+              "2026-09-19T15:41:50Z",
+              3
+            ],
+            [
+              "2026-09-19T15:55:46Z",
+              3
+            ],
+            [
+              "2026-09-19T16:12:11Z",
+              3
+            ],
+            [
+              "2026-09-19T16:30:14Z",
+              3
+            ],
+            [
+              "2026-09-19T16:46:13Z",
+              3
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "7vQ08yKCWKQ",
+          "videoUrl": "https://www.youtube.com/watch?v=7vQ08yKCWKQ",
+          "start": "2026-09-18T14:59:23Z",
+          "end": "2026-09-18T20:43:29Z",
+          "minutes": 344.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "tictactalk dev",
+          "game": null,
+          "peakViewers": 2,
+          "avgViewers": 1.5,
+          "samples": [
+            [
+              "2026-09-18T16:57:42Z",
+              1
+            ],
+            [
+              "2026-09-18T17:14:37Z",
+              1
+            ],
+            [
+              "2026-09-18T17:28:31Z",
+              2
+            ],
+            [
+              "2026-09-18T17:55:44Z",
+              1
+            ],
+            [
+              "2026-09-18T18:13:51Z",
+              1
+            ],
+            [
+              "2026-09-18T18:32:54Z",
+              1
+            ],
+            [
+              "2026-09-18T18:47:56Z",
+              1
+            ],
+            [
+              "2026-09-18T18:58:47Z",
+              2
+            ],
+            [
+              "2026-09-18T19:16:28Z",
+              2
+            ],
+            [
+              "2026-09-18T19:29:36Z",
+              1
+            ],
+            [
+              "2026-09-18T19:40:52Z",
+              1
+            ],
+            [
+              "2026-09-18T19:55:42Z",
+              2
+            ],
+            [
+              "2026-09-18T20:12:01Z",
+              2
+            ],
+            [
+              "2026-09-18T20:29:56Z",
+              2
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "rczLviyAJSs",
+          "videoUrl": "https://www.youtube.com/watch?v=rczLviyAJSs",
+          "start": "2026-09-17T13:20:22Z",
+          "end": "2026-09-17T20:31:15Z",
+          "minutes": 430.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 1.4,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "JIi6Hnsxd04",
+          "videoUrl": "https://www.youtube.com/watch?v=JIi6Hnsxd04",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T19:55:36Z",
+          "minutes": 413.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.4,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "JIi6Hnsxd04",
+          "videoUrl": "https://www.youtube.com/watch?v=JIi6Hnsxd04",
+          "start": "2026-09-16T11:49:36Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 60.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 2,
+          "avgViewers": 2.0,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "S7FczCXp9KA",
+          "videoUrl": "https://www.youtube.com/watch?v=S7FczCXp9KA",
+          "start": "2026-09-15T12:37:32Z",
+          "end": "2026-09-15T20:13:56Z",
+          "minutes": 456.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 1.8,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+          "name": "몰라",
+          "videoId": "jQN2Ecv7iTg",
+          "videoUrl": "https://www.youtube.com/watch?v=jQN2Ecv7iTg",
+          "start": "2026-09-14T18:59:38Z",
+          "end": "2026-09-14T19:19:02Z",
+          "minutes": 19.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴은 맥게이밍의 발전을 두려워합니까?",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
           "samples": [],
           "isTargetGame": true
         }
@@ -13701,6 +13591,22 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UCcFkDV3IwGz-bUuLZFUu2fg",
+      "name": "몰라",
+      "videoId": "bomew_0tLKI",
+      "videoUrl": "https://www.youtube.com/watch?v=bomew_0tLKI",
+      "start": "2026-09-19T17:12:16Z",
+      "end": "2026-09-19T20:29:57Z",
+      "minutes": 197.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "tictactalk dev",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 2.4,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
       "videoId": "aywYhwc3KEA",
@@ -14466,22 +14372,6 @@
       "game": null,
       "peakViewers": 985,
       "avgViewers": 578.1,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "g5KtlU1DiXQ",
-      "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-      "start": "2026-09-19T09:43:06Z",
-      "end": "2026-09-19T12:34:56Z",
-      "minutes": 171.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-      "game": null,
-      "peakViewers": 166,
-      "avgViewers": 100.6,
       "isTargetGame": false
     }
   ]
