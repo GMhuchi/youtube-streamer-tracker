@@ -2,25 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCtNOhAK9t4xBgXQKT9wYFfw": {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "videoId": "_FhqsMnMfog",
-      "start": "2026-09-18T22:56:00Z",
-      "startSource": "observed",
-      "title": "얼티밋 헤일리 후딱 해금하고 후딱 써보고 성능 체감 함 가즈아아!!",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-18T22:56:00Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
-      "samples": [
-        [
-          "2026-09-19T03:31:24Z",
-          1
-        ]
-      ]
-    },
     "UCB6AgLlZxso1HzFNIzVHmZw": {
       "channelId": "UCB6AgLlZxso1HzFNIzVHmZw",
       "name": "대한민국 이스포츠 리그 - KEL",
@@ -32,7 +13,7 @@
       "peakViewers": 22,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T01:30:28Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T01:30:28Z",
@@ -105,6 +86,10 @@
         [
           "2026-09-19T05:42:17Z",
           22
+        ],
+        [
+          "2026-09-19T05:55:40Z",
+          10
         ]
       ]
     },
@@ -119,7 +104,7 @@
       "peakViewers": 902,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-19T01:47:27Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T01:47:27Z",
@@ -188,6 +173,10 @@
         [
           "2026-09-19T05:42:17Z",
           19
+        ],
+        [
+          "2026-09-19T05:55:40Z",
+          18
         ]
       ]
     },
@@ -202,7 +191,7 @@
       "peakViewers": 2,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T01:47:27Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T04:15:53Z",
@@ -233,7 +222,7 @@
       "peakViewers": 32,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T01:47:27Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T01:47:27Z",
@@ -302,6 +291,10 @@
         [
           "2026-09-19T05:42:17Z",
           32
+        ],
+        [
+          "2026-09-19T05:55:40Z",
+          28
         ]
       ]
     },
@@ -316,7 +309,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T01:47:27Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": []
     },
     "UC_c3HArzuJYD-gdZ7tAroBw": {
@@ -330,7 +323,7 @@
       "peakViewers": 10,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T03:16:27Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T03:16:27Z",
@@ -375,6 +368,10 @@
         [
           "2026-09-19T05:42:17Z",
           7
+        ],
+        [
+          "2026-09-19T05:55:40Z",
+          7
         ]
       ]
     },
@@ -389,7 +386,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T03:16:27Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": []
     },
     "UCo3zRhsnXIieauvm6c-xwkA": {
@@ -403,7 +400,7 @@
       "peakViewers": 69,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-19T04:15:53Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T04:15:53Z",
@@ -432,6 +429,10 @@
         [
           "2026-09-19T05:42:17Z",
           64
+        ],
+        [
+          "2026-09-19T05:55:40Z",
+          68
         ]
       ]
     },
@@ -446,7 +447,7 @@
       "peakViewers": 1,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T04:47:08Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T05:14:30Z",
@@ -473,7 +474,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T04:57:35Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T04:57:35Z",
@@ -490,6 +491,10 @@
         [
           "2026-09-19T05:42:17Z",
           3
+        ],
+        [
+          "2026-09-19T05:55:40Z",
+          3
         ]
       ]
     },
@@ -504,7 +509,7 @@
       "peakViewers": 5,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T05:14:30Z",
-      "lastSeenAt": "2026-09-19T05:42:17Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
       "samples": [
         [
           "2026-09-19T05:29:06Z",
@@ -513,6 +518,29 @@
         [
           "2026-09-19T05:42:17Z",
           5
+        ],
+        [
+          "2026-09-19T05:55:40Z",
+          3
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "nlsGN421BNo",
+      "start": "2026-09-19T05:55:40Z",
+      "startSource": "observed",
+      "title": "寝起き雑談（寝坊してごめんなさい）",
+      "game": null,
+      "peakViewers": 46,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-19T05:55:40Z",
+      "lastSeenAt": "2026-09-19T05:55:40Z",
+      "samples": [
+        [
+          "2026-09-19T05:55:40Z",
+          46
         ]
       ]
     }
@@ -20253,6 +20281,28 @@
       "samples": [
         [
           "2026-09-18T18:58:47Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "videoId": "_FhqsMnMfog",
+      "videoUrl": "https://www.youtube.com/watch?v=_FhqsMnMfog",
+      "start": "2026-09-18T22:50:26Z",
+      "end": "2026-09-19T05:45:19Z",
+      "minutes": 414.9,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "얼티밋 헤일리 후딱 해금하고 후딱 써보고 성능 체감 함 가즈아아!!",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-19T03:31:24Z",
           1
         ]
       ],
