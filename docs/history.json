@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T00:17:21Z",
+  "updatedAt": "2026-09-20T00:39:31Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3730.1,
-      "gameMinutes": 644.2,
-      "totalHours": 62.17,
-      "gameHours": 10.74,
+      "totalMinutes": 3752.3,
+      "gameMinutes": 666.4,
+      "totalHours": 62.54,
+      "gameHours": 11.11,
       "sessions": 39,
-      "avgViewers": 97.6,
+      "avgViewers": 97.0,
       "peakViewers": 979
     },
     "week": {
-      "totalMinutes": 60494.3,
-      "gameMinutes": 27969.0,
-      "totalHours": 1008.24,
-      "gameHours": 466.15,
+      "totalMinutes": 60516.5,
+      "gameMinutes": 27991.2,
+      "totalHours": 1008.61,
+      "gameHours": 466.52,
       "sessions": 351,
       "avgViewers": 74.7,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 82659.5,
-      "gameMinutes": 37470.1,
-      "totalHours": 1377.66,
-      "gameHours": 624.5,
+      "totalMinutes": 82681.6,
+      "gameMinutes": 37492.2,
+      "totalHours": 1378.03,
+      "gameHours": 624.87,
       "sessions": 475,
-      "avgViewers": 82.3,
+      "avgViewers": 82.2,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "이터널리턴 뉴비 랭크전 플레4",
       "buckets": {
         "today": {
-          "totalMinutes": 21.8,
-          "gameMinutes": 21.8,
-          "totalHours": 0.36,
-          "gameHours": 0.36,
+          "totalMinutes": 43.9,
+          "gameMinutes": 43.9,
+          "totalHours": 0.73,
+          "gameHours": 0.73,
           "sessions": 1,
-          "avgViewers": 3.0,
+          "avgViewers": 2.3,
           "peakViewers": 3
         },
         "week": {
-          "totalMinutes": 1200.4,
-          "gameMinutes": 1200.4,
-          "totalHours": 20.01,
-          "gameHours": 20.01,
+          "totalMinutes": 1222.6,
+          "gameMinutes": 1222.6,
+          "totalHours": 20.38,
+          "gameHours": 20.38,
           "sessions": 7,
-          "avgViewers": 4.0,
+          "avgViewers": 3.9,
           "peakViewers": 10
         },
         "month": {
-          "totalMinutes": 2490.6,
-          "gameMinutes": 2490.6,
-          "totalHours": 41.51,
-          "gameHours": 41.51,
+          "totalMinutes": 2512.8,
+          "gameMinutes": 2512.8,
+          "totalHours": 41.88,
+          "gameHours": 41.88,
           "sessions": 11,
-          "avgViewers": 3.7,
+          "avgViewers": 3.6,
           "peakViewers": 10
         }
       },
@@ -376,9 +376,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 3,
+      "liveViewers": 1,
       "livePeakViewers": 3,
-      "liveAvgViewers": 3.0,
+      "liveAvgViewers": 2.3,
       "liveSamples": [
         [
           "2026-09-19T23:55:35Z",
@@ -387,6 +387,10 @@
         [
           "2026-09-20T00:17:21Z",
           3
+        ],
+        [
+          "2026-09-20T00:39:31Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=eoAFw51eaAw"
