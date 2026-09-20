@@ -1,7 +1,46 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "0cCf7yRDP6A",
+      "start": "2026-09-20T19:13:43Z",
+      "startSource": "observed",
+      "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 137,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-20T19:13:43Z",
+      "lastSeenAt": "2026-09-20T19:13:43Z",
+      "samples": [
+        [
+          "2026-09-20T19:13:43Z",
+          137
+        ]
+      ]
+    },
+    "UCUSAoYADTE73SAXIeuI-4bw": {
+      "channelId": "UCUSAoYADTE73SAXIeuI-4bw",
+      "name": "きくちのようつべ",
+      "videoId": "zRCiKgPvQ7w",
+      "start": "2026-09-20T19:13:43Z",
+      "startSource": "observed",
+      "title": "【#EternalReturn】参加◎　TGSいった人の戦利品を聞きたい！きくちは友達がパルワールドのシールゲットしてくれた！！！！！ありがとうフレンズ　【#エターナルリターン】",
+      "game": null,
+      "peakViewers": 2,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-20T19:13:43Z",
+      "lastSeenAt": "2026-09-20T19:13:43Z",
+      "samples": [
+        [
+          "2026-09-20T19:13:43Z",
+          2
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
