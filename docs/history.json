@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T01:10:04Z",
+  "updatedAt": "2026-09-20T01:25:23Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3782.9,
-      "gameMinutes": 696.9,
-      "totalHours": 63.05,
-      "gameHours": 11.62,
-      "sessions": 39,
-      "avgViewers": 96.3,
+      "totalMinutes": 3798.2,
+      "gameMinutes": 712.3,
+      "totalHours": 63.3,
+      "gameHours": 11.87,
+      "sessions": 40,
+      "avgViewers": 95.9,
       "peakViewers": 979
     },
     "week": {
-      "totalMinutes": 60547.1,
-      "gameMinutes": 28021.7,
-      "totalHours": 1009.12,
-      "gameHours": 467.03,
-      "sessions": 351,
-      "avgViewers": 74.7,
+      "totalMinutes": 60562.4,
+      "gameMinutes": 28037.0,
+      "totalHours": 1009.37,
+      "gameHours": 467.28,
+      "sessions": 352,
+      "avgViewers": 74.6,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 82712.2,
-      "gameMinutes": 37522.8,
-      "totalHours": 1378.54,
-      "gameHours": 625.38,
-      "sessions": 475,
+      "totalMinutes": 82727.5,
+      "gameMinutes": 37538.1,
+      "totalHours": 1378.79,
+      "gameHours": 625.64,
+      "sessions": 476,
       "avgViewers": 82.2,
       "peakViewers": 994
     }
@@ -56,30 +56,30 @@
       "lastTitle": "이터널리턴 뉴비 랭크전 플레4",
       "buckets": {
         "today": {
-          "totalMinutes": 74.5,
-          "gameMinutes": 74.5,
-          "totalHours": 1.24,
-          "gameHours": 1.24,
+          "totalMinutes": 89.8,
+          "gameMinutes": 89.8,
+          "totalHours": 1.5,
+          "gameHours": 1.5,
           "sessions": 1,
-          "avgViewers": 3.3,
+          "avgViewers": 3.1,
           "peakViewers": 6
         },
         "week": {
-          "totalMinutes": 1253.1,
-          "gameMinutes": 1253.1,
-          "totalHours": 20.89,
-          "gameHours": 20.89,
+          "totalMinutes": 1268.5,
+          "gameMinutes": 1268.5,
+          "totalHours": 21.14,
+          "gameHours": 21.14,
           "sessions": 7,
-          "avgViewers": 4.0,
+          "avgViewers": 3.9,
           "peakViewers": 10
         },
         "month": {
-          "totalMinutes": 2543.3,
-          "gameMinutes": 2543.3,
-          "totalHours": 42.39,
-          "gameHours": 42.39,
+          "totalMinutes": 2558.6,
+          "gameMinutes": 2558.6,
+          "totalHours": 42.64,
+          "gameHours": 42.64,
           "sessions": 11,
-          "avgViewers": 3.7,
+          "avgViewers": 3.6,
           "peakViewers": 10
         }
       },
@@ -376,9 +376,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 6,
+      "liveViewers": 3,
       "livePeakViewers": 6,
-      "liveAvgViewers": 3.3,
+      "liveAvgViewers": 3.1,
       "liveSamples": [
         [
           "2026-09-19T23:55:35Z",
@@ -399,9 +399,77 @@
         [
           "2026-09-20T01:10:04Z",
           6
+        ],
+        [
+          "2026-09-20T01:25:23Z",
+          3
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=eoAFw51eaAw"
+    },
+    {
+      "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
+      "name": "설독이",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC_TOsq7LNCNbpByrQ8Cwi5A",
+      "isLive": true,
+      "liveSince": "2026-09-20T01:25:23Z",
+      "liveTitle": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
+      "lastEnd": "2026-09-19T08:40:05Z",
+      "lastTitle": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 412.6,
+          "gameMinutes": 412.6,
+          "totalHours": 6.88,
+          "gameHours": 6.88,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 412.6,
+          "gameMinutes": 412.6,
+          "totalHours": 6.88,
+          "gameHours": 6.88,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
+          "name": "설독이",
+          "videoId": "xxOhqYmrDME",
+          "videoUrl": "https://www.youtube.com/watch?v=xxOhqYmrDME",
+          "start": "2026-09-19T01:47:27Z",
+          "end": "2026-09-19T08:40:05Z",
+          "minutes": 412.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=R2FeBjuydWg"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -12316,65 +12384,6 @@
           "game": null,
           "peakViewers": 1,
           "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
-      "name": "설독이",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC_TOsq7LNCNbpByrQ8Cwi5A",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-19T08:40:05Z",
-      "lastTitle": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 412.6,
-          "gameMinutes": 412.6,
-          "totalHours": 6.88,
-          "gameHours": 6.88,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 412.6,
-          "gameMinutes": 412.6,
-          "totalHours": 6.88,
-          "gameHours": 6.88,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
-          "name": "설독이",
-          "videoId": "xxOhqYmrDME",
-          "videoUrl": "https://www.youtube.com/watch?v=xxOhqYmrDME",
-          "start": "2026-09-19T01:47:27Z",
-          "end": "2026-09-19T08:40:05Z",
-          "minutes": 412.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
           "samples": [],
           "isTargetGame": true
         }
