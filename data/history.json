@@ -2,20 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "o5ljq-xCrHM",
-      "start": "2026-09-20T14:55:55Z",
-      "startSource": "observed",
-      "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
-      "samples": []
-    },
     "UCElYE3bfzjjmJ9xwjvro9Yw": {
       "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
       "name": "日裏クロ",
@@ -27,7 +13,7 @@
       "peakViewers": 45,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -36,6 +22,10 @@
         [
           "2026-09-20T15:12:04Z",
           45
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          44
         ]
       ]
     },
@@ -50,7 +40,7 @@
       "peakViewers": 63,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -59,6 +49,10 @@
         [
           "2026-09-20T15:12:04Z",
           63
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          59
         ]
       ]
     },
@@ -73,7 +67,7 @@
       "peakViewers": 14,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -82,6 +76,10 @@
         [
           "2026-09-20T15:12:04Z",
           14
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          13
         ]
       ]
     },
@@ -93,10 +91,10 @@
       "startSource": "observed",
       "title": "【 #天下無双ARK : 2日目 】このサウルスワールドに、機械文明を作る！！【ゆにれいど！/ 火狩夜れんま】",
       "game": null,
-      "peakViewers": 49,
+      "peakViewers": 51,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -105,6 +103,10 @@
         [
           "2026-09-20T15:12:04Z",
           49
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          51
         ]
       ]
     },
@@ -119,7 +121,7 @@
       "peakViewers": 6,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -128,6 +130,10 @@
         [
           "2026-09-20T15:12:04Z",
           5
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          4
         ]
       ]
     },
@@ -139,10 +145,10 @@
       "startSource": "observed",
       "title": "【 #SURGETown ￤#１７ 】BDX、ファイヤ～～～～～～～～～！！！🔥【 すずみあ / 赤彩みあ 】",
       "game": null,
-      "peakViewers": 1,
+      "peakViewers": 928,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -151,6 +157,10 @@
         [
           "2026-09-20T15:12:04Z",
           1
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          928
         ]
       ]
     },
@@ -165,7 +175,7 @@
       "peakViewers": 168,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -174,6 +184,10 @@
         [
           "2026-09-20T15:12:04Z",
           107
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          97
         ]
       ]
     },
@@ -185,10 +199,10 @@
       "startSource": "observed",
       "title": "【#SURGETown】11日目 / 最終日、警察よ永遠に！果たして検挙数の行方は……！【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 13,
+      "peakViewers": 14,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -197,6 +211,10 @@
         [
           "2026-09-20T15:12:04Z",
           13
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          14
         ]
       ]
     },
@@ -208,10 +226,10 @@
       "startSource": "observed",
       "title": "#SURGETown 12日目 | ありがとう、やっきょく！ #愁子",
       "game": null,
-      "peakViewers": 25,
+      "peakViewers": 34,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -220,6 +238,10 @@
         [
           "2026-09-20T15:12:04Z",
           25
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          34
         ]
       ]
     },
@@ -234,7 +256,7 @@
       "peakViewers": 5,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -243,6 +265,10 @@
         [
           "2026-09-20T15:12:04Z",
           5
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          3
         ]
       ]
     },
@@ -257,7 +283,7 @@
       "peakViewers": 5,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -265,6 +291,10 @@
         ],
         [
           "2026-09-20T15:12:04Z",
+          5
+        ],
+        [
+          "2026-09-20T15:29:39Z",
           5
         ]
       ]
@@ -277,10 +307,10 @@
       "startSource": "observed",
       "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
       "game": null,
-      "peakViewers": 75,
+      "peakViewers": 95,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -289,6 +319,10 @@
         [
           "2026-09-20T15:12:04Z",
           75
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          95
         ]
       ]
     },
@@ -303,7 +337,7 @@
       "peakViewers": 41,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -312,6 +346,10 @@
         [
           "2026-09-20T15:12:04Z",
           41
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          36
         ]
       ]
     },
@@ -326,7 +364,7 @@
       "peakViewers": 6,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -335,6 +373,10 @@
         [
           "2026-09-20T15:12:04Z",
           6
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          5
         ]
       ]
     },
@@ -349,7 +391,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": []
     },
     "UCdfqaZPAstutii6NLvGoblA": {
@@ -360,10 +402,10 @@
       "startSource": "observed",
       "title": "이터널 리턴",
       "game": null,
-      "peakViewers": 1,
+      "peakViewers": 2,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -372,6 +414,10 @@
         [
           "2026-09-20T15:12:04Z",
           1
+        ],
+        [
+          "2026-09-20T15:29:39Z",
+          2
         ]
       ]
     },
@@ -386,7 +432,7 @@
       "peakViewers": 7,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -394,6 +440,10 @@
         ],
         [
           "2026-09-20T15:12:04Z",
+          4
+        ],
+        [
+          "2026-09-20T15:29:39Z",
           4
         ]
       ]
@@ -409,7 +459,7 @@
       "peakViewers": 7,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T14:55:55Z",
-      "lastSeenAt": "2026-09-20T15:12:04Z",
+      "lastSeenAt": "2026-09-20T15:29:39Z",
       "samples": [
         [
           "2026-09-20T14:55:55Z",
@@ -417,6 +467,10 @@
         ],
         [
           "2026-09-20T15:12:04Z",
+          5
+        ],
+        [
+          "2026-09-20T15:29:39Z",
           5
         ]
       ]
@@ -27282,6 +27336,23 @@
       "minutes": 158.9,
       "startSource": "youtube",
       "endSource": "observed",
+      "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "o5ljq-xCrHM",
+      "videoUrl": "https://www.youtube.com/watch?v=o5ljq-xCrHM",
+      "start": "2026-09-20T12:03:51Z",
+      "end": "2026-09-20T15:22:51Z",
+      "minutes": 199.0,
+      "startSource": "youtube",
+      "endSource": "youtube",
       "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
       "game": null,
       "peakViewers": null,
