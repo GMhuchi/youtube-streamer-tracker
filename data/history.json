@@ -2,20 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC_TOsq7LNCNbpByrQ8Cwi5A": {
-      "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
-      "name": "설독이",
-      "videoId": "R2FeBjuydWg",
-      "start": "2026-09-20T01:25:23Z",
-      "startSource": "observed",
-      "title": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-20T01:25:23Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
-      "samples": []
-    },
     "UCSTZTPTiHOScULJ4KdV8WSQ": {
       "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
       "name": "하늘고래",
@@ -27,7 +13,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T03:17:53Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": []
     },
     "UCdfqaZPAstutii6NLvGoblA": {
@@ -36,12 +22,12 @@
       "videoId": "WOGqbQAeCZA",
       "start": "2026-09-20T04:47:47Z",
       "startSource": "observed",
-      "title": "좀보이드",
+      "title": "이터널 리턴",
       "game": null,
       "peakViewers": 4,
-      "isTargetGame": false,
+      "isTargetGame": true,
       "firstSeenAt": "2026-09-20T04:47:47Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T04:47:47Z",
@@ -170,6 +156,10 @@
         [
           "2026-09-20T12:50:14Z",
           3
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          3
         ]
       ]
     },
@@ -184,7 +174,7 @@
       "peakViewers": 12,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T08:47:38Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T08:47:38Z",
@@ -253,6 +243,10 @@
         [
           "2026-09-20T12:50:14Z",
           6
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          6
         ]
       ]
     },
@@ -267,7 +261,7 @@
       "peakViewers": 25,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T09:16:30Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T09:16:30Z",
@@ -328,6 +322,10 @@
         [
           "2026-09-20T12:50:14Z",
           19
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          19
         ]
       ]
     },
@@ -342,7 +340,7 @@
       "peakViewers": 71,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T09:16:30Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T09:16:30Z",
@@ -403,6 +401,10 @@
         [
           "2026-09-20T12:50:14Z",
           46
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          45
         ]
       ]
     },
@@ -417,7 +419,7 @@
       "peakViewers": 18,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T09:16:30Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T09:16:30Z",
@@ -478,6 +480,10 @@
         [
           "2026-09-20T12:50:14Z",
           12
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          15
         ]
       ]
     },
@@ -492,7 +498,7 @@
       "peakViewers": 194,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T09:46:35Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T09:46:35Z",
@@ -545,6 +551,10 @@
         [
           "2026-09-20T12:50:14Z",
           64
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          66
         ]
       ]
     },
@@ -559,7 +569,7 @@
       "peakViewers": 982,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T10:14:39Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T10:14:39Z",
@@ -604,6 +614,10 @@
         [
           "2026-09-20T12:50:14Z",
           953
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          1
         ]
       ]
     },
@@ -618,7 +632,7 @@
       "peakViewers": 40,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T10:14:39Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T10:14:39Z",
@@ -663,6 +677,10 @@
         [
           "2026-09-20T12:50:14Z",
           37
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          36
         ]
       ]
     },
@@ -677,7 +695,7 @@
       "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T10:42:48Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T10:55:44Z",
@@ -706,6 +724,10 @@
         [
           "2026-09-20T12:50:14Z",
           1
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          1
         ]
       ]
     },
@@ -720,7 +742,7 @@
       "peakViewers": 48,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T11:29:08Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T11:29:08Z",
@@ -745,6 +767,10 @@
         [
           "2026-09-20T12:50:14Z",
           43
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          44
         ]
       ]
     },
@@ -759,7 +785,7 @@
       "peakViewers": 7,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T11:29:08Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T11:29:08Z",
@@ -784,6 +810,10 @@
         [
           "2026-09-20T12:50:14Z",
           5
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          5
         ]
       ]
     },
@@ -798,7 +828,7 @@
       "peakViewers": 3,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T11:29:08Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T11:29:08Z",
@@ -823,6 +853,10 @@
         [
           "2026-09-20T12:50:14Z",
           3
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          3
         ]
       ]
     },
@@ -837,7 +871,7 @@
       "peakViewers": 87,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T11:42:14Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T11:42:14Z",
@@ -858,6 +892,10 @@
         [
           "2026-09-20T12:50:14Z",
           76
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          86
         ]
       ]
     },
@@ -872,7 +910,7 @@
       "peakViewers": 4,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T11:42:14Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T11:42:14Z",
@@ -893,6 +931,10 @@
         [
           "2026-09-20T12:50:14Z",
           3
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          2
         ]
       ]
     },
@@ -907,7 +949,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T12:15:34Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": []
     },
     "UC7W6gEF88kzL-mN8V_QxzVg": {
@@ -918,10 +960,10 @@
       "startSource": "observed",
       "title": "【#SURGETown】11日目 / 最終日、警察よ永遠に！果たして検挙数の行方は……！【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 14,
+      "peakViewers": 16,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T12:15:34Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T12:15:34Z",
@@ -934,6 +976,10 @@
         [
           "2026-09-20T12:50:14Z",
           12
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          16
         ]
       ]
     },
@@ -948,7 +994,7 @@
       "peakViewers": 3,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T12:15:34Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T12:35:13Z",
@@ -956,6 +1002,10 @@
         ],
         [
           "2026-09-20T12:50:14Z",
+          3
+        ],
+        [
+          "2026-09-20T13:10:05Z",
           3
         ]
       ]
@@ -971,7 +1021,7 @@
       "peakViewers": 125,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T12:15:34Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T12:15:34Z",
@@ -984,6 +1034,10 @@
         [
           "2026-09-20T12:50:14Z",
           125
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          110
         ]
       ]
     },
@@ -995,16 +1049,67 @@
       "startSource": "observed",
       "title": "【#EternalReturn】参加◎　TGSいった人の戦利品を聞きたい！きくちは友達がパルワールドのシールゲットしてくれた！！！！！ありがとうフレンズ　【#エターナルリターン】",
       "game": null,
-      "peakViewers": 1,
+      "peakViewers": 7,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T12:50:14Z",
-      "lastSeenAt": "2026-09-20T12:50:14Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
       "samples": [
         [
           "2026-09-20T12:50:14Z",
           1
+        ],
+        [
+          "2026-09-20T13:10:05Z",
+          7
         ]
       ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "YP850ACjA-c",
+      "start": "2026-09-20T13:10:05Z",
+      "startSource": "observed",
+      "title": "#なかよくうたおうアニマル歌枠リレー | チルいおうたをお届けします #愁子",
+      "game": null,
+      "peakViewers": 153,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-20T13:10:05Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
+      "samples": [
+        [
+          "2026-09-20T13:10:05Z",
+          153
+        ]
+      ]
+    },
+    "UCJgiA5bfdc4g_j-i4-Q7DZg": {
+      "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
+      "name": "팬텀이",
+      "videoId": "4gRABED38o0",
+      "start": "2026-09-20T13:10:05Z",
+      "startSource": "observed",
+      "title": "친구 강등 위기 막아줄수있을까?",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-20T13:10:05Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
+      "samples": []
+    },
+    "UC6CYnOID9JZjKv6YZwgCW5Q": {
+      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+      "name": "Alcatraz",
+      "videoId": "qGSWv4iM2aQ",
+      "start": "2026-09-20T13:10:05Z",
+      "startSource": "observed",
+      "title": "뎁마 원험으로 미스릴 도전기",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-20T13:10:05Z",
+      "lastSeenAt": "2026-09-20T13:10:05Z",
+      "samples": []
     }
   },
   "sessions": [
@@ -25680,6 +25785,23 @@
           5
         ]
       ],
+      "isTargetGame": true
+    },
+    {
+      "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
+      "name": "설독이",
+      "videoId": "R2FeBjuydWg",
+      "videoUrl": "https://www.youtube.com/watch?v=R2FeBjuydWg",
+      "start": "2026-09-20T01:25:23Z",
+      "end": "2026-09-20T13:10:05Z",
+      "minutes": 704.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
       "isTargetGame": true
     },
     {
