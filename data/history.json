@@ -1,43 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "0cCf7yRDP6A",
-      "start": "2026-09-20T19:13:43Z",
-      "startSource": "observed",
-      "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 157,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-20T19:13:43Z",
-      "lastSeenAt": "2026-09-20T20:01:06Z",
-      "samples": [
-        [
-          "2026-09-20T19:13:43Z",
-          137
-        ],
-        [
-          "2026-09-20T19:28:15Z",
-          133
-        ],
-        [
-          "2026-09-20T19:39:22Z",
-          147
-        ],
-        [
-          "2026-09-20T19:50:05Z",
-          152
-        ],
-        [
-          "2026-09-20T20:01:06Z",
-          157
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -28392,6 +28356,44 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "0cCf7yRDP6A",
+      "videoUrl": "https://www.youtube.com/watch?v=0cCf7yRDP6A",
+      "start": "2026-09-20T19:13:43Z",
+      "end": "2026-09-20T20:20:51Z",
+      "minutes": 67.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 157,
+      "avgViewers": 144.8,
+      "samples": [
+        [
+          "2026-09-20T19:13:43Z",
+          137
+        ],
+        [
+          "2026-09-20T19:28:15Z",
+          133
+        ],
+        [
+          "2026-09-20T19:39:22Z",
+          147
+        ],
+        [
+          "2026-09-20T19:50:05Z",
+          152
+        ],
+        [
+          "2026-09-20T20:01:06Z",
+          157
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }
