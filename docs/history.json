@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T01:51:30Z",
+  "updatedAt": "2026-09-20T02:11:17Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3850.4,
-      "gameMinutes": 764.5,
-      "totalHours": 64.17,
-      "gameHours": 12.74,
+      "totalMinutes": 3890.0,
+      "gameMinutes": 804.1,
+      "totalHours": 64.83,
+      "gameHours": 13.4,
       "sessions": 40,
-      "avgViewers": 95.2,
+      "avgViewers": 94.8,
       "peakViewers": 979
     },
     "week": {
-      "totalMinutes": 60614.6,
-      "gameMinutes": 28089.3,
-      "totalHours": 1010.24,
-      "gameHours": 468.15,
+      "totalMinutes": 60654.2,
+      "gameMinutes": 28128.8,
+      "totalHours": 1010.9,
+      "gameHours": 468.81,
       "sessions": 352,
       "avgViewers": 74.6,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 82779.8,
-      "gameMinutes": 37590.4,
-      "totalHours": 1379.66,
-      "gameHours": 626.51,
+      "totalMinutes": 82819.3,
+      "gameMinutes": 37629.9,
+      "totalHours": 1380.32,
+      "gameHours": 627.17,
       "sessions": 476,
-      "avgViewers": 82.2,
+      "avgViewers": 82.1,
       "peakViewers": 994
     }
   },
@@ -56,28 +56,28 @@
       "lastTitle": "이터널리턴 뉴비 랭크전 플레4",
       "buckets": {
         "today": {
-          "totalMinutes": 115.9,
-          "gameMinutes": 115.9,
-          "totalHours": 1.93,
-          "gameHours": 1.93,
+          "totalMinutes": 135.7,
+          "gameMinutes": 135.7,
+          "totalHours": 2.26,
+          "gameHours": 2.26,
           "sessions": 1,
-          "avgViewers": 3.1,
+          "avgViewers": 3.3,
           "peakViewers": 6
         },
         "week": {
-          "totalMinutes": 1294.6,
-          "gameMinutes": 1294.6,
-          "totalHours": 21.58,
-          "gameHours": 21.58,
+          "totalMinutes": 1314.4,
+          "gameMinutes": 1314.4,
+          "totalHours": 21.91,
+          "gameHours": 21.91,
           "sessions": 7,
           "avgViewers": 3.9,
           "peakViewers": 10
         },
         "month": {
-          "totalMinutes": 2584.8,
-          "gameMinutes": 2584.8,
-          "totalHours": 43.08,
-          "gameHours": 43.08,
+          "totalMinutes": 2604.5,
+          "gameMinutes": 2604.5,
+          "totalHours": 43.41,
+          "gameHours": 43.41,
           "sessions": 11,
           "avgViewers": 3.6,
           "peakViewers": 10
@@ -376,9 +376,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 4,
+      "liveViewers": 5,
       "livePeakViewers": 6,
-      "liveAvgViewers": 3.1,
+      "liveAvgViewers": 3.3,
       "liveSamples": [
         [
           "2026-09-19T23:55:35Z",
@@ -411,6 +411,10 @@
         [
           "2026-09-20T01:51:30Z",
           4
+        ],
+        [
+          "2026-09-20T02:11:17Z",
+          5
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=eoAFw51eaAw"
@@ -427,28 +431,28 @@
       "lastTitle": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
       "buckets": {
         "today": {
-          "totalMinutes": 26.1,
-          "gameMinutes": 26.1,
-          "totalHours": 0.44,
-          "gameHours": 0.44,
+          "totalMinutes": 45.9,
+          "gameMinutes": 45.9,
+          "totalHours": 0.77,
+          "gameHours": 0.77,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 438.8,
-          "gameMinutes": 438.8,
-          "totalHours": 7.31,
-          "gameHours": 7.31,
+          "totalMinutes": 458.5,
+          "gameMinutes": 458.5,
+          "totalHours": 7.64,
+          "gameHours": 7.64,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 438.8,
-          "gameMinutes": 438.8,
-          "totalHours": 7.31,
-          "gameHours": 7.31,
+          "totalMinutes": 458.5,
+          "gameMinutes": 458.5,
+          "totalHours": 7.64,
+          "gameHours": 7.64,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
