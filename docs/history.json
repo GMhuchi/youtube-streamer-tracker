@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T02:58:45Z",
+  "updatedAt": "2026-09-20T03:17:53Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3984.9,
-      "gameMinutes": 899.0,
-      "totalHours": 66.42,
-      "gameHours": 14.98,
-      "sessions": 41,
-      "avgViewers": 93.6,
+      "totalMinutes": 4042.3,
+      "gameMinutes": 937.3,
+      "totalHours": 67.37,
+      "gameHours": 15.62,
+      "sessions": 43,
+      "avgViewers": 92.7,
       "peakViewers": 979
     },
     "week": {
-      "totalMinutes": 60749.1,
-      "gameMinutes": 28223.8,
-      "totalHours": 1012.49,
-      "gameHours": 470.4,
-      "sessions": 353,
+      "totalMinutes": 60806.5,
+      "gameMinutes": 28262.0,
+      "totalHours": 1013.44,
+      "gameHours": 471.03,
+      "sessions": 355,
       "avgViewers": 74.5,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 82914.2,
-      "gameMinutes": 37724.8,
-      "totalHours": 1381.9,
-      "gameHours": 628.75,
-      "sessions": 477,
-      "avgViewers": 82.1,
+      "totalMinutes": 82971.7,
+      "gameMinutes": 37763.1,
+      "totalHours": 1382.86,
+      "gameHours": 629.39,
+      "sessions": 479,
+      "avgViewers": 82.0,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "이터널리턴 뉴비 랭크전 플레4",
       "buckets": {
         "today": {
-          "totalMinutes": 183.2,
-          "gameMinutes": 183.2,
-          "totalHours": 3.05,
-          "gameHours": 3.05,
+          "totalMinutes": 202.3,
+          "gameMinutes": 202.3,
+          "totalHours": 3.37,
+          "gameHours": 3.37,
           "sessions": 1,
-          "avgViewers": 3.6,
+          "avgViewers": 3.5,
           "peakViewers": 6
         },
         "week": {
-          "totalMinutes": 1361.8,
-          "gameMinutes": 1361.8,
-          "totalHours": 22.7,
-          "gameHours": 22.7,
+          "totalMinutes": 1381.0,
+          "gameMinutes": 1381.0,
+          "totalHours": 23.02,
+          "gameHours": 23.02,
           "sessions": 7,
           "avgViewers": 3.9,
           "peakViewers": 10
         },
         "month": {
-          "totalMinutes": 2652.0,
-          "gameMinutes": 2652.0,
-          "totalHours": 44.2,
-          "gameHours": 44.2,
+          "totalMinutes": 2671.1,
+          "gameMinutes": 2671.1,
+          "totalHours": 44.52,
+          "gameHours": 44.52,
           "sessions": 11,
-          "avgViewers": 3.7,
+          "avgViewers": 3.6,
           "peakViewers": 10
         }
       },
@@ -376,9 +376,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 4,
+      "liveViewers": 3,
       "livePeakViewers": 6,
-      "liveAvgViewers": 3.6,
+      "liveAvgViewers": 3.5,
       "liveSamples": [
         [
           "2026-09-19T23:55:35Z",
@@ -427,9 +427,162 @@
         [
           "2026-09-20T02:58:45Z",
           4
+        ],
+        [
+          "2026-09-20T03:17:53Z",
+          3
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=eoAFw51eaAw"
+    },
+    {
+      "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+      "name": "하늘고래",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCSTZTPTiHOScULJ4KdV8WSQ",
+      "isLive": true,
+      "liveSince": "2026-09-20T03:17:53Z",
+      "liveTitle": "예열 이리 한판하고 치수두명과 함께하는 봄바나나",
+      "lastEnd": "2026-09-19T13:48:47Z",
+      "lastTitle": "늙은이의 주말 이리 시참환영(초보도 환영)",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 768.4,
+          "gameMinutes": 0.0,
+          "totalHours": 12.81,
+          "gameHours": 0.0,
+          "sessions": 6,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        },
+        "month": {
+          "totalMinutes": 878.3,
+          "gameMinutes": 109.9,
+          "totalHours": 14.64,
+          "gameHours": 1.83,
+          "sessions": 7,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "OppbvG-0RfQ",
+          "videoUrl": "https://www.youtube.com/watch?v=OppbvG-0RfQ",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T13:48:47Z",
+          "minutes": 58.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "늙은이의 주말 이리 시참환영(초보도 환영)",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "OppbvG-0RfQ",
+          "videoUrl": "https://www.youtube.com/watch?v=OppbvG-0RfQ",
+          "start": "2026-09-19T08:22:42Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 252.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "늙은이의 주말 이리 시참환영(초보도 환영)",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "HEYHN1W09fw",
+          "videoUrl": "https://www.youtube.com/watch?v=HEYHN1W09fw",
+          "start": "2026-09-18T11:16:49Z",
+          "end": "2026-09-18T11:31:13Z",
+          "minutes": 14.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "트릭컬 3주년 방송 같이보실 교주님들",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "PpK2_gO-ixY",
+          "videoUrl": "https://www.youtube.com/watch?v=PpK2_gO-ixY",
+          "start": "2026-09-17T07:57:08Z",
+          "end": "2026-09-17T10:00:58Z",
+          "minutes": 123.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "예열 이리 시참환영 (초보도 환영)",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "8djeXgv8h5E",
+          "videoUrl": "https://www.youtube.com/watch?v=8djeXgv8h5E",
+          "start": "2026-09-15T08:13:41Z",
+          "end": "2026-09-15T13:32:46Z",
+          "minutes": 319.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "오늘은 1등 할수있지않을까..?시참환영 (초보도 환영)",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+          "name": "하늘고래",
+          "videoId": "XH1jSzWJoGA",
+          "videoUrl": "https://www.youtube.com/watch?v=XH1jSzWJoGA",
+          "start": "2026-09-12T11:10:51Z",
+          "end": "2026-09-12T13:00:43Z",
+          "minutes": 109.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널리턴 시참환영 (초보도 환영)",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=n_Mii8e3W0A"
     },
     {
       "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
@@ -443,28 +596,28 @@
       "lastTitle": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
       "buckets": {
         "today": {
-          "totalMinutes": 93.4,
-          "gameMinutes": 93.4,
-          "totalHours": 1.56,
-          "gameHours": 1.56,
+          "totalMinutes": 112.5,
+          "gameMinutes": 112.5,
+          "totalHours": 1.88,
+          "gameHours": 1.88,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 506.0,
-          "gameMinutes": 506.0,
-          "totalHours": 8.43,
-          "gameHours": 8.43,
+          "totalMinutes": 525.1,
+          "gameMinutes": 525.1,
+          "totalHours": 8.75,
+          "gameHours": 8.75,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 506.0,
-          "gameMinutes": 506.0,
-          "totalHours": 8.43,
-          "gameHours": 8.43,
+          "totalMinutes": 525.1,
+          "gameMinutes": 525.1,
+          "totalHours": 8.75,
+          "gameHours": 8.75,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
@@ -501,40 +654,62 @@
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCvtfuV9mBAw9znLzICiqpOw",
       "isLive": true,
-      "liveSince": "2026-09-20T02:58:45Z",
-      "liveTitle": "[룰렛]뭐할지 정해보기",
-      "lastEnd": "2026-09-17T04:00:43Z",
-      "lastTitle": "[PEAK]최종장이라는 이름의 흔한 마지막 이야기",
+      "liveSince": "2026-09-20T03:17:53Z",
+      "liveTitle": "[젠레스 존 제로]베이글 프로젝트 제 2시즌 시-작",
+      "lastEnd": "2026-09-20T03:17:53Z",
+      "lastTitle": "[룰렛]뭐할지 정해보기",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 19.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.32,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "week": {
-          "totalMinutes": 443.2,
+          "totalMinutes": 462.4,
           "gameMinutes": 118.7,
-          "totalHours": 7.39,
+          "totalHours": 7.71,
           "gameHours": 1.98,
-          "sessions": 4,
+          "sessions": 5,
           "avgViewers": 1.5,
           "peakViewers": 2
         },
         "month": {
-          "totalMinutes": 443.2,
+          "totalMinutes": 462.4,
           "gameMinutes": 118.7,
-          "totalHours": 7.39,
+          "totalHours": 7.71,
           "gameHours": 1.98,
-          "sessions": 4,
+          "sessions": 5,
           "avgViewers": 1.5,
           "peakViewers": 2
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "qXNmna2cZlQ",
+          "videoUrl": "https://www.youtube.com/watch?v=qXNmna2cZlQ",
+          "start": "2026-09-20T02:58:45Z",
+          "end": "2026-09-20T03:17:53Z",
+          "minutes": 19.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[룰렛]뭐할지 정해보기",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-20T02:58:45Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
           "name": "상자곰",
@@ -600,12 +775,7 @@
           "game": null,
           "peakViewers": 1,
           "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-15T04:12:25Z",
-              1
-            ]
-          ],
+          "samples": [],
           "isTargetGame": true
         }
       ],
@@ -614,11 +784,11 @@
       "liveAvgViewers": 1.0,
       "liveSamples": [
         [
-          "2026-09-20T02:58:45Z",
+          "2026-09-20T03:17:53Z",
           1
         ]
       ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=qXNmna2cZlQ"
+      "liveVideoUrl": "https://www.youtube.com/watch?v=_zHH1A6dnGQ"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -10527,150 +10697,6 @@
       ]
     },
     {
-      "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-      "name": "하늘고래",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCSTZTPTiHOScULJ4KdV8WSQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-19T13:48:47Z",
-      "lastTitle": "늙은이의 주말 이리 시참환영(초보도 환영)",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 768.4,
-          "gameMinutes": 0.0,
-          "totalHours": 12.81,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        },
-        "month": {
-          "totalMinutes": 878.3,
-          "gameMinutes": 109.9,
-          "totalHours": 14.64,
-          "gameHours": 1.83,
-          "sessions": 6,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "OppbvG-0RfQ",
-          "videoUrl": "https://www.youtube.com/watch?v=OppbvG-0RfQ",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T13:48:47Z",
-          "minutes": 58.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "늙은이의 주말 이리 시참환영(초보도 환영)",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "OppbvG-0RfQ",
-          "videoUrl": "https://www.youtube.com/watch?v=OppbvG-0RfQ",
-          "start": "2026-09-19T08:22:42Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 252.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "늙은이의 주말 이리 시참환영(초보도 환영)",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "HEYHN1W09fw",
-          "videoUrl": "https://www.youtube.com/watch?v=HEYHN1W09fw",
-          "start": "2026-09-18T11:16:49Z",
-          "end": "2026-09-18T11:31:13Z",
-          "minutes": 14.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "트릭컬 3주년 방송 같이보실 교주님들",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "PpK2_gO-ixY",
-          "videoUrl": "https://www.youtube.com/watch?v=PpK2_gO-ixY",
-          "start": "2026-09-17T07:57:08Z",
-          "end": "2026-09-17T10:00:58Z",
-          "minutes": 123.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "예열 이리 시참환영 (초보도 환영)",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "8djeXgv8h5E",
-          "videoUrl": "https://www.youtube.com/watch?v=8djeXgv8h5E",
-          "start": "2026-09-15T08:13:41Z",
-          "end": "2026-09-15T13:32:46Z",
-          "minutes": 319.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "오늘은 1등 할수있지않을까..?시참환영 (초보도 환영)",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
-          "name": "하늘고래",
-          "videoId": "XH1jSzWJoGA",
-          "videoUrl": "https://www.youtube.com/watch?v=XH1jSzWJoGA",
-          "start": "2026-09-12T11:10:51Z",
-          "end": "2026-09-12T13:00:43Z",
-          "minutes": 109.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널리턴 시참환영 (초보도 환영)",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
       "channelId": "UCCp0zFDfEZ2QePwO2LxXjQA",
       "name": "시엘스카이",
       "registered": true,
@@ -13455,6 +13481,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "videoId": "qXNmna2cZlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qXNmna2cZlQ",
+      "start": "2026-09-20T02:58:45Z",
+      "end": "2026-09-20T03:17:53Z",
+      "minutes": 19.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[룰렛]뭐할지 정해보기",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
       "videoId": "TEj5iW_VHAA",
@@ -14397,22 +14439,6 @@
       "peakViewers": 94,
       "avgViewers": 82.7,
       "isTargetGame": false
-    },
-    {
-      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-      "name": "전부벗은새우튀김",
-      "videoId": "Rf3bDkYihSo",
-      "videoUrl": "https://www.youtube.com/watch?v=Rf3bDkYihSo",
-      "start": "2026-09-19T10:29:57Z",
-      "end": "2026-09-19T12:34:56Z",
-      "minutes": 125.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "[2026.9.19] 이터널리턴 짧게 랭크",
-      "game": null,
-      "peakViewers": null,
-      "avgViewers": null,
-      "isTargetGame": true
     }
   ]
 }

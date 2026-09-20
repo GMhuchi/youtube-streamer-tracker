@@ -13,7 +13,7 @@
       "peakViewers": 6,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-19T23:55:35Z",
-      "lastSeenAt": "2026-09-20T02:58:45Z",
+      "lastSeenAt": "2026-09-20T03:17:53Z",
       "samples": [
         [
           "2026-09-19T23:55:35Z",
@@ -62,6 +62,10 @@
         [
           "2026-09-20T02:58:45Z",
           4
+        ],
+        [
+          "2026-09-20T03:17:53Z",
+          3
         ]
       ]
     },
@@ -76,24 +80,38 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T01:25:23Z",
-      "lastSeenAt": "2026-09-20T02:58:45Z",
+      "lastSeenAt": "2026-09-20T03:17:53Z",
+      "samples": []
+    },
+    "UCSTZTPTiHOScULJ4KdV8WSQ": {
+      "channelId": "UCSTZTPTiHOScULJ4KdV8WSQ",
+      "name": "하늘고래",
+      "videoId": "n_Mii8e3W0A",
+      "start": "2026-09-20T03:17:53Z",
+      "startSource": "observed",
+      "title": "예열 이리 한판하고 치수두명과 함께하는 봄바나나",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-20T03:17:53Z",
+      "lastSeenAt": "2026-09-20T03:17:53Z",
       "samples": []
     },
     "UCvtfuV9mBAw9znLzICiqpOw": {
       "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
       "name": "상자곰",
-      "videoId": "qXNmna2cZlQ",
-      "start": "2026-09-20T02:58:45Z",
+      "videoId": "_zHH1A6dnGQ",
+      "start": "2026-09-20T03:17:53Z",
       "startSource": "observed",
-      "title": "[룰렛]뭐할지 정해보기",
+      "title": "[젠레스 존 제로]베이글 프로젝트 제 2시즌 시-작",
       "game": null,
       "peakViewers": 1,
       "isTargetGame": false,
-      "firstSeenAt": "2026-09-20T02:58:45Z",
-      "lastSeenAt": "2026-09-20T02:58:45Z",
+      "firstSeenAt": "2026-09-20T03:17:53Z",
+      "lastSeenAt": "2026-09-20T03:17:53Z",
       "samples": [
         [
-          "2026-09-20T02:58:45Z",
+          "2026-09-20T03:17:53Z",
           1
         ]
       ]
@@ -24619,6 +24637,28 @@
         ],
         [
           "2026-09-19T23:55:35Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "videoId": "qXNmna2cZlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qXNmna2cZlQ",
+      "start": "2026-09-20T02:58:45Z",
+      "end": "2026-09-20T03:17:53Z",
+      "minutes": 19.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[룰렛]뭐할지 정해보기",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-09-20T02:58:45Z",
           1
         ]
       ],
