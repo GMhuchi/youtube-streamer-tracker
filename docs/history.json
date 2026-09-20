@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T09:30:37Z",
+  "updatedAt": "2026-09-20T09:46:35Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,357 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 8343.8,
-      "gameMinutes": 3769.0,
-      "totalHours": 139.06,
-      "gameHours": 62.82,
-      "sessions": 60,
-      "avgViewers": 69.3,
+      "totalMinutes": 8551.5,
+      "gameMinutes": 3864.8,
+      "totalHours": 142.52,
+      "gameHours": 64.41,
+      "sessions": 61,
+      "avgViewers": 68.4,
       "peakViewers": 979
     },
     "week": {
-      "totalMinutes": 65108.0,
-      "gameMinutes": 31093.7,
-      "totalHours": 1085.13,
-      "gameHours": 518.23,
-      "sessions": 372,
-      "avgViewers": 72.6,
+      "totalMinutes": 65315.7,
+      "gameMinutes": 31189.6,
+      "totalHours": 1088.59,
+      "gameHours": 519.83,
+      "sessions": 373,
+      "avgViewers": 72.5,
       "peakViewers": 994
     },
     "month": {
-      "totalMinutes": 87273.2,
-      "gameMinutes": 40594.8,
-      "totalHours": 1454.55,
-      "gameHours": 676.58,
-      "sessions": 496,
-      "avgViewers": 80.3,
+      "totalMinutes": 87480.8,
+      "gameMinutes": 40690.7,
+      "totalHours": 1458.01,
+      "gameHours": 678.18,
+      "sessions": 497,
+      "avgViewers": 80.2,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-09-20T09:46:35Z",
+      "liveTitle": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+      "lastEnd": "2026-09-19T18:31:46Z",
+      "lastTitle": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 196.2,
+          "gameMinutes": 0.0,
+          "totalHours": 3.27,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 43.2,
+          "peakViewers": 137
+        },
+        "week": {
+          "totalMinutes": 3146.0,
+          "gameMinutes": 169.2,
+          "totalHours": 52.43,
+          "gameHours": 2.82,
+          "sessions": 14,
+          "avgViewers": 98.6,
+          "peakViewers": 428
+        },
+        "month": {
+          "totalMinutes": 4561.8,
+          "gameMinutes": 169.2,
+          "totalHours": 76.03,
+          "gameHours": 2.82,
+          "sessions": 19,
+          "avgViewers": 86.6,
+          "peakViewers": 428
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T18:31:46Z",
+          "minutes": 79.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 18.3,
+          "samples": [
+            [
+              "2026-09-19T17:12:16Z",
+              56
+            ],
+            [
+              "2026-09-19T17:27:50Z",
+              16
+            ],
+            [
+              "2026-09-19T17:39:54Z",
+              9
+            ],
+            [
+              "2026-09-19T17:50:42Z",
+              5
+            ],
+            [
+              "2026-09-19T18:12:28Z",
+              7
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 246.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 75,
+          "avgViewers": 60.2,
+          "samples": [
+            [
+              "2026-09-19T12:49:54Z",
+              73
+            ],
+            [
+              "2026-09-19T13:00:25Z",
+              75
+            ],
+            [
+              "2026-09-19T13:21:07Z",
+              61
+            ],
+            [
+              "2026-09-19T13:37:54Z",
+              65
+            ],
+            [
+              "2026-09-19T13:48:47Z",
+              69
+            ],
+            [
+              "2026-09-19T13:59:22Z",
+              71
+            ],
+            [
+              "2026-09-19T14:16:46Z",
+              58
+            ],
+            [
+              "2026-09-19T14:30:52Z",
+              56
+            ],
+            [
+              "2026-09-19T14:46:21Z",
+              64
+            ],
+            [
+              "2026-09-19T14:56:53Z",
+              66
+            ],
+            [
+              "2026-09-19T15:13:18Z",
+              56
+            ],
+            [
+              "2026-09-19T15:29:16Z",
+              60
+            ],
+            [
+              "2026-09-19T15:41:50Z",
+              42
+            ],
+            [
+              "2026-09-19T15:55:46Z",
+              54
+            ],
+            [
+              "2026-09-19T16:12:11Z",
+              50
+            ],
+            [
+              "2026-09-19T16:30:14Z",
+              48
+            ],
+            [
+              "2026-09-19T16:46:13Z",
+              58
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T09:43:06Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 171.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 166,
+          "avgViewers": 100.6,
+          "samples": [
+            [
+              "2026-09-19T09:43:06Z",
+              76
+            ],
+            [
+              "2026-09-19T09:55:54Z",
+              135
+            ],
+            [
+              "2026-09-19T10:12:20Z",
+              166
+            ],
+            [
+              "2026-09-19T10:29:57Z",
+              98
+            ],
+            [
+              "2026-09-19T10:42:39Z",
+              103
+            ],
+            [
+              "2026-09-19T10:55:55Z",
+              93
+            ],
+            [
+              "2026-09-19T11:11:38Z",
+              101
+            ],
+            [
+              "2026-09-19T11:28:48Z",
+              110
+            ],
+            [
+              "2026-09-19T11:41:43Z",
+              84
+            ],
+            [
+              "2026-09-19T11:55:58Z",
+              69
+            ],
+            [
+              "2026-09-19T12:15:51Z",
+              65
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "nlsGN421BNo",
+          "videoUrl": "https://www.youtube.com/watch?v=nlsGN421BNo",
+          "start": "2026-09-19T05:45:13Z",
+          "end": "2026-09-19T07:01:28Z",
+          "minutes": 76.2,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "寝起き雑談（寝坊してごめんなさい）",
+          "game": null,
+          "peakViewers": 80,
+          "avgViewers": 66.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Z5lemIteZ1Q",
+          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
+          "start": "2026-09-18T14:49:04Z",
+          "end": "2026-09-18T17:28:31Z",
+          "minutes": 159.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 102,
+          "avgViewers": 75.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Z5lemIteZ1Q",
+          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
+          "start": "2026-09-18T09:48:03Z",
+          "end": "2026-09-18T14:33:39Z",
+          "minutes": 285.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 120,
+          "avgViewers": 93.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "MgIpMqgTI3Y",
+          "videoUrl": "https://www.youtube.com/watch?v=MgIpMqgTI3Y",
+          "start": "2026-09-17T09:35:09Z",
+          "end": "2026-09-17T18:21:50Z",
+          "minutes": 526.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#14　なんか不憫って言われてるんですけど頑張って生きてます…【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 361,
+          "avgViewers": 127.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "cgBa4LwIQ1g",
+          "videoUrl": "https://www.youtube.com/watch?v=cgBa4LwIQ1g",
+          "start": "2026-09-16T13:24:39Z",
+          "end": "2026-09-16T18:51:37Z",
+          "minutes": 327.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#13　今日はホストクラブがあるらしいやん？【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 143,
+          "avgViewers": 85.8,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 137,
+      "livePeakViewers": 137,
+      "liveAvgViewers": 137.0,
+      "liveSamples": [
+        [
+          "2026-09-20T09:46:35Z",
+          137
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c"
+    },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -56,30 +379,30 @@
       "lastTitle": "〖 クロノ・トリガー╎#6 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 254.6,
+          "totalMinutes": 270.5,
           "gameMinutes": 0.0,
-          "totalHours": 4.24,
+          "totalHours": 4.51,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 91.4,
+          "avgViewers": 92.4,
           "peakViewers": 111
         },
         "week": {
-          "totalMinutes": 2278.4,
+          "totalMinutes": 2294.4,
           "gameMinutes": 168.3,
-          "totalHours": 37.97,
+          "totalHours": 38.24,
           "gameHours": 2.8,
           "sessions": 14,
-          "avgViewers": 204.7,
+          "avgViewers": 204.0,
           "peakViewers": 355
         },
         "month": {
-          "totalMinutes": 3777.7,
+          "totalMinutes": 3793.6,
           "gameMinutes": 168.3,
-          "totalHours": 62.96,
+          "totalHours": 63.23,
           "gameHours": 2.8,
           "sessions": 20,
-          "avgViewers": 249.4,
+          "avgViewers": 248.7,
           "peakViewers": 888
         }
       },
@@ -328,9 +651,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 105,
+      "liveViewers": 110,
       "livePeakViewers": 111,
-      "liveAvgViewers": 95.8,
+      "liveAvgViewers": 97.9,
       "liveSamples": [
         [
           "2026-09-20T08:12:57Z",
@@ -355,6 +678,10 @@
         [
           "2026-09-20T09:30:37Z",
           105
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          110
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=98a9SGm10VI"
@@ -371,28 +698,28 @@
       "lastTitle": "이터널리턴 2026년 9월 19일 1부",
       "buckets": {
         "today": {
-          "totalMinutes": 297.3,
-          "gameMinutes": 297.3,
-          "totalHours": 4.95,
-          "gameHours": 4.95,
+          "totalMinutes": 313.3,
+          "gameMinutes": 313.3,
+          "totalHours": 5.22,
+          "gameHours": 5.22,
           "sessions": 1,
-          "avgViewers": 2.2,
+          "avgViewers": 2.3,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 2282.0,
-          "gameMinutes": 2282.0,
-          "totalHours": 38.03,
-          "gameHours": 38.03,
+          "totalMinutes": 2298.0,
+          "gameMinutes": 2298.0,
+          "totalHours": 38.3,
+          "gameHours": 38.3,
           "sessions": 7,
           "avgViewers": 2.5,
           "peakViewers": 9
         },
         "month": {
-          "totalMinutes": 3102.2,
-          "gameMinutes": 3102.2,
-          "totalHours": 51.7,
-          "gameHours": 51.7,
+          "totalMinutes": 3118.2,
+          "gameMinutes": 3118.2,
+          "totalHours": 51.97,
+          "gameHours": 51.97,
           "sessions": 11,
           "avgViewers": 2.5,
           "peakViewers": 9
@@ -735,9 +1062,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 4,
+      "liveViewers": 5,
       "livePeakViewers": 5,
-      "liveAvgViewers": 2.2,
+      "liveAvgViewers": 2.3,
       "liveSamples": [
         [
           "2026-09-20T04:33:20Z",
@@ -810,6 +1137,10 @@
         [
           "2026-09-20T09:30:37Z",
           4
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          5
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Mdgm1CWAPDU"
@@ -826,27 +1157,27 @@
       "lastTitle": "이터널 리턴",
       "buckets": {
         "today": {
-          "totalMinutes": 282.8,
+          "totalMinutes": 298.8,
           "gameMinutes": 0.0,
-          "totalHours": 4.71,
+          "totalHours": 4.98,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 2.3,
           "peakViewers": 4
         },
         "week": {
-          "totalMinutes": 2961.7,
+          "totalMinutes": 2977.7,
           "gameMinutes": 2678.9,
-          "totalHours": 49.36,
+          "totalHours": 49.63,
           "gameHours": 44.65,
           "sessions": 11,
           "avgViewers": 2.3,
           "peakViewers": 6
         },
         "month": {
-          "totalMinutes": 2961.7,
+          "totalMinutes": 2977.7,
           "gameMinutes": 2678.9,
-          "totalHours": 49.36,
+          "totalHours": 49.63,
           "gameHours": 44.65,
           "sessions": 11,
           "avgViewers": 2.3,
@@ -1245,6 +1576,10 @@
         [
           "2026-09-20T09:30:37Z",
           2
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          2
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=WOGqbQAeCZA"
@@ -1261,30 +1596,30 @@
       "lastTitle": "【 天下無双ARK 】今回も目指すは強い恐竜と友達になる事【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 130.8,
+          "totalMinutes": 146.8,
           "gameMinutes": 0.0,
-          "totalHours": 2.18,
+          "totalHours": 2.45,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 13.9,
+          "avgViewers": 14.1,
           "peakViewers": 19
         },
         "week": {
-          "totalMinutes": 1536.7,
+          "totalMinutes": 1552.7,
           "gameMinutes": 971.0,
-          "totalHours": 25.61,
+          "totalHours": 25.88,
           "gameHours": 16.18,
           "sessions": 11,
           "avgViewers": 21.4,
           "peakViewers": 50
         },
         "month": {
-          "totalMinutes": 2533.4,
+          "totalMinutes": 2549.4,
           "gameMinutes": 1551.3,
-          "totalHours": 42.22,
+          "totalHours": 42.49,
           "gameHours": 25.85,
           "sessions": 14,
-          "avgViewers": 23.2,
+          "avgViewers": 23.1,
           "peakViewers": 61
         }
       },
@@ -1541,9 +1876,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 15,
-      "livePeakViewers": 15,
-      "liveAvgViewers": 12.0,
+      "liveViewers": 18,
+      "livePeakViewers": 18,
+      "liveAvgViewers": 14.1,
       "liveSamples": [
         [
           "2026-09-20T09:16:30Z",
@@ -1552,6 +1887,10 @@
         [
           "2026-09-20T09:30:37Z",
           15
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          18
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=aJp7XRbFrb4"
@@ -1568,30 +1907,30 @@
       "lastTitle": "【朝活/雑談】#297［2026.9/20］日曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 314.7,
+          "totalMinutes": 330.6,
           "gameMinutes": 0.0,
-          "totalHours": 5.24,
+          "totalHours": 5.51,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 420.2,
+          "avgViewers": 401.0,
           "peakViewers": 960
         },
         "week": {
-          "totalMinutes": 1814.3,
+          "totalMinutes": 1830.3,
           "gameMinutes": 544.2,
-          "totalHours": 30.24,
+          "totalHours": 30.5,
           "gameHours": 9.07,
           "sessions": 14,
-          "avgViewers": 340.6,
+          "avgViewers": 337.8,
           "peakViewers": 960
         },
         "month": {
-          "totalMinutes": 2322.7,
+          "totalMinutes": 2338.6,
           "gameMinutes": 698.2,
-          "totalHours": 38.71,
+          "totalHours": 38.98,
           "gameHours": 11.64,
           "sessions": 19,
-          "avgViewers": 353.8,
+          "avgViewers": 351.5,
           "peakViewers": 994
         }
       },
@@ -1852,9 +2191,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 22,
-      "livePeakViewers": 22,
-      "liveAvgViewers": 18.5,
+      "liveViewers": 25,
+      "livePeakViewers": 25,
+      "liveAvgViewers": 20.8,
       "liveSamples": [
         [
           "2026-09-20T09:16:30Z",
@@ -1863,6 +2202,10 @@
         [
           "2026-09-20T09:30:37Z",
           22
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          25
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=6lHgPSVepTA"
@@ -1879,28 +2222,28 @@
       "lastTitle": "9/18일 이터널리턴 랭크전",
       "buckets": {
         "today": {
-          "totalMinutes": 297.3,
-          "gameMinutes": 297.3,
-          "totalHours": 4.95,
-          "gameHours": 4.95,
+          "totalMinutes": 313.3,
+          "gameMinutes": 313.3,
+          "totalHours": 5.22,
+          "gameHours": 5.22,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1778.5,
-          "gameMinutes": 1778.5,
-          "totalHours": 29.64,
-          "gameHours": 29.64,
+          "totalMinutes": 1794.5,
+          "gameMinutes": 1794.5,
+          "totalHours": 29.91,
+          "gameHours": 29.91,
           "sessions": 7,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 1975.4,
-          "gameMinutes": 1975.4,
-          "totalHours": 32.92,
-          "gameHours": 32.92,
+          "totalMinutes": 1991.4,
+          "gameMinutes": 1991.4,
+          "totalHours": 33.19,
+          "gameHours": 33.19,
           "sessions": 8,
           "avgViewers": 1.0,
           "peakViewers": 1
@@ -2050,30 +2393,30 @@
       "lastTitle": "【 #天下無双ARK 】２度目のARK！今回はどんな恐竜がいるのでしょう！【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 130.8,
+          "totalMinutes": 146.8,
           "gameMinutes": 0.0,
-          "totalHours": 2.18,
+          "totalHours": 2.45,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 56.5,
+          "avgViewers": 57.5,
           "peakViewers": 75
         },
         "week": {
-          "totalMinutes": 914.6,
+          "totalMinutes": 930.6,
           "gameMinutes": 291.8,
-          "totalHours": 15.24,
+          "totalHours": 15.51,
           "gameHours": 4.86,
           "sessions": 7,
-          "avgViewers": 44.5,
+          "avgViewers": 44.9,
           "peakViewers": 75
         },
         "month": {
-          "totalMinutes": 1796.6,
+          "totalMinutes": 1812.6,
           "gameMinutes": 476.4,
-          "totalHours": 29.94,
+          "totalHours": 30.21,
           "gameHours": 7.94,
           "sessions": 10,
-          "avgViewers": 42.0,
+          "avgViewers": 42.2,
           "peakViewers": 86
         }
       },
@@ -2382,9 +2725,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 57,
-      "livePeakViewers": 57,
-      "liveAvgViewers": 55.0,
+      "liveViewers": 71,
+      "livePeakViewers": 71,
+      "liveAvgViewers": 60.4,
       "liveSamples": [
         [
           "2026-09-20T09:16:30Z",
@@ -2393,6 +2736,10 @@
         [
           "2026-09-20T09:30:37Z",
           57
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          71
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=9ntJuh0IhnI"
@@ -2409,30 +2756,30 @@
       "lastTitle": "서킷3 3일차, 패자조 + 최종전 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
       "buckets": {
         "today": {
-          "totalMinutes": 312.7,
-          "gameMinutes": 312.7,
-          "totalHours": 5.21,
-          "gameHours": 5.21,
+          "totalMinutes": 328.6,
+          "gameMinutes": 328.6,
+          "totalHours": 5.48,
+          "gameHours": 5.48,
           "sessions": 1,
-          "avgViewers": 32.1,
+          "avgViewers": 32.9,
           "peakViewers": 63
         },
         "week": {
-          "totalMinutes": 923.9,
-          "gameMinutes": 923.9,
-          "totalHours": 15.4,
-          "gameHours": 15.4,
+          "totalMinutes": 939.9,
+          "gameMinutes": 939.9,
+          "totalHours": 15.66,
+          "gameHours": 15.66,
           "sessions": 2,
-          "avgViewers": 18.4,
+          "avgViewers": 18.9,
           "peakViewers": 63
         },
         "month": {
-          "totalMinutes": 1724.6,
-          "gameMinutes": 1724.6,
-          "totalHours": 28.74,
-          "gameHours": 28.74,
+          "totalMinutes": 1740.6,
+          "gameMinutes": 1740.6,
+          "totalHours": 29.01,
+          "gameHours": 29.01,
           "sessions": 5,
-          "avgViewers": 16.9,
+          "avgViewers": 17.2,
           "peakViewers": 63
         }
       },
@@ -2725,9 +3072,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 63,
+      "liveViewers": 49,
       "livePeakViewers": 63,
-      "liveAvgViewers": 32.1,
+      "liveAvgViewers": 32.9,
       "liveSamples": [
         [
           "2026-09-20T04:17:58Z",
@@ -2812,6 +3159,10 @@
         [
           "2026-09-20T09:30:37Z",
           63
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          49
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=6pza4t3zRGY"
@@ -2828,27 +3179,27 @@
       "lastTitle": "늙은이의 주말 이리 시참환영(초보도 환영)",
       "buckets": {
         "today": {
-          "totalMinutes": 372.7,
+          "totalMinutes": 388.7,
           "gameMinutes": 0.0,
-          "totalHours": 6.21,
+          "totalHours": 6.48,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1141.2,
+          "totalMinutes": 1157.1,
           "gameMinutes": 0.0,
-          "totalHours": 19.02,
+          "totalHours": 19.29,
           "gameHours": 0.0,
           "sessions": 6,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 1251.0,
+          "totalMinutes": 1267.0,
           "gameMinutes": 109.9,
-          "totalHours": 20.85,
+          "totalHours": 21.12,
           "gameHours": 1.83,
           "sessions": 7,
           "avgViewers": 1.0,
@@ -2977,27 +3328,27 @@
       "lastTitle": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
       "buckets": {
         "today": {
-          "totalMinutes": 175.2,
+          "totalMinutes": 191.2,
           "gameMinutes": 0.0,
-          "totalHours": 2.92,
+          "totalHours": 3.19,
           "gameHours": 0.0,
           "sessions": 3,
           "avgViewers": 7.3,
           "peakViewers": 15
         },
         "week": {
-          "totalMinutes": 787.7,
+          "totalMinutes": 803.7,
           "gameMinutes": 297.5,
-          "totalHours": 13.13,
+          "totalHours": 13.39,
           "gameHours": 4.96,
           "sessions": 7,
           "avgViewers": 6.5,
           "peakViewers": 15
         },
         "month": {
-          "totalMinutes": 993.9,
+          "totalMinutes": 1009.9,
           "gameMinutes": 436.1,
-          "totalHours": 16.57,
+          "totalHours": 16.83,
           "gameHours": 7.27,
           "sessions": 9,
           "avgViewers": 7.2,
@@ -3267,7 +3618,7 @@
       ],
       "liveViewers": 7,
       "livePeakViewers": 12,
-      "liveAvgViewers": 8.8,
+      "liveAvgViewers": 8.4,
       "liveSamples": [
         [
           "2026-09-20T08:47:38Z",
@@ -3283,6 +3634,10 @@
         ],
         [
           "2026-09-20T09:30:37Z",
+          7
+        ],
+        [
+          "2026-09-20T09:46:35Z",
           7
         ]
       ],
@@ -3300,28 +3655,28 @@
       "lastTitle": "KEL 같이 봅니다｜이터널 리턴 뉴비의 프로 경기 공부",
       "buckets": {
         "today": {
-          "totalMinutes": 485.2,
-          "gameMinutes": 485.2,
-          "totalHours": 8.09,
-          "gameHours": 8.09,
+          "totalMinutes": 501.2,
+          "gameMinutes": 501.2,
+          "totalHours": 8.35,
+          "gameHours": 8.35,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 897.9,
-          "gameMinutes": 897.9,
-          "totalHours": 14.96,
-          "gameHours": 14.96,
+          "totalMinutes": 913.8,
+          "gameMinutes": 913.8,
+          "totalHours": 15.23,
+          "gameHours": 15.23,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 897.9,
-          "gameMinutes": 897.9,
-          "totalHours": 14.96,
-          "gameHours": 14.96,
+          "totalMinutes": 913.8,
+          "gameMinutes": 913.8,
+          "totalHours": 15.23,
+          "gameHours": 15.23,
           "sessions": 2,
           "avgViewers": null,
           "peakViewers": null
@@ -3364,28 +3719,28 @@
       "lastTitle": "서킷3 3일차, 패자조/최종전 | 이터널 리턴 | 2026 대한민국 이스포츠 리그(KEL)",
       "buckets": {
         "today": {
-          "totalMinutes": 312.7,
-          "gameMinutes": 312.7,
-          "totalHours": 5.21,
-          "gameHours": 5.21,
+          "totalMinutes": 328.6,
+          "gameMinutes": 328.6,
+          "totalHours": 5.48,
+          "gameHours": 5.48,
           "sessions": 1,
-          "avgViewers": 1.3,
+          "avgViewers": 1.2,
           "peakViewers": 2
         },
         "week": {
-          "totalMinutes": 847.9,
-          "gameMinutes": 847.9,
-          "totalHours": 14.13,
-          "gameHours": 14.13,
+          "totalMinutes": 863.8,
+          "gameMinutes": 863.8,
+          "totalHours": 14.4,
+          "gameHours": 14.4,
           "sessions": 2,
           "avgViewers": 1.3,
           "peakViewers": 2
         },
         "month": {
-          "totalMinutes": 847.9,
-          "gameMinutes": 847.9,
-          "totalHours": 14.13,
-          "gameHours": 14.13,
+          "totalMinutes": 863.8,
+          "gameMinutes": 863.8,
+          "totalHours": 14.4,
+          "gameHours": 14.4,
           "sessions": 2,
           "avgViewers": 1.3,
           "peakViewers": 2
@@ -3465,7 +3820,7 @@
       ],
       "liveViewers": 1,
       "livePeakViewers": 2,
-      "liveAvgViewers": 1.3,
+      "liveAvgViewers": 1.2,
       "liveSamples": [
         [
           "2026-09-20T07:10:24Z",
@@ -3490,6 +3845,10 @@
         [
           "2026-09-20T09:16:30Z",
           1
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=X1coRMptkf0"
@@ -3506,30 +3865,30 @@
       "lastTitle": "【JP】ETERNAL RETURN 2026 KEL CIRCUIT 3 : DAY3",
       "buckets": {
         "today": {
-          "totalMinutes": 282.8,
-          "gameMinutes": 282.8,
-          "totalHours": 4.71,
-          "gameHours": 4.71,
+          "totalMinutes": 298.8,
+          "gameMinutes": 298.8,
+          "totalHours": 4.98,
+          "gameHours": 4.98,
           "sessions": 1,
-          "avgViewers": 24.6,
+          "avgViewers": 25.5,
           "peakViewers": 42
         },
         "week": {
-          "totalMinutes": 818.0,
-          "gameMinutes": 818.0,
-          "totalHours": 13.63,
-          "gameHours": 13.63,
+          "totalMinutes": 834.0,
+          "gameMinutes": 834.0,
+          "totalHours": 13.9,
+          "gameHours": 13.9,
           "sessions": 2,
-          "avgViewers": 25.4,
+          "avgViewers": 25.7,
           "peakViewers": 42
         },
         "month": {
-          "totalMinutes": 818.0,
-          "gameMinutes": 818.0,
-          "totalHours": 13.63,
-          "gameHours": 13.63,
+          "totalMinutes": 834.0,
+          "gameMinutes": 834.0,
+          "totalHours": 13.9,
+          "gameHours": 13.9,
           "sessions": 2,
-          "avgViewers": 25.4,
+          "avgViewers": 25.7,
           "peakViewers": 42
         }
       },
@@ -3695,7 +4054,7 @@
       ],
       "liveViewers": 42,
       "livePeakViewers": 42,
-      "liveAvgViewers": 24.6,
+      "liveAvgViewers": 25.5,
       "liveSamples": [
         [
           "2026-09-20T04:47:47Z",
@@ -3772,322 +4131,13 @@
         [
           "2026-09-20T09:30:37Z",
           42
+        ],
+        [
+          "2026-09-20T09:46:35Z",
+          42
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=T3Wqe5s90AQ"
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-19T18:31:46Z",
-      "lastTitle": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 196.2,
-          "gameMinutes": 0.0,
-          "totalHours": 3.27,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 43.2,
-          "peakViewers": 75
-        },
-        "week": {
-          "totalMinutes": 3146.0,
-          "gameMinutes": 169.2,
-          "totalHours": 52.43,
-          "gameHours": 2.82,
-          "sessions": 13,
-          "avgViewers": 98.6,
-          "peakViewers": 428
-        },
-        "month": {
-          "totalMinutes": 4561.8,
-          "gameMinutes": 169.2,
-          "totalHours": 76.03,
-          "gameHours": 2.82,
-          "sessions": 18,
-          "avgViewers": 86.6,
-          "peakViewers": 428
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:31:46Z",
-          "minutes": 79.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 18.3,
-          "samples": [
-            [
-              "2026-09-19T17:12:16Z",
-              56
-            ],
-            [
-              "2026-09-19T17:27:50Z",
-              16
-            ],
-            [
-              "2026-09-19T17:39:54Z",
-              9
-            ],
-            [
-              "2026-09-19T17:50:42Z",
-              5
-            ],
-            [
-              "2026-09-19T18:12:28Z",
-              7
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 246.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 75,
-          "avgViewers": 60.2,
-          "samples": [
-            [
-              "2026-09-19T12:49:54Z",
-              73
-            ],
-            [
-              "2026-09-19T13:00:25Z",
-              75
-            ],
-            [
-              "2026-09-19T13:21:07Z",
-              61
-            ],
-            [
-              "2026-09-19T13:37:54Z",
-              65
-            ],
-            [
-              "2026-09-19T13:48:47Z",
-              69
-            ],
-            [
-              "2026-09-19T13:59:22Z",
-              71
-            ],
-            [
-              "2026-09-19T14:16:46Z",
-              58
-            ],
-            [
-              "2026-09-19T14:30:52Z",
-              56
-            ],
-            [
-              "2026-09-19T14:46:21Z",
-              64
-            ],
-            [
-              "2026-09-19T14:56:53Z",
-              66
-            ],
-            [
-              "2026-09-19T15:13:18Z",
-              56
-            ],
-            [
-              "2026-09-19T15:29:16Z",
-              60
-            ],
-            [
-              "2026-09-19T15:41:50Z",
-              42
-            ],
-            [
-              "2026-09-19T15:55:46Z",
-              54
-            ],
-            [
-              "2026-09-19T16:12:11Z",
-              50
-            ],
-            [
-              "2026-09-19T16:30:14Z",
-              48
-            ],
-            [
-              "2026-09-19T16:46:13Z",
-              58
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T09:43:06Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 171.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 166,
-          "avgViewers": 100.6,
-          "samples": [
-            [
-              "2026-09-19T09:43:06Z",
-              76
-            ],
-            [
-              "2026-09-19T09:55:54Z",
-              135
-            ],
-            [
-              "2026-09-19T10:12:20Z",
-              166
-            ],
-            [
-              "2026-09-19T10:29:57Z",
-              98
-            ],
-            [
-              "2026-09-19T10:42:39Z",
-              103
-            ],
-            [
-              "2026-09-19T10:55:55Z",
-              93
-            ],
-            [
-              "2026-09-19T11:11:38Z",
-              101
-            ],
-            [
-              "2026-09-19T11:28:48Z",
-              110
-            ],
-            [
-              "2026-09-19T11:41:43Z",
-              84
-            ],
-            [
-              "2026-09-19T11:55:58Z",
-              69
-            ],
-            [
-              "2026-09-19T12:15:51Z",
-              65
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "nlsGN421BNo",
-          "videoUrl": "https://www.youtube.com/watch?v=nlsGN421BNo",
-          "start": "2026-09-19T05:45:13Z",
-          "end": "2026-09-19T07:01:28Z",
-          "minutes": 76.2,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "寝起き雑談（寝坊してごめんなさい）",
-          "game": null,
-          "peakViewers": 80,
-          "avgViewers": 66.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Z5lemIteZ1Q",
-          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
-          "start": "2026-09-18T14:49:04Z",
-          "end": "2026-09-18T17:28:31Z",
-          "minutes": 159.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 102,
-          "avgViewers": 75.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Z5lemIteZ1Q",
-          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
-          "start": "2026-09-18T09:48:03Z",
-          "end": "2026-09-18T14:33:39Z",
-          "minutes": 285.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 120,
-          "avgViewers": 93.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "MgIpMqgTI3Y",
-          "videoUrl": "https://www.youtube.com/watch?v=MgIpMqgTI3Y",
-          "start": "2026-09-17T09:35:09Z",
-          "end": "2026-09-17T18:21:50Z",
-          "minutes": 526.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#14　なんか不憫って言われてるんですけど頑張って生きてます…【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 361,
-          "avgViewers": 127.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "cgBa4LwIQ1g",
-          "videoUrl": "https://www.youtube.com/watch?v=cgBa4LwIQ1g",
-          "start": "2026-09-16T13:24:39Z",
-          "end": "2026-09-16T18:51:37Z",
-          "minutes": 327.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#13　今日はホストクラブがあるらしいやん？【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 143,
-          "avgViewers": 85.8,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
     },
     {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
