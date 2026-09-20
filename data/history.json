@@ -2,153 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC_c3HArzuJYD-gdZ7tAroBw": {
-      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-      "name": "민키",
-      "videoId": "eoAFw51eaAw",
-      "start": "2026-09-19T23:55:35Z",
-      "startSource": "observed",
-      "title": "이터널리턴 뉴비 랭크전 플레4 정답은 카티야 ㅋㅋㅋ",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-19T23:55:35Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
-      "samples": [
-        [
-          "2026-09-19T23:55:35Z",
-          3
-        ],
-        [
-          "2026-09-20T00:17:21Z",
-          3
-        ],
-        [
-          "2026-09-20T00:39:31Z",
-          1
-        ],
-        [
-          "2026-09-20T00:54:36Z",
-          3
-        ],
-        [
-          "2026-09-20T01:10:04Z",
-          6
-        ],
-        [
-          "2026-09-20T01:25:23Z",
-          3
-        ],
-        [
-          "2026-09-20T01:39:15Z",
-          1
-        ],
-        [
-          "2026-09-20T01:51:30Z",
-          4
-        ],
-        [
-          "2026-09-20T02:11:17Z",
-          5
-        ],
-        [
-          "2026-09-20T02:30:45Z",
-          5
-        ],
-        [
-          "2026-09-20T02:48:01Z",
-          4
-        ],
-        [
-          "2026-09-20T02:58:45Z",
-          4
-        ],
-        [
-          "2026-09-20T03:17:53Z",
-          3
-        ],
-        [
-          "2026-09-20T03:33:25Z",
-          3
-        ],
-        [
-          "2026-09-20T03:48:09Z",
-          3
-        ],
-        [
-          "2026-09-20T03:58:42Z",
-          6
-        ],
-        [
-          "2026-09-20T04:17:58Z",
-          5
-        ],
-        [
-          "2026-09-20T04:33:20Z",
-          4
-        ],
-        [
-          "2026-09-20T04:47:47Z",
-          6
-        ],
-        [
-          "2026-09-20T04:58:20Z",
-          7
-        ],
-        [
-          "2026-09-20T05:16:26Z",
-          5
-        ],
-        [
-          "2026-09-20T05:30:44Z",
-          7
-        ],
-        [
-          "2026-09-20T05:46:40Z",
-          8
-        ],
-        [
-          "2026-09-20T05:57:18Z",
-          5
-        ],
-        [
-          "2026-09-20T06:19:41Z",
-          6
-        ],
-        [
-          "2026-09-20T06:37:37Z",
-          5
-        ],
-        [
-          "2026-09-20T06:52:36Z",
-          3
-        ],
-        [
-          "2026-09-20T07:10:24Z",
-          3
-        ],
-        [
-          "2026-09-20T07:29:25Z",
-          2
-        ],
-        [
-          "2026-09-20T07:42:40Z",
-          3
-        ],
-        [
-          "2026-09-20T07:55:50Z",
-          3
-        ],
-        [
-          "2026-09-20T08:12:57Z",
-          4
-        ],
-        [
-          "2026-09-20T08:30:56Z",
-          5
-        ]
-      ]
-    },
     "UC_TOsq7LNCNbpByrQ8Cwi5A": {
       "channelId": "UC_TOsq7LNCNbpByrQ8Cwi5A",
       "name": "설독이",
@@ -160,7 +13,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T01:25:23Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": []
     },
     "UCSTZTPTiHOScULJ4KdV8WSQ": {
@@ -174,7 +27,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T03:17:53Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": []
     },
     "UCLfO5ulnws_Z4VttSbwhdvQ": {
@@ -188,7 +41,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T03:58:42Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": []
     },
     "UCB6AgLlZxso1HzFNIzVHmZw": {
@@ -202,7 +55,7 @@
       "peakViewers": 57,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T04:17:58Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": [
         [
           "2026-09-20T04:17:58Z",
@@ -271,6 +124,10 @@
         [
           "2026-09-20T08:30:56Z",
           43
+        ],
+        [
+          "2026-09-20T08:47:38Z",
+          52
         ]
       ]
     },
@@ -285,7 +142,7 @@
       "peakViewers": 2,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T04:17:58Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": [
         [
           "2026-09-20T07:10:24Z",
@@ -320,7 +177,7 @@
       "peakViewers": 5,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T04:33:20Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": [
         [
           "2026-09-20T04:33:20Z",
@@ -377,6 +234,10 @@
         [
           "2026-09-20T08:30:56Z",
           2
+        ],
+        [
+          "2026-09-20T08:47:38Z",
+          2
         ]
       ]
     },
@@ -391,7 +252,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T04:33:20Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": []
     },
     "UCdfqaZPAstutii6NLvGoblA": {
@@ -405,7 +266,7 @@
       "peakViewers": 4,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T04:47:47Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": [
         [
           "2026-09-20T04:47:47Z",
@@ -466,6 +327,10 @@
         [
           "2026-09-20T08:30:56Z",
           3
+        ],
+        [
+          "2026-09-20T08:47:38Z",
+          2
         ]
       ]
     },
@@ -477,10 +342,10 @@
       "startSource": "observed",
       "title": "【JP】ETERNAL RETURN 2026 KEL CIRCUIT 3 : DAY4",
       "game": null,
-      "peakViewers": 33,
+      "peakViewers": 35,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-20T04:47:47Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": [
         [
           "2026-09-20T04:47:47Z",
@@ -541,104 +406,10 @@
         [
           "2026-09-20T08:30:56Z",
           29
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "ostRrTkX8Rc",
-      "start": "2026-09-20T06:19:41Z",
-      "startSource": "observed",
-      "title": "【APEX】今日はちゃんぽんとるぞ w/瀬尾カザリ、石狩あかり【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 38,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-20T06:19:41Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
-      "samples": [
-        [
-          "2026-09-20T06:19:41Z",
-          31
         ],
         [
-          "2026-09-20T06:37:37Z",
-          37
-        ],
-        [
-          "2026-09-20T06:52:36Z",
-          26
-        ],
-        [
-          "2026-09-20T07:10:24Z",
-          29
-        ],
-        [
-          "2026-09-20T07:29:25Z",
-          29
-        ],
-        [
-          "2026-09-20T07:42:40Z",
-          38
-        ],
-        [
-          "2026-09-20T07:55:50Z",
-          29
-        ],
-        [
-          "2026-09-20T08:12:57Z",
-          31
-        ],
-        [
-          "2026-09-20T08:30:56Z",
-          30
-        ]
-      ]
-    },
-    "UCNGMMdEgYIUR6rC44v9aZ8w": {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "lkDt-wlEiME",
-      "start": "2026-09-20T06:37:37Z",
-      "startSource": "observed",
-      "title": "【APEX】今日もあのメンバーでAPEXです、か。【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 53,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-20T06:37:37Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
-      "samples": [
-        [
-          "2026-09-20T06:37:37Z",
-          24
-        ],
-        [
-          "2026-09-20T06:52:36Z",
-          31
-        ],
-        [
-          "2026-09-20T07:10:24Z",
-          32
-        ],
-        [
-          "2026-09-20T07:29:25Z",
-          37
-        ],
-        [
-          "2026-09-20T07:42:40Z",
-          43
-        ],
-        [
-          "2026-09-20T07:55:50Z",
-          53
-        ],
-        [
-          "2026-09-20T08:12:57Z",
-          49
-        ],
-        [
-          "2026-09-20T08:30:56Z",
-          52
+          "2026-09-20T08:47:38Z",
+          35
         ]
       ]
     },
@@ -650,10 +421,10 @@
       "startSource": "observed",
       "title": "〖 クロノ・トリガー╎#7 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 99,
+      "peakViewers": 111,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-20T08:12:57Z",
-      "lastSeenAt": "2026-09-20T08:30:56Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
       "samples": [
         [
           "2026-09-20T08:12:57Z",
@@ -662,6 +433,29 @@
         [
           "2026-09-20T08:30:56Z",
           99
+        ],
+        [
+          "2026-09-20T08:47:38Z",
+          111
+        ]
+      ]
+    },
+    "UCADIxr9ho7V60xs9gT9xWhA": {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "1AkAZfNPY98",
+      "start": "2026-09-20T08:47:38Z",
+      "startSource": "observed",
+      "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
+      "game": null,
+      "peakViewers": 3,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-20T08:47:38Z",
+      "lastSeenAt": "2026-09-20T08:47:38Z",
+      "samples": [
+        [
+          "2026-09-20T08:47:38Z",
+          3
         ]
       ]
     }
@@ -25192,6 +24986,156 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
+      "name": "민키",
+      "videoId": "eoAFw51eaAw",
+      "videoUrl": "https://www.youtube.com/watch?v=eoAFw51eaAw",
+      "start": "2026-09-19T23:55:35Z",
+      "end": "2026-09-20T08:47:38Z",
+      "minutes": 532.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "이터널리턴 뉴비 랭크전 플레4 정답은 카티야 ㅋㅋㅋ",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 4.2,
+      "samples": [
+        [
+          "2026-09-19T23:55:35Z",
+          3
+        ],
+        [
+          "2026-09-20T00:17:21Z",
+          3
+        ],
+        [
+          "2026-09-20T00:39:31Z",
+          1
+        ],
+        [
+          "2026-09-20T00:54:36Z",
+          3
+        ],
+        [
+          "2026-09-20T01:10:04Z",
+          6
+        ],
+        [
+          "2026-09-20T01:25:23Z",
+          3
+        ],
+        [
+          "2026-09-20T01:39:15Z",
+          1
+        ],
+        [
+          "2026-09-20T01:51:30Z",
+          4
+        ],
+        [
+          "2026-09-20T02:11:17Z",
+          5
+        ],
+        [
+          "2026-09-20T02:30:45Z",
+          5
+        ],
+        [
+          "2026-09-20T02:48:01Z",
+          4
+        ],
+        [
+          "2026-09-20T02:58:45Z",
+          4
+        ],
+        [
+          "2026-09-20T03:17:53Z",
+          3
+        ],
+        [
+          "2026-09-20T03:33:25Z",
+          3
+        ],
+        [
+          "2026-09-20T03:48:09Z",
+          3
+        ],
+        [
+          "2026-09-20T03:58:42Z",
+          6
+        ],
+        [
+          "2026-09-20T04:17:58Z",
+          5
+        ],
+        [
+          "2026-09-20T04:33:20Z",
+          4
+        ],
+        [
+          "2026-09-20T04:47:47Z",
+          6
+        ],
+        [
+          "2026-09-20T04:58:20Z",
+          7
+        ],
+        [
+          "2026-09-20T05:16:26Z",
+          5
+        ],
+        [
+          "2026-09-20T05:30:44Z",
+          7
+        ],
+        [
+          "2026-09-20T05:46:40Z",
+          8
+        ],
+        [
+          "2026-09-20T05:57:18Z",
+          5
+        ],
+        [
+          "2026-09-20T06:19:41Z",
+          6
+        ],
+        [
+          "2026-09-20T06:37:37Z",
+          5
+        ],
+        [
+          "2026-09-20T06:52:36Z",
+          3
+        ],
+        [
+          "2026-09-20T07:10:24Z",
+          3
+        ],
+        [
+          "2026-09-20T07:29:25Z",
+          2
+        ],
+        [
+          "2026-09-20T07:42:40Z",
+          3
+        ],
+        [
+          "2026-09-20T07:55:50Z",
+          3
+        ],
+        [
+          "2026-09-20T08:12:57Z",
+          4
+        ],
+        [
+          "2026-09-20T08:30:56Z",
+          5
+        ]
+      ],
+      "isTargetGame": true
+    },
+    {
       "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
       "name": "상자곰",
       "videoId": "qXNmna2cZlQ",
@@ -25403,6 +25347,110 @@
       "avgViewers": null,
       "samples": [],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "ostRrTkX8Rc",
+      "videoUrl": "https://www.youtube.com/watch?v=ostRrTkX8Rc",
+      "start": "2026-09-20T06:19:41Z",
+      "end": "2026-09-20T08:47:38Z",
+      "minutes": 148.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【APEX】今日はちゃんぽんとるぞ w/瀬尾カザリ、石狩あかり【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 38,
+      "avgViewers": 30.9,
+      "samples": [
+        [
+          "2026-09-20T06:19:41Z",
+          31
+        ],
+        [
+          "2026-09-20T06:37:37Z",
+          37
+        ],
+        [
+          "2026-09-20T06:52:36Z",
+          26
+        ],
+        [
+          "2026-09-20T07:10:24Z",
+          29
+        ],
+        [
+          "2026-09-20T07:29:25Z",
+          29
+        ],
+        [
+          "2026-09-20T07:42:40Z",
+          38
+        ],
+        [
+          "2026-09-20T07:55:50Z",
+          29
+        ],
+        [
+          "2026-09-20T08:12:57Z",
+          31
+        ],
+        [
+          "2026-09-20T08:30:56Z",
+          30
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "lkDt-wlEiME",
+      "videoUrl": "https://www.youtube.com/watch?v=lkDt-wlEiME",
+      "start": "2026-09-20T06:37:37Z",
+      "end": "2026-09-20T08:47:38Z",
+      "minutes": 130.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【APEX】今日もあのメンバーでAPEXです、か。【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 53,
+      "avgViewers": 40.2,
+      "samples": [
+        [
+          "2026-09-20T06:37:37Z",
+          24
+        ],
+        [
+          "2026-09-20T06:52:36Z",
+          31
+        ],
+        [
+          "2026-09-20T07:10:24Z",
+          32
+        ],
+        [
+          "2026-09-20T07:29:25Z",
+          37
+        ],
+        [
+          "2026-09-20T07:42:40Z",
+          43
+        ],
+        [
+          "2026-09-20T07:55:50Z",
+          53
+        ],
+        [
+          "2026-09-20T08:12:57Z",
+          49
+        ],
+        [
+          "2026-09-20T08:30:56Z",
+          52
+        ]
+      ],
+      "isTargetGame": false
     }
   ]
 }
