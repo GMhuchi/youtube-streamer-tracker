@@ -13,21 +13,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T00:18:45Z",
-      "lastSeenAt": "2026-09-21T05:01:29Z",
-      "samples": []
-    },
-    "UCHReTde3AGMElSQCbCftF7Q": {
-      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-      "name": "전부벗은새우튀김",
-      "videoId": "8yPDls7j3K4",
-      "start": "2026-09-21T02:49:21Z",
-      "startSource": "observed",
-      "title": "[2026.9.21] 이터널리턴 랭크",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": true,
-      "firstSeenAt": "2026-09-21T02:49:21Z",
-      "lastSeenAt": "2026-09-21T05:01:29Z",
+      "lastSeenAt": "2026-09-21T05:22:15Z",
       "samples": []
     },
     "UCvtfuV9mBAw9znLzICiqpOw": {
@@ -41,7 +27,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T03:00:29Z",
-      "lastSeenAt": "2026-09-21T05:01:29Z",
+      "lastSeenAt": "2026-09-21T05:22:15Z",
       "samples": []
     },
     "UClOhr2WzxqzuyjWWQgPLGIg": {
@@ -52,10 +38,10 @@
       "startSource": "observed",
       "title": "로스트아크 수요일에 모르둠 오픈런하실 분들 모집 중!",
       "game": null,
-      "peakViewers": 106,
+      "peakViewers": 113,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T04:11:09Z",
-      "lastSeenAt": "2026-09-21T05:01:29Z",
+      "lastSeenAt": "2026-09-21T05:22:15Z",
       "samples": [
         [
           "2026-09-21T04:11:09Z",
@@ -72,6 +58,10 @@
         [
           "2026-09-21T05:01:29Z",
           106
+        ],
+        [
+          "2026-09-21T05:22:15Z",
+          113
         ]
       ]
     },
@@ -83,10 +73,10 @@
       "startSource": "observed",
       "title": "【Forza Horizon6】行け！無免許！ついにレジェンドへ！！＃３２【#七乃羽すず┆すずみあ】",
       "game": null,
-      "peakViewers": 64,
+      "peakViewers": 76,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T04:32:56Z",
-      "lastSeenAt": "2026-09-21T05:01:29Z",
+      "lastSeenAt": "2026-09-21T05:22:15Z",
       "samples": [
         [
           "2026-09-21T04:32:56Z",
@@ -99,6 +89,10 @@
         [
           "2026-09-21T05:01:29Z",
           64
+        ],
+        [
+          "2026-09-21T05:22:15Z",
+          76
         ]
       ]
     },
@@ -113,7 +107,7 @@
       "peakViewers": 95,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T04:50:06Z",
-      "lastSeenAt": "2026-09-21T05:01:29Z",
+      "lastSeenAt": "2026-09-21T05:22:15Z",
       "samples": [
         [
           "2026-09-21T04:50:06Z",
@@ -122,8 +116,26 @@
         [
           "2026-09-21T05:01:29Z",
           95
+        ],
+        [
+          "2026-09-21T05:22:15Z",
+          94
         ]
       ]
+    },
+    "UCLfO5ulnws_Z4VttSbwhdvQ": {
+      "channelId": "UCLfO5ulnws_Z4VttSbwhdvQ",
+      "name": "덤덤",
+      "videoId": "ly3fgv7BRfc",
+      "start": "2026-09-21T05:22:15Z",
+      "startSource": "observed",
+      "title": "이터널 리턴)든든한 든든",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-21T05:22:15Z",
+      "lastSeenAt": "2026-09-21T05:22:15Z",
+      "samples": []
     }
   },
   "sessions": [
@@ -28518,6 +28530,23 @@
         ]
       ],
       "isTargetGame": false
+    },
+    {
+      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+      "name": "전부벗은새우튀김",
+      "videoId": "8yPDls7j3K4",
+      "videoUrl": "https://www.youtube.com/watch?v=8yPDls7j3K4",
+      "start": "2026-09-21T02:49:21Z",
+      "end": "2026-09-21T05:22:15Z",
+      "minutes": 152.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[2026.9.21] 이터널리턴 랭크",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": true
     }
   ]
 }
