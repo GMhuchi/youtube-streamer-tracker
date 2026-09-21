@@ -2,45 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6CYnOID9JZjKv6YZwgCW5Q": {
-      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-      "name": "Alcatraz",
-      "videoId": "23oeqitWp0g",
-      "start": "2026-09-21T16:49:12Z",
-      "startSource": "observed",
-      "title": "사출한 후 즐기는 힐링 MMD 제작소",
-      "game": null,
-      "peakViewers": 6,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T16:49:12Z",
-      "lastSeenAt": "2026-09-21T18:51:41Z",
-      "samples": [
-        [
-          "2026-09-21T16:49:12Z",
-          6
-        ],
-        [
-          "2026-09-21T16:59:47Z",
-          5
-        ],
-        [
-          "2026-09-21T17:16:03Z",
-          1
-        ],
-        [
-          "2026-09-21T17:43:28Z",
-          1
-        ],
-        [
-          "2026-09-21T17:55:41Z",
-          1
-        ],
-        [
-          "2026-09-21T18:13:58Z",
-          2
-        ]
-      ]
-    },
     "UCJgiA5bfdc4g_j-i4-Q7DZg": {
       "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
       "name": "팬텀이",
@@ -52,7 +13,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T18:34:55Z",
-      "lastSeenAt": "2026-09-21T18:51:41Z",
+      "lastSeenAt": "2026-09-21T19:10:27Z",
       "samples": []
     }
   },
@@ -31087,6 +31048,48 @@
       "peakViewers": null,
       "avgViewers": null,
       "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+      "name": "Alcatraz",
+      "videoId": "23oeqitWp0g",
+      "videoUrl": "https://www.youtube.com/watch?v=23oeqitWp0g",
+      "start": "2026-09-21T16:49:12Z",
+      "end": "2026-09-21T19:10:27Z",
+      "minutes": 141.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "사출한 후 즐기는 힐링 MMD 제작소",
+      "game": null,
+      "peakViewers": 6,
+      "avgViewers": 2.3,
+      "samples": [
+        [
+          "2026-09-21T16:49:12Z",
+          6
+        ],
+        [
+          "2026-09-21T16:59:47Z",
+          5
+        ],
+        [
+          "2026-09-21T17:16:03Z",
+          1
+        ],
+        [
+          "2026-09-21T17:43:28Z",
+          1
+        ],
+        [
+          "2026-09-21T17:55:41Z",
+          1
+        ],
+        [
+          "2026-09-21T18:13:58Z",
+          2
+        ]
+      ],
       "isTargetGame": false
     },
     {

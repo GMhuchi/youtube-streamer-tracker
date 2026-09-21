@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T18:51:41Z",
+  "updatedAt": "2026-09-21T19:10:27Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2587.3,
+      "totalMinutes": 2624.8,
       "gameMinutes": 525.5,
-      "totalHours": 43.12,
+      "totalHours": 43.75,
       "gameHours": 8.76,
       "sessions": 25,
-      "avgViewers": 68.0,
+      "avgViewers": 67.5,
       "peakViewers": 959
     },
     "week": {
-      "totalMinutes": 13325.5,
+      "totalMinutes": 13363.0,
       "gameMinutes": 2660.0,
-      "totalHours": 222.09,
+      "totalHours": 222.72,
       "gameHours": 44.33,
       "sessions": 71,
-      "avgViewers": 69.8,
+      "avgViewers": 69.7,
       "peakViewers": 959
     },
     "month": {
-      "totalMinutes": 106777.1,
+      "totalMinutes": 106814.7,
       "gameMinutes": 45149.0,
-      "totalHours": 1779.62,
+      "totalHours": 1780.24,
       "gameHours": 752.48,
       "sessions": 587,
       "avgViewers": 76.9,
@@ -44,329 +44,6 @@
     }
   },
   "channels": [
-    {
-      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-      "name": "Alcatraz",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6CYnOID9JZjKv6YZwgCW5Q",
-      "isLive": true,
-      "liveSince": "2026-09-21T16:49:12Z",
-      "liveTitle": "사출한 후 즐기는 힐링 MMD 제작소",
-      "lastEnd": "2026-09-21T16:49:12Z",
-      "lastTitle": "뎁마 원험으로 미스릴 도전기!",
-      "buckets": {
-        "today": {
-          "totalMinutes": 231.7,
-          "gameMinutes": 0.0,
-          "totalHours": 3.86,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 3.6,
-          "peakViewers": 12
-        },
-        "week": {
-          "totalMinutes": 497.0,
-          "gameMinutes": 0.0,
-          "totalHours": 8.28,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 4.0,
-          "peakViewers": 12
-        },
-        "month": {
-          "totalMinutes": 2264.8,
-          "gameMinutes": 694.5,
-          "totalHours": 37.75,
-          "gameHours": 11.58,
-          "sessions": 13,
-          "avgViewers": 3.4,
-          "peakViewers": 12
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "CuzONqZpmjE",
-          "videoUrl": "https://www.youtube.com/watch?v=CuzONqZpmjE",
-          "start": "2026-09-21T13:49:05Z",
-          "end": "2026-09-21T16:49:12Z",
-          "minutes": 180.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "뎁마 원험으로 미스릴 도전기!",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 5.1,
-          "samples": [
-            [
-              "2026-09-21T13:49:05Z",
-              1
-            ],
-            [
-              "2026-09-21T13:59:52Z",
-              1
-            ],
-            [
-              "2026-09-21T14:19:25Z",
-              3
-            ],
-            [
-              "2026-09-21T14:34:30Z",
-              5
-            ],
-            [
-              "2026-09-21T14:49:31Z",
-              3
-            ],
-            [
-              "2026-09-21T14:59:59Z",
-              3
-            ],
-            [
-              "2026-09-21T15:17:23Z",
-              4
-            ],
-            [
-              "2026-09-21T15:32:05Z",
-              6
-            ],
-            [
-              "2026-09-21T15:48:20Z",
-              12
-            ],
-            [
-              "2026-09-21T15:59:05Z",
-              8
-            ],
-            [
-              "2026-09-21T16:19:10Z",
-              7
-            ],
-            [
-              "2026-09-21T16:34:31Z",
-              9
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "qGSWv4iM2aQ",
-          "videoUrl": "https://www.youtube.com/watch?v=qGSWv4iM2aQ",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T18:14:23Z",
-          "minutes": 198.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "야심한 새벽의 힐링 MMD 제작소",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 4.1,
-          "samples": [
-            [
-              "2026-09-20T14:55:55Z",
-              7
-            ],
-            [
-              "2026-09-20T15:12:04Z",
-              4
-            ],
-            [
-              "2026-09-20T15:29:39Z",
-              4
-            ],
-            [
-              "2026-09-20T15:42:33Z",
-              3
-            ],
-            [
-              "2026-09-20T15:56:03Z",
-              7
-            ],
-            [
-              "2026-09-20T16:13:02Z",
-              3
-            ],
-            [
-              "2026-09-20T16:30:34Z",
-              6
-            ],
-            [
-              "2026-09-20T16:46:45Z",
-              3
-            ],
-            [
-              "2026-09-20T16:57:34Z",
-              3
-            ],
-            [
-              "2026-09-20T17:13:45Z",
-              3
-            ],
-            [
-              "2026-09-20T17:28:49Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "qGSWv4iM2aQ",
-          "videoUrl": "https://www.youtube.com/watch?v=qGSWv4iM2aQ",
-          "start": "2026-09-20T13:10:05Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 92.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "뎁마 원험으로 미스릴 도전기",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 2.0,
-          "samples": [
-            [
-              "2026-09-20T13:25:26Z",
-              2
-            ],
-            [
-              "2026-09-20T13:38:34Z",
-              3
-            ],
-            [
-              "2026-09-20T13:50:32Z",
-              3
-            ],
-            [
-              "2026-09-20T14:10:54Z",
-              1
-            ],
-            [
-              "2026-09-20T14:29:46Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "YPdOZzF3skM",
-          "videoUrl": "https://www.youtube.com/watch?v=YPdOZzF3skM",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:58:23Z",
-          "minutes": 106.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴 MMD 공방",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 2.1,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "YPdOZzF3skM",
-          "videoUrl": "https://www.youtube.com/watch?v=YPdOZzF3skM",
-          "start": "2026-09-19T13:48:47Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 187.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "뎁마 원험으로 미스릴 도전기",
-          "game": null,
-          "peakViewers": 6,
-          "avgViewers": 3.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "Wz68Pjqpx6M",
-          "videoUrl": "https://www.youtube.com/watch?v=Wz68Pjqpx6M",
-          "start": "2026-09-19T06:15:11Z",
-          "end": "2026-09-19T09:10:55Z",
-          "minutes": 175.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "이터널 리턴 MMD 제작소",
-          "game": null,
-          "peakViewers": 9,
-          "avgViewers": 3.4,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "qyKF2Ddx40k",
-          "videoUrl": "https://www.youtube.com/watch?v=qyKF2Ddx40k",
-          "start": "2026-09-18T14:49:04Z",
-          "end": "2026-09-18T20:12:01Z",
-          "minutes": 323.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "림부스 10장 상편 스토리!",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 3.0,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
-          "name": "Alcatraz",
-          "videoId": "qyKF2Ddx40k",
-          "videoUrl": "https://www.youtube.com/watch?v=qyKF2Ddx40k",
-          "start": "2026-09-18T13:48:36Z",
-          "end": "2026-09-18T14:33:39Z",
-          "minutes": 45.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "뎁마 원험으로 미스릴 도전기!",
-          "game": null,
-          "peakViewers": 2,
-          "avgViewers": 1.8,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 2,
-      "livePeakViewers": 6,
-      "liveAvgViewers": 2.3,
-      "liveSamples": [
-        [
-          "2026-09-21T16:49:12Z",
-          6
-        ],
-        [
-          "2026-09-21T16:59:47Z",
-          5
-        ],
-        [
-          "2026-09-21T17:16:03Z",
-          1
-        ],
-        [
-          "2026-09-21T17:43:28Z",
-          1
-        ],
-        [
-          "2026-09-21T17:55:41Z",
-          1
-        ],
-        [
-          "2026-09-21T18:13:58Z",
-          2
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=23oeqitWp0g"
-    },
     {
       "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
       "name": "팬텀이",
@@ -379,27 +56,27 @@
       "lastTitle": "배그에서 이사갑니다.",
       "buckets": {
         "today": {
-          "totalMinutes": 132.8,
+          "totalMinutes": 151.6,
           "gameMinutes": 0.0,
-          "totalHours": 2.21,
+          "totalHours": 2.53,
           "gameHours": 0.0,
           "sessions": 5,
           "avgViewers": 2.0,
           "peakViewers": 3
         },
         "week": {
-          "totalMinutes": 263.9,
+          "totalMinutes": 282.7,
           "gameMinutes": 0.0,
-          "totalHours": 4.4,
+          "totalHours": 4.71,
           "gameHours": 0.0,
           "sessions": 6,
           "avgViewers": 1.5,
           "peakViewers": 3
         },
         "month": {
-          "totalMinutes": 874.8,
+          "totalMinutes": 893.5,
           "gameMinutes": 0.0,
-          "totalHours": 14.58,
+          "totalHours": 14.89,
           "gameHours": 0.0,
           "sessions": 11,
           "avgViewers": 1.5,
@@ -7128,6 +6805,303 @@
           "avgViewers": 30.5,
           "samples": [],
           "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+      "name": "Alcatraz",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6CYnOID9JZjKv6YZwgCW5Q",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-21T19:10:27Z",
+      "lastTitle": "사출한 후 즐기는 힐링 MMD 제작소",
+      "buckets": {
+        "today": {
+          "totalMinutes": 250.4,
+          "gameMinutes": 0.0,
+          "totalHours": 4.17,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 3.5,
+          "peakViewers": 12
+        },
+        "week": {
+          "totalMinutes": 515.8,
+          "gameMinutes": 0.0,
+          "totalHours": 8.6,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 4.0,
+          "peakViewers": 12
+        },
+        "month": {
+          "totalMinutes": 2283.6,
+          "gameMinutes": 694.5,
+          "totalHours": 38.06,
+          "gameHours": 11.58,
+          "sessions": 13,
+          "avgViewers": 3.4,
+          "peakViewers": 12
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "23oeqitWp0g",
+          "videoUrl": "https://www.youtube.com/watch?v=23oeqitWp0g",
+          "start": "2026-09-21T16:49:12Z",
+          "end": "2026-09-21T19:10:27Z",
+          "minutes": 141.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "사출한 후 즐기는 힐링 MMD 제작소",
+          "game": null,
+          "peakViewers": 6,
+          "avgViewers": 2.3,
+          "samples": [
+            [
+              "2026-09-21T16:49:12Z",
+              6
+            ],
+            [
+              "2026-09-21T16:59:47Z",
+              5
+            ],
+            [
+              "2026-09-21T17:16:03Z",
+              1
+            ],
+            [
+              "2026-09-21T17:43:28Z",
+              1
+            ],
+            [
+              "2026-09-21T17:55:41Z",
+              1
+            ],
+            [
+              "2026-09-21T18:13:58Z",
+              2
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "CuzONqZpmjE",
+          "videoUrl": "https://www.youtube.com/watch?v=CuzONqZpmjE",
+          "start": "2026-09-21T13:49:05Z",
+          "end": "2026-09-21T16:49:12Z",
+          "minutes": 180.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "뎁마 원험으로 미스릴 도전기!",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 5.1,
+          "samples": [
+            [
+              "2026-09-21T13:49:05Z",
+              1
+            ],
+            [
+              "2026-09-21T13:59:52Z",
+              1
+            ],
+            [
+              "2026-09-21T14:19:25Z",
+              3
+            ],
+            [
+              "2026-09-21T14:34:30Z",
+              5
+            ],
+            [
+              "2026-09-21T14:49:31Z",
+              3
+            ],
+            [
+              "2026-09-21T14:59:59Z",
+              3
+            ],
+            [
+              "2026-09-21T15:17:23Z",
+              4
+            ],
+            [
+              "2026-09-21T15:32:05Z",
+              6
+            ],
+            [
+              "2026-09-21T15:48:20Z",
+              12
+            ],
+            [
+              "2026-09-21T15:59:05Z",
+              8
+            ],
+            [
+              "2026-09-21T16:19:10Z",
+              7
+            ],
+            [
+              "2026-09-21T16:34:31Z",
+              9
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "qGSWv4iM2aQ",
+          "videoUrl": "https://www.youtube.com/watch?v=qGSWv4iM2aQ",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T18:14:23Z",
+          "minutes": 198.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "야심한 새벽의 힐링 MMD 제작소",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 4.1,
+          "samples": [
+            [
+              "2026-09-20T14:55:55Z",
+              7
+            ],
+            [
+              "2026-09-20T15:12:04Z",
+              4
+            ],
+            [
+              "2026-09-20T15:29:39Z",
+              4
+            ],
+            [
+              "2026-09-20T15:42:33Z",
+              3
+            ],
+            [
+              "2026-09-20T15:56:03Z",
+              7
+            ],
+            [
+              "2026-09-20T16:13:02Z",
+              3
+            ],
+            [
+              "2026-09-20T16:30:34Z",
+              6
+            ],
+            [
+              "2026-09-20T16:46:45Z",
+              3
+            ],
+            [
+              "2026-09-20T16:57:34Z",
+              3
+            ],
+            [
+              "2026-09-20T17:13:45Z",
+              3
+            ],
+            [
+              "2026-09-20T17:28:49Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "qGSWv4iM2aQ",
+          "videoUrl": "https://www.youtube.com/watch?v=qGSWv4iM2aQ",
+          "start": "2026-09-20T13:10:05Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 92.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "뎁마 원험으로 미스릴 도전기",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 2.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "YPdOZzF3skM",
+          "videoUrl": "https://www.youtube.com/watch?v=YPdOZzF3skM",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T18:58:23Z",
+          "minutes": 106.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴 MMD 공방",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 2.1,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "YPdOZzF3skM",
+          "videoUrl": "https://www.youtube.com/watch?v=YPdOZzF3skM",
+          "start": "2026-09-19T13:48:47Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 187.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "뎁마 원험으로 미스릴 도전기",
+          "game": null,
+          "peakViewers": 6,
+          "avgViewers": 3.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "Wz68Pjqpx6M",
+          "videoUrl": "https://www.youtube.com/watch?v=Wz68Pjqpx6M",
+          "start": "2026-09-19T06:15:11Z",
+          "end": "2026-09-19T09:10:55Z",
+          "minutes": 175.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "이터널 리턴 MMD 제작소",
+          "game": null,
+          "peakViewers": 9,
+          "avgViewers": 3.4,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+          "name": "Alcatraz",
+          "videoId": "qyKF2Ddx40k",
+          "videoUrl": "https://www.youtube.com/watch?v=qyKF2Ddx40k",
+          "start": "2026-09-18T14:49:04Z",
+          "end": "2026-09-18T20:12:01Z",
+          "minutes": 323.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "림부스 10장 상편 스토리!",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": true
         }
       ]
     },
@@ -15271,6 +15245,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+      "name": "Alcatraz",
+      "videoId": "23oeqitWp0g",
+      "videoUrl": "https://www.youtube.com/watch?v=23oeqitWp0g",
+      "start": "2026-09-21T16:49:12Z",
+      "end": "2026-09-21T19:10:27Z",
+      "minutes": 141.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "사출한 후 즐기는 힐링 MMD 제작소",
+      "game": null,
+      "peakViewers": 6,
+      "avgViewers": 2.3,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
       "name": "팬텀이",
       "videoId": "Yer0qzOZHq0",
@@ -16164,22 +16154,6 @@
       "game": null,
       "peakViewers": 34,
       "avgViewers": 25.5,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "1AkAZfNPY98",
-      "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
-      "start": "2026-09-20T14:55:55Z",
-      "end": "2026-09-20T17:13:45Z",
-      "minutes": 137.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
-      "game": null,
-      "peakViewers": 7,
-      "avgViewers": 4.7,
       "isTargetGame": false
     }
   ]
