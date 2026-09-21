@@ -13,7 +13,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T13:16:18Z",
-      "lastSeenAt": "2026-09-21T17:43:28Z",
+      "lastSeenAt": "2026-09-21T17:55:41Z",
       "samples": []
     },
     "UCElYE3bfzjjmJ9xwjvro9Yw": {
@@ -27,7 +27,7 @@
       "peakViewers": 41,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T13:49:05Z",
-      "lastSeenAt": "2026-09-21T17:43:28Z",
+      "lastSeenAt": "2026-09-21T17:55:41Z",
       "samples": [
         [
           "2026-09-21T13:49:05Z",
@@ -96,6 +96,10 @@
         [
           "2026-09-21T17:43:28Z",
           34
+        ],
+        [
+          "2026-09-21T17:55:41Z",
+          30
         ]
       ]
     },
@@ -110,7 +114,7 @@
       "peakViewers": 141,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T14:34:30Z",
-      "lastSeenAt": "2026-09-21T17:43:28Z",
+      "lastSeenAt": "2026-09-21T17:55:41Z",
       "samples": [
         [
           "2026-09-21T14:34:30Z",
@@ -167,6 +171,10 @@
         [
           "2026-09-21T17:43:28Z",
           141
+        ],
+        [
+          "2026-09-21T17:55:41Z",
+          135
         ]
       ]
     },
@@ -181,7 +189,7 @@
       "peakViewers": 6,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T16:49:12Z",
-      "lastSeenAt": "2026-09-21T17:43:28Z",
+      "lastSeenAt": "2026-09-21T17:55:41Z",
       "samples": [
         [
           "2026-09-21T16:49:12Z",
@@ -198,22 +206,12 @@
         [
           "2026-09-21T17:43:28Z",
           1
+        ],
+        [
+          "2026-09-21T17:55:41Z",
+          1
         ]
       ]
-    },
-    "UCJgiA5bfdc4g_j-i4-Q7DZg": {
-      "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
-      "name": "팬텀이",
-      "videoId": "Yer0qzOZHq0",
-      "start": "2026-09-21T17:29:42Z",
-      "startSource": "observed",
-      "title": "배그에서 이사갑니다.",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T17:29:42Z",
-      "lastSeenAt": "2026-09-21T17:43:28Z",
-      "samples": []
     }
   },
   "sessions": [
@@ -31068,6 +31066,23 @@
       "start": "2026-09-21T16:59:47Z",
       "end": "2026-09-21T17:16:03Z",
       "minutes": 16.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "배그에서 이사갑니다.",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
+      "name": "팬텀이",
+      "videoId": "Yer0qzOZHq0",
+      "videoUrl": "https://www.youtube.com/watch?v=Yer0qzOZHq0",
+      "start": "2026-09-21T17:29:42Z",
+      "end": "2026-09-21T17:55:41Z",
+      "minutes": 26.0,
       "startSource": "observed",
       "endSource": "observed",
       "title": "배그에서 이사갑니다.",
