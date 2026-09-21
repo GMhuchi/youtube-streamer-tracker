@@ -13,21 +13,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T00:18:45Z",
-      "lastSeenAt": "2026-09-21T05:22:15Z",
-      "samples": []
-    },
-    "UCvtfuV9mBAw9znLzICiqpOw": {
-      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-      "name": "상자곰",
-      "videoId": "KIyoYTQZtOI",
-      "start": "2026-09-21T03:00:29Z",
-      "startSource": "observed",
-      "title": "[젠레스 존 제로]굴러라 클라렛",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T03:00:29Z",
-      "lastSeenAt": "2026-09-21T05:22:15Z",
+      "lastSeenAt": "2026-09-21T05:40:47Z",
       "samples": []
     },
     "UClOhr2WzxqzuyjWWQgPLGIg": {
@@ -41,7 +27,7 @@
       "peakViewers": 113,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T04:11:09Z",
-      "lastSeenAt": "2026-09-21T05:22:15Z",
+      "lastSeenAt": "2026-09-21T05:40:47Z",
       "samples": [
         [
           "2026-09-21T04:11:09Z",
@@ -62,6 +48,10 @@
         [
           "2026-09-21T05:22:15Z",
           113
+        ],
+        [
+          "2026-09-21T05:40:47Z",
+          97
         ]
       ]
     },
@@ -73,10 +63,10 @@
       "startSource": "observed",
       "title": "【Forza Horizon6】行け！無免許！ついにレジェンドへ！！＃３２【#七乃羽すず┆すずみあ】",
       "game": null,
-      "peakViewers": 76,
+      "peakViewers": 84,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T04:32:56Z",
-      "lastSeenAt": "2026-09-21T05:22:15Z",
+      "lastSeenAt": "2026-09-21T05:40:47Z",
       "samples": [
         [
           "2026-09-21T04:32:56Z",
@@ -93,6 +83,10 @@
         [
           "2026-09-21T05:22:15Z",
           76
+        ],
+        [
+          "2026-09-21T05:40:47Z",
+          84
         ]
       ]
     },
@@ -104,10 +98,10 @@
       "startSource": "observed",
       "title": "Euro Truck Simulator2 | #82 シルバーウィークだよ～！トラックドライブ雑談 #愁子",
       "game": null,
-      "peakViewers": 95,
+      "peakViewers": 113,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T04:50:06Z",
-      "lastSeenAt": "2026-09-21T05:22:15Z",
+      "lastSeenAt": "2026-09-21T05:40:47Z",
       "samples": [
         [
           "2026-09-21T04:50:06Z",
@@ -120,6 +114,10 @@
         [
           "2026-09-21T05:22:15Z",
           94
+        ],
+        [
+          "2026-09-21T05:40:47Z",
+          113
         ]
       ]
     },
@@ -131,11 +129,35 @@
       "startSource": "observed",
       "title": "이터널 리턴)든든한 든든",
       "game": null,
-      "peakViewers": null,
+      "peakViewers": 1,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-21T05:22:15Z",
-      "lastSeenAt": "2026-09-21T05:22:15Z",
-      "samples": []
+      "lastSeenAt": "2026-09-21T05:40:47Z",
+      "samples": [
+        [
+          "2026-09-21T05:40:47Z",
+          1
+        ]
+      ]
+    },
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "Wn-ESJC-lGc",
+      "start": "2026-09-21T05:40:47Z",
+      "startSource": "observed",
+      "title": "〖 VALORANT 〗ゆいぴとヴぁっろ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 354,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-21T05:40:47Z",
+      "lastSeenAt": "2026-09-21T05:40:47Z",
+      "samples": [
+        [
+          "2026-09-21T05:40:47Z",
+          354
+        ]
+      ]
     }
   },
   "sessions": [
@@ -28547,6 +28569,23 @@
       "avgViewers": null,
       "samples": [],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "videoId": "KIyoYTQZtOI",
+      "videoUrl": "https://www.youtube.com/watch?v=KIyoYTQZtOI",
+      "start": "2026-09-21T03:00:29Z",
+      "end": "2026-09-21T05:40:47Z",
+      "minutes": 160.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[젠레스 존 제로]굴러라 클라렛",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
     }
   ]
 }
