@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T02:49:21Z",
+  "updatedAt": "2026-09-21T03:00:29Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3221.0,
-      "gameMinutes": 492.0,
-      "totalHours": 53.68,
-      "gameHours": 8.2,
-      "sessions": 26,
+      "totalMinutes": 3243.3,
+      "gameMinutes": 503.1,
+      "totalHours": 54.06,
+      "gameHours": 8.39,
+      "sessions": 27,
       "avgViewers": 66.5,
       "peakViewers": 928
     },
     "week": {
-      "totalMinutes": 3221.0,
-      "gameMinutes": 492.0,
-      "totalHours": 53.68,
-      "gameHours": 8.2,
-      "sessions": 26,
+      "totalMinutes": 3243.3,
+      "gameMinutes": 503.1,
+      "totalHours": 54.06,
+      "gameHours": 8.39,
+      "sessions": 27,
       "avgViewers": 66.5,
       "peakViewers": 928
     },
     "month": {
-      "totalMinutes": 96672.7,
-      "gameMinutes": 42981.0,
-      "totalHours": 1611.21,
-      "gameHours": 716.35,
-      "sessions": 542,
+      "totalMinutes": 96695.0,
+      "gameMinutes": 42992.2,
+      "totalHours": 1611.58,
+      "gameHours": 716.54,
+      "sessions": 543,
       "avgViewers": 77.5,
       "peakViewers": 994
     }
@@ -56,27 +56,27 @@
       "lastTitle": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
       "buckets": {
         "today": {
-          "totalMinutes": 150.6,
+          "totalMinutes": 161.7,
           "gameMinutes": 0.0,
-          "totalHours": 2.51,
+          "totalHours": 2.7,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 150.6,
+          "totalMinutes": 161.7,
           "gameMinutes": 0.0,
-          "totalHours": 2.51,
+          "totalHours": 2.7,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 3603.3,
+          "totalMinutes": 3614.4,
           "gameMinutes": 48.2,
-          "totalHours": 60.05,
+          "totalHours": 60.24,
           "gameHours": 0.8,
           "sessions": 16,
           "avgViewers": 1.0,
@@ -238,15 +238,15 @@
       "liveVideoUrl": "https://www.youtube.com/watch?v=NqHyGgTYIYM"
     },
     {
-      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-      "name": "전부벗은새우튀김",
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
       "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCHReTde3AGMElSQCbCftF7Q",
+      "channelUrl": "https://www.youtube.com/channel/UCvtfuV9mBAw9znLzICiqpOw",
       "isLive": true,
-      "liveSince": "2026-09-21T02:49:21Z",
-      "liveTitle": "[2026.9.21] 이터널리턴 랭크",
-      "lastEnd": "2026-09-20T06:52:36Z",
-      "lastTitle": "[2026.9.20] 이터널리턴 짧게 랭크",
+      "liveSince": "2026-09-21T03:00:29Z",
+      "liveTitle": "[젠레스 존 제로]굴러라 클라렛",
+      "lastEnd": "2026-09-20T06:19:41Z",
+      "lastTitle": "[젠레스 존 제로]베이글 프로젝트 제 2시즌 시-작",
       "buckets": {
         "today": {
           "totalMinutes": 0.0,
@@ -267,10 +267,176 @@
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 557.1,
-          "gameMinutes": 557.1,
-          "totalHours": 9.29,
-          "gameHours": 9.29,
+          "totalMinutes": 644.2,
+          "gameMinutes": 118.7,
+          "totalHours": 10.74,
+          "gameHours": 1.98,
+          "sessions": 6,
+          "avgViewers": 1.5,
+          "peakViewers": 4
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "_zHH1A6dnGQ",
+          "videoUrl": "https://www.youtube.com/watch?v=_zHH1A6dnGQ",
+          "start": "2026-09-20T03:17:53Z",
+          "end": "2026-09-20T06:19:41Z",
+          "minutes": 181.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[젠레스 존 제로]베이글 프로젝트 제 2시즌 시-작",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 1.7,
+          "samples": [
+            [
+              "2026-09-20T03:17:53Z",
+              1
+            ],
+            [
+              "2026-09-20T03:48:09Z",
+              4
+            ],
+            [
+              "2026-09-20T04:17:58Z",
+              1
+            ],
+            [
+              "2026-09-20T04:33:20Z",
+              2
+            ],
+            [
+              "2026-09-20T05:16:26Z",
+              1
+            ],
+            [
+              "2026-09-20T05:46:40Z",
+              1
+            ],
+            [
+              "2026-09-20T05:57:18Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "qXNmna2cZlQ",
+          "videoUrl": "https://www.youtube.com/watch?v=qXNmna2cZlQ",
+          "start": "2026-09-20T02:58:45Z",
+          "end": "2026-09-20T03:17:53Z",
+          "minutes": 19.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[룰렛]뭐할지 정해보기",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-20T02:58:45Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "nPORQRKYRTM",
+          "videoUrl": "https://www.youtube.com/watch?v=nPORQRKYRTM",
+          "start": "2026-09-17T03:17:25Z",
+          "end": "2026-09-17T04:00:43Z",
+          "minutes": 43.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[PEAK]최종장이라는 이름의 흔한 마지막 이야기",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "bfipZ9hGZ2s",
+          "videoUrl": "https://www.youtube.com/watch?v=bfipZ9hGZ2s",
+          "start": "2026-09-16T02:59:52Z",
+          "end": "2026-09-16T07:41:07Z",
+          "minutes": 281.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[젠레스 존 제로]츤데레 아가씨의 이야기",
+          "game": null,
+          "peakViewers": 2,
+          "avgViewers": 1.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+          "name": "상자곰",
+          "videoId": "4VBAIJH_3ys",
+          "videoUrl": "https://www.youtube.com/watch?v=4VBAIJH_3ys",
+          "start": "2026-09-15T03:12:52Z",
+          "end": "2026-09-15T05:11:32Z",
+          "minutes": 118.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=KIyoYTQZtOI"
+    },
+    {
+      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+      "name": "전부벗은새우튀김",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCHReTde3AGMElSQCbCftF7Q",
+      "isLive": true,
+      "liveSince": "2026-09-21T02:49:21Z",
+      "liveTitle": "[2026.9.21] 이터널리턴 랭크",
+      "lastEnd": "2026-09-20T06:52:36Z",
+      "lastTitle": "[2026.9.20] 이터널리턴 짧게 랭크",
+      "buckets": {
+        "today": {
+          "totalMinutes": 11.1,
+          "gameMinutes": 11.1,
+          "totalHours": 0.19,
+          "gameHours": 0.19,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 11.1,
+          "gameMinutes": 11.1,
+          "totalHours": 0.19,
+          "gameHours": 0.19,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 568.2,
+          "gameMinutes": 568.2,
+          "totalHours": 9.47,
+          "gameHours": 9.47,
           "sessions": 7,
           "avgViewers": 1.4,
           "peakViewers": 2
@@ -12707,167 +12873,6 @@
           "game": null,
           "peakViewers": 8,
           "avgViewers": 5.3,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-      "name": "상자곰",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCvtfuV9mBAw9znLzICiqpOw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-20T06:19:41Z",
-      "lastTitle": "[젠레스 존 제로]베이글 프로젝트 제 2시즌 시-작",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 644.2,
-          "gameMinutes": 118.7,
-          "totalHours": 10.74,
-          "gameHours": 1.98,
-          "sessions": 5,
-          "avgViewers": 1.5,
-          "peakViewers": 4
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-          "name": "상자곰",
-          "videoId": "_zHH1A6dnGQ",
-          "videoUrl": "https://www.youtube.com/watch?v=_zHH1A6dnGQ",
-          "start": "2026-09-20T03:17:53Z",
-          "end": "2026-09-20T06:19:41Z",
-          "minutes": 181.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[젠레스 존 제로]베이글 프로젝트 제 2시즌 시-작",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 1.7,
-          "samples": [
-            [
-              "2026-09-20T03:17:53Z",
-              1
-            ],
-            [
-              "2026-09-20T03:48:09Z",
-              4
-            ],
-            [
-              "2026-09-20T04:17:58Z",
-              1
-            ],
-            [
-              "2026-09-20T04:33:20Z",
-              2
-            ],
-            [
-              "2026-09-20T05:16:26Z",
-              1
-            ],
-            [
-              "2026-09-20T05:46:40Z",
-              1
-            ],
-            [
-              "2026-09-20T05:57:18Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-          "name": "상자곰",
-          "videoId": "qXNmna2cZlQ",
-          "videoUrl": "https://www.youtube.com/watch?v=qXNmna2cZlQ",
-          "start": "2026-09-20T02:58:45Z",
-          "end": "2026-09-20T03:17:53Z",
-          "minutes": 19.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[룰렛]뭐할지 정해보기",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-20T02:58:45Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-          "name": "상자곰",
-          "videoId": "nPORQRKYRTM",
-          "videoUrl": "https://www.youtube.com/watch?v=nPORQRKYRTM",
-          "start": "2026-09-17T03:17:25Z",
-          "end": "2026-09-17T04:00:43Z",
-          "minutes": 43.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[PEAK]최종장이라는 이름의 흔한 마지막 이야기",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-          "name": "상자곰",
-          "videoId": "bfipZ9hGZ2s",
-          "videoUrl": "https://www.youtube.com/watch?v=bfipZ9hGZ2s",
-          "start": "2026-09-16T02:59:52Z",
-          "end": "2026-09-16T07:41:07Z",
-          "minutes": 281.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[젠레스 존 제로]츤데레 아가씨의 이야기",
-          "game": null,
-          "peakViewers": 2,
-          "avgViewers": 1.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-          "name": "상자곰",
-          "videoId": "4VBAIJH_3ys",
-          "videoUrl": "https://www.youtube.com/watch?v=4VBAIJH_3ys",
-          "start": "2026-09-15T03:12:52Z",
-          "end": "2026-09-15T05:11:32Z",
-          "minutes": 118.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
           "samples": [],
           "isTargetGame": true
         }
