@@ -2,133 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "Wn-ESJC-lGc",
-      "start": "2026-09-21T05:40:47Z",
-      "startSource": "observed",
-      "title": "〖 VALORANT 〗ゆいぴとヴぁっろ〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 453,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T05:40:47Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
-      "samples": [
-        [
-          "2026-09-21T05:40:47Z",
-          354
-        ],
-        [
-          "2026-09-21T05:57:11Z",
-          440
-        ],
-        [
-          "2026-09-21T06:22:21Z",
-          406
-        ],
-        [
-          "2026-09-21T06:46:38Z",
-          383
-        ],
-        [
-          "2026-09-21T07:01:11Z",
-          365
-        ],
-        [
-          "2026-09-21T07:24:12Z",
-          384
-        ],
-        [
-          "2026-09-21T07:42:33Z",
-          391
-        ],
-        [
-          "2026-09-21T07:57:30Z",
-          421
-        ],
-        [
-          "2026-09-21T08:18:03Z",
-          426
-        ],
-        [
-          "2026-09-21T08:34:12Z",
-          450
-        ],
-        [
-          "2026-09-21T08:49:22Z",
-          441
-        ],
-        [
-          "2026-09-21T09:00:13Z",
-          453
-        ],
-        [
-          "2026-09-21T09:23:27Z",
-          382
-        ],
-        [
-          "2026-09-21T09:40:36Z",
-          364
-        ],
-        [
-          "2026-09-21T09:56:55Z",
-          372
-        ],
-        [
-          "2026-09-21T10:15:09Z",
-          348
-        ],
-        [
-          "2026-09-21T10:31:15Z",
-          340
-        ],
-        [
-          "2026-09-21T10:47:59Z",
-          327
-        ],
-        [
-          "2026-09-21T10:58:28Z",
-          364
-        ],
-        [
-          "2026-09-21T11:18:06Z",
-          355
-        ],
-        [
-          "2026-09-21T11:34:05Z",
-          387
-        ],
-        [
-          "2026-09-21T11:48:59Z",
-          386
-        ],
-        [
-          "2026-09-21T11:59:51Z",
-          368
-        ],
-        [
-          "2026-09-21T12:22:39Z",
-          338
-        ],
-        [
-          "2026-09-21T12:42:07Z",
-          331
-        ],
-        [
-          "2026-09-21T12:57:49Z",
-          324
-        ],
-        [
-          "2026-09-21T13:16:18Z",
-          315
-        ],
-        [
-          "2026-09-21T13:31:50Z",
-          217
-        ]
-      ]
-    },
     "UCdfqaZPAstutii6NLvGoblA": {
       "channelId": "UCdfqaZPAstutii6NLvGoblA",
       "name": "김머만",
@@ -140,7 +13,7 @@
       "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-21T08:34:12Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T08:34:12Z",
@@ -217,6 +90,10 @@
         [
           "2026-09-21T13:31:50Z",
           1
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          1
         ]
       ]
     },
@@ -231,7 +108,7 @@
       "peakViewers": 8,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T08:49:22Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T08:49:22Z",
@@ -304,6 +181,10 @@
         [
           "2026-09-21T13:31:50Z",
           6
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          4
         ]
       ]
     },
@@ -318,7 +199,7 @@
       "peakViewers": 22,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T09:23:27Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T09:23:27Z",
@@ -383,6 +264,10 @@
         [
           "2026-09-21T13:31:50Z",
           11
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          1
         ]
       ]
     },
@@ -397,7 +282,7 @@
       "peakViewers": 62,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T09:23:27Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T09:23:27Z",
@@ -462,6 +347,10 @@
         [
           "2026-09-21T13:31:50Z",
           47
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          47
         ]
       ]
     },
@@ -476,7 +365,7 @@
       "peakViewers": 19,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T09:23:27Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T09:23:27Z",
@@ -541,6 +430,10 @@
         [
           "2026-09-21T13:31:50Z",
           10
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          9
         ]
       ]
     },
@@ -555,7 +448,7 @@
       "peakViewers": 35,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T10:31:15Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T10:31:15Z",
@@ -604,6 +497,10 @@
         [
           "2026-09-21T13:31:50Z",
           30
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          35
         ]
       ]
     },
@@ -618,7 +515,7 @@
       "peakViewers": 61,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T11:18:06Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T11:18:06Z",
@@ -655,53 +552,10 @@
         [
           "2026-09-21T13:31:50Z",
           53
-        ]
-      ]
-    },
-    "UCn5ZfWrb5xHwzqczEl5NlxQ": {
-      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
-      "name": "지몽지",
-      "videoId": "_fhuP8aOrxc",
-      "start": "2026-09-21T11:18:06Z",
-      "startSource": "observed",
-      "title": "[마비노기 모바일] 이것 저것 새 컨텐츠 먹어보기",
-      "game": null,
-      "peakViewers": 3,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T11:18:06Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
-      "samples": [
-        [
-          "2026-09-21T11:18:06Z",
-          3
         ],
         [
-          "2026-09-21T11:34:05Z",
-          1
-        ],
-        [
-          "2026-09-21T11:48:59Z",
-          2
-        ],
-        [
-          "2026-09-21T11:59:51Z",
-          1
-        ],
-        [
-          "2026-09-21T12:22:39Z",
-          1
-        ],
-        [
-          "2026-09-21T12:42:07Z",
-          1
-        ],
-        [
-          "2026-09-21T12:57:49Z",
-          1
-        ],
-        [
-          "2026-09-21T13:16:18Z",
-          1
+          "2026-09-21T13:49:05Z",
+          54
         ]
       ]
     },
@@ -716,7 +570,7 @@
       "peakViewers": 31,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T11:59:51Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T11:59:51Z",
@@ -741,6 +595,10 @@
         [
           "2026-09-21T13:31:50Z",
           24
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          26
         ]
       ]
     },
@@ -755,7 +613,7 @@
       "peakViewers": null,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-21T11:59:51Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": []
     },
     "UCdttMMRbi7pukx0jYqRlpvg": {
@@ -769,7 +627,7 @@
       "peakViewers": 3,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T11:59:51Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T12:22:39Z",
@@ -790,41 +648,10 @@
         [
           "2026-09-21T13:31:50Z",
           3
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "ilqje6KKljI",
-      "start": "2026-09-21T12:22:39Z",
-      "startSource": "observed",
-      "title": "【妹に運転を教える】無免許コーチング【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 177,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T12:22:39Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
-      "samples": [
-        [
-          "2026-09-21T12:22:39Z",
-          138
         ],
         [
-          "2026-09-21T12:42:07Z",
-          151
-        ],
-        [
-          "2026-09-21T12:57:49Z",
-          177
-        ],
-        [
-          "2026-09-21T13:16:18Z",
-          134
-        ],
-        [
-          "2026-09-21T13:31:50Z",
-          128
+          "2026-09-21T13:49:05Z",
+          2
         ]
       ]
     },
@@ -839,7 +666,7 @@
       "peakViewers": 58,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T12:22:39Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T12:22:39Z",
@@ -860,6 +687,10 @@
         [
           "2026-09-21T13:31:50Z",
           57
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          48
         ]
       ]
     },
@@ -874,7 +705,7 @@
       "peakViewers": 117,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T12:42:07Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T12:42:07Z",
@@ -891,6 +722,10 @@
         [
           "2026-09-21T13:31:50Z",
           83
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          82
         ]
       ]
     },
@@ -902,10 +737,10 @@
       "startSource": "observed",
       "title": "오늘은 즐거운 혜진하는 날^^ [ 이터널리턴 ]",
       "game": null,
-      "peakViewers": 2,
+      "peakViewers": 3,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-21T12:57:49Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T12:57:49Z",
@@ -918,6 +753,10 @@
         [
           "2026-09-21T13:31:50Z",
           1
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          3
         ]
       ]
     },
@@ -932,7 +771,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T12:57:49Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": []
     },
     "UCE0ETB-j-qiXQiKPIG-0tCA": {
@@ -943,10 +782,10 @@
       "startSource": "observed",
       "title": "🟣9/21【 #StafferRetro 】＃6 ｢烙印｣から救いたい人がいる、それだけで十分🔍【 maŸUko / #Vtuber 】※ネタバレ注意",
       "game": null,
-      "peakViewers": 5,
+      "peakViewers": 7,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T13:16:18Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T13:16:18Z",
@@ -955,6 +794,10 @@
         [
           "2026-09-21T13:31:50Z",
           5
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          7
         ]
       ]
     },
@@ -966,14 +809,18 @@
       "startSource": "observed",
       "title": "이터널리턴 뉴비 랭크전 골드1 카티야 꺠우침!!",
       "game": null,
-      "peakViewers": 5,
+      "peakViewers": 8,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-21T13:16:18Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T13:31:50Z",
           5
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          8
         ]
       ]
     },
@@ -988,7 +835,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T13:16:18Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": []
     },
     "UCANkIVGMLpm_iVC1cWl6EXg": {
@@ -999,10 +846,10 @@
       "startSource": "observed",
       "title": "【 Eternal Return 】エターナルリターン配信 明日の姫プの練習",
       "game": null,
-      "peakViewers": 3,
+      "peakViewers": 4,
       "isTargetGame": true,
       "firstSeenAt": "2026-09-21T13:16:18Z",
-      "lastSeenAt": "2026-09-21T13:31:50Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
       "samples": [
         [
           "2026-09-21T13:16:18Z",
@@ -1011,6 +858,48 @@
         [
           "2026-09-21T13:31:50Z",
           3
+        ],
+        [
+          "2026-09-21T13:49:05Z",
+          4
+        ]
+      ]
+    },
+    "UCElYE3bfzjjmJ9xwjvro9Yw": {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "3W_uwX9Kkio",
+      "start": "2026-09-21T13:49:05Z",
+      "startSource": "observed",
+      "title": "【天下無双ARK】まったり先生する！DAY3【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 23,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-21T13:49:05Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
+      "samples": [
+        [
+          "2026-09-21T13:49:05Z",
+          23
+        ]
+      ]
+    },
+    "UC6CYnOID9JZjKv6YZwgCW5Q": {
+      "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
+      "name": "Alcatraz",
+      "videoId": "CuzONqZpmjE",
+      "start": "2026-09-21T13:49:05Z",
+      "startSource": "observed",
+      "title": "뎁마 원험으로 미스릴 도전기!",
+      "game": null,
+      "peakViewers": 1,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-21T13:49:05Z",
+      "lastSeenAt": "2026-09-21T13:49:05Z",
+      "samples": [
+        [
+          "2026-09-21T13:49:05Z",
+          1
         ]
       ]
     }
@@ -29744,6 +29633,136 @@
       "isTargetGame": true
     },
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "Wn-ESJC-lGc",
+      "videoUrl": "https://www.youtube.com/watch?v=Wn-ESJC-lGc",
+      "start": "2026-09-21T05:40:47Z",
+      "end": "2026-09-21T13:49:05Z",
+      "minutes": 488.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 VALORANT 〗ゆいぴとヴぁっろ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 453,
+      "avgViewers": 374.4,
+      "samples": [
+        [
+          "2026-09-21T05:40:47Z",
+          354
+        ],
+        [
+          "2026-09-21T05:57:11Z",
+          440
+        ],
+        [
+          "2026-09-21T06:22:21Z",
+          406
+        ],
+        [
+          "2026-09-21T06:46:38Z",
+          383
+        ],
+        [
+          "2026-09-21T07:01:11Z",
+          365
+        ],
+        [
+          "2026-09-21T07:24:12Z",
+          384
+        ],
+        [
+          "2026-09-21T07:42:33Z",
+          391
+        ],
+        [
+          "2026-09-21T07:57:30Z",
+          421
+        ],
+        [
+          "2026-09-21T08:18:03Z",
+          426
+        ],
+        [
+          "2026-09-21T08:34:12Z",
+          450
+        ],
+        [
+          "2026-09-21T08:49:22Z",
+          441
+        ],
+        [
+          "2026-09-21T09:00:13Z",
+          453
+        ],
+        [
+          "2026-09-21T09:23:27Z",
+          382
+        ],
+        [
+          "2026-09-21T09:40:36Z",
+          364
+        ],
+        [
+          "2026-09-21T09:56:55Z",
+          372
+        ],
+        [
+          "2026-09-21T10:15:09Z",
+          348
+        ],
+        [
+          "2026-09-21T10:31:15Z",
+          340
+        ],
+        [
+          "2026-09-21T10:47:59Z",
+          327
+        ],
+        [
+          "2026-09-21T10:58:28Z",
+          364
+        ],
+        [
+          "2026-09-21T11:18:06Z",
+          355
+        ],
+        [
+          "2026-09-21T11:34:05Z",
+          387
+        ],
+        [
+          "2026-09-21T11:48:59Z",
+          386
+        ],
+        [
+          "2026-09-21T11:59:51Z",
+          368
+        ],
+        [
+          "2026-09-21T12:22:39Z",
+          338
+        ],
+        [
+          "2026-09-21T12:42:07Z",
+          331
+        ],
+        [
+          "2026-09-21T12:57:49Z",
+          324
+        ],
+        [
+          "2026-09-21T13:16:18Z",
+          315
+        ],
+        [
+          "2026-09-21T13:31:50Z",
+          217
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
       "name": "상자곰",
       "videoId": "KIyoYTQZtOI",
@@ -30006,6 +30025,94 @@
         [
           "2026-09-21T13:16:18Z",
           56
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCn5ZfWrb5xHwzqczEl5NlxQ",
+      "name": "지몽지",
+      "videoId": "_fhuP8aOrxc",
+      "videoUrl": "https://www.youtube.com/watch?v=_fhuP8aOrxc",
+      "start": "2026-09-21T11:18:06Z",
+      "end": "2026-09-21T13:49:05Z",
+      "minutes": 151.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "[마비노기 모바일] 이것 저것 새 컨텐츠 먹어보기",
+      "game": null,
+      "peakViewers": 3,
+      "avgViewers": 1.3,
+      "samples": [
+        [
+          "2026-09-21T11:18:06Z",
+          3
+        ],
+        [
+          "2026-09-21T11:34:05Z",
+          1
+        ],
+        [
+          "2026-09-21T11:48:59Z",
+          2
+        ],
+        [
+          "2026-09-21T11:59:51Z",
+          1
+        ],
+        [
+          "2026-09-21T12:22:39Z",
+          1
+        ],
+        [
+          "2026-09-21T12:42:07Z",
+          1
+        ],
+        [
+          "2026-09-21T12:57:49Z",
+          1
+        ],
+        [
+          "2026-09-21T13:16:18Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "ilqje6KKljI",
+      "videoUrl": "https://www.youtube.com/watch?v=ilqje6KKljI",
+      "start": "2026-09-21T12:22:39Z",
+      "end": "2026-09-21T13:49:05Z",
+      "minutes": 86.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【妹に運転を教える】無免許コーチング【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 177,
+      "avgViewers": 146.0,
+      "samples": [
+        [
+          "2026-09-21T12:22:39Z",
+          138
+        ],
+        [
+          "2026-09-21T12:42:07Z",
+          151
+        ],
+        [
+          "2026-09-21T12:57:49Z",
+          177
+        ],
+        [
+          "2026-09-21T13:16:18Z",
+          134
+        ],
+        [
+          "2026-09-21T13:31:50Z",
+          128
         ]
       ],
       "isTargetGame": false
