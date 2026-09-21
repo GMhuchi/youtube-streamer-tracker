@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T02:34:01Z",
+  "updatedAt": "2026-09-21T02:49:21Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3205.7,
+      "totalMinutes": 3221.0,
       "gameMinutes": 492.0,
-      "totalHours": 53.43,
+      "totalHours": 53.68,
       "gameHours": 8.2,
-      "sessions": 25,
+      "sessions": 26,
       "avgViewers": 66.5,
       "peakViewers": 928
     },
     "week": {
-      "totalMinutes": 3205.7,
+      "totalMinutes": 3221.0,
       "gameMinutes": 492.0,
-      "totalHours": 53.43,
+      "totalHours": 53.68,
       "gameHours": 8.2,
-      "sessions": 25,
+      "sessions": 26,
       "avgViewers": 66.5,
       "peakViewers": 928
     },
     "month": {
-      "totalMinutes": 96657.3,
+      "totalMinutes": 96672.7,
       "gameMinutes": 42981.0,
-      "totalHours": 1610.96,
+      "totalHours": 1611.21,
       "gameHours": 716.35,
-      "sessions": 541,
+      "sessions": 542,
       "avgViewers": 77.5,
       "peakViewers": 994
     }
@@ -56,27 +56,27 @@
       "lastTitle": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
       "buckets": {
         "today": {
-          "totalMinutes": 135.3,
+          "totalMinutes": 150.6,
           "gameMinutes": 0.0,
-          "totalHours": 2.25,
+          "totalHours": 2.51,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 135.3,
+          "totalMinutes": 150.6,
           "gameMinutes": 0.0,
-          "totalHours": 2.25,
+          "totalHours": 2.51,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 3587.9,
+          "totalMinutes": 3603.3,
           "gameMinutes": 48.2,
-          "totalHours": 59.8,
+          "totalHours": 60.05,
           "gameHours": 0.8,
           "sessions": 16,
           "avgViewers": 1.0,
@@ -236,6 +236,164 @@
       "liveAvgViewers": null,
       "liveSamples": [],
       "liveVideoUrl": "https://www.youtube.com/watch?v=NqHyGgTYIYM"
+    },
+    {
+      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+      "name": "전부벗은새우튀김",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCHReTde3AGMElSQCbCftF7Q",
+      "isLive": true,
+      "liveSince": "2026-09-21T02:49:21Z",
+      "liveTitle": "[2026.9.21] 이터널리턴 랭크",
+      "lastEnd": "2026-09-20T06:52:36Z",
+      "lastTitle": "[2026.9.20] 이터널리턴 짧게 랭크",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 557.1,
+          "gameMinutes": 557.1,
+          "totalHours": 9.29,
+          "gameHours": 9.29,
+          "sessions": 7,
+          "avgViewers": 1.4,
+          "peakViewers": 2
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+          "name": "전부벗은새우튀김",
+          "videoId": "Uja2MCdFQ0M",
+          "videoUrl": "https://www.youtube.com/watch?v=Uja2MCdFQ0M",
+          "start": "2026-09-20T04:33:20Z",
+          "end": "2026-09-20T06:52:36Z",
+          "minutes": 139.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[2026.9.20] 이터널리턴 짧게 랭크",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+          "name": "전부벗은새우튀김",
+          "videoId": "sredNgVt0eo",
+          "videoUrl": "https://www.youtube.com/watch?v=sredNgVt0eo",
+          "start": "2026-09-19T14:16:46Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 159.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[2026.9.19] 이터널리턴 재활훈련",
+          "game": null,
+          "peakViewers": 2,
+          "avgViewers": 1.5,
+          "samples": [
+            [
+              "2026-09-19T16:30:14Z",
+              1
+            ],
+            [
+              "2026-09-19T16:46:13Z",
+              2
+            ]
+          ],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+          "name": "전부벗은새우튀김",
+          "videoId": "Rf3bDkYihSo",
+          "videoUrl": "https://www.youtube.com/watch?v=Rf3bDkYihSo",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T13:21:07Z",
+          "minutes": 31.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[2026.9.19] 이터널리턴 짧게 랭크",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+          "name": "전부벗은새우튀김",
+          "videoId": "Rf3bDkYihSo",
+          "videoUrl": "https://www.youtube.com/watch?v=Rf3bDkYihSo",
+          "start": "2026-09-19T10:29:57Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 125.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[2026.9.19] 이터널리턴 짧게 랭크",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+          "name": "전부벗은새우튀김",
+          "videoId": "qvRsJNgvSM8",
+          "videoUrl": "https://www.youtube.com/watch?v=qvRsJNgvSM8",
+          "start": "2026-09-18T02:13:34Z",
+          "end": "2026-09-18T03:32:47Z",
+          "minutes": 79.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[2026.9.18] 이터널리턴 짧게 랭크",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+          "name": "전부벗은새우튀김",
+          "videoId": "1GUxUm_t4p8",
+          "videoUrl": "https://www.youtube.com/watch?v=1GUxUm_t4p8",
+          "start": "2026-09-14T07:02:02Z",
+          "end": "2026-09-14T07:24:32Z",
+          "minutes": 22.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "[2026.9.14] 이터널리턴 랭크 달리기",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=8yPDls7j3K4"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -12707,159 +12865,6 @@
           "startSource": "observed",
           "endSource": "observed",
           "title": "[이터널 리턴]시즌12.Live 4화:즐겁게 하는법을 왜 잊어버렸을까",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-      "name": "전부벗은새우튀김",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCHReTde3AGMElSQCbCftF7Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-20T06:52:36Z",
-      "lastTitle": "[2026.9.20] 이터널리턴 짧게 랭크",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 557.1,
-          "gameMinutes": 557.1,
-          "totalHours": 9.28,
-          "gameHours": 9.28,
-          "sessions": 6,
-          "avgViewers": 1.4,
-          "peakViewers": 2
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-          "name": "전부벗은새우튀김",
-          "videoId": "Uja2MCdFQ0M",
-          "videoUrl": "https://www.youtube.com/watch?v=Uja2MCdFQ0M",
-          "start": "2026-09-20T04:33:20Z",
-          "end": "2026-09-20T06:52:36Z",
-          "minutes": 139.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[2026.9.20] 이터널리턴 짧게 랭크",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-          "name": "전부벗은새우튀김",
-          "videoId": "sredNgVt0eo",
-          "videoUrl": "https://www.youtube.com/watch?v=sredNgVt0eo",
-          "start": "2026-09-19T14:16:46Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 159.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[2026.9.19] 이터널리턴 재활훈련",
-          "game": null,
-          "peakViewers": 2,
-          "avgViewers": 1.5,
-          "samples": [
-            [
-              "2026-09-19T16:30:14Z",
-              1
-            ],
-            [
-              "2026-09-19T16:46:13Z",
-              2
-            ]
-          ],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-          "name": "전부벗은새우튀김",
-          "videoId": "Rf3bDkYihSo",
-          "videoUrl": "https://www.youtube.com/watch?v=Rf3bDkYihSo",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T13:21:07Z",
-          "minutes": 31.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[2026.9.19] 이터널리턴 짧게 랭크",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-          "name": "전부벗은새우튀김",
-          "videoId": "Rf3bDkYihSo",
-          "videoUrl": "https://www.youtube.com/watch?v=Rf3bDkYihSo",
-          "start": "2026-09-19T10:29:57Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 125.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[2026.9.19] 이터널리턴 짧게 랭크",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-          "name": "전부벗은새우튀김",
-          "videoId": "qvRsJNgvSM8",
-          "videoUrl": "https://www.youtube.com/watch?v=qvRsJNgvSM8",
-          "start": "2026-09-18T02:13:34Z",
-          "end": "2026-09-18T03:32:47Z",
-          "minutes": 79.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[2026.9.18] 이터널리턴 짧게 랭크",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCHReTde3AGMElSQCbCftF7Q",
-          "name": "전부벗은새우튀김",
-          "videoId": "1GUxUm_t4p8",
-          "videoUrl": "https://www.youtube.com/watch?v=1GUxUm_t4p8",
-          "start": "2026-09-14T07:02:02Z",
-          "end": "2026-09-14T07:24:32Z",
-          "minutes": 22.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "[2026.9.14] 이터널리턴 랭크 달리기",
           "game": null,
           "peakViewers": 1,
           "avgViewers": 1.0,
