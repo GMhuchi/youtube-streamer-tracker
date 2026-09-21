@@ -2,57 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "Q5F4wk2vfcU",
-      "start": "2026-09-21T21:46:07Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#298［2026.9/22］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 837,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T21:46:07Z",
-      "lastSeenAt": "2026-09-21T23:42:38Z",
-      "samples": [
-        [
-          "2026-09-21T21:46:07Z",
-          363
-        ],
-        [
-          "2026-09-21T21:56:59Z",
-          482
-        ],
-        [
-          "2026-09-21T22:14:33Z",
-          615
-        ],
-        [
-          "2026-09-21T22:30:49Z",
-          710
-        ],
-        [
-          "2026-09-21T22:46:46Z",
-          775
-        ],
-        [
-          "2026-09-21T22:57:19Z",
-          738
-        ],
-        [
-          "2026-09-21T23:14:19Z",
-          774
-        ],
-        [
-          "2026-09-21T23:29:37Z",
-          837
-        ],
-        [
-          "2026-09-21T23:42:38Z",
-          763
-        ]
-      ]
-    },
     "UCkU9ZIU40wqsm6Ze7G0W2dw": {
       "channelId": "UCkU9ZIU40wqsm6Ze7G0W2dw",
       "name": "貓良 / Ryo",
@@ -61,10 +10,10 @@
       "startSource": "observed",
       "title": "【DBD】晨跑時間～～～　初見歡迎！！　｜黎明死線 Dead by Daylight",
       "game": null,
-      "peakViewers": 1,
+      "peakViewers": 3,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T23:29:37Z",
-      "lastSeenAt": "2026-09-21T23:42:38Z",
+      "lastSeenAt": "2026-09-21T23:55:35Z",
       "samples": [
         [
           "2026-09-21T23:29:37Z",
@@ -73,6 +22,10 @@
         [
           "2026-09-21T23:42:38Z",
           1
+        ],
+        [
+          "2026-09-21T23:55:35Z",
+          3
         ]
       ]
     }
@@ -31258,6 +31211,60 @@
         [
           "2026-09-21T22:57:19Z",
           20
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "Q5F4wk2vfcU",
+      "videoUrl": "https://www.youtube.com/watch?v=Q5F4wk2vfcU",
+      "start": "2026-09-21T21:46:07Z",
+      "end": "2026-09-21T23:55:35Z",
+      "minutes": 129.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#298［2026.9/22］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 837,
+      "avgViewers": 673.7,
+      "samples": [
+        [
+          "2026-09-21T21:46:07Z",
+          363
+        ],
+        [
+          "2026-09-21T21:56:59Z",
+          482
+        ],
+        [
+          "2026-09-21T22:14:33Z",
+          615
+        ],
+        [
+          "2026-09-21T22:30:49Z",
+          710
+        ],
+        [
+          "2026-09-21T22:46:46Z",
+          775
+        ],
+        [
+          "2026-09-21T22:57:19Z",
+          738
+        ],
+        [
+          "2026-09-21T23:14:19Z",
+          774
+        ],
+        [
+          "2026-09-21T23:29:37Z",
+          837
+        ],
+        [
+          "2026-09-21T23:42:38Z",
+          763
         ]
       ],
       "isTargetGame": false
