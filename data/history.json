@@ -1,22 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCJgiA5bfdc4g_j-i4-Q7DZg": {
-      "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
-      "name": "팬텀이",
-      "videoId": "Yer0qzOZHq0",
-      "start": "2026-09-21T18:34:55Z",
-      "startSource": "observed",
-      "title": "배그에서 이사갑니다.",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T18:34:55Z",
-      "lastSeenAt": "2026-09-21T19:10:27Z",
-      "samples": []
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
@@ -31137,6 +31122,23 @@
       "startSource": "observed",
       "endSource": "observed",
       "title": "【妹に運転を教える】無免許コーチング【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJgiA5bfdc4g_j-i4-Q7DZg",
+      "name": "팬텀이",
+      "videoId": "Yer0qzOZHq0",
+      "videoUrl": "https://www.youtube.com/watch?v=Yer0qzOZHq0",
+      "start": "2026-09-21T18:34:55Z",
+      "end": "2026-09-21T19:30:53Z",
+      "minutes": 56.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "배그에서 이사갑니다.",
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
