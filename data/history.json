@@ -2,20 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCrOAVNbR8vAAo7SZUfkVjhQ": {
-      "channelId": "UCrOAVNbR8vAAo7SZUfkVjhQ",
-      "name": "오토 레이니",
-      "videoId": "4qGKcE2jKoU",
-      "start": "2026-09-21T13:16:18Z",
-      "startSource": "observed",
-      "title": "【メン限・멘겐】☔【260921】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-21T13:16:18Z",
-      "lastSeenAt": "2026-09-21T18:34:55Z",
-      "samples": []
-    },
     "UC6CYnOID9JZjKv6YZwgCW5Q": {
       "channelId": "UC6CYnOID9JZjKv6YZwgCW5Q",
       "name": "Alcatraz",
@@ -27,7 +13,7 @@
       "peakViewers": 6,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T16:49:12Z",
-      "lastSeenAt": "2026-09-21T18:34:55Z",
+      "lastSeenAt": "2026-09-21T18:51:41Z",
       "samples": [
         [
           "2026-09-21T16:49:12Z",
@@ -66,7 +52,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T18:34:55Z",
-      "lastSeenAt": "2026-09-21T18:34:55Z",
+      "lastSeenAt": "2026-09-21T18:51:41Z",
       "samples": []
     }
   },
@@ -30488,6 +30474,23 @@
         ]
       ],
       "isTargetGame": true
+    },
+    {
+      "channelId": "UCrOAVNbR8vAAo7SZUfkVjhQ",
+      "name": "오토 레이니",
+      "videoId": "4qGKcE2jKoU",
+      "videoUrl": "https://www.youtube.com/watch?v=4qGKcE2jKoU",
+      "start": "2026-09-21T13:04:49Z",
+      "end": "2026-09-21T18:44:26Z",
+      "minutes": 339.6,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【メン限・멘겐】☔【260921】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
     },
     {
       "channelId": "UCANkIVGMLpm_iVC1cWl6EXg",
