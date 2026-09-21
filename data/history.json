@@ -1,7 +1,46 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "Q5F4wk2vfcU",
+      "start": "2026-09-21T21:46:07Z",
+      "startSource": "observed",
+      "title": "【朝活/雑談】#298［2026.9/22］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 363,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-21T21:46:07Z",
+      "lastSeenAt": "2026-09-21T21:46:07Z",
+      "samples": [
+        [
+          "2026-09-21T21:46:07Z",
+          363
+        ]
+      ]
+    },
+    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "jLQ-zR6Wr9Q",
+      "start": "2026-09-21T21:46:07Z",
+      "startSource": "observed",
+      "title": "【最高アルマス リュウ レバー】台風のあとはMRがあがるらしい、しらんけど【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 6,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-21T21:46:07Z",
+      "lastSeenAt": "2026-09-21T21:46:07Z",
+      "samples": [
+        [
+          "2026-09-21T21:46:07Z",
+          6
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
