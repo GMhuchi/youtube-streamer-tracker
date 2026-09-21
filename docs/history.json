@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T23:56:09Z",
+  "updatedAt": "2026-09-21T00:18:45Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 492.0,
       "totalHours": 51.17,
       "gameHours": 8.2,
-      "sessions": 24,
+      "sessions": 25,
       "avgViewers": 66.5,
       "peakViewers": 928
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 492.0,
       "totalHours": 51.17,
       "gameHours": 8.2,
-      "sessions": 24,
+      "sessions": 25,
       "avgViewers": 66.5,
       "peakViewers": 928
     },
@@ -38,12 +38,205 @@
       "gameMinutes": 42981.0,
       "totalHours": 1608.7,
       "gameHours": 716.35,
-      "sessions": 540,
+      "sessions": 541,
       "avgViewers": 77.5,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
+      "isLive": true,
+      "liveSince": "2026-09-21T00:18:45Z",
+      "liveTitle": "오늘은 오늘은 와일즈 와일즈 태도 태도 연습 연습",
+      "lastEnd": "2026-09-20T12:35:13Z",
+      "lastTitle": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 3452.7,
+          "gameMinutes": 48.2,
+          "totalHours": 57.54,
+          "gameHours": 0.8,
+          "sessions": 16,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "bXblCRieiUc",
+          "videoUrl": "https://www.youtube.com/watch?v=bXblCRieiUc",
+          "start": "2026-09-20T10:14:39Z",
+          "end": "2026-09-20T12:35:13Z",
+          "minutes": 140.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-20T11:11:22Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "_FhqsMnMfog",
+          "videoUrl": "https://www.youtube.com/watch?v=_FhqsMnMfog",
+          "start": "2026-09-18T22:50:26Z",
+          "end": "2026-09-19T05:45:19Z",
+          "minutes": 414.9,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "얼티밋 헤일리 후딱 해금하고 후딱 써보고 성능 체감 함 가즈아아!!",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-19T03:31:24Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "MXwWk9X9hvM",
+          "videoUrl": "https://www.youtube.com/watch?v=MXwWk9X9hvM",
+          "start": "2026-09-18T10:33:34Z",
+          "end": "2026-09-18T12:20:16Z",
+          "minutes": 106.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "어센던스 오기 전에 손에 감을 익히려는 버그 고양이",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "wqbQdxWUXp4",
+          "videoUrl": "https://www.youtube.com/watch?v=wqbQdxWUXp4",
+          "start": "2026-09-17T19:15:21Z",
+          "end": "2026-09-18T05:40:13Z",
+          "minutes": 624.9,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "무리를 해보는 날 얼티밋 헤일리 얻고 그 다음 몬헌 방송 할거닷!",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "UFBYCW00kzI",
+          "videoUrl": "https://www.youtube.com/watch?v=UFBYCW00kzI",
+          "start": "2026-09-16T23:00:16Z",
+          "end": "2026-09-17T04:47:09Z",
+          "minutes": 346.9,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "Y7a0fOfI_0Y",
+          "videoUrl": "https://www.youtube.com/watch?v=Y7a0fOfI_0Y",
+          "start": "2026-09-14T21:10:03Z",
+          "end": "2026-09-15T02:23:26Z",
+          "minutes": 313.4,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "U1NakIGozwY",
+          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
+          "start": "2026-09-14T05:48:57Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 323.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "U1NakIGozwY",
+          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
+          "start": "2026-09-14T05:40:22Z",
+          "end": "2026-09-14T11:52:38Z",
+          "minutes": 372.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=NqHyGgTYIYM"
+    },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -917,194 +1110,6 @@
           "game": null,
           "peakViewers": 950,
           "avgViewers": 413.2,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-20T12:35:13Z",
-      "lastTitle": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 3452.7,
-          "gameMinutes": 48.2,
-          "totalHours": 57.54,
-          "gameHours": 0.8,
-          "sessions": 15,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "bXblCRieiUc",
-          "videoUrl": "https://www.youtube.com/watch?v=bXblCRieiUc",
-          "start": "2026-09-20T10:14:39Z",
-          "end": "2026-09-20T12:35:13Z",
-          "minutes": 140.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-20T11:11:22Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "_FhqsMnMfog",
-          "videoUrl": "https://www.youtube.com/watch?v=_FhqsMnMfog",
-          "start": "2026-09-18T22:50:26Z",
-          "end": "2026-09-19T05:45:19Z",
-          "minutes": 414.9,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "얼티밋 헤일리 후딱 해금하고 후딱 써보고 성능 체감 함 가즈아아!!",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-19T03:31:24Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "MXwWk9X9hvM",
-          "videoUrl": "https://www.youtube.com/watch?v=MXwWk9X9hvM",
-          "start": "2026-09-18T10:33:34Z",
-          "end": "2026-09-18T12:20:16Z",
-          "minutes": 106.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "어센던스 오기 전에 손에 감을 익히려는 버그 고양이",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "wqbQdxWUXp4",
-          "videoUrl": "https://www.youtube.com/watch?v=wqbQdxWUXp4",
-          "start": "2026-09-17T19:15:21Z",
-          "end": "2026-09-18T05:40:13Z",
-          "minutes": 624.9,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "무리를 해보는 날 얼티밋 헤일리 얻고 그 다음 몬헌 방송 할거닷!",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "UFBYCW00kzI",
-          "videoUrl": "https://www.youtube.com/watch?v=UFBYCW00kzI",
-          "start": "2026-09-16T23:00:16Z",
-          "end": "2026-09-17T04:47:09Z",
-          "minutes": 346.9,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "Y7a0fOfI_0Y",
-          "videoUrl": "https://www.youtube.com/watch?v=Y7a0fOfI_0Y",
-          "start": "2026-09-14T21:10:03Z",
-          "end": "2026-09-15T02:23:26Z",
-          "minutes": 313.4,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "U1NakIGozwY",
-          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
-          "start": "2026-09-14T05:48:57Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 323.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "U1NakIGozwY",
-          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
-          "start": "2026-09-14T05:40:22Z",
-          "end": "2026-09-14T11:52:38Z",
-          "minutes": 372.3,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
           "samples": [],
           "isTargetGame": false
         }
