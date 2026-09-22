@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T06:59:14Z",
+  "updatedAt": "2026-09-22T07:18:41Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,227 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 4014.4,
-      "gameMinutes": 650.7,
-      "totalHours": 66.91,
-      "gameHours": 10.84,
+      "totalMinutes": 4141.5,
+      "gameMinutes": 689.6,
+      "totalHours": 69.03,
+      "gameHours": 11.49,
       "sessions": 36,
-      "avgViewers": 86.3,
+      "avgViewers": 86.0,
       "peakViewers": 971
     },
     "week": {
-      "totalMinutes": 14752.6,
-      "gameMinutes": 2785.1,
-      "totalHours": 245.88,
-      "gameHours": 46.42,
+      "totalMinutes": 14879.7,
+      "gameMinutes": 2824.0,
+      "totalHours": 248.0,
+      "gameHours": 47.07,
       "sessions": 82,
       "avgViewers": 74.1,
       "peakViewers": 971
     },
     "month": {
-      "totalMinutes": 108204.3,
-      "gameMinutes": 45274.2,
-      "totalHours": 1803.4,
-      "gameHours": 754.57,
+      "totalMinutes": 108331.4,
+      "gameMinutes": 45313.1,
+      "totalHours": 1805.52,
+      "gameHours": 755.22,
       "sessions": 598,
       "avgViewers": 77.4,
       "peakViewers": 994
     }
   },
   "channels": [
-    {
-      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-      "name": "버그캣",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
-      "isLive": true,
-      "liveSince": "2026-09-22T00:52:50Z",
-      "liveTitle": "마랭도 올리고 숙제도 간단히 끝내고 할게 많넹...",
-      "lastEnd": "2026-09-21T09:23:27Z",
-      "lastTitle": "오늘은 오늘은 와일즈 와일즈 태도 태도 연습 연습",
-      "buckets": {
-        "today": {
-          "totalMinutes": 366.4,
-          "gameMinutes": 0.0,
-          "totalHours": 6.11,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 911.1,
-          "gameMinutes": 0.0,
-          "totalHours": 15.19,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 4363.8,
-          "gameMinutes": 48.2,
-          "totalHours": 72.73,
-          "gameHours": 0.8,
-          "sessions": 17,
-          "avgViewers": 1.0,
-          "peakViewers": 1
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "NqHyGgTYIYM",
-          "videoUrl": "https://www.youtube.com/watch?v=NqHyGgTYIYM",
-          "start": "2026-09-21T00:18:45Z",
-          "end": "2026-09-21T09:23:27Z",
-          "minutes": 544.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "오늘은 오늘은 와일즈 와일즈 태도 태도 연습 연습",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "bXblCRieiUc",
-          "videoUrl": "https://www.youtube.com/watch?v=bXblCRieiUc",
-          "start": "2026-09-20T10:14:39Z",
-          "end": "2026-09-20T12:35:13Z",
-          "minutes": 140.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-20T11:11:22Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "_FhqsMnMfog",
-          "videoUrl": "https://www.youtube.com/watch?v=_FhqsMnMfog",
-          "start": "2026-09-18T22:50:26Z",
-          "end": "2026-09-19T05:45:19Z",
-          "minutes": 414.9,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "얼티밋 헤일리 후딱 해금하고 후딱 써보고 성능 체감 함 가즈아아!!",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [
-            [
-              "2026-09-19T03:31:24Z",
-              1
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "MXwWk9X9hvM",
-          "videoUrl": "https://www.youtube.com/watch?v=MXwWk9X9hvM",
-          "start": "2026-09-18T10:33:34Z",
-          "end": "2026-09-18T12:20:16Z",
-          "minutes": 106.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "어센던스 오기 전에 손에 감을 익히려는 버그 고양이",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "wqbQdxWUXp4",
-          "videoUrl": "https://www.youtube.com/watch?v=wqbQdxWUXp4",
-          "start": "2026-09-17T19:15:21Z",
-          "end": "2026-09-18T05:40:13Z",
-          "minutes": 624.9,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "무리를 해보는 날 얼티밋 헤일리 얻고 그 다음 몬헌 방송 할거닷!",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "UFBYCW00kzI",
-          "videoUrl": "https://www.youtube.com/watch?v=UFBYCW00kzI",
-          "start": "2026-09-16T23:00:16Z",
-          "end": "2026-09-17T04:47:09Z",
-          "minutes": 346.9,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "Y7a0fOfI_0Y",
-          "videoUrl": "https://www.youtube.com/watch?v=Y7a0fOfI_0Y",
-          "start": "2026-09-14T21:10:03Z",
-          "end": "2026-09-15T02:23:26Z",
-          "minutes": 313.4,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
-          "name": "버그캣",
-          "videoId": "U1NakIGozwY",
-          "videoUrl": "https://www.youtube.com/watch?v=U1NakIGozwY",
-          "start": "2026-09-14T05:48:57Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 323.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "오늘은 카렐의 함선 정복 난이도 도전이라도 해보기",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=sFN3-E-T6zQ"
-    },
     {
       "channelId": "UCEdlID7vgnILT3NR-ifyjPg",
       "name": "서토리 라이브 저장소!",
@@ -249,28 +56,28 @@
       "lastTitle": "이터널리턴 하이큐에서 살아남기  2026년 9월 21일 1부",
       "buckets": {
         "today": {
-          "totalMinutes": 36.7,
-          "gameMinutes": 36.7,
-          "totalHours": 0.61,
-          "gameHours": 0.61,
+          "totalMinutes": 56.2,
+          "gameMinutes": 56.2,
+          "totalHours": 0.94,
+          "gameHours": 0.94,
           "sessions": 1,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "week": {
-          "totalMinutes": 397.0,
-          "gameMinutes": 397.0,
-          "totalHours": 6.62,
-          "gameHours": 6.62,
+          "totalMinutes": 416.5,
+          "gameMinutes": 416.5,
+          "totalHours": 6.94,
+          "gameHours": 6.94,
           "sessions": 2,
           "avgViewers": 2.0,
           "peakViewers": 6
         },
         "month": {
-          "totalMinutes": 3558.6,
-          "gameMinutes": 3558.6,
-          "totalHours": 59.31,
-          "gameHours": 59.31,
+          "totalMinutes": 3578.0,
+          "gameMinutes": 3578.0,
+          "totalHours": 59.63,
+          "gameHours": 59.63,
           "sessions": 13,
           "avgViewers": 2.4,
           "peakViewers": 9
@@ -628,28 +435,28 @@
       "lastTitle": "이터널 리턴)든든한 든든",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
+          "totalMinutes": 19.5,
+          "gameMinutes": 19.5,
+          "totalHours": 0.32,
+          "gameHours": 0.32,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 175.8,
-          "gameMinutes": 175.8,
-          "totalHours": 2.93,
-          "gameHours": 2.93,
+          "totalMinutes": 195.3,
+          "gameMinutes": 195.3,
+          "totalHours": 3.25,
+          "gameHours": 3.25,
           "sessions": 2,
           "avgViewers": 1.0,
           "peakViewers": 1
         },
         "month": {
-          "totalMinutes": 3539.4,
-          "gameMinutes": 3539.4,
-          "totalHours": 58.99,
-          "gameHours": 58.99,
+          "totalMinutes": 3558.8,
+          "gameMinutes": 3558.8,
+          "totalHours": 59.31,
+          "gameHours": 59.31,
           "sessions": 12,
           "avgViewers": 1.0,
           "peakViewers": 1
@@ -816,30 +623,30 @@
       "lastTitle": "2부 예스노탐정 코난 덕후의 추리 갑니다...",
       "buckets": {
         "today": {
-          "totalMinutes": 161.2,
+          "totalMinutes": 180.6,
           "gameMinutes": 0.0,
-          "totalHours": 2.69,
+          "totalHours": 3.01,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 86.8,
+          "avgViewers": 89.6,
           "peakViewers": 123
         },
         "week": {
-          "totalMinutes": 790.6,
+          "totalMinutes": 810.0,
           "gameMinutes": 0.0,
-          "totalHours": 13.18,
+          "totalHours": 13.5,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 103.9,
+          "avgViewers": 104.1,
           "peakViewers": 167
         },
         "month": {
-          "totalMinutes": 2948.9,
+          "totalMinutes": 2968.3,
           "gameMinutes": 280.1,
-          "totalHours": 49.15,
+          "totalHours": 49.47,
           "gameHours": 4.67,
           "sessions": 11,
-          "avgViewers": 83.1,
+          "avgViewers": 83.3,
           "peakViewers": 171
         }
       },
@@ -1164,9 +971,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 119,
+      "liveViewers": 114,
       "livePeakViewers": 123,
-      "liveAvgViewers": 94.7,
+      "liveAvgViewers": 97.5,
       "liveSamples": [
         [
           "2026-09-22T05:17:09Z",
@@ -1195,6 +1002,10 @@
         [
           "2026-09-22T06:59:14Z",
           119
+        ],
+        [
+          "2026-09-22T07:18:41Z",
+          114
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Akp0_aSqAP4"
@@ -1211,30 +1022,30 @@
       "lastTitle": "【天下無双ARK】まったり先生する！DAY3【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 281.0,
+          "totalMinutes": 300.5,
           "gameMinutes": 0.0,
-          "totalHours": 4.68,
+          "totalHours": 5.01,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 33.9,
-          "peakViewers": 44
+          "avgViewers": 34.6,
+          "peakViewers": 46
         },
         "week": {
-          "totalMinutes": 753.9,
+          "totalMinutes": 773.3,
           "gameMinutes": 0.0,
-          "totalHours": 12.56,
+          "totalHours": 12.89,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 39.3,
+          "avgViewers": 39.5,
           "peakViewers": 56
         },
         "month": {
-          "totalMinutes": 2581.6,
+          "totalMinutes": 2601.0,
           "gameMinutes": 288.1,
-          "totalHours": 43.03,
+          "totalHours": 43.35,
           "gameHours": 4.8,
           "sessions": 19,
-          "avgViewers": 55.2,
+          "avgViewers": 55.1,
           "peakViewers": 267
         }
       },
@@ -1555,9 +1366,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 44,
-      "livePeakViewers": 44,
-      "liveAvgViewers": 31.3,
+      "liveViewers": 46,
+      "livePeakViewers": 46,
+      "liveAvgViewers": 33.6,
       "liveSamples": [
         [
           "2026-09-22T05:32:10Z",
@@ -1582,411 +1393,13 @@
         [
           "2026-09-22T06:59:14Z",
           44
+        ],
+        [
+          "2026-09-22T07:18:41Z",
+          46
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=8jAZVkCaVA4"
-    },
-    {
-      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-      "name": "千燈ゆうひ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCuDY3ibSP2MFRgf7eo3cojg",
-      "isLive": true,
-      "liveSince": "2026-09-22T05:17:09Z",
-      "liveTitle": "【ドラゴンクエストVII Reimagined】やっとこフルパうおおおおお #7【 ぶいすぽっ！ / 千燈ゆうひ 】",
-      "lastEnd": "2026-09-21T17:43:28Z",
-      "lastTitle": "【ドラゴンクエストVII Reimagined】4人目の仲間を探しに行くぞ #6【 ぶいすぽっ！ / 千燈ゆうひ 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 265.6,
-          "gameMinutes": 0.0,
-          "totalHours": 4.43,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 167.5,
-          "peakViewers": 971
-        },
-        "week": {
-          "totalMinutes": 398.4,
-          "gameMinutes": 0.0,
-          "totalHours": 6.64,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 169.2,
-          "peakViewers": 971
-        },
-        "month": {
-          "totalMinutes": 1583.2,
-          "gameMinutes": 240.8,
-          "totalHours": 26.39,
-          "gameHours": 4.01,
-          "sessions": 11,
-          "avgViewers": 66.9,
-          "peakViewers": 971
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "9oLAcDDquGg",
-          "videoUrl": "https://www.youtube.com/watch?v=9oLAcDDquGg",
-          "start": "2026-09-21T14:34:30Z",
-          "end": "2026-09-21T17:43:28Z",
-          "minutes": 189.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ドラゴンクエストVII Reimagined】4人目の仲間を探しに行くぞ #6【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": 933,
-          "avgViewers": 187.4,
-          "samples": [
-            [
-              "2026-09-21T14:34:30Z",
-              548
-            ],
-            [
-              "2026-09-21T14:49:31Z",
-              874
-            ],
-            [
-              "2026-09-21T14:59:59Z",
-              933
-            ],
-            [
-              "2026-09-21T15:17:23Z",
-              11
-            ],
-            [
-              "2026-09-21T15:32:05Z",
-              11
-            ],
-            [
-              "2026-09-21T15:48:20Z",
-              13
-            ],
-            [
-              "2026-09-21T15:59:05Z",
-              12
-            ],
-            [
-              "2026-09-21T16:19:10Z",
-              13
-            ],
-            [
-              "2026-09-21T16:34:31Z",
-              14
-            ],
-            [
-              "2026-09-21T16:49:12Z",
-              13
-            ],
-            [
-              "2026-09-21T16:59:47Z",
-              14
-            ],
-            [
-              "2026-09-21T17:16:03Z",
-              15
-            ],
-            [
-              "2026-09-21T17:29:42Z",
-              18
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "EMb4DeIyJrY",
-          "videoUrl": "https://www.youtube.com/watch?v=EMb4DeIyJrY",
-          "start": "2026-09-21T12:43:46Z",
-          "end": "2026-09-21T14:31:06Z",
-          "minutes": 107.3,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】体いてー【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "CNAmPNR6L4I",
-          "videoUrl": "https://www.youtube.com/watch?v=CNAmPNR6L4I",
-          "start": "2026-09-19T01:47:27Z",
-          "end": "2026-09-19T10:29:57Z",
-          "minutes": 522.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ドラゴンクエストVII Reimagined】千燈ゆうひあるある：RPG途中で間が空きがち #5【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": 902,
-          "avgViewers": 33.4,
-          "samples": [
-            [
-              "2026-09-19T01:47:27Z",
-              902
-            ],
-            [
-              "2026-09-19T01:58:10Z",
-              11
-            ],
-            [
-              "2026-09-19T02:16:38Z",
-              12
-            ],
-            [
-              "2026-09-19T02:31:17Z",
-              14
-            ],
-            [
-              "2026-09-19T02:47:28Z",
-              15
-            ],
-            [
-              "2026-09-19T02:58:02Z",
-              15
-            ],
-            [
-              "2026-09-19T03:16:27Z",
-              16
-            ],
-            [
-              "2026-09-19T03:31:24Z",
-              16
-            ],
-            [
-              "2026-09-19T03:47:01Z",
-              17
-            ],
-            [
-              "2026-09-19T03:57:32Z",
-              18
-            ],
-            [
-              "2026-09-19T04:15:53Z",
-              18
-            ],
-            [
-              "2026-09-19T04:31:05Z",
-              19
-            ],
-            [
-              "2026-09-19T04:47:08Z",
-              18
-            ],
-            [
-              "2026-09-19T04:57:35Z",
-              18
-            ],
-            [
-              "2026-09-19T05:14:30Z",
-              18
-            ],
-            [
-              "2026-09-19T05:29:06Z",
-              18
-            ],
-            [
-              "2026-09-19T05:42:17Z",
-              19
-            ],
-            [
-              "2026-09-19T05:55:40Z",
-              18
-            ],
-            [
-              "2026-09-19T06:15:11Z",
-              18
-            ],
-            [
-              "2026-09-19T06:35:00Z",
-              19
-            ],
-            [
-              "2026-09-19T06:50:02Z",
-              19
-            ],
-            [
-              "2026-09-19T07:00:52Z",
-              2
-            ],
-            [
-              "2026-09-19T07:20:28Z",
-              19
-            ],
-            [
-              "2026-09-19T07:38:38Z",
-              19
-            ],
-            [
-              "2026-09-19T07:49:51Z",
-              2
-            ],
-            [
-              "2026-09-19T08:00:23Z",
-              2
-            ],
-            [
-              "2026-09-19T08:22:42Z",
-              19
-            ],
-            [
-              "2026-09-19T08:40:05Z",
-              2
-            ],
-            [
-              "2026-09-19T08:52:08Z",
-              19
-            ],
-            [
-              "2026-09-19T09:10:55Z",
-              18
-            ],
-            [
-              "2026-09-19T09:30:05Z",
-              17
-            ],
-            [
-              "2026-09-19T09:43:06Z",
-              17
-            ],
-            [
-              "2026-09-19T09:55:54Z",
-              16
-            ],
-            [
-              "2026-09-19T10:12:20Z",
-              13
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "2CJToEugdao",
-          "videoUrl": "https://www.youtube.com/watch?v=2CJToEugdao",
-          "start": "2026-09-18T12:20:16Z",
-          "end": "2026-09-18T14:33:39Z",
-          "minutes": 133.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Machine Party】ぶいすぽフレッシュ＆大御所メンバーとましんぱ❓【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 9.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "kWTUEt2u-hk",
-          "videoUrl": "https://www.youtube.com/watch?v=kWTUEt2u-hk",
-          "start": "2026-09-18T05:53:02Z",
-          "end": "2026-09-18T07:54:53Z",
-          "minutes": 121.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】メンバーと旅行いってきたときの雑談とすと６【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "OBN3i-9KDKs",
-          "videoUrl": "https://www.youtube.com/watch?v=OBN3i-9KDKs",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Eternal Return】DOMINATORSに、俺らはなる！ #PR 【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": 21,
-          "avgViewers": 21.0,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "OBN3i-9KDKs",
-          "videoUrl": "https://www.youtube.com/watch?v=OBN3i-9KDKs",
-          "start": "2026-09-16T10:00:44Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 169.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Eternal Return】DOMINATORSに、俺らはなる！ #PR 【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": 620,
-          "avgViewers": 107.6,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
-          "name": "千燈ゆうひ",
-          "videoId": "Lp69XSkQL48",
-          "videoUrl": "https://www.youtube.com/watch?v=Lp69XSkQL48",
-          "start": "2026-09-13T11:55:56Z",
-          "end": "2026-09-13T14:11:43Z",
-          "minutes": 135.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #ぶいすぽGG 】ぶいすぽGG 橘ひなの presents ~愉悦~ の~愉悦される側~【 ぶいすぽっ！ / 千燈ゆうひ 】",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 19.9,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 17,
-      "livePeakViewers": 971,
-      "liveAvgViewers": 135.6,
-      "liveSamples": [
-        [
-          "2026-09-22T05:17:09Z",
-          971
-        ],
-        [
-          "2026-09-22T05:32:10Z",
-          12
-        ],
-        [
-          "2026-09-22T05:48:08Z",
-          14
-        ],
-        [
-          "2026-09-22T05:58:35Z",
-          14
-        ],
-        [
-          "2026-09-22T06:22:30Z",
-          16
-        ],
-        [
-          "2026-09-22T06:44:41Z",
-          17
-        ],
-        [
-          "2026-09-22T06:59:14Z",
-          17
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=ijrrwYvbOJ4"
     },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
@@ -2681,6 +2094,189 @@
           "game": null,
           "peakViewers": 120,
           "avgViewers": 93.8,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCtNOhAK9t4xBgXQKT9wYFfw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-22T07:17:40Z",
+      "lastTitle": "마랭도 올리고 숙제도 간단히 끝내고 할게 많넹...",
+      "buckets": {
+        "today": {
+          "totalMinutes": 396.3,
+          "gameMinutes": 0.0,
+          "totalHours": 6.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 941.0,
+          "gameMinutes": 0.0,
+          "totalHours": 15.68,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 4393.6,
+          "gameMinutes": 48.2,
+          "totalHours": 73.23,
+          "gameHours": 0.8,
+          "sessions": 17,
+          "avgViewers": 1.0,
+          "peakViewers": 1
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "sFN3-E-T6zQ",
+          "videoUrl": "https://www.youtube.com/watch?v=sFN3-E-T6zQ",
+          "start": "2026-09-22T00:41:23Z",
+          "end": "2026-09-22T07:17:40Z",
+          "minutes": 396.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "마랭도 올리고 숙제도 간단히 끝내고 할게 많넹...",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "NqHyGgTYIYM",
+          "videoUrl": "https://www.youtube.com/watch?v=NqHyGgTYIYM",
+          "start": "2026-09-21T00:18:45Z",
+          "end": "2026-09-21T09:23:27Z",
+          "minutes": 544.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "오늘은 오늘은 와일즈 와일즈 태도 태도 연습 연습",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "bXblCRieiUc",
+          "videoUrl": "https://www.youtube.com/watch?v=bXblCRieiUc",
+          "start": "2026-09-20T10:14:39Z",
+          "end": "2026-09-20T12:35:13Z",
+          "minutes": 140.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "귀무자 했었으니까 같은 개발사의 게임 도는 쓸 수 있지 않을까 하는 안일한 생각",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [
+            [
+              "2026-09-20T11:11:22Z",
+              1
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "_FhqsMnMfog",
+          "videoUrl": "https://www.youtube.com/watch?v=_FhqsMnMfog",
+          "start": "2026-09-18T22:50:26Z",
+          "end": "2026-09-19T05:45:19Z",
+          "minutes": 414.9,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "얼티밋 헤일리 후딱 해금하고 후딱 써보고 성능 체감 함 가즈아아!!",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "MXwWk9X9hvM",
+          "videoUrl": "https://www.youtube.com/watch?v=MXwWk9X9hvM",
+          "start": "2026-09-18T10:33:34Z",
+          "end": "2026-09-18T12:20:16Z",
+          "minutes": 106.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "어센던스 오기 전에 손에 감을 익히려는 버그 고양이",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "wqbQdxWUXp4",
+          "videoUrl": "https://www.youtube.com/watch?v=wqbQdxWUXp4",
+          "start": "2026-09-17T19:15:21Z",
+          "end": "2026-09-18T05:40:13Z",
+          "minutes": 624.9,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "무리를 해보는 날 얼티밋 헤일리 얻고 그 다음 몬헌 방송 할거닷!",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "UFBYCW00kzI",
+          "videoUrl": "https://www.youtube.com/watch?v=UFBYCW00kzI",
+          "start": "2026-09-16T23:00:16Z",
+          "end": "2026-09-17T04:47:09Z",
+          "minutes": 346.9,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다. - 외장이랑 선각자 너무 나빠!",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+          "name": "버그캣",
+          "videoId": "Y7a0fOfI_0Y",
+          "videoUrl": "https://www.youtube.com/watch?v=Y7a0fOfI_0Y",
+          "start": "2026-09-14T21:10:03Z",
+          "end": "2026-09-15T02:23:26Z",
+          "minutes": 313.4,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "뉴비는 파밍을 적당히 끝내고 싶지만 운이 윤허하지 못하다.",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
           "samples": [],
           "isTargetGame": false
         }
@@ -9569,6 +9165,266 @@
       ]
     },
     {
+      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+      "name": "千燈ゆうひ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCuDY3ibSP2MFRgf7eo3cojg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-22T07:18:41Z",
+      "lastTitle": "【ドラゴンクエストVII Reimagined】やっとこフルパうおおおおお #7【 ぶいすぽっ！ / 千燈ゆうひ 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 285.0,
+          "gameMinutes": 0.0,
+          "totalHours": 4.75,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 165.3,
+          "peakViewers": 971
+        },
+        "week": {
+          "totalMinutes": 417.8,
+          "gameMinutes": 0.0,
+          "totalHours": 6.96,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 167.1,
+          "peakViewers": 971
+        },
+        "month": {
+          "totalMinutes": 1602.7,
+          "gameMinutes": 240.8,
+          "totalHours": 26.71,
+          "gameHours": 4.01,
+          "sessions": 11,
+          "avgViewers": 67.9,
+          "peakViewers": 971
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "ijrrwYvbOJ4",
+          "videoUrl": "https://www.youtube.com/watch?v=ijrrwYvbOJ4",
+          "start": "2026-09-22T05:17:09Z",
+          "end": "2026-09-22T07:18:41Z",
+          "minutes": 121.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ドラゴンクエストVII Reimagined】やっとこフルパうおおおおお #7【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": 971,
+          "avgViewers": 135.6,
+          "samples": [
+            [
+              "2026-09-22T05:17:09Z",
+              971
+            ],
+            [
+              "2026-09-22T05:32:10Z",
+              12
+            ],
+            [
+              "2026-09-22T05:48:08Z",
+              14
+            ],
+            [
+              "2026-09-22T05:58:35Z",
+              14
+            ],
+            [
+              "2026-09-22T06:22:30Z",
+              16
+            ],
+            [
+              "2026-09-22T06:44:41Z",
+              17
+            ],
+            [
+              "2026-09-22T06:59:14Z",
+              17
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "9oLAcDDquGg",
+          "videoUrl": "https://www.youtube.com/watch?v=9oLAcDDquGg",
+          "start": "2026-09-21T14:34:30Z",
+          "end": "2026-09-21T17:43:28Z",
+          "minutes": 189.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ドラゴンクエストVII Reimagined】4人目の仲間を探しに行くぞ #6【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": 933,
+          "avgViewers": 187.4,
+          "samples": [
+            [
+              "2026-09-21T14:34:30Z",
+              548
+            ],
+            [
+              "2026-09-21T14:49:31Z",
+              874
+            ],
+            [
+              "2026-09-21T14:59:59Z",
+              933
+            ],
+            [
+              "2026-09-21T15:17:23Z",
+              11
+            ],
+            [
+              "2026-09-21T15:32:05Z",
+              11
+            ],
+            [
+              "2026-09-21T15:48:20Z",
+              13
+            ],
+            [
+              "2026-09-21T15:59:05Z",
+              12
+            ],
+            [
+              "2026-09-21T16:19:10Z",
+              13
+            ],
+            [
+              "2026-09-21T16:34:31Z",
+              14
+            ],
+            [
+              "2026-09-21T16:49:12Z",
+              13
+            ],
+            [
+              "2026-09-21T16:59:47Z",
+              14
+            ],
+            [
+              "2026-09-21T17:16:03Z",
+              15
+            ],
+            [
+              "2026-09-21T17:29:42Z",
+              18
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "EMb4DeIyJrY",
+          "videoUrl": "https://www.youtube.com/watch?v=EMb4DeIyJrY",
+          "start": "2026-09-21T12:43:46Z",
+          "end": "2026-09-21T14:31:06Z",
+          "minutes": 107.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】体いてー【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "CNAmPNR6L4I",
+          "videoUrl": "https://www.youtube.com/watch?v=CNAmPNR6L4I",
+          "start": "2026-09-19T01:47:27Z",
+          "end": "2026-09-19T10:29:57Z",
+          "minutes": 522.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ドラゴンクエストVII Reimagined】千燈ゆうひあるある：RPG途中で間が空きがち #5【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": 902,
+          "avgViewers": 33.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "2CJToEugdao",
+          "videoUrl": "https://www.youtube.com/watch?v=2CJToEugdao",
+          "start": "2026-09-18T12:20:16Z",
+          "end": "2026-09-18T14:33:39Z",
+          "minutes": 133.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Machine Party】ぶいすぽフレッシュ＆大御所メンバーとましんぱ❓【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 9.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "kWTUEt2u-hk",
+          "videoUrl": "https://www.youtube.com/watch?v=kWTUEt2u-hk",
+          "start": "2026-09-18T05:53:02Z",
+          "end": "2026-09-18T07:54:53Z",
+          "minutes": 121.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】メンバーと旅行いってきたときの雑談とすと６【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "OBN3i-9KDKs",
+          "videoUrl": "https://www.youtube.com/watch?v=OBN3i-9KDKs",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Eternal Return】DOMINATORSに、俺らはなる！ #PR 【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 21.0,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+          "name": "千燈ゆうひ",
+          "videoId": "OBN3i-9KDKs",
+          "videoUrl": "https://www.youtube.com/watch?v=OBN3i-9KDKs",
+          "start": "2026-09-16T10:00:44Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 169.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Eternal Return】DOMINATORSに、俺らはなる！ #PR 【 ぶいすぽっ！ / 千燈ゆうひ 】",
+          "game": null,
+          "peakViewers": 620,
+          "avgViewers": 107.6,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
       "name": "maŸUko",
       "registered": true,
@@ -15348,6 +15204,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
+      "name": "千燈ゆうひ",
+      "videoId": "ijrrwYvbOJ4",
+      "videoUrl": "https://www.youtube.com/watch?v=ijrrwYvbOJ4",
+      "start": "2026-09-22T05:17:09Z",
+      "end": "2026-09-22T07:18:41Z",
+      "minutes": 121.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ドラゴンクエストVII Reimagined】やっとこフルパうおおおおお #7【 ぶいすぽっ！ / 千燈ゆうひ 】",
+      "game": null,
+      "peakViewers": 971,
+      "avgViewers": 135.6,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCHReTde3AGMElSQCbCftF7Q",
       "name": "전부벗은새우튀김",
       "videoId": "Qct1uUgyW68",
@@ -15374,6 +15246,22 @@
       "startSource": "observed",
       "endSource": "observed",
       "title": "뭘했다고 1주년",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCtNOhAK9t4xBgXQKT9wYFfw",
+      "name": "버그캣",
+      "videoId": "sFN3-E-T6zQ",
+      "videoUrl": "https://www.youtube.com/watch?v=sFN3-E-T6zQ",
+      "start": "2026-09-22T00:41:23Z",
+      "end": "2026-09-22T07:17:40Z",
+      "minutes": 396.3,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "마랭도 올리고 숙제도 간단히 끝내고 할게 많넹...",
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
@@ -16274,38 +16162,6 @@
       "peakViewers": 5,
       "avgViewers": 3.9,
       "isTargetGame": false
-    },
-    {
-      "channelId": "UCdfqaZPAstutii6NLvGoblA",
-      "name": "김머만",
-      "videoId": "WOGqbQAeCZA",
-      "videoUrl": "https://www.youtube.com/watch?v=WOGqbQAeCZA",
-      "start": "2026-09-20T14:55:55Z",
-      "end": "2026-09-20T16:13:02Z",
-      "minutes": 77.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "이터널 리턴",
-      "game": null,
-      "peakViewers": 2,
-      "avgViewers": 1.2,
-      "isTargetGame": true
-    },
-    {
-      "channelId": "UC_c3HArzuJYD-gdZ7tAroBw",
-      "name": "민키",
-      "videoId": "bM3zacjgWHQ",
-      "videoUrl": "https://www.youtube.com/watch?v=bM3zacjgWHQ",
-      "start": "2026-09-20T14:55:55Z",
-      "end": "2026-09-20T16:30:34Z",
-      "minutes": 94.7,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "이터널리턴 뉴비 랭크전 골드2 카티야 각성!!!",
-      "game": null,
-      "peakViewers": 6,
-      "avgViewers": 3.9,
-      "isTargetGame": true
     }
   ]
 }
