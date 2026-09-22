@@ -2,45 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "FJFfStLfN18",
-      "start": "2026-09-22T08:19:35Z",
-      "startSource": "observed",
-      "title": "【雑談】吹っ飛べ気圧。みんなでカバー曲聞くぞ～！！【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 888,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-22T08:19:35Z",
-      "lastSeenAt": "2026-09-22T09:40:00Z",
-      "samples": [
-        [
-          "2026-09-22T08:19:35Z",
-          549
-        ],
-        [
-          "2026-09-22T08:35:10Z",
-          736
-        ],
-        [
-          "2026-09-22T08:49:41Z",
-          866
-        ],
-        [
-          "2026-09-22T09:00:34Z",
-          888
-        ],
-        [
-          "2026-09-22T09:21:56Z",
-          779
-        ],
-        [
-          "2026-09-22T09:40:00Z",
-          817
-        ]
-      ]
-    },
     "UC1_HUmjQShLtT_MuZjry3hQ": {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
@@ -52,7 +13,7 @@
       "peakViewers": 13,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-22T09:00:34Z",
-      "lastSeenAt": "2026-09-22T09:40:00Z",
+      "lastSeenAt": "2026-09-22T09:52:40Z",
       "samples": [
         [
           "2026-09-22T09:00:34Z",
@@ -65,6 +26,10 @@
         [
           "2026-09-22T09:40:00Z",
           13
+        ],
+        [
+          "2026-09-22T09:52:40Z",
+          9
         ]
       ]
     },
@@ -76,10 +41,10 @@
       "startSource": "observed",
       "title": "【 #天下無双ARK : 4日目 】焼肉は好きか～！【ゆにれいど！/ 火狩夜れんま】",
       "game": null,
-      "peakViewers": 36,
+      "peakViewers": 39,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-22T09:21:56Z",
-      "lastSeenAt": "2026-09-22T09:40:00Z",
+      "lastSeenAt": "2026-09-22T09:52:40Z",
       "samples": [
         [
           "2026-09-22T09:21:56Z",
@@ -88,6 +53,10 @@
         [
           "2026-09-22T09:40:00Z",
           36
+        ],
+        [
+          "2026-09-22T09:52:40Z",
+          39
         ]
       ]
     },
@@ -102,7 +71,7 @@
       "peakViewers": 24,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-22T09:21:56Z",
-      "lastSeenAt": "2026-09-22T09:40:00Z",
+      "lastSeenAt": "2026-09-22T09:52:40Z",
       "samples": [
         [
           "2026-09-22T09:21:56Z",
@@ -111,6 +80,10 @@
         [
           "2026-09-22T09:40:00Z",
           24
+        ],
+        [
+          "2026-09-22T09:52:40Z",
+          18
         ]
       ]
     }
@@ -18149,6 +18122,48 @@
         [
           "2026-09-22T09:00:34Z",
           48
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "FJFfStLfN18",
+      "videoUrl": "https://www.youtube.com/watch?v=FJFfStLfN18",
+      "start": "2026-09-22T08:19:35Z",
+      "end": "2026-09-22T09:52:40Z",
+      "minutes": 93.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】吹っ飛べ気圧。みんなでカバー曲聞くぞ～！！【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 888,
+      "avgViewers": 775.7,
+      "samples": [
+        [
+          "2026-09-22T08:19:35Z",
+          549
+        ],
+        [
+          "2026-09-22T08:35:10Z",
+          736
+        ],
+        [
+          "2026-09-22T08:49:41Z",
+          866
+        ],
+        [
+          "2026-09-22T09:00:34Z",
+          888
+        ],
+        [
+          "2026-09-22T09:21:56Z",
+          779
+        ],
+        [
+          "2026-09-22T09:40:00Z",
+          817
         ]
       ],
       "isTargetGame": false
