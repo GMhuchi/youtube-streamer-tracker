@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:56:52Z",
+  "updatedAt": "2026-09-22T18:18:31Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1098.9,
+      "totalMinutes": 1120.5,
       "gameMinutes": 0.0,
-      "totalHours": 18.31,
+      "totalHours": 18.68,
       "gameHours": 0.0,
       "sessions": 9,
-      "avgViewers": 128.8,
+      "avgViewers": 132.2,
       "peakViewers": 980
     },
     "week": {
-      "totalMinutes": 11367.1,
+      "totalMinutes": 11388.7,
       "gameMinutes": 0.0,
-      "totalHours": 189.45,
+      "totalHours": 189.81,
       "gameHours": 0.0,
       "sessions": 53,
-      "avgViewers": 104.7,
+      "avgViewers": 105.1,
       "peakViewers": 980
     },
     "month": {
-      "totalMinutes": 56319.5,
+      "totalMinutes": 56341.1,
       "gameMinutes": 9797.0,
-      "totalHours": 938.66,
+      "totalHours": 939.02,
       "gameHours": 163.28,
       "sessions": 331,
-      "avgViewers": 120.4,
+      "avgViewers": 120.5,
       "peakViewers": 994
     }
   },
@@ -49,41 +49,179 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-09-22T10:12:34Z",
-      "liveTitle": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-21T18:34:55Z",
-      "lastTitle": "〖 クロノ・トリガー╎#9 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-22T18:18:31Z",
+      "lastTitle": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 176.9,
+          "totalMinutes": 198.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.95,
+          "totalHours": 3.31,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 301.3,
           "peakViewers": 384
         },
         "week": {
-          "totalMinutes": 1448.0,
+          "totalMinutes": 1469.7,
           "gameMinutes": 0.0,
-          "totalHours": 24.13,
+          "totalHours": 24.49,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 263.2,
+          "avgViewers": 263.8,
           "peakViewers": 453
         },
         "month": {
-          "totalMinutes": 5706.0,
+          "totalMinutes": 5727.6,
           "gameMinutes": 168.3,
-          "totalHours": 95.1,
+          "totalHours": 95.46,
           "gameHours": 2.8,
           "sessions": 27,
-          "avgViewers": 249.3,
+          "avgViewers": 249.5,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "KY9JZufn-Sw",
+          "videoUrl": "https://www.youtube.com/watch?v=KY9JZufn-Sw",
+          "start": "2026-09-22T10:12:34Z",
+          "end": "2026-09-22T18:18:31Z",
+          "minutes": 486.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 384,
+          "avgViewers": 301.3,
+          "samples": [
+            [
+              "2026-09-22T10:12:34Z",
+              123
+            ],
+            [
+              "2026-09-22T10:32:38Z",
+              260
+            ],
+            [
+              "2026-09-22T10:49:17Z",
+              384
+            ],
+            [
+              "2026-09-22T10:59:40Z",
+              351
+            ],
+            [
+              "2026-09-22T11:18:11Z",
+              367
+            ],
+            [
+              "2026-09-22T11:32:46Z",
+              363
+            ],
+            [
+              "2026-09-22T11:47:23Z",
+              372
+            ],
+            [
+              "2026-09-22T11:58:05Z",
+              348
+            ],
+            [
+              "2026-09-22T12:22:00Z",
+              301
+            ],
+            [
+              "2026-09-22T12:44:14Z",
+              286
+            ],
+            [
+              "2026-09-22T12:59:08Z",
+              269
+            ],
+            [
+              "2026-09-22T13:19:15Z",
+              270
+            ],
+            [
+              "2026-09-22T13:34:44Z",
+              282
+            ],
+            [
+              "2026-09-22T13:49:54Z",
+              276
+            ],
+            [
+              "2026-09-22T14:00:28Z",
+              254
+            ],
+            [
+              "2026-09-22T14:22:59Z",
+              269
+            ],
+            [
+              "2026-09-22T14:42:49Z",
+              270
+            ],
+            [
+              "2026-09-22T14:58:23Z",
+              257
+            ],
+            [
+              "2026-09-22T15:17:25Z",
+              273
+            ],
+            [
+              "2026-09-22T15:31:59Z",
+              279
+            ],
+            [
+              "2026-09-22T15:47:46Z",
+              319
+            ],
+            [
+              "2026-09-22T15:58:25Z",
+              317
+            ],
+            [
+              "2026-09-22T16:17:53Z",
+              349
+            ],
+            [
+              "2026-09-22T16:34:28Z",
+              341
+            ],
+            [
+              "2026-09-22T16:48:42Z",
+              317
+            ],
+            [
+              "2026-09-22T16:59:11Z",
+              332
+            ],
+            [
+              "2026-09-22T17:16:33Z",
+              357
+            ],
+            [
+              "2026-09-22T17:30:58Z",
+              327
+            ],
+            [
+              "2026-09-22T17:46:22Z",
+              306
+            ],
+            [
+              "2026-09-22T17:56:52Z",
+              343
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -310,28 +448,7 @@
           "game": null,
           "peakViewers": 157,
           "avgViewers": 144.8,
-          "samples": [
-            [
-              "2026-09-20T19:13:43Z",
-              137
-            ],
-            [
-              "2026-09-20T19:28:15Z",
-              133
-            ],
-            [
-              "2026-09-20T19:39:22Z",
-              147
-            ],
-            [
-              "2026-09-20T19:50:05Z",
-              152
-            ],
-            [
-              "2026-09-20T20:01:06Z",
-              157
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -401,151 +518,8 @@
           "avgViewers": 104.8,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "cZob8ogKFzg",
-          "videoUrl": "https://www.youtube.com/watch?v=cZob8ogKFzg",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:12:28Z",
-          "minutes": 60.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#6 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 102,
-          "avgViewers": 91.1,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 343,
-      "livePeakViewers": 384,
-      "liveAvgViewers": 301.3,
-      "liveSamples": [
-        [
-          "2026-09-22T10:12:34Z",
-          123
-        ],
-        [
-          "2026-09-22T10:32:38Z",
-          260
-        ],
-        [
-          "2026-09-22T10:49:17Z",
-          384
-        ],
-        [
-          "2026-09-22T10:59:40Z",
-          351
-        ],
-        [
-          "2026-09-22T11:18:11Z",
-          367
-        ],
-        [
-          "2026-09-22T11:32:46Z",
-          363
-        ],
-        [
-          "2026-09-22T11:47:23Z",
-          372
-        ],
-        [
-          "2026-09-22T11:58:05Z",
-          348
-        ],
-        [
-          "2026-09-22T12:22:00Z",
-          301
-        ],
-        [
-          "2026-09-22T12:44:14Z",
-          286
-        ],
-        [
-          "2026-09-22T12:59:08Z",
-          269
-        ],
-        [
-          "2026-09-22T13:19:15Z",
-          270
-        ],
-        [
-          "2026-09-22T13:34:44Z",
-          282
-        ],
-        [
-          "2026-09-22T13:49:54Z",
-          276
-        ],
-        [
-          "2026-09-22T14:00:28Z",
-          254
-        ],
-        [
-          "2026-09-22T14:22:59Z",
-          269
-        ],
-        [
-          "2026-09-22T14:42:49Z",
-          270
-        ],
-        [
-          "2026-09-22T14:58:23Z",
-          257
-        ],
-        [
-          "2026-09-22T15:17:25Z",
-          273
-        ],
-        [
-          "2026-09-22T15:31:59Z",
-          279
-        ],
-        [
-          "2026-09-22T15:47:46Z",
-          319
-        ],
-        [
-          "2026-09-22T15:58:25Z",
-          317
-        ],
-        [
-          "2026-09-22T16:17:53Z",
-          349
-        ],
-        [
-          "2026-09-22T16:34:28Z",
-          341
-        ],
-        [
-          "2026-09-22T16:48:42Z",
-          317
-        ],
-        [
-          "2026-09-22T16:59:11Z",
-          332
-        ],
-        [
-          "2026-09-22T17:16:33Z",
-          357
-        ],
-        [
-          "2026-09-22T17:30:58Z",
-          327
-        ],
-        [
-          "2026-09-22T17:46:22Z",
-          306
-        ],
-        [
-          "2026-09-22T17:56:52Z",
-          343
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=KY9JZufn-Sw"
+      ]
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -7101,6 +7075,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "KY9JZufn-Sw",
+      "videoUrl": "https://www.youtube.com/watch?v=KY9JZufn-Sw",
+      "start": "2026-09-22T10:12:34Z",
+      "end": "2026-09-22T18:18:31Z",
+      "minutes": 486.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 384,
+      "avgViewers": 301.3,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
       "name": "水上蒼太",
       "videoId": "1aDGo6Lhqng",
@@ -7850,22 +7840,6 @@
       "game": null,
       "peakViewers": 110,
       "avgViewers": 83.2,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "-jnkF6tQIhg",
-      "videoUrl": "https://www.youtube.com/watch?v=-jnkF6tQIhg",
-      "start": "2026-09-20T11:29:08Z",
-      "end": "2026-09-20T14:42:46Z",
-      "minutes": 193.6,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "〚ARK 〛私たちは空を飛ぶ！あいきゃんふらい！！〚 甘成じゅい/ゆにれいど！ 〛#天下無双ARK",
-      "game": null,
-      "peakViewers": 57,
-      "avgViewers": 46.3,
       "isTargetGame": false
     }
   ]
