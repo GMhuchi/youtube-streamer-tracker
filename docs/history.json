@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T07:59:15Z",
+  "updatedAt": "2026-09-22T08:19:35Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1520.6,
+      "totalMinutes": 1540.9,
       "gameMinutes": 0.0,
-      "totalHours": 25.34,
+      "totalHours": 25.68,
       "gameHours": 0.0,
-      "sessions": 12,
-      "avgViewers": 106.3,
+      "sessions": 13,
+      "avgViewers": 105.5,
       "peakViewers": 959
     },
     "week": {
-      "totalMinutes": 7194.8,
+      "totalMinutes": 7215.2,
       "gameMinutes": 0.0,
-      "totalHours": 119.91,
+      "totalHours": 120.25,
       "gameHours": 0.0,
-      "sessions": 36,
-      "avgViewers": 97.5,
+      "sessions": 37,
+      "avgViewers": 97.4,
       "peakViewers": 959
     },
     "month": {
-      "totalMinutes": 52147.3,
+      "totalMinutes": 52167.6,
       "gameMinutes": 9797.0,
-      "totalHours": 869.12,
+      "totalHours": 869.46,
       "gameHours": 163.28,
-      "sessions": 314,
+      "sessions": 315,
       "avgViewers": 120.6,
       "peakViewers": 994
     }
@@ -56,27 +56,27 @@
       "lastTitle": "【天下無双ARK】まったり先生する！DAY3【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 341.1,
+          "totalMinutes": 361.4,
           "gameMinutes": 0.0,
-          "totalHours": 5.68,
+          "totalHours": 6.02,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 36.4,
+          "avgViewers": 37.0,
           "peakViewers": 54
         },
         "week": {
-          "totalMinutes": 813.9,
+          "totalMinutes": 834.2,
           "gameMinutes": 0.0,
-          "totalHours": 13.56,
+          "totalHours": 13.9,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 40.0,
+          "avgViewers": 40.2,
           "peakViewers": 56
         },
         "month": {
-          "totalMinutes": 2641.6,
+          "totalMinutes": 2661.9,
           "gameMinutes": 288.1,
-          "totalHours": 44.03,
+          "totalHours": 44.37,
           "gameHours": 4.8,
           "sessions": 19,
           "avgViewers": 55.0,
@@ -400,9 +400,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 54,
+      "liveViewers": 48,
       "livePeakViewers": 54,
-      "liveAvgViewers": 38.0,
+      "liveAvgViewers": 39.2,
       "liveSamples": [
         [
           "2026-09-22T05:32:10Z",
@@ -443,9 +443,250 @@
         [
           "2026-09-22T07:59:15Z",
           54
+        ],
+        [
+          "2026-09-22T08:19:35Z",
+          48
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=8jAZVkCaVA4"
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCE4W22kKQQVdrA2KTiyZ_cA",
+      "isLive": true,
+      "liveSince": "2026-09-22T08:19:35Z",
+      "liveTitle": "【雑談】吹っ飛べ気圧。みんなでカバー曲聞くぞ～！！【 #無原唱レコード / #メーメントヴァニタス 】",
+      "lastEnd": "2026-09-20T07:29:25Z",
+      "lastTitle": "【#歌枠/ KARAOKE】お昼に歌ったり喋ったり☁ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 549.0,
+          "peakViewers": 549
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 549.0,
+          "peakViewers": 549
+        },
+        "month": {
+          "totalMinutes": 1074.5,
+          "gameMinutes": 604.9,
+          "totalHours": 17.91,
+          "gameHours": 10.08,
+          "sessions": 11,
+          "avgViewers": 277.3,
+          "peakViewers": 975
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "ABP6mAN2YQw",
+          "videoUrl": "https://www.youtube.com/watch?v=ABP6mAN2YQw",
+          "start": "2026-09-20T04:17:58Z",
+          "end": "2026-09-20T07:29:25Z",
+          "minutes": 191.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#歌枠/ KARAOKE】お昼に歌ったり喋ったり☁ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": 975,
+          "avgViewers": 331.1,
+          "samples": [
+            [
+              "2026-09-20T04:17:58Z",
+              580
+            ],
+            [
+              "2026-09-20T04:33:20Z",
+              771
+            ],
+            [
+              "2026-09-20T04:47:47Z",
+              894
+            ],
+            [
+              "2026-09-20T04:58:20Z",
+              975
+            ],
+            [
+              "2026-09-20T05:16:26Z",
+              1
+            ],
+            [
+              "2026-09-20T05:30:44Z",
+              1
+            ],
+            [
+              "2026-09-20T05:46:40Z",
+              11
+            ],
+            [
+              "2026-09-20T05:57:18Z",
+              1
+            ],
+            [
+              "2026-09-20T06:19:41Z",
+              11
+            ],
+            [
+              "2026-09-20T06:37:37Z",
+              1
+            ],
+            [
+              "2026-09-20T06:52:36Z",
+              1
+            ],
+            [
+              "2026-09-20T07:10:24Z",
+              941
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "gFIJ_wTVd6A",
+          "videoUrl": "https://www.youtube.com/watch?v=gFIJ_wTVd6A",
+          "start": "2026-09-19T11:46:21Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 48.6,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "【メン限】いつのまにか涼しくなっちゃったね【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "gFIJ_wTVd6A",
+          "videoUrl": "https://www.youtube.com/watch?v=gFIJ_wTVd6A",
+          "start": "2026-09-19T11:46:21Z",
+          "end": "2026-09-19T13:34:19Z",
+          "minutes": 108,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】いつのまにか涼しくなっちゃったね【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "3lLsihugbV8",
+          "videoUrl": "https://www.youtube.com/watch?v=3lLsihugbV8",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！朕たちがドミネーターだ！【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": 210,
+          "avgViewers": 210,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "3lLsihugbV8",
+          "videoUrl": "https://www.youtube.com/watch?v=3lLsihugbV8",
+          "start": "2026-09-16T10:00:44Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 169.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！朕たちがドミネーターだ！【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": 289,
+          "avgViewers": 237.8,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "n9U_-6BNjSM",
+          "videoUrl": "https://www.youtube.com/watch?v=n9U_-6BNjSM",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:19:25Z",
+          "minutes": 106.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】カスタムDay2！バニーの力で強くなる✨【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": 320,
+          "avgViewers": 279.4,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "n9U_-6BNjSM",
+          "videoUrl": "https://www.youtube.com/watch?v=n9U_-6BNjSM",
+          "start": "2026-09-14T10:11:57Z",
+          "end": "2026-09-14T11:12:12Z",
+          "minutes": 60.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】カスタムDay2！バニーの力で強くなる✨【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": 353,
+          "avgViewers": 225.2,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+          "name": "メーメントヴァニタス",
+          "videoId": "Xd3jij2x8-A",
+          "videoUrl": "https://www.youtube.com/watch?v=Xd3jij2x8-A",
+          "start": "2026-09-12T12:15:12Z",
+          "end": "2026-09-12T14:16:46Z",
+          "minutes": 121.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#歌枠/ KARAOKE】たまには歌わないとね…！？ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+          "game": null,
+          "peakViewers": 969,
+          "avgViewers": 341.7,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 549,
+      "livePeakViewers": 549,
+      "liveAvgViewers": 549.0,
+      "liveSamples": [
+        [
+          "2026-09-22T08:19:35Z",
+          549
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=FJFfStLfN18"
     },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
@@ -5796,233 +6037,6 @@
           "game": null,
           "peakViewers": 241,
           "avgViewers": 213.2,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCE4W22kKQQVdrA2KTiyZ_cA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-20T07:29:25Z",
-      "lastTitle": "【#歌枠/ KARAOKE】お昼に歌ったり喋ったり☁ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 1074.5,
-          "gameMinutes": 604.9,
-          "totalHours": 17.91,
-          "gameHours": 10.08,
-          "sessions": 10,
-          "avgViewers": 277.3,
-          "peakViewers": 975
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "ABP6mAN2YQw",
-          "videoUrl": "https://www.youtube.com/watch?v=ABP6mAN2YQw",
-          "start": "2026-09-20T04:17:58Z",
-          "end": "2026-09-20T07:29:25Z",
-          "minutes": 191.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#歌枠/ KARAOKE】お昼に歌ったり喋ったり☁ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": 975,
-          "avgViewers": 331.1,
-          "samples": [
-            [
-              "2026-09-20T04:17:58Z",
-              580
-            ],
-            [
-              "2026-09-20T04:33:20Z",
-              771
-            ],
-            [
-              "2026-09-20T04:47:47Z",
-              894
-            ],
-            [
-              "2026-09-20T04:58:20Z",
-              975
-            ],
-            [
-              "2026-09-20T05:16:26Z",
-              1
-            ],
-            [
-              "2026-09-20T05:30:44Z",
-              1
-            ],
-            [
-              "2026-09-20T05:46:40Z",
-              11
-            ],
-            [
-              "2026-09-20T05:57:18Z",
-              1
-            ],
-            [
-              "2026-09-20T06:19:41Z",
-              11
-            ],
-            [
-              "2026-09-20T06:37:37Z",
-              1
-            ],
-            [
-              "2026-09-20T06:52:36Z",
-              1
-            ],
-            [
-              "2026-09-20T07:10:24Z",
-              941
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "gFIJ_wTVd6A",
-          "videoUrl": "https://www.youtube.com/watch?v=gFIJ_wTVd6A",
-          "start": "2026-09-19T11:46:21Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 48.6,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "【メン限】いつのまにか涼しくなっちゃったね【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "gFIJ_wTVd6A",
-          "videoUrl": "https://www.youtube.com/watch?v=gFIJ_wTVd6A",
-          "start": "2026-09-19T11:46:21Z",
-          "end": "2026-09-19T13:34:19Z",
-          "minutes": 108,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】いつのまにか涼しくなっちゃったね【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "3lLsihugbV8",
-          "videoUrl": "https://www.youtube.com/watch?v=3lLsihugbV8",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！朕たちがドミネーターだ！【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": 210,
-          "avgViewers": 210,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "3lLsihugbV8",
-          "videoUrl": "https://www.youtube.com/watch?v=3lLsihugbV8",
-          "start": "2026-09-16T10:00:44Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 169.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！朕たちがドミネーターだ！【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": 289,
-          "avgViewers": 237.8,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "n9U_-6BNjSM",
-          "videoUrl": "https://www.youtube.com/watch?v=n9U_-6BNjSM",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:19:25Z",
-          "minutes": 106.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】カスタムDay2！バニーの力で強くなる✨【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": 320,
-          "avgViewers": 279.4,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "n9U_-6BNjSM",
-          "videoUrl": "https://www.youtube.com/watch?v=n9U_-6BNjSM",
-          "start": "2026-09-14T10:11:57Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 60.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】カスタムDay2！バニーの力で強くなる✨【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": 353,
-          "avgViewers": 225.2,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-          "name": "メーメントヴァニタス",
-          "videoId": "Xd3jij2x8-A",
-          "videoUrl": "https://www.youtube.com/watch?v=Xd3jij2x8-A",
-          "start": "2026-09-12T12:15:12Z",
-          "end": "2026-09-12T14:16:46Z",
-          "minutes": 121.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#歌枠/ KARAOKE】たまには歌わないとね…！？ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
-          "game": null,
-          "peakViewers": 969,
-          "avgViewers": 341.7,
           "samples": [],
           "isTargetGame": false
         }
