@@ -13,7 +13,7 @@
       "peakViewers": 6,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-21T23:29:37Z",
-      "lastSeenAt": "2026-09-22T03:33:48Z",
+      "lastSeenAt": "2026-09-22T03:48:46Z",
       "samples": [
         [
           "2026-09-21T23:29:37Z",
@@ -78,6 +78,10 @@
         [
           "2026-09-22T03:33:48Z",
           4
+        ],
+        [
+          "2026-09-22T03:48:46Z",
+          4
         ]
       ]
     },
@@ -92,21 +96,21 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-22T00:52:50Z",
-      "lastSeenAt": "2026-09-22T03:33:48Z",
+      "lastSeenAt": "2026-09-22T03:48:46Z",
       "samples": []
     },
-    "UCvtfuV9mBAw9znLzICiqpOw": {
-      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
-      "name": "상자곰",
-      "videoId": "bsBIRy71R0o",
-      "start": "2026-09-22T02:58:52Z",
+    "UCHReTde3AGMElSQCbCftF7Q": {
+      "channelId": "UCHReTde3AGMElSQCbCftF7Q",
+      "name": "전부벗은새우튀김",
+      "videoId": "Qct1uUgyW68",
+      "start": "2026-09-22T03:48:46Z",
       "startSource": "observed",
-      "title": "뭘했다고 1주년",
+      "title": "[2026.9.22] 이터널리턴 랭크",
       "game": null,
       "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-22T02:58:52Z",
-      "lastSeenAt": "2026-09-22T03:33:48Z",
+      "isTargetGame": true,
+      "firstSeenAt": "2026-09-22T03:48:46Z",
+      "lastSeenAt": "2026-09-22T03:48:46Z",
       "samples": []
     }
   },
@@ -31347,6 +31351,23 @@
           763
         ]
       ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCvtfuV9mBAw9znLzICiqpOw",
+      "name": "상자곰",
+      "videoId": "bsBIRy71R0o",
+      "videoUrl": "https://www.youtube.com/watch?v=bsBIRy71R0o",
+      "start": "2026-09-22T02:58:52Z",
+      "end": "2026-09-22T03:48:46Z",
+      "minutes": 49.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "뭘했다고 1주년",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
       "isTargetGame": false
     }
   ]
