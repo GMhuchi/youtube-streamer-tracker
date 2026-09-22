@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:52:40Z",
+  "updatedAt": "2026-09-22T10:12:34Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,752 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1809.9,
+      "totalMinutes": 1869.7,
       "gameMinutes": 0.0,
-      "totalHours": 30.17,
+      "totalHours": 31.16,
       "gameHours": 0.0,
-      "sessions": 16,
-      "avgViewers": 132.7,
+      "sessions": 19,
+      "avgViewers": 129.1,
       "peakViewers": 959
     },
     "week": {
-      "totalMinutes": 7484.2,
+      "totalMinutes": 7543.9,
       "gameMinutes": 0.0,
-      "totalHours": 124.74,
+      "totalHours": 125.73,
       "gameHours": 0.0,
-      "sessions": 40,
-      "avgViewers": 104.2,
+      "sessions": 43,
+      "avgViewers": 103.6,
       "peakViewers": 959
     },
     "month": {
-      "totalMinutes": 52436.6,
+      "totalMinutes": 52496.3,
       "gameMinutes": 9797.0,
-      "totalHours": 873.94,
+      "totalHours": 874.94,
       "gameHours": 163.28,
-      "sessions": 318,
-      "avgViewers": 121.5,
+      "sessions": 321,
+      "avgViewers": 121.4,
       "peakViewers": 994
     }
   },
   "channels": [
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
+      "isLive": true,
+      "liveSince": "2026-09-22T10:12:34Z",
+      "liveTitle": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-09-21T18:34:55Z",
+      "lastTitle": "〖 クロノ・トリガー╎#9 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+      "buckets": {
+        "today": {
+          "totalMinutes": 214.9,
+          "gameMinutes": 0.0,
+          "totalHours": 3.58,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 99.7,
+          "peakViewers": 141
+        },
+        "week": {
+          "totalMinutes": 983.7,
+          "gameMinutes": 0.0,
+          "totalHours": 16.4,
+          "gameHours": 0.0,
+          "sessions": 6,
+          "avgViewers": 244.8,
+          "peakViewers": 453
+        },
+        "month": {
+          "totalMinutes": 5241.7,
+          "gameMinutes": 168.3,
+          "totalHours": 87.36,
+          "gameHours": 2.8,
+          "sessions": 27,
+          "avgViewers": 243.7,
+          "peakViewers": 888
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "hLcEyfYasls",
+          "videoUrl": "https://www.youtube.com/watch?v=hLcEyfYasls",
+          "start": "2026-09-21T14:34:30Z",
+          "end": "2026-09-21T18:34:55Z",
+          "minutes": 240.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 クロノ・トリガー╎#9 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 141,
+          "avgViewers": 99.7,
+          "samples": [
+            [
+              "2026-09-21T14:34:30Z",
+              46
+            ],
+            [
+              "2026-09-21T14:49:31Z",
+              68
+            ],
+            [
+              "2026-09-21T14:59:59Z",
+              70
+            ],
+            [
+              "2026-09-21T15:17:23Z",
+              79
+            ],
+            [
+              "2026-09-21T15:32:05Z",
+              92
+            ],
+            [
+              "2026-09-21T15:48:20Z",
+              89
+            ],
+            [
+              "2026-09-21T15:59:05Z",
+              83
+            ],
+            [
+              "2026-09-21T16:19:10Z",
+              98
+            ],
+            [
+              "2026-09-21T16:34:31Z",
+              107
+            ],
+            [
+              "2026-09-21T16:49:12Z",
+              108
+            ],
+            [
+              "2026-09-21T16:59:47Z",
+              107
+            ],
+            [
+              "2026-09-21T17:16:03Z",
+              113
+            ],
+            [
+              "2026-09-21T17:29:42Z",
+              126
+            ],
+            [
+              "2026-09-21T17:43:28Z",
+              141
+            ],
+            [
+              "2026-09-21T17:55:41Z",
+              135
+            ],
+            [
+              "2026-09-21T18:13:58Z",
+              138
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Wn-ESJC-lGc",
+          "videoUrl": "https://www.youtube.com/watch?v=Wn-ESJC-lGc",
+          "start": "2026-09-21T05:40:47Z",
+          "end": "2026-09-21T13:49:05Z",
+          "minutes": 488.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 VALORANT 〗ゆいぴとヴぁっろ〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 453,
+          "avgViewers": 374.4,
+          "samples": [
+            [
+              "2026-09-21T05:40:47Z",
+              354
+            ],
+            [
+              "2026-09-21T05:57:11Z",
+              440
+            ],
+            [
+              "2026-09-21T06:22:21Z",
+              406
+            ],
+            [
+              "2026-09-21T06:46:38Z",
+              383
+            ],
+            [
+              "2026-09-21T07:01:11Z",
+              365
+            ],
+            [
+              "2026-09-21T07:24:12Z",
+              384
+            ],
+            [
+              "2026-09-21T07:42:33Z",
+              391
+            ],
+            [
+              "2026-09-21T07:57:30Z",
+              421
+            ],
+            [
+              "2026-09-21T08:18:03Z",
+              426
+            ],
+            [
+              "2026-09-21T08:34:12Z",
+              450
+            ],
+            [
+              "2026-09-21T08:49:22Z",
+              441
+            ],
+            [
+              "2026-09-21T09:00:13Z",
+              453
+            ],
+            [
+              "2026-09-21T09:23:27Z",
+              382
+            ],
+            [
+              "2026-09-21T09:40:36Z",
+              364
+            ],
+            [
+              "2026-09-21T09:56:55Z",
+              372
+            ],
+            [
+              "2026-09-21T10:15:09Z",
+              348
+            ],
+            [
+              "2026-09-21T10:31:15Z",
+              340
+            ],
+            [
+              "2026-09-21T10:47:59Z",
+              327
+            ],
+            [
+              "2026-09-21T10:58:28Z",
+              364
+            ],
+            [
+              "2026-09-21T11:18:06Z",
+              355
+            ],
+            [
+              "2026-09-21T11:34:05Z",
+              387
+            ],
+            [
+              "2026-09-21T11:48:59Z",
+              386
+            ],
+            [
+              "2026-09-21T11:59:51Z",
+              368
+            ],
+            [
+              "2026-09-21T12:22:39Z",
+              338
+            ],
+            [
+              "2026-09-21T12:42:07Z",
+              331
+            ],
+            [
+              "2026-09-21T12:57:49Z",
+              324
+            ],
+            [
+              "2026-09-21T13:16:18Z",
+              315
+            ],
+            [
+              "2026-09-21T13:31:50Z",
+              217
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "0cCf7yRDP6A",
+          "videoUrl": "https://www.youtube.com/watch?v=0cCf7yRDP6A",
+          "start": "2026-09-20T19:13:43Z",
+          "end": "2026-09-20T20:20:51Z",
+          "minutes": 67.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 157,
+          "avgViewers": 144.8,
+          "samples": [
+            [
+              "2026-09-20T19:13:43Z",
+              137
+            ],
+            [
+              "2026-09-20T19:28:15Z",
+              133
+            ],
+            [
+              "2026-09-20T19:39:22Z",
+              147
+            ],
+            [
+              "2026-09-20T19:50:05Z",
+              152
+            ],
+            [
+              "2026-09-20T20:01:06Z",
+              157
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "0cCf7yRDP6A",
+          "videoUrl": "https://www.youtube.com/watch?v=0cCf7yRDP6A",
+          "start": "2026-09-20T16:13:02Z",
+          "end": "2026-09-20T18:58:04Z",
+          "minutes": 165,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 143,
+          "avgViewers": 113.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "o5ljq-xCrHM",
+          "videoUrl": "https://www.youtube.com/watch?v=o5ljq-xCrHM",
+          "start": "2026-09-20T12:03:51Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 158.9,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "o5ljq-xCrHM",
+          "videoUrl": "https://www.youtube.com/watch?v=o5ljq-xCrHM",
+          "start": "2026-09-20T12:03:51Z",
+          "end": "2026-09-20T15:22:51Z",
+          "minutes": 199,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "98a9SGm10VI",
+          "videoUrl": "https://www.youtube.com/watch?v=98a9SGm10VI",
+          "start": "2026-09-20T08:12:57Z",
+          "end": "2026-09-20T11:55:51Z",
+          "minutes": 222.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 クロノ・トリガー╎#7 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 115,
+          "avgViewers": 104.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "cZob8ogKFzg",
+          "videoUrl": "https://www.youtube.com/watch?v=cZob8ogKFzg",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T18:12:28Z",
+          "minutes": 60.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 クロノ・トリガー╎#6 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 102,
+          "avgViewers": 91.1,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 123,
+      "livePeakViewers": 123,
+      "liveAvgViewers": 123.0,
+      "liveSamples": [
+        [
+          "2026-09-22T10:12:34Z",
+          123
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=KY9JZufn-Sw"
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-09-22T10:12:34Z",
+      "liveTitle": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
+      "lastEnd": "2026-09-20T17:41:30Z",
+      "lastTitle": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 100.0,
+          "peakViewers": 100
+        },
+        "week": {
+          "totalMinutes": 161.5,
+          "gameMinutes": 0.0,
+          "totalHours": 2.69,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 77.8,
+          "peakViewers": 100
+        },
+        "month": {
+          "totalMinutes": 5023.6,
+          "gameMinutes": 169.2,
+          "totalHours": 83.73,
+          "gameHours": 2.82,
+          "sessions": 21,
+          "avgViewers": 86.6,
+          "peakViewers": 428
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T17:41:30Z",
+          "minutes": 165.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 77.8,
+          "samples": [
+            [
+              "2026-09-20T14:55:55Z",
+              67
+            ],
+            [
+              "2026-09-20T15:12:04Z",
+              75
+            ],
+            [
+              "2026-09-20T15:29:39Z",
+              95
+            ],
+            [
+              "2026-09-20T15:42:33Z",
+              87
+            ],
+            [
+              "2026-09-20T15:56:03Z",
+              63
+            ],
+            [
+              "2026-09-20T16:13:02Z",
+              81
+            ],
+            [
+              "2026-09-20T16:30:34Z",
+              73
+            ],
+            [
+              "2026-09-20T16:46:45Z",
+              75
+            ],
+            [
+              "2026-09-20T16:57:34Z",
+              75
+            ],
+            [
+              "2026-09-20T17:13:45Z",
+              86
+            ],
+            [
+              "2026-09-20T17:28:49Z",
+              84
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T09:46:35Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 296.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 194,
+          "avgViewers": 92.2,
+          "samples": [
+            [
+              "2026-09-20T09:46:35Z",
+              137
+            ],
+            [
+              "2026-09-20T09:57:21Z",
+              194
+            ],
+            [
+              "2026-09-20T10:14:39Z",
+              132
+            ],
+            [
+              "2026-09-20T10:29:58Z",
+              112
+            ],
+            [
+              "2026-09-20T10:42:48Z",
+              98
+            ],
+            [
+              "2026-09-20T10:55:44Z",
+              100
+            ],
+            [
+              "2026-09-20T11:11:22Z",
+              94
+            ],
+            [
+              "2026-09-20T11:29:08Z",
+              82
+            ],
+            [
+              "2026-09-20T11:42:14Z",
+              85
+            ],
+            [
+              "2026-09-20T11:55:51Z",
+              80
+            ],
+            [
+              "2026-09-20T12:15:34Z",
+              81
+            ],
+            [
+              "2026-09-20T12:35:13Z",
+              75
+            ],
+            [
+              "2026-09-20T12:50:14Z",
+              64
+            ],
+            [
+              "2026-09-20T13:10:05Z",
+              66
+            ],
+            [
+              "2026-09-20T13:25:26Z",
+              84
+            ],
+            [
+              "2026-09-20T13:38:34Z",
+              68
+            ],
+            [
+              "2026-09-20T13:50:32Z",
+              85
+            ],
+            [
+              "2026-09-20T14:10:54Z",
+              73
+            ],
+            [
+              "2026-09-20T14:29:46Z",
+              60
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T18:31:46Z",
+          "minutes": 79.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 18.3,
+          "samples": [
+            [
+              "2026-09-19T17:12:16Z",
+              56
+            ],
+            [
+              "2026-09-19T17:27:50Z",
+              16
+            ],
+            [
+              "2026-09-19T17:39:54Z",
+              9
+            ],
+            [
+              "2026-09-19T17:50:42Z",
+              5
+            ],
+            [
+              "2026-09-19T18:12:28Z",
+              7
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 246.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 75,
+          "avgViewers": 60.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T09:43:06Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 171.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 166,
+          "avgViewers": 100.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "nlsGN421BNo",
+          "videoUrl": "https://www.youtube.com/watch?v=nlsGN421BNo",
+          "start": "2026-09-19T05:45:13Z",
+          "end": "2026-09-19T07:01:28Z",
+          "minutes": 76.2,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "寝起き雑談（寝坊してごめんなさい）",
+          "game": null,
+          "peakViewers": 80,
+          "avgViewers": 66.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Z5lemIteZ1Q",
+          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
+          "start": "2026-09-18T14:49:04Z",
+          "end": "2026-09-18T17:28:31Z",
+          "minutes": 159.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 102,
+          "avgViewers": 75.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Z5lemIteZ1Q",
+          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
+          "start": "2026-09-18T09:48:03Z",
+          "end": "2026-09-18T14:33:39Z",
+          "minutes": 285.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 120,
+          "avgViewers": 93.8,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 100,
+      "livePeakViewers": 100,
+      "liveAvgViewers": 100.0,
+      "liveSamples": [
+        [
+          "2026-09-22T10:12:34Z",
+          100
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc"
+    },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
@@ -56,30 +774,30 @@
       "lastTitle": "【 天下無双ARK 】辺境の地、攻略ARK【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 188.2,
+          "totalMinutes": 208.1,
           "gameMinutes": 0.0,
-          "totalHours": 3.14,
+          "totalHours": 3.47,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 9.7,
+          "avgViewers": 9.8,
           "peakViewers": 19
         },
         "week": {
-          "totalMinutes": 658.5,
+          "totalMinutes": 678.4,
           "gameMinutes": 0.0,
-          "totalHours": 10.97,
+          "totalHours": 11.31,
           "gameHours": 0.0,
           "sessions": 3,
           "avgViewers": 9.3,
           "peakViewers": 19
         },
         "month": {
-          "totalMinutes": 3508.1,
+          "totalMinutes": 3528.0,
           "gameMinutes": 1551.3,
-          "totalHours": 58.47,
+          "totalHours": 58.8,
           "gameHours": 25.85,
           "sessions": 17,
-          "avgViewers": 19.6,
+          "avgViewers": 19.5,
           "peakViewers": 61
         }
       },
@@ -464,9 +1182,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 9,
+      "liveViewers": 11,
       "livePeakViewers": 13,
-      "liveAvgViewers": 8.2,
+      "liveAvgViewers": 8.8,
       "liveSamples": [
         [
           "2026-09-22T09:00:34Z",
@@ -483,6 +1201,10 @@
         [
           "2026-09-22T09:52:40Z",
           9
+        ],
+        [
+          "2026-09-22T10:12:34Z",
+          11
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=KHaiAU5_YA0"
@@ -499,27 +1221,27 @@
       "lastTitle": "【 #天下無双ARK : 3日目 】新たな出会い。新生活。ソロなんて二度とやらん。。。【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 166.8,
+          "totalMinutes": 186.7,
           "gameMinutes": 0.0,
-          "totalHours": 2.78,
+          "totalHours": 3.11,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 44.5,
+          "avgViewers": 43.5,
           "peakViewers": 62
         },
         "week": {
-          "totalMinutes": 637.1,
+          "totalMinutes": 657.0,
           "gameMinutes": 0.0,
-          "totalHours": 10.62,
+          "totalHours": 10.95,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 45.5,
+          "avgViewers": 45.2,
           "peakViewers": 62
         },
         "month": {
-          "totalMinutes": 2750.0,
+          "totalMinutes": 2769.9,
           "gameMinutes": 476.4,
-          "totalHours": 45.83,
+          "totalHours": 46.16,
           "gameHours": 7.94,
           "sessions": 13,
           "avgViewers": 44.1,
@@ -907,9 +1629,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 39,
+      "liveViewers": 35,
       "livePeakViewers": 39,
-      "liveAvgViewers": 34.3,
+      "liveAvgViewers": 34.8,
       "liveSamples": [
         [
           "2026-09-22T09:21:56Z",
@@ -922,6 +1644,10 @@
         [
           "2026-09-22T09:52:40Z",
           39
+        ],
+        [
+          "2026-09-22T10:12:34Z",
+          35
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Q1yHIkYQF-8"
@@ -938,30 +1664,30 @@
       "lastTitle": "#3【#天下無双ARK】今日も凄い恐竜を捕まえるよ、沢山ね🦖【水上蒼太/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 166.8,
+          "totalMinutes": 186.7,
           "gameMinutes": 0.0,
-          "totalHours": 2.78,
+          "totalHours": 3.11,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 25.7,
+          "avgViewers": 24.6,
           "peakViewers": 37
         },
         "week": {
-          "totalMinutes": 569.3,
+          "totalMinutes": 589.2,
           "gameMinutes": 0.0,
-          "totalHours": 9.49,
+          "totalHours": 9.82,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 28.0,
+          "avgViewers": 27.6,
           "peakViewers": 41
         },
         "month": {
-          "totalMinutes": 2324.5,
+          "totalMinutes": 2344.4,
           "gameMinutes": 307.9,
-          "totalHours": 38.74,
+          "totalHours": 39.07,
           "gameHours": 5.13,
           "sessions": 15,
-          "avgViewers": 35.4,
+          "avgViewers": 35.2,
           "peakViewers": 85
         }
       },
@@ -1314,9 +2040,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 18,
+      "liveViewers": 14,
       "livePeakViewers": 24,
-      "liveAvgViewers": 18.5,
+      "liveAvgViewers": 17.3,
       "liveSamples": [
         [
           "2026-09-22T09:21:56Z",
@@ -1329,707 +2055,412 @@
         [
           "2026-09-22T09:52:40Z",
           18
+        ],
+        [
+          "2026-09-22T10:12:34Z",
+          14
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=1aDGo6Lhqng"
     },
     {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
       "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-21T18:34:55Z",
-      "lastTitle": "〖 クロノ・トリガー╎#9 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 214.9,
-          "gameMinutes": 0.0,
-          "totalHours": 3.58,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 99.7,
-          "peakViewers": 141
-        },
-        "week": {
-          "totalMinutes": 983.7,
-          "gameMinutes": 0.0,
-          "totalHours": 16.4,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 244.8,
-          "peakViewers": 453
-        },
-        "month": {
-          "totalMinutes": 5241.7,
-          "gameMinutes": 168.3,
-          "totalHours": 87.36,
-          "gameHours": 2.8,
-          "sessions": 26,
-          "avgViewers": 243.7,
-          "peakViewers": 888
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "hLcEyfYasls",
-          "videoUrl": "https://www.youtube.com/watch?v=hLcEyfYasls",
-          "start": "2026-09-21T14:34:30Z",
-          "end": "2026-09-21T18:34:55Z",
-          "minutes": 240.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#9 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 141,
-          "avgViewers": 99.7,
-          "samples": [
-            [
-              "2026-09-21T14:34:30Z",
-              46
-            ],
-            [
-              "2026-09-21T14:49:31Z",
-              68
-            ],
-            [
-              "2026-09-21T14:59:59Z",
-              70
-            ],
-            [
-              "2026-09-21T15:17:23Z",
-              79
-            ],
-            [
-              "2026-09-21T15:32:05Z",
-              92
-            ],
-            [
-              "2026-09-21T15:48:20Z",
-              89
-            ],
-            [
-              "2026-09-21T15:59:05Z",
-              83
-            ],
-            [
-              "2026-09-21T16:19:10Z",
-              98
-            ],
-            [
-              "2026-09-21T16:34:31Z",
-              107
-            ],
-            [
-              "2026-09-21T16:49:12Z",
-              108
-            ],
-            [
-              "2026-09-21T16:59:47Z",
-              107
-            ],
-            [
-              "2026-09-21T17:16:03Z",
-              113
-            ],
-            [
-              "2026-09-21T17:29:42Z",
-              126
-            ],
-            [
-              "2026-09-21T17:43:28Z",
-              141
-            ],
-            [
-              "2026-09-21T17:55:41Z",
-              135
-            ],
-            [
-              "2026-09-21T18:13:58Z",
-              138
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Wn-ESJC-lGc",
-          "videoUrl": "https://www.youtube.com/watch?v=Wn-ESJC-lGc",
-          "start": "2026-09-21T05:40:47Z",
-          "end": "2026-09-21T13:49:05Z",
-          "minutes": 488.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 VALORANT 〗ゆいぴとヴぁっろ〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 453,
-          "avgViewers": 374.4,
-          "samples": [
-            [
-              "2026-09-21T05:40:47Z",
-              354
-            ],
-            [
-              "2026-09-21T05:57:11Z",
-              440
-            ],
-            [
-              "2026-09-21T06:22:21Z",
-              406
-            ],
-            [
-              "2026-09-21T06:46:38Z",
-              383
-            ],
-            [
-              "2026-09-21T07:01:11Z",
-              365
-            ],
-            [
-              "2026-09-21T07:24:12Z",
-              384
-            ],
-            [
-              "2026-09-21T07:42:33Z",
-              391
-            ],
-            [
-              "2026-09-21T07:57:30Z",
-              421
-            ],
-            [
-              "2026-09-21T08:18:03Z",
-              426
-            ],
-            [
-              "2026-09-21T08:34:12Z",
-              450
-            ],
-            [
-              "2026-09-21T08:49:22Z",
-              441
-            ],
-            [
-              "2026-09-21T09:00:13Z",
-              453
-            ],
-            [
-              "2026-09-21T09:23:27Z",
-              382
-            ],
-            [
-              "2026-09-21T09:40:36Z",
-              364
-            ],
-            [
-              "2026-09-21T09:56:55Z",
-              372
-            ],
-            [
-              "2026-09-21T10:15:09Z",
-              348
-            ],
-            [
-              "2026-09-21T10:31:15Z",
-              340
-            ],
-            [
-              "2026-09-21T10:47:59Z",
-              327
-            ],
-            [
-              "2026-09-21T10:58:28Z",
-              364
-            ],
-            [
-              "2026-09-21T11:18:06Z",
-              355
-            ],
-            [
-              "2026-09-21T11:34:05Z",
-              387
-            ],
-            [
-              "2026-09-21T11:48:59Z",
-              386
-            ],
-            [
-              "2026-09-21T11:59:51Z",
-              368
-            ],
-            [
-              "2026-09-21T12:22:39Z",
-              338
-            ],
-            [
-              "2026-09-21T12:42:07Z",
-              331
-            ],
-            [
-              "2026-09-21T12:57:49Z",
-              324
-            ],
-            [
-              "2026-09-21T13:16:18Z",
-              315
-            ],
-            [
-              "2026-09-21T13:31:50Z",
-              217
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "0cCf7yRDP6A",
-          "videoUrl": "https://www.youtube.com/watch?v=0cCf7yRDP6A",
-          "start": "2026-09-20T19:13:43Z",
-          "end": "2026-09-20T20:20:51Z",
-          "minutes": 67.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 157,
-          "avgViewers": 144.8,
-          "samples": [
-            [
-              "2026-09-20T19:13:43Z",
-              137
-            ],
-            [
-              "2026-09-20T19:28:15Z",
-              133
-            ],
-            [
-              "2026-09-20T19:39:22Z",
-              147
-            ],
-            [
-              "2026-09-20T19:50:05Z",
-              152
-            ],
-            [
-              "2026-09-20T20:01:06Z",
-              157
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "0cCf7yRDP6A",
-          "videoUrl": "https://www.youtube.com/watch?v=0cCf7yRDP6A",
-          "start": "2026-09-20T16:13:02Z",
-          "end": "2026-09-20T18:58:04Z",
-          "minutes": 165,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 143,
-          "avgViewers": 113.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "o5ljq-xCrHM",
-          "videoUrl": "https://www.youtube.com/watch?v=o5ljq-xCrHM",
-          "start": "2026-09-20T12:03:51Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 158.9,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "o5ljq-xCrHM",
-          "videoUrl": "https://www.youtube.com/watch?v=o5ljq-xCrHM",
-          "start": "2026-09-20T12:03:51Z",
-          "end": "2026-09-20T15:22:51Z",
-          "minutes": 199,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "98a9SGm10VI",
-          "videoUrl": "https://www.youtube.com/watch?v=98a9SGm10VI",
-          "start": "2026-09-20T08:12:57Z",
-          "end": "2026-09-20T11:55:51Z",
-          "minutes": 222.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#7 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 115,
-          "avgViewers": 104.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "cZob8ogKFzg",
-          "videoUrl": "https://www.youtube.com/watch?v=cZob8ogKFzg",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:12:28Z",
-          "minutes": 60.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#6 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 102,
-          "avgViewers": 91.1,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-20T17:41:30Z",
-      "lastTitle": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
+      "isLive": true,
+      "liveSince": "2026-09-22T10:12:34Z",
+      "liveTitle": "【#うちらが時代卍歌枠リレー】王。【 #輝七瀬 / RIONECTION 】",
+      "lastEnd": "2026-09-21T14:19:25Z",
+      "lastTitle": "【 #天下無双ARK 】ドレッドメアとか捕まえる Day3 【 #輝七瀬 / RIONECTION】",
       "buckets": {
         "today": {
           "totalMinutes": 0.0,
           "gameMinutes": 0.0,
           "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 1,
+          "avgViewers": 47.0,
+          "peakViewers": 47
         },
         "week": {
-          "totalMinutes": 161.5,
+          "totalMinutes": 463.8,
           "gameMinutes": 0.0,
-          "totalHours": 2.69,
+          "totalHours": 7.73,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 77.8,
-          "peakViewers": 95
+          "sessions": 3,
+          "avgViewers": 5.1,
+          "peakViewers": 47
         },
         "month": {
-          "totalMinutes": 5023.6,
-          "gameMinutes": 169.2,
-          "totalHours": 83.73,
-          "gameHours": 2.82,
-          "sessions": 20,
-          "avgViewers": 86.6,
-          "peakViewers": 428
+          "totalMinutes": 1773.9,
+          "gameMinutes": 436.1,
+          "totalHours": 29.57,
+          "gameHours": 7.27,
+          "sessions": 12,
+          "avgViewers": 6.4,
+          "peakViewers": 47
         }
       },
       "recentSessions": [
         {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T17:41:30Z",
-          "minutes": 165.6,
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "iGzxsDgdYEM",
+          "videoUrl": "https://www.youtube.com/watch?v=iGzxsDgdYEM",
+          "start": "2026-09-21T08:49:22Z",
+          "end": "2026-09-21T14:19:25Z",
+          "minutes": 330.1,
           "startSource": "observed",
           "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "title": "【 #天下無双ARK 】ドレッドメアとか捕まえる Day3 【 #輝七瀬 / RIONECTION】",
           "game": null,
-          "peakViewers": 95,
-          "avgViewers": 77.8,
+          "peakViewers": 8,
+          "avgViewers": 5.3,
           "samples": [
             [
-              "2026-09-20T14:55:55Z",
-              67
+              "2026-09-21T08:49:22Z",
+              8
             ],
             [
-              "2026-09-20T15:12:04Z",
-              75
+              "2026-09-21T09:00:13Z",
+              8
             ],
             [
-              "2026-09-20T15:29:39Z",
-              95
+              "2026-09-21T09:23:27Z",
+              6
             ],
             [
-              "2026-09-20T15:42:33Z",
-              87
+              "2026-09-21T09:40:36Z",
+              6
             ],
             [
-              "2026-09-20T15:56:03Z",
-              63
-            ],
-            [
-              "2026-09-20T16:13:02Z",
-              81
-            ],
-            [
-              "2026-09-20T16:30:34Z",
-              73
-            ],
-            [
-              "2026-09-20T16:46:45Z",
-              75
-            ],
-            [
-              "2026-09-20T16:57:34Z",
-              75
-            ],
-            [
-              "2026-09-20T17:13:45Z",
-              86
-            ],
-            [
-              "2026-09-20T17:28:49Z",
-              84
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T09:46:35Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 296.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 194,
-          "avgViewers": 92.2,
-          "samples": [
-            [
-              "2026-09-20T09:46:35Z",
-              137
-            ],
-            [
-              "2026-09-20T09:57:21Z",
-              194
-            ],
-            [
-              "2026-09-20T10:14:39Z",
-              132
-            ],
-            [
-              "2026-09-20T10:29:58Z",
-              112
-            ],
-            [
-              "2026-09-20T10:42:48Z",
-              98
-            ],
-            [
-              "2026-09-20T10:55:44Z",
-              100
-            ],
-            [
-              "2026-09-20T11:11:22Z",
-              94
-            ],
-            [
-              "2026-09-20T11:29:08Z",
-              82
-            ],
-            [
-              "2026-09-20T11:42:14Z",
-              85
-            ],
-            [
-              "2026-09-20T11:55:51Z",
-              80
-            ],
-            [
-              "2026-09-20T12:15:34Z",
-              81
-            ],
-            [
-              "2026-09-20T12:35:13Z",
-              75
-            ],
-            [
-              "2026-09-20T12:50:14Z",
-              64
-            ],
-            [
-              "2026-09-20T13:10:05Z",
-              66
-            ],
-            [
-              "2026-09-20T13:25:26Z",
-              84
-            ],
-            [
-              "2026-09-20T13:38:34Z",
-              68
-            ],
-            [
-              "2026-09-20T13:50:32Z",
-              85
-            ],
-            [
-              "2026-09-20T14:10:54Z",
-              73
-            ],
-            [
-              "2026-09-20T14:29:46Z",
-              60
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:31:46Z",
-          "minutes": 79.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 18.3,
-          "samples": [
-            [
-              "2026-09-19T17:12:16Z",
-              56
-            ],
-            [
-              "2026-09-19T17:27:50Z",
-              16
-            ],
-            [
-              "2026-09-19T17:39:54Z",
-              9
-            ],
-            [
-              "2026-09-19T17:50:42Z",
+              "2026-09-21T09:56:55Z",
               5
             ],
             [
-              "2026-09-19T18:12:28Z",
+              "2026-09-21T10:15:09Z",
+              2
+            ],
+            [
+              "2026-09-21T10:31:15Z",
+              4
+            ],
+            [
+              "2026-09-21T10:47:59Z",
+              8
+            ],
+            [
+              "2026-09-21T10:58:28Z",
+              4
+            ],
+            [
+              "2026-09-21T11:18:06Z",
               7
+            ],
+            [
+              "2026-09-21T11:34:05Z",
+              5
+            ],
+            [
+              "2026-09-21T11:48:59Z",
+              5
+            ],
+            [
+              "2026-09-21T11:59:51Z",
+              3
+            ],
+            [
+              "2026-09-21T12:22:39Z",
+              4
+            ],
+            [
+              "2026-09-21T12:42:07Z",
+              3
+            ],
+            [
+              "2026-09-21T12:57:49Z",
+              8
+            ],
+            [
+              "2026-09-21T13:16:18Z",
+              6
+            ],
+            [
+              "2026-09-21T13:31:50Z",
+              6
+            ],
+            [
+              "2026-09-21T13:49:05Z",
+              4
+            ],
+            [
+              "2026-09-21T13:59:52Z",
+              6
             ]
           ],
           "isTargetGame": false
         },
         {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "1AkAZfNPY98",
+          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T17:13:45Z",
+          "minutes": 137.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 4.7,
+          "samples": [
+            [
+              "2026-09-20T14:55:55Z",
+              5
+            ],
+            [
+              "2026-09-20T15:12:04Z",
+              5
+            ],
+            [
+              "2026-09-20T15:29:39Z",
+              5
+            ],
+            [
+              "2026-09-20T15:42:33Z",
+              4
+            ],
+            [
+              "2026-09-20T15:56:03Z",
+              7
+            ],
+            [
+              "2026-09-20T16:13:02Z",
+              3
+            ],
+            [
+              "2026-09-20T16:30:34Z",
+              4
+            ],
+            [
+              "2026-09-20T16:46:45Z",
+              4
+            ],
+            [
+              "2026-09-20T16:57:34Z",
+              5
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "1AkAZfNPY98",
+          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
+          "start": "2026-09-20T08:47:38Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 355.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 6.5,
+          "samples": [
+            [
+              "2026-09-20T08:47:38Z",
+              3
+            ],
+            [
+              "2026-09-20T08:57:58Z",
+              11
+            ],
+            [
+              "2026-09-20T09:16:30Z",
+              12
+            ],
+            [
+              "2026-09-20T09:30:37Z",
+              7
+            ],
+            [
+              "2026-09-20T09:46:35Z",
+              7
+            ],
+            [
+              "2026-09-20T09:57:21Z",
+              6
+            ],
+            [
+              "2026-09-20T10:14:39Z",
+              7
+            ],
+            [
+              "2026-09-20T10:29:58Z",
+              8
+            ],
+            [
+              "2026-09-20T10:42:48Z",
+              5
+            ],
+            [
+              "2026-09-20T10:55:44Z",
+              5
+            ],
+            [
+              "2026-09-20T11:11:22Z",
+              6
+            ],
+            [
+              "2026-09-20T11:29:08Z",
+              4
+            ],
+            [
+              "2026-09-20T11:42:14Z",
+              5
+            ],
+            [
+              "2026-09-20T11:55:51Z",
+              7
+            ],
+            [
+              "2026-09-20T12:15:34Z",
+              4
+            ],
+            [
+              "2026-09-20T12:35:13Z",
+              5
+            ],
+            [
+              "2026-09-20T12:50:14Z",
+              6
+            ],
+            [
+              "2026-09-20T13:10:05Z",
+              6
+            ],
+            [
+              "2026-09-20T13:25:26Z",
+              4
+            ],
+            [
+              "2026-09-20T13:38:34Z",
+              5
+            ],
+            [
+              "2026-09-20T13:50:32Z",
+              9
+            ],
+            [
+              "2026-09-20T14:10:54Z",
+              8
+            ],
+            [
+              "2026-09-20T14:29:46Z",
+              6
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "HAG2AJ2csVU",
+          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T17:27:50Z",
+          "minutes": 15.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "HAG2AJ2csVU",
+          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
           "start": "2026-09-19T12:49:54Z",
           "end": "2026-09-19T16:56:41Z",
           "minutes": 246.8,
           "startSource": "observed",
           "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
           "game": null,
-          "peakViewers": 75,
-          "avgViewers": 60.2,
+          "peakViewers": 15,
+          "avgViewers": 6.7,
           "samples": [],
           "isTargetGame": false
         },
         {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T09:43:06Z",
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "HAG2AJ2csVU",
+          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
+          "start": "2026-09-19T09:30:05Z",
           "end": "2026-09-19T12:34:56Z",
-          "minutes": 171.8,
+          "minutes": 184.9,
           "startSource": "observed",
           "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
           "game": null,
-          "peakViewers": 166,
-          "avgViewers": 100.6,
+          "peakViewers": 13,
+          "avgViewers": 5.5,
           "samples": [],
           "isTargetGame": false
         },
         {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "nlsGN421BNo",
-          "videoUrl": "https://www.youtube.com/watch?v=nlsGN421BNo",
-          "start": "2026-09-19T05:45:13Z",
-          "end": "2026-09-19T07:01:28Z",
-          "minutes": 76.2,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "寝起き雑談（寝坊してごめんなさい）",
-          "game": null,
-          "peakViewers": 80,
-          "avgViewers": 66.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Z5lemIteZ1Q",
-          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
-          "start": "2026-09-18T14:49:04Z",
-          "end": "2026-09-18T17:28:31Z",
-          "minutes": 159.5,
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "nvuVCVqr2tQ",
+          "videoUrl": "https://www.youtube.com/watch?v=nvuVCVqr2tQ",
+          "start": "2026-09-16T10:00:44Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 169.2,
           "startSource": "observed",
           "endSource": "observed",
-          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
+          "title": "【 DOMINEX〜Eternal Return〜】勝つぞ、4280円  w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION 】",
           "game": null,
-          "peakViewers": 102,
-          "avgViewers": 75.8,
+          "peakViewers": 8,
+          "avgViewers": 5.4,
           "samples": [],
-          "isTargetGame": false
+          "isTargetGame": true
         },
         {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Z5lemIteZ1Q",
-          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
-          "start": "2026-09-18T09:48:03Z",
-          "end": "2026-09-18T14:33:39Z",
-          "minutes": 285.6,
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "Giti-7tm0D4",
+          "videoUrl": "https://www.youtube.com/watch?v=Giti-7tm0D4",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:19:25Z",
+          "minutes": 106.6,
           "startSource": "observed",
           "endSource": "observed",
-          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
+          "title": "【 DOMINEX〜Eternal Return〜】チーム4280円進化しました。 エタリタスクリム w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION】",
           "game": null,
-          "peakViewers": 120,
-          "avgViewers": 93.8,
+          "peakViewers": 10,
+          "avgViewers": 8.2,
           "samples": [],
-          "isTargetGame": false
+          "isTargetGame": true
         }
-      ]
+      ],
+      "liveViewers": 47,
+      "livePeakViewers": 47,
+      "liveAvgViewers": 47.0,
+      "liveSamples": [
+        [
+          "2026-09-22T10:12:34Z",
+          47
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=DnzvEx8rj2c"
     },
     {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
@@ -4889,395 +5320,6 @@
           "game": null,
           "peakViewers": 1,
           "avgViewers": 1,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-21T14:19:25Z",
-      "lastTitle": "【 #天下無双ARK 】ドレッドメアとか捕まえる Day3 【 #輝七瀬 / RIONECTION】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 463.8,
-          "gameMinutes": 0.0,
-          "totalHours": 7.73,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 5.1,
-          "peakViewers": 8
-        },
-        "month": {
-          "totalMinutes": 1773.9,
-          "gameMinutes": 436.1,
-          "totalHours": 29.57,
-          "gameHours": 7.27,
-          "sessions": 11,
-          "avgViewers": 6.4,
-          "peakViewers": 15
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "iGzxsDgdYEM",
-          "videoUrl": "https://www.youtube.com/watch?v=iGzxsDgdYEM",
-          "start": "2026-09-21T08:49:22Z",
-          "end": "2026-09-21T14:19:25Z",
-          "minutes": 330.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】ドレッドメアとか捕まえる Day3 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 5.3,
-          "samples": [
-            [
-              "2026-09-21T08:49:22Z",
-              8
-            ],
-            [
-              "2026-09-21T09:00:13Z",
-              8
-            ],
-            [
-              "2026-09-21T09:23:27Z",
-              6
-            ],
-            [
-              "2026-09-21T09:40:36Z",
-              6
-            ],
-            [
-              "2026-09-21T09:56:55Z",
-              5
-            ],
-            [
-              "2026-09-21T10:15:09Z",
-              2
-            ],
-            [
-              "2026-09-21T10:31:15Z",
-              4
-            ],
-            [
-              "2026-09-21T10:47:59Z",
-              8
-            ],
-            [
-              "2026-09-21T10:58:28Z",
-              4
-            ],
-            [
-              "2026-09-21T11:18:06Z",
-              7
-            ],
-            [
-              "2026-09-21T11:34:05Z",
-              5
-            ],
-            [
-              "2026-09-21T11:48:59Z",
-              5
-            ],
-            [
-              "2026-09-21T11:59:51Z",
-              3
-            ],
-            [
-              "2026-09-21T12:22:39Z",
-              4
-            ],
-            [
-              "2026-09-21T12:42:07Z",
-              3
-            ],
-            [
-              "2026-09-21T12:57:49Z",
-              8
-            ],
-            [
-              "2026-09-21T13:16:18Z",
-              6
-            ],
-            [
-              "2026-09-21T13:31:50Z",
-              6
-            ],
-            [
-              "2026-09-21T13:49:05Z",
-              4
-            ],
-            [
-              "2026-09-21T13:59:52Z",
-              6
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "1AkAZfNPY98",
-          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T17:13:45Z",
-          "minutes": 137.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 4.7,
-          "samples": [
-            [
-              "2026-09-20T14:55:55Z",
-              5
-            ],
-            [
-              "2026-09-20T15:12:04Z",
-              5
-            ],
-            [
-              "2026-09-20T15:29:39Z",
-              5
-            ],
-            [
-              "2026-09-20T15:42:33Z",
-              4
-            ],
-            [
-              "2026-09-20T15:56:03Z",
-              7
-            ],
-            [
-              "2026-09-20T16:13:02Z",
-              3
-            ],
-            [
-              "2026-09-20T16:30:34Z",
-              4
-            ],
-            [
-              "2026-09-20T16:46:45Z",
-              4
-            ],
-            [
-              "2026-09-20T16:57:34Z",
-              5
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "1AkAZfNPY98",
-          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
-          "start": "2026-09-20T08:47:38Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 355.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 6.5,
-          "samples": [
-            [
-              "2026-09-20T08:47:38Z",
-              3
-            ],
-            [
-              "2026-09-20T08:57:58Z",
-              11
-            ],
-            [
-              "2026-09-20T09:16:30Z",
-              12
-            ],
-            [
-              "2026-09-20T09:30:37Z",
-              7
-            ],
-            [
-              "2026-09-20T09:46:35Z",
-              7
-            ],
-            [
-              "2026-09-20T09:57:21Z",
-              6
-            ],
-            [
-              "2026-09-20T10:14:39Z",
-              7
-            ],
-            [
-              "2026-09-20T10:29:58Z",
-              8
-            ],
-            [
-              "2026-09-20T10:42:48Z",
-              5
-            ],
-            [
-              "2026-09-20T10:55:44Z",
-              5
-            ],
-            [
-              "2026-09-20T11:11:22Z",
-              6
-            ],
-            [
-              "2026-09-20T11:29:08Z",
-              4
-            ],
-            [
-              "2026-09-20T11:42:14Z",
-              5
-            ],
-            [
-              "2026-09-20T11:55:51Z",
-              7
-            ],
-            [
-              "2026-09-20T12:15:34Z",
-              4
-            ],
-            [
-              "2026-09-20T12:35:13Z",
-              5
-            ],
-            [
-              "2026-09-20T12:50:14Z",
-              6
-            ],
-            [
-              "2026-09-20T13:10:05Z",
-              6
-            ],
-            [
-              "2026-09-20T13:25:26Z",
-              4
-            ],
-            [
-              "2026-09-20T13:38:34Z",
-              5
-            ],
-            [
-              "2026-09-20T13:50:32Z",
-              9
-            ],
-            [
-              "2026-09-20T14:10:54Z",
-              8
-            ],
-            [
-              "2026-09-20T14:29:46Z",
-              6
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "HAG2AJ2csVU",
-          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T17:27:50Z",
-          "minutes": 15.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "HAG2AJ2csVU",
-          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 246.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 15,
-          "avgViewers": 6.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "HAG2AJ2csVU",
-          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
-          "start": "2026-09-19T09:30:05Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 184.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 5.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "nvuVCVqr2tQ",
-          "videoUrl": "https://www.youtube.com/watch?v=nvuVCVqr2tQ",
-          "start": "2026-09-16T10:00:44Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 169.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 DOMINEX〜Eternal Return〜】勝つぞ、4280円  w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION 】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 5.4,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "Giti-7tm0D4",
-          "videoUrl": "https://www.youtube.com/watch?v=Giti-7tm0D4",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:19:25Z",
-          "minutes": 106.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 DOMINEX〜Eternal Return〜】チーム4280円進化しました。 エタリタスクリム w.瀬尾カザリ/十神仁 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 8.2,
           "samples": [],
           "isTargetGame": true
         }
