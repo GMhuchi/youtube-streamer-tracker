@@ -2,77 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "8jAZVkCaVA4",
-      "start": "2026-09-22T05:32:10Z",
-      "startSource": "observed",
-      "title": "【スト6】課題まみれガイル【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 54,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-22T05:32:10Z",
-      "lastSeenAt": "2026-09-22T09:00:34Z",
-      "samples": [
-        [
-          "2026-09-22T05:32:10Z",
-          7
-        ],
-        [
-          "2026-09-22T05:48:08Z",
-          26
-        ],
-        [
-          "2026-09-22T05:58:35Z",
-          29
-        ],
-        [
-          "2026-09-22T06:22:30Z",
-          36
-        ],
-        [
-          "2026-09-22T06:44:41Z",
-          43
-        ],
-        [
-          "2026-09-22T06:59:14Z",
-          44
-        ],
-        [
-          "2026-09-22T07:18:41Z",
-          46
-        ],
-        [
-          "2026-09-22T07:33:42Z",
-          50
-        ],
-        [
-          "2026-09-22T07:48:46Z",
-          50
-        ],
-        [
-          "2026-09-22T07:59:15Z",
-          54
-        ],
-        [
-          "2026-09-22T08:19:35Z",
-          48
-        ],
-        [
-          "2026-09-22T08:35:10Z",
-          44
-        ],
-        [
-          "2026-09-22T08:49:41Z",
-          48
-        ],
-        [
-          "2026-09-22T09:00:34Z",
-          48
-        ]
-      ]
-    },
     "UCE4W22kKQQVdrA2KTiyZ_cA": {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
@@ -84,7 +13,7 @@
       "peakViewers": 888,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-22T08:19:35Z",
-      "lastSeenAt": "2026-09-22T09:00:34Z",
+      "lastSeenAt": "2026-09-22T09:21:56Z",
       "samples": [
         [
           "2026-09-22T08:19:35Z",
@@ -101,6 +30,10 @@
         [
           "2026-09-22T09:00:34Z",
           888
+        ],
+        [
+          "2026-09-22T09:21:56Z",
+          779
         ]
       ]
     },
@@ -112,14 +45,56 @@
       "startSource": "observed",
       "title": "【 天下無双ARK 】本物の一匹狼 世界よ笑顔になってくれ【グラニット/ゆにれいど！】",
       "game": null,
-      "peakViewers": 5,
+      "peakViewers": 8,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-22T09:00:34Z",
-      "lastSeenAt": "2026-09-22T09:00:34Z",
+      "lastSeenAt": "2026-09-22T09:21:56Z",
       "samples": [
         [
           "2026-09-22T09:00:34Z",
           5
+        ],
+        [
+          "2026-09-22T09:21:56Z",
+          8
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "Q1yHIkYQF-8",
+      "start": "2026-09-22T09:21:56Z",
+      "startSource": "observed",
+      "title": "【 #天下無双ARK : 4日目 】焼肉は好きか～！【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 29,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-22T09:21:56Z",
+      "lastSeenAt": "2026-09-22T09:21:56Z",
+      "samples": [
+        [
+          "2026-09-22T09:21:56Z",
+          29
+        ]
+      ]
+    },
+    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "1aDGo6Lhqng",
+      "start": "2026-09-22T09:21:56Z",
+      "startSource": "observed",
+      "title": "【#めっちゃカメレオン  】大会に向けて親睦深めていきましょうの配信【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+      "game": null,
+      "peakViewers": 15,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-22T09:21:56Z",
+      "lastSeenAt": "2026-09-22T09:21:56Z",
+      "samples": [
+        [
+          "2026-09-22T09:21:56Z",
+          15
         ]
       ]
     }
@@ -18084,6 +18059,80 @@
         [
           "2026-09-21T23:42:38Z",
           763
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "8jAZVkCaVA4",
+      "videoUrl": "https://www.youtube.com/watch?v=8jAZVkCaVA4",
+      "start": "2026-09-22T05:32:10Z",
+      "end": "2026-09-22T09:21:56Z",
+      "minutes": 229.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【スト6】課題まみれガイル【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 54,
+      "avgViewers": 40.6,
+      "samples": [
+        [
+          "2026-09-22T05:32:10Z",
+          7
+        ],
+        [
+          "2026-09-22T05:48:08Z",
+          26
+        ],
+        [
+          "2026-09-22T05:58:35Z",
+          29
+        ],
+        [
+          "2026-09-22T06:22:30Z",
+          36
+        ],
+        [
+          "2026-09-22T06:44:41Z",
+          43
+        ],
+        [
+          "2026-09-22T06:59:14Z",
+          44
+        ],
+        [
+          "2026-09-22T07:18:41Z",
+          46
+        ],
+        [
+          "2026-09-22T07:33:42Z",
+          50
+        ],
+        [
+          "2026-09-22T07:48:46Z",
+          50
+        ],
+        [
+          "2026-09-22T07:59:15Z",
+          54
+        ],
+        [
+          "2026-09-22T08:19:35Z",
+          48
+        ],
+        [
+          "2026-09-22T08:35:10Z",
+          44
+        ],
+        [
+          "2026-09-22T08:49:41Z",
+          48
+        ],
+        [
+          "2026-09-22T09:00:34Z",
+          48
         ]
       ],
       "isTargetGame": false
