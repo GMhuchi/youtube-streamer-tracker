@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:47:29Z",
+  "updatedAt": "2026-09-23T20:58:34Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1097.0,
+      "totalMinutes": 1108.1,
       "gameMinutes": 0.0,
-      "totalHours": 18.28,
+      "totalHours": 18.47,
       "gameHours": 0.0,
       "sessions": 7,
-      "avgViewers": 91.8,
+      "avgViewers": 94.3,
       "peakViewers": 352
     },
     "week": {
-      "totalMinutes": 15908.2,
+      "totalMinutes": 15919.2,
       "gameMinutes": 0.0,
-      "totalHours": 265.14,
+      "totalHours": 265.32,
       "gameHours": 0.0,
       "sessions": 72,
-      "avgViewers": 111.0,
+      "avgViewers": 111.1,
       "peakViewers": 980
     },
     "month": {
-      "totalMinutes": 60860.6,
+      "totalMinutes": 60871.7,
       "gameMinutes": 9797.0,
-      "totalHours": 1014.34,
+      "totalHours": 1014.53,
       "gameHours": 163.28,
       "sessions": 350,
       "avgViewers": 120.9,
@@ -56,30 +56,30 @@
       "lastTitle": "熱ほぼなおった！",
       "buckets": {
         "today": {
-          "totalMinutes": 213.0,
+          "totalMinutes": 224.1,
           "gameMinutes": 0.0,
-          "totalHours": 3.55,
+          "totalHours": 3.74,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 254.8,
+          "avgViewers": 259.0,
           "peakViewers": 352
         },
         "week": {
-          "totalMinutes": 276.5,
+          "totalMinutes": 287.6,
           "gameMinutes": 0.0,
-          "totalHours": 4.61,
+          "totalHours": 4.79,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 254.8,
+          "avgViewers": 259.0,
           "peakViewers": 352
         },
         "month": {
-          "totalMinutes": 1591.4,
+          "totalMinutes": 1602.4,
           "gameMinutes": 600.9,
-          "totalHours": 26.52,
+          "totalHours": 26.71,
           "gameHours": 10.01,
           "sessions": 13,
-          "avgViewers": 178.2,
+          "avgViewers": 179.4,
           "peakViewers": 793
         }
       },
@@ -275,9 +275,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 352,
+      "liveViewers": 350,
       "livePeakViewers": 352,
-      "liveAvgViewers": 254.8,
+      "liveAvgViewers": 259.0,
       "liveSamples": [
         [
           "2026-09-23T17:14:28Z",
@@ -334,6 +334,10 @@
         [
           "2026-09-23T20:47:29Z",
           352
+        ],
+        [
+          "2026-09-23T20:58:34Z",
+          350
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=AVJ187vaB0M"
