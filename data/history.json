@@ -1,7 +1,65 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "yrVWI65KosM",
+      "start": "2026-09-23T05:32:21Z",
+      "startSource": "observed",
+      "title": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 651,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-23T05:32:21Z",
+      "lastSeenAt": "2026-09-23T05:32:21Z",
+      "samples": [
+        [
+          "2026-09-23T05:32:21Z",
+          651
+        ]
+      ]
+    },
+    "UCo3zRhsnXIieauvm6c-xwkA": {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "czSXlVbQMeg",
+      "start": "2026-09-23T05:32:21Z",
+      "startSource": "observed",
+      "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 110,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-23T05:32:21Z",
+      "lastSeenAt": "2026-09-23T05:32:21Z",
+      "samples": [
+        [
+          "2026-09-23T05:32:21Z",
+          110
+        ]
+      ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "X8S3oL5W0pA",
+      "start": "2026-09-23T05:32:21Z",
+      "startSource": "observed",
+      "title": "※ネタバレあり いよいよあのパレスを攻略！眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #17 #愁子",
+      "game": null,
+      "peakViewers": 51,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-23T05:32:21Z",
+      "lastSeenAt": "2026-09-23T05:32:21Z",
+      "samples": [
+        [
+          "2026-09-23T05:32:21Z",
+          51
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
