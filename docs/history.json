@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T03:59:41Z",
+  "updatedAt": "2026-09-23T04:19:17Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1161.9,
+      "totalMinutes": 1181.5,
       "gameMinutes": 0.0,
-      "totalHours": 19.36,
+      "totalHours": 19.69,
       "gameHours": 0.0,
       "sessions": 10,
-      "avgViewers": 150.5,
+      "avgViewers": 160.0,
       "peakViewers": 980
     },
     "week": {
-      "totalMinutes": 11430.1,
+      "totalMinutes": 11449.7,
       "gameMinutes": 0.0,
-      "totalHours": 190.5,
+      "totalHours": 190.83,
       "gameHours": 0.0,
       "sessions": 54,
-      "avgViewers": 107.1,
+      "avgViewers": 108.2,
       "peakViewers": 980
     },
     "month": {
-      "totalMinutes": 56382.5,
+      "totalMinutes": 56402.1,
       "gameMinutes": 9797.0,
-      "totalHours": 939.71,
+      "totalHours": 940.03,
       "gameHours": 163.28,
       "sessions": 332,
-      "avgViewers": 120.9,
+      "avgViewers": 121.1,
       "peakViewers": 994
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 239.9,
+          "totalMinutes": 259.5,
           "gameMinutes": 0.0,
-          "totalHours": 4.0,
+          "totalHours": 4.32,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 360.8,
-          "peakViewers": 733
+          "avgViewers": 388.2,
+          "peakViewers": 745
         },
         "week": {
-          "totalMinutes": 1511.0,
+          "totalMinutes": 1530.6,
           "gameMinutes": 0.0,
-          "totalHours": 25.18,
+          "totalHours": 25.51,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 274.4,
-          "peakViewers": 733
+          "avgViewers": 280.3,
+          "peakViewers": 745
         },
         "month": {
-          "totalMinutes": 5769.0,
+          "totalMinutes": 5788.6,
           "gameMinutes": 168.3,
-          "totalHours": 96.15,
+          "totalHours": 96.48,
           "gameHours": 2.8,
           "sessions": 28,
-          "avgViewers": 252.9,
+          "avgViewers": 254.7,
           "peakViewers": 888
         }
       },
@@ -520,9 +520,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 711,
-      "livePeakViewers": 733,
-      "liveAvgViewers": 646.4,
+      "liveViewers": 745,
+      "livePeakViewers": 745,
+      "liveAvgViewers": 671.1,
       "liveSamples": [
         [
           "2026-09-23T03:18:20Z",
@@ -539,6 +539,10 @@
         [
           "2026-09-23T03:59:41Z",
           711
+        ],
+        [
+          "2026-09-23T04:19:17Z",
+          745
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM"
