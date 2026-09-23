@@ -2,45 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "AVJ187vaB0M",
-      "start": "2026-09-23T21:31:46Z",
-      "startSource": "observed",
-      "title": "病み上がり無計画【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 350,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-23T21:31:46Z",
-      "lastSeenAt": "2026-09-23T22:43:29Z",
-      "samples": [
-        [
-          "2026-09-23T21:31:46Z",
-          343
-        ],
-        [
-          "2026-09-23T21:46:34Z",
-          344
-        ],
-        [
-          "2026-09-23T21:57:04Z",
-          350
-        ],
-        [
-          "2026-09-23T22:14:46Z",
-          332
-        ],
-        [
-          "2026-09-23T22:29:40Z",
-          307
-        ],
-        [
-          "2026-09-23T22:43:29Z",
-          305
-        ]
-      ]
-    },
     "UC7W6gEF88kzL-mN8V_QxzVg": {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
       "name": "埼凰リンネ",
@@ -52,7 +13,7 @@
       "peakViewers": 23,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-23T21:31:46Z",
-      "lastSeenAt": "2026-09-23T22:43:29Z",
+      "lastSeenAt": "2026-09-23T22:55:48Z",
       "samples": [
         [
           "2026-09-23T21:31:46Z",
@@ -77,6 +38,10 @@
         [
           "2026-09-23T22:43:29Z",
           22
+        ],
+        [
+          "2026-09-23T22:55:48Z",
+          15
         ]
       ]
     },
@@ -91,7 +56,7 @@
       "peakViewers": 292,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-23T21:46:34Z",
-      "lastSeenAt": "2026-09-23T22:43:29Z",
+      "lastSeenAt": "2026-09-23T22:55:48Z",
       "samples": [
         [
           "2026-09-23T21:46:34Z",
@@ -112,6 +77,10 @@
         [
           "2026-09-23T22:43:29Z",
           291
+        ],
+        [
+          "2026-09-23T22:55:48Z",
+          277
         ]
       ]
     }
@@ -20824,6 +20793,48 @@
         [
           "2026-09-23T20:58:34Z",
           350
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "AVJ187vaB0M",
+      "videoUrl": "https://www.youtube.com/watch?v=AVJ187vaB0M",
+      "start": "2026-09-23T21:31:46Z",
+      "end": "2026-09-23T22:55:48Z",
+      "minutes": 84.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "病み上がり無計画【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 350,
+      "avgViewers": 330.5,
+      "samples": [
+        [
+          "2026-09-23T21:31:46Z",
+          343
+        ],
+        [
+          "2026-09-23T21:46:34Z",
+          344
+        ],
+        [
+          "2026-09-23T21:57:04Z",
+          350
+        ],
+        [
+          "2026-09-23T22:14:46Z",
+          332
+        ],
+        [
+          "2026-09-23T22:29:40Z",
+          307
+        ],
+        [
+          "2026-09-23T22:43:29Z",
+          305
         ]
       ],
       "isTargetGame": false
