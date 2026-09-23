@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:32:10Z",
+  "updatedAt": "2026-09-23T10:49:27Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2386.7,
+      "totalMinutes": 2455.8,
       "gameMinutes": 0.0,
-      "totalHours": 39.78,
+      "totalHours": 40.93,
       "gameHours": 0.0,
-      "sessions": 18,
-      "avgViewers": 191.9,
+      "sessions": 19,
+      "avgViewers": 190.3,
       "peakViewers": 980
     },
     "week": {
-      "totalMinutes": 12654.9,
+      "totalMinutes": 12724.0,
       "gameMinutes": 0.0,
-      "totalHours": 210.92,
+      "totalHours": 212.07,
       "gameHours": 0.0,
-      "sessions": 62,
-      "avgViewers": 119.2,
+      "sessions": 63,
+      "avgViewers": 119.3,
       "peakViewers": 980
     },
     "month": {
-      "totalMinutes": 57607.3,
+      "totalMinutes": 57676.5,
       "gameMinutes": 9797.0,
-      "totalHours": 960.12,
+      "totalHours": 961.27,
       "gameHours": 163.28,
-      "sessions": 340,
+      "sessions": 341,
       "avgViewers": 123.3,
       "peakViewers": 994
     }
@@ -56,30 +56,30 @@
       "lastTitle": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 617.1,
+          "totalMinutes": 634.4,
           "gameMinutes": 0.0,
-          "totalHours": 10.29,
+          "totalHours": 10.57,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 499.9,
+          "avgViewers": 498.8,
           "peakViewers": 784
         },
         "week": {
-          "totalMinutes": 1888.3,
+          "totalMinutes": 1905.6,
           "gameMinutes": 0.0,
-          "totalHours": 31.47,
+          "totalHours": 31.76,
           "gameHours": 0.0,
           "sessions": 8,
-          "avgViewers": 337.9,
+          "avgViewers": 339.0,
           "peakViewers": 784
         },
         "month": {
-          "totalMinutes": 6146.3,
+          "totalMinutes": 6163.5,
           "gameMinutes": 168.3,
-          "totalHours": 102.44,
+          "totalHours": 102.73,
           "gameHours": 2.8,
           "sessions": 29,
-          "avgViewers": 276.9,
+          "avgViewers": 277.5,
           "peakViewers": 888
         }
       },
@@ -440,9 +440,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 471,
+      "liveViewers": 451,
       "livePeakViewers": 784,
-      "liveAvgViewers": 562.0,
+      "liveAvgViewers": 556.3,
       "liveSamples": [
         [
           "2026-09-23T05:32:21Z",
@@ -519,9 +519,424 @@
         [
           "2026-09-23T10:32:10Z",
           471
+        ],
+        [
+          "2026-09-23T10:49:27Z",
+          451
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM"
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-09-23T10:49:27Z",
+      "liveTitle": "【歌枠/Singing】まったり歌うので1曲聞いていってください🖤🎵🤍　【 #恋沼ミヤ】",
+      "lastEnd": "2026-09-22T16:59:11Z",
+      "lastTitle": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 119.2,
+          "gameMinutes": 0.0,
+          "totalHours": 1.99,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 181.8,
+          "peakViewers": 277
+        },
+        "week": {
+          "totalMinutes": 568.1,
+          "gameMinutes": 0.0,
+          "totalHours": 9.47,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 152.2,
+          "peakViewers": 277
+        },
+        "month": {
+          "totalMinutes": 5430.2,
+          "gameMinutes": 169.2,
+          "totalHours": 90.5,
+          "gameHours": 2.82,
+          "sessions": 22,
+          "avgViewers": 93.7,
+          "peakViewers": 428
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "0fUbAzY5Prc",
+          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
+          "start": "2026-09-22T10:12:34Z",
+          "end": "2026-09-22T16:59:11Z",
+          "minutes": 406.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 277,
+          "avgViewers": 181.8,
+          "samples": [
+            [
+              "2026-09-22T10:12:34Z",
+              100
+            ],
+            [
+              "2026-09-22T10:32:38Z",
+              277
+            ],
+            [
+              "2026-09-22T10:49:17Z",
+              258
+            ],
+            [
+              "2026-09-22T10:59:40Z",
+              229
+            ],
+            [
+              "2026-09-22T11:18:11Z",
+              220
+            ],
+            [
+              "2026-09-22T11:32:46Z",
+              251
+            ],
+            [
+              "2026-09-22T11:47:23Z",
+              237
+            ],
+            [
+              "2026-09-22T11:58:05Z",
+              226
+            ],
+            [
+              "2026-09-22T12:22:00Z",
+              223
+            ],
+            [
+              "2026-09-22T12:44:14Z",
+              194
+            ],
+            [
+              "2026-09-22T12:59:08Z",
+              146
+            ],
+            [
+              "2026-09-22T13:19:15Z",
+              134
+            ],
+            [
+              "2026-09-22T13:34:44Z",
+              126
+            ],
+            [
+              "2026-09-22T13:49:54Z",
+              144
+            ],
+            [
+              "2026-09-22T14:00:28Z",
+              136
+            ],
+            [
+              "2026-09-22T14:22:59Z",
+              123
+            ],
+            [
+              "2026-09-22T14:42:49Z",
+              127
+            ],
+            [
+              "2026-09-22T14:58:23Z",
+              136
+            ],
+            [
+              "2026-09-22T15:17:25Z",
+              125
+            ],
+            [
+              "2026-09-22T15:31:59Z",
+              104
+            ],
+            [
+              "2026-09-22T15:47:46Z",
+              153
+            ],
+            [
+              "2026-09-22T15:58:25Z",
+              222
+            ],
+            [
+              "2026-09-22T16:17:53Z",
+              250
+            ],
+            [
+              "2026-09-22T16:34:28Z",
+              234
+            ],
+            [
+              "2026-09-22T16:48:42Z",
+              206
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T17:41:30Z",
+          "minutes": 165.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 77.8,
+          "samples": [
+            [
+              "2026-09-20T14:55:55Z",
+              67
+            ],
+            [
+              "2026-09-20T15:12:04Z",
+              75
+            ],
+            [
+              "2026-09-20T15:29:39Z",
+              95
+            ],
+            [
+              "2026-09-20T15:42:33Z",
+              87
+            ],
+            [
+              "2026-09-20T15:56:03Z",
+              63
+            ],
+            [
+              "2026-09-20T16:13:02Z",
+              81
+            ],
+            [
+              "2026-09-20T16:30:34Z",
+              73
+            ],
+            [
+              "2026-09-20T16:46:45Z",
+              75
+            ],
+            [
+              "2026-09-20T16:57:34Z",
+              75
+            ],
+            [
+              "2026-09-20T17:13:45Z",
+              86
+            ],
+            [
+              "2026-09-20T17:28:49Z",
+              84
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T09:46:35Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 296.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 194,
+          "avgViewers": 92.2,
+          "samples": [
+            [
+              "2026-09-20T09:46:35Z",
+              137
+            ],
+            [
+              "2026-09-20T09:57:21Z",
+              194
+            ],
+            [
+              "2026-09-20T10:14:39Z",
+              132
+            ],
+            [
+              "2026-09-20T10:29:58Z",
+              112
+            ],
+            [
+              "2026-09-20T10:42:48Z",
+              98
+            ],
+            [
+              "2026-09-20T10:55:44Z",
+              100
+            ],
+            [
+              "2026-09-20T11:11:22Z",
+              94
+            ],
+            [
+              "2026-09-20T11:29:08Z",
+              82
+            ],
+            [
+              "2026-09-20T11:42:14Z",
+              85
+            ],
+            [
+              "2026-09-20T11:55:51Z",
+              80
+            ],
+            [
+              "2026-09-20T12:15:34Z",
+              81
+            ],
+            [
+              "2026-09-20T12:35:13Z",
+              75
+            ],
+            [
+              "2026-09-20T12:50:14Z",
+              64
+            ],
+            [
+              "2026-09-20T13:10:05Z",
+              66
+            ],
+            [
+              "2026-09-20T13:25:26Z",
+              84
+            ],
+            [
+              "2026-09-20T13:38:34Z",
+              68
+            ],
+            [
+              "2026-09-20T13:50:32Z",
+              85
+            ],
+            [
+              "2026-09-20T14:10:54Z",
+              73
+            ],
+            [
+              "2026-09-20T14:29:46Z",
+              60
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T18:31:46Z",
+          "minutes": 79.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 18.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 246.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 75,
+          "avgViewers": 60.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T09:43:06Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 171.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 166,
+          "avgViewers": 100.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "nlsGN421BNo",
+          "videoUrl": "https://www.youtube.com/watch?v=nlsGN421BNo",
+          "start": "2026-09-19T05:45:13Z",
+          "end": "2026-09-19T07:01:28Z",
+          "minutes": 76.2,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "寝起き雑談（寝坊してごめんなさい）",
+          "game": null,
+          "peakViewers": 80,
+          "avgViewers": 66.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Z5lemIteZ1Q",
+          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
+          "start": "2026-09-18T14:49:04Z",
+          "end": "2026-09-18T17:28:31Z",
+          "minutes": 159.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 102,
+          "avgViewers": 75.8,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 76,
+      "livePeakViewers": 76,
+      "liveAvgViewers": 76.0,
+      "liveSamples": [
+        [
+          "2026-09-23T10:49:27Z",
+          76
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=aQP2S19kK3A"
     },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
@@ -535,27 +950,27 @@
       "lastTitle": "【 天下無双ARK 】本物の一匹狼 世界よ笑顔になってくれ【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 206.0,
+          "totalMinutes": 223.3,
           "gameMinutes": 0.0,
-          "totalHours": 3.43,
+          "totalHours": 3.72,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 13.0,
+          "avgViewers": 13.5,
           "peakViewers": 28
         },
         "week": {
-          "totalMinutes": 1171.8,
+          "totalMinutes": 1189.0,
           "gameMinutes": 0.0,
-          "totalHours": 19.53,
+          "totalHours": 19.82,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 10.0,
+          "avgViewers": 10.1,
           "peakViewers": 28
         },
         "month": {
-          "totalMinutes": 4021.4,
+          "totalMinutes": 4038.7,
           "gameMinutes": 1551.3,
-          "totalHours": 67.02,
+          "totalHours": 67.31,
           "gameHours": 25.85,
           "sessions": 18,
           "avgViewers": 18.5,
@@ -979,9 +1394,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 13,
+      "liveViewers": 19,
       "livePeakViewers": 28,
-      "liveAvgViewers": 20.1,
+      "liveAvgViewers": 19.9,
       "liveSamples": [
         [
           "2026-09-23T09:22:45Z",
@@ -1002,6 +1417,10 @@
         [
           "2026-09-23T10:32:10Z",
           13
+        ],
+        [
+          "2026-09-23T10:49:27Z",
+          19
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=8rf1-zC4zow"
@@ -1018,27 +1437,27 @@
       "lastTitle": "【 #天下無双ARK : 4日目 】焼肉は好きか～！【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 171.5,
+          "totalMinutes": 188.8,
           "gameMinutes": 0.0,
-          "totalHours": 2.86,
+          "totalHours": 3.15,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 48.4,
+          "avgViewers": 49.0,
           "peakViewers": 63
         },
         "week": {
-          "totalMinutes": 1115.9,
+          "totalMinutes": 1133.2,
           "gameMinutes": 0.0,
-          "totalHours": 18.6,
+          "totalHours": 18.89,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 46.8,
+          "avgViewers": 46.9,
           "peakViewers": 63
         },
         "month": {
-          "totalMinutes": 3228.8,
+          "totalMinutes": 3246.1,
           "gameMinutes": 476.4,
-          "totalHours": 53.81,
+          "totalHours": 54.1,
           "gameHours": 7.94,
           "sessions": 14,
           "avgViewers": 44.8,
@@ -1458,9 +1877,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 52,
+      "liveViewers": 55,
       "livePeakViewers": 55,
-      "liveAvgViewers": 53.7,
+      "liveAvgViewers": 54.0,
       "liveSamples": [
         [
           "2026-09-23T09:57:14Z",
@@ -1473,6 +1892,10 @@
         [
           "2026-09-23T10:32:10Z",
           52
+        ],
+        [
+          "2026-09-23T10:49:27Z",
+          55
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=VpVnYZEL7DU"
@@ -1489,27 +1912,27 @@
       "lastTitle": "【#うちらが時代卍歌枠リレー】王。【 #輝七瀬 / RIONECTION 】",
       "buckets": {
         "today": {
-          "totalMinutes": 16.5,
+          "totalMinutes": 33.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.28,
+          "totalHours": 0.56,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 9.0,
+          "avgViewers": 7.7,
           "peakViewers": 12
         },
         "week": {
-          "totalMinutes": 500.4,
+          "totalMinutes": 517.7,
           "gameMinutes": 0.0,
-          "totalHours": 8.34,
+          "totalHours": 8.63,
           "gameHours": 0.0,
           "sessions": 4,
           "avgViewers": 6.9,
           "peakViewers": 47
         },
         "month": {
-          "totalMinutes": 1810.5,
+          "totalMinutes": 1827.8,
           "gameMinutes": 436.1,
-          "totalHours": 30.18,
+          "totalHours": 30.46,
           "gameHours": 7.27,
           "sessions": 13,
           "avgViewers": 6.9,
@@ -1777,9 +2200,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 12,
+      "liveViewers": 5,
       "livePeakViewers": 12,
-      "liveAvgViewers": 9.0,
+      "liveAvgViewers": 7.7,
       "liveSamples": [
         [
           "2026-09-23T10:15:40Z",
@@ -1788,410 +2211,13 @@
         [
           "2026-09-23T10:32:10Z",
           12
+        ],
+        [
+          "2026-09-23T10:49:27Z",
+          5
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=KA8Kw-_YuLM"
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-22T16:59:11Z",
-      "lastTitle": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 119.2,
-          "gameMinutes": 0.0,
-          "totalHours": 1.99,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 181.8,
-          "peakViewers": 277
-        },
-        "week": {
-          "totalMinutes": 568.1,
-          "gameMinutes": 0.0,
-          "totalHours": 9.47,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 152.2,
-          "peakViewers": 277
-        },
-        "month": {
-          "totalMinutes": 5430.2,
-          "gameMinutes": 169.2,
-          "totalHours": 90.5,
-          "gameHours": 2.82,
-          "sessions": 21,
-          "avgViewers": 93.7,
-          "peakViewers": 428
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "0fUbAzY5Prc",
-          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
-          "start": "2026-09-22T10:12:34Z",
-          "end": "2026-09-22T16:59:11Z",
-          "minutes": 406.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 277,
-          "avgViewers": 181.8,
-          "samples": [
-            [
-              "2026-09-22T10:12:34Z",
-              100
-            ],
-            [
-              "2026-09-22T10:32:38Z",
-              277
-            ],
-            [
-              "2026-09-22T10:49:17Z",
-              258
-            ],
-            [
-              "2026-09-22T10:59:40Z",
-              229
-            ],
-            [
-              "2026-09-22T11:18:11Z",
-              220
-            ],
-            [
-              "2026-09-22T11:32:46Z",
-              251
-            ],
-            [
-              "2026-09-22T11:47:23Z",
-              237
-            ],
-            [
-              "2026-09-22T11:58:05Z",
-              226
-            ],
-            [
-              "2026-09-22T12:22:00Z",
-              223
-            ],
-            [
-              "2026-09-22T12:44:14Z",
-              194
-            ],
-            [
-              "2026-09-22T12:59:08Z",
-              146
-            ],
-            [
-              "2026-09-22T13:19:15Z",
-              134
-            ],
-            [
-              "2026-09-22T13:34:44Z",
-              126
-            ],
-            [
-              "2026-09-22T13:49:54Z",
-              144
-            ],
-            [
-              "2026-09-22T14:00:28Z",
-              136
-            ],
-            [
-              "2026-09-22T14:22:59Z",
-              123
-            ],
-            [
-              "2026-09-22T14:42:49Z",
-              127
-            ],
-            [
-              "2026-09-22T14:58:23Z",
-              136
-            ],
-            [
-              "2026-09-22T15:17:25Z",
-              125
-            ],
-            [
-              "2026-09-22T15:31:59Z",
-              104
-            ],
-            [
-              "2026-09-22T15:47:46Z",
-              153
-            ],
-            [
-              "2026-09-22T15:58:25Z",
-              222
-            ],
-            [
-              "2026-09-22T16:17:53Z",
-              250
-            ],
-            [
-              "2026-09-22T16:34:28Z",
-              234
-            ],
-            [
-              "2026-09-22T16:48:42Z",
-              206
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T17:41:30Z",
-          "minutes": 165.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 95,
-          "avgViewers": 77.8,
-          "samples": [
-            [
-              "2026-09-20T14:55:55Z",
-              67
-            ],
-            [
-              "2026-09-20T15:12:04Z",
-              75
-            ],
-            [
-              "2026-09-20T15:29:39Z",
-              95
-            ],
-            [
-              "2026-09-20T15:42:33Z",
-              87
-            ],
-            [
-              "2026-09-20T15:56:03Z",
-              63
-            ],
-            [
-              "2026-09-20T16:13:02Z",
-              81
-            ],
-            [
-              "2026-09-20T16:30:34Z",
-              73
-            ],
-            [
-              "2026-09-20T16:46:45Z",
-              75
-            ],
-            [
-              "2026-09-20T16:57:34Z",
-              75
-            ],
-            [
-              "2026-09-20T17:13:45Z",
-              86
-            ],
-            [
-              "2026-09-20T17:28:49Z",
-              84
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T09:46:35Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 296.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 194,
-          "avgViewers": 92.2,
-          "samples": [
-            [
-              "2026-09-20T09:46:35Z",
-              137
-            ],
-            [
-              "2026-09-20T09:57:21Z",
-              194
-            ],
-            [
-              "2026-09-20T10:14:39Z",
-              132
-            ],
-            [
-              "2026-09-20T10:29:58Z",
-              112
-            ],
-            [
-              "2026-09-20T10:42:48Z",
-              98
-            ],
-            [
-              "2026-09-20T10:55:44Z",
-              100
-            ],
-            [
-              "2026-09-20T11:11:22Z",
-              94
-            ],
-            [
-              "2026-09-20T11:29:08Z",
-              82
-            ],
-            [
-              "2026-09-20T11:42:14Z",
-              85
-            ],
-            [
-              "2026-09-20T11:55:51Z",
-              80
-            ],
-            [
-              "2026-09-20T12:15:34Z",
-              81
-            ],
-            [
-              "2026-09-20T12:35:13Z",
-              75
-            ],
-            [
-              "2026-09-20T12:50:14Z",
-              64
-            ],
-            [
-              "2026-09-20T13:10:05Z",
-              66
-            ],
-            [
-              "2026-09-20T13:25:26Z",
-              84
-            ],
-            [
-              "2026-09-20T13:38:34Z",
-              68
-            ],
-            [
-              "2026-09-20T13:50:32Z",
-              85
-            ],
-            [
-              "2026-09-20T14:10:54Z",
-              73
-            ],
-            [
-              "2026-09-20T14:29:46Z",
-              60
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:31:46Z",
-          "minutes": 79.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 18.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 246.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 75,
-          "avgViewers": 60.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T09:43:06Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 171.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 166,
-          "avgViewers": 100.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "nlsGN421BNo",
-          "videoUrl": "https://www.youtube.com/watch?v=nlsGN421BNo",
-          "start": "2026-09-19T05:45:13Z",
-          "end": "2026-09-19T07:01:28Z",
-          "minutes": 76.2,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "寝起き雑談（寝坊してごめんなさい）",
-          "game": null,
-          "peakViewers": 80,
-          "avgViewers": 66.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Z5lemIteZ1Q",
-          "videoUrl": "https://www.youtube.com/watch?v=Z5lemIteZ1Q",
-          "start": "2026-09-18T14:49:04Z",
-          "end": "2026-09-18T17:28:31Z",
-          "minutes": 159.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#15　今日は少し考えがあります…👿【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 102,
-          "avgViewers": 75.8,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
     },
     {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
