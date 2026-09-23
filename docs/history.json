@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T04:59:25Z",
+  "updatedAt": "2026-09-23T05:17:08Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1246.4,
+      "totalMinutes": 1281.8,
       "gameMinutes": 0.0,
-      "totalHours": 20.77,
+      "totalHours": 21.36,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 174.9,
+      "avgViewers": 180.3,
       "peakViewers": 980
     },
     "week": {
-      "totalMinutes": 11514.5,
+      "totalMinutes": 11550.0,
       "gameMinutes": 0.0,
-      "totalHours": 191.91,
+      "totalHours": 192.5,
       "gameHours": 0.0,
       "sessions": 55,
-      "avgViewers": 110.1,
+      "avgViewers": 110.9,
       "peakViewers": 980
     },
     "month": {
-      "totalMinutes": 56467.0,
+      "totalMinutes": 56502.4,
       "gameMinutes": 9797.0,
-      "totalHours": 941.12,
+      "totalHours": 941.71,
       "gameHours": 163.28,
       "sessions": 333,
-      "avgViewers": 121.5,
+      "avgViewers": 121.6,
       "peakViewers": 994
     }
   },
@@ -49,41 +49,91 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-09-23T03:18:20Z",
-      "liveTitle": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-22T18:18:31Z",
-      "lastTitle": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-23T05:17:08Z",
+      "lastTitle": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 299.6,
+          "totalMinutes": 317.3,
           "gameMinutes": 0.0,
-          "totalHours": 4.99,
+          "totalHours": 5.29,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 427.4,
+          "avgViewers": 441.2,
           "peakViewers": 745
         },
         "week": {
-          "totalMinutes": 1570.8,
+          "totalMinutes": 1588.5,
           "gameMinutes": 0.0,
-          "totalHours": 26.18,
+          "totalHours": 26.47,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 290.7,
+          "avgViewers": 295.0,
           "peakViewers": 745
         },
         "month": {
-          "totalMinutes": 5828.7,
+          "totalMinutes": 5846.4,
           "gameMinutes": 168.3,
-          "totalHours": 97.15,
+          "totalHours": 97.44,
           "gameHours": 2.8,
           "sessions": 28,
-          "avgViewers": 258.2,
+          "avgViewers": 259.7,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "yrVWI65KosM",
+          "videoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM",
+          "start": "2026-09-23T03:18:20Z",
+          "end": "2026-09-23T05:17:08Z",
+          "minutes": 118.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 745,
+          "avgViewers": 675.1,
+          "samples": [
+            [
+              "2026-09-23T03:18:20Z",
+              502
+            ],
+            [
+              "2026-09-23T03:34:02Z",
+              733
+            ],
+            [
+              "2026-09-23T03:48:53Z",
+              655
+            ],
+            [
+              "2026-09-23T03:59:41Z",
+              711
+            ],
+            [
+              "2026-09-23T04:19:17Z",
+              745
+            ],
+            [
+              "2026-09-23T04:34:40Z",
+              699
+            ],
+            [
+              "2026-09-23T04:49:06Z",
+              675
+            ],
+            [
+              "2026-09-23T04:59:25Z",
+              672
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -318,120 +368,7 @@
           "game": null,
           "peakViewers": 453,
           "avgViewers": 374.4,
-          "samples": [
-            [
-              "2026-09-21T05:40:47Z",
-              354
-            ],
-            [
-              "2026-09-21T05:57:11Z",
-              440
-            ],
-            [
-              "2026-09-21T06:22:21Z",
-              406
-            ],
-            [
-              "2026-09-21T06:46:38Z",
-              383
-            ],
-            [
-              "2026-09-21T07:01:11Z",
-              365
-            ],
-            [
-              "2026-09-21T07:24:12Z",
-              384
-            ],
-            [
-              "2026-09-21T07:42:33Z",
-              391
-            ],
-            [
-              "2026-09-21T07:57:30Z",
-              421
-            ],
-            [
-              "2026-09-21T08:18:03Z",
-              426
-            ],
-            [
-              "2026-09-21T08:34:12Z",
-              450
-            ],
-            [
-              "2026-09-21T08:49:22Z",
-              441
-            ],
-            [
-              "2026-09-21T09:00:13Z",
-              453
-            ],
-            [
-              "2026-09-21T09:23:27Z",
-              382
-            ],
-            [
-              "2026-09-21T09:40:36Z",
-              364
-            ],
-            [
-              "2026-09-21T09:56:55Z",
-              372
-            ],
-            [
-              "2026-09-21T10:15:09Z",
-              348
-            ],
-            [
-              "2026-09-21T10:31:15Z",
-              340
-            ],
-            [
-              "2026-09-21T10:47:59Z",
-              327
-            ],
-            [
-              "2026-09-21T10:58:28Z",
-              364
-            ],
-            [
-              "2026-09-21T11:18:06Z",
-              355
-            ],
-            [
-              "2026-09-21T11:34:05Z",
-              387
-            ],
-            [
-              "2026-09-21T11:48:59Z",
-              386
-            ],
-            [
-              "2026-09-21T11:59:51Z",
-              368
-            ],
-            [
-              "2026-09-21T12:22:39Z",
-              338
-            ],
-            [
-              "2026-09-21T12:42:07Z",
-              331
-            ],
-            [
-              "2026-09-21T12:57:49Z",
-              324
-            ],
-            [
-              "2026-09-21T13:16:18Z",
-              315
-            ],
-            [
-              "2026-09-21T13:31:50Z",
-              217
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -501,458 +438,8 @@
           "avgViewers": null,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "98a9SGm10VI",
-          "videoUrl": "https://www.youtube.com/watch?v=98a9SGm10VI",
-          "start": "2026-09-20T08:12:57Z",
-          "end": "2026-09-20T11:55:51Z",
-          "minutes": 222.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#7 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 115,
-          "avgViewers": 104.8,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 672,
-      "livePeakViewers": 745,
-      "liveAvgViewers": 675.1,
-      "liveSamples": [
-        [
-          "2026-09-23T03:18:20Z",
-          502
-        ],
-        [
-          "2026-09-23T03:34:02Z",
-          733
-        ],
-        [
-          "2026-09-23T03:48:53Z",
-          655
-        ],
-        [
-          "2026-09-23T03:59:41Z",
-          711
-        ],
-        [
-          "2026-09-23T04:19:17Z",
-          745
-        ],
-        [
-          "2026-09-23T04:34:40Z",
-          699
-        ],
-        [
-          "2026-09-23T04:49:06Z",
-          675
-        ],
-        [
-          "2026-09-23T04:59:25Z",
-          672
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM"
-    },
-    {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
-      "isLive": true,
-      "liveSince": "2026-09-23T04:34:40Z",
-      "liveTitle": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
-      "lastEnd": "2026-09-21T09:23:27Z",
-      "lastTitle": "【Forza Horizon6】行け！無免許！ついにレジェンドへ！！＃３２【#七乃羽すず┆すずみあ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 24.8,
-          "gameMinutes": 0.0,
-          "totalHours": 0.41,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 65.4,
-          "peakViewers": 87
-        },
-        "week": {
-          "totalMinutes": 315.3,
-          "gameMinutes": 0.0,
-          "totalHours": 5.25,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 95.1,
-          "peakViewers": 137
-        },
-        "month": {
-          "totalMinutes": 1810.4,
-          "gameMinutes": 467.4,
-          "totalHours": 30.17,
-          "gameHours": 7.79,
-          "sessions": 12,
-          "avgViewers": 59.4,
-          "peakViewers": 137
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "YBJ-9p150rY",
-          "videoUrl": "https://www.youtube.com/watch?v=YBJ-9p150rY",
-          "start": "2026-09-21T04:32:56Z",
-          "end": "2026-09-21T09:23:27Z",
-          "minutes": 290.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】行け！無免許！ついにレジェンドへ！！＃３２【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 137,
-          "avgViewers": 97.6,
-          "samples": [
-            [
-              "2026-09-21T04:32:56Z",
-              31
-            ],
-            [
-              "2026-09-21T04:50:06Z",
-              57
-            ],
-            [
-              "2026-09-21T05:01:29Z",
-              64
-            ],
-            [
-              "2026-09-21T05:22:15Z",
-              76
-            ],
-            [
-              "2026-09-21T05:40:47Z",
-              84
-            ],
-            [
-              "2026-09-21T05:57:11Z",
-              89
-            ],
-            [
-              "2026-09-21T06:22:21Z",
-              100
-            ],
-            [
-              "2026-09-21T06:46:38Z",
-              114
-            ],
-            [
-              "2026-09-21T07:01:11Z",
-              114
-            ],
-            [
-              "2026-09-21T07:24:12Z",
-              123
-            ],
-            [
-              "2026-09-21T07:42:33Z",
-              113
-            ],
-            [
-              "2026-09-21T07:57:30Z",
-              123
-            ],
-            [
-              "2026-09-21T08:18:03Z",
-              131
-            ],
-            [
-              "2026-09-21T08:34:12Z",
-              137
-            ],
-            [
-              "2026-09-21T08:49:22Z",
-              121
-            ],
-            [
-              "2026-09-21T09:00:13Z",
-              90
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "mmesCT3TaTU",
-          "videoUrl": "https://www.youtube.com/watch?v=mmesCT3TaTU",
-          "start": "2026-09-19T04:15:53Z",
-          "end": "2026-09-19T10:12:20Z",
-          "minutes": 356.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】無免許爆走！伊東トレイルで1位とる＃30【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 123,
-          "avgViewers": 78.2,
-          "samples": [
-            [
-              "2026-09-19T04:15:53Z",
-              41
-            ],
-            [
-              "2026-09-19T04:31:05Z",
-              53
-            ],
-            [
-              "2026-09-19T04:47:08Z",
-              60
-            ],
-            [
-              "2026-09-19T04:57:35Z",
-              57
-            ],
-            [
-              "2026-09-19T05:14:30Z",
-              69
-            ],
-            [
-              "2026-09-19T05:29:06Z",
-              66
-            ],
-            [
-              "2026-09-19T05:42:17Z",
-              64
-            ],
-            [
-              "2026-09-19T05:55:40Z",
-              68
-            ],
-            [
-              "2026-09-19T06:15:11Z",
-              60
-            ],
-            [
-              "2026-09-19T06:35:00Z",
-              73
-            ],
-            [
-              "2026-09-19T06:50:02Z",
-              78
-            ],
-            [
-              "2026-09-19T07:00:52Z",
-              74
-            ],
-            [
-              "2026-09-19T07:20:28Z",
-              71
-            ],
-            [
-              "2026-09-19T07:38:38Z",
-              65
-            ],
-            [
-              "2026-09-19T07:49:51Z",
-              66
-            ],
-            [
-              "2026-09-19T08:00:23Z",
-              75
-            ],
-            [
-              "2026-09-19T08:22:42Z",
-              89
-            ],
-            [
-              "2026-09-19T08:40:05Z",
-              101
-            ],
-            [
-              "2026-09-19T08:52:08Z",
-              105
-            ],
-            [
-              "2026-09-19T09:10:55Z",
-              112
-            ],
-            [
-              "2026-09-19T09:30:05Z",
-              123
-            ],
-            [
-              "2026-09-19T09:43:06Z",
-              121
-            ],
-            [
-              "2026-09-19T09:55:54Z",
-              109
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "cika786DL0E",
-          "videoUrl": "https://www.youtube.com/watch?v=cika786DL0E",
-          "start": "2026-09-17T11:59:29Z",
-          "end": "2026-09-17T15:01:09Z",
-          "minutes": 181.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】無免許爆走！車の雑誌を買ったぞ＃30【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 87,
-          "avgViewers": 63.6,
-          "samples": [
-            [
-              "2026-09-17T11:59:29Z",
-              17
-            ],
-            [
-              "2026-09-17T12:24:01Z",
-              48
-            ],
-            [
-              "2026-09-17T12:44:43Z",
-              65
-            ],
-            [
-              "2026-09-17T12:59:39Z",
-              64
-            ],
-            [
-              "2026-09-17T13:20:22Z",
-              78
-            ],
-            [
-              "2026-09-17T13:41:14Z",
-              87
-            ],
-            [
-              "2026-09-17T13:57:59Z",
-              78
-            ],
-            [
-              "2026-09-17T14:17:23Z",
-              79
-            ],
-            [
-              "2026-09-17T14:33:40Z",
-              72
-            ],
-            [
-              "2026-09-17T14:49:41Z",
-              68
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "plHPriEXV58",
-          "videoUrl": "https://www.youtube.com/watch?v=plHPriEXV58",
-          "start": "2026-09-16T13:42:16Z",
-          "end": "2026-09-16T15:11:41Z",
-          "minutes": 89.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】無免許爆走！ゲリラなのでタイトルなし＃29【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 67,
-          "avgViewers": 61.1,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "PdXyHHaTknw",
-          "videoUrl": "https://www.youtube.com/watch?v=PdXyHHaTknw",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！チームTeJüS✧【#七乃羽すず┆心白てと┆甘成じゅい】",
-          "game": null,
-          "peakViewers": 18,
-          "avgViewers": 18,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "PdXyHHaTknw",
-          "videoUrl": "https://www.youtube.com/watch?v=PdXyHHaTknw",
-          "start": "2026-09-16T10:23:47Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 146.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】大会本番！チームTeJüS✧【#七乃羽すず┆心白てと┆甘成じゅい】",
-          "game": null,
-          "peakViewers": 25,
-          "avgViewers": 19.4,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "fGG8y1aMVxE",
-          "videoUrl": "https://www.youtube.com/watch?v=fGG8y1aMVxE",
-          "start": "2026-09-14T11:32:47Z",
-          "end": "2026-09-14T13:36:19Z",
-          "minutes": 123.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】スクリム2日目！ガーネットで行く【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 21,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "fGG8y1aMVxE",
-          "videoUrl": "https://www.youtube.com/watch?v=fGG8y1aMVxE",
-          "start": "2026-09-14T10:50:30Z",
-          "end": "2026-09-14T11:12:12Z",
-          "minutes": 21.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】スクリム2日目！ガーネットで行く【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ],
-      "liveViewers": 87,
-      "livePeakViewers": 87,
-      "liveAvgViewers": 65.4,
-      "liveSamples": [
-        [
-          "2026-09-23T04:34:40Z",
-          40
-        ],
-        [
-          "2026-09-23T04:49:06Z",
-          75
-        ],
-        [
-          "2026-09-23T04:59:25Z",
-          87
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg"
+      ]
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -5233,6 +4720,355 @@
       ]
     },
     {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-23T05:17:08Z",
+      "lastTitle": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 42.5,
+          "gameMinutes": 0.0,
+          "totalHours": 0.71,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 65.4,
+          "peakViewers": 87
+        },
+        "week": {
+          "totalMinutes": 333.0,
+          "gameMinutes": 0.0,
+          "totalHours": 5.55,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 93.5,
+          "peakViewers": 137
+        },
+        "month": {
+          "totalMinutes": 1828.1,
+          "gameMinutes": 467.4,
+          "totalHours": 30.47,
+          "gameHours": 7.79,
+          "sessions": 12,
+          "avgViewers": 59.5,
+          "peakViewers": 137
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "czSXlVbQMeg",
+          "videoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg",
+          "start": "2026-09-23T04:34:40Z",
+          "end": "2026-09-23T05:17:08Z",
+          "minutes": 42.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 87,
+          "avgViewers": 65.4,
+          "samples": [
+            [
+              "2026-09-23T04:34:40Z",
+              40
+            ],
+            [
+              "2026-09-23T04:49:06Z",
+              75
+            ],
+            [
+              "2026-09-23T04:59:25Z",
+              87
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "YBJ-9p150rY",
+          "videoUrl": "https://www.youtube.com/watch?v=YBJ-9p150rY",
+          "start": "2026-09-21T04:32:56Z",
+          "end": "2026-09-21T09:23:27Z",
+          "minutes": 290.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】行け！無免許！ついにレジェンドへ！！＃３２【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 137,
+          "avgViewers": 97.6,
+          "samples": [
+            [
+              "2026-09-21T04:32:56Z",
+              31
+            ],
+            [
+              "2026-09-21T04:50:06Z",
+              57
+            ],
+            [
+              "2026-09-21T05:01:29Z",
+              64
+            ],
+            [
+              "2026-09-21T05:22:15Z",
+              76
+            ],
+            [
+              "2026-09-21T05:40:47Z",
+              84
+            ],
+            [
+              "2026-09-21T05:57:11Z",
+              89
+            ],
+            [
+              "2026-09-21T06:22:21Z",
+              100
+            ],
+            [
+              "2026-09-21T06:46:38Z",
+              114
+            ],
+            [
+              "2026-09-21T07:01:11Z",
+              114
+            ],
+            [
+              "2026-09-21T07:24:12Z",
+              123
+            ],
+            [
+              "2026-09-21T07:42:33Z",
+              113
+            ],
+            [
+              "2026-09-21T07:57:30Z",
+              123
+            ],
+            [
+              "2026-09-21T08:18:03Z",
+              131
+            ],
+            [
+              "2026-09-21T08:34:12Z",
+              137
+            ],
+            [
+              "2026-09-21T08:49:22Z",
+              121
+            ],
+            [
+              "2026-09-21T09:00:13Z",
+              90
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "mmesCT3TaTU",
+          "videoUrl": "https://www.youtube.com/watch?v=mmesCT3TaTU",
+          "start": "2026-09-19T04:15:53Z",
+          "end": "2026-09-19T10:12:20Z",
+          "minutes": 356.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許爆走！伊東トレイルで1位とる＃30【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 123,
+          "avgViewers": 78.2,
+          "samples": [
+            [
+              "2026-09-19T04:15:53Z",
+              41
+            ],
+            [
+              "2026-09-19T04:31:05Z",
+              53
+            ],
+            [
+              "2026-09-19T04:47:08Z",
+              60
+            ],
+            [
+              "2026-09-19T04:57:35Z",
+              57
+            ],
+            [
+              "2026-09-19T05:14:30Z",
+              69
+            ],
+            [
+              "2026-09-19T05:29:06Z",
+              66
+            ],
+            [
+              "2026-09-19T05:42:17Z",
+              64
+            ],
+            [
+              "2026-09-19T05:55:40Z",
+              68
+            ],
+            [
+              "2026-09-19T06:15:11Z",
+              60
+            ],
+            [
+              "2026-09-19T06:35:00Z",
+              73
+            ],
+            [
+              "2026-09-19T06:50:02Z",
+              78
+            ],
+            [
+              "2026-09-19T07:00:52Z",
+              74
+            ],
+            [
+              "2026-09-19T07:20:28Z",
+              71
+            ],
+            [
+              "2026-09-19T07:38:38Z",
+              65
+            ],
+            [
+              "2026-09-19T07:49:51Z",
+              66
+            ],
+            [
+              "2026-09-19T08:00:23Z",
+              75
+            ],
+            [
+              "2026-09-19T08:22:42Z",
+              89
+            ],
+            [
+              "2026-09-19T08:40:05Z",
+              101
+            ],
+            [
+              "2026-09-19T08:52:08Z",
+              105
+            ],
+            [
+              "2026-09-19T09:10:55Z",
+              112
+            ],
+            [
+              "2026-09-19T09:30:05Z",
+              123
+            ],
+            [
+              "2026-09-19T09:43:06Z",
+              121
+            ],
+            [
+              "2026-09-19T09:55:54Z",
+              109
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "cika786DL0E",
+          "videoUrl": "https://www.youtube.com/watch?v=cika786DL0E",
+          "start": "2026-09-17T11:59:29Z",
+          "end": "2026-09-17T15:01:09Z",
+          "minutes": 181.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許爆走！車の雑誌を買ったぞ＃30【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 87,
+          "avgViewers": 63.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "plHPriEXV58",
+          "videoUrl": "https://www.youtube.com/watch?v=plHPriEXV58",
+          "start": "2026-09-16T13:42:16Z",
+          "end": "2026-09-16T15:11:41Z",
+          "minutes": 89.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許爆走！ゲリラなのでタイトルなし＃29【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 67,
+          "avgViewers": 61.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "PdXyHHaTknw",
+          "videoUrl": "https://www.youtube.com/watch?v=PdXyHHaTknw",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！チームTeJüS✧【#七乃羽すず┆心白てと┆甘成じゅい】",
+          "game": null,
+          "peakViewers": 18,
+          "avgViewers": 18,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "PdXyHHaTknw",
+          "videoUrl": "https://www.youtube.com/watch?v=PdXyHHaTknw",
+          "start": "2026-09-16T10:23:47Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 146.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】大会本番！チームTeJüS✧【#七乃羽すず┆心白てと┆甘成じゅい】",
+          "game": null,
+          "peakViewers": 25,
+          "avgViewers": 19.4,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "fGG8y1aMVxE",
+          "videoUrl": "https://www.youtube.com/watch?v=fGG8y1aMVxE",
+          "start": "2026-09-14T11:32:47Z",
+          "end": "2026-09-14T13:36:19Z",
+          "minutes": 123.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】スクリム2日目！ガーネットで行く【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 21,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ]
+    },
+    {
       "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
       "name": "輝 七瀬",
       "registered": true,
@@ -6939,6 +6775,38 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "czSXlVbQMeg",
+      "videoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg",
+      "start": "2026-09-23T04:34:40Z",
+      "end": "2026-09-23T05:17:08Z",
+      "minutes": 42.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 87,
+      "avgViewers": 65.4,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "yrVWI65KosM",
+      "videoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM",
+      "start": "2026-09-23T03:18:20Z",
+      "end": "2026-09-23T05:17:08Z",
+      "minutes": 118.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 745,
+      "avgViewers": 675.1,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
       "videoId": "_OQGLbjiONw",
@@ -7864,38 +7732,6 @@
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "o5ljq-xCrHM",
-      "videoUrl": "https://www.youtube.com/watch?v=o5ljq-xCrHM",
-      "start": "2026-09-20T12:03:51Z",
-      "end": "2026-09-20T15:22:51Z",
-      "minutes": 199,
-      "startSource": "youtube",
-      "endSource": "youtube",
-      "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": null,
-      "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "No_wGSDUbDQ",
-      "videoUrl": "https://www.youtube.com/watch?v=No_wGSDUbDQ",
-      "start": "2026-09-20T11:42:14Z",
-      "end": "2026-09-20T14:42:46Z",
-      "minutes": 180.5,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【SURGETown】そして最終日【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 110,
-      "avgViewers": 83.2,
       "isTargetGame": false
     }
   ]

@@ -1,82 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "yrVWI65KosM",
-      "start": "2026-09-23T03:18:20Z",
-      "startSource": "observed",
-      "title": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 745,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-23T03:18:20Z",
-      "lastSeenAt": "2026-09-23T04:59:25Z",
-      "samples": [
-        [
-          "2026-09-23T03:18:20Z",
-          502
-        ],
-        [
-          "2026-09-23T03:34:02Z",
-          733
-        ],
-        [
-          "2026-09-23T03:48:53Z",
-          655
-        ],
-        [
-          "2026-09-23T03:59:41Z",
-          711
-        ],
-        [
-          "2026-09-23T04:19:17Z",
-          745
-        ],
-        [
-          "2026-09-23T04:34:40Z",
-          699
-        ],
-        [
-          "2026-09-23T04:49:06Z",
-          675
-        ],
-        [
-          "2026-09-23T04:59:25Z",
-          672
-        ]
-      ]
-    },
-    "UCo3zRhsnXIieauvm6c-xwkA": {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "czSXlVbQMeg",
-      "start": "2026-09-23T04:34:40Z",
-      "startSource": "observed",
-      "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
-      "game": null,
-      "peakViewers": 87,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-23T04:34:40Z",
-      "lastSeenAt": "2026-09-23T04:59:25Z",
-      "samples": [
-        [
-          "2026-09-23T04:34:40Z",
-          40
-        ],
-        [
-          "2026-09-23T04:49:06Z",
-          75
-        ],
-        [
-          "2026-09-23T04:59:25Z",
-          87
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -19402,6 +19327,86 @@
       "peakViewers": null,
       "avgViewers": null,
       "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "yrVWI65KosM",
+      "videoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM",
+      "start": "2026-09-23T03:18:20Z",
+      "end": "2026-09-23T05:17:08Z",
+      "minutes": 118.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 745,
+      "avgViewers": 675.1,
+      "samples": [
+        [
+          "2026-09-23T03:18:20Z",
+          502
+        ],
+        [
+          "2026-09-23T03:34:02Z",
+          733
+        ],
+        [
+          "2026-09-23T03:48:53Z",
+          655
+        ],
+        [
+          "2026-09-23T03:59:41Z",
+          711
+        ],
+        [
+          "2026-09-23T04:19:17Z",
+          745
+        ],
+        [
+          "2026-09-23T04:34:40Z",
+          699
+        ],
+        [
+          "2026-09-23T04:49:06Z",
+          675
+        ],
+        [
+          "2026-09-23T04:59:25Z",
+          672
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "czSXlVbQMeg",
+      "videoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg",
+      "start": "2026-09-23T04:34:40Z",
+      "end": "2026-09-23T05:17:08Z",
+      "minutes": 42.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 87,
+      "avgViewers": 65.4,
+      "samples": [
+        [
+          "2026-09-23T04:34:40Z",
+          40
+        ],
+        [
+          "2026-09-23T04:49:06Z",
+          75
+        ],
+        [
+          "2026-09-23T04:59:25Z",
+          87
+        ]
+      ],
       "isTargetGame": false
     }
   ]
