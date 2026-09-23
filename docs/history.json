@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T02:59:05Z",
+  "updatedAt": "2026-09-23T03:18:20Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 0.0,
       "totalHours": 18.68,
       "gameHours": 0.0,
-      "sessions": 9,
+      "sessions": 10,
       "avgViewers": 132.2,
       "peakViewers": 980
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 189.81,
       "gameHours": 0.0,
-      "sessions": 53,
+      "sessions": 54,
       "avgViewers": 105.1,
       "peakViewers": 980
     },
@@ -38,7 +38,7 @@
       "gameMinutes": 9797.0,
       "totalHours": 939.02,
       "gameHours": 163.28,
-      "sessions": 331,
+      "sessions": 332,
       "avgViewers": 120.5,
       "peakViewers": 994
     }
@@ -49,9 +49,9 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-09-23T03:18:20Z",
+      "liveTitle": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
       "lastEnd": "2026-09-22T18:18:31Z",
       "lastTitle": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
       "buckets": {
@@ -60,25 +60,25 @@
           "gameMinutes": 0.0,
           "totalHours": 3.31,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 301.3,
-          "peakViewers": 384
+          "peakViewers": 502
         },
         "week": {
           "totalMinutes": 1469.7,
           "gameMinutes": 0.0,
           "totalHours": 24.49,
           "gameHours": 0.0,
-          "sessions": 6,
+          "sessions": 7,
           "avgViewers": 263.8,
-          "peakViewers": 453
+          "peakViewers": 502
         },
         "month": {
           "totalMinutes": 5727.6,
           "gameMinutes": 168.3,
           "totalHours": 95.46,
           "gameHours": 2.8,
-          "sessions": 27,
+          "sessions": 28,
           "avgViewers": 249.5,
           "peakViewers": 888
         }
@@ -519,7 +519,17 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 502,
+      "livePeakViewers": 502,
+      "liveAvgViewers": 502.0,
+      "liveSamples": [
+        [
+          "2026-09-23T03:18:20Z",
+          502
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
