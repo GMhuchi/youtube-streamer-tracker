@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:24:48Z",
+  "updatedAt": "2026-09-24T00:44:43Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1479.9,
+      "totalMinutes": 1499.8,
       "gameMinutes": 0.0,
-      "totalHours": 24.67,
+      "totalHours": 25.0,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 121.1,
+      "avgViewers": 119.7,
       "peakViewers": 352
     },
     "week": {
-      "totalMinutes": 16291.1,
+      "totalMinutes": 16311.0,
       "gameMinutes": 0.0,
-      "totalHours": 271.52,
+      "totalHours": 271.85,
       "gameHours": 0.0,
       "sessions": 76,
-      "avgViewers": 113.2,
+      "avgViewers": 113.1,
       "peakViewers": 980
     },
     "month": {
-      "totalMinutes": 61243.5,
+      "totalMinutes": 61263.4,
       "gameMinutes": 9797.0,
-      "totalHours": 1020.73,
+      "totalHours": 1021.06,
       "gameHours": 163.28,
       "sessions": 354,
       "avgViewers": 121.4,
@@ -56,30 +56,30 @@
       "lastTitle": "【最高アルマス リュウ レバー】成長痛を楽しんでいこうぜの会【LIVE】#スト6  【十神仁/ YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 19.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.33,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 14.0,
-          "peakViewers": 14
+          "avgViewers": 18.0,
+          "peakViewers": 22
         },
         "week": {
-          "totalMinutes": 369.1,
+          "totalMinutes": 389.1,
           "gameMinutes": 0.0,
-          "totalHours": 6.15,
+          "totalHours": 6.48,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 10.8,
-          "peakViewers": 20
+          "avgViewers": 11.2,
+          "peakViewers": 22
         },
         "month": {
-          "totalMinutes": 1311.6,
+          "totalMinutes": 1331.5,
           "gameMinutes": 559.9,
-          "totalHours": 21.86,
+          "totalHours": 22.19,
           "gameHours": 9.33,
           "sessions": 15,
-          "avgViewers": 12.7,
+          "avgViewers": 12.8,
           "peakViewers": 33
         }
       },
@@ -312,13 +312,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 14,
-      "livePeakViewers": 14,
-      "liveAvgViewers": 14.0,
+      "liveViewers": 22,
+      "livePeakViewers": 22,
+      "liveAvgViewers": 18.0,
       "liveSamples": [
         [
           "2026-09-24T00:24:48Z",
           14
+        ],
+        [
+          "2026-09-24T00:44:43Z",
+          22
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=qgSDpINrGFY"
