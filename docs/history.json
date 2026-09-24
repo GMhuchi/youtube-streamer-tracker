@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T23:59:47Z",
+  "updatedAt": "2026-09-24T00:24:48Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,74 +16,415 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1454.9,
+      "totalMinutes": 1479.9,
       "gameMinutes": 0.0,
-      "totalHours": 24.25,
+      "totalHours": 24.67,
       "gameHours": 0.0,
-      "sessions": 10,
-      "avgViewers": 118.9,
+      "sessions": 11,
+      "avgViewers": 121.1,
       "peakViewers": 352
     },
     "week": {
-      "totalMinutes": 16266.1,
+      "totalMinutes": 16291.1,
       "gameMinutes": 0.0,
-      "totalHours": 271.1,
+      "totalHours": 271.52,
       "gameHours": 0.0,
-      "sessions": 75,
-      "avgViewers": 113.0,
+      "sessions": 76,
+      "avgViewers": 113.2,
       "peakViewers": 980
     },
     "month": {
-      "totalMinutes": 61218.5,
+      "totalMinutes": 61243.5,
       "gameMinutes": 9797.0,
-      "totalHours": 1020.31,
+      "totalHours": 1020.73,
       "gameHours": 163.28,
-      "sessions": 353,
-      "avgViewers": 121.3,
+      "sessions": 354,
+      "avgViewers": 121.4,
       "peakViewers": 994
     }
   },
   "channels": [
     {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "isLive": true,
+      "liveSince": "2026-09-24T00:24:48Z",
+      "liveTitle": "【最高アルマス リュウ レバー】成長をする前は一度深く沈み込むんじゃよ【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "lastEnd": "2026-09-23T10:15:40Z",
+      "lastTitle": "【最高アルマス リュウ レバー】成長痛を楽しんでいこうぜの会【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 14.0,
+          "peakViewers": 14
+        },
+        "week": {
+          "totalMinutes": 369.1,
+          "gameMinutes": 0.0,
+          "totalHours": 6.15,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 10.8,
+          "peakViewers": 20
+        },
+        "month": {
+          "totalMinutes": 1311.6,
+          "gameMinutes": 559.9,
+          "totalHours": 21.86,
+          "gameHours": 9.33,
+          "sessions": 15,
+          "avgViewers": 12.7,
+          "peakViewers": 33
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "2Y-6W4WrQRA",
+          "videoUrl": "https://www.youtube.com/watch?v=2Y-6W4WrQRA",
+          "start": "2026-09-23T07:59:38Z",
+          "end": "2026-09-23T10:15:40Z",
+          "minutes": 136.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】成長痛を楽しんでいこうぜの会【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 15,
+          "avgViewers": 10.3,
+          "samples": [
+            [
+              "2026-09-23T07:59:38Z",
+              9
+            ],
+            [
+              "2026-09-23T08:19:40Z",
+              11
+            ],
+            [
+              "2026-09-23T08:35:16Z",
+              15
+            ],
+            [
+              "2026-09-23T08:49:45Z",
+              10
+            ],
+            [
+              "2026-09-23T09:00:35Z",
+              11
+            ],
+            [
+              "2026-09-23T09:22:45Z",
+              11
+            ],
+            [
+              "2026-09-23T09:41:12Z",
+              9
+            ],
+            [
+              "2026-09-23T09:57:14Z",
+              7
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "4kvdahInJxw",
+          "videoUrl": "https://www.youtube.com/watch?v=4kvdahInJxw",
+          "start": "2026-09-22T11:58:05Z",
+          "end": "2026-09-22T14:22:59Z",
+          "minutes": 144.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】夜にやるスト６もいいもんですよ【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 10.0,
+          "samples": [
+            [
+              "2026-09-22T11:58:05Z",
+              3
+            ],
+            [
+              "2026-09-22T12:22:00Z",
+              10
+            ],
+            [
+              "2026-09-22T12:44:14Z",
+              13
+            ],
+            [
+              "2026-09-22T12:59:08Z",
+              17
+            ],
+            [
+              "2026-09-22T13:19:15Z",
+              10
+            ],
+            [
+              "2026-09-22T13:34:44Z",
+              8
+            ],
+            [
+              "2026-09-22T13:49:54Z",
+              9
+            ],
+            [
+              "2026-09-22T14:00:28Z",
+              11
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "jLQ-zR6Wr9Q",
+          "videoUrl": "https://www.youtube.com/watch?v=jLQ-zR6Wr9Q",
+          "start": "2026-09-21T21:46:07Z",
+          "end": "2026-09-21T23:14:19Z",
+          "minutes": 88.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】台風のあとはMRがあがるらしい、しらんけど【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 20,
+          "avgViewers": 13,
+          "samples": [
+            [
+              "2026-09-21T21:46:07Z",
+              6
+            ],
+            [
+              "2026-09-21T21:56:59Z",
+              8
+            ],
+            [
+              "2026-09-21T22:14:33Z",
+              11
+            ],
+            [
+              "2026-09-21T22:30:49Z",
+              15
+            ],
+            [
+              "2026-09-21T22:46:46Z",
+              19
+            ],
+            [
+              "2026-09-21T22:57:19Z",
+              20
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "wDUlJGAENds",
+          "videoUrl": "https://www.youtube.com/watch?v=wDUlJGAENds",
+          "start": "2026-09-19T11:00:24Z",
+          "end": "2026-09-19T11:36:14Z",
+          "minutes": 35.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メンバー限定】9月も半分終わりましたねメン限雑談！！",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "zIHvY_BaHGM",
+          "videoUrl": "https://www.youtube.com/watch?v=zIHvY_BaHGM",
+          "start": "2026-09-17T23:10:07Z",
+          "end": "2026-09-18T01:16:04Z",
+          "minutes": 126,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】次はアルマス1900目指す【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 26,
+          "avgViewers": 20.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "KQ8qN6UIV-U",
+          "videoUrl": "https://www.youtube.com/watch?v=KQ8qN6UIV-U",
+          "start": "2026-09-16T22:47:21Z",
+          "end": "2026-09-17T00:56:14Z",
+          "minutes": 128.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】ブランクを取り戻す！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 16.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "obZTffLh1hE",
+          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
+          "start": "2026-09-16T13:02:30Z",
+          "end": "2026-09-16T13:24:39Z",
+          "minutes": 22.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 9,
+          "avgViewers": 9,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "obZTffLh1hE",
+          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
+          "start": "2026-09-16T10:23:47Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 146.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 8.4,
+          "samples": [],
+          "isTargetGame": true
+        }
+      ],
+      "liveViewers": 14,
+      "livePeakViewers": 14,
+      "liveAvgViewers": 14.0,
+      "liveSamples": [
+        [
+          "2026-09-24T00:24:48Z",
+          14
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=qgSDpINrGFY"
+    },
+    {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-09-23T21:46:34Z",
-      "liveTitle": "〖 てともに╎#8 〗 今日は短めのてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-23T11:18:40Z",
-      "lastTitle": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-24T00:24:48Z",
+      "lastTitle": "〖 てともに╎#8 〗 今日は短めのてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 133.2,
+          "totalMinutes": 158.2,
           "gameMinutes": 0.0,
-          "totalHours": 2.22,
+          "totalHours": 2.64,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 251.5,
           "peakViewers": 292
         },
         "week": {
-          "totalMinutes": 2068.0,
+          "totalMinutes": 2093.0,
           "gameMinutes": 0.0,
-          "totalHours": 34.47,
+          "totalHours": 34.88,
           "gameHours": 0.0,
           "sessions": 9,
-          "avgViewers": 335.1,
+          "avgViewers": 334.1,
           "peakViewers": 784
         },
         "month": {
-          "totalMinutes": 6326.0,
+          "totalMinutes": 6351.0,
           "gameMinutes": 168.3,
-          "totalHours": 105.43,
+          "totalHours": 105.85,
           "gameHours": 2.8,
           "sessions": 30,
-          "avgViewers": 277.8,
+          "avgViewers": 277.7,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "eEjXYqdBoRU",
+          "videoUrl": "https://www.youtube.com/watch?v=eEjXYqdBoRU",
+          "start": "2026-09-23T21:46:34Z",
+          "end": "2026-09-24T00:24:48Z",
+          "minutes": 158.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 てともに╎#8 〗 今日は短めのてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 292,
+          "avgViewers": 251.5,
+          "samples": [
+            [
+              "2026-09-23T21:46:34Z",
+              156
+            ],
+            [
+              "2026-09-23T21:57:04Z",
+              211
+            ],
+            [
+              "2026-09-23T22:14:46Z",
+              267
+            ],
+            [
+              "2026-09-23T22:29:40Z",
+              292
+            ],
+            [
+              "2026-09-23T22:43:29Z",
+              291
+            ],
+            [
+              "2026-09-23T22:55:48Z",
+              277
+            ],
+            [
+              "2026-09-23T23:10:01Z",
+              255
+            ],
+            [
+              "2026-09-23T23:22:28Z",
+              264
+            ],
+            [
+              "2026-09-23T23:37:45Z",
+              248
+            ],
+            [
+              "2026-09-23T23:48:41Z",
+              253
+            ],
+            [
+              "2026-09-23T23:59:47Z",
+              242
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -250,128 +591,7 @@
           "game": null,
           "peakViewers": 384,
           "avgViewers": 301.3,
-          "samples": [
-            [
-              "2026-09-22T10:12:34Z",
-              123
-            ],
-            [
-              "2026-09-22T10:32:38Z",
-              260
-            ],
-            [
-              "2026-09-22T10:49:17Z",
-              384
-            ],
-            [
-              "2026-09-22T10:59:40Z",
-              351
-            ],
-            [
-              "2026-09-22T11:18:11Z",
-              367
-            ],
-            [
-              "2026-09-22T11:32:46Z",
-              363
-            ],
-            [
-              "2026-09-22T11:47:23Z",
-              372
-            ],
-            [
-              "2026-09-22T11:58:05Z",
-              348
-            ],
-            [
-              "2026-09-22T12:22:00Z",
-              301
-            ],
-            [
-              "2026-09-22T12:44:14Z",
-              286
-            ],
-            [
-              "2026-09-22T12:59:08Z",
-              269
-            ],
-            [
-              "2026-09-22T13:19:15Z",
-              270
-            ],
-            [
-              "2026-09-22T13:34:44Z",
-              282
-            ],
-            [
-              "2026-09-22T13:49:54Z",
-              276
-            ],
-            [
-              "2026-09-22T14:00:28Z",
-              254
-            ],
-            [
-              "2026-09-22T14:22:59Z",
-              269
-            ],
-            [
-              "2026-09-22T14:42:49Z",
-              270
-            ],
-            [
-              "2026-09-22T14:58:23Z",
-              257
-            ],
-            [
-              "2026-09-22T15:17:25Z",
-              273
-            ],
-            [
-              "2026-09-22T15:31:59Z",
-              279
-            ],
-            [
-              "2026-09-22T15:47:46Z",
-              319
-            ],
-            [
-              "2026-09-22T15:58:25Z",
-              317
-            ],
-            [
-              "2026-09-22T16:17:53Z",
-              349
-            ],
-            [
-              "2026-09-22T16:34:28Z",
-              341
-            ],
-            [
-              "2026-09-22T16:48:42Z",
-              317
-            ],
-            [
-              "2026-09-22T16:59:11Z",
-              332
-            ],
-            [
-              "2026-09-22T17:16:33Z",
-              357
-            ],
-            [
-              "2026-09-22T17:30:58Z",
-              327
-            ],
-            [
-              "2026-09-22T17:46:22Z",
-              306
-            ],
-            [
-              "2026-09-22T17:56:52Z",
-              343
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -441,75 +661,8 @@
           "avgViewers": 113.6,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "o5ljq-xCrHM",
-          "videoUrl": "https://www.youtube.com/watch?v=o5ljq-xCrHM",
-          "start": "2026-09-20T12:03:51Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 158.9,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "〖 メン限 〗 耳元雑談👂を予定 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 242,
-      "livePeakViewers": 292,
-      "liveAvgViewers": 251.5,
-      "liveSamples": [
-        [
-          "2026-09-23T21:46:34Z",
-          156
-        ],
-        [
-          "2026-09-23T21:57:04Z",
-          211
-        ],
-        [
-          "2026-09-23T22:14:46Z",
-          267
-        ],
-        [
-          "2026-09-23T22:29:40Z",
-          292
-        ],
-        [
-          "2026-09-23T22:43:29Z",
-          291
-        ],
-        [
-          "2026-09-23T22:55:48Z",
-          277
-        ],
-        [
-          "2026-09-23T23:10:01Z",
-          255
-        ],
-        [
-          "2026-09-23T23:22:28Z",
-          264
-        ],
-        [
-          "2026-09-23T23:37:45Z",
-          248
-        ],
-        [
-          "2026-09-23T23:48:41Z",
-          253
-        ],
-        [
-          "2026-09-23T23:59:47Z",
-          242
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=eEjXYqdBoRU"
+      ]
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -6225,275 +6378,6 @@
       ]
     },
     {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-23T10:15:40Z",
-      "lastTitle": "【最高アルマス リュウ レバー】成長痛を楽しんでいこうぜの会【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 369.1,
-          "gameMinutes": 0.0,
-          "totalHours": 6.15,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 10.8,
-          "peakViewers": 20
-        },
-        "month": {
-          "totalMinutes": 1311.5,
-          "gameMinutes": 559.9,
-          "totalHours": 21.86,
-          "gameHours": 9.33,
-          "sessions": 14,
-          "avgViewers": 12.7,
-          "peakViewers": 33
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "2Y-6W4WrQRA",
-          "videoUrl": "https://www.youtube.com/watch?v=2Y-6W4WrQRA",
-          "start": "2026-09-23T07:59:38Z",
-          "end": "2026-09-23T10:15:40Z",
-          "minutes": 136.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】成長痛を楽しんでいこうぜの会【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 15,
-          "avgViewers": 10.3,
-          "samples": [
-            [
-              "2026-09-23T07:59:38Z",
-              9
-            ],
-            [
-              "2026-09-23T08:19:40Z",
-              11
-            ],
-            [
-              "2026-09-23T08:35:16Z",
-              15
-            ],
-            [
-              "2026-09-23T08:49:45Z",
-              10
-            ],
-            [
-              "2026-09-23T09:00:35Z",
-              11
-            ],
-            [
-              "2026-09-23T09:22:45Z",
-              11
-            ],
-            [
-              "2026-09-23T09:41:12Z",
-              9
-            ],
-            [
-              "2026-09-23T09:57:14Z",
-              7
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "4kvdahInJxw",
-          "videoUrl": "https://www.youtube.com/watch?v=4kvdahInJxw",
-          "start": "2026-09-22T11:58:05Z",
-          "end": "2026-09-22T14:22:59Z",
-          "minutes": 144.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】夜にやるスト６もいいもんですよ【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 10.0,
-          "samples": [
-            [
-              "2026-09-22T11:58:05Z",
-              3
-            ],
-            [
-              "2026-09-22T12:22:00Z",
-              10
-            ],
-            [
-              "2026-09-22T12:44:14Z",
-              13
-            ],
-            [
-              "2026-09-22T12:59:08Z",
-              17
-            ],
-            [
-              "2026-09-22T13:19:15Z",
-              10
-            ],
-            [
-              "2026-09-22T13:34:44Z",
-              8
-            ],
-            [
-              "2026-09-22T13:49:54Z",
-              9
-            ],
-            [
-              "2026-09-22T14:00:28Z",
-              11
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "jLQ-zR6Wr9Q",
-          "videoUrl": "https://www.youtube.com/watch?v=jLQ-zR6Wr9Q",
-          "start": "2026-09-21T21:46:07Z",
-          "end": "2026-09-21T23:14:19Z",
-          "minutes": 88.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】台風のあとはMRがあがるらしい、しらんけど【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 20,
-          "avgViewers": 13,
-          "samples": [
-            [
-              "2026-09-21T21:46:07Z",
-              6
-            ],
-            [
-              "2026-09-21T21:56:59Z",
-              8
-            ],
-            [
-              "2026-09-21T22:14:33Z",
-              11
-            ],
-            [
-              "2026-09-21T22:30:49Z",
-              15
-            ],
-            [
-              "2026-09-21T22:46:46Z",
-              19
-            ],
-            [
-              "2026-09-21T22:57:19Z",
-              20
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "wDUlJGAENds",
-          "videoUrl": "https://www.youtube.com/watch?v=wDUlJGAENds",
-          "start": "2026-09-19T11:00:24Z",
-          "end": "2026-09-19T11:36:14Z",
-          "minutes": 35.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メンバー限定】9月も半分終わりましたねメン限雑談！！",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "zIHvY_BaHGM",
-          "videoUrl": "https://www.youtube.com/watch?v=zIHvY_BaHGM",
-          "start": "2026-09-17T23:10:07Z",
-          "end": "2026-09-18T01:16:04Z",
-          "minutes": 126,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】次はアルマス1900目指す【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 20.1,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "KQ8qN6UIV-U",
-          "videoUrl": "https://www.youtube.com/watch?v=KQ8qN6UIV-U",
-          "start": "2026-09-16T22:47:21Z",
-          "end": "2026-09-17T00:56:14Z",
-          "minutes": 128.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】ブランクを取り戻す！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 16.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "obZTffLh1hE",
-          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
-          "start": "2026-09-16T13:02:30Z",
-          "end": "2026-09-16T13:24:39Z",
-          "minutes": 22.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 9,
-          "avgViewers": 9,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "obZTffLh1hE",
-          "videoUrl": "https://www.youtube.com/watch?v=obZTffLh1hE",
-          "start": "2026-09-16T10:23:47Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 146.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン 本番！！ 】力を開放するとき チーム4280円【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 8.4,
-          "samples": [],
-          "isTargetGame": true
-        }
-      ]
-    },
-    {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
       "registered": true,
@@ -7154,6 +7038,22 @@
     }
   ],
   "recentSessions": [
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "eEjXYqdBoRU",
+      "videoUrl": "https://www.youtube.com/watch?v=eEjXYqdBoRU",
+      "start": "2026-09-23T21:46:34Z",
+      "end": "2026-09-24T00:24:48Z",
+      "minutes": 158.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 てともに╎#8 〗 今日は短めのてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 292,
+      "avgViewers": 251.5,
+      "isTargetGame": false
+    },
     {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
@@ -8096,22 +7996,6 @@
       "game": null,
       "peakViewers": 157,
       "avgViewers": 144.8,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "0cCf7yRDP6A",
-      "videoUrl": "https://www.youtube.com/watch?v=0cCf7yRDP6A",
-      "start": "2026-09-20T16:13:02Z",
-      "end": "2026-09-20T18:58:04Z",
-      "minutes": 165,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 143,
-      "avgViewers": 113.6,
       "isTargetGame": false
     }
   ]
