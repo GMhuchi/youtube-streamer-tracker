@@ -1,7 +1,65 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "0zWUqDRJ7TU",
+      "start": "2026-09-24T09:18:34Z",
+      "startSource": "observed",
+      "title": "【#天下無双ARK】5日目：ARK逆張りルートはこちらです🦖！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 15,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-24T09:18:34Z",
+      "lastSeenAt": "2026-09-24T09:18:34Z",
+      "samples": [
+        [
+          "2026-09-24T09:18:34Z",
+          15
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "zR5edhVXIk4",
+      "start": "2026-09-24T09:18:34Z",
+      "startSource": "observed",
+      "title": "【 #天下無双ARK : 6日目 】虫は嫌だ虫は嫌だ虫は嫌だ【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 35,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-24T09:18:34Z",
+      "lastSeenAt": "2026-09-24T09:18:34Z",
+      "samples": [
+        [
+          "2026-09-24T09:18:34Z",
+          35
+        ]
+      ]
+    },
+    "UC1_HUmjQShLtT_MuZjry3hQ": {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "o44LPaWP3w4",
+      "start": "2026-09-24T09:18:34Z",
+      "startSource": "observed",
+      "title": "【 天下無双ARK 】唐揚げにレモンをかけるの先生 見守り担当【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 16,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-24T09:18:34Z",
+      "lastSeenAt": "2026-09-24T09:18:34Z",
+      "samples": [
+        [
+          "2026-09-24T09:18:34Z",
+          16
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
