@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "LZmO4BNvbX0",
+      "start": "2026-09-24T22:38:58Z",
+      "startSource": "observed",
+      "title": "【朝枠】おはよおおお【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 156,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-24T22:38:58Z",
+      "lastSeenAt": "2026-09-24T22:38:58Z",
+      "samples": [
+        [
+          "2026-09-24T22:38:58Z",
+          156
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
