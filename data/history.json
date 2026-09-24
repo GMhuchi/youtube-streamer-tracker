@@ -1,59 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "qgSDpINrGFY",
-      "start": "2026-09-24T00:24:48Z",
-      "startSource": "observed",
-      "title": "【最高アルマス リュウ レバー】成長をする前は一度深く沈み込むんじゃよ【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 28,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-24T00:24:48Z",
-      "lastSeenAt": "2026-09-24T02:33:40Z",
-      "samples": [
-        [
-          "2026-09-24T00:24:48Z",
-          14
-        ],
-        [
-          "2026-09-24T00:44:43Z",
-          22
-        ],
-        [
-          "2026-09-24T00:58:34Z",
-          13
-        ],
-        [
-          "2026-09-24T01:16:37Z",
-          21
-        ],
-        [
-          "2026-09-24T01:31:40Z",
-          18
-        ],
-        [
-          "2026-09-24T01:48:44Z",
-          21
-        ],
-        [
-          "2026-09-24T01:59:41Z",
-          25
-        ],
-        [
-          "2026-09-24T02:18:25Z",
-          23
-        ],
-        [
-          "2026-09-24T02:33:40Z",
-          28
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -20916,6 +20864,60 @@
         [
           "2026-09-23T23:59:47Z",
           242
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "qgSDpINrGFY",
+      "videoUrl": "https://www.youtube.com/watch?v=qgSDpINrGFY",
+      "start": "2026-09-24T00:24:48Z",
+      "end": "2026-09-24T02:49:10Z",
+      "minutes": 144.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【最高アルマス リュウ レバー】成長をする前は一度深く沈み込むんじゃよ【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 28,
+      "avgViewers": 20.3,
+      "samples": [
+        [
+          "2026-09-24T00:24:48Z",
+          14
+        ],
+        [
+          "2026-09-24T00:44:43Z",
+          22
+        ],
+        [
+          "2026-09-24T00:58:34Z",
+          13
+        ],
+        [
+          "2026-09-24T01:16:37Z",
+          21
+        ],
+        [
+          "2026-09-24T01:31:40Z",
+          18
+        ],
+        [
+          "2026-09-24T01:48:44Z",
+          21
+        ],
+        [
+          "2026-09-24T01:59:41Z",
+          25
+        ],
+        [
+          "2026-09-24T02:18:25Z",
+          23
+        ],
+        [
+          "2026-09-24T02:33:40Z",
+          28
         ]
       ],
       "isTargetGame": false
