@@ -2,45 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "LZmO4BNvbX0",
-      "start": "2026-09-24T22:38:58Z",
-      "startSource": "observed",
-      "title": "【朝枠】おはよおおお【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 319,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-24T22:38:58Z",
-      "lastSeenAt": "2026-09-24T23:56:04Z",
-      "samples": [
-        [
-          "2026-09-24T22:38:58Z",
-          156
-        ],
-        [
-          "2026-09-24T22:51:57Z",
-          209
-        ],
-        [
-          "2026-09-24T23:10:36Z",
-          250
-        ],
-        [
-          "2026-09-24T23:29:41Z",
-          290
-        ],
-        [
-          "2026-09-24T23:42:58Z",
-          291
-        ],
-        [
-          "2026-09-24T23:56:04Z",
-          319
-        ]
-      ]
-    },
     "UC9jM73Rqa_4Ec4PknBHG9pQ": {
       "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
       "name": "十神仁",
@@ -49,10 +10,10 @@
       "startSource": "observed",
       "title": "【最高アルマス リュウ レバー】旋風脚、少しは馴染んできたか...？【LIVE】#スト6  【十神仁/ YUMENOS】",
       "game": null,
-      "peakViewers": 12,
+      "peakViewers": 18,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-24T23:42:58Z",
-      "lastSeenAt": "2026-09-24T23:56:04Z",
+      "lastSeenAt": "2026-09-25T00:19:27Z",
       "samples": [
         [
           "2026-09-24T23:42:58Z",
@@ -61,6 +22,10 @@
         [
           "2026-09-24T23:56:04Z",
           12
+        ],
+        [
+          "2026-09-25T00:19:27Z",
+          18
         ]
       ]
     }
@@ -22077,6 +22042,48 @@
         [
           "2026-09-24T17:47:16Z",
           39
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "LZmO4BNvbX0",
+      "videoUrl": "https://www.youtube.com/watch?v=LZmO4BNvbX0",
+      "start": "2026-09-24T22:38:58Z",
+      "end": "2026-09-25T00:19:27Z",
+      "minutes": 100.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝枠】おはよおおお【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 319,
+      "avgViewers": 251.6,
+      "samples": [
+        [
+          "2026-09-24T22:38:58Z",
+          156
+        ],
+        [
+          "2026-09-24T22:51:57Z",
+          209
+        ],
+        [
+          "2026-09-24T23:10:36Z",
+          250
+        ],
+        [
+          "2026-09-24T23:29:41Z",
+          290
+        ],
+        [
+          "2026-09-24T23:42:58Z",
+          291
+        ],
+        [
+          "2026-09-24T23:56:04Z",
+          319
         ]
       ],
       "isTargetGame": false
