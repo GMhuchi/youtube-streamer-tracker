@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:19:27Z",
+  "updatedAt": "2026-09-25T00:40:26Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,361 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1443.6,
+      "totalMinutes": 1464.6,
       "gameMinutes": 0.0,
-      "totalHours": 24.06,
+      "totalHours": 24.41,
       "gameHours": 0.0,
-      "sessions": 10,
-      "avgViewers": 89.6,
+      "sessions": 11,
+      "avgViewers": 88.6,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 20380.3,
+      "totalMinutes": 20401.3,
       "gameMinutes": 0.0,
-      "totalHours": 339.67,
+      "totalHours": 340.02,
       "gameHours": 0.0,
-      "sessions": 92,
-      "avgViewers": 106.1,
+      "sessions": 93,
+      "avgViewers": 106.0,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 65332.7,
+      "totalMinutes": 65353.7,
       "gameMinutes": 9797.0,
-      "totalHours": 1088.88,
+      "totalHours": 1089.23,
       "gameHours": 163.28,
-      "sessions": 370,
+      "sessions": 371,
       "avgViewers": 118.6,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
+      "isLive": true,
+      "liveSince": "2026-09-25T00:40:26Z",
+      "liveTitle": "【 #縦型雑談 】喋ったりラジバンダリ朝活？昼活？ #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
+      "lastEnd": "2026-09-23T13:56:29Z",
+      "lastTitle": "【 #天下無双ARK 】ワイバーン全種類テイムする！！！ Day4 【 #輝七瀬 / RIONECTION】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 9.0,
+          "peakViewers": 9
+        },
+        "week": {
+          "totalMinutes": 704.7,
+          "gameMinutes": 0.0,
+          "totalHours": 11.74,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 7.1,
+          "peakViewers": 47
+        },
+        "month": {
+          "totalMinutes": 2014.8,
+          "gameMinutes": 436.1,
+          "totalHours": 33.58,
+          "gameHours": 7.27,
+          "sessions": 14,
+          "avgViewers": 7.0,
+          "peakViewers": 47
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "KA8Kw-_YuLM",
+          "videoUrl": "https://www.youtube.com/watch?v=KA8Kw-_YuLM",
+          "start": "2026-09-23T10:15:40Z",
+          "end": "2026-09-23T13:56:29Z",
+          "minutes": 220.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】ワイバーン全種類テイムする！！！ Day4 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 7.5,
+          "samples": [
+            [
+              "2026-09-23T10:15:40Z",
+              6
+            ],
+            [
+              "2026-09-23T10:32:10Z",
+              12
+            ],
+            [
+              "2026-09-23T10:49:27Z",
+              5
+            ],
+            [
+              "2026-09-23T11:00:01Z",
+              6
+            ],
+            [
+              "2026-09-23T11:18:40Z",
+              7
+            ],
+            [
+              "2026-09-23T11:33:39Z",
+              7
+            ],
+            [
+              "2026-09-23T11:48:57Z",
+              7
+            ],
+            [
+              "2026-09-23T11:59:37Z",
+              7
+            ],
+            [
+              "2026-09-23T12:23:23Z",
+              9
+            ],
+            [
+              "2026-09-23T12:44:43Z",
+              7
+            ],
+            [
+              "2026-09-23T12:59:38Z",
+              7
+            ],
+            [
+              "2026-09-23T13:20:38Z",
+              6
+            ],
+            [
+              "2026-09-23T13:41:22Z",
+              11
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "DnzvEx8rj2c",
+          "videoUrl": "https://www.youtube.com/watch?v=DnzvEx8rj2c",
+          "start": "2026-09-22T10:12:34Z",
+          "end": "2026-09-22T10:32:38Z",
+          "minutes": 20.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#うちらが時代卍歌枠リレー】王。【 #輝七瀬 / RIONECTION 】",
+          "game": null,
+          "peakViewers": 47,
+          "avgViewers": 47.0,
+          "samples": [
+            [
+              "2026-09-22T10:12:34Z",
+              47
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "iGzxsDgdYEM",
+          "videoUrl": "https://www.youtube.com/watch?v=iGzxsDgdYEM",
+          "start": "2026-09-21T08:49:22Z",
+          "end": "2026-09-21T14:19:25Z",
+          "minutes": 330.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】ドレッドメアとか捕まえる Day3 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 5.3,
+          "samples": [
+            [
+              "2026-09-21T08:49:22Z",
+              8
+            ],
+            [
+              "2026-09-21T09:00:13Z",
+              8
+            ],
+            [
+              "2026-09-21T09:23:27Z",
+              6
+            ],
+            [
+              "2026-09-21T09:40:36Z",
+              6
+            ],
+            [
+              "2026-09-21T09:56:55Z",
+              5
+            ],
+            [
+              "2026-09-21T10:15:09Z",
+              2
+            ],
+            [
+              "2026-09-21T10:31:15Z",
+              4
+            ],
+            [
+              "2026-09-21T10:47:59Z",
+              8
+            ],
+            [
+              "2026-09-21T10:58:28Z",
+              4
+            ],
+            [
+              "2026-09-21T11:18:06Z",
+              7
+            ],
+            [
+              "2026-09-21T11:34:05Z",
+              5
+            ],
+            [
+              "2026-09-21T11:48:59Z",
+              5
+            ],
+            [
+              "2026-09-21T11:59:51Z",
+              3
+            ],
+            [
+              "2026-09-21T12:22:39Z",
+              4
+            ],
+            [
+              "2026-09-21T12:42:07Z",
+              3
+            ],
+            [
+              "2026-09-21T12:57:49Z",
+              8
+            ],
+            [
+              "2026-09-21T13:16:18Z",
+              6
+            ],
+            [
+              "2026-09-21T13:31:50Z",
+              6
+            ],
+            [
+              "2026-09-21T13:49:05Z",
+              4
+            ],
+            [
+              "2026-09-21T13:59:52Z",
+              6
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "1AkAZfNPY98",
+          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T17:13:45Z",
+          "minutes": 137.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 4.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "1AkAZfNPY98",
+          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
+          "start": "2026-09-20T08:47:38Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 355.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 6.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "HAG2AJ2csVU",
+          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T17:27:50Z",
+          "minutes": 15.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "HAG2AJ2csVU",
+          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 246.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 15,
+          "avgViewers": 6.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "HAG2AJ2csVU",
+          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
+          "start": "2026-09-19T09:30:05Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 184.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 5.5,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 9,
+      "livePeakViewers": 9,
+      "liveAvgViewers": 9.0,
+      "liveSamples": [
+        [
+          "2026-09-25T00:40:26Z",
+          9
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=DdrYncCnMl8"
+    },
     {
       "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
       "name": "十神仁",
@@ -56,30 +383,30 @@
       "lastTitle": "【Coffee Talk Tokyo】人の成長を見ることができるいいゲームです【ゲーム実況】※ネタバレを含む",
       "buckets": {
         "today": {
-          "totalMinutes": 36.5,
+          "totalMinutes": 57.5,
           "gameMinutes": 0.0,
-          "totalHours": 0.61,
+          "totalHours": 0.96,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 13.0,
-          "peakViewers": 18
+          "avgViewers": 15.0,
+          "peakViewers": 20
         },
         "week": {
-          "totalMinutes": 627.5,
+          "totalMinutes": 648.5,
           "gameMinutes": 0.0,
-          "totalHours": 10.46,
+          "totalHours": 10.81,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 12.7,
+          "avgViewers": 12.9,
           "peakViewers": 28
         },
         "month": {
-          "totalMinutes": 1569.9,
+          "totalMinutes": 1590.9,
           "gameMinutes": 559.9,
-          "totalHours": 26.16,
+          "totalHours": 26.51,
           "gameHours": 9.33,
           "sessions": 17,
-          "avgViewers": 13.2,
+          "avgViewers": 13.3,
           "peakViewers": 33
         }
       },
@@ -308,9 +635,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 18,
-      "livePeakViewers": 18,
-      "liveAvgViewers": 13.0,
+      "liveViewers": 20,
+      "livePeakViewers": 20,
+      "liveAvgViewers": 15.0,
       "liveSamples": [
         [
           "2026-09-24T23:42:58Z",
@@ -323,6 +650,10 @@
         [
           "2026-09-25T00:19:27Z",
           18
+        ],
+        [
+          "2026-09-25T00:40:26Z",
+          20
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=1JF3nEcqLTI"
@@ -5392,323 +5723,6 @@
           "avgViewers": 19.4,
           "samples": [],
           "isTargetGame": true
-        }
-      ]
-    },
-    {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-23T13:56:29Z",
-      "lastTitle": "【 #天下無双ARK 】ワイバーン全種類テイムする！！！ Day4 【 #輝七瀬 / RIONECTION】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 704.7,
-          "gameMinutes": 0.0,
-          "totalHours": 11.74,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 7.1,
-          "peakViewers": 47
-        },
-        "month": {
-          "totalMinutes": 2014.8,
-          "gameMinutes": 436.1,
-          "totalHours": 33.58,
-          "gameHours": 7.27,
-          "sessions": 13,
-          "avgViewers": 7.0,
-          "peakViewers": 47
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "KA8Kw-_YuLM",
-          "videoUrl": "https://www.youtube.com/watch?v=KA8Kw-_YuLM",
-          "start": "2026-09-23T10:15:40Z",
-          "end": "2026-09-23T13:56:29Z",
-          "minutes": 220.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】ワイバーン全種類テイムする！！！ Day4 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 7.5,
-          "samples": [
-            [
-              "2026-09-23T10:15:40Z",
-              6
-            ],
-            [
-              "2026-09-23T10:32:10Z",
-              12
-            ],
-            [
-              "2026-09-23T10:49:27Z",
-              5
-            ],
-            [
-              "2026-09-23T11:00:01Z",
-              6
-            ],
-            [
-              "2026-09-23T11:18:40Z",
-              7
-            ],
-            [
-              "2026-09-23T11:33:39Z",
-              7
-            ],
-            [
-              "2026-09-23T11:48:57Z",
-              7
-            ],
-            [
-              "2026-09-23T11:59:37Z",
-              7
-            ],
-            [
-              "2026-09-23T12:23:23Z",
-              9
-            ],
-            [
-              "2026-09-23T12:44:43Z",
-              7
-            ],
-            [
-              "2026-09-23T12:59:38Z",
-              7
-            ],
-            [
-              "2026-09-23T13:20:38Z",
-              6
-            ],
-            [
-              "2026-09-23T13:41:22Z",
-              11
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "DnzvEx8rj2c",
-          "videoUrl": "https://www.youtube.com/watch?v=DnzvEx8rj2c",
-          "start": "2026-09-22T10:12:34Z",
-          "end": "2026-09-22T10:32:38Z",
-          "minutes": 20.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#うちらが時代卍歌枠リレー】王。【 #輝七瀬 / RIONECTION 】",
-          "game": null,
-          "peakViewers": 47,
-          "avgViewers": 47.0,
-          "samples": [
-            [
-              "2026-09-22T10:12:34Z",
-              47
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "iGzxsDgdYEM",
-          "videoUrl": "https://www.youtube.com/watch?v=iGzxsDgdYEM",
-          "start": "2026-09-21T08:49:22Z",
-          "end": "2026-09-21T14:19:25Z",
-          "minutes": 330.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】ドレッドメアとか捕まえる Day3 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 5.3,
-          "samples": [
-            [
-              "2026-09-21T08:49:22Z",
-              8
-            ],
-            [
-              "2026-09-21T09:00:13Z",
-              8
-            ],
-            [
-              "2026-09-21T09:23:27Z",
-              6
-            ],
-            [
-              "2026-09-21T09:40:36Z",
-              6
-            ],
-            [
-              "2026-09-21T09:56:55Z",
-              5
-            ],
-            [
-              "2026-09-21T10:15:09Z",
-              2
-            ],
-            [
-              "2026-09-21T10:31:15Z",
-              4
-            ],
-            [
-              "2026-09-21T10:47:59Z",
-              8
-            ],
-            [
-              "2026-09-21T10:58:28Z",
-              4
-            ],
-            [
-              "2026-09-21T11:18:06Z",
-              7
-            ],
-            [
-              "2026-09-21T11:34:05Z",
-              5
-            ],
-            [
-              "2026-09-21T11:48:59Z",
-              5
-            ],
-            [
-              "2026-09-21T11:59:51Z",
-              3
-            ],
-            [
-              "2026-09-21T12:22:39Z",
-              4
-            ],
-            [
-              "2026-09-21T12:42:07Z",
-              3
-            ],
-            [
-              "2026-09-21T12:57:49Z",
-              8
-            ],
-            [
-              "2026-09-21T13:16:18Z",
-              6
-            ],
-            [
-              "2026-09-21T13:31:50Z",
-              6
-            ],
-            [
-              "2026-09-21T13:49:05Z",
-              4
-            ],
-            [
-              "2026-09-21T13:59:52Z",
-              6
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "1AkAZfNPY98",
-          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T17:13:45Z",
-          "minutes": 137.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 4.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "1AkAZfNPY98",
-          "videoUrl": "https://www.youtube.com/watch?v=1AkAZfNPY98",
-          "start": "2026-09-20T08:47:38Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 355.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】皆のアルゲンを捕まえたりかっこいい恐竜を捕まえたい Day2 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 6.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "HAG2AJ2csVU",
-          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T17:27:50Z",
-          "minutes": 15.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "HAG2AJ2csVU",
-          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 246.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 15,
-          "avgViewers": 6.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "HAG2AJ2csVU",
-          "videoUrl": "https://www.youtube.com/watch?v=HAG2AJ2csVU",
-          "start": "2026-09-19T09:30:05Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 184.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】主催じゃない方のななせです、どんな恐竜がいるのだろうか！！！！ 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 5.5,
-          "samples": [],
-          "isTargetGame": false
         }
       ]
     },
