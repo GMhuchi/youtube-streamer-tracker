@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:50:37Z",
+  "updatedAt": "2026-09-25T14:12:18Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3834.7,
+      "totalMinutes": 4029.9,
       "gameMinutes": 0.0,
-      "totalHours": 63.91,
+      "totalHours": 67.16,
       "gameHours": 0.0,
-      "sessions": 26,
-      "avgViewers": 103.4,
+      "sessions": 28,
+      "avgViewers": 101.9,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 22771.3,
+      "totalMinutes": 22966.5,
       "gameMinutes": 0.0,
-      "totalHours": 379.52,
+      "totalHours": 382.78,
       "gameHours": 0.0,
-      "sessions": 108,
-      "avgViewers": 106.7,
+      "sessions": 110,
+      "avgViewers": 106.4,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 67723.8,
+      "totalMinutes": 67919.0,
       "gameMinutes": 9797.0,
-      "totalHours": 1128.73,
+      "totalHours": 1131.98,
       "gameHours": 163.28,
-      "sessions": 386,
-      "avgViewers": 118.4,
+      "sessions": 388,
+      "avgViewers": 118.2,
       "peakViewers": 997
     }
   },
@@ -50,40 +50,110 @@
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
       "isLive": true,
-      "liveSince": "2026-09-25T10:16:06Z",
-      "liveTitle": "〖 ストリートファイター6 🔰〗 ランクいってみよおおおお🔥⚡ 〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-24T00:24:48Z",
-      "lastTitle": "〖 てともに╎#8 〗 今日は短めのてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
+      "liveSince": "2026-09-25T14:12:18Z",
+      "liveTitle": "〖 弱すぎるＲＰＧ 〗 弱いわけないです！！！！ 〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-09-25T14:12:18Z",
+      "lastTitle": "〖 ストリートファイター6 🔰〗 ランクいってみよおおおお🔥⚡ 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 214.5,
+          "totalMinutes": 236.2,
           "gameMinutes": 0.0,
-          "totalHours": 3.58,
+          "totalHours": 3.94,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 242.2,
           "peakViewers": 303
         },
         "week": {
-          "totalMinutes": 2307.6,
+          "totalMinutes": 2329.2,
           "gameMinutes": 0.0,
-          "totalHours": 38.46,
+          "totalHours": 38.82,
           "gameHours": 0.0,
-          "sessions": 10,
-          "avgViewers": 325.5,
+          "sessions": 11,
+          "avgViewers": 324.7,
           "peakViewers": 784
         },
         "month": {
-          "totalMinutes": 6565.5,
+          "totalMinutes": 6587.2,
           "gameMinutes": 168.3,
-          "totalHours": 109.43,
+          "totalHours": 109.79,
           "gameHours": 2.8,
-          "sessions": 31,
-          "avgViewers": 276.4,
+          "sessions": 32,
+          "avgViewers": 276.2,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "QJ04FF6JYg8",
+          "videoUrl": "https://www.youtube.com/watch?v=QJ04FF6JYg8",
+          "start": "2026-09-25T10:16:06Z",
+          "end": "2026-09-25T14:12:18Z",
+          "minutes": 236.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ストリートファイター6 🔰〗 ランクいってみよおおおお🔥⚡ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 303,
+          "avgViewers": 242.2,
+          "samples": [
+            [
+              "2026-09-25T10:16:06Z",
+              153
+            ],
+            [
+              "2026-09-25T10:33:04Z",
+              223
+            ],
+            [
+              "2026-09-25T10:49:33Z",
+              242
+            ],
+            [
+              "2026-09-25T11:00:34Z",
+              290
+            ],
+            [
+              "2026-09-25T11:22:31Z",
+              303
+            ],
+            [
+              "2026-09-25T11:41:31Z",
+              258
+            ],
+            [
+              "2026-09-25T11:56:54Z",
+              247
+            ],
+            [
+              "2026-09-25T12:19:23Z",
+              239
+            ],
+            [
+              "2026-09-25T12:39:52Z",
+              227
+            ],
+            [
+              "2026-09-25T12:56:46Z",
+              219
+            ],
+            [
+              "2026-09-25T13:16:09Z",
+              234
+            ],
+            [
+              "2026-09-25T13:33:36Z",
+              246
+            ],
+            [
+              "2026-09-25T13:50:37Z",
+              249
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -262,40 +332,7 @@
           "game": null,
           "peakViewers": 745,
           "avgViewers": 675.1,
-          "samples": [
-            [
-              "2026-09-23T03:18:20Z",
-              502
-            ],
-            [
-              "2026-09-23T03:34:02Z",
-              733
-            ],
-            [
-              "2026-09-23T03:48:53Z",
-              655
-            ],
-            [
-              "2026-09-23T03:59:41Z",
-              711
-            ],
-            [
-              "2026-09-23T04:19:17Z",
-              745
-            ],
-            [
-              "2026-09-23T04:34:40Z",
-              699
-            ],
-            [
-              "2026-09-23T04:49:06Z",
-              675
-            ],
-            [
-              "2026-09-23T04:59:25Z",
-              672
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -365,83 +402,433 @@
           "avgViewers": 144.8,
           "samples": [],
           "isTargetGame": false
+        }
+      ],
+      "liveViewers": 105,
+      "livePeakViewers": 105,
+      "liveAvgViewers": 105.0,
+      "liveSamples": [
+        [
+          "2026-09-25T14:12:18Z",
+          105
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=V_zoDTeWD5c"
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-09-25T14:12:18Z",
+      "liveTitle": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
+      "lastEnd": "2026-09-24T18:42:46Z",
+      "lastTitle": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 222.8,
+          "gameMinutes": 0.0,
+          "totalHours": 3.71,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 77.1,
+          "peakViewers": 142
         },
+        "week": {
+          "totalMinutes": 1125.1,
+          "gameMinutes": 0.0,
+          "totalHours": 18.75,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 113.5,
+          "peakViewers": 277
+        },
+        "month": {
+          "totalMinutes": 5987.2,
+          "gameMinutes": 169.2,
+          "totalHours": 99.79,
+          "gameHours": 2.82,
+          "sessions": 24,
+          "avgViewers": 91.9,
+          "peakViewers": 428
+        }
+      },
+      "recentSessions": [
         {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "0cCf7yRDP6A",
-          "videoUrl": "https://www.youtube.com/watch?v=0cCf7yRDP6A",
-          "start": "2026-09-20T16:13:02Z",
-          "end": "2026-09-20T18:58:04Z",
-          "minutes": 165,
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "LA4V22rLN4Y",
+          "videoUrl": "https://www.youtube.com/watch?v=LA4V22rLN4Y",
+          "start": "2026-09-24T12:17:42Z",
+          "end": "2026-09-24T18:42:46Z",
+          "minutes": 385.1,
           "startSource": "observed",
           "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#8 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
+          "title": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
           "game": null,
-          "peakViewers": 143,
-          "avgViewers": 113.6,
+          "peakViewers": 142,
+          "avgViewers": 77.1,
+          "samples": [
+            [
+              "2026-09-24T12:17:42Z",
+              47
+            ],
+            [
+              "2026-09-24T12:39:32Z",
+              78
+            ],
+            [
+              "2026-09-24T12:56:17Z",
+              83
+            ],
+            [
+              "2026-09-24T13:15:05Z",
+              70
+            ],
+            [
+              "2026-09-24T13:33:29Z",
+              72
+            ],
+            [
+              "2026-09-24T13:51:07Z",
+              66
+            ],
+            [
+              "2026-09-24T14:12:16Z",
+              85
+            ],
+            [
+              "2026-09-24T14:33:19Z",
+              79
+            ],
+            [
+              "2026-09-24T14:51:59Z",
+              70
+            ],
+            [
+              "2026-09-24T15:12:17Z",
+              61
+            ],
+            [
+              "2026-09-24T15:32:34Z",
+              55
+            ],
+            [
+              "2026-09-24T15:49:51Z",
+              53
+            ],
+            [
+              "2026-09-24T16:00:49Z",
+              63
+            ],
+            [
+              "2026-09-24T16:24:21Z",
+              77
+            ],
+            [
+              "2026-09-24T16:41:09Z",
+              82
+            ],
+            [
+              "2026-09-24T16:57:48Z",
+              142
+            ],
+            [
+              "2026-09-24T17:15:35Z",
+              110
+            ],
+            [
+              "2026-09-24T17:30:19Z",
+              99
+            ],
+            [
+              "2026-09-24T17:47:16Z",
+              88
+            ],
+            [
+              "2026-09-24T17:58:06Z",
+              88
+            ],
+            [
+              "2026-09-24T18:21:10Z",
+              65
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "aQP2S19kK3A",
+          "videoUrl": "https://www.youtube.com/watch?v=aQP2S19kK3A",
+          "start": "2026-09-23T10:49:27Z",
+          "end": "2026-09-23T13:41:22Z",
+          "minutes": 171.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠/Singing】まったり歌うので1曲聞いていってください🖤🎵🤍　【 #恋沼ミヤ】",
+          "game": null,
+          "peakViewers": 89,
+          "avgViewers": 67.0,
+          "samples": [
+            [
+              "2026-09-23T10:49:27Z",
+              76
+            ],
+            [
+              "2026-09-23T11:00:01Z",
+              89
+            ],
+            [
+              "2026-09-23T11:18:40Z",
+              88
+            ],
+            [
+              "2026-09-23T11:33:39Z",
+              77
+            ],
+            [
+              "2026-09-23T11:48:57Z",
+              69
+            ],
+            [
+              "2026-09-23T11:59:37Z",
+              68
+            ],
+            [
+              "2026-09-23T12:23:23Z",
+              47
+            ],
+            [
+              "2026-09-23T12:44:43Z",
+              58
+            ],
+            [
+              "2026-09-23T12:59:38Z",
+              54
+            ],
+            [
+              "2026-09-23T13:20:38Z",
+              56
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "0fUbAzY5Prc",
+          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
+          "start": "2026-09-22T10:12:34Z",
+          "end": "2026-09-22T16:59:11Z",
+          "minutes": 406.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 277,
+          "avgViewers": 181.8,
+          "samples": [
+            [
+              "2026-09-22T10:12:34Z",
+              100
+            ],
+            [
+              "2026-09-22T10:32:38Z",
+              277
+            ],
+            [
+              "2026-09-22T10:49:17Z",
+              258
+            ],
+            [
+              "2026-09-22T10:59:40Z",
+              229
+            ],
+            [
+              "2026-09-22T11:18:11Z",
+              220
+            ],
+            [
+              "2026-09-22T11:32:46Z",
+              251
+            ],
+            [
+              "2026-09-22T11:47:23Z",
+              237
+            ],
+            [
+              "2026-09-22T11:58:05Z",
+              226
+            ],
+            [
+              "2026-09-22T12:22:00Z",
+              223
+            ],
+            [
+              "2026-09-22T12:44:14Z",
+              194
+            ],
+            [
+              "2026-09-22T12:59:08Z",
+              146
+            ],
+            [
+              "2026-09-22T13:19:15Z",
+              134
+            ],
+            [
+              "2026-09-22T13:34:44Z",
+              126
+            ],
+            [
+              "2026-09-22T13:49:54Z",
+              144
+            ],
+            [
+              "2026-09-22T14:00:28Z",
+              136
+            ],
+            [
+              "2026-09-22T14:22:59Z",
+              123
+            ],
+            [
+              "2026-09-22T14:42:49Z",
+              127
+            ],
+            [
+              "2026-09-22T14:58:23Z",
+              136
+            ],
+            [
+              "2026-09-22T15:17:25Z",
+              125
+            ],
+            [
+              "2026-09-22T15:31:59Z",
+              104
+            ],
+            [
+              "2026-09-22T15:47:46Z",
+              153
+            ],
+            [
+              "2026-09-22T15:58:25Z",
+              222
+            ],
+            [
+              "2026-09-22T16:17:53Z",
+              250
+            ],
+            [
+              "2026-09-22T16:34:28Z",
+              234
+            ],
+            [
+              "2026-09-22T16:48:42Z",
+              206
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T17:41:30Z",
+          "minutes": 165.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 77.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T09:46:35Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 296.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 194,
+          "avgViewers": 92.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T18:31:46Z",
+          "minutes": 79.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 18.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 246.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 75,
+          "avgViewers": 60.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T09:43:06Z",
+          "end": "2026-09-19T12:34:56Z",
+          "minutes": 171.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 166,
+          "avgViewers": 100.6,
           "samples": [],
           "isTargetGame": false
         }
       ],
-      "liveViewers": 249,
-      "livePeakViewers": 303,
-      "liveAvgViewers": 242.2,
+      "liveViewers": 53,
+      "livePeakViewers": 53,
+      "liveAvgViewers": 53.0,
       "liveSamples": [
         [
-          "2026-09-25T10:16:06Z",
-          153
-        ],
-        [
-          "2026-09-25T10:33:04Z",
-          223
-        ],
-        [
-          "2026-09-25T10:49:33Z",
-          242
-        ],
-        [
-          "2026-09-25T11:00:34Z",
-          290
-        ],
-        [
-          "2026-09-25T11:22:31Z",
-          303
-        ],
-        [
-          "2026-09-25T11:41:31Z",
-          258
-        ],
-        [
-          "2026-09-25T11:56:54Z",
-          247
-        ],
-        [
-          "2026-09-25T12:19:23Z",
-          239
-        ],
-        [
-          "2026-09-25T12:39:52Z",
-          227
-        ],
-        [
-          "2026-09-25T12:56:46Z",
-          219
-        ],
-        [
-          "2026-09-25T13:16:09Z",
-          234
-        ],
-        [
-          "2026-09-25T13:33:36Z",
-          246
-        ],
-        [
-          "2026-09-25T13:50:37Z",
-          249
+          "2026-09-25T14:12:18Z",
+          53
         ]
       ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=QJ04FF6JYg8"
+      "liveVideoUrl": "https://www.youtube.com/watch?v=BtvsJcCUx3M"
     },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
@@ -455,27 +842,27 @@
       "lastTitle": "【 天下無双ARK 】唐揚げにレモンをかけるの先生 見守り担当【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 490.4,
+          "totalMinutes": 512.1,
           "gameMinutes": 0.0,
-          "totalHours": 8.17,
+          "totalHours": 8.53,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 15.8,
+          "avgViewers": 15.6,
           "peakViewers": 21
         },
         "week": {
-          "totalMinutes": 2422.0,
+          "totalMinutes": 2443.7,
           "gameMinutes": 0.0,
-          "totalHours": 40.37,
+          "totalHours": 40.73,
           "gameHours": 0.0,
           "sessions": 6,
           "avgViewers": 13.1,
           "peakViewers": 31
         },
         "month": {
-          "totalMinutes": 5271.6,
+          "totalMinutes": 5293.3,
           "gameMinutes": 1551.3,
-          "totalHours": 87.86,
+          "totalHours": 88.22,
           "gameHours": 25.85,
           "sessions": 20,
           "avgViewers": 17.9,
@@ -979,9 +1366,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 14,
+      "liveViewers": 10,
       "livePeakViewers": 20,
-      "liveAvgViewers": 15.3,
+      "liveAvgViewers": 15.0,
       "liveSamples": [
         [
           "2026-09-25T09:01:25Z",
@@ -1050,6 +1437,10 @@
         [
           "2026-09-25T13:50:37Z",
           14
+        ],
+        [
+          "2026-09-25T14:12:18Z",
+          10
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=U8XsSzdgwWI"
@@ -1066,30 +1457,30 @@
       "lastTitle": "【ポケモンチャンピオンズ】アブソルとマスター級行きたい！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 636.6,
+          "totalMinutes": 658.3,
           "gameMinutes": 0.0,
-          "totalHours": 10.61,
+          "totalHours": 10.97,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 247.9,
+          "avgViewers": 240.5,
           "peakViewers": 997
         },
         "week": {
-          "totalMinutes": 2115.3,
+          "totalMinutes": 2137.0,
           "gameMinutes": 0.0,
-          "totalHours": 35.26,
+          "totalHours": 35.62,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 219.7,
+          "avgViewers": 217.7,
           "peakViewers": 997
         },
         "month": {
-          "totalMinutes": 4754.2,
+          "totalMinutes": 4775.9,
           "gameMinutes": 698.2,
-          "totalHours": 79.24,
+          "totalHours": 79.6,
           "gameHours": 11.64,
           "sessions": 26,
-          "avgViewers": 271.9,
+          "avgViewers": 270.7,
           "peakViewers": 997
         }
       },
@@ -1484,7 +1875,7 @@
       ],
       "liveViewers": 11,
       "livePeakViewers": 988,
-      "liveAvgViewers": 232.5,
+      "liveAvgViewers": 217.8,
       "liveSamples": [
         [
           "2026-09-25T09:01:25Z",
@@ -1553,6 +1944,10 @@
         [
           "2026-09-25T13:50:37Z",
           11
+        ],
+        [
+          "2026-09-25T14:12:18Z",
+          11
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=n9aPGV_KVAM"
@@ -1569,27 +1964,27 @@
       "lastTitle": "【 #天下無双ARK : 6日目 】虫は嫌だ虫は嫌だ虫は嫌だ【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 450.1,
+          "totalMinutes": 471.8,
           "gameMinutes": 0.0,
-          "totalHours": 7.5,
+          "totalHours": 7.86,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 44.7,
+          "avgViewers": 44.8,
           "peakViewers": 98
         },
         "week": {
-          "totalMinutes": 2325.9,
+          "totalMinutes": 2347.6,
           "gameMinutes": 0.0,
-          "totalHours": 38.76,
+          "totalHours": 39.13,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 45.0,
+          "avgViewers": 45.1,
           "peakViewers": 98
         },
         "month": {
-          "totalMinutes": 4438.8,
+          "totalMinutes": 4460.4,
           "gameMinutes": 476.4,
-          "totalHours": 73.98,
+          "totalHours": 74.34,
           "gameHours": 7.94,
           "sessions": 16,
           "avgViewers": 44.4,
@@ -2081,9 +2476,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 43,
+      "liveViewers": 50,
       "livePeakViewers": 51,
-      "liveAvgViewers": 46.0,
+      "liveAvgViewers": 46.2,
       "liveSamples": [
         [
           "2026-09-25T09:41:40Z",
@@ -2144,6 +2539,10 @@
         [
           "2026-09-25T13:50:37Z",
           43
+        ],
+        [
+          "2026-09-25T14:12:18Z",
+          50
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=DNmrkIEFU4U"
@@ -2160,30 +2559,30 @@
       "lastTitle": "〚ARK 〛6日目！ごめん私は今海の上にいますっ！なんとかなれぇ～！〚 甘成じゅい/ゆにれいど！ 〛#天下無双ARK",
       "buckets": {
         "today": {
-          "totalMinutes": 315.4,
+          "totalMinutes": 337.1,
           "gameMinutes": 0.0,
-          "totalHours": 5.26,
+          "totalHours": 5.62,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 65.9,
+          "avgViewers": 66.0,
           "peakViewers": 167
         },
         "week": {
-          "totalMinutes": 1714.8,
+          "totalMinutes": 1736.4,
           "gameMinutes": 0.0,
-          "totalHours": 28.58,
+          "totalHours": 28.94,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 59.1,
+          "avgViewers": 59.2,
           "peakViewers": 167
         },
         "month": {
-          "totalMinutes": 3537.2,
+          "totalMinutes": 3558.9,
           "gameMinutes": 535.5,
-          "totalHours": 58.95,
+          "totalHours": 59.31,
           "gameHours": 8.92,
           "sessions": 20,
-          "avgViewers": 53.5,
+          "avgViewers": 53.6,
           "peakViewers": 230
         }
       },
@@ -2572,9 +2971,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 75,
+      "liveViewers": 66,
       "livePeakViewers": 80,
-      "liveAvgViewers": 62.9,
+      "liveAvgViewers": 63.5,
       "liveSamples": [
         [
           "2026-09-25T11:22:31Z",
@@ -2611,328 +3010,13 @@
         [
           "2026-09-25T13:50:37Z",
           75
+        ],
+        [
+          "2026-09-25T14:12:18Z",
+          66
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=-HdaeFadkek"
-    },
-    {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCAS1tKQTTPVw4-TFnKTzvnw",
-      "isLive": true,
-      "liveSince": "2026-09-25T10:16:06Z",
-      "liveTitle": "【#leagueoflegends 】公式スクリム最終日。明日の本番に向けて調整や【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-      "lastEnd": "2026-09-25T08:16:49Z",
-      "lastTitle": "【雑談】久しぶりの雑談ザウルス【水上蒼太/ゆにれいど！】#shorts",
-      "buckets": {
-        "today": {
-          "totalMinutes": 330.0,
-          "gameMinutes": 0.0,
-          "totalHours": 5.5,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 32.9,
-          "peakViewers": 48
-        },
-        "week": {
-          "totalMinutes": 1394.0,
-          "gameMinutes": 0.0,
-          "totalHours": 23.23,
-          "gameHours": 0.0,
-          "sessions": 8,
-          "avgViewers": 30.4,
-          "peakViewers": 48
-        },
-        "month": {
-          "totalMinutes": 3149.3,
-          "gameMinutes": 307.9,
-          "totalHours": 52.49,
-          "gameHours": 5.13,
-          "sessions": 20,
-          "avgViewers": 34.5,
-          "peakViewers": 85
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "PKwISHJoSn0",
-          "videoUrl": "https://www.youtube.com/watch?v=PKwISHJoSn0",
-          "start": "2026-09-25T06:45:57Z",
-          "end": "2026-09-25T08:16:49Z",
-          "minutes": 90.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】久しぶりの雑談ザウルス【水上蒼太/ゆにれいど！】#shorts",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 42.3,
-          "samples": [
-            [
-              "2026-09-25T06:45:57Z",
-              45
-            ],
-            [
-              "2026-09-25T07:00:17Z",
-              38
-            ],
-            [
-              "2026-09-25T07:23:45Z",
-              40
-            ],
-            [
-              "2026-09-25T07:41:24Z",
-              48
-            ],
-            [
-              "2026-09-25T07:57:32Z",
-              43
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "PKwISHJoSn0",
-          "videoUrl": "https://www.youtube.com/watch?v=PKwISHJoSn0",
-          "start": "2026-09-25T05:59:27Z",
-          "end": "2026-09-25T06:24:05Z",
-          "minutes": 24.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】久しぶりの雑談ザウルス【水上蒼太/ゆにれいど！】#shorts",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 26.0,
-          "samples": [
-            [
-              "2026-09-25T05:59:27Z",
-              26
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "2r7Z-K4jzhE",
-          "videoUrl": "https://www.youtube.com/watch?v=2r7Z-K4jzhE",
-          "start": "2026-09-24T10:00:11Z",
-          "end": "2026-09-24T14:13:30Z",
-          "minutes": 253.3,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【#leagueoflegends 】うおおおお公式スクリムやるぞ！！！他チームとの対戦【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-          "game": null,
-          "peakViewers": 46,
-          "avgViewers": 33.8,
-          "samples": [
-            [
-              "2026-09-24T10:18:56Z",
-              38
-            ],
-            [
-              "2026-09-24T10:34:38Z",
-              34
-            ],
-            [
-              "2026-09-24T10:49:39Z",
-              43
-            ],
-            [
-              "2026-09-24T11:00:13Z",
-              46
-            ],
-            [
-              "2026-09-24T11:22:43Z",
-              25
-            ],
-            [
-              "2026-09-24T11:40:33Z",
-              37
-            ],
-            [
-              "2026-09-24T11:56:26Z",
-              40
-            ],
-            [
-              "2026-09-24T12:17:42Z",
-              30
-            ],
-            [
-              "2026-09-24T12:39:32Z",
-              28
-            ],
-            [
-              "2026-09-24T12:56:17Z",
-              19
-            ],
-            [
-              "2026-09-24T13:15:05Z",
-              29
-            ],
-            [
-              "2026-09-24T13:33:29Z",
-              31
-            ],
-            [
-              "2026-09-24T13:51:07Z",
-              46
-            ],
-            [
-              "2026-09-24T14:12:16Z",
-              26
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "iX2M4ozDvsU",
-          "videoUrl": "https://www.youtube.com/watch?v=iX2M4ozDvsU",
-          "start": "2026-09-22T11:18:11Z",
-          "end": "2026-09-22T14:22:59Z",
-          "minutes": 184.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#leagueoflegends 】我々別班の仕上がりをお見せします　敵チームとスクリム　【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 32.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "1aDGo6Lhqng",
-          "videoUrl": "https://www.youtube.com/watch?v=1aDGo6Lhqng",
-          "start": "2026-09-22T09:21:56Z",
-          "end": "2026-09-22T10:49:17Z",
-          "minutes": 87.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#めっちゃカメレオン  】大会に向けて親睦深めていきましょうの配信【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-          "game": null,
-          "peakViewers": 24,
-          "avgViewers": 16.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "g9DeN87-fCA",
-          "videoUrl": "https://www.youtube.com/watch?v=g9DeN87-fCA",
-          "start": "2026-09-21T10:31:15Z",
-          "end": "2026-09-21T17:16:03Z",
-          "minutes": 404.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#3【#天下無双ARK】今日も凄い恐竜を捕まえるよ、沢山ね🦖【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 37,
-          "avgViewers": 27.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "a1TG8HdoKC8",
-          "videoUrl": "https://www.youtube.com/watch?v=a1TG8HdoKC8",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T17:13:45Z",
-          "minutes": 137.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#2【#天下無双ARK】まさかの最前線！？皆でアルゲン捕まえたりするってわけ🦖【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 41,
-          "avgViewers": 32.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "a1TG8HdoKC8",
-          "videoUrl": "https://www.youtube.com/watch?v=a1TG8HdoKC8",
-          "start": "2026-09-20T10:14:39Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 268.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#2【#天下無双ARK】まさかの最前線！？皆でアルゲン捕まえたりするってわけ🦖【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 42,
-          "avgViewers": 32.1,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 29,
-      "livePeakViewers": 35,
-      "liveAvgViewers": 29.7,
-      "liveSamples": [
-        [
-          "2026-09-25T10:16:06Z",
-          24
-        ],
-        [
-          "2026-09-25T10:33:04Z",
-          26
-        ],
-        [
-          "2026-09-25T10:49:33Z",
-          27
-        ],
-        [
-          "2026-09-25T11:00:34Z",
-          34
-        ],
-        [
-          "2026-09-25T11:22:31Z",
-          24
-        ],
-        [
-          "2026-09-25T11:41:31Z",
-          31
-        ],
-        [
-          "2026-09-25T11:56:54Z",
-          35
-        ],
-        [
-          "2026-09-25T12:19:23Z",
-          31
-        ],
-        [
-          "2026-09-25T12:39:52Z",
-          30
-        ],
-        [
-          "2026-09-25T12:56:46Z",
-          25
-        ],
-        [
-          "2026-09-25T13:16:09Z",
-          32
-        ],
-        [
-          "2026-09-25T13:33:36Z",
-          35
-        ],
-        [
-          "2026-09-25T13:50:37Z",
-          29
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=tGYp55nDbKo"
     },
     {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
@@ -2946,27 +3030,27 @@
       "lastTitle": "【雀魂】とりあえず雀豪に戻したい定期 盛るぞ！【埼凰リンネ / YUMENOS】#新人vtuber #雀魂",
       "buckets": {
         "today": {
-          "totalMinutes": 91.2,
+          "totalMinutes": 112.9,
           "gameMinutes": 0.0,
-          "totalHours": 1.52,
+          "totalHours": 1.88,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 23.5,
           "peakViewers": 33
         },
         "week": {
-          "totalMinutes": 597.7,
+          "totalMinutes": 619.4,
           "gameMinutes": 0.0,
-          "totalHours": 9.96,
+          "totalHours": 10.32,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 15.9,
+          "avgViewers": 16.2,
           "peakViewers": 33
         },
         "month": {
-          "totalMinutes": 2981.1,
+          "totalMinutes": 3002.7,
           "gameMinutes": 503.1,
-          "totalHours": 49.68,
+          "totalHours": 50.05,
           "gameHours": 8.38,
           "sessions": 25,
           "avgViewers": 11.7,
@@ -3202,7 +3286,7 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 21,
+      "liveViewers": 24,
       "livePeakViewers": 33,
       "liveAvgViewers": 23.5,
       "liveSamples": [
@@ -3229,6 +3313,10 @@
         [
           "2026-09-25T13:50:37Z",
           21
+        ],
+        [
+          "2026-09-25T14:12:18Z",
+          24
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=HfjW-pqr3lQ"
@@ -3245,30 +3333,30 @@
       "lastTitle": "【#ストグラ】#ストグラSeason2　引き続き人を探したりいろいろ ～Day12～【YUMENOS/那和ツムグ】",
       "buckets": {
         "today": {
-          "totalMinutes": 135.6,
+          "totalMinutes": 157.3,
           "gameMinutes": 0.0,
-          "totalHours": 2.26,
+          "totalHours": 2.62,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 90.8,
+          "avgViewers": 92.0,
           "peakViewers": 114
         },
         "week": {
-          "totalMinutes": 858.3,
+          "totalMinutes": 880.0,
           "gameMinutes": 0.0,
-          "totalHours": 14.3,
+          "totalHours": 14.67,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 96.3,
+          "avgViewers": 96.4,
           "peakViewers": 151
         },
         "month": {
-          "totalMinutes": 2627.9,
+          "totalMinutes": 2649.6,
           "gameMinutes": 169.2,
-          "totalHours": 43.8,
+          "totalHours": 44.16,
           "gameHours": 2.82,
           "sessions": 13,
-          "avgViewers": 79.7,
+          "avgViewers": 79.8,
           "peakViewers": 151
         }
       },
@@ -3597,9 +3685,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 98,
-      "livePeakViewers": 98,
-      "liveAvgViewers": 74.2,
+      "liveViewers": 107,
+      "livePeakViewers": 107,
+      "liveAvgViewers": 83.8,
       "liveSamples": [
         [
           "2026-09-25T13:16:09Z",
@@ -3612,6 +3700,10 @@
         [
           "2026-09-25T13:50:37Z",
           98
+        ],
+        [
+          "2026-09-25T14:12:18Z",
+          107
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=i_dQ-mWzcyA"
@@ -3628,30 +3720,30 @@
       "lastTitle": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
       "buckets": {
         "today": {
-          "totalMinutes": 170.1,
+          "totalMinutes": 191.7,
           "gameMinutes": 0.0,
-          "totalHours": 2.83,
+          "totalHours": 3.2,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 79.3,
-          "peakViewers": 105
+          "avgViewers": 82.5,
+          "peakViewers": 111
         },
         "week": {
-          "totalMinutes": 786.4,
+          "totalMinutes": 808.0,
           "gameMinutes": 0.0,
-          "totalHours": 13.11,
+          "totalHours": 13.47,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 97.9,
+          "avgViewers": 98.2,
           "peakViewers": 137
         },
         "month": {
-          "totalMinutes": 2281.4,
+          "totalMinutes": 2303.1,
           "gameMinutes": 467.4,
-          "totalHours": 38.02,
+          "totalHours": 38.39,
           "gameHours": 7.79,
           "sessions": 14,
-          "avgViewers": 67.8,
+          "avgViewers": 68.2,
           "peakViewers": 137
         }
       },
@@ -3940,9 +4032,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 104,
-      "livePeakViewers": 105,
-      "liveAvgViewers": 79.3,
+      "liveViewers": 111,
+      "livePeakViewers": 111,
+      "liveAvgViewers": 82.5,
       "liveSamples": [
         [
           "2026-09-25T11:00:34Z",
@@ -3983,414 +4075,13 @@
         [
           "2026-09-25T13:50:37Z",
           104
+        ],
+        [
+          "2026-09-25T14:12:18Z",
+          111
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=tkr4FgaJGzo"
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-24T18:42:46Z",
-      "lastTitle": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 222.8,
-          "gameMinutes": 0.0,
-          "totalHours": 3.71,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 77.1,
-          "peakViewers": 142
-        },
-        "week": {
-          "totalMinutes": 1125.1,
-          "gameMinutes": 0.0,
-          "totalHours": 18.75,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 113.5,
-          "peakViewers": 277
-        },
-        "month": {
-          "totalMinutes": 5987.2,
-          "gameMinutes": 169.2,
-          "totalHours": 99.79,
-          "gameHours": 2.82,
-          "sessions": 23,
-          "avgViewers": 91.9,
-          "peakViewers": 428
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "LA4V22rLN4Y",
-          "videoUrl": "https://www.youtube.com/watch?v=LA4V22rLN4Y",
-          "start": "2026-09-24T12:17:42Z",
-          "end": "2026-09-24T18:42:46Z",
-          "minutes": 385.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 142,
-          "avgViewers": 77.1,
-          "samples": [
-            [
-              "2026-09-24T12:17:42Z",
-              47
-            ],
-            [
-              "2026-09-24T12:39:32Z",
-              78
-            ],
-            [
-              "2026-09-24T12:56:17Z",
-              83
-            ],
-            [
-              "2026-09-24T13:15:05Z",
-              70
-            ],
-            [
-              "2026-09-24T13:33:29Z",
-              72
-            ],
-            [
-              "2026-09-24T13:51:07Z",
-              66
-            ],
-            [
-              "2026-09-24T14:12:16Z",
-              85
-            ],
-            [
-              "2026-09-24T14:33:19Z",
-              79
-            ],
-            [
-              "2026-09-24T14:51:59Z",
-              70
-            ],
-            [
-              "2026-09-24T15:12:17Z",
-              61
-            ],
-            [
-              "2026-09-24T15:32:34Z",
-              55
-            ],
-            [
-              "2026-09-24T15:49:51Z",
-              53
-            ],
-            [
-              "2026-09-24T16:00:49Z",
-              63
-            ],
-            [
-              "2026-09-24T16:24:21Z",
-              77
-            ],
-            [
-              "2026-09-24T16:41:09Z",
-              82
-            ],
-            [
-              "2026-09-24T16:57:48Z",
-              142
-            ],
-            [
-              "2026-09-24T17:15:35Z",
-              110
-            ],
-            [
-              "2026-09-24T17:30:19Z",
-              99
-            ],
-            [
-              "2026-09-24T17:47:16Z",
-              88
-            ],
-            [
-              "2026-09-24T17:58:06Z",
-              88
-            ],
-            [
-              "2026-09-24T18:21:10Z",
-              65
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "aQP2S19kK3A",
-          "videoUrl": "https://www.youtube.com/watch?v=aQP2S19kK3A",
-          "start": "2026-09-23T10:49:27Z",
-          "end": "2026-09-23T13:41:22Z",
-          "minutes": 171.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠/Singing】まったり歌うので1曲聞いていってください🖤🎵🤍　【 #恋沼ミヤ】",
-          "game": null,
-          "peakViewers": 89,
-          "avgViewers": 67.0,
-          "samples": [
-            [
-              "2026-09-23T10:49:27Z",
-              76
-            ],
-            [
-              "2026-09-23T11:00:01Z",
-              89
-            ],
-            [
-              "2026-09-23T11:18:40Z",
-              88
-            ],
-            [
-              "2026-09-23T11:33:39Z",
-              77
-            ],
-            [
-              "2026-09-23T11:48:57Z",
-              69
-            ],
-            [
-              "2026-09-23T11:59:37Z",
-              68
-            ],
-            [
-              "2026-09-23T12:23:23Z",
-              47
-            ],
-            [
-              "2026-09-23T12:44:43Z",
-              58
-            ],
-            [
-              "2026-09-23T12:59:38Z",
-              54
-            ],
-            [
-              "2026-09-23T13:20:38Z",
-              56
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "0fUbAzY5Prc",
-          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
-          "start": "2026-09-22T10:12:34Z",
-          "end": "2026-09-22T16:59:11Z",
-          "minutes": 406.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 277,
-          "avgViewers": 181.8,
-          "samples": [
-            [
-              "2026-09-22T10:12:34Z",
-              100
-            ],
-            [
-              "2026-09-22T10:32:38Z",
-              277
-            ],
-            [
-              "2026-09-22T10:49:17Z",
-              258
-            ],
-            [
-              "2026-09-22T10:59:40Z",
-              229
-            ],
-            [
-              "2026-09-22T11:18:11Z",
-              220
-            ],
-            [
-              "2026-09-22T11:32:46Z",
-              251
-            ],
-            [
-              "2026-09-22T11:47:23Z",
-              237
-            ],
-            [
-              "2026-09-22T11:58:05Z",
-              226
-            ],
-            [
-              "2026-09-22T12:22:00Z",
-              223
-            ],
-            [
-              "2026-09-22T12:44:14Z",
-              194
-            ],
-            [
-              "2026-09-22T12:59:08Z",
-              146
-            ],
-            [
-              "2026-09-22T13:19:15Z",
-              134
-            ],
-            [
-              "2026-09-22T13:34:44Z",
-              126
-            ],
-            [
-              "2026-09-22T13:49:54Z",
-              144
-            ],
-            [
-              "2026-09-22T14:00:28Z",
-              136
-            ],
-            [
-              "2026-09-22T14:22:59Z",
-              123
-            ],
-            [
-              "2026-09-22T14:42:49Z",
-              127
-            ],
-            [
-              "2026-09-22T14:58:23Z",
-              136
-            ],
-            [
-              "2026-09-22T15:17:25Z",
-              125
-            ],
-            [
-              "2026-09-22T15:31:59Z",
-              104
-            ],
-            [
-              "2026-09-22T15:47:46Z",
-              153
-            ],
-            [
-              "2026-09-22T15:58:25Z",
-              222
-            ],
-            [
-              "2026-09-22T16:17:53Z",
-              250
-            ],
-            [
-              "2026-09-22T16:34:28Z",
-              234
-            ],
-            [
-              "2026-09-22T16:48:42Z",
-              206
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T17:41:30Z",
-          "minutes": 165.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 95,
-          "avgViewers": 77.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T09:46:35Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 296.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 194,
-          "avgViewers": 92.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:31:46Z",
-          "minutes": 79.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 18.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 246.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 75,
-          "avgViewers": 60.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T09:43:06Z",
-          "end": "2026-09-19T12:34:56Z",
-          "minutes": 171.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 166,
-          "avgViewers": 100.6,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
     },
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -5257,6 +4948,263 @@
           "game": null,
           "peakViewers": 56,
           "avgViewers": 50.1,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCAS1tKQTTPVw4-TFnKTzvnw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-25T14:12:18Z",
+      "lastTitle": "【#leagueoflegends 】公式スクリム最終日。明日の本番に向けて調整や【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+      "buckets": {
+        "today": {
+          "totalMinutes": 351.7,
+          "gameMinutes": 0.0,
+          "totalHours": 5.86,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 32.7,
+          "peakViewers": 48
+        },
+        "week": {
+          "totalMinutes": 1415.7,
+          "gameMinutes": 0.0,
+          "totalHours": 23.6,
+          "gameHours": 0.0,
+          "sessions": 8,
+          "avgViewers": 30.3,
+          "peakViewers": 48
+        },
+        "month": {
+          "totalMinutes": 3171.0,
+          "gameMinutes": 307.9,
+          "totalHours": 52.85,
+          "gameHours": 5.13,
+          "sessions": 20,
+          "avgViewers": 34.5,
+          "peakViewers": 85
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "tGYp55nDbKo",
+          "videoUrl": "https://www.youtube.com/watch?v=tGYp55nDbKo",
+          "start": "2026-09-25T10:16:06Z",
+          "end": "2026-09-25T14:12:18Z",
+          "minutes": 236.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#leagueoflegends 】公式スクリム最終日。明日の本番に向けて調整や【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 29.7,
+          "samples": [
+            [
+              "2026-09-25T10:16:06Z",
+              24
+            ],
+            [
+              "2026-09-25T10:33:04Z",
+              26
+            ],
+            [
+              "2026-09-25T10:49:33Z",
+              27
+            ],
+            [
+              "2026-09-25T11:00:34Z",
+              34
+            ],
+            [
+              "2026-09-25T11:22:31Z",
+              24
+            ],
+            [
+              "2026-09-25T11:41:31Z",
+              31
+            ],
+            [
+              "2026-09-25T11:56:54Z",
+              35
+            ],
+            [
+              "2026-09-25T12:19:23Z",
+              31
+            ],
+            [
+              "2026-09-25T12:39:52Z",
+              30
+            ],
+            [
+              "2026-09-25T12:56:46Z",
+              25
+            ],
+            [
+              "2026-09-25T13:16:09Z",
+              32
+            ],
+            [
+              "2026-09-25T13:33:36Z",
+              35
+            ],
+            [
+              "2026-09-25T13:50:37Z",
+              29
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "PKwISHJoSn0",
+          "videoUrl": "https://www.youtube.com/watch?v=PKwISHJoSn0",
+          "start": "2026-09-25T06:45:57Z",
+          "end": "2026-09-25T08:16:49Z",
+          "minutes": 90.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】久しぶりの雑談ザウルス【水上蒼太/ゆにれいど！】#shorts",
+          "game": null,
+          "peakViewers": 48,
+          "avgViewers": 42.3,
+          "samples": [
+            [
+              "2026-09-25T06:45:57Z",
+              45
+            ],
+            [
+              "2026-09-25T07:00:17Z",
+              38
+            ],
+            [
+              "2026-09-25T07:23:45Z",
+              40
+            ],
+            [
+              "2026-09-25T07:41:24Z",
+              48
+            ],
+            [
+              "2026-09-25T07:57:32Z",
+              43
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "PKwISHJoSn0",
+          "videoUrl": "https://www.youtube.com/watch?v=PKwISHJoSn0",
+          "start": "2026-09-25T05:59:27Z",
+          "end": "2026-09-25T06:24:05Z",
+          "minutes": 24.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】久しぶりの雑談ザウルス【水上蒼太/ゆにれいど！】#shorts",
+          "game": null,
+          "peakViewers": 26,
+          "avgViewers": 26.0,
+          "samples": [
+            [
+              "2026-09-25T05:59:27Z",
+              26
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "2r7Z-K4jzhE",
+          "videoUrl": "https://www.youtube.com/watch?v=2r7Z-K4jzhE",
+          "start": "2026-09-24T10:00:11Z",
+          "end": "2026-09-24T14:13:30Z",
+          "minutes": 253.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【#leagueoflegends 】うおおおお公式スクリムやるぞ！！！他チームとの対戦【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+          "game": null,
+          "peakViewers": 46,
+          "avgViewers": 33.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "iX2M4ozDvsU",
+          "videoUrl": "https://www.youtube.com/watch?v=iX2M4ozDvsU",
+          "start": "2026-09-22T11:18:11Z",
+          "end": "2026-09-22T14:22:59Z",
+          "minutes": 184.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#leagueoflegends 】我々別班の仕上がりをお見せします　敵チームとスクリム　【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+          "game": null,
+          "peakViewers": 48,
+          "avgViewers": 32.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "1aDGo6Lhqng",
+          "videoUrl": "https://www.youtube.com/watch?v=1aDGo6Lhqng",
+          "start": "2026-09-22T09:21:56Z",
+          "end": "2026-09-22T10:49:17Z",
+          "minutes": 87.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#めっちゃカメレオン  】大会に向けて親睦深めていきましょうの配信【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+          "game": null,
+          "peakViewers": 24,
+          "avgViewers": 16.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "g9DeN87-fCA",
+          "videoUrl": "https://www.youtube.com/watch?v=g9DeN87-fCA",
+          "start": "2026-09-21T10:31:15Z",
+          "end": "2026-09-21T17:16:03Z",
+          "minutes": 404.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#3【#天下無双ARK】今日も凄い恐竜を捕まえるよ、沢山ね🦖【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 37,
+          "avgViewers": 27.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "a1TG8HdoKC8",
+          "videoUrl": "https://www.youtube.com/watch?v=a1TG8HdoKC8",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T17:13:45Z",
+          "minutes": 137.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#2【#天下無双ARK】まさかの最前線！？皆でアルゲン捕まえたりするってわけ🦖【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 41,
+          "avgViewers": 32.5,
           "samples": [],
           "isTargetGame": false
         }
@@ -7261,6 +7209,38 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "QJ04FF6JYg8",
+      "videoUrl": "https://www.youtube.com/watch?v=QJ04FF6JYg8",
+      "start": "2026-09-25T10:16:06Z",
+      "end": "2026-09-25T14:12:18Z",
+      "minutes": 236.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ストリートファイター6 🔰〗 ランクいってみよおおおお🔥⚡ 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 303,
+      "avgViewers": 242.2,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "tGYp55nDbKo",
+      "videoUrl": "https://www.youtube.com/watch?v=tGYp55nDbKo",
+      "start": "2026-09-25T10:16:06Z",
+      "end": "2026-09-25T14:12:18Z",
+      "minutes": 236.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#leagueoflegends 】公式スクリム最終日。明日の本番に向けて調整や【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+      "game": null,
+      "peakViewers": 35,
+      "avgViewers": 29.7,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
       "name": "日裏クロ",
       "videoId": "rZ69GFQPsb0",
@@ -8154,38 +8134,6 @@
       "game": null,
       "peakViewers": 277,
       "avgViewers": 181.8,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "KY9JZufn-Sw",
-      "videoUrl": "https://www.youtube.com/watch?v=KY9JZufn-Sw",
-      "start": "2026-09-22T10:12:34Z",
-      "end": "2026-09-22T18:18:31Z",
-      "minutes": 486.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "〖 APEX 〗 ｼｱ練習したいﾃﾞｽ〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 384,
-      "avgViewers": 301.3,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "1aDGo6Lhqng",
-      "videoUrl": "https://www.youtube.com/watch?v=1aDGo6Lhqng",
-      "start": "2026-09-22T09:21:56Z",
-      "end": "2026-09-22T10:49:17Z",
-      "minutes": 87.4,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【#めっちゃカメレオン  】大会に向けて親睦深めていきましょうの配信【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-      "game": null,
-      "peakViewers": 24,
-      "avgViewers": 16.9,
       "isTargetGame": false
     }
   ]
