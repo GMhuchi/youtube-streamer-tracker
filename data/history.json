@@ -2,49 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "1JF3nEcqLTI",
-      "start": "2026-09-24T23:42:58Z",
-      "startSource": "observed",
-      "title": "【最高アルマス リュウ レバー】旋風脚、少しは馴染んできたか...？【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 20,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-24T23:42:58Z",
-      "lastSeenAt": "2026-09-25T01:30:17Z",
-      "samples": [
-        [
-          "2026-09-24T23:42:58Z",
-          8
-        ],
-        [
-          "2026-09-24T23:56:04Z",
-          12
-        ],
-        [
-          "2026-09-25T00:19:27Z",
-          18
-        ],
-        [
-          "2026-09-25T00:40:26Z",
-          20
-        ],
-        [
-          "2026-09-25T00:58:32Z",
-          17
-        ],
-        [
-          "2026-09-25T01:16:34Z",
-          20
-        ],
-        [
-          "2026-09-25T01:30:17Z",
-          17
-        ]
-      ]
-    },
     "UCADIxr9ho7V60xs9gT9xWhA": {
       "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
       "name": "輝 七瀬",
@@ -56,7 +13,7 @@
       "peakViewers": 19,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-25T00:40:26Z",
-      "lastSeenAt": "2026-09-25T01:30:17Z",
+      "lastSeenAt": "2026-09-25T01:46:52Z",
       "samples": [
         [
           "2026-09-25T00:40:26Z",
@@ -73,6 +30,10 @@
         [
           "2026-09-25T01:30:17Z",
           17
+        ],
+        [
+          "2026-09-25T01:46:52Z",
+          15
         ]
       ]
     }
@@ -22131,6 +22092,52 @@
         [
           "2026-09-24T23:56:04Z",
           319
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "1JF3nEcqLTI",
+      "videoUrl": "https://www.youtube.com/watch?v=1JF3nEcqLTI",
+      "start": "2026-09-24T23:42:58Z",
+      "end": "2026-09-25T01:46:52Z",
+      "minutes": 123.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【最高アルマス リュウ レバー】旋風脚、少しは馴染んできたか...？【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 20,
+      "avgViewers": 16.1,
+      "samples": [
+        [
+          "2026-09-24T23:42:58Z",
+          8
+        ],
+        [
+          "2026-09-24T23:56:04Z",
+          12
+        ],
+        [
+          "2026-09-25T00:19:27Z",
+          18
+        ],
+        [
+          "2026-09-25T00:40:26Z",
+          20
+        ],
+        [
+          "2026-09-25T00:58:32Z",
+          17
+        ],
+        [
+          "2026-09-25T01:16:34Z",
+          20
+        ],
+        [
+          "2026-09-25T01:30:17Z",
+          17
         ]
       ],
       "isTargetGame": false
