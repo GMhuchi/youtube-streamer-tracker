@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "PKwISHJoSn0",
+      "start": "2026-09-25T06:45:57Z",
+      "startSource": "observed",
+      "title": "【雑談】久しぶりの雑談ザウルス【水上蒼太/ゆにれいど！】#shorts",
+      "game": null,
+      "peakViewers": 45,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-25T06:45:57Z",
+      "lastSeenAt": "2026-09-25T06:45:57Z",
+      "samples": [
+        [
+          "2026-09-25T06:45:57Z",
+          45
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
