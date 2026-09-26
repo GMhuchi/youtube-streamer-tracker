@@ -2,57 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "iq483_ejcTk",
-      "start": "2026-09-26T03:17:02Z",
-      "startSource": "observed",
-      "title": "【APEX】お昼の爆弾マン🤍ソロえぺ【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 236,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-26T03:17:02Z",
-      "lastSeenAt": "2026-09-26T05:16:52Z",
-      "samples": [
-        [
-          "2026-09-26T03:17:02Z",
-          144
-        ],
-        [
-          "2026-09-26T03:32:42Z",
-          198
-        ],
-        [
-          "2026-09-26T03:48:04Z",
-          214
-        ],
-        [
-          "2026-09-26T03:58:28Z",
-          233
-        ],
-        [
-          "2026-09-26T04:17:16Z",
-          234
-        ],
-        [
-          "2026-09-26T04:33:10Z",
-          236
-        ],
-        [
-          "2026-09-26T04:48:06Z",
-          216
-        ],
-        [
-          "2026-09-26T04:58:57Z",
-          225
-        ],
-        [
-          "2026-09-26T05:16:52Z",
-          220
-        ]
-      ]
-    },
     "UCAS1tKQTTPVw4-TFnKTzvnw": {
       "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
       "name": "水上蒼太",
@@ -61,10 +10,10 @@
       "startSource": "observed",
       "title": "【#leagueoflegends 】遂に大会本番です。勝ちます！！！！！【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
       "game": null,
-      "peakViewers": 60,
+      "peakViewers": 68,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-26T04:17:16Z",
-      "lastSeenAt": "2026-09-26T05:16:52Z",
+      "lastSeenAt": "2026-09-26T05:31:22Z",
       "samples": [
         [
           "2026-09-26T04:17:16Z",
@@ -85,6 +34,10 @@
         [
           "2026-09-26T05:16:52Z",
           60
+        ],
+        [
+          "2026-09-26T05:31:22Z",
+          68
         ]
       ]
     },
@@ -96,10 +49,10 @@
       "startSource": "observed",
       "title": "【Forza Horizon6】爆走金バンド！いろいろコンプしようぜ！！！＃３５【#七乃羽すず┆すずみあ】",
       "game": null,
-      "peakViewers": 61,
+      "peakViewers": 66,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-26T04:58:57Z",
-      "lastSeenAt": "2026-09-26T05:16:52Z",
+      "lastSeenAt": "2026-09-26T05:31:22Z",
       "samples": [
         [
           "2026-09-26T04:58:57Z",
@@ -108,6 +61,10 @@
         [
           "2026-09-26T05:16:52Z",
           61
+        ],
+        [
+          "2026-09-26T05:31:22Z",
+          66
         ]
       ]
     },
@@ -119,14 +76,18 @@
       "startSource": "observed",
       "title": "〖 VALORANT 〗新しい武器があるらしい〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 176,
+      "peakViewers": 284,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-26T05:16:52Z",
-      "lastSeenAt": "2026-09-26T05:16:52Z",
+      "lastSeenAt": "2026-09-26T05:31:22Z",
       "samples": [
         [
           "2026-09-26T05:16:52Z",
           176
+        ],
+        [
+          "2026-09-26T05:31:22Z",
+          284
         ]
       ]
     }
@@ -23545,6 +23506,60 @@
         [
           "2026-09-25T15:59:29Z",
           105
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "iq483_ejcTk",
+      "videoUrl": "https://www.youtube.com/watch?v=iq483_ejcTk",
+      "start": "2026-09-26T03:17:02Z",
+      "end": "2026-09-26T05:31:22Z",
+      "minutes": 134.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【APEX】お昼の爆弾マン🤍ソロえぺ【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 236,
+      "avgViewers": 213.8,
+      "samples": [
+        [
+          "2026-09-26T03:17:02Z",
+          144
+        ],
+        [
+          "2026-09-26T03:32:42Z",
+          198
+        ],
+        [
+          "2026-09-26T03:48:04Z",
+          214
+        ],
+        [
+          "2026-09-26T03:58:28Z",
+          233
+        ],
+        [
+          "2026-09-26T04:17:16Z",
+          234
+        ],
+        [
+          "2026-09-26T04:33:10Z",
+          236
+        ],
+        [
+          "2026-09-26T04:48:06Z",
+          216
+        ],
+        [
+          "2026-09-26T04:58:57Z",
+          225
+        ],
+        [
+          "2026-09-26T05:16:52Z",
+          220
         ]
       ],
       "isTargetGame": false
