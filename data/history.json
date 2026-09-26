@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "iq483_ejcTk",
+      "start": "2026-09-26T03:17:02Z",
+      "startSource": "observed",
+      "title": "【APEX】お昼の爆弾マン🤍ソロえぺ【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 144,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-26T03:17:02Z",
+      "lastSeenAt": "2026-09-26T03:17:02Z",
+      "samples": [
+        [
+          "2026-09-26T03:17:02Z",
+          144
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
