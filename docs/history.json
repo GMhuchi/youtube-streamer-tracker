@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T03:17:02Z",
+  "updatedAt": "2026-09-26T03:32:42Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1464.0,
+      "totalMinutes": 1479.7,
       "gameMinutes": 0.0,
-      "totalHours": 24.4,
+      "totalHours": 24.66,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 82.3,
+      "avgViewers": 83.3,
       "peakViewers": 988
     },
     "week": {
-      "totalMinutes": 24868.9,
+      "totalMinutes": 24884.6,
       "gameMinutes": 0.0,
-      "totalHours": 414.48,
+      "totalHours": 414.74,
       "gameHours": 0.0,
       "sessions": 112,
       "avgViewers": 103.8,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 69821.3,
+      "totalMinutes": 69837.0,
       "gameMinutes": 9797.0,
-      "totalHours": 1163.69,
+      "totalHours": 1163.95,
       "gameHours": 163.28,
       "sessions": 390,
       "avgViewers": 117.0,
@@ -56,30 +56,30 @@
       "lastTitle": "【朝枠】おはよおおお【甘音あむ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 15.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.26,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 144.0,
-          "peakViewers": 144
+          "avgViewers": 171.0,
+          "peakViewers": 198
         },
         "week": {
-          "totalMinutes": 490.9,
+          "totalMinutes": 506.6,
           "gameMinutes": 0.0,
-          "totalHours": 8.18,
+          "totalHours": 8.44,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 271.3,
+          "avgViewers": 267.8,
           "peakViewers": 352
         },
         "month": {
-          "totalMinutes": 1805.8,
+          "totalMinutes": 1821.5,
           "gameMinutes": 600.9,
-          "totalHours": 30.1,
+          "totalHours": 30.36,
           "gameHours": 10.01,
           "sessions": 16,
-          "avgViewers": 191.7,
+          "avgViewers": 191.5,
           "peakViewers": 793
         }
       },
@@ -332,13 +332,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 144,
-      "livePeakViewers": 144,
-      "liveAvgViewers": 144.0,
+      "liveViewers": 198,
+      "livePeakViewers": 198,
+      "liveAvgViewers": 171.0,
       "liveSamples": [
         [
           "2026-09-26T03:17:02Z",
           144
+        ],
+        [
+          "2026-09-26T03:32:42Z",
+          198
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=iq483_ejcTk"
