@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T11:43:14Z",
+  "updatedAt": "2026-09-26T11:55:50Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,405 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3385.2,
+      "totalMinutes": 3473.4,
       "gameMinutes": 0.0,
-      "totalHours": 56.42,
+      "totalHours": 57.89,
       "gameHours": 0.0,
-      "sessions": 22,
-      "avgViewers": 119.1,
+      "sessions": 23,
+      "avgViewers": 119.8,
       "peakViewers": 988
     },
     "week": {
-      "totalMinutes": 26790.1,
+      "totalMinutes": 26878.3,
       "gameMinutes": 0.0,
-      "totalHours": 446.5,
+      "totalHours": 447.97,
       "gameHours": 0.0,
-      "sessions": 123,
-      "avgViewers": 106.9,
+      "sessions": 124,
+      "avgViewers": 107.0,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 71742.6,
+      "totalMinutes": 71830.7,
       "gameMinutes": 9797.0,
-      "totalHours": 1195.71,
+      "totalHours": 1197.18,
       "gameHours": 163.28,
-      "sessions": 401,
+      "sessions": 402,
       "avgViewers": 117.8,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-09-26T11:55:50Z",
+      "liveTitle": "【ストグラ2】Day35 ギャング体験中。今日はどんな日になるのかな？【#恋沼ミヤ/#神楽坂レイナ】",
+      "lastEnd": "2026-09-25T18:20:49Z",
+      "lastTitle": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
+      "buckets": {
+        "today": {
+          "totalMinutes": 200.8,
+          "gameMinutes": 0.0,
+          "totalHours": 3.35,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 80.0,
+          "peakViewers": 106
+        },
+        "week": {
+          "totalMinutes": 1373.6,
+          "gameMinutes": 0.0,
+          "totalHours": 22.89,
+          "gameHours": 0.0,
+          "sessions": 6,
+          "avgViewers": 107.4,
+          "peakViewers": 277
+        },
+        "month": {
+          "totalMinutes": 6235.7,
+          "gameMinutes": 169.2,
+          "totalHours": 103.93,
+          "gameHours": 2.82,
+          "sessions": 25,
+          "avgViewers": 91.4,
+          "peakViewers": 428
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "BtvsJcCUx3M",
+          "videoUrl": "https://www.youtube.com/watch?v=BtvsJcCUx3M",
+          "start": "2026-09-25T14:12:18Z",
+          "end": "2026-09-25T18:20:49Z",
+          "minutes": 248.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 106,
+          "avgViewers": 80.0,
+          "samples": [
+            [
+              "2026-09-25T14:12:18Z",
+              53
+            ],
+            [
+              "2026-09-25T14:33:18Z",
+              53
+            ],
+            [
+              "2026-09-25T14:50:52Z",
+              61
+            ],
+            [
+              "2026-09-25T15:12:37Z",
+              74
+            ],
+            [
+              "2026-09-25T15:32:10Z",
+              75
+            ],
+            [
+              "2026-09-25T15:48:50Z",
+              70
+            ],
+            [
+              "2026-09-25T15:59:29Z",
+              80
+            ],
+            [
+              "2026-09-25T16:20:01Z",
+              80
+            ],
+            [
+              "2026-09-25T16:36:18Z",
+              92
+            ],
+            [
+              "2026-09-25T16:51:48Z",
+              84
+            ],
+            [
+              "2026-09-25T17:10:40Z",
+              106
+            ],
+            [
+              "2026-09-25T17:30:58Z",
+              104
+            ],
+            [
+              "2026-09-25T17:49:27Z",
+              93
+            ],
+            [
+              "2026-09-25T17:59:58Z",
+              102
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "LA4V22rLN4Y",
+          "videoUrl": "https://www.youtube.com/watch?v=LA4V22rLN4Y",
+          "start": "2026-09-24T12:17:42Z",
+          "end": "2026-09-24T18:42:46Z",
+          "minutes": 385.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 142,
+          "avgViewers": 77.1,
+          "samples": [
+            [
+              "2026-09-24T12:17:42Z",
+              47
+            ],
+            [
+              "2026-09-24T12:39:32Z",
+              78
+            ],
+            [
+              "2026-09-24T12:56:17Z",
+              83
+            ],
+            [
+              "2026-09-24T13:15:05Z",
+              70
+            ],
+            [
+              "2026-09-24T13:33:29Z",
+              72
+            ],
+            [
+              "2026-09-24T13:51:07Z",
+              66
+            ],
+            [
+              "2026-09-24T14:12:16Z",
+              85
+            ],
+            [
+              "2026-09-24T14:33:19Z",
+              79
+            ],
+            [
+              "2026-09-24T14:51:59Z",
+              70
+            ],
+            [
+              "2026-09-24T15:12:17Z",
+              61
+            ],
+            [
+              "2026-09-24T15:32:34Z",
+              55
+            ],
+            [
+              "2026-09-24T15:49:51Z",
+              53
+            ],
+            [
+              "2026-09-24T16:00:49Z",
+              63
+            ],
+            [
+              "2026-09-24T16:24:21Z",
+              77
+            ],
+            [
+              "2026-09-24T16:41:09Z",
+              82
+            ],
+            [
+              "2026-09-24T16:57:48Z",
+              142
+            ],
+            [
+              "2026-09-24T17:15:35Z",
+              110
+            ],
+            [
+              "2026-09-24T17:30:19Z",
+              99
+            ],
+            [
+              "2026-09-24T17:47:16Z",
+              88
+            ],
+            [
+              "2026-09-24T17:58:06Z",
+              88
+            ],
+            [
+              "2026-09-24T18:21:10Z",
+              65
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "aQP2S19kK3A",
+          "videoUrl": "https://www.youtube.com/watch?v=aQP2S19kK3A",
+          "start": "2026-09-23T10:49:27Z",
+          "end": "2026-09-23T13:41:22Z",
+          "minutes": 171.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠/Singing】まったり歌うので1曲聞いていってください🖤🎵🤍　【 #恋沼ミヤ】",
+          "game": null,
+          "peakViewers": 89,
+          "avgViewers": 67.0,
+          "samples": [
+            [
+              "2026-09-23T10:49:27Z",
+              76
+            ],
+            [
+              "2026-09-23T11:00:01Z",
+              89
+            ],
+            [
+              "2026-09-23T11:18:40Z",
+              88
+            ],
+            [
+              "2026-09-23T11:33:39Z",
+              77
+            ],
+            [
+              "2026-09-23T11:48:57Z",
+              69
+            ],
+            [
+              "2026-09-23T11:59:37Z",
+              68
+            ],
+            [
+              "2026-09-23T12:23:23Z",
+              47
+            ],
+            [
+              "2026-09-23T12:44:43Z",
+              58
+            ],
+            [
+              "2026-09-23T12:59:38Z",
+              54
+            ],
+            [
+              "2026-09-23T13:20:38Z",
+              56
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "0fUbAzY5Prc",
+          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
+          "start": "2026-09-22T10:12:34Z",
+          "end": "2026-09-22T16:59:11Z",
+          "minutes": 406.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 277,
+          "avgViewers": 181.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T14:55:55Z",
+          "end": "2026-09-20T17:41:30Z",
+          "minutes": 165.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 77.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "1quzz3zp2_c",
+          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
+          "start": "2026-09-20T09:46:35Z",
+          "end": "2026-09-20T14:42:46Z",
+          "minutes": 296.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 194,
+          "avgViewers": 92.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T17:12:16Z",
+          "end": "2026-09-19T18:31:46Z",
+          "minutes": 79.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 18.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "g5KtlU1DiXQ",
+          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
+          "start": "2026-09-19T12:49:54Z",
+          "end": "2026-09-19T16:56:41Z",
+          "minutes": 246.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 75,
+          "avgViewers": 60.2,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 30,
+      "livePeakViewers": 30,
+      "liveAvgViewers": 30.0,
+      "liveSamples": [
+        [
+          "2026-09-26T11:55:50Z",
+          30
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=G9kILBxLb18"
+    },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
@@ -56,27 +427,27 @@
       "lastTitle": "【 天下無双ARK 】リニオの準備を始めるのです【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 347.0,
+          "totalMinutes": 359.6,
           "gameMinutes": 0.0,
-          "totalHours": 5.78,
+          "totalHours": 5.99,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 14.5,
           "peakViewers": 21
         },
         "week": {
-          "totalMinutes": 2838.3,
+          "totalMinutes": 2850.9,
           "gameMinutes": 0.0,
-          "totalHours": 47.31,
+          "totalHours": 47.52,
           "gameHours": 0.0,
           "sessions": 7,
           "avgViewers": 13.3,
           "peakViewers": 31
         },
         "month": {
-          "totalMinutes": 5688.0,
+          "totalMinutes": 5700.6,
           "gameMinutes": 1551.3,
-          "totalHours": 94.8,
+          "totalHours": 95.01,
           "gameHours": 25.85,
           "sessions": 21,
           "avgViewers": 17.6,
@@ -584,9 +955,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 10,
+      "liveViewers": 12,
       "livePeakViewers": 18,
-      "liveAvgViewers": 14.3,
+      "liveAvgViewers": 14.2,
       "liveSamples": [
         [
           "2026-09-26T09:17:06Z",
@@ -631,6 +1002,10 @@
         [
           "2026-09-26T11:43:14Z",
           10
+        ],
+        [
+          "2026-09-26T11:55:50Z",
+          12
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=uzwPS4ThUhs"
@@ -647,30 +1022,30 @@
       "lastTitle": "【#天下無双ARK】6日目：尊い犠牲を乗り越えて🦖。【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 368.3,
+          "totalMinutes": 380.9,
           "gameMinutes": 0.0,
-          "totalHours": 6.14,
+          "totalHours": 6.35,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 100.1,
+          "avgViewers": 97.2,
           "peakViewers": 988
         },
         "week": {
-          "totalMinutes": 2553.0,
+          "totalMinutes": 2565.6,
           "gameMinutes": 0.0,
-          "totalHours": 42.55,
+          "totalHours": 42.76,
           "gameHours": 0.0,
           "sessions": 8,
-          "avgViewers": 192.0,
+          "avgViewers": 191.1,
           "peakViewers": 997
         },
         "month": {
-          "totalMinutes": 5191.9,
+          "totalMinutes": 5204.5,
           "gameMinutes": 698.2,
-          "totalHours": 86.53,
+          "totalHours": 86.74,
           "gameHours": 11.64,
           "sessions": 27,
-          "avgViewers": 253.9,
+          "avgViewers": 253.3,
           "peakViewers": 997
         }
       },
@@ -1099,9 +1474,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 14,
+      "liveViewers": 13,
       "livePeakViewers": 18,
-      "liveAvgViewers": 15.4,
+      "liveAvgViewers": 15.2,
       "liveSamples": [
         [
           "2026-09-26T09:17:06Z",
@@ -1146,6 +1521,10 @@
         [
           "2026-09-26T11:43:14Z",
           14
+        ],
+        [
+          "2026-09-26T11:55:50Z",
+          13
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=XGj4916J0ZU"
@@ -1162,27 +1541,27 @@
       "lastTitle": "【 #天下無双ARK : 7日目 】自慢の息子艦隊で洞窟など行ってみたい【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 332.3,
+          "totalMinutes": 344.9,
           "gameMinutes": 0.0,
-          "totalHours": 5.54,
+          "totalHours": 5.75,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 41.0,
+          "avgViewers": 41.2,
           "peakViewers": 51
         },
         "week": {
-          "totalMinutes": 2727.6,
+          "totalMinutes": 2740.2,
           "gameMinutes": 0.0,
-          "totalHours": 45.46,
+          "totalHours": 45.67,
           "gameHours": 0.0,
           "sessions": 7,
           "avgViewers": 44.2,
           "peakViewers": 98
         },
         "month": {
-          "totalMinutes": 4840.5,
+          "totalMinutes": 4853.1,
           "gameMinutes": 476.4,
-          "totalHours": 80.67,
+          "totalHours": 80.88,
           "gameHours": 7.94,
           "sessions": 17,
           "avgViewers": 44.0,
@@ -1674,9 +2053,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 40,
-      "livePeakViewers": 45,
-      "liveAvgViewers": 38.5,
+      "liveViewers": 46,
+      "livePeakViewers": 46,
+      "liveAvgViewers": 39.2,
       "liveSamples": [
         [
           "2026-09-26T09:31:43Z",
@@ -1717,6 +2096,10 @@
         [
           "2026-09-26T11:43:14Z",
           40
+        ],
+        [
+          "2026-09-26T11:55:50Z",
+          46
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=U6zGHan6xdE"
@@ -1733,30 +2116,30 @@
       "lastTitle": "【 #天下無双ark ￤＃１ 】完全初見ARｋ…！🦕捕まえるんですか？倒すんですか？【 すずみあ / 赤彩みあ 】",
       "buckets": {
         "today": {
-          "totalMinutes": 87.9,
+          "totalMinutes": 100.5,
           "gameMinutes": 0.0,
-          "totalHours": 1.46,
+          "totalHours": 1.67,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 540.6,
+          "avgViewers": 555.2,
           "peakViewers": 690
         },
         "week": {
-          "totalMinutes": 644.6,
+          "totalMinutes": 657.2,
           "gameMinutes": 0.0,
-          "totalHours": 10.74,
+          "totalHours": 10.95,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 285.9,
+          "avgViewers": 293.0,
           "peakViewers": 928
         },
         "month": {
-          "totalMinutes": 4549.4,
+          "totalMinutes": 4562.0,
           "gameMinutes": 168.3,
-          "totalHours": 75.82,
+          "totalHours": 76.03,
           "gameHours": 2.8,
           "sessions": 23,
-          "avgViewers": 394.5,
+          "avgViewers": 395.2,
           "peakViewers": 994
         }
       },
@@ -2037,9 +2420,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 675,
+      "liveViewers": 677,
       "livePeakViewers": 690,
-      "liveAvgViewers": 540.6,
+      "liveAvgViewers": 555.2,
       "liveSamples": [
         [
           "2026-09-26T10:15:21Z",
@@ -2068,6 +2451,10 @@
         [
           "2026-09-26T11:43:14Z",
           675
+        ],
+        [
+          "2026-09-26T11:55:50Z",
+          677
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=p3YOeQReqes"
@@ -2084,30 +2471,30 @@
       "lastTitle": "【スト6】課題しゃがんでこなしていく【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 206.0,
+          "totalMinutes": 218.6,
           "gameMinutes": 0.0,
-          "totalHours": 3.43,
+          "totalHours": 3.64,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 34.7,
-          "peakViewers": 112
+          "avgViewers": 40.0,
+          "peakViewers": 140
         },
         "week": {
-          "totalMinutes": 2078.7,
+          "totalMinutes": 2091.3,
           "gameMinutes": 0.0,
-          "totalHours": 34.64,
+          "totalHours": 34.85,
           "gameHours": 0.0,
           "sessions": 11,
-          "avgViewers": 42.6,
-          "peakViewers": 112
+          "avgViewers": 43.1,
+          "peakViewers": 140
         },
         "month": {
-          "totalMinutes": 3906.4,
+          "totalMinutes": 3919.0,
           "gameMinutes": 288.1,
-          "totalHours": 65.11,
+          "totalHours": 65.32,
           "gameHours": 4.8,
           "sessions": 26,
-          "avgViewers": 51.5,
+          "avgViewers": 51.8,
           "peakViewers": 267
         }
       },
@@ -2348,13 +2735,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 112,
-      "livePeakViewers": 112,
-      "liveAvgViewers": 112.0,
+      "liveViewers": 140,
+      "livePeakViewers": 140,
+      "liveAvgViewers": 126.0,
       "liveSamples": [
         [
           "2026-09-26T11:43:14Z",
           112
+        ],
+        [
+          "2026-09-26T11:55:50Z",
+          140
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=bby0gx50FqQ"
@@ -2371,30 +2762,30 @@
       "lastTitle": "【#ストグラ】#ストグラSeason2　引き続き人を探したりいろいろ ～Day13～【YUMENOS/那和ツムグ】",
       "buckets": {
         "today": {
-          "totalMinutes": 228.8,
+          "totalMinutes": 241.4,
           "gameMinutes": 0.0,
-          "totalHours": 3.81,
+          "totalHours": 4.02,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 94.5,
+          "avgViewers": 95.3,
           "peakViewers": 125
         },
         "week": {
-          "totalMinutes": 1156.5,
+          "totalMinutes": 1169.1,
           "gameMinutes": 0.0,
-          "totalHours": 19.27,
+          "totalHours": 19.48,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 96.4,
+          "avgViewers": 96.6,
           "peakViewers": 151
         },
         "month": {
-          "totalMinutes": 2926.1,
+          "totalMinutes": 2938.7,
           "gameMinutes": 169.2,
-          "totalHours": 48.77,
+          "totalHours": 48.98,
           "gameHours": 2.82,
           "sessions": 14,
-          "avgViewers": 81.5,
+          "avgViewers": 81.6,
           "peakViewers": 151
         }
       },
@@ -2763,9 +3154,9 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 125,
+      "liveViewers": 118,
       "livePeakViewers": 125,
-      "liveAvgViewers": 93.6,
+      "liveAvgViewers": 98.9,
       "liveSamples": [
         [
           "2026-09-26T11:15:15Z",
@@ -2778,6 +3169,10 @@
         [
           "2026-09-26T11:43:14Z",
           125
+        ],
+        [
+          "2026-09-26T11:55:50Z",
+          118
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=ZS_5SPsQ6K4"
@@ -2794,30 +3189,30 @@
       "lastTitle": "【雑談】おいおいそんなに引っ張らないでくれよ【氷乃渚 / ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 146.1,
+          "totalMinutes": 158.7,
           "gameMinutes": 0.0,
-          "totalHours": 2.44,
+          "totalHours": 2.65,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 33.7,
+          "avgViewers": 33.9,
           "peakViewers": 41
         },
         "week": {
-          "totalMinutes": 409.1,
+          "totalMinutes": 421.7,
           "gameMinutes": 0.0,
-          "totalHours": 6.82,
+          "totalHours": 7.03,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 41.3,
+          "avgViewers": 41.2,
           "peakViewers": 89
         },
         "month": {
-          "totalMinutes": 1164.6,
+          "totalMinutes": 1177.2,
           "gameMinutes": 169.2,
-          "totalHours": 19.41,
+          "totalHours": 19.62,
           "gameHours": 2.82,
           "sessions": 9,
-          "avgViewers": 55.8,
+          "avgViewers": 55.6,
           "peakViewers": 125
         }
       },
@@ -3054,9 +3449,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 37,
+      "liveViewers": 36,
       "livePeakViewers": 41,
-      "liveAvgViewers": 33.7,
+      "liveAvgViewers": 33.9,
       "liveSamples": [
         [
           "2026-09-26T09:17:06Z",
@@ -3101,6 +3496,10 @@
         [
           "2026-09-26T11:43:14Z",
           37
+        ],
+        [
+          "2026-09-26T11:55:50Z",
+          36
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=pV6vDiiaC8w"
@@ -3433,367 +3832,6 @@
           "game": null,
           "peakViewers": 141,
           "avgViewers": 99.7,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-25T18:20:49Z",
-      "lastTitle": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
-      "buckets": {
-        "today": {
-          "totalMinutes": 200.8,
-          "gameMinutes": 0.0,
-          "totalHours": 3.35,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 80.0,
-          "peakViewers": 106
-        },
-        "week": {
-          "totalMinutes": 1373.6,
-          "gameMinutes": 0.0,
-          "totalHours": 22.89,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 107.4,
-          "peakViewers": 277
-        },
-        "month": {
-          "totalMinutes": 6235.7,
-          "gameMinutes": 169.2,
-          "totalHours": 103.93,
-          "gameHours": 2.82,
-          "sessions": 24,
-          "avgViewers": 91.4,
-          "peakViewers": 428
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "BtvsJcCUx3M",
-          "videoUrl": "https://www.youtube.com/watch?v=BtvsJcCUx3M",
-          "start": "2026-09-25T14:12:18Z",
-          "end": "2026-09-25T18:20:49Z",
-          "minutes": 248.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 106,
-          "avgViewers": 80.0,
-          "samples": [
-            [
-              "2026-09-25T14:12:18Z",
-              53
-            ],
-            [
-              "2026-09-25T14:33:18Z",
-              53
-            ],
-            [
-              "2026-09-25T14:50:52Z",
-              61
-            ],
-            [
-              "2026-09-25T15:12:37Z",
-              74
-            ],
-            [
-              "2026-09-25T15:32:10Z",
-              75
-            ],
-            [
-              "2026-09-25T15:48:50Z",
-              70
-            ],
-            [
-              "2026-09-25T15:59:29Z",
-              80
-            ],
-            [
-              "2026-09-25T16:20:01Z",
-              80
-            ],
-            [
-              "2026-09-25T16:36:18Z",
-              92
-            ],
-            [
-              "2026-09-25T16:51:48Z",
-              84
-            ],
-            [
-              "2026-09-25T17:10:40Z",
-              106
-            ],
-            [
-              "2026-09-25T17:30:58Z",
-              104
-            ],
-            [
-              "2026-09-25T17:49:27Z",
-              93
-            ],
-            [
-              "2026-09-25T17:59:58Z",
-              102
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "LA4V22rLN4Y",
-          "videoUrl": "https://www.youtube.com/watch?v=LA4V22rLN4Y",
-          "start": "2026-09-24T12:17:42Z",
-          "end": "2026-09-24T18:42:46Z",
-          "minutes": 385.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 142,
-          "avgViewers": 77.1,
-          "samples": [
-            [
-              "2026-09-24T12:17:42Z",
-              47
-            ],
-            [
-              "2026-09-24T12:39:32Z",
-              78
-            ],
-            [
-              "2026-09-24T12:56:17Z",
-              83
-            ],
-            [
-              "2026-09-24T13:15:05Z",
-              70
-            ],
-            [
-              "2026-09-24T13:33:29Z",
-              72
-            ],
-            [
-              "2026-09-24T13:51:07Z",
-              66
-            ],
-            [
-              "2026-09-24T14:12:16Z",
-              85
-            ],
-            [
-              "2026-09-24T14:33:19Z",
-              79
-            ],
-            [
-              "2026-09-24T14:51:59Z",
-              70
-            ],
-            [
-              "2026-09-24T15:12:17Z",
-              61
-            ],
-            [
-              "2026-09-24T15:32:34Z",
-              55
-            ],
-            [
-              "2026-09-24T15:49:51Z",
-              53
-            ],
-            [
-              "2026-09-24T16:00:49Z",
-              63
-            ],
-            [
-              "2026-09-24T16:24:21Z",
-              77
-            ],
-            [
-              "2026-09-24T16:41:09Z",
-              82
-            ],
-            [
-              "2026-09-24T16:57:48Z",
-              142
-            ],
-            [
-              "2026-09-24T17:15:35Z",
-              110
-            ],
-            [
-              "2026-09-24T17:30:19Z",
-              99
-            ],
-            [
-              "2026-09-24T17:47:16Z",
-              88
-            ],
-            [
-              "2026-09-24T17:58:06Z",
-              88
-            ],
-            [
-              "2026-09-24T18:21:10Z",
-              65
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "aQP2S19kK3A",
-          "videoUrl": "https://www.youtube.com/watch?v=aQP2S19kK3A",
-          "start": "2026-09-23T10:49:27Z",
-          "end": "2026-09-23T13:41:22Z",
-          "minutes": 171.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠/Singing】まったり歌うので1曲聞いていってください🖤🎵🤍　【 #恋沼ミヤ】",
-          "game": null,
-          "peakViewers": 89,
-          "avgViewers": 67.0,
-          "samples": [
-            [
-              "2026-09-23T10:49:27Z",
-              76
-            ],
-            [
-              "2026-09-23T11:00:01Z",
-              89
-            ],
-            [
-              "2026-09-23T11:18:40Z",
-              88
-            ],
-            [
-              "2026-09-23T11:33:39Z",
-              77
-            ],
-            [
-              "2026-09-23T11:48:57Z",
-              69
-            ],
-            [
-              "2026-09-23T11:59:37Z",
-              68
-            ],
-            [
-              "2026-09-23T12:23:23Z",
-              47
-            ],
-            [
-              "2026-09-23T12:44:43Z",
-              58
-            ],
-            [
-              "2026-09-23T12:59:38Z",
-              54
-            ],
-            [
-              "2026-09-23T13:20:38Z",
-              56
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "0fUbAzY5Prc",
-          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
-          "start": "2026-09-22T10:12:34Z",
-          "end": "2026-09-22T16:59:11Z",
-          "minutes": 406.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 277,
-          "avgViewers": 181.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T14:55:55Z",
-          "end": "2026-09-20T17:41:30Z",
-          "minutes": 165.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 95,
-          "avgViewers": 77.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "1quzz3zp2_c",
-          "videoUrl": "https://www.youtube.com/watch?v=1quzz3zp2_c",
-          "start": "2026-09-20T09:46:35Z",
-          "end": "2026-09-20T14:42:46Z",
-          "minutes": 296.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#17　ついに最終日…！最後まで楽しみたい🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 194,
-          "avgViewers": 92.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T18:31:46Z",
-          "minutes": 79.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 18.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "g5KtlU1DiXQ",
-          "videoUrl": "https://www.youtube.com/watch?v=g5KtlU1DiXQ",
-          "start": "2026-09-19T12:49:54Z",
-          "end": "2026-09-19T16:56:41Z",
-          "minutes": 246.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#16　あと2日しかないってまじ…？🔥【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 75,
-          "avgViewers": 60.2,
           "samples": [],
           "isTargetGame": false
         }
