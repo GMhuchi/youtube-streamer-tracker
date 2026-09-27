@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T08:33:31Z",
+  "updatedAt": "2026-09-27T08:48:44Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2432.6,
+      "totalMinutes": 2447.8,
       "gameMinutes": 0.0,
-      "totalHours": 40.54,
+      "totalHours": 40.8,
       "gameHours": 0.0,
       "sessions": 16,
-      "avgViewers": 80.2,
+      "avgViewers": 82.9,
       "peakViewers": 996
     },
     "week": {
-      "totalMinutes": 31243.1,
+      "totalMinutes": 31258.4,
       "gameMinutes": 0.0,
-      "totalHours": 520.72,
+      "totalHours": 520.97,
       "gameHours": 0.0,
       "sessions": 137,
-      "avgViewers": 105.2,
+      "avgViewers": 105.4,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 76195.6,
+      "totalMinutes": 76210.8,
       "gameMinutes": 9797.0,
-      "totalHours": 1269.93,
+      "totalHours": 1270.18,
       "gameHours": 163.28,
       "sessions": 415,
       "avgViewers": 116.5,
@@ -56,30 +56,30 @@
       "lastTitle": "【APEX】お昼の爆弾マン🤍ソロえぺ【甘音あむ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 75.8,
+          "totalMinutes": 91.1,
           "gameMinutes": 0.0,
-          "totalHours": 1.26,
+          "totalHours": 1.52,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 420.4,
+          "avgViewers": 436.4,
           "peakViewers": 575
         },
         "week": {
-          "totalMinutes": 701.1,
+          "totalMinutes": 716.3,
           "gameMinutes": 0.0,
-          "totalHours": 11.69,
+          "totalHours": 11.94,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 276.9,
+          "avgViewers": 282.5,
           "peakViewers": 575
         },
         "month": {
-          "totalMinutes": 2016.0,
+          "totalMinutes": 2031.2,
           "gameMinutes": 600.9,
-          "totalHours": 33.6,
+          "totalHours": 33.85,
           "gameHours": 10.01,
           "sessions": 17,
-          "avgViewers": 202.1,
+          "avgViewers": 204.5,
           "peakViewers": 793
         }
       },
@@ -308,9 +308,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 575,
+      "liveViewers": 532,
       "livePeakViewers": 575,
-      "liveAvgViewers": 420.4,
+      "liveAvgViewers": 436.4,
       "liveSamples": [
         [
           "2026-09-27T07:17:41Z",
@@ -335,6 +335,10 @@
         [
           "2026-09-27T08:33:31Z",
           575
+        ],
+        [
+          "2026-09-27T08:48:44Z",
+          532
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=uvI9J57kWu8"
@@ -7183,40 +7187,7 @@
           "game": null,
           "peakViewers": 53,
           "avgViewers": 40.2,
-          "samples": [
-            [
-              "2026-09-20T06:37:37Z",
-              24
-            ],
-            [
-              "2026-09-20T06:52:36Z",
-              31
-            ],
-            [
-              "2026-09-20T07:10:24Z",
-              32
-            ],
-            [
-              "2026-09-20T07:29:25Z",
-              37
-            ],
-            [
-              "2026-09-20T07:42:40Z",
-              43
-            ],
-            [
-              "2026-09-20T07:55:50Z",
-              53
-            ],
-            [
-              "2026-09-20T08:12:57Z",
-              49
-            ],
-            [
-              "2026-09-20T08:30:56Z",
-              52
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
