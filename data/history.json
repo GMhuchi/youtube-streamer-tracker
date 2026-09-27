@@ -1,59 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "Gr6ntWyw_XY",
-      "start": "2026-09-27T03:18:48Z",
-      "startSource": "observed",
-      "title": "【雑談】昼活すっぞ～🍙【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 908,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-27T03:18:48Z",
-      "lastSeenAt": "2026-09-27T05:17:36Z",
-      "samples": [
-        [
-          "2026-09-27T03:18:48Z",
-          908
-        ],
-        [
-          "2026-09-27T03:34:57Z",
-          12
-        ],
-        [
-          "2026-09-27T03:49:29Z",
-          13
-        ],
-        [
-          "2026-09-27T03:59:55Z",
-          14
-        ],
-        [
-          "2026-09-27T04:19:03Z",
-          13
-        ],
-        [
-          "2026-09-27T04:35:47Z",
-          13
-        ],
-        [
-          "2026-09-27T04:48:55Z",
-          14
-        ],
-        [
-          "2026-09-27T04:59:38Z",
-          14
-        ],
-        [
-          "2026-09-27T05:17:36Z",
-          13
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -25375,6 +25323,60 @@
         [
           "2026-09-27T01:17:03Z",
           22
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "Gr6ntWyw_XY",
+      "videoUrl": "https://www.youtube.com/watch?v=Gr6ntWyw_XY",
+      "start": "2026-09-27T03:18:48Z",
+      "end": "2026-09-27T05:32:56Z",
+      "minutes": 134.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】昼活すっぞ～🍙【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 908,
+      "avgViewers": 121.4,
+      "samples": [
+        [
+          "2026-09-27T03:18:48Z",
+          908
+        ],
+        [
+          "2026-09-27T03:34:57Z",
+          12
+        ],
+        [
+          "2026-09-27T03:49:29Z",
+          13
+        ],
+        [
+          "2026-09-27T03:59:55Z",
+          14
+        ],
+        [
+          "2026-09-27T04:19:03Z",
+          13
+        ],
+        [
+          "2026-09-27T04:35:47Z",
+          13
+        ],
+        [
+          "2026-09-27T04:48:55Z",
+          14
+        ],
+        [
+          "2026-09-27T04:59:38Z",
+          14
+        ],
+        [
+          "2026-09-27T05:17:36Z",
+          13
         ]
       ],
       "isTargetGame": false
