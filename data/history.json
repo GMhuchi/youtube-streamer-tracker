@@ -2,50 +2,79 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "uvI9J57kWu8",
-      "start": "2026-09-27T07:17:41Z",
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "s-K_d9Xg0PM",
+      "start": "2026-09-27T09:17:38Z",
       "startSource": "observed",
-      "title": "【 #歌枠 / KARAOKE 】お歌練習！聴いて🤍✨【甘音あむ / ネオポルテ】",
+      "title": "【#天下無双ARK】8日目：試練のダンジョンをみんなで頑張る日🦖！【望月ほぐの/ゆにれいど！】",
       "game": null,
-      "peakViewers": 575,
+      "peakViewers": 11,
       "isTargetGame": false,
-      "firstSeenAt": "2026-09-27T07:17:41Z",
-      "lastSeenAt": "2026-09-27T08:59:22Z",
+      "firstSeenAt": "2026-09-27T09:17:38Z",
+      "lastSeenAt": "2026-09-27T09:17:38Z",
       "samples": [
         [
-          "2026-09-27T07:17:41Z",
-          219
-        ],
+          "2026-09-27T09:17:38Z",
+          11
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "YnhjtWitxlE",
+      "start": "2026-09-27T09:17:38Z",
+      "startSource": "observed",
+      "title": "【 #天下無双ARK : 9日目 】戦力恐竜子育て月間【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 35,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-27T09:17:38Z",
+      "lastSeenAt": "2026-09-27T09:17:38Z",
+      "samples": [
         [
-          "2026-09-27T07:32:44Z",
-          276
-        ],
+          "2026-09-27T09:17:38Z",
+          35
+        ]
+      ]
+    },
+    "UC1_HUmjQShLtT_MuZjry3hQ": {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "V2Y3CnW6fM8",
+      "start": "2026-09-27T09:17:38Z",
+      "startSource": "observed",
+      "title": "【 天下無双ARK 】150レベルをみると昂る体【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 11,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-27T09:17:38Z",
+      "lastSeenAt": "2026-09-27T09:17:38Z",
+      "samples": [
         [
-          "2026-09-27T07:48:13Z",
-          302
-        ],
+          "2026-09-27T09:17:38Z",
+          11
+        ]
+      ]
+    },
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "XbK04FjYtRw",
+      "start": "2026-09-27T09:17:38Z",
+      "startSource": "observed",
+      "title": "【妹に運転を教える】免許失効してるけど、まあ教えるくらいできるだろう【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 18,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-27T09:17:38Z",
+      "lastSeenAt": "2026-09-27T09:17:38Z",
+      "samples": [
         [
-          "2026-09-27T07:58:41Z",
-          522
-        ],
-        [
-          "2026-09-27T08:17:57Z",
-          562
-        ],
-        [
-          "2026-09-27T08:33:31Z",
-          575
-        ],
-        [
-          "2026-09-27T08:48:44Z",
-          532
-        ],
-        [
-          "2026-09-27T08:59:22Z",
-          500
+          "2026-09-27T09:17:38Z",
+          18
         ]
       ]
     }
@@ -25501,6 +25530,56 @@
         [
           "2026-09-27T06:59:03Z",
           11
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "uvI9J57kWu8",
+      "videoUrl": "https://www.youtube.com/watch?v=uvI9J57kWu8",
+      "start": "2026-09-27T07:17:41Z",
+      "end": "2026-09-27T09:17:38Z",
+      "minutes": 120.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #歌枠 / KARAOKE 】お歌練習！聴いて🤍✨【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 575,
+      "avgViewers": 440.6,
+      "samples": [
+        [
+          "2026-09-27T07:17:41Z",
+          219
+        ],
+        [
+          "2026-09-27T07:32:44Z",
+          276
+        ],
+        [
+          "2026-09-27T07:48:13Z",
+          302
+        ],
+        [
+          "2026-09-27T07:58:41Z",
+          522
+        ],
+        [
+          "2026-09-27T08:17:57Z",
+          562
+        ],
+        [
+          "2026-09-27T08:33:31Z",
+          575
+        ],
+        [
+          "2026-09-27T08:48:44Z",
+          532
+        ],
+        [
+          "2026-09-27T08:59:22Z",
+          500
         ]
       ],
       "isTargetGame": false
