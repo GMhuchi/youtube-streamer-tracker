@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T03:18:48Z",
+  "updatedAt": "2026-09-27T03:34:57Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2047.6,
+      "totalMinutes": 2063.8,
       "gameMinutes": 0.0,
-      "totalHours": 34.13,
+      "totalHours": 34.4,
       "gameHours": 0.0,
       "sessions": 13,
-      "avgViewers": 49.1,
+      "avgViewers": 52.3,
       "peakViewers": 908
     },
     "week": {
-      "totalMinutes": 30858.2,
+      "totalMinutes": 30874.3,
       "gameMinutes": 0.0,
-      "totalHours": 514.3,
+      "totalHours": 514.57,
       "gameHours": 0.0,
       "sessions": 134,
-      "avgViewers": 103.5,
+      "avgViewers": 103.6,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 75810.6,
+      "totalMinutes": 75826.8,
       "gameMinutes": 9797.0,
-      "totalHours": 1263.51,
+      "totalHours": 1263.78,
       "gameHours": 163.28,
       "sessions": 412,
-      "avgViewers": 115.8,
+      "avgViewers": 115.9,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【#雑談】㊗19万人！まったり雑談 #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 16.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.27,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 908.0,
+          "avgViewers": 460.0,
           "peakViewers": 908
         },
         "week": {
-          "totalMinutes": 275.3,
+          "totalMinutes": 291.5,
           "gameMinutes": 0.0,
-          "totalHours": 4.59,
+          "totalHours": 4.86,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 573.4,
+          "avgViewers": 567.1,
           "peakViewers": 908
         },
         "month": {
-          "totalMinutes": 1349.8,
+          "totalMinutes": 1365.9,
           "gameMinutes": 604.9,
-          "totalHours": 22.5,
+          "totalHours": 22.77,
           "gameHours": 10.08,
           "sessions": 14,
-          "avgViewers": 345.6,
+          "avgViewers": 347.1,
           "peakViewers": 975
         }
       },
@@ -288,13 +288,17 @@
           "isTargetGame": true
         }
       ],
-      "liveViewers": 908,
+      "liveViewers": 12,
       "livePeakViewers": 908,
-      "liveAvgViewers": 908.0,
+      "liveAvgViewers": 460.0,
       "liveSamples": [
         [
           "2026-09-27T03:18:48Z",
           908
+        ],
+        [
+          "2026-09-27T03:34:57Z",
+          12
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Gr6ntWyw_XY"
