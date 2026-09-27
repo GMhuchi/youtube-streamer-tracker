@@ -2,49 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "jU0z9br9WL4",
-      "start": "2026-09-27T05:48:06Z",
-      "startSource": "observed",
-      "title": "【ポケモンチャンピオンズ】寝起きでアブソルとマスター級行きたい！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 996,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-27T05:48:06Z",
-      "lastSeenAt": "2026-09-27T07:32:44Z",
-      "samples": [
-        [
-          "2026-09-27T05:48:06Z",
-          488
-        ],
-        [
-          "2026-09-27T05:58:33Z",
-          778
-        ],
-        [
-          "2026-09-27T06:22:49Z",
-          996
-        ],
-        [
-          "2026-09-27T06:44:36Z",
-          11
-        ],
-        [
-          "2026-09-27T06:59:03Z",
-          11
-        ],
-        [
-          "2026-09-27T07:17:41Z",
-          11
-        ],
-        [
-          "2026-09-27T07:32:44Z",
-          11
-        ]
-      ]
-    },
     "UC6FprWVXuULaY9mZOcqTe4A": {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
@@ -53,10 +10,10 @@
       "startSource": "observed",
       "title": "【 #歌枠 / KARAOKE 】お歌練習！聴いて🤍✨【甘音あむ / ネオポルテ】",
       "game": null,
-      "peakViewers": 276,
+      "peakViewers": 302,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-27T07:17:41Z",
-      "lastSeenAt": "2026-09-27T07:32:44Z",
+      "lastSeenAt": "2026-09-27T07:48:13Z",
       "samples": [
         [
           "2026-09-27T07:17:41Z",
@@ -65,6 +22,10 @@
         [
           "2026-09-27T07:32:44Z",
           276
+        ],
+        [
+          "2026-09-27T07:48:13Z",
+          302
         ]
       ]
     }
@@ -25444,6 +25405,52 @@
         [
           "2026-09-27T05:17:36Z",
           13
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "jU0z9br9WL4",
+      "videoUrl": "https://www.youtube.com/watch?v=jU0z9br9WL4",
+      "start": "2026-09-27T05:48:06Z",
+      "end": "2026-09-27T07:48:13Z",
+      "minutes": 120.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ポケモンチャンピオンズ】寝起きでアブソルとマスター級行きたい！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 996,
+      "avgViewers": 380.1,
+      "samples": [
+        [
+          "2026-09-27T05:48:06Z",
+          488
+        ],
+        [
+          "2026-09-27T05:58:33Z",
+          778
+        ],
+        [
+          "2026-09-27T06:22:49Z",
+          996
+        ],
+        [
+          "2026-09-27T06:44:36Z",
+          11
+        ],
+        [
+          "2026-09-27T06:59:03Z",
+          11
+        ],
+        [
+          "2026-09-27T07:17:41Z",
+          11
+        ],
+        [
+          "2026-09-27T07:32:44Z",
+          11
         ]
       ],
       "isTargetGame": false
