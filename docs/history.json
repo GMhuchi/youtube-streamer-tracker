@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T22:15:06Z",
+  "updatedAt": "2026-09-27T22:31:00Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1210.9,
+      "totalMinutes": 1226.8,
       "gameMinutes": 0.0,
-      "totalHours": 20.18,
+      "totalHours": 20.45,
       "gameHours": 0.0,
       "sessions": 9,
-      "avgViewers": 136.7,
+      "avgViewers": 135.2,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 1210.9,
+      "totalMinutes": 1226.8,
       "gameMinutes": 0.0,
-      "totalHours": 20.18,
+      "totalHours": 20.45,
       "gameHours": 0.0,
       "sessions": 9,
-      "avgViewers": 136.7,
+      "avgViewers": 135.2,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 79622.9,
+      "totalMinutes": 79638.8,
       "gameMinutes": 9797.0,
-      "totalHours": 1327.05,
+      "totalHours": 1327.31,
       "gameHours": 163.28,
       "sessions": 429,
-      "avgViewers": 117.4,
+      "avgViewers": 117.3,
       "peakViewers": 997
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "【妹に運転を教える】免許失効してるけど、まあ教えるくらいできるだろう【埼凰リンネ / YUMENOS】 #新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 15.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.27,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 19.0,
-          "peakViewers": 19
+          "avgViewers": 21.0,
+          "peakViewers": 23
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 15.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.27,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 19.0,
-          "peakViewers": 19
+          "avgViewers": 21.0,
+          "peakViewers": 23
         },
         "month": {
-          "totalMinutes": 3427.8,
+          "totalMinutes": 3443.7,
           "gameMinutes": 503.1,
-          "totalHours": 57.13,
+          "totalHours": 57.4,
           "gameHours": 8.38,
           "sessions": 29,
           "avgViewers": 12.8,
@@ -308,13 +308,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 19,
-      "livePeakViewers": 19,
-      "liveAvgViewers": 19.0,
+      "liveViewers": 23,
+      "livePeakViewers": 23,
+      "liveAvgViewers": 21.0,
       "liveSamples": [
         [
           "2026-09-27T22:15:06Z",
           19
+        ],
+        [
+          "2026-09-27T22:31:00Z",
+          23
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=tjdZl5zuDIs"
