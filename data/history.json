@@ -13,7 +13,7 @@
       "peakViewers": 996,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-27T09:17:38Z",
-      "lastSeenAt": "2026-09-27T09:58:50Z",
+      "lastSeenAt": "2026-09-27T10:17:12Z",
       "samples": [
         [
           "2026-09-27T09:17:38Z",
@@ -30,6 +30,10 @@
         [
           "2026-09-27T09:58:50Z",
           996
+        ],
+        [
+          "2026-09-27T10:17:12Z",
+          1
         ]
       ]
     },
@@ -44,7 +48,7 @@
       "peakViewers": 69,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-27T09:17:38Z",
-      "lastSeenAt": "2026-09-27T09:58:50Z",
+      "lastSeenAt": "2026-09-27T10:17:12Z",
       "samples": [
         [
           "2026-09-27T09:17:38Z",
@@ -61,6 +65,10 @@
         [
           "2026-09-27T09:58:50Z",
           69
+        ],
+        [
+          "2026-09-27T10:17:12Z",
+          49
         ]
       ]
     },
@@ -75,7 +83,7 @@
       "peakViewers": 15,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-27T09:17:38Z",
-      "lastSeenAt": "2026-09-27T09:58:50Z",
+      "lastSeenAt": "2026-09-27T10:17:12Z",
       "samples": [
         [
           "2026-09-27T09:17:38Z",
@@ -92,37 +100,10 @@
         [
           "2026-09-27T09:58:50Z",
           9
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "XbK04FjYtRw",
-      "start": "2026-09-27T09:17:38Z",
-      "startSource": "observed",
-      "title": "【妹に運転を教える】免許失効してるけど、まあ教えるくらいできるだろう【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "game": null,
-      "peakViewers": 18,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-27T09:17:38Z",
-      "lastSeenAt": "2026-09-27T09:58:50Z",
-      "samples": [
-        [
-          "2026-09-27T09:17:38Z",
-          18
         ],
         [
-          "2026-09-27T09:32:53Z",
-          12
-        ],
-        [
-          "2026-09-27T09:48:09Z",
+          "2026-09-27T10:17:12Z",
           10
-        ],
-        [
-          "2026-09-27T09:58:50Z",
-          13
         ]
       ]
     }
@@ -25628,6 +25609,40 @@
         [
           "2026-09-27T08:59:22Z",
           500
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "XbK04FjYtRw",
+      "videoUrl": "https://www.youtube.com/watch?v=XbK04FjYtRw",
+      "start": "2026-09-27T09:17:38Z",
+      "end": "2026-09-27T10:17:12Z",
+      "minutes": 59.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【妹に運転を教える】免許失効してるけど、まあ教えるくらいできるだろう【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 18,
+      "avgViewers": 13.5,
+      "samples": [
+        [
+          "2026-09-27T09:17:38Z",
+          18
+        ],
+        [
+          "2026-09-27T09:32:53Z",
+          12
+        ],
+        [
+          "2026-09-27T09:48:09Z",
+          10
+        ],
+        [
+          "2026-09-27T09:58:50Z",
+          13
         ]
       ],
       "isTargetGame": false
