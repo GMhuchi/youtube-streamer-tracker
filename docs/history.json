@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T13:58:12Z",
+  "updatedAt": "2026-09-27T14:16:08Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 4152.3,
+      "totalMinutes": 4298.1,
       "gameMinutes": 0.0,
-      "totalHours": 69.2,
+      "totalHours": 71.63,
       "gameHours": 0.0,
-      "sessions": 28,
-      "avgViewers": 97.4,
+      "sessions": 29,
+      "avgViewers": 96.0,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 32962.9,
+      "totalMinutes": 33108.6,
       "gameMinutes": 0.0,
-      "totalHours": 549.38,
+      "totalHours": 551.81,
       "gameHours": 0.0,
-      "sessions": 149,
-      "avgViewers": 106.2,
+      "sessions": 150,
+      "avgViewers": 105.9,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 77915.3,
+      "totalMinutes": 78061.1,
       "gameMinutes": 9797.0,
-      "totalHours": 1298.59,
+      "totalHours": 1301.02,
       "gameHours": 163.28,
-      "sessions": 427,
-      "avgViewers": 116.6,
+      "sessions": 428,
+      "avgViewers": 116.5,
       "peakViewers": 997
     }
   },
@@ -50,40 +50,57 @@
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
       "isLive": true,
-      "liveSince": "2026-09-27T12:21:31Z",
-      "liveTitle": "〖 メン限 〗 みんなとふぉーるがいずする日（短め） 〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-26T09:47:19Z",
-      "lastTitle": "〖 VALORANT 〗新しい武器があるらしい〖 心白てと / ネオポルテ 〗",
+      "liveSince": "2026-09-27T14:16:08Z",
+      "liveTitle": "〖 幽霊列車 〗 夜の駅とても怖いよね 〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-09-27T14:01:23Z",
+      "lastTitle": "〖 メン限 〗 みんなとふぉーるがいずする日（短め） 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 96.7,
+          "totalMinutes": 117.0,
           "gameMinutes": 0.0,
-          "totalHours": 1.61,
+          "totalHours": 1.95,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 2,
+          "avgViewers": 191.0,
+          "peakViewers": 191
         },
         "week": {
-          "totalMinutes": 2840.4,
+          "totalMinutes": 2860.6,
           "gameMinutes": 0.0,
-          "totalHours": 47.34,
+          "totalHours": 47.68,
           "gameHours": 0.0,
-          "sessions": 13,
+          "sessions": 14,
           "avgViewers": 330.1,
           "peakViewers": 784
         },
         "month": {
-          "totalMinutes": 7098.3,
+          "totalMinutes": 7118.6,
           "gameMinutes": 168.3,
-          "totalHours": 118.31,
+          "totalHours": 118.64,
           "gameHours": 2.8,
-          "sessions": 34,
+          "sessions": 35,
           "avgViewers": 281.9,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "eOjzV0EObAA",
+          "videoUrl": "https://www.youtube.com/watch?v=eOjzV0EObAA",
+          "start": "2026-09-27T12:04:26Z",
+          "end": "2026-09-27T14:01:23Z",
+          "minutes": 117.0,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 みんなとふぉーるがいずする日（短め） 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -234,60 +251,7 @@
           "game": null,
           "peakViewers": 303,
           "avgViewers": 242.2,
-          "samples": [
-            [
-              "2026-09-25T10:16:06Z",
-              153
-            ],
-            [
-              "2026-09-25T10:33:04Z",
-              223
-            ],
-            [
-              "2026-09-25T10:49:33Z",
-              242
-            ],
-            [
-              "2026-09-25T11:00:34Z",
-              290
-            ],
-            [
-              "2026-09-25T11:22:31Z",
-              303
-            ],
-            [
-              "2026-09-25T11:41:31Z",
-              258
-            ],
-            [
-              "2026-09-25T11:56:54Z",
-              247
-            ],
-            [
-              "2026-09-25T12:19:23Z",
-              239
-            ],
-            [
-              "2026-09-25T12:39:52Z",
-              227
-            ],
-            [
-              "2026-09-25T12:56:46Z",
-              219
-            ],
-            [
-              "2026-09-25T13:16:09Z",
-              234
-            ],
-            [
-              "2026-09-25T13:33:36Z",
-              246
-            ],
-            [
-              "2026-09-25T13:50:37Z",
-              249
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -357,30 +321,18 @@
           "avgViewers": 301.3,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "hLcEyfYasls",
-          "videoUrl": "https://www.youtube.com/watch?v=hLcEyfYasls",
-          "start": "2026-09-21T14:34:30Z",
-          "end": "2026-09-21T18:34:55Z",
-          "minutes": 240.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 クロノ・トリガー╎#9 〗 名作RPG☆完全初見❕新たな冒険はじめます!! 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 141,
-          "avgViewers": 99.7,
-          "samples": [],
-          "isTargetGame": false
         }
       ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=eOjzV0EObAA"
+      "liveViewers": 191,
+      "livePeakViewers": 191,
+      "liveAvgViewers": 191.0,
+      "liveSamples": [
+        [
+          "2026-09-27T14:16:08Z",
+          191
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=JzfUyEa0kHM"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -394,30 +346,30 @@
       "lastTitle": "【ストグラ2】Day35 ギャング体験中。今日はどんな日になるのかな？【#恋沼ミヤ/#神楽坂レイナ】",
       "buckets": {
         "today": {
-          "totalMinutes": 295.8,
+          "totalMinutes": 313.7,
           "gameMinutes": 0.0,
-          "totalHours": 4.93,
+          "totalHours": 5.23,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 47.4,
-          "peakViewers": 72
+          "avgViewers": 48.8,
+          "peakViewers": 74
         },
         "week": {
-          "totalMinutes": 1853.6,
+          "totalMinutes": 1871.5,
           "gameMinutes": 0.0,
-          "totalHours": 30.89,
+          "totalHours": 31.19,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 91.6,
+          "avgViewers": 91.4,
           "peakViewers": 277
         },
         "month": {
-          "totalMinutes": 6715.7,
+          "totalMinutes": 6733.6,
           "gameMinutes": 169.2,
-          "totalHours": 111.93,
+          "totalHours": 112.23,
           "gameHours": 2.82,
           "sessions": 26,
-          "avgViewers": 88.2,
+          "avgViewers": 88.1,
           "peakViewers": 428
         }
       },
@@ -798,9 +750,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 72,
-      "livePeakViewers": 72,
-      "liveAvgViewers": 53.8,
+      "liveViewers": 74,
+      "livePeakViewers": 74,
+      "liveAvgViewers": 56.6,
       "liveSamples": [
         [
           "2026-09-27T12:21:31Z",
@@ -829,6 +781,10 @@
         [
           "2026-09-27T13:58:12Z",
           72
+        ],
+        [
+          "2026-09-27T14:16:08Z",
+          74
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=eRrzdUCKdo0"
@@ -845,27 +801,27 @@
       "lastTitle": "【 天下無双ARK 】強い恐竜色の良い恐竜全部ほしい【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 479.7,
+          "totalMinutes": 497.6,
           "gameMinutes": 0.0,
-          "totalHours": 7.99,
+          "totalHours": 8.29,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 12.7,
+          "avgViewers": 12.6,
           "peakViewers": 22
         },
         "week": {
-          "totalMinutes": 3514.8,
+          "totalMinutes": 3532.7,
           "gameMinutes": 0.0,
-          "totalHours": 58.58,
+          "totalHours": 58.88,
           "gameHours": 0.0,
           "sessions": 8,
-          "avgViewers": 13.2,
+          "avgViewers": 13.1,
           "peakViewers": 31
         },
         "month": {
-          "totalMinutes": 6364.4,
+          "totalMinutes": 6382.4,
           "gameMinutes": 1551.3,
-          "totalHours": 106.07,
+          "totalHours": 106.37,
           "gameHours": 25.85,
           "sessions": 22,
           "avgViewers": 17.1,
@@ -1403,7 +1359,7 @@
       ],
       "liveViewers": 10,
       "livePeakViewers": 22,
-      "liveAvgViewers": 12.2,
+      "liveAvgViewers": 12.1,
       "liveSamples": [
         [
           "2026-09-27T09:17:38Z",
@@ -1480,6 +1436,10 @@
         [
           "2026-09-27T13:58:12Z",
           10
+        ],
+        [
+          "2026-09-27T14:16:08Z",
+          10
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=V2Y3CnW6fM8"
@@ -1496,30 +1456,30 @@
       "lastTitle": "【ポケモンチャンピオンズ】寝起きでアブソルとマスター級行きたい！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 617.7,
+          "totalMinutes": 635.6,
           "gameMinutes": 0.0,
-          "totalHours": 10.3,
+          "totalHours": 10.59,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 308.3,
+          "avgViewers": 303.4,
           "peakViewers": 997
         },
         "week": {
-          "totalMinutes": 3367.4,
+          "totalMinutes": 3385.4,
           "gameMinutes": 0.0,
-          "totalHours": 56.12,
+          "totalHours": 56.42,
           "gameHours": 0.0,
           "sessions": 10,
-          "avgViewers": 214.7,
+          "avgViewers": 214.2,
           "peakViewers": 997
         },
         "month": {
-          "totalMinutes": 6006.3,
+          "totalMinutes": 6024.3,
           "gameMinutes": 698.2,
-          "totalHours": 100.11,
+          "totalHours": 100.4,
           "gameHours": 11.64,
           "sessions": 29,
-          "avgViewers": 258.2,
+          "avgViewers": 257.8,
           "peakViewers": 997
         }
       },
@@ -1964,9 +1924,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 920,
+      "liveViewers": 1,
       "livePeakViewers": 997,
-      "liveAvgViewers": 415.8,
+      "liveAvgViewers": 398.8,
       "liveSamples": [
         [
           "2026-09-27T09:17:38Z",
@@ -2043,6 +2003,10 @@
         [
           "2026-09-27T13:58:12Z",
           920
+        ],
+        [
+          "2026-09-27T14:16:08Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=s-K_d9Xg0PM"
@@ -2059,30 +2023,30 @@
       "lastTitle": "【 #天下無双ARK : 8日目 】戦力を高めて洞窟を支配する！【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 479.7,
+          "totalMinutes": 497.6,
           "gameMinutes": 0.0,
-          "totalHours": 7.99,
+          "totalHours": 8.29,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 49.8,
+          "avgViewers": 50.2,
           "peakViewers": 69
         },
         "week": {
-          "totalMinutes": 3404.1,
+          "totalMinutes": 3422.0,
           "gameMinutes": 0.0,
-          "totalHours": 56.73,
+          "totalHours": 57.03,
           "gameHours": 0.0,
           "sessions": 8,
           "avgViewers": 45.2,
           "peakViewers": 98
         },
         "month": {
-          "totalMinutes": 5516.9,
+          "totalMinutes": 5534.9,
           "gameMinutes": 476.4,
-          "totalHours": 91.95,
+          "totalHours": 92.25,
           "gameHours": 7.94,
           "sessions": 18,
-          "avgViewers": 44.6,
+          "avgViewers": 44.7,
           "peakViewers": 98
         }
       },
@@ -2603,9 +2567,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 55,
+      "liveViewers": 60,
       "livePeakViewers": 69,
-      "liveAvgViewers": 53.9,
+      "liveAvgViewers": 54.2,
       "liveSamples": [
         [
           "2026-09-27T09:17:38Z",
@@ -2682,6 +2646,10 @@
         [
           "2026-09-27T13:58:12Z",
           55
+        ],
+        [
+          "2026-09-27T14:16:08Z",
+          60
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=YnhjtWitxlE"
@@ -2698,30 +2666,30 @@
       "lastTitle": "【天下無双ARK】私が鯖落ちの理由でした #5【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 240.9,
+          "totalMinutes": 258.8,
           "gameMinutes": 0.0,
-          "totalHours": 4.02,
+          "totalHours": 4.31,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 34.1,
+          "avgViewers": 33.7,
           "peakViewers": 46
         },
         "week": {
-          "totalMinutes": 2506.5,
+          "totalMinutes": 2524.4,
           "gameMinutes": 0.0,
-          "totalHours": 41.77,
+          "totalHours": 42.07,
           "gameHours": 0.0,
           "sessions": 14,
-          "avgViewers": 45.1,
+          "avgViewers": 45.0,
           "peakViewers": 146
         },
         "month": {
-          "totalMinutes": 4334.2,
+          "totalMinutes": 4352.1,
           "gameMinutes": 288.1,
-          "totalHours": 72.24,
+          "totalHours": 72.54,
           "gameHours": 4.8,
           "sessions": 29,
-          "avgViewers": 52.3,
+          "avgViewers": 52.2,
           "peakViewers": 267
         }
       },
@@ -2945,9 +2913,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 26,
+      "liveViewers": 29,
       "livePeakViewers": 32,
-      "liveAvgViewers": 27.9,
+      "liveAvgViewers": 28.0,
       "liveSamples": [
         [
           "2026-09-27T13:16:25Z",
@@ -2964,6 +2932,10 @@
         [
           "2026-09-27T13:58:12Z",
           26
+        ],
+        [
+          "2026-09-27T14:16:08Z",
+          29
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=_NLAhrg9O9A"
@@ -2980,27 +2952,27 @@
       "lastTitle": "〚ARK 〛8日目！木から生まれるくまと三文字恐竜のテイムするぞ！〚 甘成じゅい/ゆにれいど！ 〛#天下無双ARK",
       "buckets": {
         "today": {
-          "totalMinutes": 295.8,
+          "totalMinutes": 313.7,
           "gameMinutes": 0.0,
-          "totalHours": 4.93,
+          "totalHours": 5.23,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 50.3,
           "peakViewers": 71
         },
         "week": {
-          "totalMinutes": 2425.3,
+          "totalMinutes": 2443.2,
           "gameMinutes": 0.0,
-          "totalHours": 40.42,
+          "totalHours": 40.72,
           "gameHours": 0.0,
           "sessions": 8,
-          "avgViewers": 58.0,
+          "avgViewers": 57.9,
           "peakViewers": 167
         },
         "month": {
-          "totalMinutes": 4247.7,
+          "totalMinutes": 4265.6,
           "gameMinutes": 535.5,
-          "totalHours": 70.8,
+          "totalHours": 71.09,
           "gameHours": 8.92,
           "sessions": 22,
           "avgViewers": 53.8,
@@ -3412,9 +3384,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 43,
-      "livePeakViewers": 46,
-      "liveAvgViewers": 39.3,
+      "liveViewers": 54,
+      "livePeakViewers": 54,
+      "liveAvgViewers": 41.2,
       "liveSamples": [
         [
           "2026-09-27T12:21:31Z",
@@ -3443,6 +3415,10 @@
         [
           "2026-09-27T13:58:12Z",
           43
+        ],
+        [
+          "2026-09-27T14:16:08Z",
+          54
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=3_bDnqAq80M"
@@ -3459,30 +3435,30 @@
       "lastTitle": "🟣9/26【 #NoResultsFound 】タコの教団...覚えがあるような...？【 maŸUko / #Vtuber 】",
       "buckets": {
         "today": {
-          "totalMinutes": 162.0,
+          "totalMinutes": 179.9,
           "gameMinutes": 0.0,
-          "totalHours": 2.7,
+          "totalHours": 3.0,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 9.7,
+          "avgViewers": 9.9,
           "peakViewers": 13
         },
         "week": {
-          "totalMinutes": 834.9,
+          "totalMinutes": 852.8,
           "gameMinutes": 0.0,
-          "totalHours": 13.91,
+          "totalHours": 14.21,
           "gameHours": 0.0,
           "sessions": 6,
           "avgViewers": 7.7,
           "peakViewers": 19
         },
         "month": {
-          "totalMinutes": 2151.1,
+          "totalMinutes": 2169.0,
           "gameMinutes": 772.4,
-          "totalHours": 35.85,
+          "totalHours": 36.15,
           "gameHours": 12.87,
           "sessions": 19,
-          "avgViewers": 8.0,
+          "avgViewers": 8.1,
           "peakViewers": 19
         }
       },
@@ -3735,9 +3711,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 8,
+      "liveViewers": 13,
       "livePeakViewers": 13,
-      "liveAvgViewers": 9.7,
+      "liveAvgViewers": 9.9,
       "liveSamples": [
         [
           "2026-09-27T11:16:14Z",
@@ -3782,6 +3758,10 @@
         [
           "2026-09-27T13:58:12Z",
           8
+        ],
+        [
+          "2026-09-27T14:16:08Z",
+          13
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=nUfZ2WjpQjA"
@@ -7496,6 +7476,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "eOjzV0EObAA",
+      "videoUrl": "https://www.youtube.com/watch?v=eOjzV0EObAA",
+      "start": "2026-09-27T12:04:26Z",
+      "end": "2026-09-27T14:01:23Z",
+      "minutes": 117.0,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "〖 メン限 〗 みんなとふぉーるがいずする日（短め） 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
       "name": "十神仁",
       "videoId": "Bs9QicC5Drg",
@@ -8437,22 +8433,6 @@
       "game": null,
       "peakViewers": 167,
       "avgViewers": 68.6,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "AjK2sYcC7VE",
-      "videoUrl": "https://www.youtube.com/watch?v=AjK2sYcC7VE",
-      "start": "2026-09-24T11:00:13Z",
-      "end": "2026-09-24T12:17:42Z",
-      "minutes": 77.5,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【Coffee Talk Tokyo】人の成長を見ることができるいいゲームです【ゲーム実況】※ネタバレを含む",
-      "game": null,
-      "peakViewers": 9,
-      "avgViewers": 7.7,
       "isTargetGame": false
     }
   ]
