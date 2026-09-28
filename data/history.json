@@ -13,7 +13,7 @@
       "peakViewers": 999,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T09:22:37Z",
-      "lastSeenAt": "2026-09-28T10:58:28Z",
+      "lastSeenAt": "2026-09-28T11:18:21Z",
       "samples": [
         [
           "2026-09-28T09:22:37Z",
@@ -38,6 +38,10 @@
         [
           "2026-09-28T10:58:28Z",
           918
+        ],
+        [
+          "2026-09-28T11:18:21Z",
+          892
         ]
       ]
     },
@@ -52,7 +56,7 @@
       "peakViewers": 24,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T09:22:37Z",
-      "lastSeenAt": "2026-09-28T10:58:28Z",
+      "lastSeenAt": "2026-09-28T11:18:21Z",
       "samples": [
         [
           "2026-09-28T09:22:37Z",
@@ -77,6 +81,10 @@
         [
           "2026-09-28T10:58:28Z",
           17
+        ],
+        [
+          "2026-09-28T11:18:21Z",
+          17
         ]
       ]
     },
@@ -91,7 +99,7 @@
       "peakViewers": 32,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T10:21:22Z",
-      "lastSeenAt": "2026-09-28T10:58:28Z",
+      "lastSeenAt": "2026-09-28T11:18:21Z",
       "samples": [
         [
           "2026-09-28T10:21:22Z",
@@ -104,35 +112,45 @@
         [
           "2026-09-28T10:58:28Z",
           29
+        ],
+        [
+          "2026-09-28T11:18:21Z",
+          29
         ]
       ]
     },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "fG4NkLHWNok",
-      "start": "2026-09-28T10:21:22Z",
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "Usvtr33BUN8",
+      "start": "2026-09-28T11:18:21Z",
       "startSource": "observed",
-      "title": "【GREEN SPOON】健康冷凍飯、実食します。【綾見ユラ/YUMENOS】",
+      "title": "【 Dig,Dig,Die 】協力ホラー？！墓ファーム？！バチ当たりますよ！！w/米将軍さん,鬱先生さん,ゾムさん,小廻こまさん,コンプサウルス【ゆにれいど！/ 火狩夜れんま】",
       "game": null,
-      "peakViewers": 96,
+      "peakViewers": 43,
       "isTargetGame": false,
-      "firstSeenAt": "2026-09-28T10:21:22Z",
-      "lastSeenAt": "2026-09-28T10:58:28Z",
+      "firstSeenAt": "2026-09-28T11:18:21Z",
+      "lastSeenAt": "2026-09-28T11:18:21Z",
       "samples": [
         [
-          "2026-09-28T10:21:22Z",
-          96
-        ],
-        [
-          "2026-09-28T10:42:31Z",
-          93
-        ],
-        [
-          "2026-09-28T10:58:28Z",
-          96
+          "2026-09-28T11:18:21Z",
+          43
         ]
       ]
+    },
+    "UCeTb2MQrm8UBChlecw7pQOA": {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "RmRC__VBU8I",
+      "start": "2026-09-28T11:18:21Z",
+      "startSource": "observed",
+      "title": "【 メン限 】９月ももう終わりますなあ～～～～～【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-28T11:18:21Z",
+      "lastSeenAt": "2026-09-28T11:18:21Z",
+      "samples": []
     }
   },
   "sessions": [
@@ -26901,6 +26919,36 @@
         [
           "2026-09-28T10:21:22Z",
           32
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "fG4NkLHWNok",
+      "videoUrl": "https://www.youtube.com/watch?v=fG4NkLHWNok",
+      "start": "2026-09-28T10:21:22Z",
+      "end": "2026-09-28T11:18:21Z",
+      "minutes": 57.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【GREEN SPOON】健康冷凍飯、実食します。【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 96,
+      "avgViewers": 95.1,
+      "samples": [
+        [
+          "2026-09-28T10:21:22Z",
+          96
+        ],
+        [
+          "2026-09-28T10:42:31Z",
+          93
+        ],
+        [
+          "2026-09-28T10:58:28Z",
+          96
         ]
       ],
       "isTargetGame": false
