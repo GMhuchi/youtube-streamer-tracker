@@ -2,41 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "mKgDy4nzx8Q",
-      "start": "2026-09-28T03:12:25Z",
-      "startSource": "observed",
-      "title": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 265,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-28T03:12:25Z",
-      "lastSeenAt": "2026-09-28T04:34:33Z",
-      "samples": [
-        [
-          "2026-09-28T03:12:25Z",
-          127
-        ],
-        [
-          "2026-09-28T03:34:49Z",
-          196
-        ],
-        [
-          "2026-09-28T03:51:44Z",
-          230
-        ],
-        [
-          "2026-09-28T04:12:17Z",
-          250
-        ],
-        [
-          "2026-09-28T04:34:33Z",
-          265
-        ]
-      ]
-    },
     "UCEtUOMEAuAMz8dor89rt2RA": {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -45,10 +10,10 @@
       "startSource": "observed",
       "title": "〖 VALORANT 〗ヴぁろやろろそろ〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 388,
+      "peakViewers": 465,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T04:12:17Z",
-      "lastSeenAt": "2026-09-28T04:34:33Z",
+      "lastSeenAt": "2026-09-28T04:52:05Z",
       "samples": [
         [
           "2026-09-28T04:12:17Z",
@@ -57,6 +22,10 @@
         [
           "2026-09-28T04:34:33Z",
           388
+        ],
+        [
+          "2026-09-28T04:52:05Z",
+          465
         ]
       ]
     }
@@ -26693,6 +26662,44 @@
         [
           "2026-09-28T02:16:21Z",
           29
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "mKgDy4nzx8Q",
+      "videoUrl": "https://www.youtube.com/watch?v=mKgDy4nzx8Q",
+      "start": "2026-09-28T03:12:25Z",
+      "end": "2026-09-28T04:52:05Z",
+      "minutes": 99.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 265,
+      "avgViewers": 213.3,
+      "samples": [
+        [
+          "2026-09-28T03:12:25Z",
+          127
+        ],
+        [
+          "2026-09-28T03:34:49Z",
+          196
+        ],
+        [
+          "2026-09-28T03:51:44Z",
+          230
+        ],
+        [
+          "2026-09-28T04:12:17Z",
+          250
+        ],
+        [
+          "2026-09-28T04:34:33Z",
+          265
         ]
       ],
       "isTargetGame": false
