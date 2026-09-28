@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T06:42:45Z",
+  "updatedAt": "2026-09-28T07:02:25Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1744.9,
+      "totalMinutes": 1764.6,
       "gameMinutes": 0.0,
-      "totalHours": 29.08,
+      "totalHours": 29.41,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 150.4,
+      "avgViewers": 153.8,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 1744.9,
+      "totalMinutes": 1764.6,
       "gameMinutes": 0.0,
-      "totalHours": 29.08,
+      "totalHours": 29.41,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 150.4,
+      "avgViewers": 153.8,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 80156.9,
+      "totalMinutes": 80176.5,
       "gameMinutes": 9797.0,
-      "totalHours": 1335.95,
+      "totalHours": 1336.28,
       "gameHours": 163.28,
       "sessions": 432,
-      "avgViewers": 117.8,
+      "avgViewers": 117.9,
       "peakViewers": 997
     }
   },
@@ -49,41 +49,91 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-09-28T04:12:17Z",
-      "liveTitle": "〖 VALORANT 〗ヴぁろやろろそろ〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-27T16:16:24Z",
-      "lastTitle": "〖 幽霊列車 〗 夜の駅とても怖いよね 〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-28T07:02:25Z",
+      "lastTitle": "〖 VALORANT 〗ヴぁろやろろそろ〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 226.9,
+          "totalMinutes": 246.5,
           "gameMinutes": 0.0,
-          "totalHours": 3.78,
+          "totalHours": 4.11,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 385.8,
+          "avgViewers": 391.4,
           "peakViewers": 573
         },
         "week": {
-          "totalMinutes": 226.9,
+          "totalMinutes": 246.5,
           "gameMinutes": 0.0,
-          "totalHours": 3.78,
+          "totalHours": 4.11,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 385.8,
+          "avgViewers": 391.4,
           "peakViewers": 573
         },
         "month": {
-          "totalMinutes": 7389.3,
+          "totalMinutes": 7409.0,
           "gameMinutes": 168.3,
-          "totalHours": 123.16,
+          "totalHours": 123.48,
           "gameHours": 2.8,
           "sessions": 36,
-          "avgViewers": 285.4,
+          "avgViewers": 285.9,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "4fC8lx3nGPE",
+          "videoUrl": "https://www.youtube.com/watch?v=4fC8lx3nGPE",
+          "start": "2026-09-28T04:12:17Z",
+          "end": "2026-09-28T07:02:25Z",
+          "minutes": 170.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 VALORANT 〗ヴぁろやろろそろ〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 573,
+          "avgViewers": 456.7,
+          "samples": [
+            [
+              "2026-09-28T04:12:17Z",
+              190
+            ],
+            [
+              "2026-09-28T04:34:33Z",
+              388
+            ],
+            [
+              "2026-09-28T04:52:05Z",
+              465
+            ],
+            [
+              "2026-09-28T05:11:49Z",
+              476
+            ],
+            [
+              "2026-09-28T05:33:22Z",
+              510
+            ],
+            [
+              "2026-09-28T05:50:19Z",
+              546
+            ],
+            [
+              "2026-09-28T06:16:06Z",
+              489
+            ],
+            [
+              "2026-09-28T06:42:45Z",
+              573
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -165,76 +215,7 @@
           "game": null,
           "peakViewers": 607,
           "avgViewers": 458.0,
-          "samples": [
-            [
-              "2026-09-26T05:16:52Z",
-              176
-            ],
-            [
-              "2026-09-26T05:31:22Z",
-              284
-            ],
-            [
-              "2026-09-26T05:47:30Z",
-              546
-            ],
-            [
-              "2026-09-26T05:58:06Z",
-              492
-            ],
-            [
-              "2026-09-26T06:21:21Z",
-              466
-            ],
-            [
-              "2026-09-26T06:44:00Z",
-              50
-            ],
-            [
-              "2026-09-26T06:58:02Z",
-              472
-            ],
-            [
-              "2026-09-26T07:16:08Z",
-              553
-            ],
-            [
-              "2026-09-26T07:30:48Z",
-              607
-            ],
-            [
-              "2026-09-26T07:47:12Z",
-              531
-            ],
-            [
-              "2026-09-26T07:57:37Z",
-              563
-            ],
-            [
-              "2026-09-26T08:17:11Z",
-              551
-            ],
-            [
-              "2026-09-26T08:33:05Z",
-              544
-            ],
-            [
-              "2026-09-26T08:48:32Z",
-              576
-            ],
-            [
-              "2026-09-26T08:58:58Z",
-              489
-            ],
-            [
-              "2026-09-26T09:17:06Z",
-              438
-            ],
-            [
-              "2026-09-26T09:31:43Z",
-              427
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -304,63 +285,8 @@
           "avgViewers": 548.5,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "yrVWI65KosM",
-          "videoUrl": "https://www.youtube.com/watch?v=yrVWI65KosM",
-          "start": "2026-09-23T03:18:20Z",
-          "end": "2026-09-23T05:17:08Z",
-          "minutes": 118.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 心昏でスト６コラボガチャする✊〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 745,
-          "avgViewers": 675.1,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 573,
-      "livePeakViewers": 573,
-      "liveAvgViewers": 456.7,
-      "liveSamples": [
-        [
-          "2026-09-28T04:12:17Z",
-          190
-        ],
-        [
-          "2026-09-28T04:34:33Z",
-          388
-        ],
-        [
-          "2026-09-28T04:52:05Z",
-          465
-        ],
-        [
-          "2026-09-28T05:11:49Z",
-          476
-        ],
-        [
-          "2026-09-28T05:33:22Z",
-          510
-        ],
-        [
-          "2026-09-28T05:50:19Z",
-          546
-        ],
-        [
-          "2026-09-28T06:16:06Z",
-          489
-        ],
-        [
-          "2026-09-28T06:42:45Z",
-          573
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=4fC8lx3nGPE"
+      ]
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -7190,6 +7116,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "4fC8lx3nGPE",
+      "videoUrl": "https://www.youtube.com/watch?v=4fC8lx3nGPE",
+      "start": "2026-09-28T04:12:17Z",
+      "end": "2026-09-28T07:02:25Z",
+      "minutes": 170.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 VALORANT 〗ヴぁろやろろそろ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 573,
+      "avgViewers": 456.7,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
       "videoId": "mKgDy4nzx8Q",
@@ -8131,22 +8073,6 @@
       "game": null,
       "peakViewers": 26,
       "avgViewers": 26.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "9kfBWjuhC7Y",
-      "videoUrl": "https://www.youtube.com/watch?v=9kfBWjuhC7Y",
-      "start": "2026-09-25T04:19:29Z",
-      "end": "2026-09-25T06:24:05Z",
-      "minutes": 124.6,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【ポケモンチャンピオンズ】アブソルとマスター級行きたい！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 965,
-      "avgViewers": 365.4,
       "isTargetGame": false
     }
   ]

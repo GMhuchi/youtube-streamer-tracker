@@ -1,55 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "4fC8lx3nGPE",
-      "start": "2026-09-28T04:12:17Z",
-      "startSource": "observed",
-      "title": "〖 VALORANT 〗ヴぁろやろろそろ〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 573,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-28T04:12:17Z",
-      "lastSeenAt": "2026-09-28T06:42:45Z",
-      "samples": [
-        [
-          "2026-09-28T04:12:17Z",
-          190
-        ],
-        [
-          "2026-09-28T04:34:33Z",
-          388
-        ],
-        [
-          "2026-09-28T04:52:05Z",
-          465
-        ],
-        [
-          "2026-09-28T05:11:49Z",
-          476
-        ],
-        [
-          "2026-09-28T05:33:22Z",
-          510
-        ],
-        [
-          "2026-09-28T05:50:19Z",
-          546
-        ],
-        [
-          "2026-09-28T06:16:06Z",
-          489
-        ],
-        [
-          "2026-09-28T06:42:45Z",
-          573
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -26720,6 +26672,56 @@
         [
           "2026-09-28T04:34:33Z",
           265
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "4fC8lx3nGPE",
+      "videoUrl": "https://www.youtube.com/watch?v=4fC8lx3nGPE",
+      "start": "2026-09-28T04:12:17Z",
+      "end": "2026-09-28T07:02:25Z",
+      "minutes": 170.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 VALORANT 〗ヴぁろやろろそろ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 573,
+      "avgViewers": 456.7,
+      "samples": [
+        [
+          "2026-09-28T04:12:17Z",
+          190
+        ],
+        [
+          "2026-09-28T04:34:33Z",
+          388
+        ],
+        [
+          "2026-09-28T04:52:05Z",
+          465
+        ],
+        [
+          "2026-09-28T05:11:49Z",
+          476
+        ],
+        [
+          "2026-09-28T05:33:22Z",
+          510
+        ],
+        [
+          "2026-09-28T05:50:19Z",
+          546
+        ],
+        [
+          "2026-09-28T06:16:06Z",
+          489
+        ],
+        [
+          "2026-09-28T06:42:45Z",
+          573
         ]
       ],
       "isTargetGame": false
