@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T03:12:25Z",
+  "updatedAt": "2026-09-28T03:34:49Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1494.8,
+      "totalMinutes": 1517.2,
       "gameMinutes": 0.0,
-      "totalHours": 24.91,
+      "totalHours": 25.29,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 115.4,
+      "avgViewers": 116.0,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 1494.8,
+      "totalMinutes": 1517.2,
       "gameMinutes": 0.0,
-      "totalHours": 24.91,
+      "totalHours": 25.29,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 115.4,
+      "avgViewers": 116.0,
       "peakViewers": 997
     },
     "month": {
-      "totalMinutes": 79906.7,
+      "totalMinutes": 79929.1,
       "gameMinutes": 9797.0,
-      "totalHours": 1331.78,
+      "totalHours": 1332.15,
       "gameHours": 163.28,
       "sessions": 431,
       "avgViewers": 117.0,
@@ -56,30 +56,30 @@
       "lastTitle": "【 #歌枠 / KARAOKE 】お歌練習！聴いて🤍✨【甘音あむ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 22.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.37,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 127.0,
-          "peakViewers": 127
+          "avgViewers": 161.5,
+          "peakViewers": 196
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 22.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.37,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 127.0,
-          "peakViewers": 127
+          "avgViewers": 161.5,
+          "peakViewers": 196
         },
         "month": {
-          "totalMinutes": 2060.1,
+          "totalMinutes": 2082.5,
           "gameMinutes": 600.9,
-          "totalHours": 34.34,
+          "totalHours": 34.71,
           "gameHours": 10.01,
           "sessions": 18,
-          "avgViewers": 208.1,
+          "avgViewers": 207.6,
           "peakViewers": 793
         }
       },
@@ -316,13 +316,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 127,
-      "livePeakViewers": 127,
-      "liveAvgViewers": 127.0,
+      "liveViewers": 196,
+      "livePeakViewers": 196,
+      "liveAvgViewers": 161.5,
       "liveSamples": [
         [
           "2026-09-28T03:12:25Z",
           127
+        ],
+        [
+          "2026-09-28T03:34:49Z",
+          196
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=mKgDy4nzx8Q"
