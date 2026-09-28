@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "mKgDy4nzx8Q",
+      "start": "2026-09-28T03:12:25Z",
+      "startSource": "observed",
+      "title": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 127,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-28T03:12:25Z",
+      "lastSeenAt": "2026-09-28T03:12:25Z",
+      "samples": [
+        [
+          "2026-09-28T03:12:25Z",
+          127
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
