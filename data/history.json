@@ -2,49 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "vjF7WkmrTWg",
-      "start": "2026-09-28T08:23:09Z",
-      "startSource": "observed",
-      "title": "【スト6】しゃがんで待ってたら強くなれますか？【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 53,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-28T08:23:09Z",
-      "lastSeenAt": "2026-09-28T10:21:22Z",
-      "samples": [
-        [
-          "2026-09-28T08:23:09Z",
-          36
-        ],
-        [
-          "2026-09-28T08:43:35Z",
-          50
-        ],
-        [
-          "2026-09-28T08:59:16Z",
-          43
-        ],
-        [
-          "2026-09-28T09:22:37Z",
-          43
-        ],
-        [
-          "2026-09-28T09:43:30Z",
-          53
-        ],
-        [
-          "2026-09-28T09:59:33Z",
-          47
-        ],
-        [
-          "2026-09-28T10:21:22Z",
-          32
-        ]
-      ]
-    },
     "UCJWTT5HZQbrkP1NUBwwVEbQ": {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
@@ -56,7 +13,7 @@
       "peakViewers": 999,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T09:22:37Z",
-      "lastSeenAt": "2026-09-28T10:21:22Z",
+      "lastSeenAt": "2026-09-28T10:42:31Z",
       "samples": [
         [
           "2026-09-28T09:22:37Z",
@@ -73,6 +30,10 @@
         [
           "2026-09-28T10:21:22Z",
           913
+        ],
+        [
+          "2026-09-28T10:42:31Z",
+          928
         ]
       ]
     },
@@ -87,7 +48,7 @@
       "peakViewers": 24,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T09:22:37Z",
-      "lastSeenAt": "2026-09-28T10:21:22Z",
+      "lastSeenAt": "2026-09-28T10:42:31Z",
       "samples": [
         [
           "2026-09-28T09:22:37Z",
@@ -104,6 +65,10 @@
         [
           "2026-09-28T10:21:22Z",
           16
+        ],
+        [
+          "2026-09-28T10:42:31Z",
+          18
         ]
       ]
     },
@@ -115,14 +80,18 @@
       "startSource": "observed",
       "title": "〖 VALORANT┆2022 ZETA vs 2025 FENNEL 〗 すんごいカスタムのウォチパさせていただきます.ᐟ.ᐟ⭐︎ 〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 29,
+      "peakViewers": 32,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T10:21:22Z",
-      "lastSeenAt": "2026-09-28T10:21:22Z",
+      "lastSeenAt": "2026-09-28T10:42:31Z",
       "samples": [
         [
           "2026-09-28T10:21:22Z",
           29
+        ],
+        [
+          "2026-09-28T10:42:31Z",
+          32
         ]
       ]
     },
@@ -137,11 +106,15 @@
       "peakViewers": 96,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-28T10:21:22Z",
-      "lastSeenAt": "2026-09-28T10:21:22Z",
+      "lastSeenAt": "2026-09-28T10:42:31Z",
       "samples": [
         [
           "2026-09-28T10:21:22Z",
           96
+        ],
+        [
+          "2026-09-28T10:42:31Z",
+          93
         ]
       ]
     }
@@ -26866,6 +26839,52 @@
         [
           "2026-09-28T06:42:45Z",
           573
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "vjF7WkmrTWg",
+      "videoUrl": "https://www.youtube.com/watch?v=vjF7WkmrTWg",
+      "start": "2026-09-28T08:23:09Z",
+      "end": "2026-09-28T10:42:31Z",
+      "minutes": 139.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【スト6】しゃがんで待ってたら強くなれますか？【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 53,
+      "avgViewers": 43.0,
+      "samples": [
+        [
+          "2026-09-28T08:23:09Z",
+          36
+        ],
+        [
+          "2026-09-28T08:43:35Z",
+          50
+        ],
+        [
+          "2026-09-28T08:59:16Z",
+          43
+        ],
+        [
+          "2026-09-28T09:22:37Z",
+          43
+        ],
+        [
+          "2026-09-28T09:43:30Z",
+          53
+        ],
+        [
+          "2026-09-28T09:59:33Z",
+          47
+        ],
+        [
+          "2026-09-28T10:21:22Z",
+          32
         ]
       ],
       "isTargetGame": false
