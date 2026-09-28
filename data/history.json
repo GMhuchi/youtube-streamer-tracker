@@ -1,35 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "gmPcj8LfXXk",
-      "start": "2026-09-28T19:50:19Z",
-      "startSource": "observed",
-      "title": "【#天下無双ARK】9日目：ブリーディングがかりの朝は早い🦖！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 900,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-28T19:50:19Z",
-      "lastSeenAt": "2026-09-28T20:32:27Z",
-      "samples": [
-        [
-          "2026-09-28T19:50:19Z",
-          900
-        ],
-        [
-          "2026-09-28T20:10:33Z",
-          885
-        ],
-        [
-          "2026-09-28T20:32:27Z",
-          811
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -27761,6 +27733,36 @@
         [
           "2026-09-28T17:50:41Z",
           32
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "gmPcj8LfXXk",
+      "videoUrl": "https://www.youtube.com/watch?v=gmPcj8LfXXk",
+      "start": "2026-09-28T19:50:19Z",
+      "end": "2026-09-28T20:51:22Z",
+      "minutes": 61.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#天下無双ARK】9日目：ブリーディングがかりの朝は早い🦖！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 900,
+      "avgViewers": 865.1,
+      "samples": [
+        [
+          "2026-09-28T19:50:19Z",
+          900
+        ],
+        [
+          "2026-09-28T20:10:33Z",
+          885
+        ],
+        [
+          "2026-09-28T20:32:27Z",
+          811
         ]
       ],
       "isTargetGame": false
