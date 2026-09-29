@@ -1,59 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "BUF3HziVjQE",
-      "start": "2026-09-29T21:11:44Z",
-      "startSource": "observed",
-      "title": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
-      "game": null,
-      "peakViewers": 91,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-29T21:11:44Z",
-      "lastSeenAt": "2026-09-29T23:30:00Z",
-      "samples": [
-        [
-          "2026-09-29T21:11:44Z",
-          48
-        ],
-        [
-          "2026-09-29T21:37:37Z",
-          73
-        ],
-        [
-          "2026-09-29T21:49:34Z",
-          88
-        ],
-        [
-          "2026-09-29T22:00:48Z",
-          91
-        ],
-        [
-          "2026-09-29T22:23:27Z",
-          85
-        ],
-        [
-          "2026-09-29T22:40:53Z",
-          86
-        ],
-        [
-          "2026-09-29T22:56:40Z",
-          85
-        ],
-        [
-          "2026-09-29T23:13:44Z",
-          74
-        ],
-        [
-          "2026-09-29T23:30:00Z",
-          61
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -28940,6 +28888,60 @@
         [
           "2026-09-29T23:13:44Z",
           19
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "BUF3HziVjQE",
+      "videoUrl": "https://www.youtube.com/watch?v=BUF3HziVjQE",
+      "start": "2026-09-29T21:11:44Z",
+      "end": "2026-09-29T23:44:37Z",
+      "minutes": 152.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 91,
+      "avgViewers": 75.3,
+      "samples": [
+        [
+          "2026-09-29T21:11:44Z",
+          48
+        ],
+        [
+          "2026-09-29T21:37:37Z",
+          73
+        ],
+        [
+          "2026-09-29T21:49:34Z",
+          88
+        ],
+        [
+          "2026-09-29T22:00:48Z",
+          91
+        ],
+        [
+          "2026-09-29T22:23:27Z",
+          85
+        ],
+        [
+          "2026-09-29T22:40:53Z",
+          86
+        ],
+        [
+          "2026-09-29T22:56:40Z",
+          85
+        ],
+        [
+          "2026-09-29T23:13:44Z",
+          74
+        ],
+        [
+          "2026-09-29T23:30:00Z",
+          61
         ]
       ],
       "isTargetGame": false
