@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T02:16:31Z",
+  "updatedAt": "2026-09-29T02:32:10Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1464.0,
+      "totalMinutes": 1479.6,
       "gameMinutes": 0.0,
-      "totalHours": 24.4,
+      "totalHours": 24.66,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 209.2,
+      "avgViewers": 207.2,
       "peakViewers": 999
     },
     "week": {
-      "totalMinutes": 5718.9,
+      "totalMinutes": 5734.5,
       "gameMinutes": 0.0,
-      "totalHours": 95.31,
+      "totalHours": 95.58,
       "gameHours": 0.0,
       "sessions": 30,
-      "avgViewers": 178.7,
+      "avgViewers": 178.3,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 84130.8,
+      "totalMinutes": 84146.4,
       "gameMinutes": 9797.0,
-      "totalHours": 1402.18,
+      "totalHours": 1402.44,
       "gameHours": 163.28,
       "sessions": 450,
-      "avgViewers": 121.3,
+      "avgViewers": 121.2,
       "peakViewers": 999
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "【目標：レジェンド リュウ レバー】急いで動きすぎない！【LIVE】#スト6  【十神仁/ YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 136.9,
+          "totalMinutes": 152.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.28,
+          "totalHours": 2.54,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 19.3,
+          "avgViewers": 19.8,
           "peakViewers": 29
         },
         "week": {
-          "totalMinutes": 294.0,
+          "totalMinutes": 309.7,
           "gameMinutes": 0.0,
-          "totalHours": 4.9,
+          "totalHours": 5.16,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 22.2,
+          "avgViewers": 22.3,
           "peakViewers": 33
         },
         "month": {
-          "totalMinutes": 2174.8,
+          "totalMinutes": 2190.5,
           "gameMinutes": 559.9,
-          "totalHours": 36.25,
+          "totalHours": 36.51,
           "gameHours": 9.33,
           "sessions": 21,
           "avgViewers": 15.5,
@@ -301,7 +301,7 @@
       ],
       "liveViewers": 25,
       "livePeakViewers": 29,
-      "liveAvgViewers": 19.3,
+      "liveAvgViewers": 19.8,
       "liveSamples": [
         [
           "2026-09-28T23:59:40Z",
@@ -333,6 +333,10 @@
         ],
         [
           "2026-09-29T02:16:31Z",
+          25
+        ],
+        [
+          "2026-09-29T02:32:10Z",
           25
         ]
       ],
