@@ -2,53 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "2Pt0ur7A0Rw",
-      "start": "2026-09-29T21:11:44Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 22,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-29T21:11:44Z",
-      "lastSeenAt": "2026-09-29T23:13:44Z",
-      "samples": [
-        [
-          "2026-09-29T21:11:44Z",
-          12
-        ],
-        [
-          "2026-09-29T21:37:37Z",
-          21
-        ],
-        [
-          "2026-09-29T21:49:34Z",
-          16
-        ],
-        [
-          "2026-09-29T22:00:48Z",
-          21
-        ],
-        [
-          "2026-09-29T22:23:27Z",
-          22
-        ],
-        [
-          "2026-09-29T22:40:53Z",
-          20
-        ],
-        [
-          "2026-09-29T22:56:40Z",
-          18
-        ],
-        [
-          "2026-09-29T23:13:44Z",
-          19
-        ]
-      ]
-    },
     "UCXUu1nCtDMAbasD0wAK1cdw": {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -60,7 +13,7 @@
       "peakViewers": 91,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-29T21:11:44Z",
-      "lastSeenAt": "2026-09-29T23:13:44Z",
+      "lastSeenAt": "2026-09-29T23:30:00Z",
       "samples": [
         [
           "2026-09-29T21:11:44Z",
@@ -93,6 +46,10 @@
         [
           "2026-09-29T23:13:44Z",
           74
+        ],
+        [
+          "2026-09-29T23:30:00Z",
+          61
         ]
       ]
     }
@@ -28933,6 +28890,56 @@
         [
           "2026-09-29T20:52:03Z",
           824
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "2Pt0ur7A0Rw",
+      "videoUrl": "https://www.youtube.com/watch?v=2Pt0ur7A0Rw",
+      "start": "2026-09-29T21:11:44Z",
+      "end": "2026-09-29T23:30:00Z",
+      "minutes": 138.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 22,
+      "avgViewers": 18.3,
+      "samples": [
+        [
+          "2026-09-29T21:11:44Z",
+          12
+        ],
+        [
+          "2026-09-29T21:37:37Z",
+          21
+        ],
+        [
+          "2026-09-29T21:49:34Z",
+          16
+        ],
+        [
+          "2026-09-29T22:00:48Z",
+          21
+        ],
+        [
+          "2026-09-29T22:23:27Z",
+          22
+        ],
+        [
+          "2026-09-29T22:40:53Z",
+          20
+        ],
+        [
+          "2026-09-29T22:56:40Z",
+          18
+        ],
+        [
+          "2026-09-29T23:13:44Z",
+          19
         ]
       ],
       "isTargetGame": false
