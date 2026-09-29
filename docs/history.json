@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T01:22:29Z",
+  "updatedAt": "2026-09-29T01:41:15Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1409.9,
+      "totalMinutes": 1428.7,
       "gameMinutes": 0.0,
-      "totalHours": 23.5,
+      "totalHours": 23.81,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 216.2,
+      "avgViewers": 213.7,
       "peakViewers": 999
     },
     "week": {
-      "totalMinutes": 5664.8,
+      "totalMinutes": 5683.6,
       "gameMinutes": 0.0,
-      "totalHours": 94.41,
+      "totalHours": 94.73,
       "gameHours": 0.0,
       "sessions": 30,
-      "avgViewers": 180.2,
+      "avgViewers": 179.7,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 84076.8,
+      "totalMinutes": 84095.5,
       "gameMinutes": 9797.0,
-      "totalHours": 1401.28,
+      "totalHours": 1401.59,
       "gameHours": 163.28,
       "sessions": 450,
       "avgViewers": 121.3,
@@ -56,30 +56,30 @@
       "lastTitle": "【目標：レジェンド リュウ レバー】急いで動きすぎない！【LIVE】#スト6  【十神仁/ YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 82.8,
+          "totalMinutes": 101.6,
           "gameMinutes": 0.0,
-          "totalHours": 1.38,
+          "totalHours": 1.69,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 15.9,
-          "peakViewers": 22
+          "avgViewers": 17.0,
+          "peakViewers": 23
         },
         "week": {
-          "totalMinutes": 240.0,
+          "totalMinutes": 258.7,
           "gameMinutes": 0.0,
-          "totalHours": 4.0,
+          "totalHours": 4.31,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 21.7,
           "peakViewers": 33
         },
         "month": {
-          "totalMinutes": 2120.8,
+          "totalMinutes": 2139.6,
           "gameMinutes": 559.9,
-          "totalHours": 35.35,
+          "totalHours": 35.66,
           "gameHours": 9.33,
           "sessions": 21,
-          "avgViewers": 15.2,
+          "avgViewers": 15.3,
           "peakViewers": 33
         }
       },
@@ -299,9 +299,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 21,
-      "livePeakViewers": 22,
-      "liveAvgViewers": 15.9,
+      "liveViewers": 23,
+      "livePeakViewers": 23,
+      "liveAvgViewers": 17.0,
       "liveSamples": [
         [
           "2026-09-28T23:59:40Z",
@@ -322,6 +322,10 @@
         [
           "2026-09-29T01:22:29Z",
           21
+        ],
+        [
+          "2026-09-29T01:41:15Z",
+          23
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=89difDZsJeI"
