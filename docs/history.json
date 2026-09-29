@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T08:22:18Z",
+  "updatedAt": "2026-09-29T08:44:03Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2078.6,
+      "totalMinutes": 2100.3,
       "gameMinutes": 0.0,
-      "totalHours": 34.64,
+      "totalHours": 35.01,
       "gameHours": 0.0,
       "sessions": 13,
-      "avgViewers": 176.7,
+      "avgViewers": 176.4,
       "peakViewers": 999
     },
     "week": {
-      "totalMinutes": 6333.4,
+      "totalMinutes": 6355.2,
       "gameMinutes": 0.0,
-      "totalHours": 105.56,
+      "totalHours": 105.92,
       "gameHours": 0.0,
       "sessions": 32,
       "avgViewers": 170.8,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 84745.4,
+      "totalMinutes": 84767.1,
       "gameMinutes": 9797.0,
-      "totalHours": 1412.42,
+      "totalHours": 1412.79,
       "gameHours": 163.28,
       "sessions": 452,
       "avgViewers": 121.1,
@@ -49,41 +49,99 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-09-29T05:11:20Z",
-      "liveTitle": "〖 ストリートファイター6 🔰〗 コツコツコンボ練習🔥⚡ 〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-28T12:41:31Z",
-      "lastTitle": "〖 VALORANT┆2022 ZETA vs 2025 FENNEL 〗 すんごいカスタムのウォチパさせていただきます.ᐟ.ᐟ⭐︎ 〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-29T08:44:03Z",
+      "lastTitle": "〖 ストリートファイター6 🔰〗 コツコツコンボ練習🔥⚡ 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 191.0,
+          "totalMinutes": 212.7,
           "gameMinutes": 0.0,
-          "totalHours": 3.18,
+          "totalHours": 3.55,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 147.8,
           "peakViewers": 175
         },
         "week": {
-          "totalMinutes": 577.7,
+          "totalMinutes": 599.4,
           "gameMinutes": 0.0,
-          "totalHours": 9.63,
+          "totalHours": 9.99,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 222.5,
+          "avgViewers": 219.8,
           "peakViewers": 573
         },
         "month": {
-          "totalMinutes": 7740.1,
+          "totalMinutes": 7761.8,
           "gameMinutes": 168.3,
-          "totalHours": 129.0,
+          "totalHours": 129.36,
           "gameHours": 2.8,
           "sessions": 38,
-          "avgViewers": 276.6,
+          "avgViewers": 276.2,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "HSfhZE1Wptc",
+          "videoUrl": "https://www.youtube.com/watch?v=HSfhZE1Wptc",
+          "start": "2026-09-29T05:11:20Z",
+          "end": "2026-09-29T08:44:03Z",
+          "minutes": 212.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ストリートファイター6 🔰〗 コツコツコンボ練習🔥⚡ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 175,
+          "avgViewers": 147.8,
+          "samples": [
+            [
+              "2026-09-29T05:11:20Z",
+              65
+            ],
+            [
+              "2026-09-29T05:32:54Z",
+              138
+            ],
+            [
+              "2026-09-29T05:50:45Z",
+              151
+            ],
+            [
+              "2026-09-29T06:14:55Z",
+              136
+            ],
+            [
+              "2026-09-29T06:40:03Z",
+              175
+            ],
+            [
+              "2026-09-29T06:58:57Z",
+              164
+            ],
+            [
+              "2026-09-29T07:20:33Z",
+              142
+            ],
+            [
+              "2026-09-29T07:43:03Z",
+              173
+            ],
+            [
+              "2026-09-29T07:59:19Z",
+              172
+            ],
+            [
+              "2026-09-29T08:22:18Z",
+              170
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -194,40 +252,7 @@
           "game": null,
           "peakViewers": 277,
           "avgViewers": 246.1,
-          "samples": [
-            [
-              "2026-09-27T14:16:08Z",
-              191
-            ],
-            [
-              "2026-09-27T14:31:16Z",
-              221
-            ],
-            [
-              "2026-09-27T14:47:29Z",
-              265
-            ],
-            [
-              "2026-09-27T14:58:18Z",
-              267
-            ],
-            [
-              "2026-09-27T15:16:31Z",
-              254
-            ],
-            [
-              "2026-09-27T15:31:47Z",
-              254
-            ],
-            [
-              "2026-09-27T15:47:09Z",
-              277
-            ],
-            [
-              "2026-09-27T15:57:43Z",
-              252
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -297,71 +322,8 @@
           "avgViewers": 242.2,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "eEjXYqdBoRU",
-          "videoUrl": "https://www.youtube.com/watch?v=eEjXYqdBoRU",
-          "start": "2026-09-23T21:46:34Z",
-          "end": "2026-09-24T00:24:48Z",
-          "minutes": 158.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 てともに╎#8 〗 今日は短めのてともにっ！☀ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 292,
-          "avgViewers": 251.5,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 170,
-      "livePeakViewers": 175,
-      "liveAvgViewers": 147.8,
-      "liveSamples": [
-        [
-          "2026-09-29T05:11:20Z",
-          65
-        ],
-        [
-          "2026-09-29T05:32:54Z",
-          138
-        ],
-        [
-          "2026-09-29T05:50:45Z",
-          151
-        ],
-        [
-          "2026-09-29T06:14:55Z",
-          136
-        ],
-        [
-          "2026-09-29T06:40:03Z",
-          175
-        ],
-        [
-          "2026-09-29T06:58:57Z",
-          164
-        ],
-        [
-          "2026-09-29T07:20:33Z",
-          142
-        ],
-        [
-          "2026-09-29T07:43:03Z",
-          173
-        ],
-        [
-          "2026-09-29T07:59:19Z",
-          172
-        ],
-        [
-          "2026-09-29T08:22:18Z",
-          170
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=HSfhZE1Wptc"
+      ]
     },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
@@ -6975,6 +6937,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "HSfhZE1Wptc",
+      "videoUrl": "https://www.youtube.com/watch?v=HSfhZE1Wptc",
+      "start": "2026-09-29T05:11:20Z",
+      "end": "2026-09-29T08:44:03Z",
+      "minutes": 212.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ストリートファイター6 🔰〗 コツコツコンボ練習🔥⚡ 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 175,
+      "avgViewers": 147.8,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
       "name": "愁子",
       "videoId": "teKR3c0vjwQ",
@@ -7916,22 +7894,6 @@
       "game": null,
       "peakViewers": 607,
       "avgViewers": 458.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "IAs9ePflSHk",
-      "videoUrl": "https://www.youtube.com/watch?v=IAs9ePflSHk",
-      "start": "2026-09-26T04:58:57Z",
-      "end": "2026-09-26T07:57:37Z",
-      "minutes": 178.7,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【Forza Horizon6】爆走金バンド！いろいろコンプしようぜ！！！＃３５【#七乃羽すず┆すずみあ】",
-      "game": null,
-      "peakViewers": 109,
-      "avgViewers": 82.8,
       "isTargetGame": false
     }
   ]
