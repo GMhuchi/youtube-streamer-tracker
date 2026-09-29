@@ -1,54 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "KC6CCkd1Vbk",
-      "start": "2026-09-29T09:21:26Z",
-      "startSource": "observed",
-      "title": "【 天下無双ARK 】ルミナを捕まえろ！気合十分【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 16,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-29T09:21:26Z",
-      "lastSeenAt": "2026-09-29T09:44:01Z",
-      "samples": [
-        [
-          "2026-09-29T09:21:26Z",
-          11
-        ],
-        [
-          "2026-09-29T09:44:01Z",
-          16
-        ]
-      ]
-    },
-    "UCADIxr9ho7V60xs9gT9xWhA": {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "DUGXgUV5EMQ",
-      "start": "2026-09-29T09:21:26Z",
-      "startSource": "observed",
-      "title": "【 #天下無双ARK 】みんなでダンジョン挑戦回 day6 【 #輝七瀬 / RIONECTION】",
-      "game": null,
-      "peakViewers": 6,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-29T09:21:26Z",
-      "lastSeenAt": "2026-09-29T09:44:01Z",
-      "samples": [
-        [
-          "2026-09-29T09:21:26Z",
-          3
-        ],
-        [
-          "2026-09-29T09:44:01Z",
-          6
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -28020,6 +27973,58 @@
         [
           "2026-09-29T08:22:18Z",
           170
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "KC6CCkd1Vbk",
+      "videoUrl": "https://www.youtube.com/watch?v=KC6CCkd1Vbk",
+      "start": "2026-09-29T09:21:26Z",
+      "end": "2026-09-29T09:59:23Z",
+      "minutes": 38.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 天下無双ARK 】ルミナを捕まえろ！気合十分【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 16,
+      "avgViewers": 13.5,
+      "samples": [
+        [
+          "2026-09-29T09:21:26Z",
+          11
+        ],
+        [
+          "2026-09-29T09:44:01Z",
+          16
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "DUGXgUV5EMQ",
+      "videoUrl": "https://www.youtube.com/watch?v=DUGXgUV5EMQ",
+      "start": "2026-09-29T09:21:26Z",
+      "end": "2026-09-29T09:59:23Z",
+      "minutes": 38.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #天下無双ARK 】みんなでダンジョン挑戦回 day6 【 #輝七瀬 / RIONECTION】",
+      "game": null,
+      "peakViewers": 6,
+      "avgViewers": 4.5,
+      "samples": [
+        [
+          "2026-09-29T09:21:26Z",
+          3
+        ],
+        [
+          "2026-09-29T09:44:01Z",
+          6
         ]
       ],
       "isTargetGame": false
