@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:12:38Z",
+  "updatedAt": "2026-09-30T04:34:34Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1893.5,
+      "totalMinutes": 1937.4,
       "gameMinutes": 0.0,
-      "totalHours": 31.56,
+      "totalHours": 32.29,
       "gameHours": 0.0,
       "sessions": 16,
-      "avgViewers": 165.5,
+      "avgViewers": 171.2,
       "peakViewers": 824
     },
     "week": {
-      "totalMinutes": 9956.0,
+      "totalMinutes": 9999.9,
       "gameMinutes": 0.0,
-      "totalHours": 165.93,
+      "totalHours": 166.66,
       "gameHours": 0.0,
       "sessions": 52,
-      "avgViewers": 163.0,
+      "avgViewers": 164.1,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 88367.9,
+      "totalMinutes": 88411.8,
       "gameMinutes": 9797.0,
-      "totalHours": 1472.8,
+      "totalHours": 1473.53,
       "gameHours": 163.28,
       "sessions": 472,
-      "avgViewers": 122.2,
+      "avgViewers": 122.4,
       "peakViewers": 999
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "〖 テストプレイをサボりすぎたＲＰＧ 〗 サボるとどうなるかさすがにわかる 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 120.8,
+          "totalMinutes": 142.7,
           "gameMinutes": 0.0,
-          "totalHours": 2.01,
+          "totalHours": 2.38,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 212.1,
-          "peakViewers": 288
+          "avgViewers": 213.2,
+          "peakViewers": 311
         },
         "week": {
-          "totalMinutes": 754.2,
+          "totalMinutes": 776.1,
           "gameMinutes": 0.0,
-          "totalHours": 12.57,
+          "totalHours": 12.93,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 218.2,
+          "avgViewers": 218.3,
           "peakViewers": 573
         },
         "month": {
-          "totalMinutes": 7916.6,
+          "totalMinutes": 7938.5,
           "gameMinutes": 168.3,
-          "totalHours": 131.94,
+          "totalHours": 132.31,
           "gameHours": 2.8,
           "sessions": 40,
-          "avgViewers": 274.8,
+          "avgViewers": 274.6,
           "peakViewers": 888
         }
       },
@@ -324,13 +324,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 127,
-      "livePeakViewers": 127,
-      "liveAvgViewers": 127.0,
+      "liveViewers": 311,
+      "livePeakViewers": 311,
+      "liveAvgViewers": 219.0,
       "liveSamples": [
         [
           "2026-09-30T04:12:38Z",
           127
+        ],
+        [
+          "2026-09-30T04:34:34Z",
+          311
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=5bhVDHja5vw"
@@ -347,30 +351,30 @@
       "lastTitle": "【PowerWash Simulator 2】睡眠導入🌙きったな～～【 #無原唱レコード / #メーメントヴァニタス 】",
       "buckets": {
         "today": {
-          "totalMinutes": 38.3,
+          "totalMinutes": 60.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.64,
+          "totalHours": 1.0,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 532.5,
-          "peakViewers": 601
+          "avgViewers": 557.8,
+          "peakViewers": 624
         },
         "week": {
-          "totalMinutes": 191.5,
+          "totalMinutes": 213.4,
           "gameMinutes": 0.0,
-          "totalHours": 3.19,
+          "totalHours": 3.56,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 526.7,
+          "avgViewers": 534.5,
           "peakViewers": 663
         },
         "month": {
-          "totalMinutes": 1675.4,
+          "totalMinutes": 1697.3,
           "gameMinutes": 604.9,
-          "totalHours": 27.92,
+          "totalHours": 28.29,
           "gameHours": 10.08,
           "sessions": 16,
-          "avgViewers": 348.7,
+          "avgViewers": 352.3,
           "peakViewers": 975
         }
       },
@@ -595,9 +599,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 601,
-      "livePeakViewers": 601,
-      "liveAvgViewers": 532.5,
+      "liveViewers": 624,
+      "livePeakViewers": 624,
+      "liveAvgViewers": 557.8,
       "liveSamples": [
         [
           "2026-09-30T03:34:22Z",
@@ -610,6 +614,10 @@
         [
           "2026-09-30T04:12:38Z",
           601
+        ],
+        [
+          "2026-09-30T04:34:34Z",
+          624
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=7OjgkGvg01Q"
