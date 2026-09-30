@@ -2,57 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "7OjgkGvg01Q",
-      "start": "2026-09-30T03:34:22Z",
-      "startSource": "observed",
-      "title": "【PowerWash Simulator 2】あの日の続きを…………【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 695,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-30T03:34:22Z",
-      "lastSeenAt": "2026-09-30T06:15:13Z",
-      "samples": [
-        [
-          "2026-09-30T03:34:22Z",
-          456
-        ],
-        [
-          "2026-09-30T03:51:37Z",
-          533
-        ],
-        [
-          "2026-09-30T04:12:38Z",
-          601
-        ],
-        [
-          "2026-09-30T04:34:34Z",
-          624
-        ],
-        [
-          "2026-09-30T04:52:12Z",
-          622
-        ],
-        [
-          "2026-09-30T05:12:38Z",
-          623
-        ],
-        [
-          "2026-09-30T05:33:42Z",
-          695
-        ],
-        [
-          "2026-09-30T05:51:29Z",
-          681
-        ],
-        [
-          "2026-09-30T06:15:13Z",
-          675
-        ]
-      ]
-    },
     "UCEtUOMEAuAMz8dor89rt2RA": {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -64,7 +13,7 @@
       "peakViewers": 426,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-30T04:12:38Z",
-      "lastSeenAt": "2026-09-30T06:15:13Z",
+      "lastSeenAt": "2026-09-30T06:40:41Z",
       "samples": [
         [
           "2026-09-30T04:12:38Z",
@@ -93,6 +42,10 @@
         [
           "2026-09-30T06:15:13Z",
           379
+        ],
+        [
+          "2026-09-30T06:40:41Z",
+          347
         ]
       ]
     }
@@ -29091,6 +29044,60 @@
         [
           "2026-09-30T02:35:07Z",
           21
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "7OjgkGvg01Q",
+      "videoUrl": "https://www.youtube.com/watch?v=7OjgkGvg01Q",
+      "start": "2026-09-30T03:34:22Z",
+      "end": "2026-09-30T06:40:41Z",
+      "minutes": 186.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【PowerWash Simulator 2】あの日の続きを…………【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 695,
+      "avgViewers": 614.4,
+      "samples": [
+        [
+          "2026-09-30T03:34:22Z",
+          456
+        ],
+        [
+          "2026-09-30T03:51:37Z",
+          533
+        ],
+        [
+          "2026-09-30T04:12:38Z",
+          601
+        ],
+        [
+          "2026-09-30T04:34:34Z",
+          624
+        ],
+        [
+          "2026-09-30T04:52:12Z",
+          622
+        ],
+        [
+          "2026-09-30T05:12:38Z",
+          623
+        ],
+        [
+          "2026-09-30T05:33:42Z",
+          695
+        ],
+        [
+          "2026-09-30T05:51:29Z",
+          681
+        ],
+        [
+          "2026-09-30T06:15:13Z",
+          675
         ]
       ],
       "isTargetGame": false
