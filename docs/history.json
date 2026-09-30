@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T17:50:58Z",
+  "updatedAt": "2026-09-30T18:14:11Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 382.3,
+      "totalMinutes": 428.7,
       "gameMinutes": 0.0,
-      "totalHours": 6.37,
+      "totalHours": 7.14,
       "gameHours": 0.0,
       "sessions": 3,
       "avgViewers": 58.4,
       "peakViewers": 149
     },
     "week": {
-      "totalMinutes": 12053.0,
+      "totalMinutes": 12099.5,
       "gameMinutes": 0.0,
-      "totalHours": 200.88,
+      "totalHours": 201.66,
       "gameHours": 0.0,
       "sessions": 63,
-      "avgViewers": 165.3,
+      "avgViewers": 164.8,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 382.3,
+      "totalMinutes": 428.7,
       "gameMinutes": 0.0,
-      "totalHours": 6.37,
+      "totalHours": 7.14,
       "gameHours": 0.0,
       "sessions": 3,
       "avgViewers": 58.4,
@@ -49,34 +49,34 @@
       "name": "恋沼ミヤ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": true,
-      "liveSince": "2026-09-30T13:04:08Z",
-      "liveTitle": "【ストグラ2】Day36 ギャング体験中。悪い子にどんどんなってく【#恋沼ミヤ/#神楽坂レイナ】",
-      "lastEnd": "2026-09-29T23:44:37Z",
-      "lastTitle": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-30T18:14:11Z",
+      "lastTitle": "【ストグラ2】Day36 ギャング体験中。悪い子にどんどんなってく【#恋沼ミヤ/#神楽坂レイナ】",
       "buckets": {
         "today": {
-          "totalMinutes": 171.0,
+          "totalMinutes": 194.2,
           "gameMinutes": 0.0,
-          "totalHours": 2.85,
+          "totalHours": 3.24,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 26.9,
           "peakViewers": 35
         },
         "week": {
-          "totalMinutes": 713.8,
+          "totalMinutes": 737.0,
           "gameMinutes": 0.0,
-          "totalHours": 11.9,
+          "totalHours": 12.28,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 54.4,
+          "avgViewers": 53.5,
           "peakViewers": 94
         },
         "month": {
-          "totalMinutes": 171.0,
+          "totalMinutes": 194.2,
           "gameMinutes": 0.0,
-          "totalHours": 2.85,
+          "totalHours": 3.24,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 26.9,
@@ -84,6 +84,84 @@
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "xukcrAvE8NQ",
+          "videoUrl": "https://www.youtube.com/watch?v=xukcrAvE8NQ",
+          "start": "2026-09-30T13:04:08Z",
+          "end": "2026-09-30T18:14:11Z",
+          "minutes": 310.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day36 ギャング体験中。悪い子にどんどんなってく【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 26.9,
+          "samples": [
+            [
+              "2026-09-30T13:04:08Z",
+              20
+            ],
+            [
+              "2026-09-30T13:27:29Z",
+              17
+            ],
+            [
+              "2026-09-30T13:46:41Z",
+              26
+            ],
+            [
+              "2026-09-30T14:02:25Z",
+              32
+            ],
+            [
+              "2026-09-30T14:28:13Z",
+              13
+            ],
+            [
+              "2026-09-30T14:50:41Z",
+              29
+            ],
+            [
+              "2026-09-30T15:16:01Z",
+              29
+            ],
+            [
+              "2026-09-30T15:37:41Z",
+              28
+            ],
+            [
+              "2026-09-30T15:55:48Z",
+              28
+            ],
+            [
+              "2026-09-30T16:15:29Z",
+              25
+            ],
+            [
+              "2026-09-30T16:36:31Z",
+              27
+            ],
+            [
+              "2026-09-30T16:52:47Z",
+              31
+            ],
+            [
+              "2026-09-30T17:12:06Z",
+              30
+            ],
+            [
+              "2026-09-30T17:33:22Z",
+              35
+            ],
+            [
+              "2026-09-30T17:50:58Z",
+              35
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
           "name": "恋沼ミヤ",
@@ -206,68 +284,7 @@
           "game": null,
           "peakViewers": 93,
           "avgViewers": 67.5,
-          "samples": [
-            [
-              "2026-09-27T12:21:31Z",
-              31
-            ],
-            [
-              "2026-09-27T12:44:06Z",
-              47
-            ],
-            [
-              "2026-09-27T12:58:19Z",
-              56
-            ],
-            [
-              "2026-09-27T13:16:25Z",
-              63
-            ],
-            [
-              "2026-09-27T13:31:36Z",
-              58
-            ],
-            [
-              "2026-09-27T13:47:28Z",
-              61
-            ],
-            [
-              "2026-09-27T13:58:12Z",
-              72
-            ],
-            [
-              "2026-09-27T14:16:08Z",
-              74
-            ],
-            [
-              "2026-09-27T14:31:16Z",
-              80
-            ],
-            [
-              "2026-09-27T14:47:29Z",
-              78
-            ],
-            [
-              "2026-09-27T14:58:18Z",
-              71
-            ],
-            [
-              "2026-09-27T15:16:31Z",
-              79
-            ],
-            [
-              "2026-09-27T15:31:47Z",
-              93
-            ],
-            [
-              "2026-09-27T15:47:09Z",
-              86
-            ],
-            [
-              "2026-09-27T15:57:43Z",
-              87
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -337,125 +354,42 @@
           "avgViewers": 67.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "0fUbAzY5Prc",
-          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
-          "start": "2026-09-22T10:12:34Z",
-          "end": "2026-09-22T16:59:11Z",
-          "minutes": 406.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 277,
-          "avgViewers": 181.8,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 35,
-      "livePeakViewers": 35,
-      "liveAvgViewers": 26.9,
-      "liveSamples": [
-        [
-          "2026-09-30T13:04:08Z",
-          20
-        ],
-        [
-          "2026-09-30T13:27:29Z",
-          17
-        ],
-        [
-          "2026-09-30T13:46:41Z",
-          26
-        ],
-        [
-          "2026-09-30T14:02:25Z",
-          32
-        ],
-        [
-          "2026-09-30T14:28:13Z",
-          13
-        ],
-        [
-          "2026-09-30T14:50:41Z",
-          29
-        ],
-        [
-          "2026-09-30T15:16:01Z",
-          29
-        ],
-        [
-          "2026-09-30T15:37:41Z",
-          28
-        ],
-        [
-          "2026-09-30T15:55:48Z",
-          28
-        ],
-        [
-          "2026-09-30T16:15:29Z",
-          25
-        ],
-        [
-          "2026-09-30T16:36:31Z",
-          27
-        ],
-        [
-          "2026-09-30T16:52:47Z",
-          31
-        ],
-        [
-          "2026-09-30T17:12:06Z",
-          30
-        ],
-        [
-          "2026-09-30T17:33:22Z",
-          35
-        ],
-        [
-          "2026-09-30T17:50:58Z",
-          35
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=xukcrAvE8NQ"
+      ]
     },
     {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
       "name": "那和ツムグ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "isLive": true,
-      "liveSince": "2026-09-30T11:34:38Z",
-      "liveTitle": "【#ストグラ】#ストグラSeason2　今日は何かが起こる予感　 ～Day15～【YUMENOS/那和ツムグ】",
-      "lastEnd": "2026-09-29T12:15:48Z",
-      "lastTitle": "【GREEN SPOON】マジでうまいと噂の冷凍弁当食レポしてみた【那和ツムグ / #YUMENOS】",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-30T18:14:11Z",
+      "lastTitle": "【#ストグラ】#ストグラSeason2　今日は何かが起こる予感　 ～Day15～【YUMENOS/那和ツムグ】",
       "buckets": {
         "today": {
-          "totalMinutes": 171.0,
+          "totalMinutes": 194.2,
           "gameMinutes": 0.0,
-          "totalHours": 2.85,
+          "totalHours": 3.24,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 89.9,
           "peakViewers": 149
         },
         "week": {
-          "totalMinutes": 433.1,
+          "totalMinutes": 456.3,
           "gameMinutes": 0.0,
-          "totalHours": 7.22,
+          "totalHours": 7.61,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 83.3,
+          "avgViewers": 83.7,
           "peakViewers": 149
         },
         "month": {
-          "totalMinutes": 171.0,
+          "totalMinutes": 194.2,
           "gameMinutes": 0.0,
-          "totalHours": 2.85,
+          "totalHours": 3.24,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 89.9,
@@ -463,6 +397,100 @@
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "rG5zbH_dd1c",
+          "videoUrl": "https://www.youtube.com/watch?v=rG5zbH_dd1c",
+          "start": "2026-09-30T11:34:38Z",
+          "end": "2026-09-30T18:14:11Z",
+          "minutes": 399.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#ストグラ】#ストグラSeason2　今日は何かが起こる予感　 ～Day15～【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 149,
+          "avgViewers": 89.9,
+          "samples": [
+            [
+              "2026-09-30T11:34:38Z",
+              44
+            ],
+            [
+              "2026-09-30T11:51:45Z",
+              92
+            ],
+            [
+              "2026-09-30T12:16:08Z",
+              87
+            ],
+            [
+              "2026-09-30T12:44:46Z",
+              96
+            ],
+            [
+              "2026-09-30T13:04:08Z",
+              89
+            ],
+            [
+              "2026-09-30T13:27:29Z",
+              97
+            ],
+            [
+              "2026-09-30T13:46:41Z",
+              129
+            ],
+            [
+              "2026-09-30T14:02:25Z",
+              149
+            ],
+            [
+              "2026-09-30T14:28:13Z",
+              98
+            ],
+            [
+              "2026-09-30T14:50:41Z",
+              91
+            ],
+            [
+              "2026-09-30T15:16:01Z",
+              92
+            ],
+            [
+              "2026-09-30T15:37:41Z",
+              76
+            ],
+            [
+              "2026-09-30T15:55:48Z",
+              76
+            ],
+            [
+              "2026-09-30T16:15:29Z",
+              72
+            ],
+            [
+              "2026-09-30T16:36:31Z",
+              70
+            ],
+            [
+              "2026-09-30T16:52:47Z",
+              67
+            ],
+            [
+              "2026-09-30T17:12:06Z",
+              69
+            ],
+            [
+              "2026-09-30T17:33:22Z",
+              106
+            ],
+            [
+              "2026-09-30T17:50:58Z",
+              90
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
           "name": "那和ツムグ",
@@ -621,76 +649,7 @@
           "game": null,
           "peakViewers": 114,
           "avgViewers": 94.6,
-          "samples": [
-            [
-              "2026-09-25T13:16:09Z",
-              48
-            ],
-            [
-              "2026-09-25T13:33:36Z",
-              77
-            ],
-            [
-              "2026-09-25T13:50:37Z",
-              98
-            ],
-            [
-              "2026-09-25T14:12:18Z",
-              107
-            ],
-            [
-              "2026-09-25T14:33:18Z",
-              97
-            ],
-            [
-              "2026-09-25T14:50:52Z",
-              102
-            ],
-            [
-              "2026-09-25T15:12:37Z",
-              99
-            ],
-            [
-              "2026-09-25T15:32:10Z",
-              104
-            ],
-            [
-              "2026-09-25T15:48:50Z",
-              90
-            ],
-            [
-              "2026-09-25T15:59:29Z",
-              97
-            ],
-            [
-              "2026-09-25T16:20:01Z",
-              114
-            ],
-            [
-              "2026-09-25T16:36:18Z",
-              101
-            ],
-            [
-              "2026-09-25T16:51:48Z",
-              87
-            ],
-            [
-              "2026-09-25T17:10:40Z",
-              94
-            ],
-            [
-              "2026-09-25T17:30:58Z",
-              103
-            ],
-            [
-              "2026-09-25T17:49:27Z",
-              93
-            ],
-            [
-              "2026-09-25T17:59:58Z",
-              91
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -760,107 +719,8 @@
           "avgViewers": 30.9,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "btcPdlSyrCM",
-          "videoUrl": "https://www.youtube.com/watch?v=btcPdlSyrCM",
-          "start": "2026-09-19T14:06:09Z",
-          "end": "2026-09-19T14:57:56Z",
-          "minutes": 51.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メンバー限定】実家から色々話すぞおおおお　【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 90,
-      "livePeakViewers": 149,
-      "liveAvgViewers": 89.9,
-      "liveSamples": [
-        [
-          "2026-09-30T11:34:38Z",
-          44
-        ],
-        [
-          "2026-09-30T11:51:45Z",
-          92
-        ],
-        [
-          "2026-09-30T12:16:08Z",
-          87
-        ],
-        [
-          "2026-09-30T12:44:46Z",
-          96
-        ],
-        [
-          "2026-09-30T13:04:08Z",
-          89
-        ],
-        [
-          "2026-09-30T13:27:29Z",
-          97
-        ],
-        [
-          "2026-09-30T13:46:41Z",
-          129
-        ],
-        [
-          "2026-09-30T14:02:25Z",
-          149
-        ],
-        [
-          "2026-09-30T14:28:13Z",
-          98
-        ],
-        [
-          "2026-09-30T14:50:41Z",
-          91
-        ],
-        [
-          "2026-09-30T15:16:01Z",
-          92
-        ],
-        [
-          "2026-09-30T15:37:41Z",
-          76
-        ],
-        [
-          "2026-09-30T15:55:48Z",
-          76
-        ],
-        [
-          "2026-09-30T16:15:29Z",
-          72
-        ],
-        [
-          "2026-09-30T16:36:31Z",
-          70
-        ],
-        [
-          "2026-09-30T16:52:47Z",
-          67
-        ],
-        [
-          "2026-09-30T17:12:06Z",
-          69
-        ],
-        [
-          "2026-09-30T17:33:22Z",
-          106
-        ],
-        [
-          "2026-09-30T17:50:58Z",
-          90
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=rG5zbH_dd1c"
+      ]
     },
     {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
@@ -6369,6 +6229,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "xukcrAvE8NQ",
+      "videoUrl": "https://www.youtube.com/watch?v=xukcrAvE8NQ",
+      "start": "2026-09-30T13:04:08Z",
+      "end": "2026-09-30T18:14:11Z",
+      "minutes": 310.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ストグラ2】Day36 ギャング体験中。悪い子にどんどんなってく【#恋沼ミヤ/#神楽坂レイナ】",
+      "game": null,
+      "peakViewers": 35,
+      "avgViewers": 26.9,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
       "name": "氷乃渚",
       "videoId": "ImqBlQZYTfU",
@@ -6414,6 +6290,22 @@
       "game": null,
       "peakViewers": 99,
       "avgViewers": 84.9,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "rG5zbH_dd1c",
+      "videoUrl": "https://www.youtube.com/watch?v=rG5zbH_dd1c",
+      "start": "2026-09-30T11:34:38Z",
+      "end": "2026-09-30T18:14:11Z",
+      "minutes": 399.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　今日は何かが起こる予感　 ～Day15～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 149,
+      "avgViewers": 89.9,
       "isTargetGame": false
     },
     {
@@ -7278,38 +7170,6 @@
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "Bs9QicC5Drg",
-      "videoUrl": "https://www.youtube.com/watch?v=Bs9QicC5Drg",
-      "start": "2026-09-27T11:45:54Z",
-      "end": "2026-09-27T12:27:54Z",
-      "minutes": 42.0,
-      "startSource": "youtube",
-      "endSource": "youtube",
-      "title": "【メンバー限定】9月も終わりですか...メン限雑談！！",
-      "game": null,
-      "peakViewers": null,
-      "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "rW-Vjs7Lat0",
-      "videoUrl": "https://www.youtube.com/watch?v=rW-Vjs7Lat0",
-      "start": "2026-09-27T11:16:14Z",
-      "end": "2026-09-27T13:16:25Z",
-      "minutes": 120.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【PowerWash Simulator 2】掃除 w/テン太郎【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 149,
-      "avgViewers": 129.2,
       "isTargetGame": false
     }
   ]
