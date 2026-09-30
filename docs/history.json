@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:00:17Z",
+  "updatedAt": "2026-09-30T09:25:14Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2329.2,
+      "totalMinutes": 2354.1,
       "gameMinutes": 0.0,
-      "totalHours": 38.82,
+      "totalHours": 39.24,
       "gameHours": 0.0,
       "sessions": 16,
-      "avgViewers": 217.2,
+      "avgViewers": 218.4,
       "peakViewers": 824
     },
     "week": {
-      "totalMinutes": 10391.7,
+      "totalMinutes": 10416.6,
       "gameMinutes": 0.0,
-      "totalHours": 173.19,
+      "totalHours": 173.61,
       "gameHours": 0.0,
       "sessions": 52,
-      "avgViewers": 174.7,
+      "avgViewers": 175.1,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 88803.6,
+      "totalMinutes": 88828.6,
       "gameMinutes": 9797.0,
-      "totalHours": 1480.06,
+      "totalHours": 1480.48,
       "gameHours": 163.28,
       "sessions": 472,
-      "avgViewers": 123.8,
+      "avgViewers": 123.9,
       "peakViewers": 999
     }
   },
@@ -49,41 +49,119 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-09-30T04:12:38Z",
-      "liveTitle": "〖 APEX 〗 今スプは必ずダイヤへ〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-09-29T17:00:48Z",
-      "lastTitle": "〖 テストプレイをサボりすぎたＲＰＧ 〗 サボるとどうなるかさすがにわかる 〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-30T09:25:14Z",
+      "lastTitle": "〖 APEX 〗 今スプは必ずダイヤへ〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 408.5,
+          "totalMinutes": 433.4,
           "gameMinutes": 0.0,
-          "totalHours": 6.81,
+          "totalHours": 7.22,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 297.2,
+          "avgViewers": 299.3,
           "peakViewers": 426
         },
         "week": {
-          "totalMinutes": 1041.8,
+          "totalMinutes": 1066.8,
           "gameMinutes": 0.0,
-          "totalHours": 17.36,
+          "totalHours": 17.78,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 249.9,
+          "avgViewers": 251.9,
           "peakViewers": 573
         },
         "month": {
-          "totalMinutes": 8204.3,
+          "totalMinutes": 8229.2,
           "gameMinutes": 168.3,
-          "totalHours": 136.74,
+          "totalHours": 137.15,
           "gameHours": 2.8,
           "sessions": 40,
-          "avgViewers": 277.1,
+          "avgViewers": 277.3,
           "peakViewers": 888
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "5bhVDHja5vw",
+          "videoUrl": "https://www.youtube.com/watch?v=5bhVDHja5vw",
+          "start": "2026-09-30T04:12:38Z",
+          "end": "2026-09-30T09:25:14Z",
+          "minutes": 312.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 今スプは必ずダイヤへ〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 426,
+          "avgViewers": 333.0,
+          "samples": [
+            [
+              "2026-09-30T04:12:38Z",
+              127
+            ],
+            [
+              "2026-09-30T04:34:34Z",
+              311
+            ],
+            [
+              "2026-09-30T04:52:12Z",
+              387
+            ],
+            [
+              "2026-09-30T05:12:38Z",
+              377
+            ],
+            [
+              "2026-09-30T05:33:42Z",
+              399
+            ],
+            [
+              "2026-09-30T05:51:29Z",
+              426
+            ],
+            [
+              "2026-09-30T06:15:13Z",
+              379
+            ],
+            [
+              "2026-09-30T06:40:41Z",
+              347
+            ],
+            [
+              "2026-09-30T07:02:02Z",
+              312
+            ],
+            [
+              "2026-09-30T07:27:16Z",
+              321
+            ],
+            [
+              "2026-09-30T07:46:48Z",
+              330
+            ],
+            [
+              "2026-09-30T08:01:09Z",
+              323
+            ],
+            [
+              "2026-09-30T08:27:29Z",
+              313
+            ],
+            [
+              "2026-09-30T08:48:02Z",
+              319
+            ],
+            [
+              "2026-09-30T09:00:17Z",
+              317
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -206,36 +284,7 @@
           "game": null,
           "peakViewers": 32,
           "avgViewers": 27.3,
-          "samples": [
-            [
-              "2026-09-28T10:21:22Z",
-              29
-            ],
-            [
-              "2026-09-28T10:42:31Z",
-              32
-            ],
-            [
-              "2026-09-28T10:58:28Z",
-              29
-            ],
-            [
-              "2026-09-28T11:18:21Z",
-              29
-            ],
-            [
-              "2026-09-28T11:36:58Z",
-              26
-            ],
-            [
-              "2026-09-28T11:53:24Z",
-              24
-            ],
-            [
-              "2026-09-28T12:15:38Z",
-              23
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -305,91 +354,8 @@
           "avgViewers": 458.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "V_zoDTeWD5c",
-          "videoUrl": "https://www.youtube.com/watch?v=V_zoDTeWD5c",
-          "start": "2026-09-25T14:12:18Z",
-          "end": "2026-09-25T16:36:18Z",
-          "minutes": 144.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 弱すぎるＲＰＧ 〗 弱いわけないです！！！！ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 197,
-          "avgViewers": 176.4,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 317,
-      "livePeakViewers": 426,
-      "liveAvgViewers": 333.0,
-      "liveSamples": [
-        [
-          "2026-09-30T04:12:38Z",
-          127
-        ],
-        [
-          "2026-09-30T04:34:34Z",
-          311
-        ],
-        [
-          "2026-09-30T04:52:12Z",
-          387
-        ],
-        [
-          "2026-09-30T05:12:38Z",
-          377
-        ],
-        [
-          "2026-09-30T05:33:42Z",
-          399
-        ],
-        [
-          "2026-09-30T05:51:29Z",
-          426
-        ],
-        [
-          "2026-09-30T06:15:13Z",
-          379
-        ],
-        [
-          "2026-09-30T06:40:41Z",
-          347
-        ],
-        [
-          "2026-09-30T07:02:02Z",
-          312
-        ],
-        [
-          "2026-09-30T07:27:16Z",
-          321
-        ],
-        [
-          "2026-09-30T07:46:48Z",
-          330
-        ],
-        [
-          "2026-09-30T08:01:09Z",
-          323
-        ],
-        [
-          "2026-09-30T08:27:29Z",
-          313
-        ],
-        [
-          "2026-09-30T08:48:02Z",
-          319
-        ],
-        [
-          "2026-09-30T09:00:17Z",
-          317
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=5bhVDHja5vw"
+      ]
     },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
@@ -6487,6 +6453,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "5bhVDHja5vw",
+      "videoUrl": "https://www.youtube.com/watch?v=5bhVDHja5vw",
+      "start": "2026-09-30T04:12:38Z",
+      "end": "2026-09-30T09:25:14Z",
+      "minutes": 312.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 今スプは必ずダイヤへ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 426,
+      "avgViewers": 333.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
       "videoId": "7OjgkGvg01Q",
@@ -7428,22 +7410,6 @@
       "game": null,
       "peakViewers": 996,
       "avgViewers": 380.1,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "Gr6ntWyw_XY",
-      "videoUrl": "https://www.youtube.com/watch?v=Gr6ntWyw_XY",
-      "start": "2026-09-27T03:18:48Z",
-      "end": "2026-09-27T05:32:56Z",
-      "minutes": 134.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【雑談】昼活すっぞ～🍙【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 908,
-      "avgViewers": 121.4,
       "isTargetGame": false
     }
   ]
