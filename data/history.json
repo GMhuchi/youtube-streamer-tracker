@@ -13,7 +13,7 @@
       "peakViewers": 149,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-30T11:34:38Z",
-      "lastSeenAt": "2026-09-30T14:02:25Z",
+      "lastSeenAt": "2026-09-30T14:28:13Z",
       "samples": [
         [
           "2026-09-30T11:34:38Z",
@@ -46,61 +46,12 @@
         [
           "2026-09-30T14:02:25Z",
           149
+        ],
+        [
+          "2026-09-30T14:28:13Z",
+          98
         ]
       ]
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "08SysOwYVgg",
-      "start": "2026-09-30T12:16:08Z",
-      "startSource": "observed",
-      "title": "American Truck Simulator 雑談 | 2●歳になった眼鏡のお姉さんにおめでとうを言おう #愁子",
-      "game": null,
-      "peakViewers": 99,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-30T12:16:08Z",
-      "lastSeenAt": "2026-09-30T14:02:25Z",
-      "samples": [
-        [
-          "2026-09-30T12:16:08Z",
-          62
-        ],
-        [
-          "2026-09-30T12:44:46Z",
-          84
-        ],
-        [
-          "2026-09-30T13:04:08Z",
-          89
-        ],
-        [
-          "2026-09-30T13:27:29Z",
-          92
-        ],
-        [
-          "2026-09-30T13:46:41Z",
-          99
-        ],
-        [
-          "2026-09-30T14:02:25Z",
-          95
-        ]
-      ]
-    },
-    "UCe5mbpYA9Yym4lZTdj06G6Q": {
-      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-      "name": "氷乃渚",
-      "videoId": "ImqBlQZYTfU",
-      "start": "2026-09-30T12:44:46Z",
-      "startSource": "observed",
-      "title": "【メン限】チェンソーマンレゼ編をみんなで見よう【氷乃渚 / ゆにれいど！】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-30T12:44:46Z",
-      "lastSeenAt": "2026-09-30T14:02:25Z",
-      "samples": []
     },
     "UCXUu1nCtDMAbasD0wAK1cdw": {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -113,7 +64,7 @@
       "peakViewers": 32,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-30T13:04:08Z",
-      "lastSeenAt": "2026-09-30T14:02:25Z",
+      "lastSeenAt": "2026-09-30T14:28:13Z",
       "samples": [
         [
           "2026-09-30T13:04:08Z",
@@ -130,6 +81,10 @@
         [
           "2026-09-30T14:02:25Z",
           32
+        ],
+        [
+          "2026-09-30T14:28:13Z",
+          13
         ]
       ]
     },
@@ -144,7 +99,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-30T13:27:29Z",
-      "lastSeenAt": "2026-09-30T14:02:25Z",
+      "lastSeenAt": "2026-09-30T14:28:13Z",
       "samples": []
     }
   },
@@ -29470,6 +29425,65 @@
           52
         ]
       ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "08SysOwYVgg",
+      "videoUrl": "https://www.youtube.com/watch?v=08SysOwYVgg",
+      "start": "2026-09-30T12:16:08Z",
+      "end": "2026-09-30T14:28:13Z",
+      "minutes": 132.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "American Truck Simulator 雑談 | 2●歳になった眼鏡のお姉さんにおめでとうを言おう #愁子",
+      "game": null,
+      "peakViewers": 99,
+      "avgViewers": 84.9,
+      "samples": [
+        [
+          "2026-09-30T12:16:08Z",
+          62
+        ],
+        [
+          "2026-09-30T12:44:46Z",
+          84
+        ],
+        [
+          "2026-09-30T13:04:08Z",
+          89
+        ],
+        [
+          "2026-09-30T13:27:29Z",
+          92
+        ],
+        [
+          "2026-09-30T13:46:41Z",
+          99
+        ],
+        [
+          "2026-09-30T14:02:25Z",
+          95
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+      "name": "氷乃渚",
+      "videoId": "ImqBlQZYTfU",
+      "videoUrl": "https://www.youtube.com/watch?v=ImqBlQZYTfU",
+      "start": "2026-09-30T12:16:49Z",
+      "end": "2026-09-30T14:20:57Z",
+      "minutes": 124.1,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【メン限】チェンソーマンレゼ編をみんなで見よう【氷乃渚 / ゆにれいど！】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
       "isTargetGame": false
     }
   ]
