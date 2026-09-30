@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:34:22Z",
+  "updatedAt": "2026-09-30T03:51:37Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1855.2,
+      "totalMinutes": 1872.5,
       "gameMinutes": 0.0,
-      "totalHours": 30.92,
+      "totalHours": 31.21,
       "gameHours": 0.0,
       "sessions": 15,
-      "avgViewers": 157.7,
+      "avgViewers": 160.9,
       "peakViewers": 824
     },
     "week": {
-      "totalMinutes": 9917.7,
+      "totalMinutes": 9935.0,
       "gameMinutes": 0.0,
-      "totalHours": 165.3,
+      "totalHours": 165.58,
       "gameHours": 0.0,
       "sessions": 51,
-      "avgViewers": 161.6,
+      "avgViewers": 162.2,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 88329.7,
+      "totalMinutes": 88346.9,
       "gameMinutes": 9797.0,
-      "totalHours": 1472.16,
+      "totalHours": 1472.45,
       "gameHours": 163.28,
       "sessions": 471,
       "avgViewers": 122.1,
@@ -56,30 +56,30 @@
       "lastTitle": "【PowerWash Simulator 2】睡眠導入🌙きったな～～【 #無原唱レコード / #メーメントヴァニタス 】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 17.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.29,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 456.0,
-          "peakViewers": 456
+          "avgViewers": 494.5,
+          "peakViewers": 533
         },
         "week": {
-          "totalMinutes": 153.2,
+          "totalMinutes": 170.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.55,
+          "totalHours": 2.84,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 525.3,
+          "avgViewers": 522.2,
           "peakViewers": 663
         },
         "month": {
-          "totalMinutes": 1637.1,
+          "totalMinutes": 1654.4,
           "gameMinutes": 604.9,
-          "totalHours": 27.29,
+          "totalHours": 27.57,
           "gameHours": 10.08,
           "sessions": 16,
-          "avgViewers": 343.9,
+          "avgViewers": 345.6,
           "peakViewers": 975
         }
       },
@@ -304,13 +304,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 456,
-      "livePeakViewers": 456,
-      "liveAvgViewers": 456.0,
+      "liveViewers": 533,
+      "livePeakViewers": 533,
+      "liveAvgViewers": 494.5,
       "liveSamples": [
         [
           "2026-09-30T03:34:22Z",
           456
+        ],
+        [
+          "2026-09-30T03:51:37Z",
+          533
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=7OjgkGvg01Q"
