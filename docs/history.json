@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:44:46Z",
+  "updatedAt": "2026-09-30T13:04:08Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,357 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2914.2,
+      "totalMinutes": 3030.5,
       "gameMinutes": 0.0,
-      "totalHours": 48.57,
+      "totalHours": 50.51,
       "gameHours": 0.0,
-      "sessions": 25,
-      "avgViewers": 201.8,
+      "sessions": 26,
+      "avgViewers": 198.1,
       "peakViewers": 824
     },
     "week": {
-      "totalMinutes": 10976.7,
+      "totalMinutes": 11093.0,
       "gameMinutes": 0.0,
-      "totalHours": 182.95,
+      "totalHours": 184.88,
       "gameHours": 0.0,
-      "sessions": 61,
-      "avgViewers": 172.6,
+      "sessions": 62,
+      "avgViewers": 171.9,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 89388.7,
+      "totalMinutes": 89504.9,
       "gameMinutes": 9797.0,
-      "totalHours": 1489.81,
+      "totalHours": 1491.75,
       "gameHours": 163.28,
-      "sessions": 481,
-      "avgViewers": 123.9,
+      "sessions": 482,
+      "avgViewers": 123.8,
       "peakViewers": 999
     }
   },
   "channels": [
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-09-30T13:04:08Z",
+      "liveTitle": "【ストグラ2】Day36 ギャング体験中。悪い子にどんどんなってく【#恋沼ミヤ/#神楽坂レイナ】",
+      "lastEnd": "2026-09-29T23:44:37Z",
+      "lastTitle": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
+      "buckets": {
+        "today": {
+          "totalMinutes": 152.9,
+          "gameMinutes": 0.0,
+          "totalHours": 2.55,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 75.3,
+          "peakViewers": 91
+        },
+        "week": {
+          "totalMinutes": 426.9,
+          "gameMinutes": 0.0,
+          "totalHours": 7.12,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 72.9,
+          "peakViewers": 94
+        },
+        "month": {
+          "totalMinutes": 7204.4,
+          "gameMinutes": 169.2,
+          "totalHours": 120.07,
+          "gameHours": 2.82,
+          "sessions": 29,
+          "avgViewers": 87.3,
+          "peakViewers": 428
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "BUF3HziVjQE",
+          "videoUrl": "https://www.youtube.com/watch?v=BUF3HziVjQE",
+          "start": "2026-09-29T21:11:44Z",
+          "end": "2026-09-29T23:44:37Z",
+          "minutes": 152.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 91,
+          "avgViewers": 75.3,
+          "samples": [
+            [
+              "2026-09-29T21:11:44Z",
+              48
+            ],
+            [
+              "2026-09-29T21:37:37Z",
+              73
+            ],
+            [
+              "2026-09-29T21:49:34Z",
+              88
+            ],
+            [
+              "2026-09-29T22:00:48Z",
+              91
+            ],
+            [
+              "2026-09-29T22:23:27Z",
+              85
+            ],
+            [
+              "2026-09-29T22:40:53Z",
+              86
+            ],
+            [
+              "2026-09-29T22:56:40Z",
+              85
+            ],
+            [
+              "2026-09-29T23:13:44Z",
+              74
+            ],
+            [
+              "2026-09-29T23:30:00Z",
+              61
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "T0Uy9n3wL3s",
+          "videoUrl": "https://www.youtube.com/watch?v=T0Uy9n3wL3s",
+          "start": "2026-09-28T13:03:02Z",
+          "end": "2026-09-28T16:20:40Z",
+          "minutes": 197.6,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【歌枠/Singing】眠れない人向けのチル歌枠🌙　【 #恋沼ミヤ】",
+          "game": null,
+          "peakViewers": 94,
+          "avgViewers": 73.1,
+          "samples": [
+            [
+              "2026-09-28T13:25:36Z",
+              62
+            ],
+            [
+              "2026-09-28T13:45:41Z",
+              76
+            ],
+            [
+              "2026-09-28T14:01:02Z",
+              60
+            ],
+            [
+              "2026-09-28T14:27:27Z",
+              72
+            ],
+            [
+              "2026-09-28T14:48:50Z",
+              84
+            ],
+            [
+              "2026-09-28T15:03:24Z",
+              71
+            ],
+            [
+              "2026-09-28T15:27:09Z",
+              77
+            ],
+            [
+              "2026-09-28T15:46:28Z",
+              94
+            ],
+            [
+              "2026-09-28T16:00:53Z",
+              76
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "eRrzdUCKdo0",
+          "videoUrl": "https://www.youtube.com/watch?v=eRrzdUCKdo0",
+          "start": "2026-09-27T12:21:31Z",
+          "end": "2026-09-27T16:16:24Z",
+          "minutes": 234.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 93,
+          "avgViewers": 67.5,
+          "samples": [
+            [
+              "2026-09-27T12:21:31Z",
+              31
+            ],
+            [
+              "2026-09-27T12:44:06Z",
+              47
+            ],
+            [
+              "2026-09-27T12:58:19Z",
+              56
+            ],
+            [
+              "2026-09-27T13:16:25Z",
+              63
+            ],
+            [
+              "2026-09-27T13:31:36Z",
+              58
+            ],
+            [
+              "2026-09-27T13:47:28Z",
+              61
+            ],
+            [
+              "2026-09-27T13:58:12Z",
+              72
+            ],
+            [
+              "2026-09-27T14:16:08Z",
+              74
+            ],
+            [
+              "2026-09-27T14:31:16Z",
+              80
+            ],
+            [
+              "2026-09-27T14:47:29Z",
+              78
+            ],
+            [
+              "2026-09-27T14:58:18Z",
+              71
+            ],
+            [
+              "2026-09-27T15:16:31Z",
+              79
+            ],
+            [
+              "2026-09-27T15:31:47Z",
+              93
+            ],
+            [
+              "2026-09-27T15:47:09Z",
+              86
+            ],
+            [
+              "2026-09-27T15:57:43Z",
+              87
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "G9kILBxLb18",
+          "videoUrl": "https://www.youtube.com/watch?v=G9kILBxLb18",
+          "start": "2026-09-26T11:55:50Z",
+          "end": "2026-09-26T18:19:07Z",
+          "minutes": 383.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day35 ギャング体験中。今日はどんな日になるのかな？【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 66,
+          "avgViewers": 44.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "BtvsJcCUx3M",
+          "videoUrl": "https://www.youtube.com/watch?v=BtvsJcCUx3M",
+          "start": "2026-09-25T14:12:18Z",
+          "end": "2026-09-25T18:20:49Z",
+          "minutes": 248.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 106,
+          "avgViewers": 80.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "LA4V22rLN4Y",
+          "videoUrl": "https://www.youtube.com/watch?v=LA4V22rLN4Y",
+          "start": "2026-09-24T12:17:42Z",
+          "end": "2026-09-24T18:42:46Z",
+          "minutes": 385.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 142,
+          "avgViewers": 77.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "aQP2S19kK3A",
+          "videoUrl": "https://www.youtube.com/watch?v=aQP2S19kK3A",
+          "start": "2026-09-23T10:49:27Z",
+          "end": "2026-09-23T13:41:22Z",
+          "minutes": 171.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠/Singing】まったり歌うので1曲聞いていってください🖤🎵🤍　【 #恋沼ミヤ】",
+          "game": null,
+          "peakViewers": 89,
+          "avgViewers": 67.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "0fUbAzY5Prc",
+          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
+          "start": "2026-09-22T10:12:34Z",
+          "end": "2026-09-22T16:59:11Z",
+          "minutes": 406.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
+          "game": null,
+          "peakViewers": 277,
+          "avgViewers": 181.8,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 20,
+      "livePeakViewers": 20,
+      "liveAvgViewers": 20.0,
+      "liveSamples": [
+        [
+          "2026-09-30T13:04:08Z",
+          20
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=xukcrAvE8NQ"
+    },
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
       "name": "愁子",
@@ -56,30 +379,30 @@
       "lastTitle": "まったり誕生日カウントダウン #愁子",
       "buckets": {
         "today": {
-          "totalMinutes": 55.9,
+          "totalMinutes": 75.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.93,
+          "totalHours": 1.25,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 80.0,
+          "avgViewers": 80.7,
           "peakViewers": 122
         },
         "week": {
-          "totalMinutes": 555.3,
+          "totalMinutes": 574.7,
           "gameMinutes": 0.0,
-          "totalHours": 9.26,
+          "totalHours": 9.58,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 91.7,
+          "avgViewers": 91.4,
           "peakViewers": 140
         },
         "month": {
-          "totalMinutes": 5220.7,
+          "totalMinutes": 5240.0,
           "gameMinutes": 790.6,
-          "totalHours": 87.01,
+          "totalHours": 87.33,
           "gameHours": 13.18,
           "sessions": 31,
-          "avgViewers": 53.4,
+          "avgViewers": 53.5,
           "peakViewers": 155
         }
       },
@@ -328,9 +651,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 84,
-      "livePeakViewers": 84,
-      "liveAvgViewers": 73.0,
+      "liveViewers": 89,
+      "livePeakViewers": 89,
+      "liveAvgViewers": 76.9,
       "liveSamples": [
         [
           "2026-09-30T12:16:08Z",
@@ -339,6 +662,10 @@
         [
           "2026-09-30T12:44:46Z",
           84
+        ],
+        [
+          "2026-09-30T13:04:08Z",
+          89
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=08SysOwYVgg"
@@ -355,27 +682,27 @@
       "lastTitle": "【メン限】9月の歌収録【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 141.1,
+          "totalMinutes": 160.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.35,
+          "totalHours": 2.67,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 61.0,
+          "avgViewers": 57.7,
           "peakViewers": 61
         },
         "week": {
-          "totalMinutes": 775.9,
+          "totalMinutes": 795.3,
           "gameMinutes": 0.0,
-          "totalHours": 12.93,
+          "totalHours": 13.25,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 38.0,
+          "avgViewers": 38.5,
           "peakViewers": 61
         },
         "month": {
-          "totalMinutes": 5171.9,
+          "totalMinutes": 5191.2,
           "gameMinutes": 288.1,
-          "totalHours": 86.2,
+          "totalHours": 86.52,
           "gameHours": 4.8,
           "sessions": 34,
           "avgViewers": 50.2,
@@ -573,9 +900,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 61,
+      "liveViewers": 51,
       "livePeakViewers": 61,
-      "liveAvgViewers": 61.0,
+      "liveAvgViewers": 57.7,
       "liveSamples": [
         [
           "2026-09-30T12:16:08Z",
@@ -584,6 +911,10 @@
         [
           "2026-09-30T12:44:46Z",
           61
+        ],
+        [
+          "2026-09-30T13:04:08Z",
+          51
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=GXB5Qdcfv8E"
@@ -600,27 +931,27 @@
       "lastTitle": "【GREEN SPOON】マジでうまいと噂の冷凍弁当食レポしてみた【那和ツムグ / #YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 70.1,
+          "totalMinutes": 89.5,
           "gameMinutes": 0.0,
-          "totalHours": 1.17,
+          "totalHours": 1.49,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 82.7,
+          "avgViewers": 83.5,
           "peakViewers": 96
         },
         "week": {
-          "totalMinutes": 126.9,
+          "totalMinutes": 146.3,
           "gameMinutes": 0.0,
-          "totalHours": 2.12,
+          "totalHours": 2.44,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 63.5,
+          "avgViewers": 66.5,
           "peakViewers": 96
         },
         "month": {
-          "totalMinutes": 3400.9,
+          "totalMinutes": 3420.3,
           "gameMinutes": 169.2,
-          "totalHours": 56.68,
+          "totalHours": 57.01,
           "gameHours": 2.82,
           "sessions": 16,
           "avgViewers": 83.1,
@@ -944,9 +1275,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 96,
+      "liveViewers": 89,
       "livePeakViewers": 96,
-      "liveAvgViewers": 82.7,
+      "liveAvgViewers": 83.5,
       "liveSamples": [
         [
           "2026-09-30T11:34:38Z",
@@ -963,622 +1294,13 @@
         [
           "2026-09-30T12:44:46Z",
           96
+        ],
+        [
+          "2026-09-30T13:04:08Z",
+          89
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=rG5zbH_dd1c"
-    },
-    {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
-      "isLive": true,
-      "liveSince": "2026-09-30T09:59:58Z",
-      "liveTitle": "【Forza Horizon6】無免許は金バンド&金スタンプになりました＃３６【#七乃羽すず┆すずみあ】",
-      "lastEnd": "2026-09-27T12:57:25Z",
-      "lastTitle": "【雑談┊︎メンバー限定】2026.9月号｜最近の話とこれからの作戦会議【新人VTuber┊︎七乃羽すず】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 164.8,
-          "gameMinutes": 0.0,
-          "totalHours": 2.75,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 66.6,
-          "peakViewers": 82
-        },
-        "week": {
-          "totalMinutes": 164.8,
-          "gameMinutes": 0.0,
-          "totalHours": 2.75,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 66.6,
-          "peakViewers": 82
-        },
-        "month": {
-          "totalMinutes": 2825.2,
-          "gameMinutes": 467.4,
-          "totalHours": 47.09,
-          "gameHours": 7.79,
-          "sessions": 17,
-          "avgViewers": 69.7,
-          "peakViewers": 137
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "o_-gzFl-vWo",
-          "videoUrl": "https://www.youtube.com/watch?v=o_-gzFl-vWo",
-          "start": "2026-09-27T10:59:09Z",
-          "end": "2026-09-27T12:57:25Z",
-          "minutes": 118.3,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【雑談┊︎メンバー限定】2026.9月号｜最近の話とこれからの作戦会議【新人VTuber┊︎七乃羽すず】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "IAs9ePflSHk",
-          "videoUrl": "https://www.youtube.com/watch?v=IAs9ePflSHk",
-          "start": "2026-09-26T04:58:57Z",
-          "end": "2026-09-26T07:57:37Z",
-          "minutes": 178.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】爆走金バンド！いろいろコンプしようぜ！！！＃３５【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 109,
-          "avgViewers": 82.8,
-          "samples": [
-            [
-              "2026-09-26T04:58:57Z",
-              9
-            ],
-            [
-              "2026-09-26T05:16:52Z",
-              61
-            ],
-            [
-              "2026-09-26T05:31:22Z",
-              66
-            ],
-            [
-              "2026-09-26T05:47:30Z",
-              85
-            ],
-            [
-              "2026-09-26T05:58:06Z",
-              87
-            ],
-            [
-              "2026-09-26T06:21:21Z",
-              96
-            ],
-            [
-              "2026-09-26T06:44:00Z",
-              95
-            ],
-            [
-              "2026-09-26T06:58:02Z",
-              99
-            ],
-            [
-              "2026-09-26T07:16:08Z",
-              101
-            ],
-            [
-              "2026-09-26T07:30:48Z",
-              102
-            ],
-            [
-              "2026-09-26T07:47:12Z",
-              109
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "tkr4FgaJGzo",
-          "videoUrl": "https://www.youtube.com/watch?v=tkr4FgaJGzo",
-          "start": "2026-09-25T11:00:34Z",
-          "end": "2026-09-25T15:12:37Z",
-          "minutes": 252.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】ゴリアテの洗礼を受けるレジェンド無免許＃３４【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 111,
-          "avgViewers": 86.0,
-          "samples": [
-            [
-              "2026-09-25T11:00:34Z",
-              13
-            ],
-            [
-              "2026-09-25T11:22:31Z",
-              76
-            ],
-            [
-              "2026-09-25T11:41:31Z",
-              81
-            ],
-            [
-              "2026-09-25T11:56:54Z",
-              82
-            ],
-            [
-              "2026-09-25T12:19:23Z",
-              83
-            ],
-            [
-              "2026-09-25T12:39:52Z",
-              78
-            ],
-            [
-              "2026-09-25T12:56:46Z",
-              90
-            ],
-            [
-              "2026-09-25T13:16:09Z",
-              94
-            ],
-            [
-              "2026-09-25T13:33:36Z",
-              105
-            ],
-            [
-              "2026-09-25T13:50:37Z",
-              104
-            ],
-            [
-              "2026-09-25T14:12:18Z",
-              111
-            ],
-            [
-              "2026-09-25T14:33:18Z",
-              110
-            ],
-            [
-              "2026-09-25T14:50:52Z",
-              101
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "czSXlVbQMeg",
-          "videoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg",
-          "start": "2026-09-23T05:32:21Z",
-          "end": "2026-09-23T10:15:40Z",
-          "minutes": 283.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 133,
-          "avgViewers": 114.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "czSXlVbQMeg",
-          "videoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg",
-          "start": "2026-09-23T04:34:40Z",
-          "end": "2026-09-23T05:17:08Z",
-          "minutes": 42.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 87,
-          "avgViewers": 65.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "YBJ-9p150rY",
-          "videoUrl": "https://www.youtube.com/watch?v=YBJ-9p150rY",
-          "start": "2026-09-21T04:32:56Z",
-          "end": "2026-09-21T09:23:27Z",
-          "minutes": 290.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】行け！無免許！ついにレジェンドへ！！＃３２【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 137,
-          "avgViewers": 97.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "mmesCT3TaTU",
-          "videoUrl": "https://www.youtube.com/watch?v=mmesCT3TaTU",
-          "start": "2026-09-19T04:15:53Z",
-          "end": "2026-09-19T10:12:20Z",
-          "minutes": 356.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】無免許爆走！伊東トレイルで1位とる＃30【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 123,
-          "avgViewers": 78.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "cika786DL0E",
-          "videoUrl": "https://www.youtube.com/watch?v=cika786DL0E",
-          "start": "2026-09-17T11:59:29Z",
-          "end": "2026-09-17T15:01:09Z",
-          "minutes": 181.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】無免許爆走！車の雑誌を買ったぞ＃30【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 87,
-          "avgViewers": 63.6,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 32,
-      "livePeakViewers": 82,
-      "liveAvgViewers": 66.6,
-      "liveSamples": [
-        [
-          "2026-09-30T09:59:58Z",
-          30
-        ],
-        [
-          "2026-09-30T10:21:49Z",
-          68
-        ],
-        [
-          "2026-09-30T10:43:47Z",
-          82
-        ],
-        [
-          "2026-09-30T10:59:10Z",
-          82
-        ],
-        [
-          "2026-09-30T11:18:35Z",
-          74
-        ],
-        [
-          "2026-09-30T11:34:38Z",
-          81
-        ],
-        [
-          "2026-09-30T11:51:45Z",
-          79
-        ],
-        [
-          "2026-09-30T12:16:08Z",
-          76
-        ],
-        [
-          "2026-09-30T12:44:46Z",
-          32
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=9wpG172HUqg"
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
-      "isLive": true,
-      "liveSince": "2026-09-30T11:18:35Z",
-      "liveTitle": "日本行く準備しながら？無計画雑談🧸【甘音あむ / ネオポルテ】",
-      "lastEnd": "2026-09-28T04:52:05Z",
-      "lastTitle": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 86.2,
-          "gameMinutes": 0.0,
-          "totalHours": 1.44,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 185.0,
-          "peakViewers": 209
-        },
-        "week": {
-          "totalMinutes": 185.9,
-          "gameMinutes": 0.0,
-          "totalHours": 3.1,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 200.2,
-          "peakViewers": 265
-        },
-        "month": {
-          "totalMinutes": 2246.0,
-          "gameMinutes": 600.9,
-          "totalHours": 37.43,
-          "gameHours": 10.01,
-          "sessions": 19,
-          "avgViewers": 207.5,
-          "peakViewers": 793
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "mKgDy4nzx8Q",
-          "videoUrl": "https://www.youtube.com/watch?v=mKgDy4nzx8Q",
-          "start": "2026-09-28T03:12:25Z",
-          "end": "2026-09-28T04:52:05Z",
-          "minutes": 99.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 265,
-          "avgViewers": 213.3,
-          "samples": [
-            [
-              "2026-09-28T03:12:25Z",
-              127
-            ],
-            [
-              "2026-09-28T03:34:49Z",
-              196
-            ],
-            [
-              "2026-09-28T03:51:44Z",
-              230
-            ],
-            [
-              "2026-09-28T04:12:17Z",
-              250
-            ],
-            [
-              "2026-09-28T04:34:33Z",
-              265
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "uvI9J57kWu8",
-          "videoUrl": "https://www.youtube.com/watch?v=uvI9J57kWu8",
-          "start": "2026-09-27T07:17:41Z",
-          "end": "2026-09-27T09:17:38Z",
-          "minutes": 120.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #歌枠 / KARAOKE 】お歌練習！聴いて🤍✨【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 575,
-          "avgViewers": 440.6,
-          "samples": [
-            [
-              "2026-09-27T07:17:41Z",
-              219
-            ],
-            [
-              "2026-09-27T07:32:44Z",
-              276
-            ],
-            [
-              "2026-09-27T07:48:13Z",
-              302
-            ],
-            [
-              "2026-09-27T07:58:41Z",
-              522
-            ],
-            [
-              "2026-09-27T08:17:57Z",
-              562
-            ],
-            [
-              "2026-09-27T08:33:31Z",
-              575
-            ],
-            [
-              "2026-09-27T08:48:44Z",
-              532
-            ],
-            [
-              "2026-09-27T08:59:22Z",
-              500
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "iq483_ejcTk",
-          "videoUrl": "https://www.youtube.com/watch?v=iq483_ejcTk",
-          "start": "2026-09-26T03:17:02Z",
-          "end": "2026-09-26T05:31:22Z",
-          "minutes": 134.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【APEX】お昼の爆弾マン🤍ソロえぺ【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 236,
-          "avgViewers": 213.8,
-          "samples": [
-            [
-              "2026-09-26T03:17:02Z",
-              144
-            ],
-            [
-              "2026-09-26T03:32:42Z",
-              198
-            ],
-            [
-              "2026-09-26T03:48:04Z",
-              214
-            ],
-            [
-              "2026-09-26T03:58:28Z",
-              233
-            ],
-            [
-              "2026-09-26T04:17:16Z",
-              234
-            ],
-            [
-              "2026-09-26T04:33:10Z",
-              236
-            ],
-            [
-              "2026-09-26T04:48:06Z",
-              216
-            ],
-            [
-              "2026-09-26T04:58:57Z",
-              225
-            ],
-            [
-              "2026-09-26T05:16:52Z",
-              220
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "LZmO4BNvbX0",
-          "videoUrl": "https://www.youtube.com/watch?v=LZmO4BNvbX0",
-          "start": "2026-09-24T22:38:58Z",
-          "end": "2026-09-25T00:19:27Z",
-          "minutes": 100.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝枠】おはよおおお【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 319,
-          "avgViewers": 251.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "AVJ187vaB0M",
-          "videoUrl": "https://www.youtube.com/watch?v=AVJ187vaB0M",
-          "start": "2026-09-23T21:31:46Z",
-          "end": "2026-09-23T22:55:48Z",
-          "minutes": 84.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "病み上がり無計画【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 350,
-          "avgViewers": 330.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "AVJ187vaB0M",
-          "videoUrl": "https://www.youtube.com/watch?v=AVJ187vaB0M",
-          "start": "2026-09-23T17:14:28Z",
-          "end": "2026-09-23T21:17:26Z",
-          "minutes": 243.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "病み上がり無計画【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 352,
-          "avgViewers": 259.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "_OQGLbjiONw",
-          "videoUrl": "https://www.youtube.com/watch?v=_OQGLbjiONw",
-          "start": "2026-09-22T13:04:52Z",
-          "end": "2026-09-22T14:08:19Z",
-          "minutes": 63.5,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "熱ほぼなおった！",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "aywYhwc3KEA",
-          "videoUrl": "https://www.youtube.com/watch?v=aywYhwc3KEA",
-          "start": "2026-09-19T17:12:16Z",
-          "end": "2026-09-19T19:13:53Z",
-          "minutes": 121.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Minecraft】深夜のソロマイクラ🐢雑談しながらゆるゆるっと！【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 328,
-          "avgViewers": 266.1,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 188,
-      "livePeakViewers": 209,
-      "liveAvgViewers": 185.0,
-      "liveSamples": [
-        [
-          "2026-09-30T11:18:35Z",
-          130
-        ],
-        [
-          "2026-09-30T11:34:38Z",
-          180
-        ],
-        [
-          "2026-09-30T11:51:45Z",
-          209
-        ],
-        [
-          "2026-09-30T12:16:08Z",
-          196
-        ],
-        [
-          "2026-09-30T12:44:46Z",
-          188
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=C1vwj_WuJh4"
     },
     {
       "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
@@ -1592,27 +1314,27 @@
       "lastTitle": "【#歌枠 】初見さん歓迎！短めだけど元気に歌うよ#shorts #vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 19.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.32,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 108.6,
+          "totalMinutes": 128.0,
           "gameMinutes": 0.0,
-          "totalHours": 1.81,
+          "totalHours": 2.13,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 118.9,
           "peakViewers": 129
         },
         "month": {
-          "totalMinutes": 1440.7,
+          "totalMinutes": 1460.1,
           "gameMinutes": 169.2,
-          "totalHours": 24.01,
+          "totalHours": 24.33,
           "gameHours": 2.82,
           "sessions": 11,
           "avgViewers": 58.5,
@@ -2887,319 +2609,6 @@
           "game": null,
           "peakViewers": 889,
           "avgViewers": 129.7,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-09-29T23:44:37Z",
-      "lastTitle": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
-      "buckets": {
-        "today": {
-          "totalMinutes": 152.9,
-          "gameMinutes": 0.0,
-          "totalHours": 2.55,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 75.3,
-          "peakViewers": 91
-        },
-        "week": {
-          "totalMinutes": 426.9,
-          "gameMinutes": 0.0,
-          "totalHours": 7.12,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 72.9,
-          "peakViewers": 94
-        },
-        "month": {
-          "totalMinutes": 7204.4,
-          "gameMinutes": 169.2,
-          "totalHours": 120.07,
-          "gameHours": 2.82,
-          "sessions": 28,
-          "avgViewers": 87.3,
-          "peakViewers": 428
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "BUF3HziVjQE",
-          "videoUrl": "https://www.youtube.com/watch?v=BUF3HziVjQE",
-          "start": "2026-09-29T21:11:44Z",
-          "end": "2026-09-29T23:44:37Z",
-          "minutes": 152.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 91,
-          "avgViewers": 75.3,
-          "samples": [
-            [
-              "2026-09-29T21:11:44Z",
-              48
-            ],
-            [
-              "2026-09-29T21:37:37Z",
-              73
-            ],
-            [
-              "2026-09-29T21:49:34Z",
-              88
-            ],
-            [
-              "2026-09-29T22:00:48Z",
-              91
-            ],
-            [
-              "2026-09-29T22:23:27Z",
-              85
-            ],
-            [
-              "2026-09-29T22:40:53Z",
-              86
-            ],
-            [
-              "2026-09-29T22:56:40Z",
-              85
-            ],
-            [
-              "2026-09-29T23:13:44Z",
-              74
-            ],
-            [
-              "2026-09-29T23:30:00Z",
-              61
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "T0Uy9n3wL3s",
-          "videoUrl": "https://www.youtube.com/watch?v=T0Uy9n3wL3s",
-          "start": "2026-09-28T13:03:02Z",
-          "end": "2026-09-28T16:20:40Z",
-          "minutes": 197.6,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【歌枠/Singing】眠れない人向けのチル歌枠🌙　【 #恋沼ミヤ】",
-          "game": null,
-          "peakViewers": 94,
-          "avgViewers": 73.1,
-          "samples": [
-            [
-              "2026-09-28T13:25:36Z",
-              62
-            ],
-            [
-              "2026-09-28T13:45:41Z",
-              76
-            ],
-            [
-              "2026-09-28T14:01:02Z",
-              60
-            ],
-            [
-              "2026-09-28T14:27:27Z",
-              72
-            ],
-            [
-              "2026-09-28T14:48:50Z",
-              84
-            ],
-            [
-              "2026-09-28T15:03:24Z",
-              71
-            ],
-            [
-              "2026-09-28T15:27:09Z",
-              77
-            ],
-            [
-              "2026-09-28T15:46:28Z",
-              94
-            ],
-            [
-              "2026-09-28T16:00:53Z",
-              76
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "eRrzdUCKdo0",
-          "videoUrl": "https://www.youtube.com/watch?v=eRrzdUCKdo0",
-          "start": "2026-09-27T12:21:31Z",
-          "end": "2026-09-27T16:16:24Z",
-          "minutes": 234.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 93,
-          "avgViewers": 67.5,
-          "samples": [
-            [
-              "2026-09-27T12:21:31Z",
-              31
-            ],
-            [
-              "2026-09-27T12:44:06Z",
-              47
-            ],
-            [
-              "2026-09-27T12:58:19Z",
-              56
-            ],
-            [
-              "2026-09-27T13:16:25Z",
-              63
-            ],
-            [
-              "2026-09-27T13:31:36Z",
-              58
-            ],
-            [
-              "2026-09-27T13:47:28Z",
-              61
-            ],
-            [
-              "2026-09-27T13:58:12Z",
-              72
-            ],
-            [
-              "2026-09-27T14:16:08Z",
-              74
-            ],
-            [
-              "2026-09-27T14:31:16Z",
-              80
-            ],
-            [
-              "2026-09-27T14:47:29Z",
-              78
-            ],
-            [
-              "2026-09-27T14:58:18Z",
-              71
-            ],
-            [
-              "2026-09-27T15:16:31Z",
-              79
-            ],
-            [
-              "2026-09-27T15:31:47Z",
-              93
-            ],
-            [
-              "2026-09-27T15:47:09Z",
-              86
-            ],
-            [
-              "2026-09-27T15:57:43Z",
-              87
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "G9kILBxLb18",
-          "videoUrl": "https://www.youtube.com/watch?v=G9kILBxLb18",
-          "start": "2026-09-26T11:55:50Z",
-          "end": "2026-09-26T18:19:07Z",
-          "minutes": 383.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day35 ギャング体験中。今日はどんな日になるのかな？【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 66,
-          "avgViewers": 44.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "BtvsJcCUx3M",
-          "videoUrl": "https://www.youtube.com/watch?v=BtvsJcCUx3M",
-          "start": "2026-09-25T14:12:18Z",
-          "end": "2026-09-25T18:20:49Z",
-          "minutes": 248.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷 　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 106,
-          "avgViewers": 80.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "LA4V22rLN4Y",
-          "videoUrl": "https://www.youtube.com/watch?v=LA4V22rLN4Y",
-          "start": "2026-09-24T12:17:42Z",
-          "end": "2026-09-24T18:42:46Z",
-          "minutes": 385.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day34 久しぶりの起床！街を探索するのだ！【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 142,
-          "avgViewers": 77.1,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "aQP2S19kK3A",
-          "videoUrl": "https://www.youtube.com/watch?v=aQP2S19kK3A",
-          "start": "2026-09-23T10:49:27Z",
-          "end": "2026-09-23T13:41:22Z",
-          "minutes": 171.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠/Singing】まったり歌うので1曲聞いていってください🖤🎵🤍　【 #恋沼ミヤ】",
-          "game": null,
-          "peakViewers": 89,
-          "avgViewers": 67.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "0fUbAzY5Prc",
-          "videoUrl": "https://www.youtube.com/watch?v=0fUbAzY5Prc",
-          "start": "2026-09-22T10:12:34Z",
-          "end": "2026-09-22T16:59:11Z",
-          "minutes": 406.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 SURGETOWN 】#18　感想＆振り返り配信🚔【恋沼ミヤ/#surgetown】",
-          "game": null,
-          "peakViewers": 277,
-          "avgViewers": 181.8,
           "samples": [],
           "isTargetGame": false
         }
@@ -5496,6 +4905,266 @@
       ]
     },
     {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-30T13:04:08Z",
+      "lastTitle": "【Forza Horizon6】無免許は金バンド&金スタンプになりました＃３６【#七乃羽すず┆すずみあ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 184.2,
+          "gameMinutes": 0.0,
+          "totalHours": 3.07,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 66.6,
+          "peakViewers": 82
+        },
+        "week": {
+          "totalMinutes": 184.2,
+          "gameMinutes": 0.0,
+          "totalHours": 3.07,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 66.6,
+          "peakViewers": 82
+        },
+        "month": {
+          "totalMinutes": 2844.5,
+          "gameMinutes": 467.4,
+          "totalHours": 47.41,
+          "gameHours": 7.79,
+          "sessions": 17,
+          "avgViewers": 69.7,
+          "peakViewers": 137
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "9wpG172HUqg",
+          "videoUrl": "https://www.youtube.com/watch?v=9wpG172HUqg",
+          "start": "2026-09-30T09:59:58Z",
+          "end": "2026-09-30T13:04:08Z",
+          "minutes": 184.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許は金バンド&金スタンプになりました＃３６【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 82,
+          "avgViewers": 66.6,
+          "samples": [
+            [
+              "2026-09-30T09:59:58Z",
+              30
+            ],
+            [
+              "2026-09-30T10:21:49Z",
+              68
+            ],
+            [
+              "2026-09-30T10:43:47Z",
+              82
+            ],
+            [
+              "2026-09-30T10:59:10Z",
+              82
+            ],
+            [
+              "2026-09-30T11:18:35Z",
+              74
+            ],
+            [
+              "2026-09-30T11:34:38Z",
+              81
+            ],
+            [
+              "2026-09-30T11:51:45Z",
+              79
+            ],
+            [
+              "2026-09-30T12:16:08Z",
+              76
+            ],
+            [
+              "2026-09-30T12:44:46Z",
+              32
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "o_-gzFl-vWo",
+          "videoUrl": "https://www.youtube.com/watch?v=o_-gzFl-vWo",
+          "start": "2026-09-27T10:59:09Z",
+          "end": "2026-09-27T12:57:25Z",
+          "minutes": 118.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【雑談┊︎メンバー限定】2026.9月号｜最近の話とこれからの作戦会議【新人VTuber┊︎七乃羽すず】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "IAs9ePflSHk",
+          "videoUrl": "https://www.youtube.com/watch?v=IAs9ePflSHk",
+          "start": "2026-09-26T04:58:57Z",
+          "end": "2026-09-26T07:57:37Z",
+          "minutes": 178.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】爆走金バンド！いろいろコンプしようぜ！！！＃３５【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 109,
+          "avgViewers": 82.8,
+          "samples": [
+            [
+              "2026-09-26T04:58:57Z",
+              9
+            ],
+            [
+              "2026-09-26T05:16:52Z",
+              61
+            ],
+            [
+              "2026-09-26T05:31:22Z",
+              66
+            ],
+            [
+              "2026-09-26T05:47:30Z",
+              85
+            ],
+            [
+              "2026-09-26T05:58:06Z",
+              87
+            ],
+            [
+              "2026-09-26T06:21:21Z",
+              96
+            ],
+            [
+              "2026-09-26T06:44:00Z",
+              95
+            ],
+            [
+              "2026-09-26T06:58:02Z",
+              99
+            ],
+            [
+              "2026-09-26T07:16:08Z",
+              101
+            ],
+            [
+              "2026-09-26T07:30:48Z",
+              102
+            ],
+            [
+              "2026-09-26T07:47:12Z",
+              109
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "tkr4FgaJGzo",
+          "videoUrl": "https://www.youtube.com/watch?v=tkr4FgaJGzo",
+          "start": "2026-09-25T11:00:34Z",
+          "end": "2026-09-25T15:12:37Z",
+          "minutes": 252.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】ゴリアテの洗礼を受けるレジェンド無免許＃３４【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 111,
+          "avgViewers": 86.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "czSXlVbQMeg",
+          "videoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg",
+          "start": "2026-09-23T05:32:21Z",
+          "end": "2026-09-23T10:15:40Z",
+          "minutes": 283.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 133,
+          "avgViewers": 114.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "czSXlVbQMeg",
+          "videoUrl": "https://www.youtube.com/watch?v=czSXlVbQMeg",
+          "start": "2026-09-23T04:34:40Z",
+          "end": "2026-09-23T05:17:08Z",
+          "minutes": 42.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許なのにレジェンド到達！爆走雑談＃３３【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 87,
+          "avgViewers": 65.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "YBJ-9p150rY",
+          "videoUrl": "https://www.youtube.com/watch?v=YBJ-9p150rY",
+          "start": "2026-09-21T04:32:56Z",
+          "end": "2026-09-21T09:23:27Z",
+          "minutes": 290.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】行け！無免許！ついにレジェンドへ！！＃３２【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 137,
+          "avgViewers": 97.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "mmesCT3TaTU",
+          "videoUrl": "https://www.youtube.com/watch?v=mmesCT3TaTU",
+          "start": "2026-09-19T04:15:53Z",
+          "end": "2026-09-19T10:12:20Z",
+          "minutes": 356.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】無免許爆走！伊東トレイルで1位とる＃30【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 123,
+          "avgViewers": 78.2,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
       "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
       "name": "maŸUko",
       "registered": true,
@@ -6106,6 +5775,259 @@
       ]
     },
     {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-09-30T13:04:08Z",
+      "lastTitle": "日本行く準備しながら？無計画雑談🧸【甘音あむ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 105.5,
+          "gameMinutes": 0.0,
+          "totalHours": 1.76,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 185.0,
+          "peakViewers": 209
+        },
+        "week": {
+          "totalMinutes": 205.2,
+          "gameMinutes": 0.0,
+          "totalHours": 3.42,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 198.7,
+          "peakViewers": 265
+        },
+        "month": {
+          "totalMinutes": 2265.3,
+          "gameMinutes": 600.9,
+          "totalHours": 37.76,
+          "gameHours": 10.01,
+          "sessions": 19,
+          "avgViewers": 207.3,
+          "peakViewers": 793
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "C1vwj_WuJh4",
+          "videoUrl": "https://www.youtube.com/watch?v=C1vwj_WuJh4",
+          "start": "2026-09-30T11:18:35Z",
+          "end": "2026-09-30T13:04:08Z",
+          "minutes": 105.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "日本行く準備しながら？無計画雑談🧸【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 209,
+          "avgViewers": 185.0,
+          "samples": [
+            [
+              "2026-09-30T11:18:35Z",
+              130
+            ],
+            [
+              "2026-09-30T11:34:38Z",
+              180
+            ],
+            [
+              "2026-09-30T11:51:45Z",
+              209
+            ],
+            [
+              "2026-09-30T12:16:08Z",
+              196
+            ],
+            [
+              "2026-09-30T12:44:46Z",
+              188
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "mKgDy4nzx8Q",
+          "videoUrl": "https://www.youtube.com/watch?v=mKgDy4nzx8Q",
+          "start": "2026-09-28T03:12:25Z",
+          "end": "2026-09-28T04:52:05Z",
+          "minutes": 99.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 265,
+          "avgViewers": 213.3,
+          "samples": [
+            [
+              "2026-09-28T03:12:25Z",
+              127
+            ],
+            [
+              "2026-09-28T03:34:49Z",
+              196
+            ],
+            [
+              "2026-09-28T03:51:44Z",
+              230
+            ],
+            [
+              "2026-09-28T04:12:17Z",
+              250
+            ],
+            [
+              "2026-09-28T04:34:33Z",
+              265
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "uvI9J57kWu8",
+          "videoUrl": "https://www.youtube.com/watch?v=uvI9J57kWu8",
+          "start": "2026-09-27T07:17:41Z",
+          "end": "2026-09-27T09:17:38Z",
+          "minutes": 120.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #歌枠 / KARAOKE 】お歌練習！聴いて🤍✨【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 575,
+          "avgViewers": 440.6,
+          "samples": [
+            [
+              "2026-09-27T07:17:41Z",
+              219
+            ],
+            [
+              "2026-09-27T07:32:44Z",
+              276
+            ],
+            [
+              "2026-09-27T07:48:13Z",
+              302
+            ],
+            [
+              "2026-09-27T07:58:41Z",
+              522
+            ],
+            [
+              "2026-09-27T08:17:57Z",
+              562
+            ],
+            [
+              "2026-09-27T08:33:31Z",
+              575
+            ],
+            [
+              "2026-09-27T08:48:44Z",
+              532
+            ],
+            [
+              "2026-09-27T08:59:22Z",
+              500
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "iq483_ejcTk",
+          "videoUrl": "https://www.youtube.com/watch?v=iq483_ejcTk",
+          "start": "2026-09-26T03:17:02Z",
+          "end": "2026-09-26T05:31:22Z",
+          "minutes": 134.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【APEX】お昼の爆弾マン🤍ソロえぺ【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 236,
+          "avgViewers": 213.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "LZmO4BNvbX0",
+          "videoUrl": "https://www.youtube.com/watch?v=LZmO4BNvbX0",
+          "start": "2026-09-24T22:38:58Z",
+          "end": "2026-09-25T00:19:27Z",
+          "minutes": 100.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝枠】おはよおおお【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 319,
+          "avgViewers": 251.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "AVJ187vaB0M",
+          "videoUrl": "https://www.youtube.com/watch?v=AVJ187vaB0M",
+          "start": "2026-09-23T21:31:46Z",
+          "end": "2026-09-23T22:55:48Z",
+          "minutes": 84.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "病み上がり無計画【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 350,
+          "avgViewers": 330.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "AVJ187vaB0M",
+          "videoUrl": "https://www.youtube.com/watch?v=AVJ187vaB0M",
+          "start": "2026-09-23T17:14:28Z",
+          "end": "2026-09-23T21:17:26Z",
+          "minutes": 243.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "病み上がり無計画【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 352,
+          "avgViewers": 259.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "_OQGLbjiONw",
+          "videoUrl": "https://www.youtube.com/watch?v=_OQGLbjiONw",
+          "start": "2026-09-22T13:04:52Z",
+          "end": "2026-09-22T14:08:19Z",
+          "minutes": 63.5,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "熱ほぼなおった！",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
       "registered": true,
@@ -6514,6 +6436,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "C1vwj_WuJh4",
+      "videoUrl": "https://www.youtube.com/watch?v=C1vwj_WuJh4",
+      "start": "2026-09-30T11:18:35Z",
+      "end": "2026-09-30T13:04:08Z",
+      "minutes": 105.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "日本行く準備しながら？無計画雑談🧸【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 209,
+      "avgViewers": 185.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
       "name": "日裏クロ",
       "videoId": "t0mBiMh9qVo",
@@ -6527,6 +6465,22 @@
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "9wpG172HUqg",
+      "videoUrl": "https://www.youtube.com/watch?v=9wpG172HUqg",
+      "start": "2026-09-30T09:59:58Z",
+      "end": "2026-09-30T13:04:08Z",
+      "minutes": 184.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Forza Horizon6】無免許は金バンド&金スタンプになりました＃３６【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 82,
+      "avgViewers": 66.6,
       "isTargetGame": false
     },
     {
@@ -7407,38 +7361,6 @@
       "game": null,
       "peakViewers": 69,
       "avgViewers": 48.7,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "V2Y3CnW6fM8",
-      "videoUrl": "https://www.youtube.com/watch?v=V2Y3CnW6fM8",
-      "start": "2026-09-27T09:17:38Z",
-      "end": "2026-09-27T18:18:39Z",
-      "minutes": 541.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 天下無双ARK 】150レベルをみると昂る体【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 22,
-      "avgViewers": 12.6,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "s-K_d9Xg0PM",
-      "videoUrl": "https://www.youtube.com/watch?v=s-K_d9Xg0PM",
-      "start": "2026-09-27T09:17:38Z",
-      "end": "2026-09-27T18:36:23Z",
-      "minutes": 558.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【#天下無双ARK】8日目：試練のダンジョンをみんなで頑張る日🦖！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 997,
-      "avgViewers": 518.6,
       "isTargetGame": false
     }
   ]
