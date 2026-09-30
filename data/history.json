@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCo3zRhsnXIieauvm6c-xwkA": {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "9wpG172HUqg",
+      "start": "2026-09-30T09:59:58Z",
+      "startSource": "observed",
+      "title": "【Forza Horizon6】無免許は金バンド&金スタンプになりました＃３６【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 30,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-09-30T09:59:58Z",
+      "lastSeenAt": "2026-09-30T09:59:58Z",
+      "samples": [
+        [
+          "2026-09-30T09:59:58Z",
+          30
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
