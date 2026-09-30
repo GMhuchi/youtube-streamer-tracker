@@ -13,7 +13,7 @@
       "peakViewers": 149,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-30T11:34:38Z",
-      "lastSeenAt": "2026-09-30T15:37:41Z",
+      "lastSeenAt": "2026-09-30T15:55:48Z",
       "samples": [
         [
           "2026-09-30T11:34:38Z",
@@ -62,6 +62,10 @@
         [
           "2026-09-30T15:37:41Z",
           76
+        ],
+        [
+          "2026-09-30T15:55:48Z",
+          76
         ]
       ]
     },
@@ -76,7 +80,7 @@
       "peakViewers": 32,
       "isTargetGame": false,
       "firstSeenAt": "2026-09-30T13:04:08Z",
-      "lastSeenAt": "2026-09-30T15:37:41Z",
+      "lastSeenAt": "2026-09-30T15:55:48Z",
       "samples": [
         [
           "2026-09-30T13:04:08Z",
@@ -109,22 +113,12 @@
         [
           "2026-09-30T15:37:41Z",
           28
+        ],
+        [
+          "2026-09-30T15:55:48Z",
+          28
         ]
       ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "rfNKBIh2Zyk",
-      "start": "2026-09-30T13:27:29Z",
-      "startSource": "observed",
-      "title": "【メン限】tourai【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-30T13:27:29Z",
-      "lastSeenAt": "2026-09-30T15:37:41Z",
-      "samples": []
     }
   },
   "sessions": [
@@ -29504,6 +29498,23 @@
       "startSource": "youtube",
       "endSource": "youtube",
       "title": "【メン限】チェンソーマンレゼ編をみんなで見よう【氷乃渚 / ゆにれいど！】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "rfNKBIh2Zyk",
+      "videoUrl": "https://www.youtube.com/watch?v=rfNKBIh2Zyk",
+      "start": "2026-09-30T13:05:17Z",
+      "end": "2026-09-30T15:40:19Z",
+      "minutes": 155.0,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【メン限】tourai【綾見ユラ/YUMENOS】",
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
