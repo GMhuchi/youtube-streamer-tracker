@@ -1,59 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "jL4ccf886bk",
-      "start": "2026-09-29T23:56:42Z",
-      "startSource": "observed",
-      "title": "【目標：レジェンド リュウ レバーレス】間合い管理をしっかりする！【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 28,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-09-29T23:56:42Z",
-      "lastSeenAt": "2026-09-30T02:35:07Z",
-      "samples": [
-        [
-          "2026-09-29T23:56:42Z",
-          11
-        ],
-        [
-          "2026-09-30T00:21:58Z",
-          12
-        ],
-        [
-          "2026-09-30T00:48:41Z",
-          16
-        ],
-        [
-          "2026-09-30T01:04:05Z",
-          24
-        ],
-        [
-          "2026-09-30T01:25:00Z",
-          28
-        ],
-        [
-          "2026-09-30T01:42:35Z",
-          25
-        ],
-        [
-          "2026-09-30T01:59:26Z",
-          25
-        ],
-        [
-          "2026-09-30T02:18:39Z",
-          23
-        ],
-        [
-          "2026-09-30T02:35:07Z",
-          21
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -28994,6 +28942,60 @@
         [
           "2026-09-29T23:30:00Z",
           61
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "jL4ccf886bk",
+      "videoUrl": "https://www.youtube.com/watch?v=jL4ccf886bk",
+      "start": "2026-09-29T23:56:42Z",
+      "end": "2026-09-30T02:51:02Z",
+      "minutes": 174.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【目標：レジェンド リュウ レバーレス】間合い管理をしっかりする！【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 28,
+      "avgViewers": 19.8,
+      "samples": [
+        [
+          "2026-09-29T23:56:42Z",
+          11
+        ],
+        [
+          "2026-09-30T00:21:58Z",
+          12
+        ],
+        [
+          "2026-09-30T00:48:41Z",
+          16
+        ],
+        [
+          "2026-09-30T01:04:05Z",
+          24
+        ],
+        [
+          "2026-09-30T01:25:00Z",
+          28
+        ],
+        [
+          "2026-09-30T01:42:35Z",
+          25
+        ],
+        [
+          "2026-09-30T01:59:26Z",
+          25
+        ],
+        [
+          "2026-09-30T02:18:39Z",
+          23
+        ],
+        [
+          "2026-09-30T02:35:07Z",
+          21
         ]
       ],
       "isTargetGame": false
