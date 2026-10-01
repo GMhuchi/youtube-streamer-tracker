@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T22:11:00Z",
+  "updatedAt": "2026-10-01T22:31:47Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,632 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1112.8,
+      "totalMinutes": 1154.4,
       "gameMinutes": 0.0,
-      "totalHours": 18.55,
+      "totalHours": 19.24,
       "gameHours": 0.0,
       "sessions": 8,
-      "avgViewers": 153.9,
+      "avgViewers": 148.9,
       "peakViewers": 747
     },
     "week": {
-      "totalMinutes": 15232.1,
+      "totalMinutes": 15273.6,
       "gameMinutes": 0.0,
-      "totalHours": 253.87,
+      "totalHours": 254.56,
       "gameHours": 0.0,
       "sessions": 77,
-      "avgViewers": 155.6,
+      "avgViewers": 155.2,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 3561.3,
+      "totalMinutes": 3602.9,
       "gameMinutes": 0.0,
-      "totalHours": 59.35,
+      "totalHours": 60.05,
       "gameHours": 0.0,
       "sessions": 17,
-      "avgViewers": 114.6,
+      "avgViewers": 113.5,
       "peakViewers": 750
     }
   },
   "channels": [
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": true,
-      "liveSince": "2026-10-01T21:11:32Z",
-      "liveTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "lastEnd": "2026-10-01T14:55:45Z",
-      "lastTitle": "【雀魂】とりあえず雀豪に戻したい定期 盛るぞ！【埼凰リンネ / YUMENOS】#新人vtuber #雀魂",
-      "buckets": {
-        "today": {
-          "totalMinutes": 59.5,
-          "gameMinutes": 0.0,
-          "totalHours": 0.99,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 24.6,
-          "peakViewers": 28
-        },
-        "week": {
-          "totalMinutes": 673.7,
-          "gameMinutes": 0.0,
-          "totalHours": 11.23,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 18.4,
-          "peakViewers": 30
-        },
-        "month": {
-          "totalMinutes": 183.6,
-          "gameMinutes": 0.0,
-          "totalHours": 3.06,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 14.0,
-          "peakViewers": 28
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "yKdKSVCD6ig",
-          "videoUrl": "https://www.youtube.com/watch?v=yKdKSVCD6ig",
-          "start": "2026-10-01T12:51:38Z",
-          "end": "2026-10-01T14:55:45Z",
-          "minutes": 124.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雀魂】とりあえず雀豪に戻したい定期 盛るぞ！【埼凰リンネ / YUMENOS】#新人vtuber #雀魂",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 8.9,
-          "samples": [
-            [
-              "2026-10-01T12:51:38Z",
-              10
-            ],
-            [
-              "2026-10-01T13:16:09Z",
-              7
-            ],
-            [
-              "2026-10-01T13:37:47Z",
-              9
-            ],
-            [
-              "2026-10-01T13:55:44Z",
-              9
-            ],
-            [
-              "2026-10-01T14:16:23Z",
-              9
-            ],
-            [
-              "2026-10-01T14:38:16Z",
-              9
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "2Pt0ur7A0Rw",
-          "videoUrl": "https://www.youtube.com/watch?v=2Pt0ur7A0Rw",
-          "start": "2026-09-29T21:11:44Z",
-          "end": "2026-09-29T23:30:00Z",
-          "minutes": 138.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 18.3,
-          "samples": [
-            [
-              "2026-09-29T21:11:44Z",
-              12
-            ],
-            [
-              "2026-09-29T21:37:37Z",
-              21
-            ],
-            [
-              "2026-09-29T21:49:34Z",
-              16
-            ],
-            [
-              "2026-09-29T22:00:48Z",
-              21
-            ],
-            [
-              "2026-09-29T22:23:27Z",
-              22
-            ],
-            [
-              "2026-09-29T22:40:53Z",
-              20
-            ],
-            [
-              "2026-09-29T22:56:40Z",
-              18
-            ],
-            [
-              "2026-09-29T23:13:44Z",
-              19
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "iIOd2Esh6lw",
-          "videoUrl": "https://www.youtube.com/watch?v=iIOd2Esh6lw",
-          "start": "2026-09-29T12:15:48Z",
-          "end": "2026-09-29T16:00:56Z",
-          "minutes": 225.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【飲酒雑談】秋の味覚、秋刀魚で日本酒やるぞ！！🍶【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 19.1,
-          "samples": [
-            [
-              "2026-09-29T12:15:48Z",
-              26
-            ],
-            [
-              "2026-09-29T12:41:27Z",
-              20
-            ],
-            [
-              "2026-09-29T13:02:56Z",
-              18
-            ],
-            [
-              "2026-09-29T13:28:52Z",
-              15
-            ],
-            [
-              "2026-09-29T13:49:32Z",
-              20
-            ],
-            [
-              "2026-09-29T14:03:20Z",
-              17
-            ],
-            [
-              "2026-09-29T14:26:03Z",
-              18
-            ],
-            [
-              "2026-09-29T14:45:46Z",
-              17
-            ],
-            [
-              "2026-09-29T15:02:18Z",
-              19
-            ],
-            [
-              "2026-09-29T15:27:14Z",
-              21
-            ],
-            [
-              "2026-09-29T15:46:55Z",
-              18
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "tjdZl5zuDIs",
-          "videoUrl": "https://www.youtube.com/watch?v=tjdZl5zuDIs",
-          "start": "2026-09-27T22:15:06Z",
-          "end": "2026-09-28T00:21:48Z",
-          "minutes": 126.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 30,
-          "avgViewers": 23.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "XbK04FjYtRw",
-          "videoUrl": "https://www.youtube.com/watch?v=XbK04FjYtRw",
-          "start": "2026-09-27T09:17:38Z",
-          "end": "2026-09-27T10:17:12Z",
-          "minutes": 59.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【妹に運転を教える】免許失効してるけど、まあ教えるくらいできるだろう【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 18,
-          "avgViewers": 13.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "gsQwc-z1wmc",
-          "videoUrl": "https://www.youtube.com/watch?v=gsQwc-z1wmc",
-          "start": "2026-09-27T06:22:49Z",
-          "end": "2026-09-27T07:17:41Z",
-          "minutes": 54.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【競馬】GⅠ スプリンターズS 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 18,
-          "avgViewers": 15.1,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "1nEmmpygr1k",
-          "videoUrl": "https://www.youtube.com/watch?v=1nEmmpygr1k",
-          "start": "2026-09-26T14:13:05Z",
-          "end": "2026-09-26T17:47:12Z",
-          "minutes": 214.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】深夜のチル歌枠💤 疲れたそんな時にほっと一息1曲聞いていきませんか？【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 22.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "HfjW-pqr3lQ",
-          "videoUrl": "https://www.youtube.com/watch?v=HfjW-pqr3lQ",
-          "start": "2026-09-25T12:19:23Z",
-          "end": "2026-09-25T15:48:50Z",
-          "minutes": 209.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【飲酒雑談】今日は十五夜お月さん、てことで月見バーガーだ！お酒も解禁じゃ！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 33,
-          "avgViewers": 23.2,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 28,
-      "livePeakViewers": 28,
-      "liveAvgViewers": 24.6,
-      "liveSamples": [
-        [
-          "2026-10-01T21:11:32Z",
-          21
-        ],
-        [
-          "2026-10-01T21:33:36Z",
-          23
-        ],
-        [
-          "2026-10-01T21:52:07Z",
-          27
-        ],
-        [
-          "2026-10-01T22:11:00Z",
-          28
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=5_xWcmhfIC4"
-    },
-    {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "isLive": true,
-      "liveSince": "2026-10-01T22:11:00Z",
-      "liveTitle": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "lastEnd": "2026-09-30T23:10:26Z",
-      "lastTitle": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識する【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 8.0,
-          "peakViewers": 8
-        },
-        "week": {
-          "totalMinutes": 647.8,
-          "gameMinutes": 0.0,
-          "totalHours": 10.8,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 20.5,
-          "peakViewers": 33
-        },
-        "month": {
-          "totalMinutes": 77.1,
-          "gameMinutes": 0.0,
-          "totalHours": 1.28,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 12.7,
-          "peakViewers": 17
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "EnZFRittJng",
-          "videoUrl": "https://www.youtube.com/watch?v=EnZFRittJng",
-          "start": "2026-09-30T21:53:23Z",
-          "end": "2026-09-30T23:10:26Z",
-          "minutes": 77.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識する【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 12.7,
-          "samples": [
-            [
-              "2026-09-30T21:53:23Z",
-              4
-            ],
-            [
-              "2026-09-30T22:11:52Z",
-              13
-            ],
-            [
-              "2026-09-30T22:33:22Z",
-              17
-            ],
-            [
-              "2026-09-30T22:50:56Z",
-              17
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "jL4ccf886bk",
-          "videoUrl": "https://www.youtube.com/watch?v=jL4ccf886bk",
-          "start": "2026-09-29T23:56:42Z",
-          "end": "2026-09-30T02:51:02Z",
-          "minutes": 174.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】間合い管理をしっかりする！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 19.8,
-          "samples": [
-            [
-              "2026-09-29T23:56:42Z",
-              11
-            ],
-            [
-              "2026-09-30T00:21:58Z",
-              12
-            ],
-            [
-              "2026-09-30T00:48:41Z",
-              16
-            ],
-            [
-              "2026-09-30T01:04:05Z",
-              24
-            ],
-            [
-              "2026-09-30T01:25:00Z",
-              28
-            ],
-            [
-              "2026-09-30T01:42:35Z",
-              25
-            ],
-            [
-              "2026-09-30T01:59:26Z",
-              25
-            ],
-            [
-              "2026-09-30T02:18:39Z",
-              23
-            ],
-            [
-              "2026-09-30T02:35:07Z",
-              21
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "89difDZsJeI",
-          "videoUrl": "https://www.youtube.com/watch?v=89difDZsJeI",
-          "start": "2026-09-28T23:59:40Z",
-          "end": "2026-09-29T03:58:54Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】２先で勝てばいい！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 29,
-          "avgViewers": 20.7,
-          "samples": [
-            [
-              "2026-09-28T23:59:40Z",
-              6
-            ],
-            [
-              "2026-09-29T00:26:23Z",
-              15
-            ],
-            [
-              "2026-09-29T00:48:28Z",
-              20
-            ],
-            [
-              "2026-09-29T01:02:47Z",
-              22
-            ],
-            [
-              "2026-09-29T01:22:29Z",
-              21
-            ],
-            [
-              "2026-09-29T01:41:15Z",
-              23
-            ],
-            [
-              "2026-09-29T01:58:03Z",
-              29
-            ],
-            [
-              "2026-09-29T02:16:31Z",
-              25
-            ],
-            [
-              "2026-09-29T02:32:10Z",
-              25
-            ],
-            [
-              "2026-09-29T02:49:39Z",
-              27
-            ],
-            [
-              "2026-09-29T03:01:04Z",
-              18
-            ],
-            [
-              "2026-09-29T03:24:37Z",
-              24
-            ],
-            [
-              "2026-09-29T03:43:50Z",
-              26
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "NhOUcVLSMEs",
-          "videoUrl": "https://www.youtube.com/watch?v=NhOUcVLSMEs",
-          "start": "2026-09-27T23:56:30Z",
-          "end": "2026-09-28T02:33:39Z",
-          "minutes": 157.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】急いで動きすぎない！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 33,
-          "avgViewers": 24.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "Bs9QicC5Drg",
-          "videoUrl": "https://www.youtube.com/watch?v=Bs9QicC5Drg",
-          "start": "2026-09-27T11:45:54Z",
-          "end": "2026-09-27T12:27:54Z",
-          "minutes": 42.0,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メンバー限定】9月も終わりですか...メン限雑談！！",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "AVbjZ7HyFaM",
-          "videoUrl": "https://www.youtube.com/watch?v=AVbjZ7HyFaM",
-          "start": "2026-09-26T22:30:29Z",
-          "end": "2026-09-27T01:32:01Z",
-          "minutes": 181.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】時間をしっかり使うこと！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 30,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "1JF3nEcqLTI",
-          "videoUrl": "https://www.youtube.com/watch?v=1JF3nEcqLTI",
-          "start": "2026-09-24T23:42:58Z",
-          "end": "2026-09-25T01:46:52Z",
-          "minutes": 123.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【最高アルマス リュウ レバー】旋風脚、少しは馴染んできたか...？【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 20,
-          "avgViewers": 16.1,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "AjK2sYcC7VE",
-          "videoUrl": "https://www.youtube.com/watch?v=AjK2sYcC7VE",
-          "start": "2026-09-24T11:00:13Z",
-          "end": "2026-09-24T12:17:42Z",
-          "minutes": 77.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Coffee Talk Tokyo】人の成長を見ることができるいいゲームです【ゲーム実況】※ネタバレを含む",
-          "game": null,
-          "peakViewers": 9,
-          "avgViewers": 7.7,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 8,
-      "livePeakViewers": 8,
-      "liveAvgViewers": 8.0,
-      "liveSamples": [
-        [
-          "2026-10-01T22:11:00Z",
-          8
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8"
-    },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
@@ -3104,6 +2506,259 @@
       ]
     },
     {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-01T22:31:47Z",
+      "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 80.2,
+          "gameMinutes": 0.0,
+          "totalHours": 1.34,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 24.6,
+          "peakViewers": 28
+        },
+        "week": {
+          "totalMinutes": 694.5,
+          "gameMinutes": 0.0,
+          "totalHours": 11.57,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 18.6,
+          "peakViewers": 30
+        },
+        "month": {
+          "totalMinutes": 204.4,
+          "gameMinutes": 0.0,
+          "totalHours": 3.41,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 15.1,
+          "peakViewers": 28
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "5_xWcmhfIC4",
+          "videoUrl": "https://www.youtube.com/watch?v=5_xWcmhfIC4",
+          "start": "2026-10-01T21:11:32Z",
+          "end": "2026-10-01T22:31:47Z",
+          "minutes": 80.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 24.6,
+          "samples": [
+            [
+              "2026-10-01T21:11:32Z",
+              21
+            ],
+            [
+              "2026-10-01T21:33:36Z",
+              23
+            ],
+            [
+              "2026-10-01T21:52:07Z",
+              27
+            ],
+            [
+              "2026-10-01T22:11:00Z",
+              28
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "yKdKSVCD6ig",
+          "videoUrl": "https://www.youtube.com/watch?v=yKdKSVCD6ig",
+          "start": "2026-10-01T12:51:38Z",
+          "end": "2026-10-01T14:55:45Z",
+          "minutes": 124.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雀魂】とりあえず雀豪に戻したい定期 盛るぞ！【埼凰リンネ / YUMENOS】#新人vtuber #雀魂",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 8.9,
+          "samples": [
+            [
+              "2026-10-01T12:51:38Z",
+              10
+            ],
+            [
+              "2026-10-01T13:16:09Z",
+              7
+            ],
+            [
+              "2026-10-01T13:37:47Z",
+              9
+            ],
+            [
+              "2026-10-01T13:55:44Z",
+              9
+            ],
+            [
+              "2026-10-01T14:16:23Z",
+              9
+            ],
+            [
+              "2026-10-01T14:38:16Z",
+              9
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "2Pt0ur7A0Rw",
+          "videoUrl": "https://www.youtube.com/watch?v=2Pt0ur7A0Rw",
+          "start": "2026-09-29T21:11:44Z",
+          "end": "2026-09-29T23:30:00Z",
+          "minutes": 138.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 18.3,
+          "samples": [
+            [
+              "2026-09-29T21:11:44Z",
+              12
+            ],
+            [
+              "2026-09-29T21:37:37Z",
+              21
+            ],
+            [
+              "2026-09-29T21:49:34Z",
+              16
+            ],
+            [
+              "2026-09-29T22:00:48Z",
+              21
+            ],
+            [
+              "2026-09-29T22:23:27Z",
+              22
+            ],
+            [
+              "2026-09-29T22:40:53Z",
+              20
+            ],
+            [
+              "2026-09-29T22:56:40Z",
+              18
+            ],
+            [
+              "2026-09-29T23:13:44Z",
+              19
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "iIOd2Esh6lw",
+          "videoUrl": "https://www.youtube.com/watch?v=iIOd2Esh6lw",
+          "start": "2026-09-29T12:15:48Z",
+          "end": "2026-09-29T16:00:56Z",
+          "minutes": 225.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【飲酒雑談】秋の味覚、秋刀魚で日本酒やるぞ！！🍶【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 26,
+          "avgViewers": 19.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "tjdZl5zuDIs",
+          "videoUrl": "https://www.youtube.com/watch?v=tjdZl5zuDIs",
+          "start": "2026-09-27T22:15:06Z",
+          "end": "2026-09-28T00:21:48Z",
+          "minutes": 126.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 30,
+          "avgViewers": 23.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "XbK04FjYtRw",
+          "videoUrl": "https://www.youtube.com/watch?v=XbK04FjYtRw",
+          "start": "2026-09-27T09:17:38Z",
+          "end": "2026-09-27T10:17:12Z",
+          "minutes": 59.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【妹に運転を教える】免許失効してるけど、まあ教えるくらいできるだろう【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 18,
+          "avgViewers": 13.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "gsQwc-z1wmc",
+          "videoUrl": "https://www.youtube.com/watch?v=gsQwc-z1wmc",
+          "start": "2026-09-27T06:22:49Z",
+          "end": "2026-09-27T07:17:41Z",
+          "minutes": 54.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【競馬】GⅠ スプリンターズS 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 18,
+          "avgViewers": 15.1,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "1nEmmpygr1k",
+          "videoUrl": "https://www.youtube.com/watch?v=1nEmmpygr1k",
+          "start": "2026-09-26T14:13:05Z",
+          "end": "2026-09-26T17:47:12Z",
+          "minutes": 214.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】深夜のチル歌枠💤 疲れたそんな時にほっと一息1曲聞いていきませんか？【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 26,
+          "avgViewers": 22.4,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
       "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
       "name": "甘成じゅい",
       "registered": true,
@@ -3700,6 +3355,243 @@
           "game": null,
           "peakViewers": 10,
           "avgViewers": 7.3,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-01T22:31:47Z",
+      "lastTitle": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 20.8,
+          "gameMinutes": 0.0,
+          "totalHours": 0.35,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 8.0,
+          "peakViewers": 8
+        },
+        "week": {
+          "totalMinutes": 668.5,
+          "gameMinutes": 0.0,
+          "totalHours": 11.14,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 20.1,
+          "peakViewers": 33
+        },
+        "month": {
+          "totalMinutes": 97.8,
+          "gameMinutes": 0.0,
+          "totalHours": 1.63,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 11.7,
+          "peakViewers": 17
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "aRj9EPP4qz8",
+          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
+          "start": "2026-10-01T22:11:00Z",
+          "end": "2026-10-01T22:31:47Z",
+          "minutes": 20.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [
+            [
+              "2026-10-01T22:11:00Z",
+              8
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "EnZFRittJng",
+          "videoUrl": "https://www.youtube.com/watch?v=EnZFRittJng",
+          "start": "2026-09-30T21:53:23Z",
+          "end": "2026-09-30T23:10:26Z",
+          "minutes": 77.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識する【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 12.7,
+          "samples": [
+            [
+              "2026-09-30T21:53:23Z",
+              4
+            ],
+            [
+              "2026-09-30T22:11:52Z",
+              13
+            ],
+            [
+              "2026-09-30T22:33:22Z",
+              17
+            ],
+            [
+              "2026-09-30T22:50:56Z",
+              17
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "jL4ccf886bk",
+          "videoUrl": "https://www.youtube.com/watch?v=jL4ccf886bk",
+          "start": "2026-09-29T23:56:42Z",
+          "end": "2026-09-30T02:51:02Z",
+          "minutes": 174.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】間合い管理をしっかりする！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 19.8,
+          "samples": [
+            [
+              "2026-09-29T23:56:42Z",
+              11
+            ],
+            [
+              "2026-09-30T00:21:58Z",
+              12
+            ],
+            [
+              "2026-09-30T00:48:41Z",
+              16
+            ],
+            [
+              "2026-09-30T01:04:05Z",
+              24
+            ],
+            [
+              "2026-09-30T01:25:00Z",
+              28
+            ],
+            [
+              "2026-09-30T01:42:35Z",
+              25
+            ],
+            [
+              "2026-09-30T01:59:26Z",
+              25
+            ],
+            [
+              "2026-09-30T02:18:39Z",
+              23
+            ],
+            [
+              "2026-09-30T02:35:07Z",
+              21
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "89difDZsJeI",
+          "videoUrl": "https://www.youtube.com/watch?v=89difDZsJeI",
+          "start": "2026-09-28T23:59:40Z",
+          "end": "2026-09-29T03:58:54Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】２先で勝てばいい！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 29,
+          "avgViewers": 20.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "NhOUcVLSMEs",
+          "videoUrl": "https://www.youtube.com/watch?v=NhOUcVLSMEs",
+          "start": "2026-09-27T23:56:30Z",
+          "end": "2026-09-28T02:33:39Z",
+          "minutes": 157.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】急いで動きすぎない！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 33,
+          "avgViewers": 24.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "Bs9QicC5Drg",
+          "videoUrl": "https://www.youtube.com/watch?v=Bs9QicC5Drg",
+          "start": "2026-09-27T11:45:54Z",
+          "end": "2026-09-27T12:27:54Z",
+          "minutes": 42.0,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メンバー限定】9月も終わりですか...メン限雑談！！",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "AVbjZ7HyFaM",
+          "videoUrl": "https://www.youtube.com/watch?v=AVbjZ7HyFaM",
+          "start": "2026-09-26T22:30:29Z",
+          "end": "2026-09-27T01:32:01Z",
+          "minutes": 181.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】時間をしっかり使うこと！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 30,
+          "avgViewers": 23.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "1JF3nEcqLTI",
+          "videoUrl": "https://www.youtube.com/watch?v=1JF3nEcqLTI",
+          "start": "2026-09-24T23:42:58Z",
+          "end": "2026-09-25T01:46:52Z",
+          "minutes": 123.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【最高アルマス リュウ レバー】旋風脚、少しは馴染んできたか...？【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 20,
+          "avgViewers": 16.1,
           "samples": [],
           "isTargetGame": false
         }
@@ -6173,6 +6065,38 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "aRj9EPP4qz8",
+      "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
+      "start": "2026-10-01T22:11:00Z",
+      "end": "2026-10-01T22:31:47Z",
+      "minutes": 20.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 8.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "5_xWcmhfIC4",
+      "videoUrl": "https://www.youtube.com/watch?v=5_xWcmhfIC4",
+      "start": "2026-10-01T21:11:32Z",
+      "end": "2026-10-01T22:31:47Z",
+      "minutes": 80.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 28,
+      "avgViewers": 24.6,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
       "name": "水上蒼太",
       "videoId": "aUKoGWpBSAk",
@@ -7098,38 +7022,6 @@
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "fG4NkLHWNok",
-      "videoUrl": "https://www.youtube.com/watch?v=fG4NkLHWNok",
-      "start": "2026-09-28T10:21:22Z",
-      "end": "2026-09-28T11:18:21Z",
-      "minutes": 57.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【GREEN SPOON】健康冷凍飯、実食します。【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 96,
-      "avgViewers": 95.1,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "hmtqmogRrxI",
-      "videoUrl": "https://www.youtube.com/watch?v=hmtqmogRrxI",
-      "start": "2026-09-28T10:21:22Z",
-      "end": "2026-09-28T12:41:31Z",
-      "minutes": 140.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "〖 VALORANT┆2022 ZETA vs 2025 FENNEL 〗 すんごいカスタムのウォチパさせていただきます.ᐟ.ᐟ⭐︎ 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 32,
-      "avgViewers": 27.3,
       "isTargetGame": false
     }
   ]

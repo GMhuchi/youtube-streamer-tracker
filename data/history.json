@@ -1,58 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "5_xWcmhfIC4",
-      "start": "2026-10-01T21:11:32Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 28,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-01T21:11:32Z",
-      "lastSeenAt": "2026-10-01T22:11:00Z",
-      "samples": [
-        [
-          "2026-10-01T21:11:32Z",
-          21
-        ],
-        [
-          "2026-10-01T21:33:36Z",
-          23
-        ],
-        [
-          "2026-10-01T21:52:07Z",
-          27
-        ],
-        [
-          "2026-10-01T22:11:00Z",
-          28
-        ]
-      ]
-    },
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "aRj9EPP4qz8",
-      "start": "2026-10-01T22:11:00Z",
-      "startSource": "observed",
-      "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-01T22:11:00Z",
-      "lastSeenAt": "2026-10-01T22:11:00Z",
-      "samples": [
-        [
-          "2026-10-01T22:11:00Z",
-          8
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -30433,6 +30382,62 @@
         [
           "2026-10-01T16:33:40Z",
           41
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "5_xWcmhfIC4",
+      "videoUrl": "https://www.youtube.com/watch?v=5_xWcmhfIC4",
+      "start": "2026-10-01T21:11:32Z",
+      "end": "2026-10-01T22:31:47Z",
+      "minutes": 80.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 28,
+      "avgViewers": 24.6,
+      "samples": [
+        [
+          "2026-10-01T21:11:32Z",
+          21
+        ],
+        [
+          "2026-10-01T21:33:36Z",
+          23
+        ],
+        [
+          "2026-10-01T21:52:07Z",
+          27
+        ],
+        [
+          "2026-10-01T22:11:00Z",
+          28
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "aRj9EPP4qz8",
+      "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
+      "start": "2026-10-01T22:11:00Z",
+      "end": "2026-10-01T22:31:47Z",
+      "minutes": 20.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 8.0,
+      "samples": [
+        [
+          "2026-10-01T22:11:00Z",
+          8
         ]
       ],
       "isTargetGame": false
