@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T21:11:32Z",
+  "updatedAt": "2026-10-01T21:33:36Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1053.4,
+      "totalMinutes": 1075.4,
       "gameMinutes": 0.0,
-      "totalHours": 17.56,
+      "totalHours": 17.92,
       "gameHours": 0.0,
       "sessions": 7,
-      "avgViewers": 161.2,
+      "avgViewers": 158.3,
       "peakViewers": 747
     },
     "week": {
-      "totalMinutes": 15172.6,
+      "totalMinutes": 15194.7,
       "gameMinutes": 0.0,
-      "totalHours": 252.88,
+      "totalHours": 253.24,
       "gameHours": 0.0,
       "sessions": 76,
-      "avgViewers": 156.1,
+      "avgViewers": 155.9,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 3501.8,
+      "totalMinutes": 3523.9,
       "gameMinutes": 0.0,
-      "totalHours": 58.36,
+      "totalHours": 58.73,
       "gameHours": 0.0,
       "sessions": 16,
-      "avgViewers": 116.2,
+      "avgViewers": 115.6,
       "peakViewers": 750
     }
   },
@@ -56,31 +56,31 @@
       "lastTitle": "【雀魂】とりあえず雀豪に戻したい定期 盛るぞ！【埼凰リンネ / YUMENOS】#新人vtuber #雀魂",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 22.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.37,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 21.0,
-          "peakViewers": 21
+          "avgViewers": 22.0,
+          "peakViewers": 23
         },
         "week": {
-          "totalMinutes": 614.2,
+          "totalMinutes": 636.3,
           "gameMinutes": 0.0,
-          "totalHours": 10.24,
+          "totalHours": 10.6,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 17.8,
+          "avgViewers": 17.9,
           "peakViewers": 30
         },
         "month": {
-          "totalMinutes": 124.1,
+          "totalMinutes": 146.2,
           "gameMinutes": 0.0,
-          "totalHours": 2.07,
+          "totalHours": 2.44,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 8.9,
-          "peakViewers": 21
+          "avgViewers": 10.9,
+          "peakViewers": 23
         }
       },
       "recentSessions": [
@@ -324,13 +324,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 21,
-      "livePeakViewers": 21,
-      "liveAvgViewers": 21.0,
+      "liveViewers": 23,
+      "livePeakViewers": 23,
+      "liveAvgViewers": 22.0,
       "liveSamples": [
         [
           "2026-10-01T21:11:32Z",
           21
+        ],
+        [
+          "2026-10-01T21:33:36Z",
+          23
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=5_xWcmhfIC4"
