@@ -1,300 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "IiOlmM4P734",
-      "start": "2026-10-02T08:23:16Z",
-      "startSource": "observed",
-      "title": "【#天下無双ARK】12日目：今日こそ試練を超えて皆で行くぞ、αボス🦖！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 988,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T08:23:16Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T08:23:16Z",
-          783
-        ],
-        [
-          "2026-10-02T08:43:05Z",
-          11
-        ],
-        [
-          "2026-10-02T08:59:26Z",
-          14
-        ],
-        [
-          "2026-10-02T09:21:19Z",
-          22
-        ],
-        [
-          "2026-10-02T09:43:54Z",
-          13
-        ],
-        [
-          "2026-10-02T09:58:36Z",
-          1
-        ],
-        [
-          "2026-10-02T10:19:05Z",
-          988
-        ],
-        [
-          "2026-10-02T10:36:08Z",
-          1
-        ],
-        [
-          "2026-10-02T10:52:41Z",
-          913
-        ],
-        [
-          "2026-10-02T11:11:23Z",
-          870
-        ],
-        [
-          "2026-10-02T11:34:08Z",
-          919
-        ],
-        [
-          "2026-10-02T11:51:54Z",
-          827
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "NAV8IBOhUr0",
-      "start": "2026-10-02T09:21:19Z",
-      "startSource": "observed",
-      "title": "【 #天下無双ARK : 13日目 】試練の洞窟行くぞ～！！！ボスが見たいんじゃ！【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 36,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T09:21:19Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T09:21:19Z",
-          4
-        ],
-        [
-          "2026-10-02T09:43:54Z",
-          25
-        ],
-        [
-          "2026-10-02T09:58:36Z",
-          22
-        ],
-        [
-          "2026-10-02T10:19:05Z",
-          26
-        ],
-        [
-          "2026-10-02T10:36:08Z",
-          31
-        ],
-        [
-          "2026-10-02T10:52:41Z",
-          29
-        ],
-        [
-          "2026-10-02T11:11:23Z",
-          27
-        ],
-        [
-          "2026-10-02T11:34:08Z",
-          36
-        ],
-        [
-          "2026-10-02T11:51:54Z",
-          33
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "dAKyHTrXfCo",
-      "start": "2026-10-02T09:21:19Z",
-      "startSource": "observed",
-      "title": "【 天下無双ARK 】最後の日に向けて準備するぞ！！！【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 14,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T09:21:19Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T09:21:19Z",
-          9
-        ],
-        [
-          "2026-10-02T09:43:54Z",
-          12
-        ],
-        [
-          "2026-10-02T09:58:36Z",
-          14
-        ],
-        [
-          "2026-10-02T10:19:05Z",
-          12
-        ],
-        [
-          "2026-10-02T10:36:08Z",
-          13
-        ],
-        [
-          "2026-10-02T10:52:41Z",
-          11
-        ],
-        [
-          "2026-10-02T11:11:23Z",
-          13
-        ],
-        [
-          "2026-10-02T11:34:08Z",
-          11
-        ],
-        [
-          "2026-10-02T11:51:54Z",
-          10
-        ]
-      ]
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "T6FV1KrfGSE",
-      "start": "2026-10-02T11:11:23Z",
-      "startSource": "observed",
-      "title": "〚ARK 〛12日目！あと２日で終わっちゃうってまじぃ？？？ 〚甘成じゅい/ゆにれいど！ 〛#天下無双ARK",
-      "game": null,
-      "peakViewers": 48,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T11:11:23Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T11:11:23Z",
-          28
-        ],
-        [
-          "2026-10-02T11:34:08Z",
-          48
-        ],
-        [
-          "2026-10-02T11:51:54Z",
-          45
-        ]
-      ]
-    },
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "XyOsOGNrMK0",
-      "start": "2026-10-02T11:11:23Z",
-      "startSource": "observed",
-      "title": "【 妹に運転教える 】大丈夫！お姉ちゃんゴールド免許だから！🔰【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 189,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T11:11:23Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T11:11:23Z",
-          48
-        ],
-        [
-          "2026-10-02T11:34:08Z",
-          179
-        ],
-        [
-          "2026-10-02T11:51:54Z",
-          189
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "EiH4ZFjA2RU",
-      "start": "2026-10-02T11:11:23Z",
-      "startSource": "observed",
-      "title": "🟣10/2【 #雑談 】先月の振り返り、そして今月は...【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 10,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T11:11:23Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T11:11:23Z",
-          7
-        ],
-        [
-          "2026-10-02T11:34:08Z",
-          9
-        ],
-        [
-          "2026-10-02T11:51:54Z",
-          10
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "PJSXpKE42kQ",
-      "start": "2026-10-02T11:11:23Z",
-      "startSource": "observed",
-      "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
-      "game": null,
-      "peakViewers": 49,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T11:11:23Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T11:11:23Z",
-          27
-        ],
-        [
-          "2026-10-02T11:34:08Z",
-          39
-        ],
-        [
-          "2026-10-02T11:51:54Z",
-          49
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "Hm7tjPyyXCU",
-      "start": "2026-10-02T11:51:54Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　イベントをもうちょっと詰めないと…　 ～Day17～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 26,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-02T11:51:54Z",
-      "lastSeenAt": "2026-10-02T11:51:54Z",
-      "samples": [
-        [
-          "2026-10-02T11:51:54Z",
-          26
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -30795,6 +30502,322 @@
         [
           "2026-10-01T23:57:43Z",
           22
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "IiOlmM4P734",
+      "videoUrl": "https://www.youtube.com/watch?v=IiOlmM4P734",
+      "start": "2026-10-02T08:23:16Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 231.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#天下無双ARK】12日目：今日こそ試練を超えて皆で行くぞ、αボス🦖！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 988,
+      "avgViewers": 450.1,
+      "samples": [
+        [
+          "2026-10-02T08:23:16Z",
+          783
+        ],
+        [
+          "2026-10-02T08:43:05Z",
+          11
+        ],
+        [
+          "2026-10-02T08:59:26Z",
+          14
+        ],
+        [
+          "2026-10-02T09:21:19Z",
+          22
+        ],
+        [
+          "2026-10-02T09:43:54Z",
+          13
+        ],
+        [
+          "2026-10-02T09:58:36Z",
+          1
+        ],
+        [
+          "2026-10-02T10:19:05Z",
+          988
+        ],
+        [
+          "2026-10-02T10:36:08Z",
+          1
+        ],
+        [
+          "2026-10-02T10:52:41Z",
+          913
+        ],
+        [
+          "2026-10-02T11:11:23Z",
+          870
+        ],
+        [
+          "2026-10-02T11:34:08Z",
+          919
+        ],
+        [
+          "2026-10-02T11:51:54Z",
+          827
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "NAV8IBOhUr0",
+      "videoUrl": "https://www.youtube.com/watch?v=NAV8IBOhUr0",
+      "start": "2026-10-02T09:21:19Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 173.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #天下無双ARK : 13日目 】試練の洞窟行くぞ～！！！ボスが見たいんじゃ！【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 36,
+      "avgViewers": 25.3,
+      "samples": [
+        [
+          "2026-10-02T09:21:19Z",
+          4
+        ],
+        [
+          "2026-10-02T09:43:54Z",
+          25
+        ],
+        [
+          "2026-10-02T09:58:36Z",
+          22
+        ],
+        [
+          "2026-10-02T10:19:05Z",
+          26
+        ],
+        [
+          "2026-10-02T10:36:08Z",
+          31
+        ],
+        [
+          "2026-10-02T10:52:41Z",
+          29
+        ],
+        [
+          "2026-10-02T11:11:23Z",
+          27
+        ],
+        [
+          "2026-10-02T11:34:08Z",
+          36
+        ],
+        [
+          "2026-10-02T11:51:54Z",
+          33
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "dAKyHTrXfCo",
+      "videoUrl": "https://www.youtube.com/watch?v=dAKyHTrXfCo",
+      "start": "2026-10-02T09:21:19Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 173.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 天下無双ARK 】最後の日に向けて準備するぞ！！！【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 14,
+      "avgViewers": 11.6,
+      "samples": [
+        [
+          "2026-10-02T09:21:19Z",
+          9
+        ],
+        [
+          "2026-10-02T09:43:54Z",
+          12
+        ],
+        [
+          "2026-10-02T09:58:36Z",
+          14
+        ],
+        [
+          "2026-10-02T10:19:05Z",
+          12
+        ],
+        [
+          "2026-10-02T10:36:08Z",
+          13
+        ],
+        [
+          "2026-10-02T10:52:41Z",
+          11
+        ],
+        [
+          "2026-10-02T11:11:23Z",
+          13
+        ],
+        [
+          "2026-10-02T11:34:08Z",
+          11
+        ],
+        [
+          "2026-10-02T11:51:54Z",
+          10
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "T6FV1KrfGSE",
+      "videoUrl": "https://www.youtube.com/watch?v=T6FV1KrfGSE",
+      "start": "2026-10-02T11:11:23Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 63.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚ARK 〛12日目！あと２日で終わっちゃうってまじぃ？？？ 〚甘成じゅい/ゆにれいど！ 〛#天下無双ARK",
+      "game": null,
+      "peakViewers": 48,
+      "avgViewers": 39.5,
+      "samples": [
+        [
+          "2026-10-02T11:11:23Z",
+          28
+        ],
+        [
+          "2026-10-02T11:34:08Z",
+          48
+        ],
+        [
+          "2026-10-02T11:51:54Z",
+          45
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "XyOsOGNrMK0",
+      "videoUrl": "https://www.youtube.com/watch?v=XyOsOGNrMK0",
+      "start": "2026-10-02T11:11:23Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 63.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 妹に運転教える 】大丈夫！お姉ちゃんゴールド免許だから！🔰【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 189,
+      "avgViewers": 133.3,
+      "samples": [
+        [
+          "2026-10-02T11:11:23Z",
+          48
+        ],
+        [
+          "2026-10-02T11:34:08Z",
+          179
+        ],
+        [
+          "2026-10-02T11:51:54Z",
+          189
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "EiH4ZFjA2RU",
+      "videoUrl": "https://www.youtube.com/watch?v=EiH4ZFjA2RU",
+      "start": "2026-10-02T11:11:23Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 63.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣10/2【 #雑談 】先月の振り返り、そして今月は...【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 8.6,
+      "samples": [
+        [
+          "2026-10-02T11:11:23Z",
+          7
+        ],
+        [
+          "2026-10-02T11:34:08Z",
+          9
+        ],
+        [
+          "2026-10-02T11:51:54Z",
+          10
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "PJSXpKE42kQ",
+      "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
+      "start": "2026-10-02T11:11:23Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 63.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 49,
+      "avgViewers": 37.8,
+      "samples": [
+        [
+          "2026-10-02T11:11:23Z",
+          27
+        ],
+        [
+          "2026-10-02T11:34:08Z",
+          39
+        ],
+        [
+          "2026-10-02T11:51:54Z",
+          49
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "Hm7tjPyyXCU",
+      "videoUrl": "https://www.youtube.com/watch?v=Hm7tjPyyXCU",
+      "start": "2026-10-02T11:51:54Z",
+      "end": "2026-10-02T12:15:10Z",
+      "minutes": 23.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　イベントをもうちょっと詰めないと…　 ～Day17～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 26,
+      "avgViewers": 26.0,
+      "samples": [
+        [
+          "2026-10-02T11:51:54Z",
+          26
         ]
       ],
       "isTargetGame": false
