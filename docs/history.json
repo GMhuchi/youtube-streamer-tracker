@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T05:17:15Z",
+  "updatedAt": "2026-10-03T05:43:06Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,31 +16,31 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1641.4,
+      "totalMinutes": 1667.2,
       "gameMinutes": 0.0,
-      "totalHours": 27.36,
+      "totalHours": 27.79,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 139.0,
-      "peakViewers": 802
+      "avgViewers": 149.2,
+      "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 19436.4,
+      "totalMinutes": 19462.2,
       "gameMinutes": 0.0,
-      "totalHours": 323.94,
+      "totalHours": 324.37,
       "gameHours": 0.0,
       "sessions": 102,
-      "avgViewers": 148.3,
+      "avgViewers": 149.2,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 7765.6,
+      "totalMinutes": 7791.4,
       "gameMinutes": 0.0,
-      "totalHours": 129.43,
+      "totalHours": 129.86,
       "gameHours": 0.0,
       "sessions": 42,
-      "avgViewers": 119.0,
-      "peakViewers": 988
+      "avgViewers": 121.3,
+      "peakViewers": 997
     }
   },
   "channels": [
@@ -56,31 +56,31 @@
       "lastTitle": "【妹に運転を教える】長女です。イラついたら終わり。【 #無原唱レコード / #メーメントヴァニタス 】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 25.9,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.43,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 603.0,
-          "peakViewers": 603
+          "avgViewers": 800.0,
+          "peakViewers": 997
         },
         "week": {
-          "totalMinutes": 410.0,
+          "totalMinutes": 435.9,
           "gameMinutes": 0.0,
-          "totalHours": 6.83,
+          "totalHours": 7.26,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 598.3,
-          "peakViewers": 750
+          "avgViewers": 610.2,
+          "peakViewers": 997
         },
         "month": {
-          "totalMinutes": 70.5,
+          "totalMinutes": 96.4,
           "gameMinutes": 0.0,
-          "totalHours": 1.18,
+          "totalHours": 1.61,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 714.1,
-          "peakViewers": 750
+          "avgViewers": 737.2,
+          "peakViewers": 997
         }
       },
       "recentSessions": [
@@ -300,13 +300,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 603,
-      "livePeakViewers": 603,
-      "liveAvgViewers": 603.0,
+      "liveViewers": 997,
+      "livePeakViewers": 997,
+      "liveAvgViewers": 800.0,
       "liveSamples": [
         [
           "2026-10-03T05:17:15Z",
           603
+        ],
+        [
+          "2026-10-03T05:43:06Z",
+          997
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=PZQa1J3QXpU"
