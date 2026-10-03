@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T08:20:30Z",
+  "updatedAt": "2026-10-03T08:45:56Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1769.4,
+      "totalMinutes": 1794.9,
       "gameMinutes": 0.0,
-      "totalHours": 29.49,
+      "totalHours": 29.91,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 149.7,
+      "avgViewers": 148.0,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 19564.5,
+      "totalMinutes": 19589.9,
       "gameMinutes": 0.0,
-      "totalHours": 326.07,
+      "totalHours": 326.5,
       "gameHours": 0.0,
       "sessions": 103,
-      "avgViewers": 149.2,
+      "avgViewers": 149.0,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 7893.7,
+      "totalMinutes": 7919.1,
       "gameMinutes": 0.0,
-      "totalHours": 131.56,
+      "totalHours": 131.99,
       "gameHours": 0.0,
       "sessions": 43,
-      "avgViewers": 121.8,
+      "avgViewers": 121.4,
       "peakViewers": 997
     }
   },
@@ -56,31 +56,31 @@
       "lastTitle": "【妹に運転を教える】今日から僕がお兄ちゃんです。運転始めるぞ【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 25.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.42,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 23.0,
-          "peakViewers": 23
+          "avgViewers": 26.5,
+          "peakViewers": 30
         },
         "week": {
-          "totalMinutes": 837.8,
+          "totalMinutes": 863.2,
           "gameMinutes": 0.0,
-          "totalHours": 13.96,
+          "totalHours": 14.39,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 39.5,
+          "avgViewers": 39.0,
           "peakViewers": 61
         },
         "month": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 25.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.42,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 23.0,
-          "peakViewers": 23
+          "avgViewers": 26.5,
+          "peakViewers": 30
         }
       },
       "recentSessions": [
@@ -238,13 +238,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 23,
-      "livePeakViewers": 23,
-      "liveAvgViewers": 23.0,
+      "liveViewers": 30,
+      "livePeakViewers": 30,
+      "liveAvgViewers": 26.5,
       "liveSamples": [
         [
           "2026-10-03T08:20:30Z",
           23
+        ],
+        [
+          "2026-10-03T08:45:56Z",
+          30
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=d3KTyGYD9uo"
