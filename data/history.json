@@ -1,43 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "PZQa1J3QXpU",
-      "start": "2026-10-03T05:17:15Z",
-      "startSource": "observed",
-      "title": "【雑談】昼活🍙寝起きゲソゲソしよ♡【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 997,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T05:17:15Z",
-      "lastSeenAt": "2026-10-03T07:02:51Z",
-      "samples": [
-        [
-          "2026-10-03T05:17:15Z",
-          603
-        ],
-        [
-          "2026-10-03T05:43:06Z",
-          997
-        ],
-        [
-          "2026-10-03T06:04:51Z",
-          1
-        ],
-        [
-          "2026-10-03T06:31:01Z",
-          11
-        ],
-        [
-          "2026-10-03T07:02:51Z",
-          11
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -31738,6 +31702,44 @@
         [
           "2026-10-03T04:06:12Z",
           119
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "PZQa1J3QXpU",
+      "videoUrl": "https://www.youtube.com/watch?v=PZQa1J3QXpU",
+      "start": "2026-10-03T05:17:15Z",
+      "end": "2026-10-03T07:25:20Z",
+      "minutes": 128.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】昼活🍙寝起きゲソゲソしよ♡【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 997,
+      "avgViewers": 287.4,
+      "samples": [
+        [
+          "2026-10-03T05:17:15Z",
+          603
+        ],
+        [
+          "2026-10-03T05:43:06Z",
+          997
+        ],
+        [
+          "2026-10-03T06:04:51Z",
+          1
+        ],
+        [
+          "2026-10-03T06:31:01Z",
+          11
+        ],
+        [
+          "2026-10-03T07:02:51Z",
+          11
         ]
       ],
       "isTargetGame": false
