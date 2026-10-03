@@ -1,283 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "sYcpn4ZIBQw",
-      "start": "2026-10-03T09:01:36Z",
-      "startSource": "observed",
-      "title": "【 天下無双ARK 】最終日もれもんかけとけ【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 92,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T09:01:36Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T09:01:36Z",
-          7
-        ],
-        [
-          "2026-10-03T09:24:38Z",
-          42
-        ],
-        [
-          "2026-10-03T09:42:23Z",
-          92
-        ],
-        [
-          "2026-10-03T09:57:19Z",
-          23
-        ],
-        [
-          "2026-10-03T10:15:15Z",
-          16
-        ],
-        [
-          "2026-10-03T10:36:04Z",
-          11
-        ],
-        [
-          "2026-10-03T11:08:19Z",
-          14
-        ],
-        [
-          "2026-10-03T14:36:05Z",
-          10
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "XMctUSiSJww",
-      "start": "2026-10-03T09:24:38Z",
-      "startSource": "observed",
-      "title": "【#天下無双ARK】最終日：我らインテリ美女軍団🦖！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 961,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T09:24:38Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T09:24:38Z",
-          11
-        ],
-        [
-          "2026-10-03T09:42:23Z",
-          12
-        ],
-        [
-          "2026-10-03T09:57:19Z",
-          931
-        ],
-        [
-          "2026-10-03T10:15:15Z",
-          824
-        ],
-        [
-          "2026-10-03T10:36:04Z",
-          961
-        ],
-        [
-          "2026-10-03T11:08:19Z",
-          873
-        ],
-        [
-          "2026-10-03T14:36:05Z",
-          654
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "YO9cyKiD53o",
-      "start": "2026-10-03T09:24:38Z",
-      "startSource": "observed",
-      "title": "【 #天下無双ARK : 最終日 】今までありがとう恐竜たち！バイバイデイノスクスワールド【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 40,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T09:24:38Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T09:24:38Z",
-          21
-        ],
-        [
-          "2026-10-03T09:42:23Z",
-          27
-        ],
-        [
-          "2026-10-03T09:57:19Z",
-          30
-        ],
-        [
-          "2026-10-03T10:15:15Z",
-          40
-        ],
-        [
-          "2026-10-03T10:36:04Z",
-          40
-        ],
-        [
-          "2026-10-03T11:08:19Z",
-          35
-        ],
-        [
-          "2026-10-03T14:36:05Z",
-          34
-        ]
-      ]
-    },
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "hdHNS72GmNc",
-      "start": "2026-10-03T09:42:23Z",
-      "startSource": "observed",
-      "title": "#6【#天下無双ARK】最終日！！！！天下無双最強とさせていただきます。【水上蒼太/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 18,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T09:42:23Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T09:42:23Z",
-          12
-        ],
-        [
-          "2026-10-03T09:57:19Z",
-          16
-        ],
-        [
-          "2026-10-03T10:15:15Z",
-          16
-        ],
-        [
-          "2026-10-03T10:36:04Z",
-          15
-        ],
-        [
-          "2026-10-03T11:08:19Z",
-          18
-        ],
-        [
-          "2026-10-03T14:36:05Z",
-          13
-        ]
-      ]
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "BE6ZhS6DdKE",
-      "start": "2026-10-03T10:36:04Z",
-      "startSource": "observed",
-      "title": "〚ARK 〛最終日！最後まで楽しみ、ラスボスもダンジョンもいきたい！〚甘成じゅい/ゆにれいど！ 〛#天下無双ARK",
-      "game": null,
-      "peakViewers": 57,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T10:36:04Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T10:36:04Z",
-          28
-        ],
-        [
-          "2026-10-03T11:08:19Z",
-          48
-        ],
-        [
-          "2026-10-03T14:36:05Z",
-          57
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "i20jhYhpbho",
-      "start": "2026-10-03T14:36:05Z",
-      "startSource": "observed",
-      "title": "【天下無双ARK】最終日なので楽しみまーーす！ #7【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 26,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T14:36:05Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T14:36:05Z",
-          26
-        ]
-      ]
-    },
-    "UCADIxr9ho7V60xs9gT9xWhA": {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "BpeaA9CfZVc",
-      "start": "2026-10-03T14:36:05Z",
-      "startSource": "observed",
-      "title": "【 #天下無双ARK 】天下無双最強s  最終回 【 #輝七瀬 / RIONECTION】",
-      "game": null,
-      "peakViewers": 4,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T14:36:05Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T14:36:05Z",
-          4
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "t8YAOkJDZW4",
-      "start": "2026-10-03T14:36:05Z",
-      "startSource": "observed",
-      "title": "【ストグラ2】Day38 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
-      "game": null,
-      "peakViewers": 34,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T14:36:05Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T14:36:05Z",
-          34
-        ]
-      ]
-    },
-    "UCe5mbpYA9Yym4lZTdj06G6Q": {
-      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-      "name": "氷乃渚",
-      "videoId": "mnj0ZICkbaQ",
-      "start": "2026-10-03T14:36:05Z",
-      "startSource": "observed",
-      "title": "【歌枠】初見さん歓迎！深夜にバラード多めで歌います【氷乃渚 / ゆにれいど！】",
-      "game": null,
-      "peakViewers": 113,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-03T14:36:05Z",
-      "lastSeenAt": "2026-10-03T14:36:05Z",
-      "samples": [
-        [
-          "2026-10-03T14:36:05Z",
-          113
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -32066,6 +31790,308 @@
         [
           "2026-10-03T10:36:04Z",
           33
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "sYcpn4ZIBQw",
+      "videoUrl": "https://www.youtube.com/watch?v=sYcpn4ZIBQw",
+      "start": "2026-10-03T09:01:36Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 576.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 天下無双ARK 】最終日もれもんかけとけ【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 92,
+      "avgViewers": 17.7,
+      "samples": [
+        [
+          "2026-10-03T09:01:36Z",
+          7
+        ],
+        [
+          "2026-10-03T09:24:38Z",
+          42
+        ],
+        [
+          "2026-10-03T09:42:23Z",
+          92
+        ],
+        [
+          "2026-10-03T09:57:19Z",
+          23
+        ],
+        [
+          "2026-10-03T10:15:15Z",
+          16
+        ],
+        [
+          "2026-10-03T10:36:04Z",
+          11
+        ],
+        [
+          "2026-10-03T11:08:19Z",
+          14
+        ],
+        [
+          "2026-10-03T14:36:05Z",
+          10
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "XMctUSiSJww",
+      "videoUrl": "https://www.youtube.com/watch?v=XMctUSiSJww",
+      "start": "2026-10-03T09:24:38Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 553.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#天下無双ARK】最終日：我らインテリ美女軍団🦖！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 961,
+      "avgViewers": 772.1,
+      "samples": [
+        [
+          "2026-10-03T09:24:38Z",
+          11
+        ],
+        [
+          "2026-10-03T09:42:23Z",
+          12
+        ],
+        [
+          "2026-10-03T09:57:19Z",
+          931
+        ],
+        [
+          "2026-10-03T10:15:15Z",
+          824
+        ],
+        [
+          "2026-10-03T10:36:04Z",
+          961
+        ],
+        [
+          "2026-10-03T11:08:19Z",
+          873
+        ],
+        [
+          "2026-10-03T14:36:05Z",
+          654
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "YO9cyKiD53o",
+      "videoUrl": "https://www.youtube.com/watch?v=YO9cyKiD53o",
+      "start": "2026-10-03T09:24:38Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 553.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #天下無双ARK : 最終日 】今までありがとう恐竜たち！バイバイデイノスクスワールド【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 40,
+      "avgViewers": 34.3,
+      "samples": [
+        [
+          "2026-10-03T09:24:38Z",
+          21
+        ],
+        [
+          "2026-10-03T09:42:23Z",
+          27
+        ],
+        [
+          "2026-10-03T09:57:19Z",
+          30
+        ],
+        [
+          "2026-10-03T10:15:15Z",
+          40
+        ],
+        [
+          "2026-10-03T10:36:04Z",
+          40
+        ],
+        [
+          "2026-10-03T11:08:19Z",
+          35
+        ],
+        [
+          "2026-10-03T14:36:05Z",
+          34
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "hdHNS72GmNc",
+      "videoUrl": "https://www.youtube.com/watch?v=hdHNS72GmNc",
+      "start": "2026-10-03T09:42:23Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 535.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "#6【#天下無双ARK】最終日！！！！天下無双最強とさせていただきます。【水上蒼太/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 18,
+      "avgViewers": 16.4,
+      "samples": [
+        [
+          "2026-10-03T09:42:23Z",
+          12
+        ],
+        [
+          "2026-10-03T09:57:19Z",
+          16
+        ],
+        [
+          "2026-10-03T10:15:15Z",
+          16
+        ],
+        [
+          "2026-10-03T10:36:04Z",
+          15
+        ],
+        [
+          "2026-10-03T11:08:19Z",
+          18
+        ],
+        [
+          "2026-10-03T14:36:05Z",
+          13
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "BE6ZhS6DdKE",
+      "videoUrl": "https://www.youtube.com/watch?v=BE6ZhS6DdKE",
+      "start": "2026-10-03T10:36:04Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 481.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚ARK 〛最終日！最後まで楽しみ、ラスボスもダンジョンもいきたい！〚甘成じゅい/ゆにれいど！ 〛#天下無双ARK",
+      "game": null,
+      "peakViewers": 57,
+      "avgViewers": 49.2,
+      "samples": [
+        [
+          "2026-10-03T10:36:04Z",
+          28
+        ],
+        [
+          "2026-10-03T11:08:19Z",
+          48
+        ],
+        [
+          "2026-10-03T14:36:05Z",
+          57
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "i20jhYhpbho",
+      "videoUrl": "https://www.youtube.com/watch?v=i20jhYhpbho",
+      "start": "2026-10-03T14:36:05Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 241.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【天下無双ARK】最終日なので楽しみまーーす！ #7【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 26,
+      "avgViewers": 26.0,
+      "samples": [
+        [
+          "2026-10-03T14:36:05Z",
+          26
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "BpeaA9CfZVc",
+      "videoUrl": "https://www.youtube.com/watch?v=BpeaA9CfZVc",
+      "start": "2026-10-03T14:36:05Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 241.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #天下無双ARK 】天下無双最強s  最終回 【 #輝七瀬 / RIONECTION】",
+      "game": null,
+      "peakViewers": 4,
+      "avgViewers": 4.0,
+      "samples": [
+        [
+          "2026-10-03T14:36:05Z",
+          4
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "t8YAOkJDZW4",
+      "videoUrl": "https://www.youtube.com/watch?v=t8YAOkJDZW4",
+      "start": "2026-10-03T14:36:05Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 241.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ストグラ2】Day38 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
+      "game": null,
+      "peakViewers": 34,
+      "avgViewers": 34.0,
+      "samples": [
+        [
+          "2026-10-03T14:36:05Z",
+          34
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+      "name": "氷乃渚",
+      "videoId": "mnj0ZICkbaQ",
+      "videoUrl": "https://www.youtube.com/watch?v=mnj0ZICkbaQ",
+      "start": "2026-10-03T14:36:05Z",
+      "end": "2026-10-03T18:37:56Z",
+      "minutes": 241.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【歌枠】初見さん歓迎！深夜にバラード多めで歌います【氷乃渚 / ゆにれいど！】",
+      "game": null,
+      "peakViewers": 113,
+      "avgViewers": 113.0,
+      "samples": [
+        [
+          "2026-10-03T14:36:05Z",
+          113
         ]
       ],
       "isTargetGame": false
