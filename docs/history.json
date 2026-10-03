@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T01:56:52Z",
+  "updatedAt": "2026-10-03T02:15:43Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 0.0,
       "totalHours": 25.19,
       "gameHours": 0.0,
-      "sessions": 9,
+      "sessions": 10,
       "avgViewers": 142.8,
       "peakViewers": 802
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 321.78,
       "gameHours": 0.0,
-      "sessions": 100,
+      "sessions": 101,
       "avgViewers": 148.6,
       "peakViewers": 999
     },
@@ -38,12 +38,259 @@
       "gameMinutes": 0.0,
       "totalHours": 127.26,
       "gameHours": 0.0,
-      "sessions": 40,
+      "sessions": 41,
       "avgViewers": 119.4,
       "peakViewers": 988
     }
   },
   "channels": [
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
+      "isLive": true,
+      "liveSince": "2026-10-03T02:15:43Z",
+      "liveTitle": "American Truck Simulator | ひるどら！（昼にドライブ雑談の意） #愁子",
+      "lastEnd": "2026-10-02T14:48:35Z",
+      "lastTitle": "妹に運転を教える | ドライブゲームをやっている落ち着きお姉さんだし楽勝ですが？ #愁子",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 22.0,
+          "peakViewers": 22
+        },
+        "week": {
+          "totalMinutes": 740.5,
+          "gameMinutes": 0.0,
+          "totalHours": 12.34,
+          "gameHours": 0.0,
+          "sessions": 6,
+          "avgViewers": 85.5,
+          "peakViewers": 140
+        },
+        "month": {
+          "totalMinutes": 81.8,
+          "gameMinutes": 0.0,
+          "totalHours": 1.36,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 40.5,
+          "peakViewers": 44
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "REKeDf8p0V4",
+          "videoUrl": "https://www.youtube.com/watch?v=REKeDf8p0V4",
+          "start": "2026-10-02T13:26:50Z",
+          "end": "2026-10-02T14:48:35Z",
+          "minutes": 81.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "妹に運転を教える | ドライブゲームをやっている落ち着きお姉さんだし楽勝ですが？ #愁子",
+          "game": null,
+          "peakViewers": 44,
+          "avgViewers": 40.5,
+          "samples": [
+            [
+              "2026-10-02T13:26:50Z",
+              44
+            ],
+            [
+              "2026-10-02T13:46:53Z",
+              39
+            ],
+            [
+              "2026-10-02T14:01:08Z",
+              36
+            ],
+            [
+              "2026-10-02T14:27:11Z",
+              44
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "08SysOwYVgg",
+          "videoUrl": "https://www.youtube.com/watch?v=08SysOwYVgg",
+          "start": "2026-09-30T12:16:08Z",
+          "end": "2026-09-30T14:28:13Z",
+          "minutes": 132.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "American Truck Simulator 雑談 | 2●歳になった眼鏡のお姉さんにおめでとうを言おう #愁子",
+          "game": null,
+          "peakViewers": 99,
+          "avgViewers": 84.9,
+          "samples": [
+            [
+              "2026-09-30T12:16:08Z",
+              62
+            ],
+            [
+              "2026-09-30T12:44:46Z",
+              84
+            ],
+            [
+              "2026-09-30T13:04:08Z",
+              89
+            ],
+            [
+              "2026-09-30T13:27:29Z",
+              92
+            ],
+            [
+              "2026-09-30T13:46:41Z",
+              99
+            ],
+            [
+              "2026-09-30T14:02:25Z",
+              95
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "e1HoXo6zZYY",
+          "videoUrl": "https://www.youtube.com/watch?v=e1HoXo6zZYY",
+          "start": "2026-09-29T14:03:20Z",
+          "end": "2026-09-29T15:27:14Z",
+          "minutes": 83.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "まったり誕生日カウントダウン #愁子",
+          "game": null,
+          "peakViewers": 122,
+          "avgViewers": 87.3,
+          "samples": [
+            [
+              "2026-09-29T14:03:20Z",
+              37
+            ],
+            [
+              "2026-09-29T14:26:03Z",
+              95
+            ],
+            [
+              "2026-09-29T14:45:46Z",
+              106
+            ],
+            [
+              "2026-09-29T15:02:18Z",
+              122
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "teKR3c0vjwQ",
+          "videoUrl": "https://www.youtube.com/watch?v=teKR3c0vjwQ",
+          "start": "2026-09-29T03:01:04Z",
+          "end": "2026-09-29T08:22:18Z",
+          "minutes": 321.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "※ネタバレあり ネットプリントは双葉にしました。今日はボス戦！？眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #18 #愁子",
+          "game": null,
+          "peakViewers": 140,
+          "avgViewers": 94.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "EmBc5jEqofs",
+          "videoUrl": "https://www.youtube.com/watch?v=EmBc5jEqofs",
+          "start": "2026-09-28T13:25:36Z",
+          "end": "2026-09-28T15:27:09Z",
+          "minutes": 121.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "Euro Truck Simulator2 | #83 9月最後のﾏﾀ~ﾘハンコン雑談 #愁子",
+          "game": null,
+          "peakViewers": 109,
+          "avgViewers": 90.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "eOH8VqhwVvQ",
+          "videoUrl": "https://www.youtube.com/watch?v=eOH8VqhwVvQ",
+          "start": "2026-09-26T14:47:48Z",
+          "end": "2026-09-26T16:17:32Z",
+          "minutes": 89.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "作業雑談 | ちょこっとだけキーボードカタカタ #愁子",
+          "game": null,
+          "peakViewers": 73,
+          "avgViewers": 57.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "Nooe5UKCCoU",
+          "videoUrl": "https://www.youtube.com/watch?v=Nooe5UKCCoU",
+          "start": "2026-09-24T14:33:19Z",
+          "end": "2026-09-24T17:58:06Z",
+          "minutes": 204.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.6 旅に出てたわよ～♡ #愁子",
+          "game": null,
+          "peakViewers": 49,
+          "avgViewers": 41.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "XLB_XyqH2RA",
+          "videoUrl": "https://www.youtube.com/watch?v=XLB_XyqH2RA",
+          "start": "2026-09-24T12:17:42Z",
+          "end": "2026-09-24T13:15:05Z",
+          "minutes": 57.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#PR | 誕生日が近いよ！いつもお世話になっている #Gipt さんのPRをするぞ！ #愁子",
+          "game": null,
+          "peakViewers": 40,
+          "avgViewers": 39.3,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 22,
+      "livePeakViewers": 22,
+      "liveAvgViewers": 22.0,
+      "liveSamples": [
+        [
+          "2026-10-03T02:15:43Z",
+          22
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=98Y9Pk8krwk"
+    },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
@@ -3991,243 +4238,6 @@
           "game": null,
           "peakViewers": null,
           "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-02T14:48:35Z",
-      "lastTitle": "妹に運転を教える | ドライブゲームをやっている落ち着きお姉さんだし楽勝ですが？ #愁子",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 740.5,
-          "gameMinutes": 0.0,
-          "totalHours": 12.34,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 85.5,
-          "peakViewers": 140
-        },
-        "month": {
-          "totalMinutes": 81.8,
-          "gameMinutes": 0.0,
-          "totalHours": 1.36,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 40.5,
-          "peakViewers": 44
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "REKeDf8p0V4",
-          "videoUrl": "https://www.youtube.com/watch?v=REKeDf8p0V4",
-          "start": "2026-10-02T13:26:50Z",
-          "end": "2026-10-02T14:48:35Z",
-          "minutes": 81.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "妹に運転を教える | ドライブゲームをやっている落ち着きお姉さんだし楽勝ですが？ #愁子",
-          "game": null,
-          "peakViewers": 44,
-          "avgViewers": 40.5,
-          "samples": [
-            [
-              "2026-10-02T13:26:50Z",
-              44
-            ],
-            [
-              "2026-10-02T13:46:53Z",
-              39
-            ],
-            [
-              "2026-10-02T14:01:08Z",
-              36
-            ],
-            [
-              "2026-10-02T14:27:11Z",
-              44
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "08SysOwYVgg",
-          "videoUrl": "https://www.youtube.com/watch?v=08SysOwYVgg",
-          "start": "2026-09-30T12:16:08Z",
-          "end": "2026-09-30T14:28:13Z",
-          "minutes": 132.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "American Truck Simulator 雑談 | 2●歳になった眼鏡のお姉さんにおめでとうを言おう #愁子",
-          "game": null,
-          "peakViewers": 99,
-          "avgViewers": 84.9,
-          "samples": [
-            [
-              "2026-09-30T12:16:08Z",
-              62
-            ],
-            [
-              "2026-09-30T12:44:46Z",
-              84
-            ],
-            [
-              "2026-09-30T13:04:08Z",
-              89
-            ],
-            [
-              "2026-09-30T13:27:29Z",
-              92
-            ],
-            [
-              "2026-09-30T13:46:41Z",
-              99
-            ],
-            [
-              "2026-09-30T14:02:25Z",
-              95
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "e1HoXo6zZYY",
-          "videoUrl": "https://www.youtube.com/watch?v=e1HoXo6zZYY",
-          "start": "2026-09-29T14:03:20Z",
-          "end": "2026-09-29T15:27:14Z",
-          "minutes": 83.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "まったり誕生日カウントダウン #愁子",
-          "game": null,
-          "peakViewers": 122,
-          "avgViewers": 87.3,
-          "samples": [
-            [
-              "2026-09-29T14:03:20Z",
-              37
-            ],
-            [
-              "2026-09-29T14:26:03Z",
-              95
-            ],
-            [
-              "2026-09-29T14:45:46Z",
-              106
-            ],
-            [
-              "2026-09-29T15:02:18Z",
-              122
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "teKR3c0vjwQ",
-          "videoUrl": "https://www.youtube.com/watch?v=teKR3c0vjwQ",
-          "start": "2026-09-29T03:01:04Z",
-          "end": "2026-09-29T08:22:18Z",
-          "minutes": 321.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "※ネタバレあり ネットプリントは双葉にしました。今日はボス戦！？眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #18 #愁子",
-          "game": null,
-          "peakViewers": 140,
-          "avgViewers": 94.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "EmBc5jEqofs",
-          "videoUrl": "https://www.youtube.com/watch?v=EmBc5jEqofs",
-          "start": "2026-09-28T13:25:36Z",
-          "end": "2026-09-28T15:27:09Z",
-          "minutes": 121.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "Euro Truck Simulator2 | #83 9月最後のﾏﾀ~ﾘハンコン雑談 #愁子",
-          "game": null,
-          "peakViewers": 109,
-          "avgViewers": 90.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "eOH8VqhwVvQ",
-          "videoUrl": "https://www.youtube.com/watch?v=eOH8VqhwVvQ",
-          "start": "2026-09-26T14:47:48Z",
-          "end": "2026-09-26T16:17:32Z",
-          "minutes": 89.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "作業雑談 | ちょこっとだけキーボードカタカタ #愁子",
-          "game": null,
-          "peakViewers": 73,
-          "avgViewers": 57.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "Nooe5UKCCoU",
-          "videoUrl": "https://www.youtube.com/watch?v=Nooe5UKCCoU",
-          "start": "2026-09-24T14:33:19Z",
-          "end": "2026-09-24T17:58:06Z",
-          "minutes": 204.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.6 旅に出てたわよ～♡ #愁子",
-          "game": null,
-          "peakViewers": 49,
-          "avgViewers": 41.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "XLB_XyqH2RA",
-          "videoUrl": "https://www.youtube.com/watch?v=XLB_XyqH2RA",
-          "start": "2026-09-24T12:17:42Z",
-          "end": "2026-09-24T13:15:05Z",
-          "minutes": 57.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#PR | 誕生日が近いよ！いつもお世話になっている #Gipt さんのPRをするぞ！ #愁子",
-          "game": null,
-          "peakViewers": 40,
-          "avgViewers": 39.3,
           "samples": [],
           "isTargetGame": false
         }
