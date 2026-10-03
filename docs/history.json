@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T05:43:06Z",
+  "updatedAt": "2026-10-03T06:04:51Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1667.2,
+      "totalMinutes": 1689.0,
       "gameMinutes": 0.0,
-      "totalHours": 27.79,
+      "totalHours": 28.15,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 149.2,
+      "avgViewers": 149.8,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 19462.2,
+      "totalMinutes": 19484.0,
       "gameMinutes": 0.0,
-      "totalHours": 324.37,
+      "totalHours": 324.73,
       "gameHours": 0.0,
       "sessions": 102,
       "avgViewers": 149.2,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 7791.4,
+      "totalMinutes": 7813.2,
       "gameMinutes": 0.0,
-      "totalHours": 129.86,
+      "totalHours": 130.22,
       "gameHours": 0.0,
       "sessions": 42,
-      "avgViewers": 121.3,
+      "avgViewers": 121.5,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【妹に運転を教える】長女です。イラついたら終わり。【 #無原唱レコード / #メーメントヴァニタス 】",
       "buckets": {
         "today": {
-          "totalMinutes": 25.9,
+          "totalMinutes": 47.6,
           "gameMinutes": 0.0,
-          "totalHours": 0.43,
+          "totalHours": 0.79,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 800.0,
+          "avgViewers": 522.4,
           "peakViewers": 997
         },
         "week": {
-          "totalMinutes": 435.9,
+          "totalMinutes": 457.6,
           "gameMinutes": 0.0,
-          "totalHours": 7.26,
+          "totalHours": 7.63,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 610.2,
+          "avgViewers": 590.4,
           "peakViewers": 997
         },
         "month": {
-          "totalMinutes": 96.4,
+          "totalMinutes": 118.1,
           "gameMinutes": 0.0,
-          "totalHours": 1.61,
+          "totalHours": 1.97,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 737.2,
+          "avgViewers": 636.8,
           "peakViewers": 997
         }
       },
@@ -300,9 +300,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 997,
+      "liveViewers": 1,
       "livePeakViewers": 997,
-      "liveAvgViewers": 800.0,
+      "liveAvgViewers": 522.4,
       "liveSamples": [
         [
           "2026-10-03T05:17:15Z",
@@ -311,6 +311,10 @@
         [
           "2026-10-03T05:43:06Z",
           997
+        ],
+        [
+          "2026-10-03T06:04:51Z",
+          1
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=PZQa1J3QXpU"
