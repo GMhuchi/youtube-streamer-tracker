@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T08:45:56Z",
+  "updatedAt": "2026-10-03T09:01:36Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,251 +16,42 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1794.9,
+      "totalMinutes": 1810.5,
       "gameMinutes": 0.0,
-      "totalHours": 29.91,
+      "totalHours": 30.18,
       "gameHours": 0.0,
-      "sessions": 12,
-      "avgViewers": 148.0,
+      "sessions": 13,
+      "avgViewers": 146.9,
       "peakViewers": 997
     },
     "week": {
-      "totalMinutes": 19589.9,
+      "totalMinutes": 19605.6,
       "gameMinutes": 0.0,
-      "totalHours": 326.5,
+      "totalHours": 326.76,
       "gameHours": 0.0,
-      "sessions": 103,
-      "avgViewers": 149.0,
+      "sessions": 104,
+      "avgViewers": 148.9,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 7919.1,
+      "totalMinutes": 7934.8,
       "gameMinutes": 0.0,
-      "totalHours": 131.99,
+      "totalHours": 132.25,
       "gameHours": 0.0,
-      "sessions": 43,
-      "avgViewers": 121.4,
+      "sessions": 44,
+      "avgViewers": 121.3,
       "peakViewers": 997
     }
   },
   "channels": [
     {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
-      "isLive": true,
-      "liveSince": "2026-10-03T08:20:30Z",
-      "liveTitle": "【スト6】簡易入力ってやつを覚えましたよ【日裏クロ / ネオポルテ】",
-      "lastEnd": "2026-09-30T13:46:41Z",
-      "lastTitle": "【妹に運転を教える】今日から僕がお兄ちゃんです。運転始めるぞ【日裏クロ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 25.4,
-          "gameMinutes": 0.0,
-          "totalHours": 0.42,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 26.5,
-          "peakViewers": 30
-        },
-        "week": {
-          "totalMinutes": 863.2,
-          "gameMinutes": 0.0,
-          "totalHours": 14.39,
-          "gameHours": 0.0,
-          "sessions": 7,
-          "avgViewers": 39.0,
-          "peakViewers": 61
-        },
-        "month": {
-          "totalMinutes": 25.4,
-          "gameMinutes": 0.0,
-          "totalHours": 0.42,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 26.5,
-          "peakViewers": 30
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "GXB5Qdcfv8E",
-          "videoUrl": "https://www.youtube.com/watch?v=GXB5Qdcfv8E",
-          "start": "2026-09-30T12:16:08Z",
-          "end": "2026-09-30T13:46:41Z",
-          "minutes": 90.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【妹に運転を教える】今日から僕がお兄ちゃんです。運転始めるぞ【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 61,
-          "avgViewers": 56.3,
-          "samples": [
-            [
-              "2026-09-30T12:16:08Z",
-              61
-            ],
-            [
-              "2026-09-30T12:44:46Z",
-              61
-            ],
-            [
-              "2026-09-30T13:04:08Z",
-              51
-            ],
-            [
-              "2026-09-30T13:27:29Z",
-              52
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "t0mBiMh9qVo",
-          "videoUrl": "https://www.youtube.com/watch?v=t0mBiMh9qVo",
-          "start": "2026-09-30T10:15:33Z",
-          "end": "2026-09-30T11:17:55Z",
-          "minutes": 62.4,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】9月の歌収録【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "HqiUCrXIhqU",
-          "videoUrl": "https://www.youtube.com/watch?v=HqiUCrXIhqU",
-          "start": "2026-09-29T14:33:16Z",
-          "end": "2026-09-29T15:50:07Z",
-          "minutes": 76.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】公式番組の疲れた体にちる【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "sp8qZsEqpEQ",
-          "videoUrl": "https://www.youtube.com/watch?v=sp8qZsEqpEQ",
-          "start": "2026-09-28T12:15:38Z",
-          "end": "2026-09-28T16:45:39Z",
-          "minutes": 270.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雀魂】あれまだ雀傑いってないんですか【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 36.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "vjF7WkmrTWg",
-          "videoUrl": "https://www.youtube.com/watch?v=vjF7WkmrTWg",
-          "start": "2026-09-28T08:23:09Z",
-          "end": "2026-09-28T10:42:31Z",
-          "minutes": 139.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【スト6】しゃがんで待ってたら強くなれますか？【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 53,
-          "avgViewers": 43.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "_NLAhrg9O9A",
-          "videoUrl": "https://www.youtube.com/watch?v=_NLAhrg9O9A",
-          "start": "2026-09-27T13:16:25Z",
-          "end": "2026-09-27T18:18:39Z",
-          "minutes": 302.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【天下無双ARK】起床後７時間ようやく体が元気になってきました #6【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 40,
-          "avgViewers": 32.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "XJa6sDH8I6s",
-          "videoUrl": "https://www.youtube.com/watch?v=XJa6sDH8I6s",
-          "start": "2026-09-26T14:47:48Z",
-          "end": "2026-09-26T18:19:07Z",
-          "minutes": 211.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【天下無双ARK】私が鯖落ちの理由でした #5【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 46,
-          "avgViewers": 35.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "FqftzDnfn2I",
-          "videoUrl": "https://www.youtube.com/watch?v=FqftzDnfn2I",
-          "start": "2026-09-26T13:17:07Z",
-          "end": "2026-09-26T14:25:39Z",
-          "minutes": 68.5,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】恐竜前に雑談【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 30,
-      "livePeakViewers": 30,
-      "liveAvgViewers": 26.5,
-      "liveSamples": [
-        [
-          "2026-10-03T08:20:30Z",
-          23
-        ],
-        [
-          "2026-10-03T08:45:56Z",
-          30
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=d3KTyGYD9uo"
-    },
-    {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UC1_HUmjQShLtT_MuZjry3hQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-10-03T09:01:36Z",
+      "liveTitle": "【 天下無双ARK 】最終日もれもんかけとけ【グラニット/ゆにれいど！】",
       "lastEnd": "2026-10-02T18:15:29Z",
       "lastTitle": "【 天下無双ARK 】最後の日に向けて準備するぞ！！！【グラニット/ゆにれいど！】",
       "buckets": {
@@ -269,7 +60,7 @@
           "gameMinutes": 0.0,
           "totalHours": 3.26,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 20.1,
           "peakViewers": 38
         },
@@ -278,7 +69,7 @@
           "gameMinutes": 0.0,
           "totalHours": 38.57,
           "gameHours": 0.0,
-          "sessions": 7,
+          "sessions": 8,
           "avgViewers": 12.7,
           "peakViewers": 38
         },
@@ -287,7 +78,7 @@
           "gameMinutes": 0.0,
           "totalHours": 17.7,
           "gameHours": 0.0,
-          "sessions": 3,
+          "sessions": 4,
           "avgViewers": 13.4,
           "peakViewers": 38
         }
@@ -644,7 +435,230 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 7,
+      "livePeakViewers": 7,
+      "liveAvgViewers": 7.0,
+      "liveSamples": [
+        [
+          "2026-10-03T09:01:36Z",
+          7
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=sYcpn4ZIBQw"
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
+      "isLive": true,
+      "liveSince": "2026-10-03T08:20:30Z",
+      "liveTitle": "【スト6】簡易入力ってやつを覚えましたよ【日裏クロ / ネオポルテ】",
+      "lastEnd": "2026-09-30T13:46:41Z",
+      "lastTitle": "【妹に運転を教える】今日から僕がお兄ちゃんです。運転始めるぞ【日裏クロ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 41.1,
+          "gameMinutes": 0.0,
+          "totalHours": 0.69,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 28.1,
+          "peakViewers": 33
+        },
+        "week": {
+          "totalMinutes": 878.9,
+          "gameMinutes": 0.0,
+          "totalHours": 14.65,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 38.8,
+          "peakViewers": 61
+        },
+        "month": {
+          "totalMinutes": 41.1,
+          "gameMinutes": 0.0,
+          "totalHours": 0.69,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 28.1,
+          "peakViewers": 33
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "GXB5Qdcfv8E",
+          "videoUrl": "https://www.youtube.com/watch?v=GXB5Qdcfv8E",
+          "start": "2026-09-30T12:16:08Z",
+          "end": "2026-09-30T13:46:41Z",
+          "minutes": 90.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【妹に運転を教える】今日から僕がお兄ちゃんです。運転始めるぞ【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 61,
+          "avgViewers": 56.3,
+          "samples": [
+            [
+              "2026-09-30T12:16:08Z",
+              61
+            ],
+            [
+              "2026-09-30T12:44:46Z",
+              61
+            ],
+            [
+              "2026-09-30T13:04:08Z",
+              51
+            ],
+            [
+              "2026-09-30T13:27:29Z",
+              52
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "t0mBiMh9qVo",
+          "videoUrl": "https://www.youtube.com/watch?v=t0mBiMh9qVo",
+          "start": "2026-09-30T10:15:33Z",
+          "end": "2026-09-30T11:17:55Z",
+          "minutes": 62.4,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】9月の歌収録【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "HqiUCrXIhqU",
+          "videoUrl": "https://www.youtube.com/watch?v=HqiUCrXIhqU",
+          "start": "2026-09-29T14:33:16Z",
+          "end": "2026-09-29T15:50:07Z",
+          "minutes": 76.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】公式番組の疲れた体にちる【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "sp8qZsEqpEQ",
+          "videoUrl": "https://www.youtube.com/watch?v=sp8qZsEqpEQ",
+          "start": "2026-09-28T12:15:38Z",
+          "end": "2026-09-28T16:45:39Z",
+          "minutes": 270.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雀魂】あれまだ雀傑いってないんですか【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 48,
+          "avgViewers": 36.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "vjF7WkmrTWg",
+          "videoUrl": "https://www.youtube.com/watch?v=vjF7WkmrTWg",
+          "start": "2026-09-28T08:23:09Z",
+          "end": "2026-09-28T10:42:31Z",
+          "minutes": 139.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【スト6】しゃがんで待ってたら強くなれますか？【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 53,
+          "avgViewers": 43.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "_NLAhrg9O9A",
+          "videoUrl": "https://www.youtube.com/watch?v=_NLAhrg9O9A",
+          "start": "2026-09-27T13:16:25Z",
+          "end": "2026-09-27T18:18:39Z",
+          "minutes": 302.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【天下無双ARK】起床後７時間ようやく体が元気になってきました #6【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 40,
+          "avgViewers": 32.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "XJa6sDH8I6s",
+          "videoUrl": "https://www.youtube.com/watch?v=XJa6sDH8I6s",
+          "start": "2026-09-26T14:47:48Z",
+          "end": "2026-09-26T18:19:07Z",
+          "minutes": 211.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【天下無双ARK】私が鯖落ちの理由でした #5【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 46,
+          "avgViewers": 35.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "FqftzDnfn2I",
+          "videoUrl": "https://www.youtube.com/watch?v=FqftzDnfn2I",
+          "start": "2026-09-26T13:17:07Z",
+          "end": "2026-09-26T14:25:39Z",
+          "minutes": 68.5,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】恐竜前に雑談【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 33,
+      "livePeakViewers": 33,
+      "liveAvgViewers": 28.1,
+      "liveSamples": [
+        [
+          "2026-10-03T08:20:30Z",
+          23
+        ],
+        [
+          "2026-10-03T08:45:56Z",
+          30
+        ],
+        [
+          "2026-10-03T09:01:36Z",
+          33
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=d3KTyGYD9uo"
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
