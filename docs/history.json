@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T03:10:25Z",
+  "updatedAt": "2026-10-03T03:40:25Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1566.3,
+      "totalMinutes": 1596.3,
       "gameMinutes": 0.0,
-      "totalHours": 26.1,
+      "totalHours": 26.6,
       "gameHours": 0.0,
       "sessions": 10,
-      "avgViewers": 140.5,
+      "avgViewers": 139.9,
       "peakViewers": 802
     },
     "week": {
-      "totalMinutes": 19361.3,
+      "totalMinutes": 19391.3,
       "gameMinutes": 0.0,
-      "totalHours": 322.69,
+      "totalHours": 323.19,
       "gameHours": 0.0,
       "sessions": 101,
       "avgViewers": 148.4,
       "peakViewers": 999
     },
     "month": {
-      "totalMinutes": 7690.5,
+      "totalMinutes": 7720.5,
       "gameMinutes": 0.0,
-      "totalHours": 128.18,
+      "totalHours": 128.68,
       "gameHours": 0.0,
       "sessions": 41,
       "avgViewers": 119.1,
@@ -56,31 +56,31 @@
       "lastTitle": "妹に運転を教える | ドライブゲームをやっている落ち着きお姉さんだし楽勝ですが？ #愁子",
       "buckets": {
         "today": {
-          "totalMinutes": 54.7,
+          "totalMinutes": 84.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.91,
+          "totalHours": 1.41,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 79.1,
-          "peakViewers": 113
+          "avgViewers": 89.4,
+          "peakViewers": 117
         },
         "week": {
-          "totalMinutes": 795.2,
+          "totalMinutes": 825.2,
           "gameMinutes": 0.0,
-          "totalHours": 13.25,
+          "totalHours": 13.75,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 85.1,
+          "avgViewers": 85.9,
           "peakViewers": 140
         },
         "month": {
-          "totalMinutes": 136.5,
+          "totalMinutes": 166.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.27,
+          "totalHours": 2.77,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 56.0,
-          "peakViewers": 113
+          "avgViewers": 65.4,
+          "peakViewers": 117
         }
       },
       "recentSessions": [
@@ -280,9 +280,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 113,
-      "livePeakViewers": 113,
-      "liveAvgViewers": 79.1,
+      "liveViewers": 117,
+      "livePeakViewers": 117,
+      "liveAvgViewers": 89.4,
       "liveSamples": [
         [
           "2026-10-03T02:15:43Z",
@@ -295,6 +295,10 @@
         [
           "2026-10-03T03:10:25Z",
           113
+        ],
+        [
+          "2026-10-03T03:40:25Z",
+          117
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=98Y9Pk8krwk"
