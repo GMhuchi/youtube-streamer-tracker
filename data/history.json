@@ -2,51 +2,76 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "AOnhM4W6JIA",
-      "start": "2026-10-04T02:16:06Z",
+    "UCElYE3bfzjjmJ9xwjvro9Yw": {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "iy-eIS9qkcs",
+      "start": "2026-10-04T15:04:42Z",
       "startSource": "observed",
-      "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
+      "title": "【ほの暮しの庭】まっちゃりほの暮らしできるらしいです【日裏クロ / ネオポルテ】",
       "game": null,
-      "peakViewers": 42,
+      "peakViewers": 53,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-04T02:16:06Z",
-      "lastSeenAt": "2026-10-04T07:16:39Z",
+      "firstSeenAt": "2026-10-04T15:04:42Z",
+      "lastSeenAt": "2026-10-04T15:04:42Z",
       "samples": [
         [
-          "2026-10-04T02:16:06Z",
-          16
-        ],
-        [
-          "2026-10-04T04:11:09Z",
-          42
-        ],
-        [
-          "2026-10-04T07:16:39Z",
-          42
+          "2026-10-04T15:04:42Z",
+          53
         ]
       ]
     },
-    "UCo3zRhsnXIieauvm6c-xwkA": {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "XK7gWY8Kf_A",
-      "start": "2026-10-04T07:16:39Z",
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "Jn51uqnzjr4",
+      "start": "2026-10-04T15:04:42Z",
       "startSource": "observed",
-      "title": "【Forza Horizon6】ゴールド無免許は今日も春シーズンを進める＃３９【#七乃羽すず┆すずみあ】",
+      "title": "【飲酒雑談】あむ、ただいま日本から帰ってきました🐢【甘音あむ / ネオポルテ】",
       "game": null,
-      "peakViewers": 107,
+      "peakViewers": 207,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-04T07:16:39Z",
-      "lastSeenAt": "2026-10-04T07:16:39Z",
+      "firstSeenAt": "2026-10-04T15:04:42Z",
+      "lastSeenAt": "2026-10-04T15:04:42Z",
       "samples": [
         [
-          "2026-10-04T07:16:39Z",
-          107
+          "2026-10-04T15:04:42Z",
+          207
         ]
       ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "GbzSef2vkqw",
+      "start": "2026-10-04T15:04:42Z",
+      "startSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　今日はいろいろ友達のイベントとかあるよ　 ～Day18～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 109,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-04T15:04:42Z",
+      "lastSeenAt": "2026-10-04T15:04:42Z",
+      "samples": [
+        [
+          "2026-10-04T15:04:42Z",
+          109
+        ]
+      ]
+    },
+    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "7Gw0K8TSWcM",
+      "start": "2026-10-04T15:04:42Z",
+      "startSource": "observed",
+      "title": "日曜の激チルメン限【水上蒼太/ゆにれいど！】",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-04T15:04:42Z",
+      "lastSeenAt": "2026-10-04T15:04:42Z",
+      "samples": []
     }
   },
   "sessions": [
@@ -32144,6 +32169,36 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "AOnhM4W6JIA",
+      "videoUrl": "https://www.youtube.com/watch?v=AOnhM4W6JIA",
+      "start": "2026-10-04T02:16:06Z",
+      "end": "2026-10-04T15:04:42Z",
+      "minutes": 768.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
+      "game": null,
+      "peakViewers": 42,
+      "avgViewers": 35.4,
+      "samples": [
+        [
+          "2026-10-04T02:16:06Z",
+          16
+        ],
+        [
+          "2026-10-04T04:11:09Z",
+          42
+        ],
+        [
+          "2026-10-04T07:16:39Z",
+          42
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
       "name": "埼凰リンネ",
       "videoId": "nqI3dg0l63E",
@@ -32161,6 +32216,28 @@
         [
           "2026-10-04T04:11:09Z",
           22
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "XK7gWY8Kf_A",
+      "videoUrl": "https://www.youtube.com/watch?v=XK7gWY8Kf_A",
+      "start": "2026-10-04T07:16:39Z",
+      "end": "2026-10-04T15:04:42Z",
+      "minutes": 468.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Forza Horizon6】ゴールド無免許は今日も春シーズンを進める＃３９【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 107,
+      "avgViewers": 107.0,
+      "samples": [
+        [
+          "2026-10-04T07:16:39Z",
+          107
         ]
       ],
       "isTargetGame": false
