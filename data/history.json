@@ -2,49 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "YbfMqesCY8A",
-      "start": "2026-10-04T21:53:34Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#299［2026.10/5］月曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 469,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-04T21:53:34Z",
-      "lastSeenAt": "2026-10-04T23:41:29Z",
-      "samples": [
-        [
-          "2026-10-04T21:53:34Z",
-          328
-        ],
-        [
-          "2026-10-04T22:11:25Z",
-          401
-        ],
-        [
-          "2026-10-04T22:32:41Z",
-          453
-        ],
-        [
-          "2026-10-04T22:50:22Z",
-          459
-        ],
-        [
-          "2026-10-04T23:00:57Z",
-          469
-        ],
-        [
-          "2026-10-04T23:21:52Z",
-          456
-        ],
-        [
-          "2026-10-04T23:41:29Z",
-          438
-        ]
-      ]
-    },
     "UC7W6gEF88kzL-mN8V_QxzVg": {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
       "name": "埼凰リンネ",
@@ -53,10 +10,10 @@
       "startSource": "observed",
       "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 23,
+      "peakViewers": 24,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-04T22:11:25Z",
-      "lastSeenAt": "2026-10-04T23:41:29Z",
+      "lastSeenAt": "2026-10-04T23:56:56Z",
       "samples": [
         [
           "2026-10-04T22:11:25Z",
@@ -81,37 +38,10 @@
         [
           "2026-10-04T23:41:29Z",
           23
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "WO4ayUn86YQ",
-      "start": "2026-10-04T22:50:22Z",
-      "startSource": "observed",
-      "title": "【雑談】お昼寝しすぎてあまり眠くなかったので朝活🐣　#vtuber  　 #恋沼ミヤ",
-      "game": null,
-      "peakViewers": 56,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-04T22:50:22Z",
-      "lastSeenAt": "2026-10-04T23:41:29Z",
-      "samples": [
-        [
-          "2026-10-04T22:50:22Z",
-          31
         ],
         [
-          "2026-10-04T23:00:57Z",
-          37
-        ],
-        [
-          "2026-10-04T23:21:52Z",
-          56
-        ],
-        [
-          "2026-10-04T23:41:29Z",
-          46
+          "2026-10-04T23:56:56Z",
+          24
         ]
       ]
     },
@@ -123,14 +53,18 @@
       "startSource": "observed",
       "title": "【目標：レジェンド リュウ レバーレス】早い展開でも間合いを気にする【LIVE】#スト6  【十神仁/ YUMENOS】",
       "game": null,
-      "peakViewers": 10,
+      "peakViewers": 11,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-04T23:41:29Z",
-      "lastSeenAt": "2026-10-04T23:41:29Z",
+      "lastSeenAt": "2026-10-04T23:56:56Z",
       "samples": [
         [
           "2026-10-04T23:41:29Z",
           10
+        ],
+        [
+          "2026-10-04T23:56:56Z",
+          11
         ]
       ]
     }
@@ -32382,6 +32316,86 @@
         [
           "2026-10-04T15:04:42Z",
           109
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "YbfMqesCY8A",
+      "videoUrl": "https://www.youtube.com/watch?v=YbfMqesCY8A",
+      "start": "2026-10-04T21:53:34Z",
+      "end": "2026-10-04T23:56:56Z",
+      "minutes": 123.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#299［2026.10/5］月曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 469,
+      "avgViewers": 428.0,
+      "samples": [
+        [
+          "2026-10-04T21:53:34Z",
+          328
+        ],
+        [
+          "2026-10-04T22:11:25Z",
+          401
+        ],
+        [
+          "2026-10-04T22:32:41Z",
+          453
+        ],
+        [
+          "2026-10-04T22:50:22Z",
+          459
+        ],
+        [
+          "2026-10-04T23:00:57Z",
+          469
+        ],
+        [
+          "2026-10-04T23:21:52Z",
+          456
+        ],
+        [
+          "2026-10-04T23:41:29Z",
+          438
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "WO4ayUn86YQ",
+      "videoUrl": "https://www.youtube.com/watch?v=WO4ayUn86YQ",
+      "start": "2026-10-04T22:50:22Z",
+      "end": "2026-10-04T23:56:56Z",
+      "minutes": 66.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】お昼寝しすぎてあまり眠くなかったので朝活🐣　#vtuber  　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 56,
+      "avgViewers": 43.8,
+      "samples": [
+        [
+          "2026-10-04T22:50:22Z",
+          31
+        ],
+        [
+          "2026-10-04T23:00:57Z",
+          37
+        ],
+        [
+          "2026-10-04T23:21:52Z",
+          56
+        ],
+        [
+          "2026-10-04T23:41:29Z",
+          46
         ]
       ],
       "isTargetGame": false
