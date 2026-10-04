@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "AOnhM4W6JIA",
+      "start": "2026-10-04T02:16:06Z",
+      "startSource": "observed",
+      "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
+      "game": null,
+      "peakViewers": 16,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-04T02:16:06Z",
+      "lastSeenAt": "2026-10-04T02:16:06Z",
+      "samples": [
+        [
+          "2026-10-04T02:16:06Z",
+          16
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
