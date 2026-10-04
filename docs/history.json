@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T22:32:41Z",
+  "updatedAt": "2026-10-04T22:50:22Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,34 +16,253 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1128.7,
+      "totalMinutes": 1164.1,
       "gameMinutes": 0.0,
-      "totalHours": 18.81,
+      "totalHours": 19.4,
       "gameHours": 0.0,
-      "sessions": 8,
-      "avgViewers": 130.4,
-      "peakViewers": 453
+      "sessions": 9,
+      "avgViewers": 133.6,
+      "peakViewers": 459
     },
     "week": {
-      "totalMinutes": 1128.7,
+      "totalMinutes": 1164.1,
       "gameMinutes": 0.0,
-      "totalHours": 18.81,
+      "totalHours": 19.4,
       "gameHours": 0.0,
-      "sessions": 8,
-      "avgViewers": 130.4,
-      "peakViewers": 453
+      "sessions": 9,
+      "avgViewers": 133.6,
+      "peakViewers": 459
     },
     "month": {
-      "totalMinutes": 14324.0,
+      "totalMinutes": 14359.3,
       "gameMinutes": 0.0,
-      "totalHours": 238.73,
+      "totalHours": 239.32,
       "gameHours": 0.0,
-      "sessions": 61,
-      "avgViewers": 120.9,
+      "sessions": 62,
+      "avgViewers": 121.2,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-10-04T22:50:22Z",
+      "liveTitle": "【雑談】お昼寝しすぎてあまり眠くなかったので朝活🐣　#vtuber  　 #恋沼ミヤ",
+      "lastEnd": "2026-10-04T15:04:42Z",
+      "lastTitle": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
+      "buckets": {
+        "today": {
+          "totalMinutes": 4.7,
+          "gameMinutes": 0.0,
+          "totalHours": 0.08,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 35.4,
+          "peakViewers": 42
+        },
+        "week": {
+          "totalMinutes": 4.7,
+          "gameMinutes": 0.0,
+          "totalHours": 0.08,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 35.4,
+          "peakViewers": 42
+        },
+        "month": {
+          "totalMinutes": 1682.5,
+          "gameMinutes": 0.0,
+          "totalHours": 28.04,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 35.5,
+          "peakViewers": 60
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "AOnhM4W6JIA",
+          "videoUrl": "https://www.youtube.com/watch?v=AOnhM4W6JIA",
+          "start": "2026-10-04T02:16:06Z",
+          "end": "2026-10-04T15:04:42Z",
+          "minutes": 768.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 42,
+          "avgViewers": 35.4,
+          "samples": [
+            [
+              "2026-10-04T02:16:06Z",
+              16
+            ],
+            [
+              "2026-10-04T04:11:09Z",
+              42
+            ],
+            [
+              "2026-10-04T07:16:39Z",
+              42
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "t8YAOkJDZW4",
+          "videoUrl": "https://www.youtube.com/watch?v=t8YAOkJDZW4",
+          "start": "2026-10-03T14:36:05Z",
+          "end": "2026-10-03T18:37:56Z",
+          "minutes": 241.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day38 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [
+            [
+              "2026-10-03T14:36:05Z",
+              34
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "PJSXpKE42kQ",
+          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
+          "start": "2026-10-02T12:41:37Z",
+          "end": "2026-10-02T13:46:53Z",
+          "minutes": 65.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 51.2,
+          "samples": [
+            [
+              "2026-10-02T12:41:37Z",
+              47
+            ],
+            [
+              "2026-10-02T13:02:26Z",
+              56
+            ],
+            [
+              "2026-10-02T13:26:50Z",
+              50
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "PJSXpKE42kQ",
+          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
+          "start": "2026-10-02T11:11:23Z",
+          "end": "2026-10-02T12:15:10Z",
+          "minutes": 63.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 49,
+          "avgViewers": 37.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "ILKEcL_sg6U",
+          "videoUrl": "https://www.youtube.com/watch?v=ILKEcL_sg6U",
+          "start": "2026-10-01T12:27:17Z",
+          "end": "2026-10-01T18:16:06Z",
+          "minutes": 348.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day37 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 60,
+          "avgViewers": 38.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "xukcrAvE8NQ",
+          "videoUrl": "https://www.youtube.com/watch?v=xukcrAvE8NQ",
+          "start": "2026-09-30T13:04:08Z",
+          "end": "2026-09-30T18:14:11Z",
+          "minutes": 310.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day36 ギャング体験中。悪い子にどんどんなってく【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 26.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "BUF3HziVjQE",
+          "videoUrl": "https://www.youtube.com/watch?v=BUF3HziVjQE",
+          "start": "2026-09-29T21:11:44Z",
+          "end": "2026-09-29T23:44:37Z",
+          "minutes": 152.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 91,
+          "avgViewers": 75.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "T0Uy9n3wL3s",
+          "videoUrl": "https://www.youtube.com/watch?v=T0Uy9n3wL3s",
+          "start": "2026-09-28T13:03:02Z",
+          "end": "2026-09-28T16:20:40Z",
+          "minutes": 197.6,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【歌枠/Singing】眠れない人向けのチル歌枠🌙　【 #恋沼ミヤ】",
+          "game": null,
+          "peakViewers": 94,
+          "avgViewers": 73.1,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 31,
+      "livePeakViewers": 31,
+      "liveAvgViewers": 31.0,
+      "liveSamples": [
+        [
+          "2026-10-04T22:50:22Z",
+          31
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=WO4ayUn86YQ"
+    },
     {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
@@ -56,30 +275,30 @@
       "lastTitle": "【#天下無双ARK】最終日：我らインテリ美女軍団🦖！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 39.1,
+          "totalMinutes": 56.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.65,
+          "totalHours": 0.95,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 396.1,
-          "peakViewers": 453
+          "avgViewers": 410.4,
+          "peakViewers": 459
         },
         "week": {
-          "totalMinutes": 39.1,
+          "totalMinutes": 56.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.65,
+          "totalHours": 0.95,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 396.1,
-          "peakViewers": 453
+          "avgViewers": 410.4,
+          "peakViewers": 459
         },
         "month": {
-          "totalMinutes": 1547.8,
+          "totalMinutes": 1565.5,
           "gameMinutes": 0.0,
-          "totalHours": 25.8,
+          "totalHours": 26.09,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 667.0,
+          "avgViewers": 664.5,
           "peakViewers": 988
         }
       },
@@ -376,9 +595,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 453,
-      "livePeakViewers": 453,
-      "liveAvgViewers": 396.1,
+      "liveViewers": 459,
+      "livePeakViewers": 459,
+      "liveAvgViewers": 410.4,
       "liveSamples": [
         [
           "2026-10-04T21:53:34Z",
@@ -391,6 +610,10 @@
         [
           "2026-10-04T22:32:41Z",
           453
+        ],
+        [
+          "2026-10-04T22:50:22Z",
+          459
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=YbfMqesCY8A"
@@ -407,27 +630,27 @@
       "lastTitle": "【作業雑談】やることだらけなので、1時間くらい！【埼凰リンネ / YUMENOS】#新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 21.3,
+          "totalMinutes": 39.0,
           "gameMinutes": 0.0,
-          "totalHours": 0.35,
+          "totalHours": 0.65,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 19.0,
+          "avgViewers": 18.5,
           "peakViewers": 22
         },
         "week": {
-          "totalMinutes": 21.3,
+          "totalMinutes": 39.0,
           "gameMinutes": 0.0,
-          "totalHours": 0.35,
+          "totalHours": 0.65,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 19.0,
+          "avgViewers": 18.5,
           "peakViewers": 22
         },
         "month": {
-          "totalMinutes": 611.7,
+          "totalMinutes": 629.4,
           "gameMinutes": 0.0,
-          "totalHours": 10.2,
+          "totalHours": 10.49,
           "gameHours": 0.0,
           "sessions": 6,
           "avgViewers": 17.5,
@@ -619,9 +842,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 22,
+      "liveViewers": 18,
       "livePeakViewers": 22,
-      "liveAvgViewers": 19.0,
+      "liveAvgViewers": 18.5,
       "liveSamples": [
         [
           "2026-10-04T22:11:25Z",
@@ -630,218 +853,13 @@
         [
           "2026-10-04T22:32:41Z",
           22
+        ],
+        [
+          "2026-10-04T22:50:22Z",
+          18
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=2vJuXBkr1L0"
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-04T15:04:42Z",
-      "lastTitle": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
-      "buckets": {
-        "today": {
-          "totalMinutes": 4.7,
-          "gameMinutes": 0.0,
-          "totalHours": 0.08,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 35.4,
-          "peakViewers": 42
-        },
-        "week": {
-          "totalMinutes": 4.7,
-          "gameMinutes": 0.0,
-          "totalHours": 0.08,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 35.4,
-          "peakViewers": 42
-        },
-        "month": {
-          "totalMinutes": 1682.5,
-          "gameMinutes": 0.0,
-          "totalHours": 28.04,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 35.5,
-          "peakViewers": 60
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "AOnhM4W6JIA",
-          "videoUrl": "https://www.youtube.com/watch?v=AOnhM4W6JIA",
-          "start": "2026-10-04T02:16:06Z",
-          "end": "2026-10-04T15:04:42Z",
-          "minutes": 768.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 42,
-          "avgViewers": 35.4,
-          "samples": [
-            [
-              "2026-10-04T02:16:06Z",
-              16
-            ],
-            [
-              "2026-10-04T04:11:09Z",
-              42
-            ],
-            [
-              "2026-10-04T07:16:39Z",
-              42
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "t8YAOkJDZW4",
-          "videoUrl": "https://www.youtube.com/watch?v=t8YAOkJDZW4",
-          "start": "2026-10-03T14:36:05Z",
-          "end": "2026-10-03T18:37:56Z",
-          "minutes": 241.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day38 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [
-            [
-              "2026-10-03T14:36:05Z",
-              34
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "PJSXpKE42kQ",
-          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
-          "start": "2026-10-02T12:41:37Z",
-          "end": "2026-10-02T13:46:53Z",
-          "minutes": 65.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 51.2,
-          "samples": [
-            [
-              "2026-10-02T12:41:37Z",
-              47
-            ],
-            [
-              "2026-10-02T13:02:26Z",
-              56
-            ],
-            [
-              "2026-10-02T13:26:50Z",
-              50
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "PJSXpKE42kQ",
-          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
-          "start": "2026-10-02T11:11:23Z",
-          "end": "2026-10-02T12:15:10Z",
-          "minutes": 63.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 49,
-          "avgViewers": 37.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "ILKEcL_sg6U",
-          "videoUrl": "https://www.youtube.com/watch?v=ILKEcL_sg6U",
-          "start": "2026-10-01T12:27:17Z",
-          "end": "2026-10-01T18:16:06Z",
-          "minutes": 348.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day37 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 60,
-          "avgViewers": 38.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "xukcrAvE8NQ",
-          "videoUrl": "https://www.youtube.com/watch?v=xukcrAvE8NQ",
-          "start": "2026-09-30T13:04:08Z",
-          "end": "2026-09-30T18:14:11Z",
-          "minutes": 310.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day36 ギャング体験中。悪い子にどんどんなってく【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 35,
-          "avgViewers": 26.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "BUF3HziVjQE",
-          "videoUrl": "https://www.youtube.com/watch?v=BUF3HziVjQE",
-          "start": "2026-09-29T21:11:44Z",
-          "end": "2026-09-29T23:44:37Z",
-          "minutes": 152.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】昨日寝すぎて早起きしたから5億年ぶりの朝活する🐣　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 91,
-          "avgViewers": 75.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "T0Uy9n3wL3s",
-          "videoUrl": "https://www.youtube.com/watch?v=T0Uy9n3wL3s",
-          "start": "2026-09-28T13:03:02Z",
-          "end": "2026-09-28T16:20:40Z",
-          "minutes": 197.6,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【歌枠/Singing】眠れない人向けのチル歌枠🌙　【 #恋沼ミヤ】",
-          "game": null,
-          "peakViewers": 94,
-          "avgViewers": 73.1,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
     },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
