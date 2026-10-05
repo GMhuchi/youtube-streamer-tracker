@@ -2,49 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "2vJuXBkr1L0",
-      "start": "2026-10-04T22:11:25Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 24,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-04T22:11:25Z",
-      "lastSeenAt": "2026-10-04T23:56:56Z",
-      "samples": [
-        [
-          "2026-10-04T22:11:25Z",
-          16
-        ],
-        [
-          "2026-10-04T22:32:41Z",
-          22
-        ],
-        [
-          "2026-10-04T22:50:22Z",
-          18
-        ],
-        [
-          "2026-10-04T23:00:57Z",
-          20
-        ],
-        [
-          "2026-10-04T23:21:52Z",
-          21
-        ],
-        [
-          "2026-10-04T23:41:29Z",
-          23
-        ],
-        [
-          "2026-10-04T23:56:56Z",
-          24
-        ]
-      ]
-    },
     "UC9jM73Rqa_4Ec4PknBHG9pQ": {
       "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
       "name": "十神仁",
@@ -53,10 +10,10 @@
       "startSource": "observed",
       "title": "【目標：レジェンド リュウ レバーレス】早い展開でも間合いを気にする【LIVE】#スト6  【十神仁/ YUMENOS】",
       "game": null,
-      "peakViewers": 11,
+      "peakViewers": 26,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-04T23:41:29Z",
-      "lastSeenAt": "2026-10-04T23:56:56Z",
+      "lastSeenAt": "2026-10-05T00:24:57Z",
       "samples": [
         [
           "2026-10-04T23:41:29Z",
@@ -65,6 +22,10 @@
         [
           "2026-10-04T23:56:56Z",
           11
+        ],
+        [
+          "2026-10-05T00:24:57Z",
+          26
         ]
       ]
     }
@@ -32362,6 +32323,52 @@
         [
           "2026-10-04T23:41:29Z",
           438
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "2vJuXBkr1L0",
+      "videoUrl": "https://www.youtube.com/watch?v=2vJuXBkr1L0",
+      "start": "2026-10-04T22:11:25Z",
+      "end": "2026-10-05T00:24:57Z",
+      "minutes": 133.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 24,
+      "avgViewers": 20.5,
+      "samples": [
+        [
+          "2026-10-04T22:11:25Z",
+          16
+        ],
+        [
+          "2026-10-04T22:32:41Z",
+          22
+        ],
+        [
+          "2026-10-04T22:50:22Z",
+          18
+        ],
+        [
+          "2026-10-04T23:00:57Z",
+          20
+        ],
+        [
+          "2026-10-04T23:21:52Z",
+          21
+        ],
+        [
+          "2026-10-04T23:41:29Z",
+          23
+        ],
+        [
+          "2026-10-04T23:56:56Z",
+          24
         ]
       ],
       "isTargetGame": false
