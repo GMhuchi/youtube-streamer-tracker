@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCNGMMdEgYIUR6rC44v9aZ8w": {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "qWy7ly2HDvQ",
+      "start": "2026-10-05T08:15:30Z",
+      "startSource": "observed",
+      "title": "かえってきたぞ皆の衆記念雑談【ネオポルテ／瀬尾カザリ】",
+      "game": null,
+      "peakViewers": 29,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-05T08:15:30Z",
+      "lastSeenAt": "2026-10-05T08:15:30Z",
+      "samples": [
+        [
+          "2026-10-05T08:15:30Z",
+          29
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
