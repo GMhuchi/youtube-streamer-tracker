@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T08:39:14Z",
+  "updatedAt": "2026-10-05T08:57:51Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1661.3,
+      "totalMinutes": 1680.0,
       "gameMinutes": 0.0,
-      "totalHours": 27.69,
+      "totalHours": 28.0,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 138.1,
+      "avgViewers": 136.8,
       "peakViewers": 945
     },
     "week": {
-      "totalMinutes": 1661.3,
+      "totalMinutes": 1680.0,
       "gameMinutes": 0.0,
-      "totalHours": 27.69,
+      "totalHours": 28.0,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 138.1,
+      "avgViewers": 136.8,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 14856.6,
+      "totalMinutes": 14875.2,
       "gameMinutes": 0.0,
-      "totalHours": 247.61,
+      "totalHours": 247.92,
       "gameHours": 0.0,
       "sessions": 65,
-      "avgViewers": 122.1,
+      "avgViewers": 122.0,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【APEX】今日もあのメンバーでAPEXです、か。【瀬尾カザリ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 23.7,
+          "totalMinutes": 42.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.4,
+          "totalHours": 0.71,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 31.0,
+          "avgViewers": 30.2,
           "peakViewers": 33
         },
         "week": {
-          "totalMinutes": 23.7,
+          "totalMinutes": 42.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.4,
+          "totalHours": 0.71,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 31.0,
+          "avgViewers": 30.2,
           "peakViewers": 33
         },
         "month": {
-          "totalMinutes": 23.7,
+          "totalMinutes": 42.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.4,
+          "totalHours": 0.71,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 31.0,
+          "avgViewers": 30.2,
           "peakViewers": 33
         }
       },
@@ -136,9 +136,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 33,
+      "liveViewers": 29,
       "livePeakViewers": 33,
-      "liveAvgViewers": 31.0,
+      "liveAvgViewers": 30.2,
       "liveSamples": [
         [
           "2026-10-05T08:15:30Z",
@@ -147,6 +147,10 @@
         [
           "2026-10-05T08:39:14Z",
           33
+        ],
+        [
+          "2026-10-05T08:57:51Z",
+          29
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=qWy7ly2HDvQ"
