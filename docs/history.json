@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T06:19:15Z",
+  "updatedAt": "2026-10-05T06:49:14Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1542.7,
+      "totalMinutes": 1572.7,
       "gameMinutes": 0.0,
-      "totalHours": 25.71,
+      "totalHours": 26.21,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 124.8,
-      "peakViewers": 599
+      "avgViewers": 137.6,
+      "peakViewers": 945
     },
     "week": {
-      "totalMinutes": 1542.7,
+      "totalMinutes": 1572.7,
       "gameMinutes": 0.0,
-      "totalHours": 25.71,
+      "totalHours": 26.21,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 124.8,
-      "peakViewers": 599
+      "avgViewers": 137.6,
+      "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 14737.9,
+      "totalMinutes": 14767.9,
       "gameMinutes": 0.0,
-      "totalHours": 245.63,
+      "totalHours": 246.13,
       "gameHours": 0.0,
       "sessions": 64,
-      "avgViewers": 120.6,
+      "avgViewers": 121.9,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【雑談】昼活🍙寝起きゲソゲソしよ♡【 #無原唱レコード / #メーメントヴァニタス 】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 30.0,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.5,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 599.0,
-          "peakViewers": 599
+          "avgViewers": 772.0,
+          "peakViewers": 945
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 30.0,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.5,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 599.0,
-          "peakViewers": 599
+          "avgViewers": 772.0,
+          "peakViewers": 945
         },
         "month": {
-          "totalMinutes": 198.6,
+          "totalMinutes": 228.6,
           "gameMinutes": 0.0,
-          "totalHours": 3.31,
+          "totalHours": 3.81,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 438.9,
+          "avgViewers": 482.6,
           "peakViewers": 997
         }
       },
@@ -292,13 +292,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 599,
-      "livePeakViewers": 599,
-      "liveAvgViewers": 599.0,
+      "liveViewers": 945,
+      "livePeakViewers": 945,
+      "liveAvgViewers": 772.0,
       "liveSamples": [
         [
           "2026-10-05T06:19:15Z",
           599
+        ],
+        [
+          "2026-10-05T06:49:14Z",
+          945
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=iMglBC6CdzM"
