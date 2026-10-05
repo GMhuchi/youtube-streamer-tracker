@@ -1,110 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "lXNcfwmXLEY",
-      "start": "2026-10-05T12:32:12Z",
-      "startSource": "observed",
-      "title": "【 Escape the Backrooms 】うちらなら協力して現実世界に帰れるよね！？【 赤彩みあ / 月皇ちな / pepper / Yuhi 】",
-      "game": null,
-      "peakViewers": 800,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T12:32:12Z",
-      "lastSeenAt": "2026-10-05T15:56:50Z",
-      "samples": [
-        [
-          "2026-10-05T12:32:12Z",
-          711
-        ],
-        [
-          "2026-10-05T12:59:35Z",
-          800
-        ],
-        [
-          "2026-10-05T13:25:45Z",
-          668
-        ],
-        [
-          "2026-10-05T13:47:36Z",
-          569
-        ],
-        [
-          "2026-10-05T14:04:19Z",
-          535
-        ],
-        [
-          "2026-10-05T14:30:44Z",
-          474
-        ],
-        [
-          "2026-10-05T14:55:05Z",
-          450
-        ],
-        [
-          "2026-10-05T15:15:00Z",
-          425
-        ],
-        [
-          "2026-10-05T15:38:27Z",
-          398
-        ],
-        [
-          "2026-10-05T15:56:50Z",
-          399
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "xt8W_tMuytc",
-      "start": "2026-10-05T13:25:45Z",
-      "startSource": "observed",
-      "title": "【 LoL 】サミーラでランクをやってみようの巻【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 23,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T13:25:45Z",
-      "lastSeenAt": "2026-10-05T15:56:50Z",
-      "samples": [
-        [
-          "2026-10-05T13:25:45Z",
-          12
-        ],
-        [
-          "2026-10-05T13:47:36Z",
-          19
-        ],
-        [
-          "2026-10-05T14:04:19Z",
-          16
-        ],
-        [
-          "2026-10-05T14:30:44Z",
-          19
-        ],
-        [
-          "2026-10-05T14:55:05Z",
-          14
-        ],
-        [
-          "2026-10-05T15:15:00Z",
-          13
-        ],
-        [
-          "2026-10-05T15:38:27Z",
-          23
-        ],
-        [
-          "2026-10-05T15:56:50Z",
-          17
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -32836,6 +32733,114 @@
         [
           "2026-10-05T14:30:44Z",
           146
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "lXNcfwmXLEY",
+      "videoUrl": "https://www.youtube.com/watch?v=lXNcfwmXLEY",
+      "start": "2026-10-05T12:32:12Z",
+      "end": "2026-10-05T16:17:16Z",
+      "minutes": 225.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 Escape the Backrooms 】うちらなら協力して現実世界に帰れるよね！？【 赤彩みあ / 月皇ちな / pepper / Yuhi 】",
+      "game": null,
+      "peakViewers": 800,
+      "avgViewers": 552.0,
+      "samples": [
+        [
+          "2026-10-05T12:32:12Z",
+          711
+        ],
+        [
+          "2026-10-05T12:59:35Z",
+          800
+        ],
+        [
+          "2026-10-05T13:25:45Z",
+          668
+        ],
+        [
+          "2026-10-05T13:47:36Z",
+          569
+        ],
+        [
+          "2026-10-05T14:04:19Z",
+          535
+        ],
+        [
+          "2026-10-05T14:30:44Z",
+          474
+        ],
+        [
+          "2026-10-05T14:55:05Z",
+          450
+        ],
+        [
+          "2026-10-05T15:15:00Z",
+          425
+        ],
+        [
+          "2026-10-05T15:38:27Z",
+          398
+        ],
+        [
+          "2026-10-05T15:56:50Z",
+          399
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "xt8W_tMuytc",
+      "videoUrl": "https://www.youtube.com/watch?v=xt8W_tMuytc",
+      "start": "2026-10-05T13:25:45Z",
+      "end": "2026-10-05T16:17:16Z",
+      "minutes": 171.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 LoL 】サミーラでランクをやってみようの巻【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 23,
+      "avgViewers": 16.4,
+      "samples": [
+        [
+          "2026-10-05T13:25:45Z",
+          12
+        ],
+        [
+          "2026-10-05T13:47:36Z",
+          19
+        ],
+        [
+          "2026-10-05T14:04:19Z",
+          16
+        ],
+        [
+          "2026-10-05T14:30:44Z",
+          19
+        ],
+        [
+          "2026-10-05T14:55:05Z",
+          14
+        ],
+        [
+          "2026-10-05T15:15:00Z",
+          13
+        ],
+        [
+          "2026-10-05T15:38:27Z",
+          23
+        ],
+        [
+          "2026-10-05T15:56:50Z",
+          17
         ]
       ],
       "isTargetGame": false
