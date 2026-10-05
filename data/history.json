@@ -1,39 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "iMglBC6CdzM",
-      "start": "2026-10-05T06:19:15Z",
-      "startSource": "observed",
-      "title": "【#歌枠 】お昼のヌーンおうたわよ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 945,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T06:19:15Z",
-      "lastSeenAt": "2026-10-05T07:32:00Z",
-      "samples": [
-        [
-          "2026-10-05T06:19:15Z",
-          599
-        ],
-        [
-          "2026-10-05T06:49:14Z",
-          945
-        ],
-        [
-          "2026-10-05T07:08:32Z",
-          1
-        ],
-        [
-          "2026-10-05T07:32:00Z",
-          1
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -32453,6 +32421,40 @@
         [
           "2026-10-05T01:51:20Z",
           19
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "iMglBC6CdzM",
+      "videoUrl": "https://www.youtube.com/watch?v=iMglBC6CdzM",
+      "start": "2026-10-05T06:19:15Z",
+      "end": "2026-10-05T07:54:11Z",
+      "minutes": 94.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#歌枠 】お昼のヌーンおうたわよ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 945,
+      "avgViewers": 373.7,
+      "samples": [
+        [
+          "2026-10-05T06:19:15Z",
+          599
+        ],
+        [
+          "2026-10-05T06:49:14Z",
+          945
+        ],
+        [
+          "2026-10-05T07:08:32Z",
+          1
+        ],
+        [
+          "2026-10-05T07:32:00Z",
+          1
         ]
       ],
       "isTargetGame": false
