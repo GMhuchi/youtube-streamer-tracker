@@ -1,47 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCNGMMdEgYIUR6rC44v9aZ8w": {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "qWy7ly2HDvQ",
-      "start": "2026-10-05T08:15:30Z",
-      "startSource": "observed",
-      "title": "かえってきたぞ皆の衆記念雑談　そしてAPEXへ【ネオポルテ／瀬尾カザリ】",
-      "game": null,
-      "peakViewers": 33,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T08:15:30Z",
-      "lastSeenAt": "2026-10-05T10:02:37Z",
-      "samples": [
-        [
-          "2026-10-05T08:15:30Z",
-          29
-        ],
-        [
-          "2026-10-05T08:39:14Z",
-          33
-        ],
-        [
-          "2026-10-05T08:57:51Z",
-          29
-        ],
-        [
-          "2026-10-05T09:21:39Z",
-          24
-        ],
-        [
-          "2026-10-05T09:46:19Z",
-          27
-        ],
-        [
-          "2026-10-05T10:02:37Z",
-          29
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -32495,6 +32455,48 @@
         [
           "2026-10-05T07:32:00Z",
           1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "qWy7ly2HDvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qWy7ly2HDvQ",
+      "start": "2026-10-05T08:15:30Z",
+      "end": "2026-10-05T10:27:51Z",
+      "minutes": 132.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "かえってきたぞ皆の衆記念雑談　そしてAPEXへ【ネオポルテ／瀬尾カザリ】",
+      "game": null,
+      "peakViewers": 33,
+      "avgViewers": 28.4,
+      "samples": [
+        [
+          "2026-10-05T08:15:30Z",
+          29
+        ],
+        [
+          "2026-10-05T08:39:14Z",
+          33
+        ],
+        [
+          "2026-10-05T08:57:51Z",
+          29
+        ],
+        [
+          "2026-10-05T09:21:39Z",
+          24
+        ],
+        [
+          "2026-10-05T09:46:19Z",
+          27
+        ],
+        [
+          "2026-10-05T10:02:37Z",
+          29
         ]
       ],
       "isTargetGame": false

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T10:02:37Z",
+  "updatedAt": "2026-10-05T10:27:51Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,157 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1744.7,
+      "totalMinutes": 1769.9,
       "gameMinutes": 0.0,
-      "totalHours": 29.08,
+      "totalHours": 29.5,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 132.7,
+      "avgViewers": 131.1,
       "peakViewers": 945
     },
     "week": {
-      "totalMinutes": 1744.7,
+      "totalMinutes": 1769.9,
       "gameMinutes": 0.0,
-      "totalHours": 29.08,
+      "totalHours": 29.5,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 132.7,
+      "avgViewers": 131.1,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 14940.0,
+      "totalMinutes": 14965.2,
       "gameMinutes": 0.0,
-      "totalHours": 249.0,
+      "totalHours": 249.42,
       "gameHours": 0.0,
       "sessions": 65,
-      "avgViewers": 121.6,
+      "avgViewers": 121.4,
       "peakViewers": 997
     }
   },
   "channels": [
-    {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
-      "isLive": true,
-      "liveSince": "2026-10-05T08:15:30Z",
-      "liveTitle": "かえってきたぞ皆の衆記念雑談　そしてAPEXへ【ネオポルテ／瀬尾カザリ】",
-      "lastEnd": "2026-09-20T08:47:38Z",
-      "lastTitle": "【APEX】今日もあのメンバーでAPEXです、か。【瀬尾カザリ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 107.1,
-          "gameMinutes": 0.0,
-          "totalHours": 1.79,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 28.4,
-          "peakViewers": 33
-        },
-        "week": {
-          "totalMinutes": 107.1,
-          "gameMinutes": 0.0,
-          "totalHours": 1.79,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 28.4,
-          "peakViewers": 33
-        },
-        "month": {
-          "totalMinutes": 107.1,
-          "gameMinutes": 0.0,
-          "totalHours": 1.79,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 28.4,
-          "peakViewers": 33
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "lkDt-wlEiME",
-          "videoUrl": "https://www.youtube.com/watch?v=lkDt-wlEiME",
-          "start": "2026-09-20T06:37:37Z",
-          "end": "2026-09-20T08:47:38Z",
-          "minutes": 130,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【APEX】今日もあのメンバーでAPEXです、か。【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 53,
-          "avgViewers": 40.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "3OVkjc3wxuQ",
-          "videoUrl": "https://www.youtube.com/watch?v=3OVkjc3wxuQ",
-          "start": "2026-09-16T10:00:44Z",
-          "end": "2026-09-16T12:49:54Z",
-          "minutes": 169.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【エターナルリターン】肉食おうぜ！肉！いくぜ４２８０円！【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 25,
-          "avgViewers": 21.5,
-          "samples": [],
-          "isTargetGame": true
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "AKFRh-H3Q2Y",
-          "videoUrl": "https://www.youtube.com/watch?v=AKFRh-H3Q2Y",
-          "start": "2026-09-12T12:15:12Z",
-          "end": "2026-09-12T14:46:24Z",
-          "minutes": 151.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【BIGWALK】赤ｷﾞｬｿのみんなとBIGWALKしまつ【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 30,
-          "avgViewers": 25.7,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 29,
-      "livePeakViewers": 33,
-      "liveAvgViewers": 28.4,
-      "liveSamples": [
-        [
-          "2026-10-05T08:15:30Z",
-          29
-        ],
-        [
-          "2026-10-05T08:39:14Z",
-          33
-        ],
-        [
-          "2026-10-05T08:57:51Z",
-          29
-        ],
-        [
-          "2026-10-05T09:21:39Z",
-          24
-        ],
-        [
-          "2026-10-05T09:46:19Z",
-          27
-        ],
-        [
-          "2026-10-05T10:02:37Z",
-          29
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=qWy7ly2HDvQ"
-    },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -4754,6 +4631,141 @@
       ]
     },
     {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-05T10:27:51Z",
+      "lastTitle": "かえってきたぞ皆の衆記念雑談　そしてAPEXへ【ネオポルテ／瀬尾カザリ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 132.3,
+          "gameMinutes": 0.0,
+          "totalHours": 2.21,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 28.4,
+          "peakViewers": 33
+        },
+        "week": {
+          "totalMinutes": 132.3,
+          "gameMinutes": 0.0,
+          "totalHours": 2.21,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 28.4,
+          "peakViewers": 33
+        },
+        "month": {
+          "totalMinutes": 132.3,
+          "gameMinutes": 0.0,
+          "totalHours": 2.21,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 28.4,
+          "peakViewers": 33
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "qWy7ly2HDvQ",
+          "videoUrl": "https://www.youtube.com/watch?v=qWy7ly2HDvQ",
+          "start": "2026-10-05T08:15:30Z",
+          "end": "2026-10-05T10:27:51Z",
+          "minutes": 132.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "かえってきたぞ皆の衆記念雑談　そしてAPEXへ【ネオポルテ／瀬尾カザリ】",
+          "game": null,
+          "peakViewers": 33,
+          "avgViewers": 28.4,
+          "samples": [
+            [
+              "2026-10-05T08:15:30Z",
+              29
+            ],
+            [
+              "2026-10-05T08:39:14Z",
+              33
+            ],
+            [
+              "2026-10-05T08:57:51Z",
+              29
+            ],
+            [
+              "2026-10-05T09:21:39Z",
+              24
+            ],
+            [
+              "2026-10-05T09:46:19Z",
+              27
+            ],
+            [
+              "2026-10-05T10:02:37Z",
+              29
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "lkDt-wlEiME",
+          "videoUrl": "https://www.youtube.com/watch?v=lkDt-wlEiME",
+          "start": "2026-09-20T06:37:37Z",
+          "end": "2026-09-20T08:47:38Z",
+          "minutes": 130,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【APEX】今日もあのメンバーでAPEXです、か。【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 53,
+          "avgViewers": 40.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "3OVkjc3wxuQ",
+          "videoUrl": "https://www.youtube.com/watch?v=3OVkjc3wxuQ",
+          "start": "2026-09-16T10:00:44Z",
+          "end": "2026-09-16T12:49:54Z",
+          "minutes": 169.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【エターナルリターン】肉食おうぜ！肉！いくぜ４２８０円！【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 25,
+          "avgViewers": 21.5,
+          "samples": [],
+          "isTargetGame": true
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "AKFRh-H3Q2Y",
+          "videoUrl": "https://www.youtube.com/watch?v=AKFRh-H3Q2Y",
+          "start": "2026-09-12T12:15:12Z",
+          "end": "2026-09-12T14:46:24Z",
+          "minutes": 151.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【BIGWALK】赤ｷﾞｬｿのみんなとBIGWALKしまつ【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 30,
+          "avgViewers": 25.7,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
       "registered": true,
@@ -5305,6 +5317,22 @@
     }
   ],
   "recentSessions": [
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "qWy7ly2HDvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qWy7ly2HDvQ",
+      "start": "2026-10-05T08:15:30Z",
+      "end": "2026-10-05T10:27:51Z",
+      "minutes": 132.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "かえってきたぞ皆の衆記念雑談　そしてAPEXへ【ネオポルテ／瀬尾カザリ】",
+      "game": null,
+      "peakViewers": 33,
+      "avgViewers": 28.4,
+      "isTargetGame": false
+    },
     {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
@@ -6247,22 +6275,6 @@
       "game": null,
       "peakViewers": 46,
       "avgViewers": 33.9,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "WT1XCA5uKdE",
-      "videoUrl": "https://www.youtube.com/watch?v=WT1XCA5uKdE",
-      "start": "2026-10-01T09:01:45Z",
-      "end": "2026-10-01T18:16:06Z",
-      "minutes": 554.4,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 天下無双ARK 】わくわくのアプデ後新生物！！！テイムするぜ【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 16,
-      "avgViewers": 10.0,
       "isTargetGame": false
     }
   ]
