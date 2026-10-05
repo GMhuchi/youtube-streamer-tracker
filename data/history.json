@@ -13,7 +13,7 @@
       "peakViewers": 800,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-05T12:32:12Z",
-      "lastSeenAt": "2026-10-05T14:30:44Z",
+      "lastSeenAt": "2026-10-05T14:55:05Z",
       "samples": [
         [
           "2026-10-05T12:32:12Z",
@@ -38,45 +38,10 @@
         [
           "2026-10-05T14:30:44Z",
           474
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "5QlCAVjwhU8",
-      "start": "2026-10-05T12:32:12Z",
-      "startSource": "observed",
-      "title": "【めっちゃカメレオン】二次会チャハーン w/PARADOX【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 154,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T12:32:12Z",
-      "lastSeenAt": "2026-10-05T14:30:44Z",
-      "samples": [
-        [
-          "2026-10-05T12:32:12Z",
-          154
         ],
         [
-          "2026-10-05T12:59:35Z",
-          141
-        ],
-        [
-          "2026-10-05T13:25:45Z",
-          152
-        ],
-        [
-          "2026-10-05T13:47:36Z",
-          137
-        ],
-        [
-          "2026-10-05T14:04:19Z",
-          134
-        ],
-        [
-          "2026-10-05T14:30:44Z",
-          146
+          "2026-10-05T14:55:05Z",
+          450
         ]
       ]
     },
@@ -91,7 +56,7 @@
       "peakViewers": 19,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-05T13:25:45Z",
-      "lastSeenAt": "2026-10-05T14:30:44Z",
+      "lastSeenAt": "2026-10-05T14:55:05Z",
       "samples": [
         [
           "2026-10-05T13:25:45Z",
@@ -108,6 +73,10 @@
         [
           "2026-10-05T14:30:44Z",
           19
+        ],
+        [
+          "2026-10-05T14:55:05Z",
+          14
         ]
       ]
     }
@@ -32801,6 +32770,48 @@
         [
           "2026-10-05T12:32:12Z",
           12
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "5QlCAVjwhU8",
+      "videoUrl": "https://www.youtube.com/watch?v=5QlCAVjwhU8",
+      "start": "2026-10-05T12:32:12Z",
+      "end": "2026-10-05T14:55:05Z",
+      "minutes": 142.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【めっちゃカメレオン】二次会チャハーン w/PARADOX【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 154,
+      "avgViewers": 144.3,
+      "samples": [
+        [
+          "2026-10-05T12:32:12Z",
+          154
+        ],
+        [
+          "2026-10-05T12:59:35Z",
+          141
+        ],
+        [
+          "2026-10-05T13:25:45Z",
+          152
+        ],
+        [
+          "2026-10-05T13:47:36Z",
+          137
+        ],
+        [
+          "2026-10-05T14:04:19Z",
+          134
+        ],
+        [
+          "2026-10-05T14:30:44Z",
+          146
         ]
       ],
       "isTargetGame": false
