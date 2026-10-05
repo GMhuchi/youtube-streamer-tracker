@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T21:44:27Z",
+  "updatedAt": "2026-10-05T21:59:36Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 154.5,
+      "totalMinutes": 169.7,
       "gameMinutes": 0.0,
-      "totalHours": 2.58,
+      "totalHours": 2.83,
       "gameHours": 0.0,
       "sessions": 3,
-      "avgViewers": 284.2,
+      "avgViewers": 296.5,
       "peakViewers": 800
     },
     "week": {
-      "totalMinutes": 2933.6,
+      "totalMinutes": 2948.7,
       "gameMinutes": 0.0,
-      "totalHours": 48.89,
+      "totalHours": 49.15,
       "gameHours": 0.0,
       "sessions": 22,
-      "avgViewers": 150.2,
+      "avgViewers": 151.6,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 16128.8,
+      "totalMinutes": 16144.0,
       "gameMinutes": 0.0,
-      "totalHours": 268.81,
+      "totalHours": 269.07,
       "gameHours": 0.0,
       "sessions": 75,
-      "avgViewers": 125.5,
+      "avgViewers": 125.8,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【朝活/雑談】#299［2026.10/5］月曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 15.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.25,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 332.0,
-          "peakViewers": 332
+          "avgViewers": 422.0,
+          "peakViewers": 512
         },
         "week": {
-          "totalMinutes": 123.4,
+          "totalMinutes": 138.5,
           "gameMinutes": 0.0,
-          "totalHours": 2.06,
+          "totalHours": 2.31,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 428.0,
-          "peakViewers": 469
+          "avgViewers": 427.3,
+          "peakViewers": 512
         },
         "month": {
-          "totalMinutes": 1632.1,
+          "totalMinutes": 1647.2,
           "gameMinutes": 0.0,
-          "totalHours": 27.2,
+          "totalHours": 27.45,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 655.5,
+          "avgViewers": 653.3,
           "peakViewers": 988
         }
       },
@@ -356,13 +356,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 332,
-      "livePeakViewers": 332,
-      "liveAvgViewers": 332.0,
+      "liveViewers": 512,
+      "livePeakViewers": 512,
+      "liveAvgViewers": 422.0,
       "liveSamples": [
         [
           "2026-10-05T21:44:27Z",
           332
+        ],
+        [
+          "2026-10-05T21:59:36Z",
+          512
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=jyxDis5waO8"
