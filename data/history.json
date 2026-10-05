@@ -2,49 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "PrYfT_RtkZw",
-      "start": "2026-10-05T10:49:00Z",
-      "startSource": "observed",
-      "title": "〚雑談 〛初の歌みた皆きいてくれたかな？？〚 甘成じゅい/ゆにれいど！ 〛",
-      "game": null,
-      "peakViewers": 54,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T10:49:00Z",
-      "lastSeenAt": "2026-10-05T12:59:35Z",
-      "samples": [
-        [
-          "2026-10-05T10:49:00Z",
-          24
-        ],
-        [
-          "2026-10-05T11:02:26Z",
-          29
-        ],
-        [
-          "2026-10-05T11:25:44Z",
-          46
-        ],
-        [
-          "2026-10-05T11:46:51Z",
-          54
-        ],
-        [
-          "2026-10-05T12:01:04Z",
-          46
-        ],
-        [
-          "2026-10-05T12:32:12Z",
-          46
-        ],
-        [
-          "2026-10-05T12:59:35Z",
-          51
-        ]
-      ]
-    },
     "UCo3zRhsnXIieauvm6c-xwkA": {
       "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
       "name": "七乃羽すず",
@@ -56,7 +13,7 @@
       "peakViewers": 90,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-05T11:02:26Z",
-      "lastSeenAt": "2026-10-05T12:59:35Z",
+      "lastSeenAt": "2026-10-05T13:25:45Z",
       "samples": [
         [
           "2026-10-05T11:02:26Z",
@@ -81,37 +38,10 @@
         [
           "2026-10-05T12:59:35Z",
           90
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "5lebECo6TiY",
-      "start": "2026-10-05T11:46:51Z",
-      "startSource": "observed",
-      "title": "【歌枠】仮装はしなかったけど新しい歌唱法を習得しました【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 145,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T11:46:51Z",
-      "lastSeenAt": "2026-10-05T12:59:35Z",
-      "samples": [
-        [
-          "2026-10-05T11:46:51Z",
-          110
         ],
         [
-          "2026-10-05T12:01:04Z",
-          129
-        ],
-        [
-          "2026-10-05T12:32:12Z",
-          138
-        ],
-        [
-          "2026-10-05T12:59:35Z",
-          145
+          "2026-10-05T13:25:45Z",
+          78
         ]
       ]
     },
@@ -126,7 +56,7 @@
       "peakViewers": 800,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-05T12:32:12Z",
-      "lastSeenAt": "2026-10-05T12:59:35Z",
+      "lastSeenAt": "2026-10-05T13:25:45Z",
       "samples": [
         [
           "2026-10-05T12:32:12Z",
@@ -135,6 +65,10 @@
         [
           "2026-10-05T12:59:35Z",
           800
+        ],
+        [
+          "2026-10-05T13:25:45Z",
+          668
         ]
       ]
     },
@@ -149,7 +83,7 @@
       "peakViewers": 154,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-05T12:32:12Z",
-      "lastSeenAt": "2026-10-05T12:59:35Z",
+      "lastSeenAt": "2026-10-05T13:25:45Z",
       "samples": [
         [
           "2026-10-05T12:32:12Z",
@@ -158,6 +92,29 @@
         [
           "2026-10-05T12:59:35Z",
           141
+        ],
+        [
+          "2026-10-05T13:25:45Z",
+          152
+        ]
+      ]
+    },
+    "UC1_HUmjQShLtT_MuZjry3hQ": {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "xt8W_tMuytc",
+      "start": "2026-10-05T13:25:45Z",
+      "startSource": "observed",
+      "title": "【 LoL 】サミーラでランクをやってみようの巻【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 12,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-05T13:25:45Z",
+      "lastSeenAt": "2026-10-05T13:25:45Z",
+      "samples": [
+        [
+          "2026-10-05T13:25:45Z",
+          12
         ]
       ]
     }
@@ -32662,6 +32619,52 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "PrYfT_RtkZw",
+      "videoUrl": "https://www.youtube.com/watch?v=PrYfT_RtkZw",
+      "start": "2026-10-05T10:49:00Z",
+      "end": "2026-10-05T13:25:45Z",
+      "minutes": 156.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚雑談 〛初の歌みた皆きいてくれたかな？？〚 甘成じゅい/ゆにれいど！ 〛",
+      "game": null,
+      "peakViewers": 54,
+      "avgViewers": 42.9,
+      "samples": [
+        [
+          "2026-10-05T10:49:00Z",
+          24
+        ],
+        [
+          "2026-10-05T11:02:26Z",
+          29
+        ],
+        [
+          "2026-10-05T11:25:44Z",
+          46
+        ],
+        [
+          "2026-10-05T11:46:51Z",
+          54
+        ],
+        [
+          "2026-10-05T12:01:04Z",
+          46
+        ],
+        [
+          "2026-10-05T12:32:12Z",
+          46
+        ],
+        [
+          "2026-10-05T12:59:35Z",
+          51
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
       "videoId": "TAHDNlfRMus",
@@ -32691,6 +32694,40 @@
         [
           "2026-10-05T12:32:12Z",
           261
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "5lebECo6TiY",
+      "videoUrl": "https://www.youtube.com/watch?v=5lebECo6TiY",
+      "start": "2026-10-05T11:46:51Z",
+      "end": "2026-10-05T13:25:45Z",
+      "minutes": 98.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【歌枠】仮装はしなかったけど新しい歌唱法を習得しました【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 145,
+      "avgViewers": 132.8,
+      "samples": [
+        [
+          "2026-10-05T11:46:51Z",
+          110
+        ],
+        [
+          "2026-10-05T12:01:04Z",
+          129
+        ],
+        [
+          "2026-10-05T12:32:12Z",
+          138
+        ],
+        [
+          "2026-10-05T12:59:35Z",
+          145
         ]
       ],
       "isTargetGame": false
