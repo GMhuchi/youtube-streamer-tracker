@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:44:59Z",
+  "updatedAt": "2026-10-06T10:59:58Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 403.3,
+      "totalMinutes": 418.3,
       "gameMinutes": 0.0,
-      "totalHours": 6.72,
+      "totalHours": 6.97,
       "gameHours": 0.0,
       "sessions": 5,
-      "avgViewers": 274.1,
+      "avgViewers": 281.6,
       "peakViewers": 800
     },
     "week": {
-      "totalMinutes": 3182.4,
+      "totalMinutes": 3197.3,
       "gameMinutes": 0.0,
-      "totalHours": 53.04,
+      "totalHours": 53.29,
       "gameHours": 0.0,
       "sessions": 24,
-      "avgViewers": 159.6,
+      "avgViewers": 161.1,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 16377.6,
+      "totalMinutes": 16392.6,
       "gameMinutes": 0.0,
-      "totalHours": 272.96,
+      "totalHours": 273.21,
       "gameHours": 0.0,
       "sessions": 77,
-      "avgViewers": 127.7,
+      "avgViewers": 128.0,
       "peakViewers": 997
     }
   },
@@ -56,31 +56,31 @@
       "lastTitle": "〖 APEX 〗 今スプは必ずダイヤへ〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 19.3,
+          "totalMinutes": 34.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.32,
+          "totalHours": 0.57,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 418.5,
-          "peakViewers": 502
+          "avgViewers": 447.4,
+          "peakViewers": 526
         },
         "week": {
-          "totalMinutes": 19.3,
+          "totalMinutes": 34.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.32,
+          "totalHours": 0.57,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 418.5,
-          "peakViewers": 502
+          "avgViewers": 447.4,
+          "peakViewers": 526
         },
         "month": {
-          "totalMinutes": 19.3,
+          "totalMinutes": 34.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.32,
+          "totalHours": 0.57,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 418.5,
-          "peakViewers": 502
+          "avgViewers": 447.4,
+          "peakViewers": 526
         }
       },
       "recentSessions": [
@@ -315,9 +315,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 502,
-      "livePeakViewers": 502,
-      "liveAvgViewers": 418.5,
+      "liveViewers": 526,
+      "livePeakViewers": 526,
+      "liveAvgViewers": 447.4,
       "liveSamples": [
         [
           "2026-10-06T10:25:44Z",
@@ -326,6 +326,10 @@
         [
           "2026-10-06T10:44:59Z",
           502
+        ],
+        [
+          "2026-10-06T10:59:58Z",
+          526
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Fz3_kfGrfOg"
