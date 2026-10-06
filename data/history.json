@@ -1,51 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "sow-A3IC03Q",
-      "start": "2026-10-05T22:34:54Z",
-      "startSource": "observed",
-      "title": "【目標：レジェンド リュウ レバー】MRを気にするより間合いを気にしろ！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 27,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-05T22:34:54Z",
-      "lastSeenAt": "2026-10-06T00:18:31Z",
-      "samples": [
-        [
-          "2026-10-05T22:34:54Z",
-          7
-        ],
-        [
-          "2026-10-05T22:50:28Z",
-          9
-        ],
-        [
-          "2026-10-05T23:01:23Z",
-          13
-        ],
-        [
-          "2026-10-05T23:21:48Z",
-          26
-        ],
-        [
-          "2026-10-05T23:40:09Z",
-          26
-        ],
-        [
-          "2026-10-05T23:52:35Z",
-          23
-        ],
-        [
-          "2026-10-06T00:18:31Z",
-          27
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -32944,6 +32900,52 @@
         [
           "2026-10-05T23:01:23Z",
           668
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "sow-A3IC03Q",
+      "videoUrl": "https://www.youtube.com/watch?v=sow-A3IC03Q",
+      "start": "2026-10-05T22:34:54Z",
+      "end": "2026-10-06T00:47:05Z",
+      "minutes": 132.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【目標：レジェンド リュウ レバー】MRを気にするより間合いを気にしろ！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 27,
+      "avgViewers": 19.3,
+      "samples": [
+        [
+          "2026-10-05T22:34:54Z",
+          7
+        ],
+        [
+          "2026-10-05T22:50:28Z",
+          9
+        ],
+        [
+          "2026-10-05T23:01:23Z",
+          13
+        ],
+        [
+          "2026-10-05T23:21:48Z",
+          26
+        ],
+        [
+          "2026-10-05T23:40:09Z",
+          26
+        ],
+        [
+          "2026-10-05T23:52:35Z",
+          23
+        ],
+        [
+          "2026-10-06T00:18:31Z",
+          27
         ]
       ],
       "isTargetGame": false
