@@ -13,7 +13,7 @@
       "peakViewers": 526,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T10:25:44Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
+      "lastSeenAt": "2026-10-06T13:27:30Z",
       "samples": [
         [
           "2026-10-06T10:25:44Z",
@@ -50,6 +50,10 @@
         [
           "2026-10-06T13:04:16Z",
           327
+        ],
+        [
+          "2026-10-06T13:27:30Z",
+          332
         ]
       ]
     },
@@ -64,7 +68,7 @@
       "peakViewers": 889,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T11:20:13Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
+      "lastSeenAt": "2026-10-06T13:27:30Z",
       "samples": [
         [
           "2026-10-06T11:20:13Z",
@@ -89,6 +93,10 @@
         [
           "2026-10-06T13:04:16Z",
           889
+        ],
+        [
+          "2026-10-06T13:27:30Z",
+          799
         ]
       ]
     },
@@ -103,7 +111,7 @@
       "peakViewers": 56,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T11:20:13Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
+      "lastSeenAt": "2026-10-06T13:27:30Z",
       "samples": [
         [
           "2026-10-06T11:20:13Z",
@@ -128,6 +136,10 @@
         [
           "2026-10-06T13:04:16Z",
           53
+        ],
+        [
+          "2026-10-06T13:27:30Z",
+          44
         ]
       ]
     },
@@ -142,7 +154,7 @@
       "peakViewers": 62,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T11:43:23Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
+      "lastSeenAt": "2026-10-06T13:27:30Z",
       "samples": [
         [
           "2026-10-06T11:43:23Z",
@@ -163,22 +175,12 @@
         [
           "2026-10-06T13:04:16Z",
           32
+        ],
+        [
+          "2026-10-06T13:27:30Z",
+          32
         ]
       ]
-    },
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "V7EPkRu1A7Y",
-      "start": "2026-10-06T11:59:50Z",
-      "startSource": "observed",
-      "title": "【メン限】おはなししよう【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-06T11:59:50Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
-      "samples": []
     },
     "UCB-aip0wsqKQPcrLW1BBJaw": {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
@@ -191,7 +193,7 @@
       "peakViewers": 125,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T12:25:31Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
+      "lastSeenAt": "2026-10-06T13:27:30Z",
       "samples": [
         [
           "2026-10-06T12:25:31Z",
@@ -204,6 +206,10 @@
         [
           "2026-10-06T13:04:16Z",
           125
+        ],
+        [
+          "2026-10-06T13:27:30Z",
+          103
         ]
       ]
     },
@@ -218,7 +224,7 @@
       "peakViewers": 42,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T12:48:44Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
+      "lastSeenAt": "2026-10-06T13:27:30Z",
       "samples": [
         [
           "2026-10-06T12:48:44Z",
@@ -227,6 +233,10 @@
         [
           "2026-10-06T13:04:16Z",
           42
+        ],
+        [
+          "2026-10-06T13:27:30Z",
+          38
         ]
       ]
     },
@@ -241,11 +251,15 @@
       "peakViewers": 13,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T13:04:16Z",
-      "lastSeenAt": "2026-10-06T13:04:16Z",
+      "lastSeenAt": "2026-10-06T13:27:30Z",
       "samples": [
         [
           "2026-10-06T13:04:16Z",
           13
+        ],
+        [
+          "2026-10-06T13:27:30Z",
+          12
         ]
       ]
     }
@@ -33196,6 +33210,23 @@
           27
         ]
       ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "V7EPkRu1A7Y",
+      "videoUrl": "https://www.youtube.com/watch?v=V7EPkRu1A7Y",
+      "start": "2026-10-06T11:46:46Z",
+      "end": "2026-10-06T13:14:36Z",
+      "minutes": 87.8,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【メン限】おはなししよう【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
       "isTargetGame": false
     }
   ]
