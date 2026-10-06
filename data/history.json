@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "Fz3_kfGrfOg",
+      "start": "2026-10-06T10:25:44Z",
+      "startSource": "observed",
+      "title": "〖 APEX 〗 ラグに勝とうではないか！２１時からフルパ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 335,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-06T10:25:44Z",
+      "lastSeenAt": "2026-10-06T10:25:44Z",
+      "samples": [
+        [
+          "2026-10-06T10:25:44Z",
+          335
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
