@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:25:51Z",
+  "updatedAt": "2026-10-06T15:44:43Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,281 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 140.3,
+      "totalMinutes": 215.7,
       "gameMinutes": 0.0,
-      "totalHours": 2.34,
+      "totalHours": 3.6,
       "gameHours": 0.0,
       "sessions": 8,
-      "avgViewers": 141.1,
+      "avgViewers": 137.2,
       "peakViewers": 910
     },
     "week": {
-      "totalMinutes": 4798.7,
+      "totalMinutes": 4874.1,
       "gameMinutes": 0.0,
-      "totalHours": 79.98,
+      "totalHours": 81.24,
       "gameHours": 0.0,
       "sessions": 33,
-      "avgViewers": 178.7,
+      "avgViewers": 177.6,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 17993.9,
+      "totalMinutes": 18069.4,
       "gameMinutes": 0.0,
-      "totalHours": 299.9,
+      "totalHours": 301.16,
       "gameHours": 0.0,
       "sessions": 86,
-      "avgViewers": 135.5,
+      "avgViewers": 135.4,
       "peakViewers": 997
     }
   },
   "channels": [
-    {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
-      "isLive": true,
-      "liveSince": "2026-10-06T12:48:44Z",
-      "liveTitle": "【ほの暮しの庭】今日はホラー来るのか？#2【日裏クロ / ネオポルテ】",
-      "lastEnd": "2026-10-05T13:25:45Z",
-      "lastTitle": "【歌枠】仮装はしなかったけど新しい歌唱法を習得しました【日裏クロ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 25.9,
-          "gameMinutes": 0.0,
-          "totalHours": 0.43,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 46.5,
-          "peakViewers": 55
-        },
-        "week": {
-          "totalMinutes": 592.7,
-          "gameMinutes": 0.0,
-          "totalHours": 9.88,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 64.6,
-          "peakViewers": 145
-        },
-        "month": {
-          "totalMinutes": 1002.4,
-          "gameMinutes": 0.0,
-          "totalHours": 16.71,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 49.6,
-          "peakViewers": 145
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "5lebECo6TiY",
-          "videoUrl": "https://www.youtube.com/watch?v=5lebECo6TiY",
-          "start": "2026-10-05T11:46:51Z",
-          "end": "2026-10-05T13:25:45Z",
-          "minutes": 98.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】仮装はしなかったけど新しい歌唱法を習得しました【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 145,
-          "avgViewers": 132.8,
-          "samples": [
-            [
-              "2026-10-05T11:46:51Z",
-              110
-            ],
-            [
-              "2026-10-05T12:01:04Z",
-              129
-            ],
-            [
-              "2026-10-05T12:32:12Z",
-              138
-            ],
-            [
-              "2026-10-05T12:59:35Z",
-              145
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "iy-eIS9qkcs",
-          "videoUrl": "https://www.youtube.com/watch?v=iy-eIS9qkcs",
-          "start": "2026-10-04T15:04:42Z",
-          "end": "2026-10-04T20:41:23Z",
-          "minutes": 336.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほの暮しの庭】まっちゃりほの暮らしできるらしいです【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 53,
-          "avgViewers": 53.0,
-          "samples": [
-            [
-              "2026-10-04T15:04:42Z",
-              53
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "i20jhYhpbho",
-          "videoUrl": "https://www.youtube.com/watch?v=i20jhYhpbho",
-          "start": "2026-10-03T14:36:05Z",
-          "end": "2026-10-03T18:37:56Z",
-          "minutes": 241.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【天下無双ARK】最終日なので楽しみまーーす！ #7【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 26,
-          "avgViewers": 26.0,
-          "samples": [
-            [
-              "2026-10-03T14:36:05Z",
-              26
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "d3KTyGYD9uo",
-          "videoUrl": "https://www.youtube.com/watch?v=d3KTyGYD9uo",
-          "start": "2026-10-03T08:20:30Z",
-          "end": "2026-10-03T11:08:19Z",
-          "minutes": 167.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【スト6】簡易入力ってやつを覚えましたよ【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 36,
-          "avgViewers": 30.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "GXB5Qdcfv8E",
-          "videoUrl": "https://www.youtube.com/watch?v=GXB5Qdcfv8E",
-          "start": "2026-09-30T12:16:08Z",
-          "end": "2026-09-30T13:46:41Z",
-          "minutes": 90.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【妹に運転を教える】今日から僕がお兄ちゃんです。運転始めるぞ【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 61,
-          "avgViewers": 56.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "t0mBiMh9qVo",
-          "videoUrl": "https://www.youtube.com/watch?v=t0mBiMh9qVo",
-          "start": "2026-09-30T10:15:33Z",
-          "end": "2026-09-30T11:17:55Z",
-          "minutes": 62.4,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】9月の歌収録【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "HqiUCrXIhqU",
-          "videoUrl": "https://www.youtube.com/watch?v=HqiUCrXIhqU",
-          "start": "2026-09-29T14:33:16Z",
-          "end": "2026-09-29T15:50:07Z",
-          "minutes": 76.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】公式番組の疲れた体にちる【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "sp8qZsEqpEQ",
-          "videoUrl": "https://www.youtube.com/watch?v=sp8qZsEqpEQ",
-          "start": "2026-09-28T12:15:38Z",
-          "end": "2026-09-28T16:45:39Z",
-          "minutes": 270.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雀魂】あれまだ雀傑いってないんですか【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 36.9,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 44,
-      "livePeakViewers": 55,
-      "liveAvgViewers": 46.5,
-      "liveSamples": [
-        [
-          "2026-10-06T12:48:44Z",
-          40
-        ],
-        [
-          "2026-10-06T13:04:16Z",
-          42
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          38
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          42
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          55
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          54
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          48
-        ],
-        [
-          "2026-10-06T15:03:40Z",
-          52
-        ],
-        [
-          "2026-10-06T15:25:51Z",
-          44
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=e8j3SX-Z6io"
-    },
     {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
       "name": "埼凰リンネ",
@@ -303,30 +56,30 @@
       "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 25.9,
+          "totalMinutes": 44.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.43,
+          "totalHours": 0.75,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 10.0,
+          "avgViewers": 9.8,
           "peakViewers": 13
         },
         "week": {
-          "totalMinutes": 275.1,
+          "totalMinutes": 294.0,
           "gameMinutes": 0.0,
-          "totalHours": 4.59,
+          "totalHours": 4.9,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 15.1,
+          "avgViewers": 14.7,
           "peakViewers": 24
         },
         "month": {
-          "totalMinutes": 865.6,
+          "totalMinutes": 884.4,
           "gameMinutes": 0.0,
-          "totalHours": 14.43,
+          "totalHours": 14.74,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 16.7,
+          "avgViewers": 16.5,
           "peakViewers": 28
         }
       },
@@ -537,7 +290,7 @@
       ],
       "liveViewers": 8,
       "livePeakViewers": 13,
-      "liveAvgViewers": 10.0,
+      "liveAvgViewers": 9.8,
       "liveSamples": [
         [
           "2026-10-06T13:04:16Z",
@@ -570,6 +323,10 @@
         [
           "2026-10-06T15:25:51Z",
           8
+        ],
+        [
+          "2026-10-06T15:44:43Z",
+          8
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=53sfg9PU7Vw"
@@ -586,30 +343,30 @@
       "lastTitle": "歌うます。聴いてくれますか。 #歌枠 【甘音あむ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 25.9,
+          "totalMinutes": 44.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.43,
+          "totalHours": 0.75,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 108.2,
+          "avgViewers": 112.8,
           "peakViewers": 143
         },
         "week": {
-          "totalMinutes": 512.8,
+          "totalMinutes": 531.6,
           "gameMinutes": 0.0,
-          "totalHours": 8.55,
+          "totalHours": 8.86,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 200.1,
+          "avgViewers": 197.7,
           "peakViewers": 278
         },
         "month": {
-          "totalMinutes": 512.8,
+          "totalMinutes": 531.6,
           "gameMinutes": 0.0,
-          "totalHours": 8.55,
+          "totalHours": 8.86,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 200.1,
+          "avgViewers": 197.7,
           "peakViewers": 278
         }
       },
@@ -794,9 +551,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 143,
+      "liveViewers": 139,
       "livePeakViewers": 143,
-      "liveAvgViewers": 108.2,
+      "liveAvgViewers": 112.8,
       "liveSamples": [
         [
           "2026-10-06T14:03:38Z",
@@ -817,6 +574,10 @@
         [
           "2026-10-06T15:25:51Z",
           143
+        ],
+        [
+          "2026-10-06T15:44:43Z",
+          139
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Lrhcl7uqGIE"
@@ -833,30 +594,30 @@
       "lastTitle": "〖 APEX 〗 今スプは必ずダイヤへ〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 25.9,
+          "totalMinutes": 44.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.43,
+          "totalHours": 0.75,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 360.9,
+          "avgViewers": 354.3,
           "peakViewers": 526
         },
         "week": {
-          "totalMinutes": 300.1,
+          "totalMinutes": 319.0,
           "gameMinutes": 0.0,
-          "totalHours": 5.0,
+          "totalHours": 5.32,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 360.9,
+          "avgViewers": 354.3,
           "peakViewers": 526
         },
         "month": {
-          "totalMinutes": 300.1,
+          "totalMinutes": 319.0,
           "gameMinutes": 0.0,
-          "totalHours": 5.0,
+          "totalHours": 5.32,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 360.9,
+          "avgViewers": 354.3,
           "peakViewers": 526
         }
       },
@@ -1092,9 +853,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 243,
+      "liveViewers": 242,
       "livePeakViewers": 526,
-      "liveAvgViewers": 360.9,
+      "liveAvgViewers": 354.3,
       "liveSamples": [
         [
           "2026-10-06T10:25:44Z",
@@ -1159,6 +920,10 @@
         [
           "2026-10-06T15:25:51Z",
           243
+        ],
+        [
+          "2026-10-06T15:44:43Z",
+          242
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Fz3_kfGrfOg"
@@ -3379,6 +3144,243 @@
       ]
     },
     {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-06T15:44:43Z",
+      "lastTitle": "【ほの暮しの庭】今日はホラー来るのか？#2【日裏クロ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 44.7,
+          "gameMinutes": 0.0,
+          "totalHours": 0.75,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 46.5,
+          "peakViewers": 55
+        },
+        "week": {
+          "totalMinutes": 611.6,
+          "gameMinutes": 0.0,
+          "totalHours": 10.19,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 64.0,
+          "peakViewers": 145
+        },
+        "month": {
+          "totalMinutes": 1021.2,
+          "gameMinutes": 0.0,
+          "totalHours": 17.02,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 49.5,
+          "peakViewers": 145
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "e8j3SX-Z6io",
+          "videoUrl": "https://www.youtube.com/watch?v=e8j3SX-Z6io",
+          "start": "2026-10-06T12:48:44Z",
+          "end": "2026-10-06T15:44:43Z",
+          "minutes": 176.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほの暮しの庭】今日はホラー来るのか？#2【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 55,
+          "avgViewers": 46.5,
+          "samples": [
+            [
+              "2026-10-06T12:48:44Z",
+              40
+            ],
+            [
+              "2026-10-06T13:04:16Z",
+              42
+            ],
+            [
+              "2026-10-06T13:27:30Z",
+              38
+            ],
+            [
+              "2026-10-06T13:48:13Z",
+              42
+            ],
+            [
+              "2026-10-06T14:03:38Z",
+              55
+            ],
+            [
+              "2026-10-06T14:27:23Z",
+              54
+            ],
+            [
+              "2026-10-06T14:47:36Z",
+              48
+            ],
+            [
+              "2026-10-06T15:03:40Z",
+              52
+            ],
+            [
+              "2026-10-06T15:25:51Z",
+              44
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "5lebECo6TiY",
+          "videoUrl": "https://www.youtube.com/watch?v=5lebECo6TiY",
+          "start": "2026-10-05T11:46:51Z",
+          "end": "2026-10-05T13:25:45Z",
+          "minutes": 98.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】仮装はしなかったけど新しい歌唱法を習得しました【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 145,
+          "avgViewers": 132.8,
+          "samples": [
+            [
+              "2026-10-05T11:46:51Z",
+              110
+            ],
+            [
+              "2026-10-05T12:01:04Z",
+              129
+            ],
+            [
+              "2026-10-05T12:32:12Z",
+              138
+            ],
+            [
+              "2026-10-05T12:59:35Z",
+              145
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "iy-eIS9qkcs",
+          "videoUrl": "https://www.youtube.com/watch?v=iy-eIS9qkcs",
+          "start": "2026-10-04T15:04:42Z",
+          "end": "2026-10-04T20:41:23Z",
+          "minutes": 336.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほの暮しの庭】まっちゃりほの暮らしできるらしいです【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 53,
+          "avgViewers": 53.0,
+          "samples": [
+            [
+              "2026-10-04T15:04:42Z",
+              53
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "i20jhYhpbho",
+          "videoUrl": "https://www.youtube.com/watch?v=i20jhYhpbho",
+          "start": "2026-10-03T14:36:05Z",
+          "end": "2026-10-03T18:37:56Z",
+          "minutes": 241.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【天下無双ARK】最終日なので楽しみまーーす！ #7【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 26,
+          "avgViewers": 26.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "d3KTyGYD9uo",
+          "videoUrl": "https://www.youtube.com/watch?v=d3KTyGYD9uo",
+          "start": "2026-10-03T08:20:30Z",
+          "end": "2026-10-03T11:08:19Z",
+          "minutes": 167.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【スト6】簡易入力ってやつを覚えましたよ【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 36,
+          "avgViewers": 30.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "GXB5Qdcfv8E",
+          "videoUrl": "https://www.youtube.com/watch?v=GXB5Qdcfv8E",
+          "start": "2026-09-30T12:16:08Z",
+          "end": "2026-09-30T13:46:41Z",
+          "minutes": 90.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【妹に運転を教える】今日から僕がお兄ちゃんです。運転始めるぞ【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 61,
+          "avgViewers": 56.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "t0mBiMh9qVo",
+          "videoUrl": "https://www.youtube.com/watch?v=t0mBiMh9qVo",
+          "start": "2026-09-30T10:15:33Z",
+          "end": "2026-09-30T11:17:55Z",
+          "minutes": 62.4,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】9月の歌収録【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "HqiUCrXIhqU",
+          "videoUrl": "https://www.youtube.com/watch?v=HqiUCrXIhqU",
+          "start": "2026-09-29T14:33:16Z",
+          "end": "2026-09-29T15:50:07Z",
+          "minutes": 76.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】公式番組の疲れた体にちる【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
       "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
       "name": "輝 七瀬",
       "registered": true,
@@ -5429,6 +5431,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "e8j3SX-Z6io",
+      "videoUrl": "https://www.youtube.com/watch?v=e8j3SX-Z6io",
+      "start": "2026-10-06T12:48:44Z",
+      "end": "2026-10-06T15:44:43Z",
+      "minutes": 176.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ほの暮しの庭】今日はホラー来るのか？#2【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 55,
+      "avgViewers": 46.5,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
       "name": "綾見ユラ",
       "videoId": "ucNyVX2c21U",
@@ -6354,22 +6372,6 @@
       "game": null,
       "peakViewers": 10,
       "avgViewers": 8.6,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "PJSXpKE42kQ",
-      "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
-      "start": "2026-10-02T11:11:23Z",
-      "end": "2026-10-02T12:15:10Z",
-      "minutes": 63.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
-      "game": null,
-      "peakViewers": 49,
-      "avgViewers": 37.8,
       "isTargetGame": false
     }
   ]
