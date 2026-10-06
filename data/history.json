@@ -2,33 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCADIxr9ho7V60xs9gT9xWhA": {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "4tH1HREfIPE",
-      "start": "2026-10-06T21:11:12Z",
-      "startSource": "observed",
-      "title": "【 #朝活  】おはようってしにきてね #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
-      "game": null,
-      "peakViewers": 9,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-06T21:11:12Z",
-      "lastSeenAt": "2026-10-06T21:50:27Z",
-      "samples": [
-        [
-          "2026-10-06T21:11:12Z",
-          9
-        ],
-        [
-          "2026-10-06T21:33:27Z",
-          6
-        ],
-        [
-          "2026-10-06T21:50:27Z",
-          8
-        ]
-      ]
-    },
     "UC7W6gEF88kzL-mN8V_QxzVg": {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
       "name": "埼凰リンネ",
@@ -37,10 +10,10 @@
       "startSource": "observed",
       "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 18,
+      "peakViewers": 25,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-06T21:33:27Z",
-      "lastSeenAt": "2026-10-06T21:50:27Z",
+      "lastSeenAt": "2026-10-06T22:11:16Z",
       "samples": [
         [
           "2026-10-06T21:33:27Z",
@@ -49,6 +22,10 @@
         [
           "2026-10-06T21:50:27Z",
           18
+        ],
+        [
+          "2026-10-06T22:11:16Z",
+          25
         ]
       ]
     }
@@ -33528,6 +33505,36 @@
         [
           "2026-10-06T16:00:01Z",
           147
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "4tH1HREfIPE",
+      "videoUrl": "https://www.youtube.com/watch?v=4tH1HREfIPE",
+      "start": "2026-10-06T21:11:12Z",
+      "end": "2026-10-06T22:11:16Z",
+      "minutes": 60.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #朝活  】おはようってしにきてね #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
+      "game": null,
+      "peakViewers": 9,
+      "avgViewers": 7.8,
+      "samples": [
+        [
+          "2026-10-06T21:11:12Z",
+          9
+        ],
+        [
+          "2026-10-06T21:33:27Z",
+          6
+        ],
+        [
+          "2026-10-06T21:50:27Z",
+          8
         ]
       ],
       "isTargetGame": false
