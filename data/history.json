@@ -2,29 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "X0Hhv8QBzAA",
-      "start": "2026-10-07T14:47:58Z",
-      "startSource": "observed",
-      "title": "【雑談】今浮気？判定シートが流行ってるらしい【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 97,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T15:03:50Z",
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          97
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          81
-        ]
-      ]
-    },
     "UCJWTT5HZQbrkP1NUBwwVEbQ": {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
@@ -36,7 +13,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T15:03:50Z",
+      "lastSeenAt": "2026-10-07T15:37:05Z",
       "samples": []
     },
     "UC_mXkuKyIkO1hYjSeMvbt5g": {
@@ -50,7 +27,7 @@
       "peakViewers": 73,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T15:03:50Z",
+      "lastSeenAt": "2026-10-07T15:37:05Z",
       "samples": [
         [
           "2026-10-07T14:47:58Z",
@@ -59,6 +36,10 @@
         [
           "2026-10-07T15:03:50Z",
           73
+        ],
+        [
+          "2026-10-07T15:37:05Z",
+          56
         ]
       ]
     },
@@ -73,7 +54,7 @@
       "peakViewers": 45,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T15:03:50Z",
+      "lastSeenAt": "2026-10-07T15:37:05Z",
       "samples": [
         [
           "2026-10-07T14:47:58Z",
@@ -82,6 +63,10 @@
         [
           "2026-10-07T15:03:50Z",
           42
+        ],
+        [
+          "2026-10-07T15:37:05Z",
+          31
         ]
       ]
     },
@@ -96,7 +81,7 @@
       "peakViewers": 457,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T15:03:50Z",
+      "lastSeenAt": "2026-10-07T15:37:05Z",
       "samples": [
         [
           "2026-10-07T14:47:58Z",
@@ -105,6 +90,10 @@
         [
           "2026-10-07T15:03:50Z",
           305
+        ],
+        [
+          "2026-10-07T15:37:05Z",
+          212
         ]
       ]
     },
@@ -119,7 +108,7 @@
       "peakViewers": 66,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T15:03:50Z",
+      "lastSeenAt": "2026-10-07T15:37:05Z",
       "samples": [
         [
           "2026-10-07T14:47:58Z",
@@ -128,6 +117,10 @@
         [
           "2026-10-07T15:03:50Z",
           48
+        ],
+        [
+          "2026-10-07T15:37:05Z",
+          58
         ]
       ]
     }
@@ -34380,6 +34373,32 @@
         [
           "2026-10-07T14:47:58Z",
           158
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "X0Hhv8QBzAA",
+      "videoUrl": "https://www.youtube.com/watch?v=X0Hhv8QBzAA",
+      "start": "2026-10-07T14:47:58Z",
+      "end": "2026-10-07T15:37:05Z",
+      "minutes": 49.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】今浮気？判定シートが流行ってるらしい【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 97,
+      "avgViewers": 89.0,
+      "samples": [
+        [
+          "2026-10-07T14:47:58Z",
+          97
+        ],
+        [
+          "2026-10-07T15:03:50Z",
+          81
         ]
       ],
       "isTargetGame": false
