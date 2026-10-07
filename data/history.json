@@ -1,331 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "kugmh2PwT-w",
-      "start": "2026-10-07T08:03:08Z",
-      "startSource": "observed",
-      "title": "【APEX】甘音あむはゴールドになりたい。【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 196,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T08:03:08Z",
-      "lastSeenAt": "2026-10-07T14:01:12Z",
-      "samples": [
-        [
-          "2026-10-07T08:03:08Z",
-          50
-        ],
-        [
-          "2026-10-07T08:28:44Z",
-          124
-        ],
-        [
-          "2026-10-07T08:50:06Z",
-          173
-        ],
-        [
-          "2026-10-07T09:03:33Z",
-          189
-        ],
-        [
-          "2026-10-07T09:27:47Z",
-          164
-        ],
-        [
-          "2026-10-07T09:48:37Z",
-          170
-        ],
-        [
-          "2026-10-07T10:03:37Z",
-          196
-        ],
-        [
-          "2026-10-07T10:26:51Z",
-          139
-        ],
-        [
-          "2026-10-07T10:46:46Z",
-          137
-        ],
-        [
-          "2026-10-07T11:01:45Z",
-          126
-        ],
-        [
-          "2026-10-07T11:25:30Z",
-          122
-        ],
-        [
-          "2026-10-07T11:44:42Z",
-          120
-        ],
-        [
-          "2026-10-07T12:00:15Z",
-          126
-        ],
-        [
-          "2026-10-07T12:32:59Z",
-          143
-        ],
-        [
-          "2026-10-07T13:00:09Z",
-          122
-        ],
-        [
-          "2026-10-07T13:23:41Z",
-          111
-        ],
-        [
-          "2026-10-07T13:44:45Z",
-          124
-        ],
-        [
-          "2026-10-07T14:01:12Z",
-          111
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "3EOz0cG3J3o",
-      "start": "2026-10-07T09:48:37Z",
-      "startSource": "observed",
-      "title": "【 APEX 】久々のエペでもやったりますか【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 18,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T09:48:37Z",
-      "lastSeenAt": "2026-10-07T14:01:12Z",
-      "samples": [
-        [
-          "2026-10-07T09:48:37Z",
-          11
-        ],
-        [
-          "2026-10-07T10:03:37Z",
-          16
-        ],
-        [
-          "2026-10-07T10:26:51Z",
-          11
-        ],
-        [
-          "2026-10-07T10:46:46Z",
-          14
-        ],
-        [
-          "2026-10-07T11:01:45Z",
-          18
-        ],
-        [
-          "2026-10-07T11:25:30Z",
-          12
-        ],
-        [
-          "2026-10-07T11:44:42Z",
-          14
-        ],
-        [
-          "2026-10-07T12:00:15Z",
-          9
-        ],
-        [
-          "2026-10-07T12:32:59Z",
-          11
-        ],
-        [
-          "2026-10-07T13:00:09Z",
-          8
-        ],
-        [
-          "2026-10-07T13:23:41Z",
-          10
-        ],
-        [
-          "2026-10-07T13:44:45Z",
-          11
-        ],
-        [
-          "2026-10-07T14:01:12Z",
-          7
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "LrG1XrjRSyM",
-      "start": "2026-10-07T10:03:37Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　\"What is HIPHOP?\"　 ～Day19～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 448,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T10:03:37Z",
-      "lastSeenAt": "2026-10-07T14:01:12Z",
-      "samples": [
-        [
-          "2026-10-07T10:03:37Z",
-          53
-        ],
-        [
-          "2026-10-07T10:26:51Z",
-          194
-        ],
-        [
-          "2026-10-07T10:46:46Z",
-          234
-        ],
-        [
-          "2026-10-07T11:01:45Z",
-          256
-        ],
-        [
-          "2026-10-07T11:25:30Z",
-          278
-        ],
-        [
-          "2026-10-07T11:44:42Z",
-          292
-        ],
-        [
-          "2026-10-07T12:00:15Z",
-          286
-        ],
-        [
-          "2026-10-07T12:32:59Z",
-          316
-        ],
-        [
-          "2026-10-07T13:00:09Z",
-          352
-        ],
-        [
-          "2026-10-07T13:23:41Z",
-          448
-        ],
-        [
-          "2026-10-07T13:44:45Z",
-          297
-        ],
-        [
-          "2026-10-07T14:01:12Z",
-          361
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "QViq5FGvdI8",
-      "start": "2026-10-07T11:01:45Z",
-      "startSource": "observed",
-      "title": "【作業雑談】８月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T11:01:45Z",
-      "lastSeenAt": "2026-10-07T14:01:12Z",
-      "samples": []
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "9kEpErIi9TI",
-      "start": "2026-10-07T11:01:45Z",
-      "startSource": "observed",
-      "title": "【 APEX 】OMG、エペ難すぎるよ w/グラニット,聖ルナティア【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 35,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T11:01:45Z",
-      "lastSeenAt": "2026-10-07T14:01:12Z",
-      "samples": [
-        [
-          "2026-10-07T11:01:45Z",
-          16
-        ],
-        [
-          "2026-10-07T11:25:30Z",
-          30
-        ],
-        [
-          "2026-10-07T11:44:42Z",
-          29
-        ],
-        [
-          "2026-10-07T12:00:15Z",
-          18
-        ],
-        [
-          "2026-10-07T12:32:59Z",
-          31
-        ],
-        [
-          "2026-10-07T13:00:09Z",
-          25
-        ],
-        [
-          "2026-10-07T13:23:41Z",
-          33
-        ],
-        [
-          "2026-10-07T13:44:45Z",
-          32
-        ],
-        [
-          "2026-10-07T14:01:12Z",
-          35
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "X0Hhv8QBzAA",
-      "start": "2026-10-07T13:23:41Z",
-      "startSource": "observed",
-      "title": "【雑談】今浮気？判定シートが流行ってるらしい【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 90,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T13:23:41Z",
-      "lastSeenAt": "2026-10-07T14:01:12Z",
-      "samples": [
-        [
-          "2026-10-07T13:23:41Z",
-          70
-        ],
-        [
-          "2026-10-07T13:44:45Z",
-          85
-        ],
-        [
-          "2026-10-07T14:01:12Z",
-          90
-        ]
-      ]
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "uVFDF21NwB8",
-      "start": "2026-10-07T13:23:41Z",
-      "startSource": "observed",
-      "title": "メンバー限定キラコン同時視聴",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T13:23:41Z",
-      "lastSeenAt": "2026-10-07T14:01:12Z",
-      "samples": []
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -33886,6 +33562,96 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "kugmh2PwT-w",
+      "videoUrl": "https://www.youtube.com/watch?v=kugmh2PwT-w",
+      "start": "2026-10-07T08:03:08Z",
+      "end": "2026-10-07T14:27:31Z",
+      "minutes": 384.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【APEX】甘音あむはゴールドになりたい。【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 196,
+      "avgViewers": 134.5,
+      "samples": [
+        [
+          "2026-10-07T08:03:08Z",
+          50
+        ],
+        [
+          "2026-10-07T08:28:44Z",
+          124
+        ],
+        [
+          "2026-10-07T08:50:06Z",
+          173
+        ],
+        [
+          "2026-10-07T09:03:33Z",
+          189
+        ],
+        [
+          "2026-10-07T09:27:47Z",
+          164
+        ],
+        [
+          "2026-10-07T09:48:37Z",
+          170
+        ],
+        [
+          "2026-10-07T10:03:37Z",
+          196
+        ],
+        [
+          "2026-10-07T10:26:51Z",
+          139
+        ],
+        [
+          "2026-10-07T10:46:46Z",
+          137
+        ],
+        [
+          "2026-10-07T11:01:45Z",
+          126
+        ],
+        [
+          "2026-10-07T11:25:30Z",
+          122
+        ],
+        [
+          "2026-10-07T11:44:42Z",
+          120
+        ],
+        [
+          "2026-10-07T12:00:15Z",
+          126
+        ],
+        [
+          "2026-10-07T12:32:59Z",
+          143
+        ],
+        [
+          "2026-10-07T13:00:09Z",
+          122
+        ],
+        [
+          "2026-10-07T13:23:41Z",
+          111
+        ],
+        [
+          "2026-10-07T13:44:45Z",
+          124
+        ],
+        [
+          "2026-10-07T14:01:12Z",
+          111
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
       "videoId": "yOfjvBcP4lc",
@@ -33965,6 +33731,76 @@
         [
           "2026-10-07T12:00:15Z",
           38
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "3EOz0cG3J3o",
+      "videoUrl": "https://www.youtube.com/watch?v=3EOz0cG3J3o",
+      "start": "2026-10-07T09:48:37Z",
+      "end": "2026-10-07T14:27:31Z",
+      "minutes": 278.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 APEX 】久々のエペでもやったりますか【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 18,
+      "avgViewers": 11.6,
+      "samples": [
+        [
+          "2026-10-07T09:48:37Z",
+          11
+        ],
+        [
+          "2026-10-07T10:03:37Z",
+          16
+        ],
+        [
+          "2026-10-07T10:26:51Z",
+          11
+        ],
+        [
+          "2026-10-07T10:46:46Z",
+          14
+        ],
+        [
+          "2026-10-07T11:01:45Z",
+          18
+        ],
+        [
+          "2026-10-07T11:25:30Z",
+          12
+        ],
+        [
+          "2026-10-07T11:44:42Z",
+          14
+        ],
+        [
+          "2026-10-07T12:00:15Z",
+          9
+        ],
+        [
+          "2026-10-07T12:32:59Z",
+          11
+        ],
+        [
+          "2026-10-07T13:00:09Z",
+          8
+        ],
+        [
+          "2026-10-07T13:23:41Z",
+          10
+        ],
+        [
+          "2026-10-07T13:44:45Z",
+          11
+        ],
+        [
+          "2026-10-07T14:01:12Z",
+          7
         ]
       ],
       "isTargetGame": false
@@ -34086,6 +33922,89 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "LrG1XrjRSyM",
+      "videoUrl": "https://www.youtube.com/watch?v=LrG1XrjRSyM",
+      "start": "2026-10-07T10:03:37Z",
+      "end": "2026-10-07T14:27:31Z",
+      "minutes": 263.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　\"What is HIPHOP?\"　 ～Day19～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 448,
+      "avgViewers": 281.3,
+      "samples": [
+        [
+          "2026-10-07T10:03:37Z",
+          53
+        ],
+        [
+          "2026-10-07T10:26:51Z",
+          194
+        ],
+        [
+          "2026-10-07T10:46:46Z",
+          234
+        ],
+        [
+          "2026-10-07T11:01:45Z",
+          256
+        ],
+        [
+          "2026-10-07T11:25:30Z",
+          278
+        ],
+        [
+          "2026-10-07T11:44:42Z",
+          292
+        ],
+        [
+          "2026-10-07T12:00:15Z",
+          286
+        ],
+        [
+          "2026-10-07T12:32:59Z",
+          316
+        ],
+        [
+          "2026-10-07T13:00:09Z",
+          352
+        ],
+        [
+          "2026-10-07T13:23:41Z",
+          448
+        ],
+        [
+          "2026-10-07T13:44:45Z",
+          297
+        ],
+        [
+          "2026-10-07T14:01:12Z",
+          361
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "QViq5FGvdI8",
+      "videoUrl": "https://www.youtube.com/watch?v=QViq5FGvdI8",
+      "start": "2026-10-07T11:00:39Z",
+      "end": "2026-10-07T14:27:31Z",
+      "minutes": 206.9,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "【作業雑談】８月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
       "videoId": "BFQME2jrHIQ",
@@ -34127,6 +34046,60 @@
         [
           "2026-10-07T13:23:41Z",
           130
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "9kEpErIi9TI",
+      "videoUrl": "https://www.youtube.com/watch?v=9kEpErIi9TI",
+      "start": "2026-10-07T11:01:45Z",
+      "end": "2026-10-07T14:27:31Z",
+      "minutes": 205.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 APEX 】OMG、エペ難すぎるよ w/グラニット,聖ルナティア【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 35,
+      "avgViewers": 26.9,
+      "samples": [
+        [
+          "2026-10-07T11:01:45Z",
+          16
+        ],
+        [
+          "2026-10-07T11:25:30Z",
+          30
+        ],
+        [
+          "2026-10-07T11:44:42Z",
+          29
+        ],
+        [
+          "2026-10-07T12:00:15Z",
+          18
+        ],
+        [
+          "2026-10-07T12:32:59Z",
+          31
+        ],
+        [
+          "2026-10-07T13:00:09Z",
+          25
+        ],
+        [
+          "2026-10-07T13:23:41Z",
+          33
+        ],
+        [
+          "2026-10-07T13:44:45Z",
+          32
+        ],
+        [
+          "2026-10-07T14:01:12Z",
+          35
         ]
       ],
       "isTargetGame": false
@@ -34191,6 +34164,53 @@
         [
           "2026-10-07T13:44:45Z",
           9
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "uVFDF21NwB8",
+      "videoUrl": "https://www.youtube.com/watch?v=uVFDF21NwB8",
+      "start": "2026-10-07T13:00:32Z",
+      "end": "2026-10-07T14:27:31Z",
+      "minutes": 87.0,
+      "startSource": "youtube",
+      "endSource": "observed",
+      "title": "メンバー限定キラコン同時視聴",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "X0Hhv8QBzAA",
+      "videoUrl": "https://www.youtube.com/watch?v=X0Hhv8QBzAA",
+      "start": "2026-10-07T13:23:41Z",
+      "end": "2026-10-07T14:27:31Z",
+      "minutes": 63.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】今浮気？判定シートが流行ってるらしい【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 90,
+      "avgViewers": 81.1,
+      "samples": [
+        [
+          "2026-10-07T13:23:41Z",
+          70
+        ],
+        [
+          "2026-10-07T13:44:45Z",
+          85
+        ],
+        [
+          "2026-10-07T14:01:12Z",
+          90
         ]
       ],
       "isTargetGame": false
