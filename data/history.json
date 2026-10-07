@@ -1,59 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "LrG1XrjRSyM",
-      "start": "2026-10-07T14:47:58Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　\"What is HIPHOP?\"　 ～Day19～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 457,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T17:54:52Z",
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          457
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          305
-        ],
-        [
-          "2026-10-07T15:37:05Z",
-          212
-        ],
-        [
-          "2026-10-07T15:59:02Z",
-          186
-        ],
-        [
-          "2026-10-07T16:22:14Z",
-          191
-        ],
-        [
-          "2026-10-07T16:46:32Z",
-          370
-        ],
-        [
-          "2026-10-07T17:11:09Z",
-          336
-        ],
-        [
-          "2026-10-07T17:36:55Z",
-          327
-        ],
-        [
-          "2026-10-07T17:54:52Z",
-          308
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -34475,6 +34423,60 @@
         [
           "2026-10-07T17:11:09Z",
           69
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "LrG1XrjRSyM",
+      "videoUrl": "https://www.youtube.com/watch?v=LrG1XrjRSyM",
+      "start": "2026-10-07T14:47:58Z",
+      "end": "2026-10-07T18:14:45Z",
+      "minutes": 206.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　\"What is HIPHOP?\"　 ～Day19～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 457,
+      "avgViewers": 294.1,
+      "samples": [
+        [
+          "2026-10-07T14:47:58Z",
+          457
+        ],
+        [
+          "2026-10-07T15:03:50Z",
+          305
+        ],
+        [
+          "2026-10-07T15:37:05Z",
+          212
+        ],
+        [
+          "2026-10-07T15:59:02Z",
+          186
+        ],
+        [
+          "2026-10-07T16:22:14Z",
+          191
+        ],
+        [
+          "2026-10-07T16:46:32Z",
+          370
+        ],
+        [
+          "2026-10-07T17:11:09Z",
+          336
+        ],
+        [
+          "2026-10-07T17:36:55Z",
+          327
+        ],
+        [
+          "2026-10-07T17:54:52Z",
+          308
         ]
       ],
       "isTargetGame": false
