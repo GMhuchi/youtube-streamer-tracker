@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T22:33:22Z",
+  "updatedAt": "2026-10-07T22:51:14Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 810.8,
+      "totalMinutes": 828.7,
       "gameMinutes": 0.0,
-      "totalHours": 13.51,
+      "totalHours": 13.81,
       "gameHours": 0.0,
       "sessions": 9,
-      "avgViewers": 155.1,
-      "peakViewers": 711
+      "avgViewers": 168.3,
+      "peakViewers": 745
     },
     "week": {
-      "totalMinutes": 8958.0,
+      "totalMinutes": 8975.8,
       "gameMinutes": 0.0,
-      "totalHours": 149.3,
+      "totalHours": 149.6,
       "gameHours": 0.0,
       "sessions": 58,
-      "avgViewers": 160.9,
+      "avgViewers": 162.1,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 22153.2,
+      "totalMinutes": 22171.1,
       "gameMinutes": 0.0,
-      "totalHours": 369.22,
+      "totalHours": 369.52,
       "gameHours": 0.0,
       "sessions": 111,
-      "avgViewers": 135.7,
+      "avgViewers": 136.1,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【作業雑談】８月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 154.2,
+          "totalMinutes": 172.1,
           "gameMinutes": 0.0,
-          "totalHours": 2.57,
+          "totalHours": 2.87,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 495.6,
-          "peakViewers": 711
+          "avgViewers": 542.2,
+          "peakViewers": 745
         },
         "week": {
-          "totalMinutes": 1044.6,
+          "totalMinutes": 1062.5,
           "gameMinutes": 0.0,
-          "totalHours": 17.41,
+          "totalHours": 17.71,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 611.1,
+          "avgViewers": 613.9,
           "peakViewers": 910
         },
         "month": {
-          "totalMinutes": 2553.3,
+          "totalMinutes": 2571.2,
           "gameMinutes": 0.0,
-          "totalHours": 42.56,
+          "totalHours": 42.85,
           "gameHours": 0.0,
           "sessions": 10,
-          "avgViewers": 658.4,
+          "avgViewers": 658.7,
           "peakViewers": 988
         }
       },
@@ -266,9 +266,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 711,
-      "livePeakViewers": 711,
-      "liveAvgViewers": 495.6,
+      "liveViewers": 745,
+      "livePeakViewers": 745,
+      "liveAvgViewers": 542.2,
       "liveSamples": [
         [
           "2026-10-07T21:35:31Z",
@@ -285,6 +285,10 @@
         [
           "2026-10-07T22:33:22Z",
           711
+        ],
+        [
+          "2026-10-07T22:51:14Z",
+          745
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=IciqXt-W09Y"
