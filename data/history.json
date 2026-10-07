@@ -2,84 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "9kEpErIi9TI",
-      "start": "2026-10-07T14:47:58Z",
-      "startSource": "observed",
-      "title": "【 APEX 】OMG、エペ難すぎるよ w/グラニット,聖ルナティア【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 73,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T16:46:32Z",
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          39
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          73
-        ],
-        [
-          "2026-10-07T15:37:05Z",
-          56
-        ],
-        [
-          "2026-10-07T15:59:02Z",
-          47
-        ],
-        [
-          "2026-10-07T16:22:14Z",
-          49
-        ],
-        [
-          "2026-10-07T16:46:32Z",
-          43
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "3EOz0cG3J3o",
-      "start": "2026-10-07T14:47:58Z",
-      "startSource": "observed",
-      "title": "【 APEX 】久々のエペでもやったりますか【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 45,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T16:46:32Z",
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          45
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          42
-        ],
-        [
-          "2026-10-07T15:37:05Z",
-          31
-        ],
-        [
-          "2026-10-07T15:59:02Z",
-          29
-        ],
-        [
-          "2026-10-07T16:22:14Z",
-          26
-        ],
-        [
-          "2026-10-07T16:46:32Z",
-          25
-        ]
-      ]
-    },
     "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
       "name": "那和ツムグ",
@@ -91,7 +13,7 @@
       "peakViewers": 457,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T16:46:32Z",
+      "lastSeenAt": "2026-10-07T17:11:09Z",
       "samples": [
         [
           "2026-10-07T14:47:58Z",
@@ -116,6 +38,10 @@
         [
           "2026-10-07T16:46:32Z",
           370
+        ],
+        [
+          "2026-10-07T17:11:09Z",
+          336
         ]
       ]
     },
@@ -127,10 +53,10 @@
       "startSource": "observed",
       "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
       "game": null,
-      "peakViewers": 68,
+      "peakViewers": 69,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-07T14:47:58Z",
-      "lastSeenAt": "2026-10-07T16:46:32Z",
+      "lastSeenAt": "2026-10-07T17:11:09Z",
       "samples": [
         [
           "2026-10-07T14:47:58Z",
@@ -155,6 +81,10 @@
         [
           "2026-10-07T16:46:32Z",
           62
+        ],
+        [
+          "2026-10-07T17:11:09Z",
+          69
         ]
       ]
     }
@@ -34450,6 +34380,90 @@
         [
           "2026-10-07T15:03:50Z",
           81
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "9kEpErIi9TI",
+      "videoUrl": "https://www.youtube.com/watch?v=9kEpErIi9TI",
+      "start": "2026-10-07T14:47:58Z",
+      "end": "2026-10-07T17:11:09Z",
+      "minutes": 143.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 APEX 】OMG、エペ難すぎるよ w/グラニット,聖ルナティア【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 73,
+      "avgViewers": 53.2,
+      "samples": [
+        [
+          "2026-10-07T14:47:58Z",
+          39
+        ],
+        [
+          "2026-10-07T15:03:50Z",
+          73
+        ],
+        [
+          "2026-10-07T15:37:05Z",
+          56
+        ],
+        [
+          "2026-10-07T15:59:02Z",
+          47
+        ],
+        [
+          "2026-10-07T16:22:14Z",
+          49
+        ],
+        [
+          "2026-10-07T16:46:32Z",
+          43
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "3EOz0cG3J3o",
+      "videoUrl": "https://www.youtube.com/watch?v=3EOz0cG3J3o",
+      "start": "2026-10-07T14:47:58Z",
+      "end": "2026-10-07T17:11:09Z",
+      "minutes": 143.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 APEX 】久々のエペでもやったりますか【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 45,
+      "avgViewers": 33.0,
+      "samples": [
+        [
+          "2026-10-07T14:47:58Z",
+          45
+        ],
+        [
+          "2026-10-07T15:03:50Z",
+          42
+        ],
+        [
+          "2026-10-07T15:37:05Z",
+          31
+        ],
+        [
+          "2026-10-07T15:59:02Z",
+          29
+        ],
+        [
+          "2026-10-07T16:22:14Z",
+          26
+        ],
+        [
+          "2026-10-07T16:46:32Z",
+          25
         ]
       ],
       "isTargetGame": false
