@@ -2,46 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "IciqXt-W09Y",
-      "start": "2026-10-07T21:35:31Z",
+    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "TtYHWGB9jEQ",
+      "start": "2026-10-07T23:42:29Z",
       "startSource": "observed",
-      "title": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "title": "【目標：レジェンド リュウ レバー】今日も元気に楽しく！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
       "game": null,
-      "peakViewers": 820,
+      "peakViewers": 9,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-07T21:35:31Z",
-      "lastSeenAt": "2026-10-07T23:25:51Z",
+      "firstSeenAt": "2026-10-07T23:42:29Z",
+      "lastSeenAt": "2026-10-07T23:42:29Z",
       "samples": [
         [
-          "2026-10-07T21:35:31Z",
-          174
-        ],
-        [
-          "2026-10-07T21:53:15Z",
-          417
-        ],
-        [
-          "2026-10-07T22:10:46Z",
-          625
-        ],
-        [
-          "2026-10-07T22:33:22Z",
-          711
-        ],
-        [
-          "2026-10-07T22:51:14Z",
-          745
-        ],
-        [
-          "2026-10-07T23:09:30Z",
-          820
-        ],
-        [
-          "2026-10-07T23:25:51Z",
-          739
+          "2026-10-07T23:42:29Z",
+          9
         ]
       ]
     }
@@ -34521,6 +34497,52 @@
         [
           "2026-10-07T17:54:52Z",
           308
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "IciqXt-W09Y",
+      "videoUrl": "https://www.youtube.com/watch?v=IciqXt-W09Y",
+      "start": "2026-10-07T21:35:31Z",
+      "end": "2026-10-07T23:42:29Z",
+      "minutes": 127.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 820,
+      "avgViewers": 604.6,
+      "samples": [
+        [
+          "2026-10-07T21:35:31Z",
+          174
+        ],
+        [
+          "2026-10-07T21:53:15Z",
+          417
+        ],
+        [
+          "2026-10-07T22:10:46Z",
+          625
+        ],
+        [
+          "2026-10-07T22:33:22Z",
+          711
+        ],
+        [
+          "2026-10-07T22:51:14Z",
+          745
+        ],
+        [
+          "2026-10-07T23:09:30Z",
+          820
+        ],
+        [
+          "2026-10-07T23:25:51Z",
+          739
         ]
       ],
       "isTargetGame": false

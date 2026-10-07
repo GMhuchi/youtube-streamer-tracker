@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T23:25:51Z",
+  "updatedAt": "2026-10-07T23:42:29Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,74 +16,383 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 863.3,
+      "totalMinutes": 879.9,
       "gameMinutes": 0.0,
-      "totalHours": 14.39,
+      "totalHours": 14.67,
       "gameHours": 0.0,
-      "sessions": 9,
-      "avgViewers": 194.2,
+      "sessions": 10,
+      "avgViewers": 202.9,
       "peakViewers": 820
     },
     "week": {
-      "totalMinutes": 9010.5,
+      "totalMinutes": 9027.1,
       "gameMinutes": 0.0,
-      "totalHours": 150.17,
+      "totalHours": 150.45,
       "gameHours": 0.0,
-      "sessions": 58,
-      "avgViewers": 164.6,
+      "sessions": 59,
+      "avgViewers": 165.5,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 22205.7,
+      "totalMinutes": 22222.4,
       "gameMinutes": 0.0,
-      "totalHours": 370.1,
+      "totalHours": 370.37,
       "gameHours": 0.0,
-      "sessions": 111,
-      "avgViewers": 137.1,
+      "sessions": 112,
+      "avgViewers": 137.5,
       "peakViewers": 997
     }
   },
   "channels": [
     {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "isLive": true,
+      "liveSince": "2026-10-07T23:42:29Z",
+      "liveTitle": "【目標：レジェンド リュウ レバー】今日も元気に楽しく！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "lastEnd": "2026-10-07T14:01:12Z",
+      "lastTitle": "【Coffee Talk Tokyo早く終わったので＋雑談】ひとの話を聞くのは楽しい【ゲーム実況】※ネタバレを含む",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 9.0,
+          "peakViewers": 9
+        },
+        "week": {
+          "totalMinutes": 371.3,
+          "gameMinutes": 0.0,
+          "totalHours": 6.19,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 17.0,
+          "peakViewers": 28
+        },
+        "month": {
+          "totalMinutes": 563.6,
+          "gameMinutes": 0.0,
+          "totalHours": 9.39,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 17.2,
+          "peakViewers": 28
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "YUShL0j2gl0",
+          "videoUrl": "https://www.youtube.com/watch?v=YUShL0j2gl0",
+          "start": "2026-10-07T12:32:59Z",
+          "end": "2026-10-07T14:01:12Z",
+          "minutes": 88.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Coffee Talk Tokyo早く終わったので＋雑談】ひとの話を聞くのは楽しい【ゲーム実況】※ネタバレを含む",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 7.4,
+          "samples": [
+            [
+              "2026-10-07T12:32:59Z",
+              6
+            ],
+            [
+              "2026-10-07T13:00:09Z",
+              4
+            ],
+            [
+              "2026-10-07T13:23:41Z",
+              11
+            ],
+            [
+              "2026-10-07T13:44:45Z",
+              9
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "sow-A3IC03Q",
+          "videoUrl": "https://www.youtube.com/watch?v=sow-A3IC03Q",
+          "start": "2026-10-05T22:34:54Z",
+          "end": "2026-10-06T00:47:05Z",
+          "minutes": 132.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】MRを気にするより間合いを気にしろ！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 27,
+          "avgViewers": 19.3,
+          "samples": [
+            [
+              "2026-10-05T22:34:54Z",
+              7
+            ],
+            [
+              "2026-10-05T22:50:28Z",
+              9
+            ],
+            [
+              "2026-10-05T23:01:23Z",
+              13
+            ],
+            [
+              "2026-10-05T23:21:48Z",
+              26
+            ],
+            [
+              "2026-10-05T23:40:09Z",
+              26
+            ],
+            [
+              "2026-10-05T23:52:35Z",
+              23
+            ],
+            [
+              "2026-10-06T00:18:31Z",
+              27
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "FqfvYsmAaUA",
+          "videoUrl": "https://www.youtube.com/watch?v=FqfvYsmAaUA",
+          "start": "2026-10-04T23:41:29Z",
+          "end": "2026-10-05T02:12:23Z",
+          "minutes": 150.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】早い展開でも間合いを気にする【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 20.5,
+          "samples": [
+            [
+              "2026-10-04T23:41:29Z",
+              10
+            ],
+            [
+              "2026-10-04T23:56:56Z",
+              11
+            ],
+            [
+              "2026-10-05T00:24:57Z",
+              26
+            ],
+            [
+              "2026-10-05T00:51:16Z",
+              28
+            ],
+            [
+              "2026-10-05T01:13:06Z",
+              27
+            ],
+            [
+              "2026-10-05T01:34:57Z",
+              21
+            ],
+            [
+              "2026-10-05T01:51:20Z",
+              19
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "aRj9EPP4qz8",
+          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
+          "start": "2026-10-01T22:50:20Z",
+          "end": "2026-10-02T00:24:50Z",
+          "minutes": 94.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 27,
+          "avgViewers": 23.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "aRj9EPP4qz8",
+          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
+          "start": "2026-10-01T22:11:00Z",
+          "end": "2026-10-01T22:31:47Z",
+          "minutes": 20.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "EnZFRittJng",
+          "videoUrl": "https://www.youtube.com/watch?v=EnZFRittJng",
+          "start": "2026-09-30T21:53:23Z",
+          "end": "2026-09-30T23:10:26Z",
+          "minutes": 77.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識する【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 12.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "jL4ccf886bk",
+          "videoUrl": "https://www.youtube.com/watch?v=jL4ccf886bk",
+          "start": "2026-09-29T23:56:42Z",
+          "end": "2026-09-30T02:51:02Z",
+          "minutes": 174.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】間合い管理をしっかりする！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 19.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "89difDZsJeI",
+          "videoUrl": "https://www.youtube.com/watch?v=89difDZsJeI",
+          "start": "2026-09-28T23:59:40Z",
+          "end": "2026-09-29T03:58:54Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】２先で勝てばいい！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 29,
+          "avgViewers": 20.7,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 9,
+      "livePeakViewers": 9,
+      "liveAvgViewers": 9.0,
+      "liveSamples": [
+        [
+          "2026-10-07T23:42:29Z",
+          9
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=TtYHWGB9jEQ"
+    },
+    {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "isLive": true,
-      "liveSince": "2026-10-07T21:35:31Z",
-      "liveTitle": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "lastEnd": "2026-10-07T16:36:21Z",
-      "lastTitle": "【作業雑談】８月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-07T23:42:29Z",
+      "lastTitle": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 206.7,
+          "totalMinutes": 223.3,
           "gameMinutes": 0.0,
-          "totalHours": 3.44,
+          "totalHours": 3.72,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 604.6,
           "peakViewers": 820
         },
         "week": {
-          "totalMinutes": 1097.1,
+          "totalMinutes": 1113.7,
           "gameMinutes": 0.0,
-          "totalHours": 18.28,
+          "totalHours": 18.56,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 621.9,
+          "avgViewers": 621.4,
           "peakViewers": 910
         },
         "month": {
-          "totalMinutes": 2605.8,
+          "totalMinutes": 2622.4,
           "gameMinutes": 0.0,
-          "totalHours": 43.43,
+          "totalHours": 43.71,
           "gameHours": 0.0,
           "sessions": 10,
-          "avgViewers": 660.0,
+          "avgViewers": 659.6,
           "peakViewers": 988
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "IciqXt-W09Y",
+          "videoUrl": "https://www.youtube.com/watch?v=IciqXt-W09Y",
+          "start": "2026-10-07T21:35:31Z",
+          "end": "2026-10-07T23:42:29Z",
+          "minutes": 127.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 820,
+          "avgViewers": 604.6,
+          "samples": [
+            [
+              "2026-10-07T21:35:31Z",
+              174
+            ],
+            [
+              "2026-10-07T21:53:15Z",
+              417
+            ],
+            [
+              "2026-10-07T22:10:46Z",
+              625
+            ],
+            [
+              "2026-10-07T22:33:22Z",
+              711
+            ],
+            [
+              "2026-10-07T22:51:14Z",
+              745
+            ],
+            [
+              "2026-10-07T23:09:30Z",
+              820
+            ],
+            [
+              "2026-10-07T23:25:51Z",
+              739
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
           "name": "望月ほぐの",
@@ -132,52 +441,7 @@
           "game": null,
           "peakViewers": 910,
           "avgViewers": 757.7,
-          "samples": [
-            [
-              "2026-10-06T11:20:13Z",
-              475
-            ],
-            [
-              "2026-10-06T11:43:23Z",
-              671
-            ],
-            [
-              "2026-10-06T11:59:50Z",
-              750
-            ],
-            [
-              "2026-10-06T12:25:31Z",
-              607
-            ],
-            [
-              "2026-10-06T12:48:44Z",
-              814
-            ],
-            [
-              "2026-10-06T13:04:16Z",
-              889
-            ],
-            [
-              "2026-10-06T13:27:30Z",
-              799
-            ],
-            [
-              "2026-10-06T13:48:13Z",
-              808
-            ],
-            [
-              "2026-10-06T14:03:38Z",
-              878
-            ],
-            [
-              "2026-10-06T14:27:23Z",
-              910
-            ],
-            [
-              "2026-10-06T14:47:36Z",
-              766
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -247,59 +511,8 @@
           "avgViewers": 718.8,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "IiOlmM4P734",
-          "videoUrl": "https://www.youtube.com/watch?v=IiOlmM4P734",
-          "start": "2026-10-02T08:23:16Z",
-          "end": "2026-10-02T12:15:10Z",
-          "minutes": 231.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#天下無双ARK】12日目：今日こそ試練を超えて皆で行くぞ、αボス🦖！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 988,
-          "avgViewers": 450.1,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 739,
-      "livePeakViewers": 820,
-      "liveAvgViewers": 604.6,
-      "liveSamples": [
-        [
-          "2026-10-07T21:35:31Z",
-          174
-        ],
-        [
-          "2026-10-07T21:53:15Z",
-          417
-        ],
-        [
-          "2026-10-07T22:10:46Z",
-          625
-        ],
-        [
-          "2026-10-07T22:33:22Z",
-          711
-        ],
-        [
-          "2026-10-07T22:51:14Z",
-          745
-        ],
-        [
-          "2026-10-07T23:09:30Z",
-          820
-        ],
-        [
-          "2026-10-07T23:25:51Z",
-          739
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=IciqXt-W09Y"
+      ]
     },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
@@ -3990,259 +4203,6 @@
       ]
     },
     {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-07T14:01:12Z",
-      "lastTitle": "【Coffee Talk Tokyo早く終わったので＋雑談】ひとの話を聞くのは楽しい【ゲーム実況】※ネタバレを含む",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 371.3,
-          "gameMinutes": 0.0,
-          "totalHours": 6.19,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 17.0,
-          "peakViewers": 28
-        },
-        "month": {
-          "totalMinutes": 563.6,
-          "gameMinutes": 0.0,
-          "totalHours": 9.39,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 17.2,
-          "peakViewers": 28
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "YUShL0j2gl0",
-          "videoUrl": "https://www.youtube.com/watch?v=YUShL0j2gl0",
-          "start": "2026-10-07T12:32:59Z",
-          "end": "2026-10-07T14:01:12Z",
-          "minutes": 88.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Coffee Talk Tokyo早く終わったので＋雑談】ひとの話を聞くのは楽しい【ゲーム実況】※ネタバレを含む",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 7.4,
-          "samples": [
-            [
-              "2026-10-07T12:32:59Z",
-              6
-            ],
-            [
-              "2026-10-07T13:00:09Z",
-              4
-            ],
-            [
-              "2026-10-07T13:23:41Z",
-              11
-            ],
-            [
-              "2026-10-07T13:44:45Z",
-              9
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "sow-A3IC03Q",
-          "videoUrl": "https://www.youtube.com/watch?v=sow-A3IC03Q",
-          "start": "2026-10-05T22:34:54Z",
-          "end": "2026-10-06T00:47:05Z",
-          "minutes": 132.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】MRを気にするより間合いを気にしろ！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 27,
-          "avgViewers": 19.3,
-          "samples": [
-            [
-              "2026-10-05T22:34:54Z",
-              7
-            ],
-            [
-              "2026-10-05T22:50:28Z",
-              9
-            ],
-            [
-              "2026-10-05T23:01:23Z",
-              13
-            ],
-            [
-              "2026-10-05T23:21:48Z",
-              26
-            ],
-            [
-              "2026-10-05T23:40:09Z",
-              26
-            ],
-            [
-              "2026-10-05T23:52:35Z",
-              23
-            ],
-            [
-              "2026-10-06T00:18:31Z",
-              27
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "FqfvYsmAaUA",
-          "videoUrl": "https://www.youtube.com/watch?v=FqfvYsmAaUA",
-          "start": "2026-10-04T23:41:29Z",
-          "end": "2026-10-05T02:12:23Z",
-          "minutes": 150.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】早い展開でも間合いを気にする【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 20.5,
-          "samples": [
-            [
-              "2026-10-04T23:41:29Z",
-              10
-            ],
-            [
-              "2026-10-04T23:56:56Z",
-              11
-            ],
-            [
-              "2026-10-05T00:24:57Z",
-              26
-            ],
-            [
-              "2026-10-05T00:51:16Z",
-              28
-            ],
-            [
-              "2026-10-05T01:13:06Z",
-              27
-            ],
-            [
-              "2026-10-05T01:34:57Z",
-              21
-            ],
-            [
-              "2026-10-05T01:51:20Z",
-              19
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "aRj9EPP4qz8",
-          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
-          "start": "2026-10-01T22:50:20Z",
-          "end": "2026-10-02T00:24:50Z",
-          "minutes": 94.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 27,
-          "avgViewers": 23.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "aRj9EPP4qz8",
-          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
-          "start": "2026-10-01T22:11:00Z",
-          "end": "2026-10-01T22:31:47Z",
-          "minutes": 20.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "EnZFRittJng",
-          "videoUrl": "https://www.youtube.com/watch?v=EnZFRittJng",
-          "start": "2026-09-30T21:53:23Z",
-          "end": "2026-09-30T23:10:26Z",
-          "minutes": 77.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識する【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 12.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "jL4ccf886bk",
-          "videoUrl": "https://www.youtube.com/watch?v=jL4ccf886bk",
-          "start": "2026-09-29T23:56:42Z",
-          "end": "2026-09-30T02:51:02Z",
-          "minutes": 174.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】間合い管理をしっかりする！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 19.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "89difDZsJeI",
-          "videoUrl": "https://www.youtube.com/watch?v=89difDZsJeI",
-          "start": "2026-09-28T23:59:40Z",
-          "end": "2026-09-29T03:58:54Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】２先で勝てばいい！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 29,
-          "avgViewers": 20.7,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
       "name": "愁子",
       "registered": true,
@@ -5248,6 +5208,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "IciqXt-W09Y",
+      "videoUrl": "https://www.youtube.com/watch?v=IciqXt-W09Y",
+      "start": "2026-10-07T21:35:31Z",
+      "end": "2026-10-07T23:42:29Z",
+      "minutes": 127.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 820,
+      "avgViewers": 604.6,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
       "videoId": "kugmh2PwT-w",
@@ -6189,22 +6165,6 @@
       "game": null,
       "peakViewers": 26,
       "avgViewers": 26.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "BpeaA9CfZVc",
-      "videoUrl": "https://www.youtube.com/watch?v=BpeaA9CfZVc",
-      "start": "2026-10-03T14:36:05Z",
-      "end": "2026-10-03T18:37:56Z",
-      "minutes": 241.9,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 #天下無双ARK 】天下無双最強s  最終回 【 #輝七瀬 / RIONECTION】",
-      "game": null,
-      "peakViewers": 4,
-      "avgViewers": 4.0,
       "isTargetGame": false
     }
   ]
