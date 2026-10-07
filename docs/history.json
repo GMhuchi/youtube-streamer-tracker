@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T21:11:58Z",
+  "updatedAt": "2026-10-07T21:35:31Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,11 +16,11 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 752.9,
+      "totalMinutes": 753.0,
       "gameMinutes": 0.0,
       "totalHours": 12.55,
       "gameHours": 0.0,
-      "sessions": 8,
+      "sessions": 9,
       "avgViewers": 125.0,
       "peakViewers": 457
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 148.34,
       "gameHours": 0.0,
-      "sessions": 57,
+      "sessions": 58,
       "avgViewers": 158.5,
       "peakViewers": 945
     },
@@ -38,7 +38,7 @@
       "gameMinutes": 0.0,
       "totalHours": 368.26,
       "gameHours": 0.0,
-      "sessions": 110,
+      "sessions": 111,
       "avgViewers": 134.7,
       "peakViewers": 997
     }
@@ -49,36 +49,36 @@
       "name": "望月ほぐの",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-10-07T21:35:31Z",
+      "liveTitle": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "lastEnd": "2026-10-07T16:36:21Z",
       "lastTitle": "【作業雑談】８月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 96.3,
+          "totalMinutes": 96.4,
           "gameMinutes": 0.0,
           "totalHours": 1.61,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 2,
+          "avgViewers": 174.0,
+          "peakViewers": 174
         },
         "week": {
           "totalMinutes": 986.7,
           "gameMinutes": 0.0,
           "totalHours": 16.45,
           "gameHours": 0.0,
-          "sessions": 5,
+          "sessions": 6,
           "avgViewers": 626.2,
           "peakViewers": 910
         },
         "month": {
-          "totalMinutes": 2495.4,
+          "totalMinutes": 2495.5,
           "gameMinutes": 0.0,
           "totalHours": 41.59,
           "gameHours": 0.0,
-          "sessions": 9,
+          "sessions": 10,
           "avgViewers": 663.2,
           "peakViewers": 988
         }
@@ -265,7 +265,17 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 174,
+      "livePeakViewers": 174,
+      "liveAvgViewers": 174.0,
+      "liveSamples": [
+        [
+          "2026-10-07T21:35:31Z",
+          174
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=IciqXt-W09Y"
     },
     {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
