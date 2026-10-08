@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T11:26:30Z",
+  "updatedAt": "2026-10-08T11:46:06Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1215.4,
+      "totalMinutes": 1254.7,
       "gameMinutes": 0.0,
-      "totalHours": 20.26,
+      "totalHours": 20.91,
       "gameHours": 0.0,
       "sessions": 14,
-      "avgViewers": 153.1,
+      "avgViewers": 153.6,
       "peakViewers": 820
     },
     "week": {
-      "totalMinutes": 9362.6,
+      "totalMinutes": 9401.8,
       "gameMinutes": 0.0,
-      "totalHours": 156.04,
+      "totalHours": 156.7,
       "gameHours": 0.0,
       "sessions": 63,
       "avgViewers": 160.4,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 22557.9,
+      "totalMinutes": 22597.1,
       "gameMinutes": 0.0,
-      "totalHours": 375.96,
+      "totalHours": 376.62,
       "gameHours": 0.0,
       "sessions": 116,
-      "avgViewers": 135.9,
+      "avgViewers": 136.0,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "〖 歌枠╎KARAOKE 〗 久しぶりの歌枠だあ.ᐟ.ᐟ⭐︎  〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 19.6,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.33,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 301.0,
-          "peakViewers": 301
+          "avgViewers": 331.5,
+          "peakViewers": 362
         },
         "week": {
-          "totalMinutes": 697.9,
+          "totalMinutes": 717.5,
           "gameMinutes": 0.0,
-          "totalHours": 11.63,
+          "totalHours": 11.96,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 258.3,
+          "avgViewers": 260.3,
           "peakViewers": 526
         },
         "month": {
-          "totalMinutes": 697.9,
+          "totalMinutes": 717.5,
           "gameMinutes": 0.0,
-          "totalHours": 11.63,
+          "totalHours": 11.96,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 258.3,
+          "avgViewers": 260.3,
           "peakViewers": 526
         }
       },
@@ -360,13 +360,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 301,
-      "livePeakViewers": 301,
-      "liveAvgViewers": 301.0,
+      "liveViewers": 362,
+      "livePeakViewers": 362,
+      "liveAvgViewers": 331.5,
       "liveSamples": [
         [
           "2026-10-08T11:26:30Z",
           301
+        ],
+        [
+          "2026-10-08T11:46:06Z",
+          362
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=5wu3N31bIcA"
@@ -383,30 +387,30 @@
       "lastTitle": "🟣10/2【 #雑談 】先月の振り返り、そして今月は...【 maŸUko / #Vtuber 】",
       "buckets": {
         "today": {
-          "totalMinutes": 25.7,
+          "totalMinutes": 45.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.43,
+          "totalHours": 0.76,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 4.5,
+          "avgViewers": 4.0,
           "peakViewers": 5
         },
         "week": {
-          "totalMinutes": 25.7,
+          "totalMinutes": 45.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.43,
+          "totalHours": 0.76,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 4.5,
+          "avgViewers": 4.0,
           "peakViewers": 5
         },
         "month": {
-          "totalMinutes": 198.6,
+          "totalMinutes": 218.2,
           "gameMinutes": 0.0,
-          "totalHours": 3.31,
+          "totalHours": 3.64,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 6.8,
+          "avgViewers": 6.4,
           "peakViewers": 10
         }
       },
@@ -582,9 +586,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 5,
+      "liveViewers": 3,
       "livePeakViewers": 5,
-      "liveAvgViewers": 4.5,
+      "liveAvgViewers": 4.0,
       "liveSamples": [
         [
           "2026-10-08T11:00:47Z",
@@ -593,6 +597,10 @@
         [
           "2026-10-08T11:26:30Z",
           5
+        ],
+        [
+          "2026-10-08T11:46:06Z",
+          3
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=Cub29FhKZPY"
