@@ -2,53 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "Cub29FhKZPY",
-      "start": "2026-10-08T11:00:47Z",
-      "startSource": "observed",
-      "title": "🟣10/8【 同時視聴 】東西戦争の公演Day2を見ながら、やいの！する配信【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 6,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-08T11:00:47Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
-      "samples": [
-        [
-          "2026-10-08T11:00:47Z",
-          4
-        ],
-        [
-          "2026-10-08T11:26:30Z",
-          5
-        ],
-        [
-          "2026-10-08T11:46:06Z",
-          3
-        ],
-        [
-          "2026-10-08T12:01:18Z",
-          4
-        ],
-        [
-          "2026-10-08T12:33:21Z",
-          6
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          4
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          4
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          5
-        ]
-      ]
-    },
     "UCEtUOMEAuAMz8dor89rt2RA": {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -60,7 +13,7 @@
       "peakViewers": 379,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T11:26:30Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": [
         [
           "2026-10-08T11:26:30Z",
@@ -89,41 +42,10 @@
         [
           "2026-10-08T13:50:44Z",
           223
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "ZgQkHISBUOE",
-      "start": "2026-10-08T12:01:18Z",
-      "startSource": "observed",
-      "title": "【真･三國無双2R Steam版】記憶を辿って、懐かしんでいこう！ネタバレ注意【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "game": null,
-      "peakViewers": 12,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-08T12:01:18Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
-      "samples": [
-        [
-          "2026-10-08T12:01:18Z",
-          6
         ],
         [
-          "2026-10-08T12:33:21Z",
-          12
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          9
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          11
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          12
+          "2026-10-08T14:15:07Z",
+          245
         ]
       ]
     },
@@ -138,7 +60,7 @@
       "peakViewers": 78,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T12:33:21Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": [
         [
           "2026-10-08T12:33:21Z",
@@ -155,6 +77,10 @@
         [
           "2026-10-08T13:50:44Z",
           78
+        ],
+        [
+          "2026-10-08T14:15:07Z",
+          78
         ]
       ]
     },
@@ -166,10 +92,10 @@
       "startSource": "observed",
       "title": "【雑談】浮気判定シートガチで答えてみる【氷乃渚 / ゆにれいど！】",
       "game": null,
-      "peakViewers": 89,
+      "peakViewers": 90,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T12:33:21Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": [
         [
           "2026-10-08T12:33:21Z",
@@ -186,6 +112,10 @@
         [
           "2026-10-08T13:50:44Z",
           87
+        ],
+        [
+          "2026-10-08T14:15:07Z",
+          90
         ]
       ]
     },
@@ -200,7 +130,7 @@
       "peakViewers": null,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T13:30:47Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": []
     },
     "UCeTb2MQrm8UBChlecw7pQOA": {
@@ -214,7 +144,7 @@
       "peakViewers": 219,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T13:30:47Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": [
         [
           "2026-10-08T13:30:47Z",
@@ -223,6 +153,10 @@
         [
           "2026-10-08T13:50:44Z",
           189
+        ],
+        [
+          "2026-10-08T14:15:07Z",
+          165
         ]
       ]
     },
@@ -237,7 +171,7 @@
       "peakViewers": 31,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T13:30:47Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": [
         [
           "2026-10-08T13:30:47Z",
@@ -246,6 +180,10 @@
         [
           "2026-10-08T13:50:44Z",
           31
+        ],
+        [
+          "2026-10-08T14:15:07Z",
+          24
         ]
       ]
     },
@@ -257,10 +195,10 @@
       "startSource": "observed",
       "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
       "game": null,
-      "peakViewers": 42,
+      "peakViewers": 47,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T13:30:47Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": [
         [
           "2026-10-08T13:30:47Z",
@@ -269,6 +207,10 @@
         [
           "2026-10-08T13:50:44Z",
           42
+        ],
+        [
+          "2026-10-08T14:15:07Z",
+          47
         ]
       ]
     },
@@ -280,14 +222,37 @@
       "startSource": "observed",
       "title": "【ほの暮しの庭】# 6 日本語勉強は続く！田舎暮らしも！【甘音あむ / ネオポルテ】",
       "game": null,
-      "peakViewers": 63,
+      "peakViewers": 89,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T13:50:44Z",
-      "lastSeenAt": "2026-10-08T13:50:44Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
       "samples": [
         [
           "2026-10-08T13:50:44Z",
           63
+        ],
+        [
+          "2026-10-08T14:15:07Z",
+          89
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "LeOv7qCmfAc",
+      "start": "2026-10-08T14:15:07Z",
+      "startSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　初心者マークが外れた初めての朝　 ～Day20～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 73,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-08T14:15:07Z",
+      "lastSeenAt": "2026-10-08T14:15:07Z",
+      "samples": [
+        [
+          "2026-10-08T14:15:07Z",
+          73
         ]
       ]
     }
@@ -34928,6 +34893,56 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "Cub29FhKZPY",
+      "videoUrl": "https://www.youtube.com/watch?v=Cub29FhKZPY",
+      "start": "2026-10-08T11:00:47Z",
+      "end": "2026-10-08T14:15:07Z",
+      "minutes": 194.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣10/8【 同時視聴 】東西戦争の公演Day2を見ながら、やいの！する配信【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 6,
+      "avgViewers": 4.4,
+      "samples": [
+        [
+          "2026-10-08T11:00:47Z",
+          4
+        ],
+        [
+          "2026-10-08T11:26:30Z",
+          5
+        ],
+        [
+          "2026-10-08T11:46:06Z",
+          3
+        ],
+        [
+          "2026-10-08T12:01:18Z",
+          4
+        ],
+        [
+          "2026-10-08T12:33:21Z",
+          6
+        ],
+        [
+          "2026-10-08T13:00:14Z",
+          4
+        ],
+        [
+          "2026-10-08T13:30:47Z",
+          4
+        ],
+        [
+          "2026-10-08T13:50:44Z",
+          5
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
       "name": "メーメントヴァニタス",
       "videoId": "aCFnjRLkBQQ",
@@ -34957,6 +34972,44 @@
         [
           "2026-10-08T13:30:47Z",
           694
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "ZgQkHISBUOE",
+      "videoUrl": "https://www.youtube.com/watch?v=ZgQkHISBUOE",
+      "start": "2026-10-08T12:01:18Z",
+      "end": "2026-10-08T14:15:07Z",
+      "minutes": 133.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【真･三國無双2R Steam版】記憶を辿って、懐かしんでいこう！ネタバレ注意【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 12,
+      "avgViewers": 9.8,
+      "samples": [
+        [
+          "2026-10-08T12:01:18Z",
+          6
+        ],
+        [
+          "2026-10-08T12:33:21Z",
+          12
+        ],
+        [
+          "2026-10-08T13:00:14Z",
+          9
+        ],
+        [
+          "2026-10-08T13:30:47Z",
+          11
+        ],
+        [
+          "2026-10-08T13:50:44Z",
+          12
         ]
       ],
       "isTargetGame": false
