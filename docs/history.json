@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T05:35:36Z",
+  "updatedAt": "2026-10-08T05:53:51Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1034.4,
+      "totalMinutes": 1052.6,
       "gameMinutes": 0.0,
-      "totalHours": 17.24,
+      "totalHours": 17.54,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 172.4,
+      "avgViewers": 169.8,
       "peakViewers": 820
     },
     "week": {
-      "totalMinutes": 9181.5,
+      "totalMinutes": 9199.8,
       "gameMinutes": 0.0,
-      "totalHours": 153.03,
+      "totalHours": 153.33,
       "gameHours": 0.0,
       "sessions": 60,
-      "avgViewers": 162.7,
+      "avgViewers": 162.4,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 22376.8,
+      "totalMinutes": 22395.1,
       "gameMinutes": 0.0,
-      "totalHours": 372.95,
+      "totalHours": 373.25,
       "gameHours": 0.0,
       "sessions": 113,
-      "avgViewers": 136.6,
+      "avgViewers": 136.5,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "日曜の激チルメン限【水上蒼太/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 22.5,
+          "totalMinutes": 40.7,
           "gameMinutes": 0.0,
-          "totalHours": 0.37,
+          "totalHours": 0.68,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 23.5,
-          "peakViewers": 26
+          "avgViewers": 28.5,
+          "peakViewers": 39
         },
         "week": {
-          "totalMinutes": 71.3,
+          "totalMinutes": 89.6,
           "gameMinutes": 0.0,
-          "totalHours": 1.19,
+          "totalHours": 1.49,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 23.5,
-          "peakViewers": 26
+          "avgViewers": 28.5,
+          "peakViewers": 39
         },
         "month": {
-          "totalMinutes": 1168.2,
+          "totalMinutes": 1186.5,
           "gameMinutes": 0.0,
-          "totalHours": 19.47,
+          "totalHours": 19.77,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 21.6,
+          "avgViewers": 21.8,
           "peakViewers": 45
         }
       },
@@ -307,9 +307,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 26,
-      "livePeakViewers": 26,
-      "liveAvgViewers": 23.5,
+      "liveViewers": 39,
+      "livePeakViewers": 39,
+      "liveAvgViewers": 28.5,
       "liveSamples": [
         [
           "2026-10-08T05:13:08Z",
@@ -318,6 +318,10 @@
         [
           "2026-10-08T05:35:36Z",
           26
+        ],
+        [
+          "2026-10-08T05:53:51Z",
+          39
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=OowR6xykfc4"
