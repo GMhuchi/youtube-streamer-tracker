@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T10:21:16Z",
+  "updatedAt": "2026-10-08T10:45:21Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,27 +16,27 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1124.5,
+      "totalMinutes": 1148.6,
       "gameMinutes": 0.0,
-      "totalHours": 18.74,
+      "totalHours": 19.14,
       "gameHours": 0.0,
       "sessions": 12,
-      "avgViewers": 160.1,
+      "avgViewers": 158.8,
       "peakViewers": 820
     },
     "week": {
-      "totalMinutes": 9271.7,
+      "totalMinutes": 9295.7,
       "gameMinutes": 0.0,
-      "totalHours": 154.53,
+      "totalHours": 154.93,
       "gameHours": 0.0,
       "sessions": 61,
-      "avgViewers": 161.3,
+      "avgViewers": 161.2,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 22466.9,
+      "totalMinutes": 22491.0,
       "gameMinutes": 0.0,
-      "totalHours": 374.45,
+      "totalHours": 374.85,
       "gameHours": 0.0,
       "sessions": 114,
       "avgViewers": 136.2,
@@ -56,30 +56,30 @@
       "lastTitle": "【 マシュマロ回答 】10月になったので溜まりに溜まったマシュマロを解凍するぞ🔥【 すずみあ / 赤彩みあ 】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 24.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 0.4,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 98.0,
-          "peakViewers": 98
+          "avgViewers": 106.0,
+          "peakViewers": 114
         },
         "week": {
-          "totalMinutes": 388.1,
+          "totalMinutes": 412.2,
           "gameMinutes": 0.0,
-          "totalHours": 6.47,
+          "totalHours": 6.87,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 374.1,
+          "avgViewers": 358.4,
           "peakViewers": 800
         },
         "month": {
-          "totalMinutes": 451.9,
+          "totalMinutes": 475.9,
           "gameMinutes": 0.0,
-          "totalHours": 7.53,
+          "totalHours": 7.93,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 340.1,
+          "avgViewers": 328.3,
           "peakViewers": 800
         }
       },
@@ -304,13 +304,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 98,
-      "livePeakViewers": 98,
-      "liveAvgViewers": 98.0,
+      "liveViewers": 114,
+      "livePeakViewers": 114,
+      "liveAvgViewers": 106.0,
       "liveSamples": [
         [
           "2026-10-08T10:21:16Z",
           98
+        ],
+        [
+          "2026-10-08T10:45:21Z",
+          114
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=ocBkYeR3t2Y"
