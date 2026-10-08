@@ -2,65 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "LeOv7qCmfAc",
-      "start": "2026-10-08T14:15:07Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　初心者マークが外れた初めての朝　 ～Day20～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 104,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-08T14:15:07Z",
-      "lastSeenAt": "2026-10-08T17:53:46Z",
-      "samples": [
-        [
-          "2026-10-08T14:15:07Z",
-          73
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          99
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          101
-        ],
-        [
-          "2026-10-08T15:21:17Z",
-          98
-        ],
-        [
-          "2026-10-08T15:47:03Z",
-          89
-        ],
-        [
-          "2026-10-08T16:03:23Z",
-          94
-        ],
-        [
-          "2026-10-08T16:29:53Z",
-          104
-        ],
-        [
-          "2026-10-08T16:52:28Z",
-          81
-        ],
-        [
-          "2026-10-08T17:12:55Z",
-          95
-        ],
-        [
-          "2026-10-08T17:35:26Z",
-          70
-        ],
-        [
-          "2026-10-08T17:53:46Z",
-          80
-        ]
-      ]
-    },
     "UCEtUOMEAuAMz8dor89rt2RA": {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -69,10 +10,10 @@
       "startSource": "observed",
       "title": "〖 APEX 〗 久々ハセのあてとフルパ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 254,
+      "peakViewers": 265,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T16:29:53Z",
-      "lastSeenAt": "2026-10-08T17:53:46Z",
+      "lastSeenAt": "2026-10-08T18:13:57Z",
       "samples": [
         [
           "2026-10-08T16:29:53Z",
@@ -93,6 +34,10 @@
         [
           "2026-10-08T17:53:46Z",
           254
+        ],
+        [
+          "2026-10-08T18:13:57Z",
+          265
         ]
       ]
     }
@@ -35217,6 +35162,68 @@
         [
           "2026-10-08T16:03:23Z",
           100
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "LeOv7qCmfAc",
+      "videoUrl": "https://www.youtube.com/watch?v=LeOv7qCmfAc",
+      "start": "2026-10-08T14:15:07Z",
+      "end": "2026-10-08T18:13:57Z",
+      "minutes": 238.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　初心者マークが外れた初めての朝　 ～Day20～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 104,
+      "avgViewers": 89.8,
+      "samples": [
+        [
+          "2026-10-08T14:15:07Z",
+          73
+        ],
+        [
+          "2026-10-08T14:39:35Z",
+          99
+        ],
+        [
+          "2026-10-08T14:58:53Z",
+          101
+        ],
+        [
+          "2026-10-08T15:21:17Z",
+          98
+        ],
+        [
+          "2026-10-08T15:47:03Z",
+          89
+        ],
+        [
+          "2026-10-08T16:03:23Z",
+          94
+        ],
+        [
+          "2026-10-08T16:29:53Z",
+          104
+        ],
+        [
+          "2026-10-08T16:52:28Z",
+          81
+        ],
+        [
+          "2026-10-08T17:12:55Z",
+          95
+        ],
+        [
+          "2026-10-08T17:35:26Z",
+          70
+        ],
+        [
+          "2026-10-08T17:53:46Z",
+          80
         ]
       ],
       "isTargetGame": false
