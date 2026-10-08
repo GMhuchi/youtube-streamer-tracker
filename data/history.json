@@ -1,43 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "OowR6xykfc4",
-      "start": "2026-10-08T05:13:08Z",
-      "startSource": "observed",
-      "title": "【雑談】とんでも良い声の雑談配信【水上蒼太/ゆにれいど！】#shorts",
-      "game": null,
-      "peakViewers": 39,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-08T05:13:08Z",
-      "lastSeenAt": "2026-10-08T06:45:07Z",
-      "samples": [
-        [
-          "2026-10-08T05:13:08Z",
-          21
-        ],
-        [
-          "2026-10-08T05:35:36Z",
-          26
-        ],
-        [
-          "2026-10-08T05:53:51Z",
-          39
-        ],
-        [
-          "2026-10-08T06:16:50Z",
-          32
-        ],
-        [
-          "2026-10-08T06:45:07Z",
-          31
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -34601,6 +34565,44 @@
         [
           "2026-10-08T01:36:22Z",
           19
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "OowR6xykfc4",
+      "videoUrl": "https://www.youtube.com/watch?v=OowR6xykfc4",
+      "start": "2026-10-08T05:13:08Z",
+      "end": "2026-10-08T07:05:43Z",
+      "minutes": 112.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】とんでも良い声の雑談配信【水上蒼太/ゆにれいど！】#shorts",
+      "game": null,
+      "peakViewers": 39,
+      "avgViewers": 30.1,
+      "samples": [
+        [
+          "2026-10-08T05:13:08Z",
+          21
+        ],
+        [
+          "2026-10-08T05:35:36Z",
+          26
+        ],
+        [
+          "2026-10-08T05:53:51Z",
+          39
+        ],
+        [
+          "2026-10-08T06:16:50Z",
+          32
+        ],
+        [
+          "2026-10-08T06:45:07Z",
+          31
         ]
       ],
       "isTargetGame": false

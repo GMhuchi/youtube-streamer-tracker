@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:45:07Z",
+  "updatedAt": "2026-10-08T07:05:43Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,324 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1103.9,
+      "totalMinutes": 1124.5,
       "gameMinutes": 0.0,
-      "totalHours": 18.4,
+      "totalHours": 18.74,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 162.7,
+      "avgViewers": 160.1,
       "peakViewers": 820
     },
     "week": {
-      "totalMinutes": 9251.1,
+      "totalMinutes": 9271.6,
       "gameMinutes": 0.0,
-      "totalHours": 154.18,
+      "totalHours": 154.53,
       "gameHours": 0.0,
       "sessions": 60,
-      "avgViewers": 161.6,
+      "avgViewers": 161.3,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 22446.3,
+      "totalMinutes": 22466.9,
       "gameMinutes": 0.0,
-      "totalHours": 374.11,
+      "totalHours": 374.45,
       "gameHours": 0.0,
       "sessions": 113,
-      "avgViewers": 136.3,
+      "avgViewers": 136.2,
       "peakViewers": 997
     }
   },
   "channels": [
-    {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCAS1tKQTTPVw4-TFnKTzvnw",
-      "isLive": true,
-      "liveSince": "2026-10-08T05:13:08Z",
-      "liveTitle": "【雑談】とんでも良い声の雑談配信【水上蒼太/ゆにれいど！】#shorts",
-      "lastEnd": "2026-10-04T15:48:51Z",
-      "lastTitle": "日曜の激チルメン限【水上蒼太/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 92.0,
-          "gameMinutes": 0.0,
-          "totalHours": 1.53,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 30.1,
-          "peakViewers": 39
-        },
-        "week": {
-          "totalMinutes": 140.8,
-          "gameMinutes": 0.0,
-          "totalHours": 2.35,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 30.1,
-          "peakViewers": 39
-        },
-        "month": {
-          "totalMinutes": 1237.8,
-          "gameMinutes": 0.0,
-          "totalHours": 20.63,
-          "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 22.2,
-          "peakViewers": 45
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "7Gw0K8TSWcM",
-          "videoUrl": "https://www.youtube.com/watch?v=7Gw0K8TSWcM",
-          "start": "2026-10-04T14:06:43Z",
-          "end": "2026-10-04T15:48:51Z",
-          "minutes": 102.1,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "日曜の激チルメン限【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "hdHNS72GmNc",
-          "videoUrl": "https://www.youtube.com/watch?v=hdHNS72GmNc",
-          "start": "2026-10-03T09:42:23Z",
-          "end": "2026-10-03T18:37:56Z",
-          "minutes": 535.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#6【#天下無双ARK】最終日！！！！天下無双最強とさせていただきます。【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 18,
-          "avgViewers": 16.4,
-          "samples": [
-            [
-              "2026-10-03T09:42:23Z",
-              12
-            ],
-            [
-              "2026-10-03T09:57:19Z",
-              16
-            ],
-            [
-              "2026-10-03T10:15:15Z",
-              16
-            ],
-            [
-              "2026-10-03T10:36:04Z",
-              15
-            ],
-            [
-              "2026-10-03T11:08:19Z",
-              18
-            ],
-            [
-              "2026-10-03T14:36:05Z",
-              13
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "qWdPqkm6POk",
-          "videoUrl": "https://www.youtube.com/watch?v=qWdPqkm6POk",
-          "start": "2026-10-02T13:46:53Z",
-          "end": "2026-10-02T18:39:38Z",
-          "minutes": 292.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#5【#天下無双ARK】ハロウィンやってるらしいぞ！！！明日最終日【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 16.6,
-          "samples": [
-            [
-              "2026-10-02T13:46:53Z",
-              10
-            ],
-            [
-              "2026-10-02T14:01:08Z",
-              10
-            ],
-            [
-              "2026-10-02T14:27:11Z",
-              11
-            ],
-            [
-              "2026-10-02T14:48:35Z",
-              14
-            ],
-            [
-              "2026-10-02T15:02:34Z",
-              19
-            ],
-            [
-              "2026-10-02T15:27:00Z",
-              18
-            ],
-            [
-              "2026-10-02T15:47:18Z",
-              20
-            ],
-            [
-              "2026-10-02T16:00:24Z",
-              16
-            ],
-            [
-              "2026-10-02T16:25:11Z",
-              22
-            ],
-            [
-              "2026-10-02T16:45:07Z",
-              17
-            ],
-            [
-              "2026-10-02T16:59:20Z",
-              18
-            ],
-            [
-              "2026-10-02T17:19:57Z",
-              17
-            ],
-            [
-              "2026-10-02T17:36:03Z",
-              19
-            ],
-            [
-              "2026-10-02T17:51:29Z",
-              17
-            ],
-            [
-              "2026-10-02T18:15:29Z",
-              22
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "aUKoGWpBSAk",
-          "videoUrl": "https://www.youtube.com/watch?v=aUKoGWpBSAk",
-          "start": "2026-10-01T13:16:09Z",
-          "end": "2026-10-01T16:51:29Z",
-          "minutes": 215.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】とてもいい声で　久しぶりに歌う【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 45,
-          "avgViewers": 41.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "dsFdO_NQsP0",
-          "videoUrl": "https://www.youtube.com/watch?v=dsFdO_NQsP0",
-          "start": "2026-09-28T11:53:24Z",
-          "end": "2026-09-28T18:14:10Z",
-          "minutes": 380.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#4【#天下無双ARK】見せてもらおうか、拠点の発展具合とやらを🦖【水上蒼太/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 46,
-          "avgViewers": 26.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "u7QD0RA_cps",
-          "videoUrl": "https://www.youtube.com/watch?v=u7QD0RA_cps",
-          "start": "2026-09-26T04:17:16Z",
-          "end": "2026-09-26T11:43:14Z",
-          "minutes": 446.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#leagueoflegends 】遂に大会本番です。勝ちます！！！！！【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-          "game": null,
-          "peakViewers": 164,
-          "avgViewers": 98.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "tGYp55nDbKo",
-          "videoUrl": "https://www.youtube.com/watch?v=tGYp55nDbKo",
-          "start": "2026-09-25T10:16:06Z",
-          "end": "2026-09-25T14:12:18Z",
-          "minutes": 236.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#leagueoflegends 】公式スクリム最終日。明日の本番に向けて調整や【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
-          "game": null,
-          "peakViewers": 35,
-          "avgViewers": 29.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-          "name": "水上蒼太",
-          "videoId": "PKwISHJoSn0",
-          "videoUrl": "https://www.youtube.com/watch?v=PKwISHJoSn0",
-          "start": "2026-09-25T06:45:57Z",
-          "end": "2026-09-25T08:16:49Z",
-          "minutes": 90.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】久しぶりの雑談ザウルス【水上蒼太/ゆにれいど！】#shorts",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 42.3,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 31,
-      "livePeakViewers": 39,
-      "liveAvgViewers": 30.1,
-      "liveSamples": [
-        [
-          "2026-10-08T05:13:08Z",
-          21
-        ],
-        [
-          "2026-10-08T05:35:36Z",
-          26
-        ],
-        [
-          "2026-10-08T05:53:51Z",
-          39
-        ],
-        [
-          "2026-10-08T06:16:50Z",
-          32
-        ],
-        [
-          "2026-10-08T06:45:07Z",
-          31
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=OowR6xykfc4"
-    },
     {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
@@ -1897,6 +1607,230 @@
           "game": null,
           "peakViewers": 61,
           "avgViewers": 49.8,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCAS1tKQTTPVw4-TFnKTzvnw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-08T07:05:43Z",
+      "lastTitle": "【雑談】とんでも良い声の雑談配信【水上蒼太/ゆにれいど！】#shorts",
+      "buckets": {
+        "today": {
+          "totalMinutes": 112.6,
+          "gameMinutes": 0.0,
+          "totalHours": 1.88,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 30.1,
+          "peakViewers": 39
+        },
+        "week": {
+          "totalMinutes": 161.4,
+          "gameMinutes": 0.0,
+          "totalHours": 2.69,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 30.1,
+          "peakViewers": 39
+        },
+        "month": {
+          "totalMinutes": 1258.3,
+          "gameMinutes": 0.0,
+          "totalHours": 20.97,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 22.4,
+          "peakViewers": 45
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "OowR6xykfc4",
+          "videoUrl": "https://www.youtube.com/watch?v=OowR6xykfc4",
+          "start": "2026-10-08T05:13:08Z",
+          "end": "2026-10-08T07:05:43Z",
+          "minutes": 112.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】とんでも良い声の雑談配信【水上蒼太/ゆにれいど！】#shorts",
+          "game": null,
+          "peakViewers": 39,
+          "avgViewers": 30.1,
+          "samples": [
+            [
+              "2026-10-08T05:13:08Z",
+              21
+            ],
+            [
+              "2026-10-08T05:35:36Z",
+              26
+            ],
+            [
+              "2026-10-08T05:53:51Z",
+              39
+            ],
+            [
+              "2026-10-08T06:16:50Z",
+              32
+            ],
+            [
+              "2026-10-08T06:45:07Z",
+              31
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "7Gw0K8TSWcM",
+          "videoUrl": "https://www.youtube.com/watch?v=7Gw0K8TSWcM",
+          "start": "2026-10-04T14:06:43Z",
+          "end": "2026-10-04T15:48:51Z",
+          "minutes": 102.1,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "日曜の激チルメン限【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "hdHNS72GmNc",
+          "videoUrl": "https://www.youtube.com/watch?v=hdHNS72GmNc",
+          "start": "2026-10-03T09:42:23Z",
+          "end": "2026-10-03T18:37:56Z",
+          "minutes": 535.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#6【#天下無双ARK】最終日！！！！天下無双最強とさせていただきます。【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 18,
+          "avgViewers": 16.4,
+          "samples": [
+            [
+              "2026-10-03T09:42:23Z",
+              12
+            ],
+            [
+              "2026-10-03T09:57:19Z",
+              16
+            ],
+            [
+              "2026-10-03T10:15:15Z",
+              16
+            ],
+            [
+              "2026-10-03T10:36:04Z",
+              15
+            ],
+            [
+              "2026-10-03T11:08:19Z",
+              18
+            ],
+            [
+              "2026-10-03T14:36:05Z",
+              13
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "qWdPqkm6POk",
+          "videoUrl": "https://www.youtube.com/watch?v=qWdPqkm6POk",
+          "start": "2026-10-02T13:46:53Z",
+          "end": "2026-10-02T18:39:38Z",
+          "minutes": 292.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#5【#天下無双ARK】ハロウィンやってるらしいぞ！！！明日最終日【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 16.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "aUKoGWpBSAk",
+          "videoUrl": "https://www.youtube.com/watch?v=aUKoGWpBSAk",
+          "start": "2026-10-01T13:16:09Z",
+          "end": "2026-10-01T16:51:29Z",
+          "minutes": 215.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】とてもいい声で　久しぶりに歌う【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 45,
+          "avgViewers": 41.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "dsFdO_NQsP0",
+          "videoUrl": "https://www.youtube.com/watch?v=dsFdO_NQsP0",
+          "start": "2026-09-28T11:53:24Z",
+          "end": "2026-09-28T18:14:10Z",
+          "minutes": 380.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#4【#天下無双ARK】見せてもらおうか、拠点の発展具合とやらを🦖【水上蒼太/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 46,
+          "avgViewers": 26.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "u7QD0RA_cps",
+          "videoUrl": "https://www.youtube.com/watch?v=u7QD0RA_cps",
+          "start": "2026-09-26T04:17:16Z",
+          "end": "2026-09-26T11:43:14Z",
+          "minutes": 446.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#leagueoflegends 】遂に大会本番です。勝ちます！！！！！【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+          "game": null,
+          "peakViewers": 164,
+          "avgViewers": 98.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+          "name": "水上蒼太",
+          "videoId": "tGYp55nDbKo",
+          "videoUrl": "https://www.youtube.com/watch?v=tGYp55nDbKo",
+          "start": "2026-09-25T10:16:06Z",
+          "end": "2026-09-25T14:12:18Z",
+          "minutes": 236.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#leagueoflegends 】公式スクリム最終日。明日の本番に向けて調整や【黒騎士杯】　【彩歌すいれん/真白ぽん/Δ.DELUTAYA/夏芽川アキ/Alchemy/水上蒼太】※敬称略",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 29.7,
           "samples": [],
           "isTargetGame": false
         }
@@ -5220,6 +5154,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "OowR6xykfc4",
+      "videoUrl": "https://www.youtube.com/watch?v=OowR6xykfc4",
+      "start": "2026-10-08T05:13:08Z",
+      "end": "2026-10-08T07:05:43Z",
+      "minutes": 112.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】とんでも良い声の雑談配信【水上蒼太/ゆにれいど！】#shorts",
+      "game": null,
+      "peakViewers": 39,
+      "avgViewers": 30.1,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
       "name": "十神仁",
       "videoId": "TtYHWGB9jEQ",
@@ -6161,22 +6111,6 @@
       "game": null,
       "peakViewers": 22,
       "avgViewers": 22.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "AOnhM4W6JIA",
-      "videoUrl": "https://www.youtube.com/watch?v=AOnhM4W6JIA",
-      "start": "2026-10-04T02:16:06Z",
-      "end": "2026-10-04T15:04:42Z",
-      "minutes": 768.6,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
-      "game": null,
-      "peakViewers": 42,
-      "avgViewers": 35.4,
       "isTargetGame": false
     }
   ]
