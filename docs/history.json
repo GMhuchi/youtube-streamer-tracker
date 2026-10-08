@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T22:12:04Z",
+  "updatedAt": "2026-10-08T22:35:12Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 910.4,
+      "totalMinutes": 933.5,
       "gameMinutes": 0.0,
-      "totalHours": 15.17,
+      "totalHours": 15.56,
       "gameHours": 0.0,
-      "sessions": 10,
-      "avgViewers": 125.1,
+      "sessions": 11,
+      "avgViewers": 122.7,
       "peakViewers": 379
     },
     "week": {
-      "totalMinutes": 11655.4,
+      "totalMinutes": 11678.6,
       "gameMinutes": 0.0,
-      "totalHours": 194.26,
+      "totalHours": 194.64,
       "gameHours": 0.0,
-      "sessions": 75,
-      "avgViewers": 155.6,
+      "sessions": 76,
+      "avgViewers": 155.4,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 24850.7,
+      "totalMinutes": 24873.8,
       "gameMinutes": 0.0,
-      "totalHours": 414.18,
+      "totalHours": 414.56,
       "gameHours": 0.0,
-      "sessions": 128,
-      "avgViewers": 136.1,
+      "sessions": 129,
+      "avgViewers": 136.0,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "【真･三國無双2R Steam版】記憶を辿って、懐かしんでいこう！ネタバレ注意【埼凰リンネ / YUMENOS】 #新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 59.2,
+          "totalMinutes": 82.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.99,
+          "totalHours": 1.37,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 23.0,
+          "avgViewers": 23.8,
           "peakViewers": 29
         },
         "week": {
-          "totalMinutes": 670.0,
+          "totalMinutes": 693.1,
           "gameMinutes": 0.0,
-          "totalHours": 11.17,
+          "totalHours": 11.55,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 15.8,
+          "avgViewers": 16.1,
           "peakViewers": 29
         },
         "month": {
-          "totalMinutes": 1260.4,
+          "totalMinutes": 1283.5,
           "gameMinutes": 0.0,
-          "totalHours": 21.01,
+          "totalHours": 21.39,
           "gameHours": 0.0,
           "sessions": 10,
-          "avgViewers": 16.6,
+          "avgViewers": 16.7,
           "peakViewers": 29
         }
       },
@@ -316,9 +316,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 29,
+      "liveViewers": 26,
       "livePeakViewers": 29,
-      "liveAvgViewers": 23.0,
+      "liveAvgViewers": 23.8,
       "liveSamples": [
         [
           "2026-10-08T21:12:52Z",
@@ -335,9 +335,308 @@
         [
           "2026-10-08T22:12:04Z",
           29
+        ],
+        [
+          "2026-10-08T22:35:12Z",
+          26
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=NCKWCXGAZsc"
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
+      "isLive": true,
+      "liveSince": "2026-10-08T22:35:12Z",
+      "liveTitle": "【朝枠】いっぱい！おはよーって言ってください🧸【甘音あむ / ネオポルテ】",
+      "lastEnd": "2026-10-08T16:29:53Z",
+      "lastTitle": "【ほの暮しの庭】# 6 日本語勉強は続く！田舎暮らしも！【甘音あむ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 89.9,
+          "gameMinutes": 0.0,
+          "totalHours": 1.5,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 91.9,
+          "peakViewers": 104
+        },
+        "week": {
+          "totalMinutes": 1129.4,
+          "gameMinutes": 0.0,
+          "totalHours": 18.82,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 158.3,
+          "peakViewers": 278
+        },
+        "month": {
+          "totalMinutes": 1129.4,
+          "gameMinutes": 0.0,
+          "totalHours": 18.82,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 158.3,
+          "peakViewers": 278
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "MN3l7ccTX2U",
+          "videoUrl": "https://www.youtube.com/watch?v=MN3l7ccTX2U",
+          "start": "2026-10-08T13:50:44Z",
+          "end": "2026-10-08T16:29:53Z",
+          "minutes": 159.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほの暮しの庭】# 6 日本語勉強は続く！田舎暮らしも！【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 104,
+          "avgViewers": 91.9,
+          "samples": [
+            [
+              "2026-10-08T13:50:44Z",
+              63
+            ],
+            [
+              "2026-10-08T14:15:07Z",
+              89
+            ],
+            [
+              "2026-10-08T14:39:35Z",
+              96
+            ],
+            [
+              "2026-10-08T14:58:53Z",
+              104
+            ],
+            [
+              "2026-10-08T15:21:17Z",
+              98
+            ],
+            [
+              "2026-10-08T15:47:03Z",
+              97
+            ],
+            [
+              "2026-10-08T16:03:23Z",
+              100
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "kugmh2PwT-w",
+          "videoUrl": "https://www.youtube.com/watch?v=kugmh2PwT-w",
+          "start": "2026-10-07T14:47:58Z",
+          "end": "2026-10-07T15:03:50Z",
+          "minutes": 15.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【APEX】甘音あむはゴールドになりたい。【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 158,
+          "avgViewers": 158.0,
+          "samples": [
+            [
+              "2026-10-07T14:47:58Z",
+              158
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "kugmh2PwT-w",
+          "videoUrl": "https://www.youtube.com/watch?v=kugmh2PwT-w",
+          "start": "2026-10-07T08:03:08Z",
+          "end": "2026-10-07T14:27:31Z",
+          "minutes": 384.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【APEX】甘音あむはゴールドになりたい。【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 196,
+          "avgViewers": 134.5,
+          "samples": [
+            [
+              "2026-10-07T08:03:08Z",
+              50
+            ],
+            [
+              "2026-10-07T08:28:44Z",
+              124
+            ],
+            [
+              "2026-10-07T08:50:06Z",
+              173
+            ],
+            [
+              "2026-10-07T09:03:33Z",
+              189
+            ],
+            [
+              "2026-10-07T09:27:47Z",
+              164
+            ],
+            [
+              "2026-10-07T09:48:37Z",
+              170
+            ],
+            [
+              "2026-10-07T10:03:37Z",
+              196
+            ],
+            [
+              "2026-10-07T10:26:51Z",
+              139
+            ],
+            [
+              "2026-10-07T10:46:46Z",
+              137
+            ],
+            [
+              "2026-10-07T11:01:45Z",
+              126
+            ],
+            [
+              "2026-10-07T11:25:30Z",
+              122
+            ],
+            [
+              "2026-10-07T11:44:42Z",
+              120
+            ],
+            [
+              "2026-10-07T12:00:15Z",
+              126
+            ],
+            [
+              "2026-10-07T12:32:59Z",
+              143
+            ],
+            [
+              "2026-10-07T13:00:09Z",
+              122
+            ],
+            [
+              "2026-10-07T13:23:41Z",
+              111
+            ],
+            [
+              "2026-10-07T13:44:45Z",
+              124
+            ],
+            [
+              "2026-10-07T14:01:12Z",
+              111
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "Lrhcl7uqGIE",
+          "videoUrl": "https://www.youtube.com/watch?v=Lrhcl7uqGIE",
+          "start": "2026-10-06T14:03:38Z",
+          "end": "2026-10-06T16:23:08Z",
+          "minutes": 139.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【お絵かき雑談】# ② 動く待機画面のパーツ分け線画タイム🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 147,
+          "avgViewers": 116.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "TAHDNlfRMus",
+          "videoUrl": "https://www.youtube.com/watch?v=TAHDNlfRMus",
+          "start": "2026-10-05T11:25:44Z",
+          "end": "2026-10-05T12:59:35Z",
+          "minutes": 93.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "歌うます。聴いてくれますか。 #歌枠 【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 278,
+          "avgViewers": 255.6,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "Jn51uqnzjr4",
+          "videoUrl": "https://www.youtube.com/watch?v=Jn51uqnzjr4",
+          "start": "2026-10-04T15:04:42Z",
+          "end": "2026-10-04T20:41:23Z",
+          "minutes": 336.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【飲酒雑談】あむ、ただいま日本から帰ってきました🐢【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 207,
+          "avgViewers": 207.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "C1vwj_WuJh4",
+          "videoUrl": "https://www.youtube.com/watch?v=C1vwj_WuJh4",
+          "start": "2026-09-30T11:18:35Z",
+          "end": "2026-09-30T13:04:08Z",
+          "minutes": 105.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "日本行く準備しながら？無計画雑談🧸【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 209,
+          "avgViewers": 185.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "mKgDy4nzx8Q",
+          "videoUrl": "https://www.youtube.com/watch?v=mKgDy4nzx8Q",
+          "start": "2026-09-28T03:12:25Z",
+          "end": "2026-09-28T04:52:05Z",
+          "minutes": 99.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 265,
+          "avgViewers": 213.3,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 78,
+      "livePeakViewers": 78,
+      "liveAvgViewers": 78.0,
+      "liveSamples": [
+        [
+          "2026-10-08T22:35:12Z",
+          78
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=XSlW6XiOGq0"
     },
     {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
@@ -2916,291 +3215,6 @@
           "game": null,
           "peakViewers": 175,
           "avgViewers": 147.8,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-08T16:29:53Z",
-      "lastTitle": "【ほの暮しの庭】# 6 日本語勉強は続く！田舎暮らしも！【甘音あむ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 89.9,
-          "gameMinutes": 0.0,
-          "totalHours": 1.5,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 91.9,
-          "peakViewers": 104
-        },
-        "week": {
-          "totalMinutes": 1129.4,
-          "gameMinutes": 0.0,
-          "totalHours": 18.82,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 158.3,
-          "peakViewers": 278
-        },
-        "month": {
-          "totalMinutes": 1129.4,
-          "gameMinutes": 0.0,
-          "totalHours": 18.82,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 158.3,
-          "peakViewers": 278
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "MN3l7ccTX2U",
-          "videoUrl": "https://www.youtube.com/watch?v=MN3l7ccTX2U",
-          "start": "2026-10-08T13:50:44Z",
-          "end": "2026-10-08T16:29:53Z",
-          "minutes": 159.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほの暮しの庭】# 6 日本語勉強は続く！田舎暮らしも！【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 104,
-          "avgViewers": 91.9,
-          "samples": [
-            [
-              "2026-10-08T13:50:44Z",
-              63
-            ],
-            [
-              "2026-10-08T14:15:07Z",
-              89
-            ],
-            [
-              "2026-10-08T14:39:35Z",
-              96
-            ],
-            [
-              "2026-10-08T14:58:53Z",
-              104
-            ],
-            [
-              "2026-10-08T15:21:17Z",
-              98
-            ],
-            [
-              "2026-10-08T15:47:03Z",
-              97
-            ],
-            [
-              "2026-10-08T16:03:23Z",
-              100
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "kugmh2PwT-w",
-          "videoUrl": "https://www.youtube.com/watch?v=kugmh2PwT-w",
-          "start": "2026-10-07T14:47:58Z",
-          "end": "2026-10-07T15:03:50Z",
-          "minutes": 15.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【APEX】甘音あむはゴールドになりたい。【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 158,
-          "avgViewers": 158.0,
-          "samples": [
-            [
-              "2026-10-07T14:47:58Z",
-              158
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "kugmh2PwT-w",
-          "videoUrl": "https://www.youtube.com/watch?v=kugmh2PwT-w",
-          "start": "2026-10-07T08:03:08Z",
-          "end": "2026-10-07T14:27:31Z",
-          "minutes": 384.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【APEX】甘音あむはゴールドになりたい。【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 196,
-          "avgViewers": 134.5,
-          "samples": [
-            [
-              "2026-10-07T08:03:08Z",
-              50
-            ],
-            [
-              "2026-10-07T08:28:44Z",
-              124
-            ],
-            [
-              "2026-10-07T08:50:06Z",
-              173
-            ],
-            [
-              "2026-10-07T09:03:33Z",
-              189
-            ],
-            [
-              "2026-10-07T09:27:47Z",
-              164
-            ],
-            [
-              "2026-10-07T09:48:37Z",
-              170
-            ],
-            [
-              "2026-10-07T10:03:37Z",
-              196
-            ],
-            [
-              "2026-10-07T10:26:51Z",
-              139
-            ],
-            [
-              "2026-10-07T10:46:46Z",
-              137
-            ],
-            [
-              "2026-10-07T11:01:45Z",
-              126
-            ],
-            [
-              "2026-10-07T11:25:30Z",
-              122
-            ],
-            [
-              "2026-10-07T11:44:42Z",
-              120
-            ],
-            [
-              "2026-10-07T12:00:15Z",
-              126
-            ],
-            [
-              "2026-10-07T12:32:59Z",
-              143
-            ],
-            [
-              "2026-10-07T13:00:09Z",
-              122
-            ],
-            [
-              "2026-10-07T13:23:41Z",
-              111
-            ],
-            [
-              "2026-10-07T13:44:45Z",
-              124
-            ],
-            [
-              "2026-10-07T14:01:12Z",
-              111
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "Lrhcl7uqGIE",
-          "videoUrl": "https://www.youtube.com/watch?v=Lrhcl7uqGIE",
-          "start": "2026-10-06T14:03:38Z",
-          "end": "2026-10-06T16:23:08Z",
-          "minutes": 139.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【お絵かき雑談】# ② 動く待機画面のパーツ分け線画タイム🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 147,
-          "avgViewers": 116.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "TAHDNlfRMus",
-          "videoUrl": "https://www.youtube.com/watch?v=TAHDNlfRMus",
-          "start": "2026-10-05T11:25:44Z",
-          "end": "2026-10-05T12:59:35Z",
-          "minutes": 93.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "歌うます。聴いてくれますか。 #歌枠 【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 278,
-          "avgViewers": 255.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "Jn51uqnzjr4",
-          "videoUrl": "https://www.youtube.com/watch?v=Jn51uqnzjr4",
-          "start": "2026-10-04T15:04:42Z",
-          "end": "2026-10-04T20:41:23Z",
-          "minutes": 336.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【飲酒雑談】あむ、ただいま日本から帰ってきました🐢【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 207,
-          "avgViewers": 207.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "C1vwj_WuJh4",
-          "videoUrl": "https://www.youtube.com/watch?v=C1vwj_WuJh4",
-          "start": "2026-09-30T11:18:35Z",
-          "end": "2026-09-30T13:04:08Z",
-          "minutes": 105.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "日本行く準備しながら？無計画雑談🧸【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 209,
-          "avgViewers": 185.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "mKgDy4nzx8Q",
-          "videoUrl": "https://www.youtube.com/watch?v=mKgDy4nzx8Q",
-          "start": "2026-09-28T03:12:25Z",
-          "end": "2026-09-28T04:52:05Z",
-          "minutes": 99.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【お絵かき雑談】# ① 動く待機画面を作りたい！ラフを描く🐢※お絵描きの質問OK！ 【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 265,
-          "avgViewers": 213.3,
           "samples": [],
           "isTargetGame": false
         }
