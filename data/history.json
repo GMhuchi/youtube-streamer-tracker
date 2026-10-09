@@ -2,22 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "NFIlvs-B2g8",
-      "start": "2026-10-09T17:32:35Z",
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "4pHH66sWtpA",
+      "start": "2026-10-09T21:52:12Z",
       "startSource": "observed",
-      "title": "🟣10/9【 #escapefromtarkov 】❕迷探偵、ついにタルコフに手を出す【 maŸUko / #Vtuber 】",
+      "title": "【朝活/雑談】#302［2026.10/10］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "game": null,
-      "peakViewers": 3,
+      "peakViewers": 326,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-09T17:32:35Z",
-      "lastSeenAt": "2026-10-09T17:32:35Z",
+      "firstSeenAt": "2026-10-09T21:52:12Z",
+      "lastSeenAt": "2026-10-09T21:52:12Z",
       "samples": [
         [
-          "2026-10-09T17:32:35Z",
-          3
+          "2026-10-09T21:52:12Z",
+          326
         ]
       ]
     }
@@ -35450,6 +35450,28 @@
         [
           "2026-10-09T11:30:41Z",
           79
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "NFIlvs-B2g8",
+      "videoUrl": "https://www.youtube.com/watch?v=NFIlvs-B2g8",
+      "start": "2026-10-09T17:32:35Z",
+      "end": "2026-10-09T21:52:12Z",
+      "minutes": 259.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣10/9【 #escapefromtarkov 】❕迷探偵、ついにタルコフに手を出す【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 3,
+      "avgViewers": 3.0,
+      "samples": [
+        [
+          "2026-10-09T17:32:35Z",
+          3
         ]
       ],
       "isTargetGame": false
