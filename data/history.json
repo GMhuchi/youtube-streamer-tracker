@@ -1,7 +1,84 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCNGMMdEgYIUR6rC44v9aZ8w": {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "H-SsP7VEmxE",
+      "start": "2026-10-09T11:30:41Z",
+      "startSource": "observed",
+      "title": "【SURGECITY】＃1 メイドカフェ王に俺はなる【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 36,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-09T11:30:41Z",
+      "lastSeenAt": "2026-10-09T11:30:41Z",
+      "samples": [
+        [
+          "2026-10-09T11:30:41Z",
+          36
+        ]
+      ]
+    },
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "xYEsvICgK0s",
+      "start": "2026-10-09T11:30:41Z",
+      "startSource": "observed",
+      "title": "〖 VALORANT 〗トリオヴァロッッ.ᐟ.ᐟ⭐︎ / 鹿乃ちゃん、レイレイ〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 237,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-09T11:30:41Z",
+      "lastSeenAt": "2026-10-09T11:30:41Z",
+      "samples": [
+        [
+          "2026-10-09T11:30:41Z",
+          237
+        ]
+      ]
+    },
+    "UCeTb2MQrm8UBChlecw7pQOA": {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "HwfM4YfYz7g",
+      "start": "2026-10-09T11:30:41Z",
+      "startSource": "observed",
+      "title": "【 #SURGECity  ￤＃１ 】逮捕じゃコラ～～～～～～～～～！！！！🚓🚨【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 17,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-09T11:30:41Z",
+      "lastSeenAt": "2026-10-09T11:30:41Z",
+      "samples": [
+        [
+          "2026-10-09T11:30:41Z",
+          17
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "WfG19MsYFu4",
+      "start": "2026-10-09T11:30:41Z",
+      "startSource": "observed",
+      "title": "【 #SURGECITY ￤＃1 】おふざけ半グレです通してください【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 79,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-09T11:30:41Z",
+      "lastSeenAt": "2026-10-09T11:30:41Z",
+      "samples": [
+        [
+          "2026-10-09T11:30:41Z",
+          79
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
