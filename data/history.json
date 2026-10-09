@@ -2,57 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "NCKWCXGAZsc",
-      "start": "2026-10-08T21:12:52Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 30,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-08T21:12:52Z",
-      "lastSeenAt": "2026-10-08T23:51:14Z",
-      "samples": [
-        [
-          "2026-10-08T21:12:52Z",
-          17
-        ],
-        [
-          "2026-10-08T21:35:57Z",
-          23
-        ],
-        [
-          "2026-10-08T21:54:14Z",
-          24
-        ],
-        [
-          "2026-10-08T22:12:04Z",
-          29
-        ],
-        [
-          "2026-10-08T22:35:12Z",
-          26
-        ],
-        [
-          "2026-10-08T22:53:10Z",
-          28
-        ],
-        [
-          "2026-10-08T23:11:21Z",
-          24
-        ],
-        [
-          "2026-10-08T23:33:34Z",
-          30
-        ],
-        [
-          "2026-10-08T23:51:14Z",
-          26
-        ]
-      ]
-    },
     "UC6FprWVXuULaY9mZOcqTe4A": {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
@@ -61,10 +10,10 @@
       "startSource": "observed",
       "title": "【朝枠】いっぱい！おはよーって言ってください🧸【甘音あむ / ネオポルテ】",
       "game": null,
-      "peakViewers": 220,
+      "peakViewers": 261,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-08T22:35:12Z",
-      "lastSeenAt": "2026-10-08T23:51:14Z",
+      "lastSeenAt": "2026-10-09T00:19:55Z",
       "samples": [
         [
           "2026-10-08T22:35:12Z",
@@ -85,6 +34,10 @@
         [
           "2026-10-08T23:51:14Z",
           220
+        ],
+        [
+          "2026-10-09T00:19:55Z",
+          261
         ]
       ]
     }
@@ -35329,6 +35282,60 @@
         [
           "2026-10-08T19:46:08Z",
           239
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "NCKWCXGAZsc",
+      "videoUrl": "https://www.youtube.com/watch?v=NCKWCXGAZsc",
+      "start": "2026-10-08T21:12:52Z",
+      "end": "2026-10-09T00:19:55Z",
+      "minutes": 187.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 30,
+      "avgViewers": 25.1,
+      "samples": [
+        [
+          "2026-10-08T21:12:52Z",
+          17
+        ],
+        [
+          "2026-10-08T21:35:57Z",
+          23
+        ],
+        [
+          "2026-10-08T21:54:14Z",
+          24
+        ],
+        [
+          "2026-10-08T22:12:04Z",
+          29
+        ],
+        [
+          "2026-10-08T22:35:12Z",
+          26
+        ],
+        [
+          "2026-10-08T22:53:10Z",
+          28
+        ],
+        [
+          "2026-10-08T23:11:21Z",
+          24
+        ],
+        [
+          "2026-10-08T23:33:34Z",
+          30
+        ],
+        [
+          "2026-10-08T23:51:14Z",
+          26
         ]
       ],
       "isTargetGame": false
