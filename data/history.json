@@ -1,51 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "XSlW6XiOGq0",
-      "start": "2026-10-08T22:35:12Z",
-      "startSource": "observed",
-      "title": "【朝枠】いっぱい！おはよーって言ってください🧸【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 321,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-08T22:35:12Z",
-      "lastSeenAt": "2026-10-09T00:51:23Z",
-      "samples": [
-        [
-          "2026-10-08T22:35:12Z",
-          78
-        ],
-        [
-          "2026-10-08T22:53:10Z",
-          156
-        ],
-        [
-          "2026-10-08T23:11:21Z",
-          175
-        ],
-        [
-          "2026-10-08T23:33:34Z",
-          203
-        ],
-        [
-          "2026-10-08T23:51:14Z",
-          220
-        ],
-        [
-          "2026-10-09T00:19:55Z",
-          261
-        ],
-        [
-          "2026-10-09T00:51:23Z",
-          321
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -35340,6 +35296,52 @@
         [
           "2026-10-08T23:51:14Z",
           26
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "XSlW6XiOGq0",
+      "videoUrl": "https://www.youtube.com/watch?v=XSlW6XiOGq0",
+      "start": "2026-10-08T22:35:12Z",
+      "end": "2026-10-09T01:16:07Z",
+      "minutes": 160.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝枠】いっぱい！おはよーって言ってください🧸【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 321,
+      "avgViewers": 211.0,
+      "samples": [
+        [
+          "2026-10-08T22:35:12Z",
+          78
+        ],
+        [
+          "2026-10-08T22:53:10Z",
+          156
+        ],
+        [
+          "2026-10-08T23:11:21Z",
+          175
+        ],
+        [
+          "2026-10-08T23:33:34Z",
+          203
+        ],
+        [
+          "2026-10-08T23:51:14Z",
+          220
+        ],
+        [
+          "2026-10-09T00:19:55Z",
+          261
+        ],
+        [
+          "2026-10-09T00:51:23Z",
+          321
         ]
       ],
       "isTargetGame": false
