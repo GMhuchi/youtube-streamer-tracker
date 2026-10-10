@@ -2,22 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "4pHH66sWtpA",
-      "start": "2026-10-09T21:52:12Z",
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "HyiJ09LkQN8",
+      "start": "2026-10-10T01:32:38Z",
       "startSource": "observed",
-      "title": "【朝活/雑談】#302［2026.10/10］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "title": "朝活 | 起きられたら雑談と朝ごはんをしましょう #愁子",
       "game": null,
-      "peakViewers": 326,
+      "peakViewers": 103,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-09T21:52:12Z",
-      "lastSeenAt": "2026-10-09T21:52:12Z",
+      "firstSeenAt": "2026-10-10T01:32:38Z",
+      "lastSeenAt": "2026-10-10T01:32:38Z",
       "samples": [
         [
-          "2026-10-09T21:52:12Z",
-          326
+          "2026-10-10T01:32:38Z",
+          103
         ]
       ]
     }
@@ -35472,6 +35472,28 @@
         [
           "2026-10-09T17:32:35Z",
           3
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "4pHH66sWtpA",
+      "videoUrl": "https://www.youtube.com/watch?v=4pHH66sWtpA",
+      "start": "2026-10-09T21:52:12Z",
+      "end": "2026-10-10T01:32:38Z",
+      "minutes": 220.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#302［2026.10/10］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 326,
+      "avgViewers": 326.0,
+      "samples": [
+        [
+          "2026-10-09T21:52:12Z",
+          326
         ]
       ],
       "isTargetGame": false

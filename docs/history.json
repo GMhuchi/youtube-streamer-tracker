@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:52:12Z",
+  "updatedAt": "2026-10-10T01:32:38Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,44 +16,44 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 870.0,
+      "totalMinutes": 1090.4,
       "gameMinutes": 0.0,
-      "totalHours": 14.5,
+      "totalHours": 18.17,
       "gameHours": 0.0,
-      "sessions": 6,
-      "avgViewers": 65.6,
+      "sessions": 7,
+      "avgViewers": 118.3,
       "peakViewers": 326
     },
     "week": {
-      "totalMinutes": 13651.4,
+      "totalMinutes": 13871.8,
       "gameMinutes": 0.0,
-      "totalHours": 227.52,
+      "totalHours": 231.2,
       "gameHours": 0.0,
-      "sessions": 82,
-      "avgViewers": 144.7,
+      "sessions": 83,
+      "avgViewers": 147.8,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 26846.7,
+      "totalMinutes": 27067.1,
       "gameMinutes": 0.0,
-      "totalHours": 447.44,
+      "totalHours": 451.12,
       "gameHours": 0.0,
-      "sessions": 135,
-      "avgViewers": 132.2,
+      "sessions": 136,
+      "avgViewers": 133.8,
       "peakViewers": 997
     }
   },
   "channels": [
     {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
       "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
       "isLive": true,
-      "liveSince": "2026-10-09T21:52:12Z",
-      "liveTitle": "【朝活/雑談】#302［2026.10/10］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "lastEnd": "2026-10-07T23:42:29Z",
-      "lastTitle": "【朝活/雑談】#301［2026.10/8］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "liveSince": "2026-10-10T01:32:38Z",
+      "liveTitle": "朝活 | 起きられたら雑談と朝ごはんをしましょう #愁子",
+      "lastEnd": "2026-10-08T17:35:26Z",
+      "lastTitle": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.7 もりっとはたらくわよ～🔥 #愁子",
       "buckets": {
         "today": {
           "totalMinutes": 0.0,
@@ -61,29 +61,284 @@
           "totalHours": 0.0,
           "gameHours": 0.0,
           "sessions": 1,
+          "avgViewers": 103.0,
+          "peakViewers": 103
+        },
+        "week": {
+          "totalMinutes": 528.3,
+          "gameMinutes": 0.0,
+          "totalHours": 8.8,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 38.8,
+          "peakViewers": 103
+        },
+        "month": {
+          "totalMinutes": 739.8,
+          "gameMinutes": 0.0,
+          "totalHours": 12.33,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 52.7,
+          "peakViewers": 119
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "LjwQOvmLKg4",
+          "videoUrl": "https://www.youtube.com/watch?v=LjwQOvmLKg4",
+          "start": "2026-10-08T13:30:47Z",
+          "end": "2026-10-08T17:35:26Z",
+          "minutes": 244.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.7 もりっとはたらくわよ～🔥 #愁子",
+          "game": null,
+          "peakViewers": 41,
+          "avgViewers": 30.7,
+          "samples": [
+            [
+              "2026-10-08T13:30:47Z",
+              13
+            ],
+            [
+              "2026-10-08T13:50:44Z",
+              31
+            ],
+            [
+              "2026-10-08T14:15:07Z",
+              24
+            ],
+            [
+              "2026-10-08T14:39:35Z",
+              35
+            ],
+            [
+              "2026-10-08T14:58:53Z",
+              27
+            ],
+            [
+              "2026-10-08T15:21:17Z",
+              29
+            ],
+            [
+              "2026-10-08T15:47:03Z",
+              34
+            ],
+            [
+              "2026-10-08T16:03:23Z",
+              41
+            ],
+            [
+              "2026-10-08T16:29:53Z",
+              36
+            ],
+            [
+              "2026-10-08T16:52:28Z",
+              37
+            ],
+            [
+              "2026-10-08T17:12:55Z",
+              30
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "uVFDF21NwB8",
+          "videoUrl": "https://www.youtube.com/watch?v=uVFDF21NwB8",
+          "start": "2026-10-07T13:00:32Z",
+          "end": "2026-10-07T14:27:31Z",
+          "minutes": 87.0,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "メンバー限定キラコン同時視聴",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "uVFDF21NwB8",
+          "videoUrl": "https://www.youtube.com/watch?v=uVFDF21NwB8",
+          "start": "2026-10-07T13:00:32Z",
+          "end": "2026-10-07T15:01:43Z",
+          "minutes": 121.2,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "メンバー限定キラコン同時視聴",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "Kwhz4YxL8B8",
+          "videoUrl": "https://www.youtube.com/watch?v=Kwhz4YxL8B8",
+          "start": "2026-10-06T13:48:13Z",
+          "end": "2026-10-06T15:03:40Z",
+          "minutes": 75.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "American Truck Simulator | 夜はドライブ🚙💨 #愁子",
+          "game": null,
+          "peakViewers": 78,
+          "avgViewers": 65.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "98Y9Pk8krwk",
+          "videoUrl": "https://www.youtube.com/watch?v=98Y9Pk8krwk",
+          "start": "2026-10-03T02:15:43Z",
+          "end": "2026-10-03T04:25:29Z",
+          "minutes": 129.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "American Truck Simulator | ひるどら！（昼にドライブ雑談の意） #愁子",
+          "game": null,
+          "peakViewers": 119,
+          "avgViewers": 94.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "REKeDf8p0V4",
+          "videoUrl": "https://www.youtube.com/watch?v=REKeDf8p0V4",
+          "start": "2026-10-02T13:26:50Z",
+          "end": "2026-10-02T14:48:35Z",
+          "minutes": 81.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "妹に運転を教える | ドライブゲームをやっている落ち着きお姉さんだし楽勝ですが？ #愁子",
+          "game": null,
+          "peakViewers": 44,
+          "avgViewers": 40.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "08SysOwYVgg",
+          "videoUrl": "https://www.youtube.com/watch?v=08SysOwYVgg",
+          "start": "2026-09-30T12:16:08Z",
+          "end": "2026-09-30T14:28:13Z",
+          "minutes": 132.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "American Truck Simulator 雑談 | 2●歳になった眼鏡のお姉さんにおめでとうを言おう #愁子",
+          "game": null,
+          "peakViewers": 99,
+          "avgViewers": 84.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "e1HoXo6zZYY",
+          "videoUrl": "https://www.youtube.com/watch?v=e1HoXo6zZYY",
+          "start": "2026-09-29T14:03:20Z",
+          "end": "2026-09-29T15:27:14Z",
+          "minutes": 83.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "まったり誕生日カウントダウン #愁子",
+          "game": null,
+          "peakViewers": 122,
+          "avgViewers": 87.3,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 103,
+      "livePeakViewers": 103,
+      "liveAvgViewers": 103.0,
+      "liveSamples": [
+        [
+          "2026-10-10T01:32:38Z",
+          103
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=HyiJ09LkQN8"
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-10T01:32:38Z",
+      "lastTitle": "【朝活/雑談】#302［2026.10/10］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 220.4,
+          "gameMinutes": 0.0,
+          "totalHours": 3.67,
+          "gameHours": 0.0,
+          "sessions": 1,
           "avgViewers": 326.0,
           "peakViewers": 326
         },
         "week": {
-          "totalMinutes": 1113.7,
+          "totalMinutes": 1334.1,
           "gameMinutes": 0.0,
-          "totalHours": 18.56,
+          "totalHours": 22.24,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 621.4,
+          "avgViewers": 539.1,
           "peakViewers": 910
         },
         "month": {
-          "totalMinutes": 2622.4,
+          "totalMinutes": 2842.8,
           "gameMinutes": 0.0,
-          "totalHours": 43.71,
+          "totalHours": 47.38,
           "gameHours": 0.0,
           "sessions": 11,
-          "avgViewers": 659.6,
+          "avgViewers": 627.6,
           "peakViewers": 988
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "4pHH66sWtpA",
+          "videoUrl": "https://www.youtube.com/watch?v=4pHH66sWtpA",
+          "start": "2026-10-09T21:52:12Z",
+          "end": "2026-10-10T01:32:38Z",
+          "minutes": 220.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#302［2026.10/10］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 326,
+          "avgViewers": 326.0,
+          "samples": [
+            [
+              "2026-10-09T21:52:12Z",
+              326
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
           "name": "望月ほぐの",
@@ -231,35 +486,8 @@
           "avgViewers": 772.1,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "IiOlmM4P734",
-          "videoUrl": "https://www.youtube.com/watch?v=IiOlmM4P734",
-          "start": "2026-10-02T12:41:37Z",
-          "end": "2026-10-02T18:56:23Z",
-          "minutes": 374.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#天下無双ARK】12日目：今日こそ試練を超えて皆で行くぞ、αボス🦖！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 802,
-          "avgViewers": 718.8,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 326,
-      "livePeakViewers": 326,
-      "liveAvgViewers": 326.0,
-      "liveSamples": [
-        [
-          "2026-10-09T21:52:12Z",
-          326
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=4pHH66sWtpA"
+      ]
     },
     {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
@@ -3280,229 +3508,6 @@
       ]
     },
     {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-08T17:35:26Z",
-      "lastTitle": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.7 もりっとはたらくわよ～🔥 #愁子",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 528.3,
-          "gameMinutes": 0.0,
-          "totalHours": 8.8,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 38.8,
-          "peakViewers": 78
-        },
-        "month": {
-          "totalMinutes": 739.8,
-          "gameMinutes": 0.0,
-          "totalHours": 12.33,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 52.7,
-          "peakViewers": 119
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "LjwQOvmLKg4",
-          "videoUrl": "https://www.youtube.com/watch?v=LjwQOvmLKg4",
-          "start": "2026-10-08T13:30:47Z",
-          "end": "2026-10-08T17:35:26Z",
-          "minutes": 244.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.7 もりっとはたらくわよ～🔥 #愁子",
-          "game": null,
-          "peakViewers": 41,
-          "avgViewers": 30.7,
-          "samples": [
-            [
-              "2026-10-08T13:30:47Z",
-              13
-            ],
-            [
-              "2026-10-08T13:50:44Z",
-              31
-            ],
-            [
-              "2026-10-08T14:15:07Z",
-              24
-            ],
-            [
-              "2026-10-08T14:39:35Z",
-              35
-            ],
-            [
-              "2026-10-08T14:58:53Z",
-              27
-            ],
-            [
-              "2026-10-08T15:21:17Z",
-              29
-            ],
-            [
-              "2026-10-08T15:47:03Z",
-              34
-            ],
-            [
-              "2026-10-08T16:03:23Z",
-              41
-            ],
-            [
-              "2026-10-08T16:29:53Z",
-              36
-            ],
-            [
-              "2026-10-08T16:52:28Z",
-              37
-            ],
-            [
-              "2026-10-08T17:12:55Z",
-              30
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "uVFDF21NwB8",
-          "videoUrl": "https://www.youtube.com/watch?v=uVFDF21NwB8",
-          "start": "2026-10-07T13:00:32Z",
-          "end": "2026-10-07T14:27:31Z",
-          "minutes": 87.0,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "メンバー限定キラコン同時視聴",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "uVFDF21NwB8",
-          "videoUrl": "https://www.youtube.com/watch?v=uVFDF21NwB8",
-          "start": "2026-10-07T13:00:32Z",
-          "end": "2026-10-07T15:01:43Z",
-          "minutes": 121.2,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "メンバー限定キラコン同時視聴",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "Kwhz4YxL8B8",
-          "videoUrl": "https://www.youtube.com/watch?v=Kwhz4YxL8B8",
-          "start": "2026-10-06T13:48:13Z",
-          "end": "2026-10-06T15:03:40Z",
-          "minutes": 75.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "American Truck Simulator | 夜はドライブ🚙💨 #愁子",
-          "game": null,
-          "peakViewers": 78,
-          "avgViewers": 65.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "98Y9Pk8krwk",
-          "videoUrl": "https://www.youtube.com/watch?v=98Y9Pk8krwk",
-          "start": "2026-10-03T02:15:43Z",
-          "end": "2026-10-03T04:25:29Z",
-          "minutes": 129.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "American Truck Simulator | ひるどら！（昼にドライブ雑談の意） #愁子",
-          "game": null,
-          "peakViewers": 119,
-          "avgViewers": 94.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "REKeDf8p0V4",
-          "videoUrl": "https://www.youtube.com/watch?v=REKeDf8p0V4",
-          "start": "2026-10-02T13:26:50Z",
-          "end": "2026-10-02T14:48:35Z",
-          "minutes": 81.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "妹に運転を教える | ドライブゲームをやっている落ち着きお姉さんだし楽勝ですが？ #愁子",
-          "game": null,
-          "peakViewers": 44,
-          "avgViewers": 40.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "08SysOwYVgg",
-          "videoUrl": "https://www.youtube.com/watch?v=08SysOwYVgg",
-          "start": "2026-09-30T12:16:08Z",
-          "end": "2026-09-30T14:28:13Z",
-          "minutes": 132.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "American Truck Simulator 雑談 | 2●歳になった眼鏡のお姉さんにおめでとうを言おう #愁子",
-          "game": null,
-          "peakViewers": 99,
-          "avgViewers": 84.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "e1HoXo6zZYY",
-          "videoUrl": "https://www.youtube.com/watch?v=e1HoXo6zZYY",
-          "start": "2026-09-29T14:03:20Z",
-          "end": "2026-09-29T15:27:14Z",
-          "minutes": 83.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "まったり誕生日カウントダウン #愁子",
-          "game": null,
-          "peakViewers": 122,
-          "avgViewers": 87.3,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
       "name": "輝 七瀬",
       "registered": true,
@@ -5029,6 +5034,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "4pHH66sWtpA",
+      "videoUrl": "https://www.youtube.com/watch?v=4pHH66sWtpA",
+      "start": "2026-10-09T21:52:12Z",
+      "end": "2026-10-10T01:32:38Z",
+      "minutes": 220.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#302［2026.10/10］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 326,
+      "avgViewers": 326.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
       "name": "maŸUko",
       "videoId": "NFIlvs-B2g8",
@@ -5970,22 +5991,6 @@
       "game": null,
       "peakViewers": 27,
       "avgViewers": 19.3,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "jyxDis5waO8",
-      "videoUrl": "https://www.youtube.com/watch?v=jyxDis5waO8",
-      "start": "2026-10-05T21:44:27Z",
-      "end": "2026-10-05T23:21:48Z",
-      "minutes": 97.4,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【朝活/雑談】#300［2026.10/6］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 700,
-      "avgViewers": 575.4,
       "isTargetGame": false
     }
   ]
