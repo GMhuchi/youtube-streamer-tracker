@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T00:45:07Z",
+  "updatedAt": "2026-10-11T06:31:12Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 207.1,
       "totalHours": 37.47,
       "gameHours": 3.45,
-      "sessions": 12,
+      "sessions": 13,
       "avgViewers": 133.2,
       "peakViewers": 699
     },
@@ -29,21 +29,219 @@
       "gameMinutes": 267.6,
       "totalHours": 298.39,
       "gameHours": 4.46,
-      "sessions": 97,
+      "sessions": 98,
       "avgViewers": 140.6,
       "peakViewers": 945
     },
     "month": {
-      "totalMinutes": 31098.9,
+      "totalMinutes": 31099.0,
       "gameMinutes": 267.6,
       "totalHours": 518.32,
       "gameHours": 4.46,
-      "sessions": 150,
+      "sessions": 151,
       "avgViewers": 131.6,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
+      "isLive": true,
+      "liveSince": "2026-10-11T06:31:12Z",
+      "liveTitle": "〖 VALORANT 〗突発ヴァロッッ.ᐟ.ᐟ⭐︎ / 鹿乃ちゃん〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-10-10T15:48:10Z",
+      "lastTitle": "〖 メン限 〗 「マインクラフト／ザ・ムービー」同時視聴配信〖 心白てと / ネオポルテ 〗",
+      "buckets": {
+        "today": {
+          "totalMinutes": 48.2,
+          "gameMinutes": 0.0,
+          "totalHours": 0.8,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 371.0,
+          "peakViewers": 371
+        },
+        "week": {
+          "totalMinutes": 2088.4,
+          "gameMinutes": 0.0,
+          "totalHours": 34.81,
+          "gameHours": 0.0,
+          "sessions": 9,
+          "avgViewers": 231.7,
+          "peakViewers": 526
+        },
+        "month": {
+          "totalMinutes": 2088.4,
+          "gameMinutes": 0.0,
+          "totalHours": 34.81,
+          "gameHours": 0.0,
+          "sessions": 9,
+          "avgViewers": 231.7,
+          "peakViewers": 526
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "XDJbwRjZVBQ",
+          "videoUrl": "https://www.youtube.com/watch?v=XDJbwRjZVBQ",
+          "start": "2026-10-10T13:04:15Z",
+          "end": "2026-10-10T15:48:10Z",
+          "minutes": 163.9,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 「マインクラフト／ザ・ムービー」同時視聴配信〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "19-mgoIPi78",
+          "videoUrl": "https://www.youtube.com/watch?v=19-mgoIPi78",
+          "start": "2026-10-10T07:43:29Z",
+          "end": "2026-10-10T13:59:27Z",
+          "minutes": 376.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ストリートファイター6 🔰〗 シルバー目指してランクやる🔥⚡ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 129,
+          "avgViewers": 129.0,
+          "samples": [
+            [
+              "2026-10-10T07:43:29Z",
+              129
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "xYEsvICgK0s",
+          "videoUrl": "https://www.youtube.com/watch?v=xYEsvICgK0s",
+          "start": "2026-10-09T11:30:41Z",
+          "end": "2026-10-09T17:32:35Z",
+          "minutes": 361.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 VALORANT 〗トリオヴァロッッ.ᐟ.ᐟ⭐︎ / 鹿乃ちゃん、レイレイ〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 237,
+          "avgViewers": 237.0,
+          "samples": [
+            [
+              "2026-10-09T11:30:41Z",
+              237
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "5wu3N31bIcA",
+          "videoUrl": "https://www.youtube.com/watch?v=5wu3N31bIcA",
+          "start": "2026-10-08T16:29:53Z",
+          "end": "2026-10-08T20:01:44Z",
+          "minutes": 211.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 久々ハセのあてとフルパ.ᐟ.ᐟ⭐︎→Bijuさん〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 267,
+          "avgViewers": 248.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "5wu3N31bIcA",
+          "videoUrl": "https://www.youtube.com/watch?v=5wu3N31bIcA",
+          "start": "2026-10-08T11:26:30Z",
+          "end": "2026-10-08T16:03:23Z",
+          "minutes": 276.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 久々ハセのあてとフルパ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 379,
+          "avgViewers": 284.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "5GRGGpeRv4U",
+          "videoUrl": "https://www.youtube.com/watch?v=5GRGGpeRv4U",
+          "start": "2026-10-07T10:03:37Z",
+          "end": "2026-10-07T14:01:12Z",
+          "minutes": 237.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの歌枠だあ.ᐟ.ᐟ⭐︎  〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 184,
+          "avgViewers": 158.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "yOfjvBcP4lc",
+          "videoUrl": "https://www.youtube.com/watch?v=yOfjvBcP4lc",
+          "start": "2026-10-07T08:28:44Z",
+          "end": "2026-10-07T09:48:37Z",
+          "minutes": 79.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ストリートファイター6 🔰〗 ひたすらコンボ🔥⚡ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 165,
+          "avgViewers": 153.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Fz3_kfGrfOg",
+          "videoUrl": "https://www.youtube.com/watch?v=Fz3_kfGrfOg",
+          "start": "2026-10-06T10:25:44Z",
+          "end": "2026-10-06T16:46:07Z",
+          "minutes": 380.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 ラグに勝とうではないか！/ シンシン、るなち〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 526,
+          "avgViewers": 342.5,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 371,
+      "livePeakViewers": 371,
+      "liveAvgViewers": 371.0,
+      "liveSamples": [
+        [
+          "2026-10-11T06:31:12Z",
+          371
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=xq-U6QdINxI"
+    },
     {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
@@ -1011,194 +1209,6 @@
           "game": null,
           "peakViewers": 44,
           "avgViewers": 36.3,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-10T15:48:10Z",
-      "lastTitle": "〖 メン限 〗 「マインクラフト／ザ・ムービー」同時視聴配信〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 48.2,
-          "gameMinutes": 0.0,
-          "totalHours": 0.8,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 2088.4,
-          "gameMinutes": 0.0,
-          "totalHours": 34.81,
-          "gameHours": 0.0,
-          "sessions": 8,
-          "avgViewers": 231.7,
-          "peakViewers": 526
-        },
-        "month": {
-          "totalMinutes": 2088.4,
-          "gameMinutes": 0.0,
-          "totalHours": 34.81,
-          "gameHours": 0.0,
-          "sessions": 8,
-          "avgViewers": 231.7,
-          "peakViewers": 526
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "XDJbwRjZVBQ",
-          "videoUrl": "https://www.youtube.com/watch?v=XDJbwRjZVBQ",
-          "start": "2026-10-10T13:04:15Z",
-          "end": "2026-10-10T15:48:10Z",
-          "minutes": 163.9,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〖 メン限 〗 「マインクラフト／ザ・ムービー」同時視聴配信〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "19-mgoIPi78",
-          "videoUrl": "https://www.youtube.com/watch?v=19-mgoIPi78",
-          "start": "2026-10-10T07:43:29Z",
-          "end": "2026-10-10T13:59:27Z",
-          "minutes": 376.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ストリートファイター6 🔰〗 シルバー目指してランクやる🔥⚡ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 129,
-          "avgViewers": 129.0,
-          "samples": [
-            [
-              "2026-10-10T07:43:29Z",
-              129
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "xYEsvICgK0s",
-          "videoUrl": "https://www.youtube.com/watch?v=xYEsvICgK0s",
-          "start": "2026-10-09T11:30:41Z",
-          "end": "2026-10-09T17:32:35Z",
-          "minutes": 361.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 VALORANT 〗トリオヴァロッッ.ᐟ.ᐟ⭐︎ / 鹿乃ちゃん、レイレイ〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 237,
-          "avgViewers": 237.0,
-          "samples": [
-            [
-              "2026-10-09T11:30:41Z",
-              237
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "5wu3N31bIcA",
-          "videoUrl": "https://www.youtube.com/watch?v=5wu3N31bIcA",
-          "start": "2026-10-08T16:29:53Z",
-          "end": "2026-10-08T20:01:44Z",
-          "minutes": 211.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 久々ハセのあてとフルパ.ᐟ.ᐟ⭐︎→Bijuさん〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 267,
-          "avgViewers": 248.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "5wu3N31bIcA",
-          "videoUrl": "https://www.youtube.com/watch?v=5wu3N31bIcA",
-          "start": "2026-10-08T11:26:30Z",
-          "end": "2026-10-08T16:03:23Z",
-          "minutes": 276.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 久々ハセのあてとフルパ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 379,
-          "avgViewers": 284.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "5GRGGpeRv4U",
-          "videoUrl": "https://www.youtube.com/watch?v=5GRGGpeRv4U",
-          "start": "2026-10-07T10:03:37Z",
-          "end": "2026-10-07T14:01:12Z",
-          "minutes": 237.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 歌枠╎KARAOKE 〗 久しぶりの歌枠だあ.ᐟ.ᐟ⭐︎  〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 184,
-          "avgViewers": 158.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "yOfjvBcP4lc",
-          "videoUrl": "https://www.youtube.com/watch?v=yOfjvBcP4lc",
-          "start": "2026-10-07T08:28:44Z",
-          "end": "2026-10-07T09:48:37Z",
-          "minutes": 79.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ストリートファイター6 🔰〗 ひたすらコンボ🔥⚡ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 165,
-          "avgViewers": 153.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Fz3_kfGrfOg",
-          "videoUrl": "https://www.youtube.com/watch?v=Fz3_kfGrfOg",
-          "start": "2026-10-06T10:25:44Z",
-          "end": "2026-10-06T16:46:07Z",
-          "minutes": 380.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 ラグに勝とうではないか！/ シンシン、るなち〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 526,
-          "avgViewers": 342.5,
           "samples": [],
           "isTargetGame": false
         }
