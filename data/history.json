@@ -2,60 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "caq2xfdFJBM",
-      "start": "2026-10-12T17:02:17Z",
+    "UC1_HUmjQShLtT_MuZjry3hQ": {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "3LJY5ZIKF2o",
+      "start": "2026-10-12T23:36:20Z",
       "startSource": "observed",
-      "title": "〖 ときめきメモリアル～forever with you～ エモーショナル╎#1 ※ネタバレあり 〗 きゅんを求めて 〖 心白てと / ネオポルテ 〗",
+      "title": "【 雑談 】朝から浮気の話でもしとく？【グラニット/ゆにれいど！】",
       "game": null,
-      "peakViewers": 127,
+      "peakViewers": 22,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-12T17:02:17Z",
-      "lastSeenAt": "2026-10-12T17:02:17Z",
+      "firstSeenAt": "2026-10-12T23:36:20Z",
+      "lastSeenAt": "2026-10-12T23:36:20Z",
       "samples": [
         [
-          "2026-10-12T17:02:17Z",
-          127
-        ]
-      ]
-    },
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "rKhcuOHHwI0",
-      "start": "2026-10-12T17:02:17Z",
-      "startSource": "observed",
-      "title": "【 #SURGECity  ￤＃４ 】大型が始まる…！全員逮捕だワン！🐶【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 744,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-12T17:02:17Z",
-      "lastSeenAt": "2026-10-12T17:02:17Z",
-      "samples": [
-        [
-          "2026-10-12T17:02:17Z",
-          744
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "cMR-iu9whEk",
-      "start": "2026-10-12T17:02:17Z",
-      "startSource": "observed",
-      "title": "【 #ReLife #リライフ 】1日目！ドーモ・皆サン 元暗殺者、現在執事の白黒です。【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 17,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-12T17:02:17Z",
-      "lastSeenAt": "2026-10-12T17:02:17Z",
-      "samples": [
-        [
-          "2026-10-12T17:02:17Z",
-          17
+          "2026-10-12T23:36:20Z",
+          22
         ]
       ]
     }
@@ -36125,6 +36087,72 @@
         [
           "2026-10-12T07:46:17Z",
           105
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "caq2xfdFJBM",
+      "videoUrl": "https://www.youtube.com/watch?v=caq2xfdFJBM",
+      "start": "2026-10-12T17:02:17Z",
+      "end": "2026-10-12T23:36:20Z",
+      "minutes": 394.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ときめきメモリアル～forever with you～ エモーショナル╎#1 ※ネタバレあり 〗 きゅんを求めて 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 127,
+      "avgViewers": 127.0,
+      "samples": [
+        [
+          "2026-10-12T17:02:17Z",
+          127
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "rKhcuOHHwI0",
+      "videoUrl": "https://www.youtube.com/watch?v=rKhcuOHHwI0",
+      "start": "2026-10-12T17:02:17Z",
+      "end": "2026-10-12T23:36:20Z",
+      "minutes": 394.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGECity  ￤＃４ 】大型が始まる…！全員逮捕だワン！🐶【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 744,
+      "avgViewers": 744.0,
+      "samples": [
+        [
+          "2026-10-12T17:02:17Z",
+          744
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "cMR-iu9whEk",
+      "videoUrl": "https://www.youtube.com/watch?v=cMR-iu9whEk",
+      "start": "2026-10-12T17:02:17Z",
+      "end": "2026-10-12T23:36:20Z",
+      "minutes": 394.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #ReLife #リライフ 】1日目！ドーモ・皆サン 元暗殺者、現在執事の白黒です。【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 17,
+      "avgViewers": 17.0,
+      "samples": [
+        [
+          "2026-10-12T17:02:17Z",
+          17
         ]
       ],
       "isTargetGame": false
