@@ -1,141 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "mtBivzUhmww",
-      "start": "2026-10-13T11:27:36Z",
-      "startSource": "observed",
-      "title": "〖 APEX 〗 今日のマップはどーこだ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 306,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-13T11:27:36Z",
-      "lastSeenAt": "2026-10-13T11:27:36Z",
-      "samples": [
-        [
-          "2026-10-13T11:27:36Z",
-          306
-        ]
-      ]
-    },
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "qS15oZw3sQo",
-      "start": "2026-10-13T11:27:36Z",
-      "startSource": "observed",
-      "title": "【AION2】やってみる！まずはキャラクリ！【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 473,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-13T11:27:36Z",
-      "lastSeenAt": "2026-10-13T11:27:36Z",
-      "samples": [
-        [
-          "2026-10-13T11:27:36Z",
-          473
-        ]
-      ]
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "A8-ovHK7TGM",
-      "start": "2026-10-13T11:27:36Z",
-      "startSource": "observed",
-      "title": "〚 妹に運転を教える〛低い声縛り！？妹ちゃんを兄の私が安全に案内すればいいんでしょ？〚 甘成じゅい/ゆにれいど！ 〛",
-      "game": null,
-      "peakViewers": 25,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-13T11:27:36Z",
-      "lastSeenAt": "2026-10-13T11:27:36Z",
-      "samples": [
-        [
-          "2026-10-13T11:27:36Z",
-          25
-        ]
-      ]
-    },
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "pEo51Yc60pQ",
-      "start": "2026-10-13T11:27:36Z",
-      "startSource": "observed",
-      "title": "【 #SURGECity  ￤＃５ 】いっぱい学んでさらに成長するワン！🐶【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 942,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-13T11:27:36Z",
-      "lastSeenAt": "2026-10-13T11:27:36Z",
-      "samples": [
-        [
-          "2026-10-13T11:27:36Z",
-          942
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "ZoiMIZCC0yM",
-      "start": "2026-10-13T11:27:36Z",
-      "startSource": "observed",
-      "title": "【いえのあじ】毒味してみた【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 80,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-13T11:27:36Z",
-      "lastSeenAt": "2026-10-13T11:27:36Z",
-      "samples": [
-        [
-          "2026-10-13T11:27:36Z",
-          80
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "zbckp-Bwefk",
-      "start": "2026-10-13T11:27:36Z",
-      "startSource": "observed",
-      "title": "【 #SURGECITY ￤＃４ 】われらゴールデンボー〇ズ頑張ります【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 57,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-13T11:27:36Z",
-      "lastSeenAt": "2026-10-13T11:27:36Z",
-      "samples": [
-        [
-          "2026-10-13T11:27:36Z",
-          57
-        ]
-      ]
-    },
-    "UCADIxr9ho7V60xs9gT9xWhA": {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "-WsMQmdAQDo",
-      "start": "2026-10-13T11:27:36Z",
-      "startSource": "observed",
-      "title": "【 #リライフ 】水色ギャング設立に向けて。資金＆仲間集め #gtarp  【 #輝七瀬  / RIONECTION】",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-13T11:27:36Z",
-      "lastSeenAt": "2026-10-13T11:27:36Z",
-      "samples": [
-        [
-          "2026-10-13T11:27:36Z",
-          8
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -36311,6 +36177,160 @@
         [
           "2026-10-13T03:51:29Z",
           57
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "mtBivzUhmww",
+      "videoUrl": "https://www.youtube.com/watch?v=mtBivzUhmww",
+      "start": "2026-10-13T11:27:36Z",
+      "end": "2026-10-13T18:27:42Z",
+      "minutes": 420.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 今日のマップはどーこだ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 306,
+      "avgViewers": 306.0,
+      "samples": [
+        [
+          "2026-10-13T11:27:36Z",
+          306
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "qS15oZw3sQo",
+      "videoUrl": "https://www.youtube.com/watch?v=qS15oZw3sQo",
+      "start": "2026-10-13T11:27:36Z",
+      "end": "2026-10-13T18:27:42Z",
+      "minutes": 420.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【AION2】やってみる！まずはキャラクリ！【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 473,
+      "avgViewers": 473.0,
+      "samples": [
+        [
+          "2026-10-13T11:27:36Z",
+          473
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "A8-ovHK7TGM",
+      "videoUrl": "https://www.youtube.com/watch?v=A8-ovHK7TGM",
+      "start": "2026-10-13T11:27:36Z",
+      "end": "2026-10-13T18:27:42Z",
+      "minutes": 420.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚 妹に運転を教える〛低い声縛り！？妹ちゃんを兄の私が安全に案内すればいいんでしょ？〚 甘成じゅい/ゆにれいど！ 〛",
+      "game": null,
+      "peakViewers": 25,
+      "avgViewers": 25.0,
+      "samples": [
+        [
+          "2026-10-13T11:27:36Z",
+          25
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "pEo51Yc60pQ",
+      "videoUrl": "https://www.youtube.com/watch?v=pEo51Yc60pQ",
+      "start": "2026-10-13T11:27:36Z",
+      "end": "2026-10-13T18:27:42Z",
+      "minutes": 420.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGECity  ￤＃５ 】いっぱい学んでさらに成長するワン！🐶【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 942,
+      "avgViewers": 942.0,
+      "samples": [
+        [
+          "2026-10-13T11:27:36Z",
+          942
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "ZoiMIZCC0yM",
+      "videoUrl": "https://www.youtube.com/watch?v=ZoiMIZCC0yM",
+      "start": "2026-10-13T11:27:36Z",
+      "end": "2026-10-13T18:27:42Z",
+      "minutes": 420.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【いえのあじ】毒味してみた【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 80,
+      "avgViewers": 80.0,
+      "samples": [
+        [
+          "2026-10-13T11:27:36Z",
+          80
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "zbckp-Bwefk",
+      "videoUrl": "https://www.youtube.com/watch?v=zbckp-Bwefk",
+      "start": "2026-10-13T11:27:36Z",
+      "end": "2026-10-13T18:27:42Z",
+      "minutes": 420.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGECITY ￤＃４ 】われらゴールデンボー〇ズ頑張ります【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 57,
+      "avgViewers": 57.0,
+      "samples": [
+        [
+          "2026-10-13T11:27:36Z",
+          57
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "-WsMQmdAQDo",
+      "videoUrl": "https://www.youtube.com/watch?v=-WsMQmdAQDo",
+      "start": "2026-10-13T11:27:36Z",
+      "end": "2026-10-13T18:27:42Z",
+      "minutes": 420.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #リライフ 】水色ギャング設立に向けて。資金＆仲間集め #gtarp  【 #輝七瀬  / RIONECTION】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 8.0,
+      "samples": [
+        [
+          "2026-10-13T11:27:36Z",
+          8
         ]
       ],
       "isTargetGame": false
