@@ -2,22 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "3LJY5ZIKF2o",
-      "start": "2026-10-12T23:36:20Z",
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "vriTA4FaT3E",
+      "start": "2026-10-13T03:51:29Z",
       "startSource": "observed",
-      "title": "【 雑談 】朝から浮気の話でもしとく？【グラニット/ゆにれいど！】",
+      "title": "※ネタバレあり ひさしぶりにがっつりやるど～！眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #19 #愁子",
       "game": null,
-      "peakViewers": 22,
+      "peakViewers": 57,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-12T23:36:20Z",
-      "lastSeenAt": "2026-10-12T23:36:20Z",
+      "firstSeenAt": "2026-10-13T03:51:29Z",
+      "lastSeenAt": "2026-10-13T03:51:29Z",
       "samples": [
         [
-          "2026-10-12T23:36:20Z",
-          22
+          "2026-10-13T03:51:29Z",
+          57
         ]
       ]
     }
@@ -36153,6 +36153,28 @@
         [
           "2026-10-12T17:02:17Z",
           17
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "3LJY5ZIKF2o",
+      "videoUrl": "https://www.youtube.com/watch?v=3LJY5ZIKF2o",
+      "start": "2026-10-12T23:36:20Z",
+      "end": "2026-10-13T03:51:29Z",
+      "minutes": 255.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 雑談 】朝から浮気の話でもしとく？【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 22,
+      "avgViewers": 22.0,
+      "samples": [
+        [
+          "2026-10-12T23:36:20Z",
+          22
         ]
       ],
       "isTargetGame": false
