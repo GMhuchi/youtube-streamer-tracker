@@ -1,31 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "9mx1BO93Shw",
-      "start": "2026-10-14T12:55:26Z",
-      "startSource": "observed",
-      "title": "【Undertale】完全初見、神ゲーらしい #1【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 121,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-14T12:55:26Z",
-      "lastSeenAt": "2026-10-14T17:49:11Z",
-      "samples": [
-        [
-          "2026-10-14T12:55:26Z",
-          121
-        ],
-        [
-          "2026-10-14T17:49:11Z",
-          88
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -36575,6 +36551,32 @@
         [
           "2026-10-14T12:55:26Z",
           52
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "9mx1BO93Shw",
+      "videoUrl": "https://www.youtube.com/watch?v=9mx1BO93Shw",
+      "start": "2026-10-14T12:55:26Z",
+      "end": "2026-10-14T21:00:08Z",
+      "minutes": 484.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Undertale】完全初見、神ゲーらしい #1【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 121,
+      "avgViewers": 104.5,
+      "samples": [
+        [
+          "2026-10-14T12:55:26Z",
+          121
+        ],
+        [
+          "2026-10-14T17:49:11Z",
+          88
         ]
       ],
       "isTargetGame": false
