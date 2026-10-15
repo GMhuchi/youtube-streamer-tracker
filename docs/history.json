@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T23:52:25Z",
+  "updatedAt": "2026-10-15T03:29:39Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,74 +16,294 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1544.4,
+      "totalMinutes": 1978.9,
       "gameMinutes": 0.0,
-      "totalHours": 25.74,
+      "totalHours": 32.98,
       "gameHours": 0.0,
-      "sessions": 10,
-      "avgViewers": 42.6,
+      "sessions": 11,
+      "avgViewers": 83.2,
       "peakViewers": 392
     },
     "week": {
-      "totalMinutes": 11003.5,
+      "totalMinutes": 11437.9,
       "gameMinutes": 0.0,
-      "totalHours": 183.39,
+      "totalHours": 190.63,
       "gameHours": 0.0,
-      "sessions": 36,
-      "avgViewers": 169.7,
+      "sessions": 37,
+      "avgViewers": 171.9,
       "peakViewers": 942
     },
     "month": {
-      "totalMinutes": 43243.3,
+      "totalMinutes": 43677.8,
       "gameMinutes": 267.6,
-      "totalHours": 720.72,
+      "totalHours": 727.96,
       "gameHours": 4.46,
-      "sessions": 187,
-      "avgViewers": 144.0,
+      "sessions": 188,
+      "avgViewers": 144.8,
       "peakViewers": 997
     }
   },
   "channels": [
     {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "isLive": true,
+      "liveSince": "2026-10-15T03:29:39Z",
+      "liveTitle": "【目標：レジェンド リュウ レバー】環境破壊が進んでいるようですが...？【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "lastEnd": "2026-10-14T17:49:11Z",
+      "lastTitle": "【都市伝説解体センター】すごく面白いと話題のゲームをやります【ゲーム実況】【十神仁/ YUMENOS】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 169.2,
+          "gameMinutes": 0.0,
+          "totalHours": 2.82,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 10.0,
+          "peakViewers": 16
+        },
+        "week": {
+          "totalMinutes": 293.8,
+          "gameMinutes": 0.0,
+          "totalHours": 4.9,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 10.0,
+          "peakViewers": 16
+        },
+        "month": {
+          "totalMinutes": 1157.7,
+          "gameMinutes": 0.0,
+          "totalHours": 19.29,
+          "gameHours": 0.0,
+          "sessions": 10,
+          "avgViewers": 15.3,
+          "peakViewers": 28
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "_6qRavTbQdY",
+          "videoUrl": "https://www.youtube.com/watch?v=_6qRavTbQdY",
+          "start": "2026-10-14T12:55:26Z",
+          "end": "2026-10-14T17:49:11Z",
+          "minutes": 293.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【都市伝説解体センター】すごく面白いと話題のゲームをやります【ゲーム実況】【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [
+            [
+              "2026-10-14T12:55:26Z",
+              10
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "kHnNm320nQQ",
+          "videoUrl": "https://www.youtube.com/watch?v=kHnNm320nQQ",
+          "start": "2026-10-10T21:56:49Z",
+          "end": "2026-10-11T00:45:07Z",
+          "minutes": 168.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】朝練【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 17.0,
+          "samples": [
+            [
+              "2026-10-10T21:56:49Z",
+              17
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "TtYHWGB9jEQ",
+          "videoUrl": "https://www.youtube.com/watch?v=TtYHWGB9jEQ",
+          "start": "2026-10-07T23:42:29Z",
+          "end": "2026-10-08T01:54:28Z",
+          "minutes": 132.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】今日も元気に楽しく！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 17.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "YUShL0j2gl0",
+          "videoUrl": "https://www.youtube.com/watch?v=YUShL0j2gl0",
+          "start": "2026-10-07T12:32:59Z",
+          "end": "2026-10-07T14:01:12Z",
+          "minutes": 88.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Coffee Talk Tokyo早く終わったので＋雑談】ひとの話を聞くのは楽しい【ゲーム実況】※ネタバレを含む",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 7.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "sow-A3IC03Q",
+          "videoUrl": "https://www.youtube.com/watch?v=sow-A3IC03Q",
+          "start": "2026-10-05T22:34:54Z",
+          "end": "2026-10-06T00:47:05Z",
+          "minutes": 132.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバー】MRを気にするより間合いを気にしろ！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 27,
+          "avgViewers": 19.3,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "FqfvYsmAaUA",
+          "videoUrl": "https://www.youtube.com/watch?v=FqfvYsmAaUA",
+          "start": "2026-10-04T23:41:29Z",
+          "end": "2026-10-05T02:12:23Z",
+          "minutes": 150.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】早い展開でも間合いを気にする【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 20.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "aRj9EPP4qz8",
+          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
+          "start": "2026-10-01T22:50:20Z",
+          "end": "2026-10-02T00:24:50Z",
+          "minutes": 94.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 27,
+          "avgViewers": 23.7,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+          "name": "十神仁",
+          "videoId": "aRj9EPP4qz8",
+          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
+          "start": "2026-10-01T22:11:00Z",
+          "end": "2026-10-01T22:31:47Z",
+          "minutes": 20.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 16,
+      "livePeakViewers": 16,
+      "liveAvgViewers": 16.0,
+      "liveSamples": [
+        [
+          "2026-10-15T03:29:39Z",
+          16
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=hEGQ66jRTEE"
+    },
+    {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-10-14T23:52:25Z",
-      "liveTitle": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-10-14T12:55:26Z",
-      "lastTitle": "〖 VALORANT 〗突発ヴァロッッ第二弾.ᐟ.ᐟ⭐︎ / 鹿乃ちゃん〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-15T03:29:39Z",
+      "lastTitle": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 217.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 3.62,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 392.0,
           "peakViewers": 392
         },
         "week": {
-          "totalMinutes": 1363.5,
+          "totalMinutes": 1580.7,
           "gameMinutes": 0.0,
-          "totalHours": 22.72,
+          "totalHours": 26.35,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 227.1,
+          "avgViewers": 249.7,
           "peakViewers": 392
         },
         "month": {
-          "totalMinutes": 3960.7,
+          "totalMinutes": 4177.9,
           "gameMinutes": 0.0,
-          "totalHours": 66.01,
+          "totalHours": 69.63,
           "gameHours": 0.0,
           "sessions": 14,
-          "avgViewers": 242.8,
+          "avgViewers": 250.8,
           "peakViewers": 526
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "-EOYOgZhSpM",
+          "videoUrl": "https://www.youtube.com/watch?v=-EOYOgZhSpM",
+          "start": "2026-10-14T23:52:25Z",
+          "end": "2026-10-15T03:29:39Z",
+          "minutes": 217.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 392,
+          "avgViewers": 392.0,
+          "samples": [
+            [
+              "2026-10-14T23:52:25Z",
+              392
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -142,12 +362,7 @@
           "game": null,
           "peakViewers": 127,
           "avgViewers": 127.0,
-          "samples": [
-            [
-              "2026-10-12T17:02:17Z",
-              127
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -217,248 +432,8 @@
           "avgViewers": 129.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "xYEsvICgK0s",
-          "videoUrl": "https://www.youtube.com/watch?v=xYEsvICgK0s",
-          "start": "2026-10-09T11:30:41Z",
-          "end": "2026-10-09T17:32:35Z",
-          "minutes": 361.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 VALORANT 〗トリオヴァロッッ.ᐟ.ᐟ⭐︎ / 鹿乃ちゃん、レイレイ〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 237,
-          "avgViewers": 237.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 392,
-      "livePeakViewers": 392,
-      "liveAvgViewers": 392.0,
-      "liveSamples": [
-        [
-          "2026-10-14T23:52:25Z",
-          392
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=-EOYOgZhSpM"
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": true,
-      "liveSince": "2026-10-14T23:52:25Z",
-      "liveTitle": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
-      "lastEnd": "2026-10-08T15:47:03Z",
-      "lastTitle": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 63.0,
-          "peakViewers": 63
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 63.0,
-          "peakViewers": 63
-        },
-        "month": {
-          "totalMinutes": 2054.3,
-          "gameMinutes": 0.0,
-          "totalHours": 34.24,
-          "gameHours": 0.0,
-          "sessions": 10,
-          "avgViewers": 38.6,
-          "peakViewers": 69
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "YXBGD4ozGR0",
-          "videoUrl": "https://www.youtube.com/watch?v=YXBGD4ozGR0",
-          "start": "2026-10-08T13:30:47Z",
-          "end": "2026-10-08T15:47:03Z",
-          "minutes": 136.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 57,
-          "avgViewers": 48.5,
-          "samples": [
-            [
-              "2026-10-08T13:30:47Z",
-              34
-            ],
-            [
-              "2026-10-08T13:50:44Z",
-              42
-            ],
-            [
-              "2026-10-08T14:15:07Z",
-              47
-            ],
-            [
-              "2026-10-08T14:39:35Z",
-              55
-            ],
-            [
-              "2026-10-08T14:58:53Z",
-              56
-            ],
-            [
-              "2026-10-08T15:21:17Z",
-              57
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "I5LpOx_9tqE",
-          "videoUrl": "https://www.youtube.com/watch?v=I5LpOx_9tqE",
-          "start": "2026-10-07T14:47:58Z",
-          "end": "2026-10-07T17:36:55Z",
-          "minutes": 169.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 69,
-          "avgViewers": 59.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "WO4ayUn86YQ",
-          "videoUrl": "https://www.youtube.com/watch?v=WO4ayUn86YQ",
-          "start": "2026-10-04T22:50:22Z",
-          "end": "2026-10-04T23:56:56Z",
-          "minutes": 66.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お昼寝しすぎてあまり眠くなかったので朝活🐣　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 43.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "AOnhM4W6JIA",
-          "videoUrl": "https://www.youtube.com/watch?v=AOnhM4W6JIA",
-          "start": "2026-10-04T02:16:06Z",
-          "end": "2026-10-04T15:04:42Z",
-          "minutes": 768.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 42,
-          "avgViewers": 35.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "t8YAOkJDZW4",
-          "videoUrl": "https://www.youtube.com/watch?v=t8YAOkJDZW4",
-          "start": "2026-10-03T14:36:05Z",
-          "end": "2026-10-03T18:37:56Z",
-          "minutes": 241.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day38 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "PJSXpKE42kQ",
-          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
-          "start": "2026-10-02T12:41:37Z",
-          "end": "2026-10-02T13:46:53Z",
-          "minutes": 65.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 51.2,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "PJSXpKE42kQ",
-          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
-          "start": "2026-10-02T11:11:23Z",
-          "end": "2026-10-02T12:15:10Z",
-          "minutes": 63.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 49,
-          "avgViewers": 37.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "ILKEcL_sg6U",
-          "videoUrl": "https://www.youtube.com/watch?v=ILKEcL_sg6U",
-          "start": "2026-10-01T12:27:17Z",
-          "end": "2026-10-01T18:16:06Z",
-          "minutes": 348.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day37 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 60,
-          "avgViewers": 38.2,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 63,
-      "livePeakViewers": 63,
-      "liveAvgViewers": 63.0,
-      "liveSamples": [
-        [
-          "2026-10-14T23:52:25Z",
-          63
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=Gj9T6mgvcyo"
+      ]
     },
     {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
@@ -1837,6 +1812,214 @@
           "game": null,
           "peakViewers": 55,
           "avgViewers": 46.5,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-15T03:29:39Z",
+      "lastTitle": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
+      "buckets": {
+        "today": {
+          "totalMinutes": 217.2,
+          "gameMinutes": 0.0,
+          "totalHours": 3.62,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 63.0,
+          "peakViewers": 63
+        },
+        "week": {
+          "totalMinutes": 217.2,
+          "gameMinutes": 0.0,
+          "totalHours": 3.62,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 63.0,
+          "peakViewers": 63
+        },
+        "month": {
+          "totalMinutes": 2271.5,
+          "gameMinutes": 0.0,
+          "totalHours": 37.86,
+          "gameHours": 0.0,
+          "sessions": 10,
+          "avgViewers": 41.0,
+          "peakViewers": 69
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Gj9T6mgvcyo",
+          "videoUrl": "https://www.youtube.com/watch?v=Gj9T6mgvcyo",
+          "start": "2026-10-14T23:52:25Z",
+          "end": "2026-10-15T03:29:39Z",
+          "minutes": 217.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 63,
+          "avgViewers": 63.0,
+          "samples": [
+            [
+              "2026-10-14T23:52:25Z",
+              63
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "YXBGD4ozGR0",
+          "videoUrl": "https://www.youtube.com/watch?v=YXBGD4ozGR0",
+          "start": "2026-10-08T13:30:47Z",
+          "end": "2026-10-08T15:47:03Z",
+          "minutes": 136.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 57,
+          "avgViewers": 48.5,
+          "samples": [
+            [
+              "2026-10-08T13:30:47Z",
+              34
+            ],
+            [
+              "2026-10-08T13:50:44Z",
+              42
+            ],
+            [
+              "2026-10-08T14:15:07Z",
+              47
+            ],
+            [
+              "2026-10-08T14:39:35Z",
+              55
+            ],
+            [
+              "2026-10-08T14:58:53Z",
+              56
+            ],
+            [
+              "2026-10-08T15:21:17Z",
+              57
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "I5LpOx_9tqE",
+          "videoUrl": "https://www.youtube.com/watch?v=I5LpOx_9tqE",
+          "start": "2026-10-07T14:47:58Z",
+          "end": "2026-10-07T17:36:55Z",
+          "minutes": 169.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 69,
+          "avgViewers": 59.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "WO4ayUn86YQ",
+          "videoUrl": "https://www.youtube.com/watch?v=WO4ayUn86YQ",
+          "start": "2026-10-04T22:50:22Z",
+          "end": "2026-10-04T23:56:56Z",
+          "minutes": 66.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お昼寝しすぎてあまり眠くなかったので朝活🐣　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 43.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "AOnhM4W6JIA",
+          "videoUrl": "https://www.youtube.com/watch?v=AOnhM4W6JIA",
+          "start": "2026-10-04T02:16:06Z",
+          "end": "2026-10-04T15:04:42Z",
+          "minutes": 768.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【亰都ザナドゥ -桜花幻舞-】#12　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 42,
+          "avgViewers": 35.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "t8YAOkJDZW4",
+          "videoUrl": "https://www.youtube.com/watch?v=t8YAOkJDZW4",
+          "start": "2026-10-03T14:36:05Z",
+          "end": "2026-10-03T18:37:56Z",
+          "minutes": 241.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day38 ギャング体験中。今日はどんな日になる？【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "PJSXpKE42kQ",
+          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
+          "start": "2026-10-02T12:41:37Z",
+          "end": "2026-10-02T13:46:53Z",
+          "minutes": 65.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 51.2,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "PJSXpKE42kQ",
+          "videoUrl": "https://www.youtube.com/watch?v=PJSXpKE42kQ",
+          "start": "2026-10-02T11:11:23Z",
+          "end": "2026-10-02T12:15:10Z",
+          "minutes": 63.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 49,
+          "avgViewers": 37.8,
           "samples": [],
           "isTargetGame": false
         }
@@ -3453,219 +3636,6 @@
       ]
     },
     {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-14T17:49:11Z",
-      "lastTitle": "【都市伝説解体センター】すごく面白いと話題のゲームをやります【ゲーム実況】【十神仁/ YUMENOS】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 169.2,
-          "gameMinutes": 0.0,
-          "totalHours": 2.82,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 10.0,
-          "peakViewers": 10
-        },
-        "week": {
-          "totalMinutes": 293.8,
-          "gameMinutes": 0.0,
-          "totalHours": 4.9,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 10.0,
-          "peakViewers": 10
-        },
-        "month": {
-          "totalMinutes": 1157.7,
-          "gameMinutes": 0.0,
-          "totalHours": 19.29,
-          "gameHours": 0.0,
-          "sessions": 9,
-          "avgViewers": 15.3,
-          "peakViewers": 28
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "_6qRavTbQdY",
-          "videoUrl": "https://www.youtube.com/watch?v=_6qRavTbQdY",
-          "start": "2026-10-14T12:55:26Z",
-          "end": "2026-10-14T17:49:11Z",
-          "minutes": 293.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【都市伝説解体センター】すごく面白いと話題のゲームをやります【ゲーム実況】【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [
-            [
-              "2026-10-14T12:55:26Z",
-              10
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "kHnNm320nQQ",
-          "videoUrl": "https://www.youtube.com/watch?v=kHnNm320nQQ",
-          "start": "2026-10-10T21:56:49Z",
-          "end": "2026-10-11T00:45:07Z",
-          "minutes": 168.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】朝練【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 17.0,
-          "samples": [
-            [
-              "2026-10-10T21:56:49Z",
-              17
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "TtYHWGB9jEQ",
-          "videoUrl": "https://www.youtube.com/watch?v=TtYHWGB9jEQ",
-          "start": "2026-10-07T23:42:29Z",
-          "end": "2026-10-08T01:54:28Z",
-          "minutes": 132.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】今日も元気に楽しく！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 17.0,
-          "samples": [
-            [
-              "2026-10-07T23:42:29Z",
-              9
-            ],
-            [
-              "2026-10-07T23:57:40Z",
-              14
-            ],
-            [
-              "2026-10-08T00:26:23Z",
-              17
-            ],
-            [
-              "2026-10-08T00:54:01Z",
-              22
-            ],
-            [
-              "2026-10-08T01:14:16Z",
-              20
-            ],
-            [
-              "2026-10-08T01:36:22Z",
-              19
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "YUShL0j2gl0",
-          "videoUrl": "https://www.youtube.com/watch?v=YUShL0j2gl0",
-          "start": "2026-10-07T12:32:59Z",
-          "end": "2026-10-07T14:01:12Z",
-          "minutes": 88.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Coffee Talk Tokyo早く終わったので＋雑談】ひとの話を聞くのは楽しい【ゲーム実況】※ネタバレを含む",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 7.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "sow-A3IC03Q",
-          "videoUrl": "https://www.youtube.com/watch?v=sow-A3IC03Q",
-          "start": "2026-10-05T22:34:54Z",
-          "end": "2026-10-06T00:47:05Z",
-          "minutes": 132.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバー】MRを気にするより間合いを気にしろ！！！【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 27,
-          "avgViewers": 19.3,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "FqfvYsmAaUA",
-          "videoUrl": "https://www.youtube.com/watch?v=FqfvYsmAaUA",
-          "start": "2026-10-04T23:41:29Z",
-          "end": "2026-10-05T02:12:23Z",
-          "minutes": 150.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】早い展開でも間合いを気にする【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 20.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "aRj9EPP4qz8",
-          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
-          "start": "2026-10-01T22:50:20Z",
-          "end": "2026-10-02T00:24:50Z",
-          "minutes": 94.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 27,
-          "avgViewers": 23.7,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-          "name": "十神仁",
-          "videoId": "aRj9EPP4qz8",
-          "videoUrl": "https://www.youtube.com/watch?v=aRj9EPP4qz8",
-          "start": "2026-10-01T22:11:00Z",
-          "end": "2026-10-01T22:31:47Z",
-          "minutes": 20.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【目標：レジェンド リュウ レバーレス】遠めの間合いを意識しつつ旋風脚を先端であてに行く【LIVE】#スト6  【十神仁/ YUMENOS】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
       "name": "輝 七瀬",
       "registered": true,
@@ -4267,6 +4237,38 @@
     }
   ],
   "recentSessions": [
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "-EOYOgZhSpM",
+      "videoUrl": "https://www.youtube.com/watch?v=-EOYOgZhSpM",
+      "start": "2026-10-14T23:52:25Z",
+      "end": "2026-10-15T03:29:39Z",
+      "minutes": 217.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 392,
+      "avgViewers": 392.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "Gj9T6mgvcyo",
+      "videoUrl": "https://www.youtube.com/watch?v=Gj9T6mgvcyo",
+      "start": "2026-10-14T23:52:25Z",
+      "end": "2026-10-15T03:29:39Z",
+      "minutes": 217.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 63,
+      "avgViewers": 63.0,
+      "isTargetGame": false
+    },
     {
       "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
       "name": "瀬尾カザリ",
@@ -5193,38 +5195,6 @@
       "game": null,
       "peakViewers": 30,
       "avgViewers": 25.1,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "5wu3N31bIcA",
-      "videoUrl": "https://www.youtube.com/watch?v=5wu3N31bIcA",
-      "start": "2026-10-08T16:29:53Z",
-      "end": "2026-10-08T20:01:44Z",
-      "minutes": 211.9,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "〖 APEX 〗 久々ハセのあてとフルパ.ᐟ.ᐟ⭐︎→Bijuさん〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 267,
-      "avgViewers": 248.2,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "LeOv7qCmfAc",
-      "videoUrl": "https://www.youtube.com/watch?v=LeOv7qCmfAc",
-      "start": "2026-10-08T14:15:07Z",
-      "end": "2026-10-08T18:13:57Z",
-      "minutes": 238.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　初心者マークが外れた初めての朝　 ～Day20～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 104,
-      "avgViewers": 89.8,
       "isTargetGame": false
     }
   ]

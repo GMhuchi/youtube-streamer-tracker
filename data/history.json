@@ -2,41 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "-EOYOgZhSpM",
-      "start": "2026-10-14T23:52:25Z",
+    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "hEGQ66jRTEE",
+      "start": "2026-10-15T03:29:39Z",
       "startSource": "observed",
-      "title": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
+      "title": "【目標：レジェンド リュウ レバー】環境破壊が進んでいるようですが...？【LIVE】#スト6  【十神仁/ YUMENOS】",
       "game": null,
-      "peakViewers": 392,
+      "peakViewers": 16,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-14T23:52:25Z",
-      "lastSeenAt": "2026-10-14T23:52:25Z",
+      "firstSeenAt": "2026-10-15T03:29:39Z",
+      "lastSeenAt": "2026-10-15T03:29:39Z",
       "samples": [
         [
-          "2026-10-14T23:52:25Z",
-          392
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "Gj9T6mgvcyo",
-      "start": "2026-10-14T23:52:25Z",
-      "startSource": "observed",
-      "title": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
-      "game": null,
-      "peakViewers": 63,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-14T23:52:25Z",
-      "lastSeenAt": "2026-10-14T23:52:25Z",
-      "samples": [
-        [
-          "2026-10-14T23:52:25Z",
-          63
+          "2026-10-15T03:29:39Z",
+          16
         ]
       ]
     }
@@ -36616,6 +36597,50 @@
         [
           "2026-10-14T17:49:11Z",
           88
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "-EOYOgZhSpM",
+      "videoUrl": "https://www.youtube.com/watch?v=-EOYOgZhSpM",
+      "start": "2026-10-14T23:52:25Z",
+      "end": "2026-10-15T03:29:39Z",
+      "minutes": 217.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 392,
+      "avgViewers": 392.0,
+      "samples": [
+        [
+          "2026-10-14T23:52:25Z",
+          392
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "Gj9T6mgvcyo",
+      "videoUrl": "https://www.youtube.com/watch?v=Gj9T6mgvcyo",
+      "start": "2026-10-14T23:52:25Z",
+      "end": "2026-10-15T03:29:39Z",
+      "minutes": 217.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 63,
+      "avgViewers": 63.0,
+      "samples": [
+        [
+          "2026-10-14T23:52:25Z",
+          63
         ]
       ],
       "isTargetGame": false
