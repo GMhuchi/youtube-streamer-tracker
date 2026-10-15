@@ -2,30 +2,41 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "zhkUTRgpVpU",
-      "start": "2026-10-15T13:40:53Z",
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "VcL_dIBRsTE",
+      "start": "2026-10-15T23:38:38Z",
       "startSource": "observed",
-      "title": "【Undertale】完全初見、神ゲーの別ルート編 #2【綾見ユラ/YUMENOS】",
+      "title": "【朝枠】おはよーしないの？【甘音あむ / ネオポルテ】",
       "game": null,
-      "peakViewers": 85,
+      "peakViewers": 261,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T20:59:45Z",
+      "firstSeenAt": "2026-10-15T23:38:38Z",
+      "lastSeenAt": "2026-10-15T23:38:38Z",
       "samples": [
         [
-          "2026-10-15T13:40:53Z",
-          85
-        ],
+          "2026-10-15T23:38:38Z",
+          261
+        ]
+      ]
+    },
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "5ExBtI97LKY",
+      "start": "2026-10-15T23:38:38Z",
+      "startSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 22,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-15T23:38:38Z",
+      "lastSeenAt": "2026-10-15T23:38:38Z",
+      "samples": [
         [
-          "2026-10-15T17:54:42Z",
-          59
-        ],
-        [
-          "2026-10-15T20:59:45Z",
-          83
+          "2026-10-15T23:38:38Z",
+          22
         ]
       ]
     }
@@ -36864,6 +36875,36 @@
         [
           "2026-10-15T13:40:53Z",
           35
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "zhkUTRgpVpU",
+      "videoUrl": "https://www.youtube.com/watch?v=zhkUTRgpVpU",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T23:38:38Z",
+      "minutes": 597.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Undertale】完全初見、神ゲーの別ルート編 #2【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 85,
+      "avgViewers": 77.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          85
+        ],
+        [
+          "2026-10-15T17:54:42Z",
+          59
+        ],
+        [
+          "2026-10-15T20:59:45Z",
+          83
         ]
       ],
       "isTargetGame": false
