@@ -1,27 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "hEGQ66jRTEE",
-      "start": "2026-10-15T03:29:39Z",
-      "startSource": "observed",
-      "title": "【目標：レジェンド リュウ レバー】環境破壊が進んでいるようですが...？【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 16,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T03:29:39Z",
-      "lastSeenAt": "2026-10-15T03:29:39Z",
-      "samples": [
-        [
-          "2026-10-15T03:29:39Z",
-          16
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -36641,6 +36621,28 @@
         [
           "2026-10-14T23:52:25Z",
           63
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "hEGQ66jRTEE",
+      "videoUrl": "https://www.youtube.com/watch?v=hEGQ66jRTEE",
+      "start": "2026-10-15T03:29:39Z",
+      "end": "2026-10-15T08:33:24Z",
+      "minutes": 303.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【目標：レジェンド リュウ レバー】環境破壊が進んでいるようですが...？【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 16,
+      "avgViewers": 16.0,
+      "samples": [
+        [
+          "2026-10-15T03:29:39Z",
+          16
         ]
       ],
       "isTargetGame": false
