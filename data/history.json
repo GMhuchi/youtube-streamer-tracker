@@ -2,115 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCNGMMdEgYIUR6rC44v9aZ8w": {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "J4ca79EZ-7s",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【SURGECITY】＃６ 店番の帝王【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 14,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
-        [
-          "2026-10-15T13:40:53Z",
-          14
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "Ibo1AOeaen0",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【LTK】LTK DAY1 ウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 34,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
-        [
-          "2026-10-15T13:40:53Z",
-          34
-        ]
-      ]
-    },
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "O5G5Kv7CTHs",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【メン限】ファンレター読みながら雑談【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": []
-    },
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "s-rQrB5WuE4",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【歌枠/KARAOKE 】ちょっと寒くなってきたね #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 614,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
-        [
-          "2026-10-15T13:40:53Z",
-          614
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "jbjSpf8Y3qo",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【 VALORANT 】新ACT来たらしい【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 49,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
-        [
-          "2026-10-15T13:40:53Z",
-          49
-        ]
-      ]
-    },
-    "UCeTb2MQrm8UBChlecw7pQOA": {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "videoId": "WRJTwhooypY",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【 #SURGECity  ￤＃７ 】みあ王子、今日も出勤だワン！🐶【 すずみあ / 赤彩みあ 】",
-      "game": null,
-      "peakViewers": 1,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
-        [
-          "2026-10-15T13:40:53Z",
-          1
-        ]
-      ]
-    },
     "UCB-aip0wsqKQPcrLW1BBJaw": {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
       "name": "綾見ユラ",
@@ -122,68 +13,15 @@
       "peakViewers": 85,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
+      "lastSeenAt": "2026-10-15T17:54:42Z",
       "samples": [
         [
           "2026-10-15T13:40:53Z",
           85
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "h3G7lSzWDig",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【ゼルダの伝説 時のオカリナ】#2  今日はゾーラの里から！久々のジャブジャブ様！【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "game": null,
-      "peakViewers": 11,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
+        ],
         [
-          "2026-10-15T13:40:53Z",
-          11
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "jy9dav98ayo",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "🟣10/15【 #StafferRetro 】＃9 ｢月光｣が照らす真実を求める迷探偵🔍【 maŸUko / #Vtuber 】※ネタバレ注意",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
-        [
-          "2026-10-15T13:40:53Z",
-          8
-        ]
-      ]
-    },
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "-pEe440lTTc",
-      "start": "2026-10-15T13:40:53Z",
-      "startSource": "observed",
-      "title": "【雑談】そこの君、俺と話していかないか【水上蒼太/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 35,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-15T13:40:53Z",
-      "lastSeenAt": "2026-10-15T13:40:53Z",
-      "samples": [
-        [
-          "2026-10-15T13:40:53Z",
-          35
+          "2026-10-15T17:54:42Z",
+          59
         ]
       ]
     }
@@ -36829,6 +36667,199 @@
         [
           "2026-10-15T03:29:39Z",
           16
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "O5G5Kv7CTHs",
+      "videoUrl": "https://www.youtube.com/watch?v=O5G5Kv7CTHs",
+      "start": "2026-10-15T11:00:29Z",
+      "end": "2026-10-15T13:42:55Z",
+      "minutes": 162.4,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【メン限】ファンレター読みながら雑談【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "J4ca79EZ-7s",
+      "videoUrl": "https://www.youtube.com/watch?v=J4ca79EZ-7s",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【SURGECITY】＃６ 店番の帝王【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 14,
+      "avgViewers": 14.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          14
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "Ibo1AOeaen0",
+      "videoUrl": "https://www.youtube.com/watch?v=Ibo1AOeaen0",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【LTK】LTK DAY1 ウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 34,
+      "avgViewers": 34.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          34
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "s-rQrB5WuE4",
+      "videoUrl": "https://www.youtube.com/watch?v=s-rQrB5WuE4",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【歌枠/KARAOKE 】ちょっと寒くなってきたね #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 614,
+      "avgViewers": 614.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          614
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "jbjSpf8Y3qo",
+      "videoUrl": "https://www.youtube.com/watch?v=jbjSpf8Y3qo",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 VALORANT 】新ACT来たらしい【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 49,
+      "avgViewers": 49.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          49
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "videoId": "WRJTwhooypY",
+      "videoUrl": "https://www.youtube.com/watch?v=WRJTwhooypY",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #SURGECity  ￤＃７ 】みあ王子、今日も出勤だワン！🐶【 すずみあ / 赤彩みあ 】",
+      "game": null,
+      "peakViewers": 1,
+      "avgViewers": 1.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          1
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "h3G7lSzWDig",
+      "videoUrl": "https://www.youtube.com/watch?v=h3G7lSzWDig",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ゼルダの伝説 時のオカリナ】#2  今日はゾーラの里から！久々のジャブジャブ様！【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 11,
+      "avgViewers": 11.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          11
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "jy9dav98ayo",
+      "videoUrl": "https://www.youtube.com/watch?v=jy9dav98ayo",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣10/15【 #StafferRetro 】＃9 ｢月光｣が照らす真実を求める迷探偵🔍【 maŸUko / #Vtuber 】※ネタバレ注意",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 8.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          8
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "-pEe440lTTc",
+      "videoUrl": "https://www.youtube.com/watch?v=-pEe440lTTc",
+      "start": "2026-10-15T13:40:53Z",
+      "end": "2026-10-15T17:54:42Z",
+      "minutes": 253.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】そこの君、俺と話していかないか【水上蒼太/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 35,
+      "avgViewers": 35.0,
+      "samples": [
+        [
+          "2026-10-15T13:40:53Z",
+          35
         ]
       ],
       "isTargetGame": false
