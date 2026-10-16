@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:39:42Z",
+  "updatedAt": "2026-10-16T06:23:52Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 0.0,
       "totalHours": 35.97,
       "gameHours": 0.0,
-      "sessions": 11,
+      "sessions": 12,
       "avgViewers": 96.4,
       "peakViewers": 614
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 246.24,
       "gameHours": 0.0,
-      "sessions": 49,
+      "sessions": 50,
       "avgViewers": 153.7,
       "peakViewers": 942
     },
@@ -38,7 +38,7 @@
       "gameMinutes": 267.6,
       "totalHours": 783.57,
       "gameHours": 4.46,
-      "sessions": 200,
+      "sessions": 201,
       "avgViewers": 140.9,
       "peakViewers": 997
     }
@@ -49,9 +49,9 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-10-16T06:23:52Z",
+      "liveTitle": "〖 VALORANT 〗ｳﾞｧｯｳﾞｧｯｳﾞｧﾛｰ〖 心白てと / ネオポルテ 〗",
       "lastEnd": "2026-10-15T03:29:39Z",
       "lastTitle": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
       "buckets": {
@@ -60,16 +60,16 @@
           "gameMinutes": 0.0,
           "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 1,
+          "avgViewers": 196.0,
+          "peakViewers": 196
         },
         "week": {
           "totalMinutes": 1580.7,
           "gameMinutes": 0.0,
           "totalHours": 26.35,
           "gameHours": 0.0,
-          "sessions": 5,
+          "sessions": 6,
           "avgViewers": 249.7,
           "peakViewers": 392
         },
@@ -78,7 +78,7 @@
           "gameMinutes": 0.0,
           "totalHours": 69.63,
           "gameHours": 0.0,
-          "sessions": 14,
+          "sessions": 15,
           "avgViewers": 250.8,
           "peakViewers": 526
         }
@@ -235,7 +235,17 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 196,
+      "livePeakViewers": 196,
+      "liveAvgViewers": 196.0,
+      "liveSamples": [
+        [
+          "2026-10-16T06:23:52Z",
+          196
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=H-aswmXNcMA"
     },
     {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
