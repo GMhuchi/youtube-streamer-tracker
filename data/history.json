@@ -1,7 +1,46 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCE4W22kKQQVdrA2KTiyZ_cA": {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "B8n0-KJvQ90",
+      "start": "2026-10-17T04:50:00Z",
+      "startSource": "observed",
+      "title": "【雑談】ﾝ’’ﾝ’’ｳ’’ﾝ’’！お''はよ♡【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 13,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-17T04:50:00Z",
+      "lastSeenAt": "2026-10-17T04:50:00Z",
+      "samples": [
+        [
+          "2026-10-17T04:50:00Z",
+          13
+        ]
+      ]
+    },
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "i8pko09UQoM",
+      "start": "2026-10-17T04:50:00Z",
+      "startSource": "observed",
+      "title": "【 ELDEN RING NIGHTREIGN 】ほぼ初めてのナイトレイン！リスナーさん参加型！お手柔らかに✋【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 13,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-17T04:50:00Z",
+      "lastSeenAt": "2026-10-17T04:50:00Z",
+      "samples": [
+        [
+          "2026-10-17T04:50:00Z",
+          13
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
