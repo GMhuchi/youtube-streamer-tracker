@@ -1,89 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "XHgT4e90Bos",
-      "start": "2026-10-17T12:43:37Z",
-      "startSource": "observed",
-      "title": "【ほの暮しの庭】村が隠してる闇とは? #5【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 49,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T18:23:29Z",
-      "samples": [
-        [
-          "2026-10-17T12:43:37Z",
-          32
-        ],
-        [
-          "2026-10-17T15:58:59Z",
-          33
-        ],
-        [
-          "2026-10-17T18:23:29Z",
-          49
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "qwE4Jw4pJCw",
-      "start": "2026-10-17T12:43:37Z",
-      "startSource": "observed",
-      "title": "【 スマブラ 】ゆっくりれんまだぜ。今日はガキどもをボコすぜ【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 41,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T18:23:29Z",
-      "samples": [
-        [
-          "2026-10-17T12:43:37Z",
-          41
-        ],
-        [
-          "2026-10-17T15:58:59Z",
-          21
-        ],
-        [
-          "2026-10-17T18:23:29Z",
-          18
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "uI0XxqGPuPA",
-      "start": "2026-10-17T12:43:37Z",
-      "startSource": "observed",
-      "title": "【 スマブラ 】校舎裏に呼び出された w/ れんま ぴりから【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 16,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T18:23:29Z",
-      "samples": [
-        [
-          "2026-10-17T12:43:37Z",
-          16
-        ],
-        [
-          "2026-10-17T15:58:59Z",
-          12
-        ],
-        [
-          "2026-10-17T18:23:29Z",
-          9
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -37543,6 +37461,96 @@
         [
           "2026-10-17T15:58:59Z",
           2
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "XHgT4e90Bos",
+      "videoUrl": "https://www.youtube.com/watch?v=XHgT4e90Bos",
+      "start": "2026-10-17T12:43:37Z",
+      "end": "2026-10-17T20:49:26Z",
+      "minutes": 485.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ほの暮しの庭】村が隠してる闇とは? #5【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 49,
+      "avgViewers": 38.0,
+      "samples": [
+        [
+          "2026-10-17T12:43:37Z",
+          32
+        ],
+        [
+          "2026-10-17T15:58:59Z",
+          33
+        ],
+        [
+          "2026-10-17T18:23:29Z",
+          49
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "qwE4Jw4pJCw",
+      "videoUrl": "https://www.youtube.com/watch?v=qwE4Jw4pJCw",
+      "start": "2026-10-17T12:43:37Z",
+      "end": "2026-10-17T20:49:26Z",
+      "minutes": 485.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 スマブラ 】ゆっくりれんまだぜ。今日はガキどもをボコすぜ【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 41,
+      "avgViewers": 27.7,
+      "samples": [
+        [
+          "2026-10-17T12:43:37Z",
+          41
+        ],
+        [
+          "2026-10-17T15:58:59Z",
+          21
+        ],
+        [
+          "2026-10-17T18:23:29Z",
+          18
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "uI0XxqGPuPA",
+      "videoUrl": "https://www.youtube.com/watch?v=uI0XxqGPuPA",
+      "start": "2026-10-17T12:43:37Z",
+      "end": "2026-10-17T20:49:26Z",
+      "minutes": 485.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 スマブラ 】校舎裏に呼び出された w/ れんま ぴりから【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 16,
+      "avgViewers": 12.5,
+      "samples": [
+        [
+          "2026-10-17T12:43:37Z",
+          16
+        ],
+        [
+          "2026-10-17T15:58:59Z",
+          12
+        ],
+        [
+          "2026-10-17T18:23:29Z",
+          9
         ]
       ],
       "isTargetGame": false
