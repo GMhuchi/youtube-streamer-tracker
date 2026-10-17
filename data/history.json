@@ -1,54 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "3eaITAE3u7M",
-      "start": "2026-10-16T15:36:00Z",
-      "startSource": "observed",
-      "title": "【Undertale】完全初見、神ゲーのGルート編 #3【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 92,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-16T15:36:00Z",
-      "lastSeenAt": "2026-10-16T22:03:16Z",
-      "samples": [
-        [
-          "2026-10-16T15:36:00Z",
-          82
-        ],
-        [
-          "2026-10-16T19:01:06Z",
-          92
-        ],
-        [
-          "2026-10-16T22:03:16Z",
-          80
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "L2SruKq5VQY",
-      "start": "2026-10-16T22:03:16Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#306［2026.10/17］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 501,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-16T22:03:16Z",
-      "lastSeenAt": "2026-10-16T22:03:16Z",
-      "samples": [
-        [
-          "2026-10-16T22:03:16Z",
-          501
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -37207,6 +37160,58 @@
         [
           "2026-10-16T15:36:00Z",
           8
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "3eaITAE3u7M",
+      "videoUrl": "https://www.youtube.com/watch?v=3eaITAE3u7M",
+      "start": "2026-10-16T15:36:00Z",
+      "end": "2026-10-17T00:25:01Z",
+      "minutes": 529.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Undertale】完全初見、神ゲーのGルート編 #3【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 92,
+      "avgViewers": 84.5,
+      "samples": [
+        [
+          "2026-10-16T15:36:00Z",
+          82
+        ],
+        [
+          "2026-10-16T19:01:06Z",
+          92
+        ],
+        [
+          "2026-10-16T22:03:16Z",
+          80
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "L2SruKq5VQY",
+      "videoUrl": "https://www.youtube.com/watch?v=L2SruKq5VQY",
+      "start": "2026-10-16T22:03:16Z",
+      "end": "2026-10-17T00:25:01Z",
+      "minutes": 141.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#306［2026.10/17］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 501,
+      "avgViewers": 501.0,
+      "samples": [
+        [
+          "2026-10-16T22:03:16Z",
+          501
         ]
       ],
       "isTargetGame": false
