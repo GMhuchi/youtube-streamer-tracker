@@ -2,29 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "_zn-X4-3Em8",
-      "start": "2026-10-17T08:52:49Z",
-      "startSource": "observed",
-      "title": "〚 ELDEN RING〛フロム初心者🔰が完全初見で地獄のDLCクリアを目指す！ラスボス？倒すぞ#7 (#17)〚 甘成じゅい/ゆにれいど！ 〛#eldenring",
-      "game": null,
-      "peakViewers": 48,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T08:52:49Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
-      "samples": [
-        [
-          "2026-10-17T08:52:49Z",
-          18
-        ],
-        [
-          "2026-10-17T12:43:37Z",
-          48
-        ]
-      ]
-    },
     "UCElYE3bfzjjmJ9xwjvro9Yw": {
       "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
       "name": "日裏クロ",
@@ -33,52 +10,18 @@
       "startSource": "observed",
       "title": "【ほの暮しの庭】村が隠してる闇とは? #5【日裏クロ / ネオポルテ】",
       "game": null,
-      "peakViewers": 32,
+      "peakViewers": 33,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
+      "lastSeenAt": "2026-10-17T15:58:59Z",
       "samples": [
         [
           "2026-10-17T12:43:37Z",
           32
-        ]
-      ]
-    },
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "D4hKr7hjZ7I",
-      "start": "2026-10-17T12:43:37Z",
-      "startSource": "observed",
-      "title": "【My Little Puppy】🐶パパ！迎えに行くよ！【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 89,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
-      "samples": [
+        ],
         [
-          "2026-10-17T12:43:37Z",
-          89
-        ]
-      ]
-    },
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "ZS7last014E",
-      "start": "2026-10-17T12:43:37Z",
-      "startSource": "observed",
-      "title": "【Japanese Ramen Simulator】朕たちのてづくりラーメン食ってく？！【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 589,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
-      "samples": [
-        [
-          "2026-10-17T12:43:37Z",
-          589
+          "2026-10-17T15:58:59Z",
+          33
         ]
       ]
     },
@@ -93,11 +36,15 @@
       "peakViewers": 41,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
+      "lastSeenAt": "2026-10-17T15:58:59Z",
       "samples": [
         [
           "2026-10-17T12:43:37Z",
           41
+        ],
+        [
+          "2026-10-17T15:58:59Z",
+          21
         ]
       ]
     },
@@ -112,11 +59,15 @@
       "peakViewers": 16,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
+      "lastSeenAt": "2026-10-17T15:58:59Z",
       "samples": [
         [
           "2026-10-17T12:43:37Z",
           16
+        ],
+        [
+          "2026-10-17T15:58:59Z",
+          12
         ]
       ]
     },
@@ -131,11 +82,15 @@
       "peakViewers": 786,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
+      "lastSeenAt": "2026-10-17T15:58:59Z",
       "samples": [
         [
           "2026-10-17T12:43:37Z",
           786
+        ],
+        [
+          "2026-10-17T15:58:59Z",
+          782
         ]
       ]
     },
@@ -150,46 +105,36 @@
       "peakViewers": 4,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
+      "lastSeenAt": "2026-10-17T15:58:59Z",
       "samples": [
         [
           "2026-10-17T12:43:37Z",
           4
+        ],
+        [
+          "2026-10-17T15:58:59Z",
+          2
         ]
       ]
     },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "gU8XB9dileY",
-      "start": "2026-10-17T12:43:37Z",
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "XU70BA97134",
+      "start": "2026-10-17T15:58:59Z",
       "startSource": "observed",
-      "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+      "title": "【歌枠】深夜のチル歌枠💤 疲れたそんな時にほっと一息1曲聞いていきませんか？【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 47,
+      "peakViewers": 19,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
+      "firstSeenAt": "2026-10-17T15:58:59Z",
+      "lastSeenAt": "2026-10-17T15:58:59Z",
       "samples": [
         [
-          "2026-10-17T12:43:37Z",
-          47
+          "2026-10-17T15:58:59Z",
+          19
         ]
       ]
-    },
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "vEtqZbVfCCM",
-      "start": "2026-10-17T12:43:37Z",
-      "startSource": "observed",
-      "title": "【メンバー限定】１０月も半ばですねメン限雑談！！",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T12:43:37Z",
-      "lastSeenAt": "2026-10-17T12:43:37Z",
-      "samples": []
     }
   },
   "sessions": [
@@ -37492,6 +37437,115 @@
           7
         ]
       ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "_zn-X4-3Em8",
+      "videoUrl": "https://www.youtube.com/watch?v=_zn-X4-3Em8",
+      "start": "2026-10-17T08:52:49Z",
+      "end": "2026-10-17T15:58:59Z",
+      "minutes": 426.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚 ELDEN RING〛フロム初心者🔰が完全初見で地獄のDLCクリアを目指す！ラスボス？倒すぞ#7 (#17)〚 甘成じゅい/ゆにれいど！ 〛#eldenring",
+      "game": null,
+      "peakViewers": 48,
+      "avgViewers": 33.0,
+      "samples": [
+        [
+          "2026-10-17T08:52:49Z",
+          18
+        ],
+        [
+          "2026-10-17T12:43:37Z",
+          48
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "D4hKr7hjZ7I",
+      "videoUrl": "https://www.youtube.com/watch?v=D4hKr7hjZ7I",
+      "start": "2026-10-17T12:43:37Z",
+      "end": "2026-10-17T15:58:59Z",
+      "minutes": 195.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【My Little Puppy】🐶パパ！迎えに行くよ！【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 89,
+      "avgViewers": 89.0,
+      "samples": [
+        [
+          "2026-10-17T12:43:37Z",
+          89
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "ZS7last014E",
+      "videoUrl": "https://www.youtube.com/watch?v=ZS7last014E",
+      "start": "2026-10-17T12:43:37Z",
+      "end": "2026-10-17T15:58:59Z",
+      "minutes": 195.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Japanese Ramen Simulator】朕たちのてづくりラーメン食ってく？！【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 589,
+      "avgViewers": 589.0,
+      "samples": [
+        [
+          "2026-10-17T12:43:37Z",
+          589
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "gU8XB9dileY",
+      "videoUrl": "https://www.youtube.com/watch?v=gU8XB9dileY",
+      "start": "2026-10-17T12:43:37Z",
+      "end": "2026-10-17T15:58:59Z",
+      "minutes": 195.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 47,
+      "avgViewers": 47.0,
+      "samples": [
+        [
+          "2026-10-17T12:43:37Z",
+          47
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "vEtqZbVfCCM",
+      "videoUrl": "https://www.youtube.com/watch?v=vEtqZbVfCCM",
+      "start": "2026-10-17T12:43:37Z",
+      "end": "2026-10-17T15:58:59Z",
+      "minutes": 195.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【メンバー限定】１０月も半ばですねメン限雑談！！",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
       "isTargetGame": false
     }
   ]
