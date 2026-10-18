@@ -1,27 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "DU5GIp-_TwU",
-      "start": "2026-10-17T22:43:08Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#307［2026.10/18］18万人の瞬間を一緒に見届けたい朝活！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 676,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-17T22:43:08Z",
-      "lastSeenAt": "2026-10-17T22:43:08Z",
-      "samples": [
-        [
-          "2026-10-17T22:43:08Z",
-          676
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -37593,6 +37573,28 @@
         [
           "2026-10-17T15:58:59Z",
           19
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "DU5GIp-_TwU",
+      "videoUrl": "https://www.youtube.com/watch?v=DU5GIp-_TwU",
+      "start": "2026-10-17T22:43:08Z",
+      "end": "2026-10-18T00:26:35Z",
+      "minutes": 103.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#307［2026.10/18］18万人の瞬間を一緒に見届けたい朝活！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 676,
+      "avgViewers": 676.0,
+      "samples": [
+        [
+          "2026-10-17T22:43:08Z",
+          676
         ]
       ],
       "isTargetGame": false
