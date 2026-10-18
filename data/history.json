@@ -2,96 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "b69XjzjIeKQ",
-      "start": "2026-10-18T13:28:50Z",
-      "startSource": "observed",
-      "title": "〖 メン限 〗 作業しながら雑談しよ.ᐟ.ᐟ⭐︎ 〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
-      "samples": []
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "sU3vtwOGZBI",
-      "start": "2026-10-18T13:28:50Z",
-      "startSource": "observed",
-      "title": "#12〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛バード神獣を撃破していくぅ！！〚 甘成じゅい/ゆにれいど！ 〛",
-      "game": null,
-      "peakViewers": 39,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
-      "samples": [
-        [
-          "2026-10-18T13:28:50Z",
-          39
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "ucq4_s_RcxY",
-      "start": "2026-10-18T13:28:50Z",
-      "startSource": "observed",
-      "title": "【ポケモンチャンピオンズ】上位構築をお借りしてアブソルお勉強ランクマ！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 812,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
-      "samples": [
-        [
-          "2026-10-18T13:28:50Z",
-          812
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "F6s9v27kSj4",
-      "start": "2026-10-18T13:28:50Z",
-      "startSource": "observed",
-      "title": "【 雑談 】色んなTier表作りながら雑談【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 25,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
-      "samples": [
-        [
-          "2026-10-18T13:28:50Z",
-          25
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "1xUh3Varg84",
-      "start": "2026-10-18T13:28:50Z",
-      "startSource": "observed",
-      "title": "【Japanese Ramen Simulator】空いてる席どうぞ【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 84,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
-      "samples": [
-        [
-          "2026-10-18T13:28:50Z",
-          84
-        ]
-      ]
-    },
     "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
       "name": "那和ツムグ",
@@ -103,11 +13,15 @@
       "peakViewers": 85,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
+      "lastSeenAt": "2026-10-18T16:46:57Z",
       "samples": [
         [
           "2026-10-18T13:28:50Z",
           85
+        ],
+        [
+          "2026-10-18T16:46:57Z",
+          64
         ]
       ]
     },
@@ -122,49 +36,15 @@
       "peakViewers": 7,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
+      "lastSeenAt": "2026-10-18T16:46:57Z",
       "samples": [
         [
           "2026-10-18T13:28:50Z",
           7
-        ]
-      ]
-    },
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "-AmMFgf6KZo",
-      "start": "2026-10-18T13:28:50Z",
-      "startSource": "observed",
-      "title": "【APEX】足を引っ張らないように頑張ります！ w/カグラナナ、雨夜リズ  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
-      "samples": [
+        ],
         [
-          "2026-10-18T13:28:50Z",
-          8
-        ]
-      ]
-    },
-    "UCe5mbpYA9Yym4lZTdj06G6Q": {
-      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-      "name": "氷乃渚",
-      "videoId": "5h2dKPboJ-o",
-      "start": "2026-10-18T13:28:50Z",
-      "startSource": "observed",
-      "title": "【歌枠】初見さん歓迎！週末はそりゃまぁ歌うよねって【氷乃渚 / ゆにれいど！】",
-      "game": null,
-      "peakViewers": 109,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-18T13:28:50Z",
-      "lastSeenAt": "2026-10-18T13:28:50Z",
-      "samples": [
-        [
-          "2026-10-18T13:28:50Z",
-          109
+          "2026-10-18T16:46:57Z",
+          7
         ]
       ]
     }
@@ -37850,6 +37730,155 @@
         [
           "2026-10-18T09:27:50Z",
           34
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "b69XjzjIeKQ",
+      "videoUrl": "https://www.youtube.com/watch?v=b69XjzjIeKQ",
+      "start": "2026-10-18T11:03:41Z",
+      "end": "2026-10-18T15:23:18Z",
+      "minutes": 259.6,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "〖 メン限 〗 作業しながら雑談しよ.ᐟ.ᐟ⭐︎ 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "sU3vtwOGZBI",
+      "videoUrl": "https://www.youtube.com/watch?v=sU3vtwOGZBI",
+      "start": "2026-10-18T13:28:50Z",
+      "end": "2026-10-18T16:46:57Z",
+      "minutes": 198.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "#12〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛バード神獣を撃破していくぅ！！〚 甘成じゅい/ゆにれいど！ 〛",
+      "game": null,
+      "peakViewers": 39,
+      "avgViewers": 39.0,
+      "samples": [
+        [
+          "2026-10-18T13:28:50Z",
+          39
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "ucq4_s_RcxY",
+      "videoUrl": "https://www.youtube.com/watch?v=ucq4_s_RcxY",
+      "start": "2026-10-18T13:28:50Z",
+      "end": "2026-10-18T16:46:57Z",
+      "minutes": 198.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ポケモンチャンピオンズ】上位構築をお借りしてアブソルお勉強ランクマ！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 812,
+      "avgViewers": 812.0,
+      "samples": [
+        [
+          "2026-10-18T13:28:50Z",
+          812
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "F6s9v27kSj4",
+      "videoUrl": "https://www.youtube.com/watch?v=F6s9v27kSj4",
+      "start": "2026-10-18T13:28:50Z",
+      "end": "2026-10-18T16:46:57Z",
+      "minutes": 198.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 雑談 】色んなTier表作りながら雑談【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 25,
+      "avgViewers": 25.0,
+      "samples": [
+        [
+          "2026-10-18T13:28:50Z",
+          25
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "1xUh3Varg84",
+      "videoUrl": "https://www.youtube.com/watch?v=1xUh3Varg84",
+      "start": "2026-10-18T13:28:50Z",
+      "end": "2026-10-18T16:46:57Z",
+      "minutes": 198.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Japanese Ramen Simulator】空いてる席どうぞ【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 84,
+      "avgViewers": 84.0,
+      "samples": [
+        [
+          "2026-10-18T13:28:50Z",
+          84
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "-AmMFgf6KZo",
+      "videoUrl": "https://www.youtube.com/watch?v=-AmMFgf6KZo",
+      "start": "2026-10-18T13:28:50Z",
+      "end": "2026-10-18T16:46:57Z",
+      "minutes": 198.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【APEX】足を引っ張らないように頑張ります！ w/カグラナナ、雨夜リズ  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 8.0,
+      "samples": [
+        [
+          "2026-10-18T13:28:50Z",
+          8
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+      "name": "氷乃渚",
+      "videoId": "5h2dKPboJ-o",
+      "videoUrl": "https://www.youtube.com/watch?v=5h2dKPboJ-o",
+      "start": "2026-10-18T13:28:50Z",
+      "end": "2026-10-18T16:46:57Z",
+      "minutes": 198.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【歌枠】初見さん歓迎！週末はそりゃまぁ歌うよねって【氷乃渚 / ゆにれいど！】",
+      "game": null,
+      "peakViewers": 109,
+      "avgViewers": 109.0,
+      "samples": [
+        [
+          "2026-10-18T13:28:50Z",
+          109
         ]
       ],
       "isTargetGame": false
