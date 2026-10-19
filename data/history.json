@@ -1,112 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "q-J5Ze1WSfk",
-      "start": "2026-10-19T14:05:23Z",
-      "startSource": "observed",
-      "title": "〖 VALORANT 〗あやちゃんとﾃﾞｭｵｯ!!〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 320,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-19T14:05:23Z",
-      "lastSeenAt": "2026-10-19T14:05:23Z",
-      "samples": [
-        [
-          "2026-10-19T14:05:23Z",
-          320
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "NcaK1vQkQG4",
-      "start": "2026-10-19T14:05:23Z",
-      "startSource": "observed",
-      "title": "【メン限】今日もお疲れ様でしたメン限【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-19T14:05:23Z",
-      "lastSeenAt": "2026-10-19T14:05:23Z",
-      "samples": []
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "l-fD8smPjN8",
-      "start": "2026-10-19T14:05:23Z",
-      "startSource": "observed",
-      "title": "#13〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛女装して事件解決できるのは私だけなんだよぉ！〚 甘成じゅい/ゆにれいど！ 〛",
-      "game": null,
-      "peakViewers": 43,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-19T14:05:23Z",
-      "lastSeenAt": "2026-10-19T14:05:23Z",
-      "samples": [
-        [
-          "2026-10-19T14:05:23Z",
-          43
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "H4dHs1m62Q0",
-      "start": "2026-10-19T14:05:23Z",
-      "startSource": "observed",
-      "title": "【作業雑談】９月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-19T14:05:23Z",
-      "lastSeenAt": "2026-10-19T14:05:23Z",
-      "samples": []
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "Fw9o6rhqq6Q",
-      "start": "2026-10-19T14:05:23Z",
-      "startSource": "observed",
-      "title": "American Truck Simulator | 10月後半も眼鏡のお姉さんとドライブ雑談しよう🚙💨 #愁子",
-      "game": null,
-      "peakViewers": 84,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-19T14:05:23Z",
-      "lastSeenAt": "2026-10-19T14:05:23Z",
-      "samples": [
-        [
-          "2026-10-19T14:05:23Z",
-          84
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "4yj4Evz-q7c",
-      "start": "2026-10-19T14:05:23Z",
-      "startSource": "observed",
-      "title": "🟣10/19【 #SuperMarketChaos 】各血液型4人で整理整頓!?B型、マイペースな迷探偵視点🔍【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 10,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-19T14:05:23Z",
-      "lastSeenAt": "2026-10-19T14:05:23Z",
-      "samples": [
-        [
-          "2026-10-19T14:05:23Z",
-          10
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -38033,6 +37928,128 @@
         [
           "2026-10-19T01:38:22Z",
           14
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "H4dHs1m62Q0",
+      "videoUrl": "https://www.youtube.com/watch?v=H4dHs1m62Q0",
+      "start": "2026-10-19T12:01:49Z",
+      "end": "2026-10-19T16:38:02Z",
+      "minutes": 276.2,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【作業雑談】９月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "NcaK1vQkQG4",
+      "videoUrl": "https://www.youtube.com/watch?v=NcaK1vQkQG4",
+      "start": "2026-10-19T14:01:03Z",
+      "end": "2026-10-19T15:53:52Z",
+      "minutes": 112.8,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【メン限】今日もお疲れ様でしたメン限【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "q-J5Ze1WSfk",
+      "videoUrl": "https://www.youtube.com/watch?v=q-J5Ze1WSfk",
+      "start": "2026-10-19T14:05:23Z",
+      "end": "2026-10-19T19:52:04Z",
+      "minutes": 346.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 VALORANT 〗あやちゃんとﾃﾞｭｵｯ!!〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 320,
+      "avgViewers": 320.0,
+      "samples": [
+        [
+          "2026-10-19T14:05:23Z",
+          320
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "l-fD8smPjN8",
+      "videoUrl": "https://www.youtube.com/watch?v=l-fD8smPjN8",
+      "start": "2026-10-19T14:05:23Z",
+      "end": "2026-10-19T19:52:04Z",
+      "minutes": 346.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "#13〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛女装して事件解決できるのは私だけなんだよぉ！〚 甘成じゅい/ゆにれいど！ 〛",
+      "game": null,
+      "peakViewers": 43,
+      "avgViewers": 43.0,
+      "samples": [
+        [
+          "2026-10-19T14:05:23Z",
+          43
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "Fw9o6rhqq6Q",
+      "videoUrl": "https://www.youtube.com/watch?v=Fw9o6rhqq6Q",
+      "start": "2026-10-19T14:05:23Z",
+      "end": "2026-10-19T19:52:04Z",
+      "minutes": 346.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "American Truck Simulator | 10月後半も眼鏡のお姉さんとドライブ雑談しよう🚙💨 #愁子",
+      "game": null,
+      "peakViewers": 84,
+      "avgViewers": 84.0,
+      "samples": [
+        [
+          "2026-10-19T14:05:23Z",
+          84
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "4yj4Evz-q7c",
+      "videoUrl": "https://www.youtube.com/watch?v=4yj4Evz-q7c",
+      "start": "2026-10-19T14:05:23Z",
+      "end": "2026-10-19T19:52:04Z",
+      "minutes": 346.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣10/19【 #SuperMarketChaos 】各血液型4人で整理整頓!?B型、マイペースな迷探偵視点🔍【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 10.0,
+      "samples": [
+        [
+          "2026-10-19T14:05:23Z",
+          10
         ]
       ],
       "isTargetGame": false
