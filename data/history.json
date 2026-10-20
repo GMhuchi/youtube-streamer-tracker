@@ -1,7 +1,46 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "44WI-EOGo9k",
+      "start": "2026-10-20T07:24:49Z",
+      "startSource": "observed",
+      "title": "【APEX】ソロランクでプラチナ行きたい (遠すぎる)【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 348,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-20T07:24:49Z",
+      "lastSeenAt": "2026-10-20T07:24:49Z",
+      "samples": [
+        [
+          "2026-10-20T07:24:49Z",
+          348
+        ]
+      ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "dY25Wvvp-Rs",
+      "start": "2026-10-20T07:24:49Z",
+      "startSource": "observed",
+      "title": "※ネタバレあり 憎き大人のパレス攻略をめざす！眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #20 #愁子",
+      "game": null,
+      "peakViewers": 72,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-20T07:24:49Z",
+      "lastSeenAt": "2026-10-20T07:24:49Z",
+      "samples": [
+        [
+          "2026-10-20T07:24:49Z",
+          72
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
