@@ -1,117 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "T7Ped841JEI",
-      "start": "2026-10-20T12:51:55Z",
-      "startSource": "observed",
-      "title": "【BOMBANANA!】男三人で爆弾解除する！！【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 76,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-20T12:51:55Z",
-      "lastSeenAt": "2026-10-20T12:51:55Z",
-      "samples": [
-        [
-          "2026-10-20T12:51:55Z",
-          76
-        ]
-      ]
-    },
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "TzEInWc5t_Y",
-      "start": "2026-10-20T12:51:55Z",
-      "startSource": "observed",
-      "title": "【#歌枠/KARAOKE 】たくさん歌いたいきもち #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
-      "game": null,
-      "peakViewers": 813,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-20T12:51:55Z",
-      "lastSeenAt": "2026-10-20T12:51:55Z",
-      "samples": [
-        [
-          "2026-10-20T12:51:55Z",
-          813
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "yudrL45RCxQ",
-      "start": "2026-10-20T12:51:55Z",
-      "startSource": "observed",
-      "title": "【絶対遵守】げぇむを開始します【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 87,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-20T12:51:55Z",
-      "lastSeenAt": "2026-10-20T12:51:55Z",
-      "samples": [
-        [
-          "2026-10-20T12:51:55Z",
-          87
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "0WTtF2TaJrw",
-      "start": "2026-10-20T12:51:55Z",
-      "startSource": "observed",
-      "title": "【飲酒雑談】酒飲みつつ、話題の浮気判定シートやってみよう🍶【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-20T12:51:55Z",
-      "lastSeenAt": "2026-10-20T12:51:55Z",
-      "samples": []
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "IJNqkWsQ1k4",
-      "start": "2026-10-20T12:51:55Z",
-      "startSource": "observed",
-      "title": "🟣10/20【 #GTA5  】＃3 お金を貯めるフェーズ💴 #リライフ【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-20T12:51:55Z",
-      "lastSeenAt": "2026-10-20T12:51:55Z",
-      "samples": [
-        [
-          "2026-10-20T12:51:55Z",
-          8
-        ]
-      ]
-    },
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "csTrgB5TjSI",
-      "start": "2026-10-20T12:51:55Z",
-      "startSource": "observed",
-      "title": "※ネタバレ注意【都市伝説解体センター】幽霊を好きで見に行く人の気が知れない【ゲーム実況】【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 10,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-20T12:51:55Z",
-      "lastSeenAt": "2026-10-20T12:51:55Z",
-      "samples": [
-        [
-          "2026-10-20T12:51:55Z",
-          10
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -38204,6 +38094,133 @@
         [
           "2026-10-20T07:24:49Z",
           72
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "0WTtF2TaJrw",
+      "videoUrl": "https://www.youtube.com/watch?v=0WTtF2TaJrw",
+      "start": "2026-10-20T12:05:52Z",
+      "end": "2026-10-20T15:55:07Z",
+      "minutes": 229.2,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【飲酒雑談】酒飲みつつ、話題の浮気判定シートやってみよう🍶【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "T7Ped841JEI",
+      "videoUrl": "https://www.youtube.com/watch?v=T7Ped841JEI",
+      "start": "2026-10-20T12:51:55Z",
+      "end": "2026-10-20T17:48:01Z",
+      "minutes": 296.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【BOMBANANA!】男三人で爆弾解除する！！【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 76,
+      "avgViewers": 76.0,
+      "samples": [
+        [
+          "2026-10-20T12:51:55Z",
+          76
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "TzEInWc5t_Y",
+      "videoUrl": "https://www.youtube.com/watch?v=TzEInWc5t_Y",
+      "start": "2026-10-20T12:51:55Z",
+      "end": "2026-10-20T17:48:01Z",
+      "minutes": 296.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#歌枠/KARAOKE 】たくさん歌いたいきもち #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 813,
+      "avgViewers": 813.0,
+      "samples": [
+        [
+          "2026-10-20T12:51:55Z",
+          813
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "yudrL45RCxQ",
+      "videoUrl": "https://www.youtube.com/watch?v=yudrL45RCxQ",
+      "start": "2026-10-20T12:51:55Z",
+      "end": "2026-10-20T17:48:01Z",
+      "minutes": 296.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【絶対遵守】げぇむを開始します【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 87,
+      "avgViewers": 87.0,
+      "samples": [
+        [
+          "2026-10-20T12:51:55Z",
+          87
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "IJNqkWsQ1k4",
+      "videoUrl": "https://www.youtube.com/watch?v=IJNqkWsQ1k4",
+      "start": "2026-10-20T12:51:55Z",
+      "end": "2026-10-20T17:48:01Z",
+      "minutes": 296.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣10/20【 #GTA5  】＃3 お金を貯めるフェーズ💴 #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 8.0,
+      "samples": [
+        [
+          "2026-10-20T12:51:55Z",
+          8
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "csTrgB5TjSI",
+      "videoUrl": "https://www.youtube.com/watch?v=csTrgB5TjSI",
+      "start": "2026-10-20T12:51:55Z",
+      "end": "2026-10-20T17:48:01Z",
+      "minutes": 296.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "※ネタバレ注意【都市伝説解体センター】幽霊を好きで見に行く人の気が知れない【ゲーム実況】【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 10.0,
+      "samples": [
+        [
+          "2026-10-20T12:51:55Z",
+          10
         ]
       ],
       "isTargetGame": false
