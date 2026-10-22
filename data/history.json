@@ -1,27 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCADIxr9ho7V60xs9gT9xWhA": {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "zStH6XyugGI",
-      "start": "2026-10-22T05:01:17Z",
-      "startSource": "observed",
-      "title": "【 #縦型雑談 】おひるのちょっぴり雑談  #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
-      "game": null,
-      "peakViewers": 12,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-22T05:01:17Z",
-      "lastSeenAt": "2026-10-22T05:01:17Z",
-      "samples": [
-        [
-          "2026-10-22T05:01:17Z",
-          12
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -38438,6 +38418,28 @@
         [
           "2026-10-21T18:07:22Z",
           41
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "zStH6XyugGI",
+      "videoUrl": "https://www.youtube.com/watch?v=zStH6XyugGI",
+      "start": "2026-10-22T05:01:17Z",
+      "end": "2026-10-22T10:06:02Z",
+      "minutes": 304.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #縦型雑談 】おひるのちょっぴり雑談  #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
+      "game": null,
+      "peakViewers": 12,
+      "avgViewers": 12.0,
+      "samples": [
+        [
+          "2026-10-22T05:01:17Z",
+          12
         ]
       ],
       "isTargetGame": false
