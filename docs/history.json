@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:28:55Z",
+  "updatedAt": "2026-10-23T22:33:33Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1721.7,
+      "totalMinutes": 1906.4,
       "gameMinutes": 0.0,
-      "totalHours": 28.7,
+      "totalHours": 31.77,
       "gameHours": 0.0,
       "sessions": 8,
-      "avgViewers": 72.7,
+      "avgViewers": 67.5,
       "peakViewers": 267
     },
     "week": {
-      "totalMinutes": 11759.8,
+      "totalMinutes": 11944.5,
       "gameMinutes": 0.0,
-      "totalHours": 196.0,
+      "totalHours": 199.07,
       "gameHours": 0.0,
       "sessions": 47,
-      "avgViewers": 97.8,
+      "avgViewers": 96.5,
       "peakViewers": 813
     },
     "month": {
-      "totalMinutes": 68871.1,
+      "totalMinutes": 69055.8,
       "gameMinutes": 267.6,
-      "totalHours": 1147.85,
+      "totalHours": 1150.93,
       "gameHours": 4.46,
       "sessions": 280,
-      "avgViewers": 139.0,
+      "avgViewers": 138.7,
       "peakViewers": 997
     }
   },
@@ -56,27 +56,27 @@
       "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 242.1,
+          "totalMinutes": 426.8,
           "gameMinutes": 0.0,
-          "totalHours": 4.04,
+          "totalHours": 7.11,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 11.5,
-          "peakViewers": 13
+          "avgViewers": 14.5,
+          "peakViewers": 20
         },
         "week": {
-          "totalMinutes": 739.6,
+          "totalMinutes": 924.3,
           "gameMinutes": 0.0,
-          "totalHours": 12.33,
+          "totalHours": 15.4,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 15.8,
+          "avgViewers": 16.5,
           "peakViewers": 22
         },
         "month": {
-          "totalMinutes": 3853.4,
+          "totalMinutes": 4038.0,
           "gameMinutes": 0.0,
-          "totalHours": 64.22,
+          "totalHours": 67.3,
           "gameHours": 0.0,
           "sessions": 20,
           "avgViewers": 17.0,
@@ -231,9 +231,9 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 10,
-      "livePeakViewers": 13,
-      "liveAvgViewers": 11.5,
+      "liveViewers": 20,
+      "livePeakViewers": 20,
+      "liveAvgViewers": 14.5,
       "liveSamples": [
         [
           "2026-10-23T15:26:47Z",
@@ -242,6 +242,10 @@
         [
           "2026-10-23T19:28:55Z",
           10
+        ],
+        [
+          "2026-10-23T22:33:33Z",
+          20
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=IxRV2hy_hkI"
