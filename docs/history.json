@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T05:46:44Z",
+  "updatedAt": "2026-10-23T10:33:41Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,16 +20,16 @@
       "gameMinutes": 0.0,
       "totalHours": 19.4,
       "gameHours": 0.0,
-      "sessions": 4,
+      "sessions": 5,
       "avgViewers": 35.5,
-      "peakViewers": 57
+      "peakViewers": 95
     },
     "week": {
       "totalMinutes": 9771.8,
       "gameMinutes": 0.0,
       "totalHours": 162.86,
       "gameHours": 0.0,
-      "sessions": 39,
+      "sessions": 40,
       "avgViewers": 102.7,
       "peakViewers": 813
     },
@@ -38,12 +38,210 @@
       "gameMinutes": 267.6,
       "totalHours": 1114.72,
       "gameHours": 4.46,
-      "sessions": 272,
+      "sessions": 273,
       "avgViewers": 140.9,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
+      "isLive": true,
+      "liveSince": "2026-10-23T10:33:41Z",
+      "liveTitle": "【Forza Horizon6】金の無免許は冬のシーズンイベントを進める＃４７【#七乃羽すず┆すずみあ】",
+      "lastEnd": "2026-10-17T12:43:37Z",
+      "lastTitle": "【Forza Horizon6】シーズンイベントにアマプラセール雑談を添えて＃４５【#七乃羽すず┆すずみあ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 95.0,
+          "peakViewers": 95
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 95.0,
+          "peakViewers": 95
+        },
+        "month": {
+          "totalMinutes": 2268.7,
+          "gameMinutes": 0.0,
+          "totalHours": 37.81,
+          "gameHours": 0.0,
+          "sessions": 9,
+          "avgViewers": 97.9,
+          "peakViewers": 123
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "G_bY7gfj-iI",
+          "videoUrl": "https://www.youtube.com/watch?v=G_bY7gfj-iI",
+          "start": "2026-10-17T08:52:49Z",
+          "end": "2026-10-17T12:43:37Z",
+          "minutes": 230.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】シーズンイベントにアマプラセール雑談を添えて＃４５【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 123,
+          "avgViewers": 123.0,
+          "samples": [
+            [
+              "2026-10-17T08:52:49Z",
+              123
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "ujawQyfAEwY",
+          "videoUrl": "https://www.youtube.com/watch?v=ujawQyfAEwY",
+          "start": "2026-10-16T11:46:11Z",
+          "end": "2026-10-16T15:36:00Z",
+          "minutes": 229.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】公式からの挑戦状！？Xでみた「幻の場所」探し！＃４４【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 110,
+          "avgViewers": 110.0,
+          "samples": [
+            [
+              "2026-10-16T11:46:11Z",
+              110
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "49Wu2F6AV5k",
+          "videoUrl": "https://www.youtube.com/watch?v=49Wu2F6AV5k",
+          "start": "2026-10-12T07:46:17Z",
+          "end": "2026-10-12T17:02:17Z",
+          "minutes": 556.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】トライアルに挑む金の無免許＃４３【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 105,
+          "avgViewers": 105.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "33lXK80tUOc",
+          "videoUrl": "https://www.youtube.com/watch?v=33lXK80tUOc",
+          "start": "2026-10-08T12:33:21Z",
+          "end": "2026-10-08T15:47:03Z",
+          "minutes": 193.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】秋だ！セブイレコラボだ！金バンド無免許だ！＃４１【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 91,
+          "avgViewers": 75.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "nUsmGx1m8cU",
+          "videoUrl": "https://www.youtube.com/watch?v=nUsmGx1m8cU",
+          "start": "2026-10-05T11:02:26Z",
+          "end": "2026-10-05T14:30:44Z",
+          "minutes": 208.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】道路をコンプする収集癖強めの無免許レジェンド＃４０【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 90,
+          "avgViewers": 69.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "XK7gWY8Kf_A",
+          "videoUrl": "https://www.youtube.com/watch?v=XK7gWY8Kf_A",
+          "start": "2026-10-04T07:16:39Z",
+          "end": "2026-10-04T15:04:42Z",
+          "minutes": 468.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】ゴールド無免許は今日も春シーズンを進める＃３９【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 107,
+          "avgViewers": 107.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "O1kV0wMqybE",
+          "videoUrl": "https://www.youtube.com/watch?v=O1kV0wMqybE",
+          "start": "2026-10-02T12:41:37Z",
+          "end": "2026-10-02T15:27:00Z",
+          "minutes": 165.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】レジェンド無免許の春シーズンはじめます＃３８【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 92,
+          "avgViewers": 79.9,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "8RtsFzxuzxY",
+          "videoUrl": "https://www.youtube.com/watch?v=8RtsFzxuzxY",
+          "start": "2026-10-01T10:01:08Z",
+          "end": "2026-10-01T13:37:47Z",
+          "minutes": 216.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】金スタンプ！写真撮影を埋める旅に出る＃３７【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 103,
+          "avgViewers": 82.1,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 95,
+      "livePeakViewers": 95,
+      "liveAvgViewers": 95.0,
+      "liveSamples": [
+        [
+          "2026-10-23T10:33:41Z",
+          95
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=LD7QXrZ_DoU"
+    },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -3120,194 +3318,6 @@
           "game": null,
           "peakViewers": 498,
           "avgViewers": 429.7,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-17T12:43:37Z",
-      "lastTitle": "【Forza Horizon6】シーズンイベントにアマプラセール雑談を添えて＃４５【#七乃羽すず┆すずみあ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 2268.7,
-          "gameMinutes": 0.0,
-          "totalHours": 37.81,
-          "gameHours": 0.0,
-          "sessions": 8,
-          "avgViewers": 97.9,
-          "peakViewers": 123
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "G_bY7gfj-iI",
-          "videoUrl": "https://www.youtube.com/watch?v=G_bY7gfj-iI",
-          "start": "2026-10-17T08:52:49Z",
-          "end": "2026-10-17T12:43:37Z",
-          "minutes": 230.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】シーズンイベントにアマプラセール雑談を添えて＃４５【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 123,
-          "avgViewers": 123.0,
-          "samples": [
-            [
-              "2026-10-17T08:52:49Z",
-              123
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "ujawQyfAEwY",
-          "videoUrl": "https://www.youtube.com/watch?v=ujawQyfAEwY",
-          "start": "2026-10-16T11:46:11Z",
-          "end": "2026-10-16T15:36:00Z",
-          "minutes": 229.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】公式からの挑戦状！？Xでみた「幻の場所」探し！＃４４【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 110,
-          "avgViewers": 110.0,
-          "samples": [
-            [
-              "2026-10-16T11:46:11Z",
-              110
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "49Wu2F6AV5k",
-          "videoUrl": "https://www.youtube.com/watch?v=49Wu2F6AV5k",
-          "start": "2026-10-12T07:46:17Z",
-          "end": "2026-10-12T17:02:17Z",
-          "minutes": 556.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】トライアルに挑む金の無免許＃４３【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 105,
-          "avgViewers": 105.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "33lXK80tUOc",
-          "videoUrl": "https://www.youtube.com/watch?v=33lXK80tUOc",
-          "start": "2026-10-08T12:33:21Z",
-          "end": "2026-10-08T15:47:03Z",
-          "minutes": 193.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】秋だ！セブイレコラボだ！金バンド無免許だ！＃４１【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 91,
-          "avgViewers": 75.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "nUsmGx1m8cU",
-          "videoUrl": "https://www.youtube.com/watch?v=nUsmGx1m8cU",
-          "start": "2026-10-05T11:02:26Z",
-          "end": "2026-10-05T14:30:44Z",
-          "minutes": 208.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】道路をコンプする収集癖強めの無免許レジェンド＃４０【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 90,
-          "avgViewers": 69.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "XK7gWY8Kf_A",
-          "videoUrl": "https://www.youtube.com/watch?v=XK7gWY8Kf_A",
-          "start": "2026-10-04T07:16:39Z",
-          "end": "2026-10-04T15:04:42Z",
-          "minutes": 468.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】ゴールド無免許は今日も春シーズンを進める＃３９【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 107,
-          "avgViewers": 107.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "O1kV0wMqybE",
-          "videoUrl": "https://www.youtube.com/watch?v=O1kV0wMqybE",
-          "start": "2026-10-02T12:41:37Z",
-          "end": "2026-10-02T15:27:00Z",
-          "minutes": 165.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】レジェンド無免許の春シーズンはじめます＃３８【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 92,
-          "avgViewers": 79.9,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "8RtsFzxuzxY",
-          "videoUrl": "https://www.youtube.com/watch?v=8RtsFzxuzxY",
-          "start": "2026-10-01T10:01:08Z",
-          "end": "2026-10-01T13:37:47Z",
-          "minutes": 216.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】金スタンプ！写真撮影を埋める旅に出る＃３７【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 103,
-          "avgViewers": 82.1,
           "samples": [],
           "isTargetGame": false
         }
