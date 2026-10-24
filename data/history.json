@@ -1,73 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "99wv4BFCHXI",
-      "start": "2026-10-24T13:51:12Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　Take it Easy　 ～Day25～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 92,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-24T13:51:12Z",
-      "lastSeenAt": "2026-10-24T17:13:57Z",
-      "samples": [
-        [
-          "2026-10-24T13:51:12Z",
-          92
-        ],
-        [
-          "2026-10-24T17:13:57Z",
-          54
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "WFGXdi3zm38",
-      "start": "2026-10-24T13:51:12Z",
-      "startSource": "observed",
-      "title": "🟣10/24【 #GTA5  】＃5 狩猟アルバイトにチャレンジ!?🦌 #リライフ【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 7,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-24T13:51:12Z",
-      "lastSeenAt": "2026-10-24T17:13:57Z",
-      "samples": [
-        [
-          "2026-10-24T13:51:12Z",
-          7
-        ],
-        [
-          "2026-10-24T17:13:57Z",
-          5
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "9qjrJyzvFkk",
-      "start": "2026-10-24T17:13:57Z",
-      "startSource": "observed",
-      "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-24T17:13:57Z",
-      "lastSeenAt": "2026-10-24T17:13:57Z",
-      "samples": [
-        [
-          "2026-10-24T17:13:57Z",
-          8
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -38958,6 +38892,80 @@
         [
           "2026-10-24T13:51:12Z",
           59
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "99wv4BFCHXI",
+      "videoUrl": "https://www.youtube.com/watch?v=99wv4BFCHXI",
+      "start": "2026-10-24T13:51:12Z",
+      "end": "2026-10-24T19:33:18Z",
+      "minutes": 342.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　Take it Easy　 ～Day25～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 92,
+      "avgViewers": 73.0,
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          92
+        ],
+        [
+          "2026-10-24T17:13:57Z",
+          54
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "WFGXdi3zm38",
+      "videoUrl": "https://www.youtube.com/watch?v=WFGXdi3zm38",
+      "start": "2026-10-24T13:51:12Z",
+      "end": "2026-10-24T19:33:18Z",
+      "minutes": 342.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣10/24【 #GTA5  】＃5 狩猟アルバイトにチャレンジ!?🦌 #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 7,
+      "avgViewers": 6.0,
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          7
+        ],
+        [
+          "2026-10-24T17:13:57Z",
+          5
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "9qjrJyzvFkk",
+      "videoUrl": "https://www.youtube.com/watch?v=9qjrJyzvFkk",
+      "start": "2026-10-24T17:13:57Z",
+      "end": "2026-10-24T19:33:18Z",
+      "minutes": 139.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 8.0,
+      "samples": [
+        [
+          "2026-10-24T17:13:57Z",
+          8
         ]
       ],
       "isTargetGame": false
