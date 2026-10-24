@@ -1,7 +1,179 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCNGMMdEgYIUR6rC44v9aZ8w": {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "OsCj3OuOKD8",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "【ストグラSeason2】＃２ なにするなにする 風見セオ視点【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 60,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          60
+        ]
+      ]
+    },
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "S2VNK9MqX9g",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 266,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          266
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "4Pr7kRy2i1Q",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "【 Stray : #2 】人類はどこへ・・・【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 39,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          39
+        ]
+      ]
+    },
+    "UC1_HUmjQShLtT_MuZjry3hQ": {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "HFdQdnLp7R0",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "【 LoL 】あんまりやらないキャラでも使おう【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 12,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          12
+        ]
+      ]
+    },
+    "UCB-aip0wsqKQPcrLW1BBJaw": {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "GTRreKXKiPU",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "【Big Walk】健康謎解き散歩 w/メンバー【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 80,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          80
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "99wv4BFCHXI",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　Take it Easy　 ～Day25～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 92,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          92
+        ]
+      ]
+    },
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "6muZomJFQuk",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "【BigWalk】みんなで協力？いいえ散歩です【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 13,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          13
+        ]
+      ]
+    },
+    "UCE0ETB-j-qiXQiKPIG-0tCA": {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "WFGXdi3zm38",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "🟣10/24【 #GTA5  】＃5 狩猟アルバイトにチャレンジ!?🦌 #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 7,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          7
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "EzykmB334Jo",
+      "start": "2026-10-24T13:51:12Z",
+      "startSource": "observed",
+      "title": "【トルネコの大冒険】#1　トルネコとか大得意ジャンルだしやる🔥　　#恋沼ミヤ",
+      "game": null,
+      "peakViewers": 59,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-24T13:51:12Z",
+      "lastSeenAt": "2026-10-24T13:51:12Z",
+      "samples": [
+        [
+          "2026-10-24T13:51:12Z",
+          59
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
