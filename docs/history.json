@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T21:51:35Z",
+  "updatedAt": "2026-10-25T00:01:40Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 0.0,
       "totalHours": 27.06,
       "gameHours": 0.0,
-      "sessions": 10,
+      "sessions": 11,
       "avgViewers": 57.6,
       "peakViewers": 266
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 243.66,
       "gameHours": 0.0,
-      "sessions": 58,
+      "sessions": 59,
       "avgViewers": 88.6,
       "peakViewers": 813
     },
@@ -38,12 +38,215 @@
       "gameMinutes": 267.6,
       "totalHours": 1195.52,
       "gameHours": 4.46,
-      "sessions": 291,
+      "sessions": 292,
       "avgViewers": 135.4,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCB-aip0wsqKQPcrLW1BBJaw",
+      "isLive": true,
+      "liveSince": "2026-10-25T00:01:40Z",
+      "liveTitle": "【Nintendo Switch Sports Resort】初 見 朝 練【綾見ユラ/YUMENOS】",
+      "lastEnd": "2026-10-24T17:13:57Z",
+      "lastTitle": "【Big Walk】健康謎解き散歩 w/メンバー【綾見ユラ/YUMENOS】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 134.0,
+          "gameMinutes": 0.0,
+          "totalHours": 2.23,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 80.0,
+          "peakViewers": 107
+        },
+        "week": {
+          "totalMinutes": 900.6,
+          "gameMinutes": 0.0,
+          "totalHours": 15.01,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 79.5,
+          "peakViewers": 107
+        },
+        "month": {
+          "totalMinutes": 3589.3,
+          "gameMinutes": 0.0,
+          "totalHours": 59.82,
+          "gameHours": 0.0,
+          "sessions": 14,
+          "avgViewers": 87.0,
+          "peakViewers": 154
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "GTRreKXKiPU",
+          "videoUrl": "https://www.youtube.com/watch?v=GTRreKXKiPU",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Big Walk】健康謎解き散歩 w/メンバー【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 80,
+          "avgViewers": 80.0,
+          "samples": [
+            [
+              "2026-10-24T13:51:12Z",
+              80
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "Ih6oQG1trwo",
+          "videoUrl": "https://www.youtube.com/watch?v=Ih6oQG1trwo",
+          "start": "2026-10-21T13:12:35Z",
+          "end": "2026-10-21T18:07:22Z",
+          "minutes": 294.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【カブトムシの森】置いてきた少年心【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 70,
+          "avgViewers": 70.0,
+          "samples": [
+            [
+              "2026-10-21T13:12:35Z",
+              70
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "yudrL45RCxQ",
+          "videoUrl": "https://www.youtube.com/watch?v=yudrL45RCxQ",
+          "start": "2026-10-20T12:51:55Z",
+          "end": "2026-10-20T17:48:01Z",
+          "minutes": 296.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【絶対遵守】げぇむを開始します【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 87,
+          "avgViewers": 87.0,
+          "samples": [
+            [
+              "2026-10-20T12:51:55Z",
+              87
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "1xUh3Varg84",
+          "videoUrl": "https://www.youtube.com/watch?v=1xUh3Varg84",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T16:46:57Z",
+          "minutes": 198.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Japanese Ramen Simulator】空いてる席どうぞ【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 84,
+          "avgViewers": 84.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "3eaITAE3u7M",
+          "videoUrl": "https://www.youtube.com/watch?v=3eaITAE3u7M",
+          "start": "2026-10-16T15:36:00Z",
+          "end": "2026-10-17T00:25:01Z",
+          "minutes": 529.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Undertale】完全初見、神ゲーのGルート編 #3【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 92,
+          "avgViewers": 84.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "zhkUTRgpVpU",
+          "videoUrl": "https://www.youtube.com/watch?v=zhkUTRgpVpU",
+          "start": "2026-10-15T13:40:53Z",
+          "end": "2026-10-15T23:38:38Z",
+          "minutes": 597.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Undertale】完全初見、神ゲーの別ルート編 #2【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 85,
+          "avgViewers": 77.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "9mx1BO93Shw",
+          "videoUrl": "https://www.youtube.com/watch?v=9mx1BO93Shw",
+          "start": "2026-10-14T12:55:26Z",
+          "end": "2026-10-14T21:00:08Z",
+          "minutes": 484.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Undertale】完全初見、神ゲーらしい #1【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 121,
+          "avgViewers": 104.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "ZoiMIZCC0yM",
+          "videoUrl": "https://www.youtube.com/watch?v=ZoiMIZCC0yM",
+          "start": "2026-10-13T11:27:36Z",
+          "end": "2026-10-13T18:27:42Z",
+          "minutes": 420.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【いえのあじ】毒味してみた【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 80,
+          "avgViewers": 80.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 107,
+      "livePeakViewers": 107,
+      "liveAvgViewers": 107.0,
+      "liveSamples": [
+        [
+          "2026-10-25T00:01:40Z",
+          107
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=1AckiNF26h4"
+    },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -1400,199 +1603,6 @@
           "game": null,
           "peakViewers": 114,
           "avgViewers": 114.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCB-aip0wsqKQPcrLW1BBJaw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-24T17:13:57Z",
-      "lastTitle": "【Big Walk】健康謎解き散歩 w/メンバー【綾見ユラ/YUMENOS】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 133.9,
-          "gameMinutes": 0.0,
-          "totalHours": 2.23,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 80.0,
-          "peakViewers": 80
-        },
-        "week": {
-          "totalMinutes": 900.6,
-          "gameMinutes": 0.0,
-          "totalHours": 15.01,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 79.5,
-          "peakViewers": 87
-        },
-        "month": {
-          "totalMinutes": 3589.3,
-          "gameMinutes": 0.0,
-          "totalHours": 59.82,
-          "gameHours": 0.0,
-          "sessions": 13,
-          "avgViewers": 87.0,
-          "peakViewers": 154
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "GTRreKXKiPU",
-          "videoUrl": "https://www.youtube.com/watch?v=GTRreKXKiPU",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Big Walk】健康謎解き散歩 w/メンバー【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 80,
-          "avgViewers": 80.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              80
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "Ih6oQG1trwo",
-          "videoUrl": "https://www.youtube.com/watch?v=Ih6oQG1trwo",
-          "start": "2026-10-21T13:12:35Z",
-          "end": "2026-10-21T18:07:22Z",
-          "minutes": 294.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【カブトムシの森】置いてきた少年心【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 70,
-          "avgViewers": 70.0,
-          "samples": [
-            [
-              "2026-10-21T13:12:35Z",
-              70
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "yudrL45RCxQ",
-          "videoUrl": "https://www.youtube.com/watch?v=yudrL45RCxQ",
-          "start": "2026-10-20T12:51:55Z",
-          "end": "2026-10-20T17:48:01Z",
-          "minutes": 296.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【絶対遵守】げぇむを開始します【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 87,
-          "avgViewers": 87.0,
-          "samples": [
-            [
-              "2026-10-20T12:51:55Z",
-              87
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "1xUh3Varg84",
-          "videoUrl": "https://www.youtube.com/watch?v=1xUh3Varg84",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T16:46:57Z",
-          "minutes": 198.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Japanese Ramen Simulator】空いてる席どうぞ【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 84,
-          "avgViewers": 84.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "3eaITAE3u7M",
-          "videoUrl": "https://www.youtube.com/watch?v=3eaITAE3u7M",
-          "start": "2026-10-16T15:36:00Z",
-          "end": "2026-10-17T00:25:01Z",
-          "minutes": 529.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Undertale】完全初見、神ゲーのGルート編 #3【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 92,
-          "avgViewers": 84.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "zhkUTRgpVpU",
-          "videoUrl": "https://www.youtube.com/watch?v=zhkUTRgpVpU",
-          "start": "2026-10-15T13:40:53Z",
-          "end": "2026-10-15T23:38:38Z",
-          "minutes": 597.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Undertale】完全初見、神ゲーの別ルート編 #2【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 85,
-          "avgViewers": 77.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "9mx1BO93Shw",
-          "videoUrl": "https://www.youtube.com/watch?v=9mx1BO93Shw",
-          "start": "2026-10-14T12:55:26Z",
-          "end": "2026-10-14T21:00:08Z",
-          "minutes": 484.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Undertale】完全初見、神ゲーらしい #1【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 121,
-          "avgViewers": 104.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "ZoiMIZCC0yM",
-          "videoUrl": "https://www.youtube.com/watch?v=ZoiMIZCC0yM",
-          "start": "2026-10-13T11:27:36Z",
-          "end": "2026-10-13T18:27:42Z",
-          "minutes": 420.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【いえのあじ】毒味してみた【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 80,
-          "avgViewers": 80.0,
           "samples": [],
           "isTargetGame": false
         }

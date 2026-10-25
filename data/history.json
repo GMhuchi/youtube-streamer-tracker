@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCB-aip0wsqKQPcrLW1BBJaw": {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "1AckiNF26h4",
+      "start": "2026-10-25T00:01:40Z",
+      "startSource": "observed",
+      "title": "【Nintendo Switch Sports Resort】初 見 朝 練【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 107,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-25T00:01:40Z",
+      "lastSeenAt": "2026-10-25T00:01:40Z",
+      "samples": [
+        [
+          "2026-10-25T00:01:40Z",
+          107
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
