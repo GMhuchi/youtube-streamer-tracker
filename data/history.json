@@ -1,31 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "NFR6OoBJP1k",
-      "start": "2026-10-25T17:26:13Z",
-      "startSource": "observed",
-      "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 422,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-25T17:26:13Z",
-      "lastSeenAt": "2026-10-25T19:52:58Z",
-      "samples": [
-        [
-          "2026-10-25T17:26:13Z",
-          240
-        ],
-        [
-          "2026-10-25T19:52:58Z",
-          422
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -39275,6 +39251,32 @@
         [
           "2026-10-25T17:26:13Z",
           5
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "NFR6OoBJP1k",
+      "videoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k",
+      "start": "2026-10-25T17:26:13Z",
+      "end": "2026-10-25T22:19:51Z",
+      "minutes": 293.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 422,
+      "avgViewers": 331.0,
+      "samples": [
+        [
+          "2026-10-25T17:26:13Z",
+          240
+        ],
+        [
+          "2026-10-25T19:52:58Z",
+          422
         ]
       ],
       "isTargetGame": false
