@@ -2,29 +2,6 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "iunLpZRF5uk",
-      "start": "2026-10-25T13:50:31Z",
-      "startSource": "observed",
-      "title": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 8,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-25T13:50:31Z",
-      "lastSeenAt": "2026-10-25T17:26:13Z",
-      "samples": [
-        [
-          "2026-10-25T13:50:31Z",
-          8
-        ],
-        [
-          "2026-10-25T17:26:13Z",
-          5
-        ]
-      ]
-    },
     "UC6FprWVXuULaY9mZOcqTe4A": {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
@@ -33,14 +10,18 @@
       "startSource": "observed",
       "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
       "game": null,
-      "peakViewers": 240,
+      "peakViewers": 422,
       "isTargetGame": false,
       "firstSeenAt": "2026-10-25T17:26:13Z",
-      "lastSeenAt": "2026-10-25T17:26:13Z",
+      "lastSeenAt": "2026-10-25T19:52:58Z",
       "samples": [
         [
           "2026-10-25T17:26:13Z",
           240
+        ],
+        [
+          "2026-10-25T19:52:58Z",
+          422
         ]
       ]
     }
@@ -39268,6 +39249,32 @@
         [
           "2026-10-25T13:50:31Z",
           51
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "iunLpZRF5uk",
+      "videoUrl": "https://www.youtube.com/watch?v=iunLpZRF5uk",
+      "start": "2026-10-25T13:50:31Z",
+      "end": "2026-10-25T19:52:58Z",
+      "minutes": 362.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 6.5,
+      "samples": [
+        [
+          "2026-10-25T13:50:31Z",
+          8
+        ],
+        [
+          "2026-10-25T17:26:13Z",
+          5
         ]
       ],
       "isTargetGame": false

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:26:13Z",
+  "updatedAt": "2026-10-25T19:52:58Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,241 +16,34 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 974.3,
+      "totalMinutes": 1267.8,
       "gameMinutes": 0.0,
-      "totalHours": 16.24,
+      "totalHours": 21.13,
       "gameHours": 0.0,
       "sessions": 8,
-      "avgViewers": 58.1,
-      "peakViewers": 240
+      "avgViewers": 85.8,
+      "peakViewers": 422
     },
     "week": {
-      "totalMinutes": 974.3,
+      "totalMinutes": 1267.8,
       "gameMinutes": 0.0,
-      "totalHours": 16.24,
+      "totalHours": 21.13,
       "gameHours": 0.0,
       "sessions": 8,
-      "avgViewers": 58.1,
-      "peakViewers": 240
+      "avgViewers": 85.8,
+      "peakViewers": 422
     },
     "month": {
-      "totalMinutes": 74924.0,
+      "totalMinutes": 75217.5,
       "gameMinutes": 267.6,
-      "totalHours": 1248.73,
+      "totalHours": 1253.63,
       "gameHours": 4.46,
       "sessions": 305,
-      "avgViewers": 133.2,
+      "avgViewers": 133.3,
       "peakViewers": 997
     }
   },
   "channels": [
-    {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC1_HUmjQShLtT_MuZjry3hQ",
-      "isLive": true,
-      "liveSince": "2026-10-25T13:50:31Z",
-      "liveTitle": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
-      "lastEnd": "2026-10-24T17:13:57Z",
-      "lastTitle": "【 LoL 】あんまりやらないキャラでも使おう【グラニット/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 146.2,
-          "gameMinutes": 0.0,
-          "totalHours": 2.44,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 6.5,
-          "peakViewers": 8
-        },
-        "week": {
-          "totalMinutes": 146.2,
-          "gameMinutes": 0.0,
-          "totalHours": 2.44,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 6.5,
-          "peakViewers": 8
-        },
-        "month": {
-          "totalMinutes": 4983.2,
-          "gameMinutes": 267.6,
-          "totalHours": 83.05,
-          "gameHours": 4.46,
-          "sessions": 17,
-          "avgViewers": 14.7,
-          "peakViewers": 92
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "HFdQdnLp7R0",
-          "videoUrl": "https://www.youtube.com/watch?v=HFdQdnLp7R0",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 LoL 】あんまりやらないキャラでも使おう【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 12.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              12
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "4Jr31E882sk",
-          "videoUrl": "https://www.youtube.com/watch?v=4Jr31E882sk",
-          "start": "2026-10-22T15:13:02Z",
-          "end": "2026-10-22T19:16:08Z",
-          "minutes": 243.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 LoL 】新メイヘム遊ぶ GOドーパミン【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 4.0,
-          "samples": [
-            [
-              "2026-10-22T15:13:02Z",
-              4
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "5Ivfyrq9qlM",
-          "videoUrl": "https://www.youtube.com/watch?v=5Ivfyrq9qlM",
-          "start": "2026-10-21T13:12:35Z",
-          "end": "2026-10-21T18:07:22Z",
-          "minutes": 294.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 アヒル人狼 】本当によくわからん人達でグースグース【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
-          "samples": [
-            [
-              "2026-10-21T13:12:35Z",
-              14
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "F6s9v27kSj4",
-          "videoUrl": "https://www.youtube.com/watch?v=F6s9v27kSj4",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T16:46:57Z",
-          "minutes": 198.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 雑談 】色んなTier表作りながら雑談【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 25,
-          "avgViewers": 25.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "uI0XxqGPuPA",
-          "videoUrl": "https://www.youtube.com/watch?v=uI0XxqGPuPA",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T20:49:26Z",
-          "minutes": 485.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 スマブラ 】校舎裏に呼び出された w/ れんま ぴりから【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 16,
-          "avgViewers": 12.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "al_kKmSEge8",
-          "videoUrl": "https://www.youtube.com/watch?v=al_kKmSEge8",
-          "start": "2026-10-14T12:55:26Z",
-          "end": "2026-10-14T17:49:11Z",
-          "minutes": 293.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 BOMBANANA! 】情報が遮断されても意思疎通はできる！w/ 火狩夜れんま ぴりから【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 20,
-          "avgViewers": 20.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "3LJY5ZIKF2o",
-          "videoUrl": "https://www.youtube.com/watch?v=3LJY5ZIKF2o",
-          "start": "2026-10-12T23:36:20Z",
-          "end": "2026-10-13T03:51:29Z",
-          "minutes": 255.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 雑談 】朝から浮気の話でもしとく？【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 22.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "5Y8lb9_jY4E",
-          "videoUrl": "https://www.youtube.com/watch?v=5Y8lb9_jY4E",
-          "start": "2026-10-11T13:29:42Z",
-          "end": "2026-10-11T18:24:07Z",
-          "minutes": 294.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 LoL 】5vs5ランク w/ハサキング ぴりから うせつ ロミズリ【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 5,
-      "livePeakViewers": 8,
-      "liveAvgViewers": 6.5,
-      "liveSamples": [
-        [
-          "2026-10-25T13:50:31Z",
-          8
-        ],
-        [
-          "2026-10-25T17:26:13Z",
-          5
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=iunLpZRF5uk"
-    },
     {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
       "name": "甘音あむ",
@@ -263,31 +56,31 @@
       "lastTitle": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 146.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 2.45,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 240.0,
-          "peakViewers": 240
+          "avgViewers": 331.0,
+          "peakViewers": 422
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 146.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 2.45,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 240.0,
-          "peakViewers": 240
+          "avgViewers": 331.0,
+          "peakViewers": 422
         },
         "month": {
-          "totalMinutes": 2782.2,
+          "totalMinutes": 2929.0,
           "gameMinutes": 0.0,
-          "totalHours": 46.37,
+          "totalHours": 48.82,
           "gameHours": 0.0,
           "sessions": 15,
-          "avgViewers": 214.1,
-          "peakViewers": 348
+          "avgViewers": 220.3,
+          "peakViewers": 422
         }
       },
       "recentSessions": [
@@ -443,13 +236,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 240,
-      "livePeakViewers": 240,
-      "liveAvgViewers": 240.0,
+      "liveViewers": 422,
+      "livePeakViewers": 422,
+      "liveAvgViewers": 331.0,
       "liveSamples": [
         [
           "2026-10-25T17:26:13Z",
           240
+        ],
+        [
+          "2026-10-25T19:52:58Z",
+          422
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k"
@@ -838,6 +635,203 @@
           "game": null,
           "peakViewers": 62,
           "avgViewers": 62.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC1_HUmjQShLtT_MuZjry3hQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-25T19:52:58Z",
+      "lastTitle": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 293.0,
+          "gameMinutes": 0.0,
+          "totalHours": 4.88,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 6.5,
+          "peakViewers": 8
+        },
+        "week": {
+          "totalMinutes": 293.0,
+          "gameMinutes": 0.0,
+          "totalHours": 4.88,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 6.5,
+          "peakViewers": 8
+        },
+        "month": {
+          "totalMinutes": 5130.0,
+          "gameMinutes": 267.6,
+          "totalHours": 85.5,
+          "gameHours": 4.46,
+          "sessions": 17,
+          "avgViewers": 14.4,
+          "peakViewers": 92
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "iunLpZRF5uk",
+          "videoUrl": "https://www.youtube.com/watch?v=iunLpZRF5uk",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T19:52:58Z",
+          "minutes": 362.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 6.5,
+          "samples": [
+            [
+              "2026-10-25T13:50:31Z",
+              8
+            ],
+            [
+              "2026-10-25T17:26:13Z",
+              5
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "HFdQdnLp7R0",
+          "videoUrl": "https://www.youtube.com/watch?v=HFdQdnLp7R0",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 LoL 】あんまりやらないキャラでも使おう【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 12.0,
+          "samples": [
+            [
+              "2026-10-24T13:51:12Z",
+              12
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "4Jr31E882sk",
+          "videoUrl": "https://www.youtube.com/watch?v=4Jr31E882sk",
+          "start": "2026-10-22T15:13:02Z",
+          "end": "2026-10-22T19:16:08Z",
+          "minutes": 243.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 LoL 】新メイヘム遊ぶ GOドーパミン【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 4.0,
+          "samples": [
+            [
+              "2026-10-22T15:13:02Z",
+              4
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "5Ivfyrq9qlM",
+          "videoUrl": "https://www.youtube.com/watch?v=5Ivfyrq9qlM",
+          "start": "2026-10-21T13:12:35Z",
+          "end": "2026-10-21T18:07:22Z",
+          "minutes": 294.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 アヒル人狼 】本当によくわからん人達でグースグース【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "F6s9v27kSj4",
+          "videoUrl": "https://www.youtube.com/watch?v=F6s9v27kSj4",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T16:46:57Z",
+          "minutes": 198.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 雑談 】色んなTier表作りながら雑談【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 25,
+          "avgViewers": 25.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "uI0XxqGPuPA",
+          "videoUrl": "https://www.youtube.com/watch?v=uI0XxqGPuPA",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T20:49:26Z",
+          "minutes": 485.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 スマブラ 】校舎裏に呼び出された w/ れんま ぴりから【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 16,
+          "avgViewers": 12.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "al_kKmSEge8",
+          "videoUrl": "https://www.youtube.com/watch?v=al_kKmSEge8",
+          "start": "2026-10-14T12:55:26Z",
+          "end": "2026-10-14T17:49:11Z",
+          "minutes": 293.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 BOMBANANA! 】情報が遮断されても意思疎通はできる！w/ 火狩夜れんま ぴりから【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 20,
+          "avgViewers": 20.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "3LJY5ZIKF2o",
+          "videoUrl": "https://www.youtube.com/watch?v=3LJY5ZIKF2o",
+          "start": "2026-10-12T23:36:20Z",
+          "end": "2026-10-13T03:51:29Z",
+          "minutes": 255.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 雑談 】朝から浮気の話でもしとく？【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 22.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -4128,6 +4122,22 @@
       "isTargetGame": false
     },
     {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "iunLpZRF5uk",
+      "videoUrl": "https://www.youtube.com/watch?v=iunLpZRF5uk",
+      "start": "2026-10-25T13:50:31Z",
+      "end": "2026-10-25T19:52:58Z",
+      "minutes": 362.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 8,
+      "avgViewers": 6.5,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
       "videoId": "ooATiWxMO0s",
@@ -4989,22 +4999,6 @@
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "t-U_KkZoLFU",
-      "videoUrl": "https://www.youtube.com/watch?v=t-U_KkZoLFU",
-      "start": "2026-10-19T01:38:22Z",
-      "end": "2026-10-19T06:50:04Z",
-      "minutes": 311.7,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【目標：レジェンド リュウ レバー】　スト６って難しいよね【LIVE】#スト6  【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 14,
-      "avgViewers": 14.0,
       "isTargetGame": false
     }
   ]
