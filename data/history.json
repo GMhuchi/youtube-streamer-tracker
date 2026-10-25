@@ -2,22 +2,41 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "1AckiNF26h4",
-      "start": "2026-10-25T00:01:40Z",
+    "UCE4W22kKQQVdrA2KTiyZ_cA": {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "asTEGa1YWSI",
+      "start": "2026-10-25T04:33:30Z",
       "startSource": "observed",
-      "title": "【Nintendo Switch Sports Resort】初 見 朝 練【綾見ユラ/YUMENOS】",
+      "title": "【雑談】起きて？おしゃべりしよ？【 #無原唱レコード / #メーメントヴァニタス 】",
       "game": null,
-      "peakViewers": 107,
+      "peakViewers": 11,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-25T00:01:40Z",
-      "lastSeenAt": "2026-10-25T00:01:40Z",
+      "firstSeenAt": "2026-10-25T04:33:30Z",
+      "lastSeenAt": "2026-10-25T04:33:30Z",
       "samples": [
         [
-          "2026-10-25T00:01:40Z",
-          107
+          "2026-10-25T04:33:30Z",
+          11
+        ]
+      ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "I3CTgTDENe4",
+      "start": "2026-10-25T04:33:30Z",
+      "startSource": "observed",
+      "title": "※ネタバレありちょっと短め！12/14~眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #21 #愁子",
+      "game": null,
+      "peakViewers": 84,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-25T04:33:30Z",
+      "lastSeenAt": "2026-10-25T04:33:30Z",
+      "samples": [
+        [
+          "2026-10-25T04:33:30Z",
+          84
         ]
       ]
     }
@@ -38986,6 +39005,28 @@
         [
           "2026-10-24T17:13:57Z",
           8
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "1AckiNF26h4",
+      "videoUrl": "https://www.youtube.com/watch?v=1AckiNF26h4",
+      "start": "2026-10-25T00:01:40Z",
+      "end": "2026-10-25T04:33:30Z",
+      "minutes": 271.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Nintendo Switch Sports Resort】初 見 朝 練【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 107,
+      "avgViewers": 107.0,
+      "samples": [
+        [
+          "2026-10-25T00:01:40Z",
+          107
         ]
       ],
       "isTargetGame": false
