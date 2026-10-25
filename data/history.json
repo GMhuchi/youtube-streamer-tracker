@@ -2,41 +2,60 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCE4W22kKQQVdrA2KTiyZ_cA": {
-      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
-      "name": "メーメントヴァニタス",
-      "videoId": "asTEGa1YWSI",
-      "start": "2026-10-25T04:33:30Z",
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "VL-_ivdQ5R8",
+      "start": "2026-10-25T09:23:12Z",
       "startSource": "observed",
-      "title": "【雑談】起きて？おしゃべりしよ？【 #無原唱レコード / #メーメントヴァニタス 】",
+      "title": "〖 ダービースタリオン2 〗 競馬したあとに馬を育成する🏇〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 11,
+      "peakViewers": 316,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-25T04:33:30Z",
-      "lastSeenAt": "2026-10-25T04:33:30Z",
+      "firstSeenAt": "2026-10-25T09:23:12Z",
+      "lastSeenAt": "2026-10-25T09:23:12Z",
       "samples": [
         [
-          "2026-10-25T04:33:30Z",
-          11
+          "2026-10-25T09:23:12Z",
+          316
         ]
       ]
     },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "I3CTgTDENe4",
-      "start": "2026-10-25T04:33:30Z",
+    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "b306RfiWFgQ",
+      "start": "2026-10-25T09:23:12Z",
       "startSource": "observed",
-      "title": "※ネタバレありちょっと短め！12/14~眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #21 #愁子",
+      "title": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
       "game": null,
-      "peakViewers": 84,
+      "peakViewers": 47,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-25T04:33:30Z",
-      "lastSeenAt": "2026-10-25T04:33:30Z",
+      "firstSeenAt": "2026-10-25T09:23:12Z",
+      "lastSeenAt": "2026-10-25T09:23:12Z",
       "samples": [
         [
-          "2026-10-25T04:33:30Z",
-          84
+          "2026-10-25T09:23:12Z",
+          47
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "x_uLRY5zqCk",
+      "start": "2026-10-25T09:23:12Z",
+      "startSource": "observed",
+      "title": "【Farming Simulator 22】マジで優勝狙うぞBANギエフ w/巡斗、若魔白ソーダ【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 35,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-25T09:23:12Z",
+      "lastSeenAt": "2026-10-25T09:23:12Z",
+      "samples": [
+        [
+          "2026-10-25T09:23:12Z",
+          35
         ]
       ]
     }
@@ -39027,6 +39046,50 @@
         [
           "2026-10-25T00:01:40Z",
           107
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "asTEGa1YWSI",
+      "videoUrl": "https://www.youtube.com/watch?v=asTEGa1YWSI",
+      "start": "2026-10-25T04:33:30Z",
+      "end": "2026-10-25T09:23:12Z",
+      "minutes": 289.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】起きて？おしゃべりしよ？【 #無原唱レコード / #メーメントヴァニタス 】",
+      "game": null,
+      "peakViewers": 11,
+      "avgViewers": 11.0,
+      "samples": [
+        [
+          "2026-10-25T04:33:30Z",
+          11
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "I3CTgTDENe4",
+      "videoUrl": "https://www.youtube.com/watch?v=I3CTgTDENe4",
+      "start": "2026-10-25T04:33:30Z",
+      "end": "2026-10-25T09:23:12Z",
+      "minutes": 289.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "※ネタバレありちょっと短め！12/14~眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #21 #愁子",
+      "game": null,
+      "peakViewers": 84,
+      "avgViewers": 84.0,
+      "samples": [
+        [
+          "2026-10-25T04:33:30Z",
+          84
         ]
       ],
       "isTargetGame": false
