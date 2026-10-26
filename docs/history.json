@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:12:10Z",
+  "updatedAt": "2026-10-26T11:14:19Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1697.5,
+      "totalMinutes": 1697.6,
       "gameMinutes": 0.0,
       "totalHours": 28.29,
       "gameHours": 0.0,
-      "sessions": 9,
+      "sessions": 13,
       "avgViewers": 97.2,
       "peakViewers": 422
     },
     "week": {
-      "totalMinutes": 1697.5,
+      "totalMinutes": 1697.6,
       "gameMinutes": 0.0,
       "totalHours": 28.29,
       "gameHours": 0.0,
-      "sessions": 9,
+      "sessions": 13,
       "avgViewers": 97.2,
       "peakViewers": 422
     },
     "month": {
-      "totalMinutes": 75647.2,
+      "totalMinutes": 75647.3,
       "gameMinutes": 267.6,
       "totalHours": 1260.79,
       "gameHours": 4.46,
-      "sessions": 306,
+      "sessions": 310,
       "avgViewers": 133.3,
       "peakViewers": 997
     }
@@ -49,9 +49,9 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-10-26T11:14:19Z",
+      "liveTitle": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
       "lastEnd": "2026-10-25T16:37:00Z",
       "lastTitle": "〖 メン限 〗 まったりハートピアするよ～！ 〖 心白てと / ネオポルテ 〗",
       "buckets": {
@@ -60,25 +60,25 @@
           "gameMinutes": 0.0,
           "totalHours": 1.62,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 2,
+          "avgViewers": 108.0,
+          "peakViewers": 108
         },
         "week": {
           "totalMinutes": 97.0,
           "gameMinutes": 0.0,
           "totalHours": 1.62,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 2,
+          "avgViewers": 108.0,
+          "peakViewers": 108
         },
         "month": {
           "totalMinutes": 6725.7,
           "gameMinutes": 0.0,
           "totalHours": 112.09,
           "gameHours": 0.0,
-          "sessions": 21,
+          "sessions": 22,
           "avgViewers": 250.7,
           "peakViewers": 526
         }
@@ -234,7 +234,619 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 108,
+      "livePeakViewers": 108,
+      "liveAvgViewers": 108.0,
+      "liveSamples": [
+        [
+          "2026-10-26T11:14:19Z",
+          108
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY"
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
+      "isLive": true,
+      "liveSince": "2026-10-26T11:14:19Z",
+      "liveTitle": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
+      "lastEnd": "2026-10-25T17:26:13Z",
+      "lastTitle": "【歌枠】歌って無限の伸びしろがありましてー【日裏クロ / ネオポルテ】#shorts",
+      "buckets": {
+        "today": {
+          "totalMinutes": 146.2,
+          "gameMinutes": 0.0,
+          "totalHours": 2.44,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 93.0,
+          "peakViewers": 93
+        },
+        "week": {
+          "totalMinutes": 146.2,
+          "gameMinutes": 0.0,
+          "totalHours": 2.44,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 93.0,
+          "peakViewers": 93
+        },
+        "month": {
+          "totalMinutes": 4363.8,
+          "gameMinutes": 0.0,
+          "totalHours": 72.73,
+          "gameHours": 0.0,
+          "sessions": 20,
+          "avgViewers": 53.0,
+          "peakViewers": 145
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "zRxsJQrgjJg",
+          "videoUrl": "https://www.youtube.com/watch?v=zRxsJQrgjJg",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T17:26:13Z",
+          "minutes": 215.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】歌って無限の伸びしろがありましてー【日裏クロ / ネオポルテ】#shorts",
+          "game": null,
+          "peakViewers": 93,
+          "avgViewers": 93.0,
+          "samples": [
+            [
+              "2026-10-25T13:50:31Z",
+              93
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "3pbOKzBQpVI",
+          "videoUrl": "https://www.youtube.com/watch?v=3pbOKzBQpVI",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-23T19:28:55Z",
+          "minutes": 242.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】最近なんかよくお腹が空きます【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 37,
+          "avgViewers": 37.0,
+          "samples": [
+            [
+              "2026-10-23T15:26:47Z",
+              37
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "tveH0p8El4M",
+          "videoUrl": "https://www.youtube.com/watch?v=tveH0p8El4M",
+          "start": "2026-10-22T15:13:02Z",
+          "end": "2026-10-22T22:27:52Z",
+          "minutes": 434.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【プラネットズー2】理想の動物園作りますよと【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 57,
+          "avgViewers": 47.0,
+          "samples": [
+            [
+              "2026-10-22T15:13:02Z",
+              37
+            ],
+            [
+              "2026-10-22T19:16:08Z",
+              57
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "T7Ped841JEI",
+          "videoUrl": "https://www.youtube.com/watch?v=T7Ped841JEI",
+          "start": "2026-10-20T12:51:55Z",
+          "end": "2026-10-20T17:48:01Z",
+          "minutes": 296.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【BOMBANANA!】男三人で爆弾解除する！！【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 76,
+          "avgViewers": 76.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "NcaK1vQkQG4",
+          "videoUrl": "https://www.youtube.com/watch?v=NcaK1vQkQG4",
+          "start": "2026-10-19T14:01:03Z",
+          "end": "2026-10-19T15:53:52Z",
+          "minutes": 112.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】今日もお疲れ様でしたメン限【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "XHgT4e90Bos",
+          "videoUrl": "https://www.youtube.com/watch?v=XHgT4e90Bos",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T20:49:26Z",
+          "minutes": 485.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほの暮しの庭】村が隠してる闇とは? #5【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 49,
+          "avgViewers": 38.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "Ibo1AOeaen0",
+          "videoUrl": "https://www.youtube.com/watch?v=Ibo1AOeaen0",
+          "start": "2026-10-15T13:40:53Z",
+          "end": "2026-10-15T17:54:42Z",
+          "minutes": 253.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【LTK】LTK DAY1 ウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "_2HG_OcyzDQ",
+          "videoUrl": "https://www.youtube.com/watch?v=_2HG_OcyzDQ",
+          "start": "2026-10-13T23:02:42Z",
+          "end": "2026-10-14T01:51:09Z",
+          "minutes": 168.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【OW2】早朝熱血OW部Withロウ【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 65,
+          "avgViewers": 65.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 30,
+      "livePeakViewers": 30,
+      "liveAvgViewers": 30.0,
+      "liveSamples": [
+        [
+          "2026-10-26T11:14:19Z",
+          30
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=jNIB520uPn8"
+    },
+    {
+      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+      "name": "赤彩みあ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
+      "isLive": true,
+      "liveSince": "2026-10-26T11:14:19Z",
+      "liveTitle": "【 スト6 】アルジュン、どうなん？？？？？？？？？？？【 すずみあ / 赤彩みあ 】",
+      "lastEnd": "2026-10-17T18:23:29Z",
+      "lastTitle": "【 #SURGECity  ￤＃９ 】最終日、逮捕～～～～～～～～～～～～！！！！🚨🔥【 すずみあ / 赤彩みあ 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 39.0,
+          "peakViewers": 39
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 39.0,
+          "peakViewers": 39
+        },
+        "month": {
+          "totalMinutes": 3420.4,
+          "gameMinutes": 0.0,
+          "totalHours": 57.01,
+          "gameHours": 0.0,
+          "sessions": 14,
+          "avgViewers": 435.2,
+          "peakViewers": 942
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "XEvOBREH69E",
+          "videoUrl": "https://www.youtube.com/watch?v=XEvOBREH69E",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T18:23:29Z",
+          "minutes": 339.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGECity  ￤＃９ 】最終日、逮捕～～～～～～～～～～～～！！！！🚨🔥【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 786,
+          "avgViewers": 784.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "JSdyVLlJPWU",
+          "videoUrl": "https://www.youtube.com/watch?v=JSdyVLlJPWU",
+          "start": "2026-10-16T11:46:11Z",
+          "end": "2026-10-16T19:01:06Z",
+          "minutes": 434.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGECity  ￤＃８ 】強くなるぞ～～～～～～！勝つんだワン！🐶【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 788,
+          "avgViewers": 786.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "WRJTwhooypY",
+          "videoUrl": "https://www.youtube.com/watch?v=WRJTwhooypY",
+          "start": "2026-10-15T13:40:53Z",
+          "end": "2026-10-15T17:54:42Z",
+          "minutes": 253.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGECity  ￤＃７ 】みあ王子、今日も出勤だワン！🐶【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "zN9oP5vgwF8",
+          "videoUrl": "https://www.youtube.com/watch?v=zN9oP5vgwF8",
+          "start": "2026-10-14T12:55:26Z",
+          "end": "2026-10-14T17:49:11Z",
+          "minutes": 293.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 赤彩みあ生誕祭2026 】誕生日きちゃ～！✨記念凸待ちするぞ～！【 赤彩みあ / すずみあ 】",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "pEo51Yc60pQ",
+          "videoUrl": "https://www.youtube.com/watch?v=pEo51Yc60pQ",
+          "start": "2026-10-13T11:27:36Z",
+          "end": "2026-10-13T18:27:42Z",
+          "minutes": 420.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGECity  ￤＃５ 】いっぱい学んでさらに成長するワン！🐶【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 942,
+          "avgViewers": 942.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "rKhcuOHHwI0",
+          "videoUrl": "https://www.youtube.com/watch?v=rKhcuOHHwI0",
+          "start": "2026-10-12T17:02:17Z",
+          "end": "2026-10-12T23:36:20Z",
+          "minutes": 394.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGECity  ￤＃４ 】大型が始まる…！全員逮捕だワン！🐶【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 744,
+          "avgViewers": 744.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "I3cNUFPWdh4",
+          "videoUrl": "https://www.youtube.com/watch?v=I3cNUFPWdh4",
+          "start": "2026-10-11T13:29:42Z",
+          "end": "2026-10-11T18:24:07Z",
+          "minutes": 294.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGECity  ￤＃３ 】わんわんたくさん逮捕しようよ！！🐶【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 12.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+          "name": "赤彩みあ",
+          "videoId": "HwfM4YfYz7g",
+          "videoUrl": "https://www.youtube.com/watch?v=HwfM4YfYz7g",
+          "start": "2026-10-09T11:30:41Z",
+          "end": "2026-10-09T17:32:35Z",
+          "minutes": 361.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #SURGECity  ￤＃１ 】逮捕じゃコラ～～～～～～～～～！！！！🚓🚨【 すずみあ / 赤彩みあ 】",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 17.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 39,
+      "livePeakViewers": 39,
+      "liveAvgViewers": 39.0,
+      "liveSamples": [
+        [
+          "2026-10-26T11:14:19Z",
+          39
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=244eYbt4uaw"
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
+      "isLive": true,
+      "liveSince": "2026-10-26T11:14:19Z",
+      "liveTitle": "🟣10/26【 #GTA5  】＃6 いつものチル飯＆ハロウィン🎃 #リライフ【 maŸUko / #Vtuber 】",
+      "lastEnd": "2026-10-24T19:33:18Z",
+      "lastTitle": "🟣10/24【 #GTA5  】＃5 狩猟アルバイトにチャレンジ!?🦌 #リライフ【 maŸUko / #Vtuber 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 10.0,
+          "peakViewers": 10
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 10.0,
+          "peakViewers": 10
+        },
+        "month": {
+          "totalMinutes": 3393.2,
+          "gameMinutes": 0.0,
+          "totalHours": 56.55,
+          "gameHours": 0.0,
+          "sessions": 14,
+          "avgViewers": 5.8,
+          "peakViewers": 10
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "WFGXdi3zm38",
+          "videoUrl": "https://www.youtube.com/watch?v=WFGXdi3zm38",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T19:33:18Z",
+          "minutes": 342.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/24【 #GTA5  】＃5 狩猟アルバイトにチャレンジ!?🦌 #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 6.0,
+          "samples": [
+            [
+              "2026-10-24T13:51:12Z",
+              7
+            ],
+            [
+              "2026-10-24T17:13:57Z",
+              5
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "IJNqkWsQ1k4",
+          "videoUrl": "https://www.youtube.com/watch?v=IJNqkWsQ1k4",
+          "start": "2026-10-20T12:51:55Z",
+          "end": "2026-10-20T17:48:01Z",
+          "minutes": 296.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/20【 #GTA5  】＃3 お金を貯めるフェーズ💴 #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [
+            [
+              "2026-10-20T12:51:55Z",
+              8
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "4yj4Evz-q7c",
+          "videoUrl": "https://www.youtube.com/watch?v=4yj4Evz-q7c",
+          "start": "2026-10-19T14:05:23Z",
+          "end": "2026-10-19T19:52:04Z",
+          "minutes": 346.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/19【 #SuperMarketChaos 】各血液型4人で整理整頓!?B型、マイペースな迷探偵視点🔍【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [
+            [
+              "2026-10-19T14:05:23Z",
+              10
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "weYHmL7jSYg",
+          "videoUrl": "https://www.youtube.com/watch?v=weYHmL7jSYg",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T19:00:53Z",
+          "minutes": 332.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/18【 #GTA5  】＃1 はじめまして、苅宮...と申します。 #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 7.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "-yyEqphxx7E",
+          "videoUrl": "https://www.youtube.com/watch?v=-yyEqphxx7E",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T18:23:29Z",
+          "minutes": 339.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/17【 #マーダーミステリー 】エンドロールは流れない　GM：maŸUko視点",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "jy9dav98ayo",
+          "videoUrl": "https://www.youtube.com/watch?v=jy9dav98ayo",
+          "start": "2026-10-15T13:40:53Z",
+          "end": "2026-10-15T17:54:42Z",
+          "minutes": 253.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/15【 #StafferRetro 】＃9 ｢月光｣が照らす真実を求める迷探偵🔍【 maŸUko / #Vtuber 】※ネタバレ注意",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "A6MbQ3N_mjs",
+          "videoUrl": "https://www.youtube.com/watch?v=A6MbQ3N_mjs",
+          "start": "2026-10-14T12:55:26Z",
+          "end": "2026-10-14T17:49:11Z",
+          "minutes": 293.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/14【#バサトピアS2 】帰って来た！「バサトピアSeason2」の世界を再び見守る Day5　/　GM(風の妖精)：maŸUko視点",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "0zfJBMW_Jvs",
+          "videoUrl": "https://www.youtube.com/watch?v=0zfJBMW_Jvs",
+          "start": "2026-10-11T13:29:42Z",
+          "end": "2026-10-11T18:24:07Z",
+          "minutes": 294.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/11【#バサトピアS2 】帰って来た！「バサトピアSeason2」の世界を再び見守る Day2　/　GM(風の妖精)：maŸUko視点",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 4.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 10,
+      "livePeakViewers": 10,
+      "liveAvgViewers": 10.0,
+      "liveSamples": [
+        [
+          "2026-10-26T11:14:19Z",
+          10
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=2_6uHCWsPJ0"
     },
     {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
@@ -1195,203 +1807,6 @@
       ]
     },
     {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-25T17:26:13Z",
-      "lastTitle": "【歌枠】歌って無限の伸びしろがありましてー【日裏クロ / ネオポルテ】#shorts",
-      "buckets": {
-        "today": {
-          "totalMinutes": 146.2,
-          "gameMinutes": 0.0,
-          "totalHours": 2.44,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 93.0,
-          "peakViewers": 93
-        },
-        "week": {
-          "totalMinutes": 146.2,
-          "gameMinutes": 0.0,
-          "totalHours": 2.44,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 93.0,
-          "peakViewers": 93
-        },
-        "month": {
-          "totalMinutes": 4363.8,
-          "gameMinutes": 0.0,
-          "totalHours": 72.73,
-          "gameHours": 0.0,
-          "sessions": 19,
-          "avgViewers": 53.0,
-          "peakViewers": 145
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "zRxsJQrgjJg",
-          "videoUrl": "https://www.youtube.com/watch?v=zRxsJQrgjJg",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T17:26:13Z",
-          "minutes": 215.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】歌って無限の伸びしろがありましてー【日裏クロ / ネオポルテ】#shorts",
-          "game": null,
-          "peakViewers": 93,
-          "avgViewers": 93.0,
-          "samples": [
-            [
-              "2026-10-25T13:50:31Z",
-              93
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "3pbOKzBQpVI",
-          "videoUrl": "https://www.youtube.com/watch?v=3pbOKzBQpVI",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-23T19:28:55Z",
-          "minutes": 242.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】最近なんかよくお腹が空きます【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 37,
-          "avgViewers": 37.0,
-          "samples": [
-            [
-              "2026-10-23T15:26:47Z",
-              37
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "tveH0p8El4M",
-          "videoUrl": "https://www.youtube.com/watch?v=tveH0p8El4M",
-          "start": "2026-10-22T15:13:02Z",
-          "end": "2026-10-22T22:27:52Z",
-          "minutes": 434.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【プラネットズー2】理想の動物園作りますよと【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 57,
-          "avgViewers": 47.0,
-          "samples": [
-            [
-              "2026-10-22T15:13:02Z",
-              37
-            ],
-            [
-              "2026-10-22T19:16:08Z",
-              57
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "T7Ped841JEI",
-          "videoUrl": "https://www.youtube.com/watch?v=T7Ped841JEI",
-          "start": "2026-10-20T12:51:55Z",
-          "end": "2026-10-20T17:48:01Z",
-          "minutes": 296.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【BOMBANANA!】男三人で爆弾解除する！！【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 76,
-          "avgViewers": 76.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "NcaK1vQkQG4",
-          "videoUrl": "https://www.youtube.com/watch?v=NcaK1vQkQG4",
-          "start": "2026-10-19T14:01:03Z",
-          "end": "2026-10-19T15:53:52Z",
-          "minutes": 112.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】今日もお疲れ様でしたメン限【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "XHgT4e90Bos",
-          "videoUrl": "https://www.youtube.com/watch?v=XHgT4e90Bos",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T20:49:26Z",
-          "minutes": 485.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほの暮しの庭】村が隠してる闇とは? #5【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 49,
-          "avgViewers": 38.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "Ibo1AOeaen0",
-          "videoUrl": "https://www.youtube.com/watch?v=Ibo1AOeaen0",
-          "start": "2026-10-15T13:40:53Z",
-          "end": "2026-10-15T17:54:42Z",
-          "minutes": 253.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【LTK】LTK DAY1 ウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "_2HG_OcyzDQ",
-          "videoUrl": "https://www.youtube.com/watch?v=_2HG_OcyzDQ",
-          "start": "2026-10-13T23:02:42Z",
-          "end": "2026-10-14T01:51:09Z",
-          "minutes": 168.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【OW2】早朝熱血OW部Withロウ【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 65,
-          "avgViewers": 65.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
       "name": "綾見ユラ",
       "registered": true,
@@ -1772,381 +2187,6 @@
           "game": null,
           "peakViewers": 57,
           "avgViewers": 57.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-      "name": "赤彩みあ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCeTb2MQrm8UBChlecw7pQOA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-17T18:23:29Z",
-      "lastTitle": "【 #SURGECity  ￤＃９ 】最終日、逮捕～～～～～～～～～～～～！！！！🚨🔥【 すずみあ / 赤彩みあ 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 3420.4,
-          "gameMinutes": 0.0,
-          "totalHours": 57.01,
-          "gameHours": 0.0,
-          "sessions": 13,
-          "avgViewers": 435.2,
-          "peakViewers": 942
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "XEvOBREH69E",
-          "videoUrl": "https://www.youtube.com/watch?v=XEvOBREH69E",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T18:23:29Z",
-          "minutes": 339.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGECity  ￤＃９ 】最終日、逮捕～～～～～～～～～～～～！！！！🚨🔥【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 786,
-          "avgViewers": 784.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "JSdyVLlJPWU",
-          "videoUrl": "https://www.youtube.com/watch?v=JSdyVLlJPWU",
-          "start": "2026-10-16T11:46:11Z",
-          "end": "2026-10-16T19:01:06Z",
-          "minutes": 434.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGECity  ￤＃８ 】強くなるぞ～～～～～～！勝つんだワン！🐶【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 788,
-          "avgViewers": 786.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "WRJTwhooypY",
-          "videoUrl": "https://www.youtube.com/watch?v=WRJTwhooypY",
-          "start": "2026-10-15T13:40:53Z",
-          "end": "2026-10-15T17:54:42Z",
-          "minutes": 253.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGECity  ￤＃７ 】みあ王子、今日も出勤だワン！🐶【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "zN9oP5vgwF8",
-          "videoUrl": "https://www.youtube.com/watch?v=zN9oP5vgwF8",
-          "start": "2026-10-14T12:55:26Z",
-          "end": "2026-10-14T17:49:11Z",
-          "minutes": 293.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 赤彩みあ生誕祭2026 】誕生日きちゃ～！✨記念凸待ちするぞ～！【 赤彩みあ / すずみあ 】",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "pEo51Yc60pQ",
-          "videoUrl": "https://www.youtube.com/watch?v=pEo51Yc60pQ",
-          "start": "2026-10-13T11:27:36Z",
-          "end": "2026-10-13T18:27:42Z",
-          "minutes": 420.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGECity  ￤＃５ 】いっぱい学んでさらに成長するワン！🐶【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 942,
-          "avgViewers": 942.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "rKhcuOHHwI0",
-          "videoUrl": "https://www.youtube.com/watch?v=rKhcuOHHwI0",
-          "start": "2026-10-12T17:02:17Z",
-          "end": "2026-10-12T23:36:20Z",
-          "minutes": 394.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGECity  ￤＃４ 】大型が始まる…！全員逮捕だワン！🐶【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 744,
-          "avgViewers": 744.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "I3cNUFPWdh4",
-          "videoUrl": "https://www.youtube.com/watch?v=I3cNUFPWdh4",
-          "start": "2026-10-11T13:29:42Z",
-          "end": "2026-10-11T18:24:07Z",
-          "minutes": 294.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGECity  ￤＃３ 】わんわんたくさん逮捕しようよ！！🐶【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 12.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
-          "name": "赤彩みあ",
-          "videoId": "HwfM4YfYz7g",
-          "videoUrl": "https://www.youtube.com/watch?v=HwfM4YfYz7g",
-          "start": "2026-10-09T11:30:41Z",
-          "end": "2026-10-09T17:32:35Z",
-          "minutes": 361.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #SURGECity  ￤＃１ 】逮捕じゃコラ～～～～～～～～～！！！！🚓🚨【 すずみあ / 赤彩みあ 】",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 17.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-24T19:33:18Z",
-      "lastTitle": "🟣10/24【 #GTA5  】＃5 狩猟アルバイトにチャレンジ!?🦌 #リライフ【 maŸUko / #Vtuber 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 3393.2,
-          "gameMinutes": 0.0,
-          "totalHours": 56.55,
-          "gameHours": 0.0,
-          "sessions": 13,
-          "avgViewers": 5.8,
-          "peakViewers": 10
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "WFGXdi3zm38",
-          "videoUrl": "https://www.youtube.com/watch?v=WFGXdi3zm38",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T19:33:18Z",
-          "minutes": 342.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/24【 #GTA5  】＃5 狩猟アルバイトにチャレンジ!?🦌 #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 6.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              7
-            ],
-            [
-              "2026-10-24T17:13:57Z",
-              5
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "IJNqkWsQ1k4",
-          "videoUrl": "https://www.youtube.com/watch?v=IJNqkWsQ1k4",
-          "start": "2026-10-20T12:51:55Z",
-          "end": "2026-10-20T17:48:01Z",
-          "minutes": 296.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/20【 #GTA5  】＃3 お金を貯めるフェーズ💴 #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [
-            [
-              "2026-10-20T12:51:55Z",
-              8
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "4yj4Evz-q7c",
-          "videoUrl": "https://www.youtube.com/watch?v=4yj4Evz-q7c",
-          "start": "2026-10-19T14:05:23Z",
-          "end": "2026-10-19T19:52:04Z",
-          "minutes": 346.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/19【 #SuperMarketChaos 】各血液型4人で整理整頓!?B型、マイペースな迷探偵視点🔍【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [
-            [
-              "2026-10-19T14:05:23Z",
-              10
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "weYHmL7jSYg",
-          "videoUrl": "https://www.youtube.com/watch?v=weYHmL7jSYg",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T19:00:53Z",
-          "minutes": 332.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/18【 #GTA5  】＃1 はじめまして、苅宮...と申します。 #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 7.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "-yyEqphxx7E",
-          "videoUrl": "https://www.youtube.com/watch?v=-yyEqphxx7E",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T18:23:29Z",
-          "minutes": 339.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/17【 #マーダーミステリー 】エンドロールは流れない　GM：maŸUko視点",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 3.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "jy9dav98ayo",
-          "videoUrl": "https://www.youtube.com/watch?v=jy9dav98ayo",
-          "start": "2026-10-15T13:40:53Z",
-          "end": "2026-10-15T17:54:42Z",
-          "minutes": 253.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/15【 #StafferRetro 】＃9 ｢月光｣が照らす真実を求める迷探偵🔍【 maŸUko / #Vtuber 】※ネタバレ注意",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "A6MbQ3N_mjs",
-          "videoUrl": "https://www.youtube.com/watch?v=A6MbQ3N_mjs",
-          "start": "2026-10-14T12:55:26Z",
-          "end": "2026-10-14T17:49:11Z",
-          "minutes": 293.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/14【#バサトピアS2 】帰って来た！「バサトピアSeason2」の世界を再び見守る Day5　/　GM(風の妖精)：maŸUko視点",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "0zfJBMW_Jvs",
-          "videoUrl": "https://www.youtube.com/watch?v=0zfJBMW_Jvs",
-          "start": "2026-10-11T13:29:42Z",
-          "end": "2026-10-11T18:24:07Z",
-          "minutes": 294.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/11【#バサトピアS2 】帰って来た！「バサトピアSeason2」の世界を再び見守る Day2　/　GM(風の妖精)：maŸUko視点",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 4.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -2828,12 +2868,7 @@
           "game": null,
           "peakViewers": 14,
           "avgViewers": 14.0,
-          "samples": [
-            [
-              "2026-10-19T01:38:22Z",
-              14
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
