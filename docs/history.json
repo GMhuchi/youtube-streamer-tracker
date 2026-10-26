@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:19:51Z",
+  "updatedAt": "2026-10-26T00:29:20Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 0.0,
       "totalHours": 23.58,
       "gameHours": 0.0,
-      "sessions": 8,
+      "sessions": 9,
       "avgViewers": 113.2,
       "peakViewers": 422
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 23.58,
       "gameHours": 0.0,
-      "sessions": 8,
+      "sessions": 9,
       "avgViewers": 113.2,
       "peakViewers": 422
     },
@@ -38,12 +38,223 @@
       "gameMinutes": 267.6,
       "totalHours": 1256.07,
       "gameHours": 4.46,
-      "sessions": 305,
+      "sessions": 306,
       "avgViewers": 133.7,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": true,
+      "liveSince": "2026-10-26T00:29:20Z",
+      "liveTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "lastEnd": "2026-10-24T19:33:18Z",
+      "lastTitle": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 23.0,
+          "peakViewers": 23
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 23.0,
+          "peakViewers": 23
+        },
+        "month": {
+          "totalMinutes": 4529.2,
+          "gameMinutes": 0.0,
+          "totalHours": 75.49,
+          "gameHours": 0.0,
+          "sessions": 23,
+          "avgViewers": 16.5,
+          "peakViewers": 30
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "9qjrJyzvFkk",
+          "videoUrl": "https://www.youtube.com/watch?v=9qjrJyzvFkk",
+          "start": "2026-10-24T17:13:57Z",
+          "end": "2026-10-24T19:33:18Z",
+          "minutes": 139.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [
+            [
+              "2026-10-24T17:13:57Z",
+              8
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "6muZomJFQuk",
+          "videoUrl": "https://www.youtube.com/watch?v=6muZomJFQuk",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【BigWalk】みんなで協力？いいえ散歩です【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [
+            [
+              "2026-10-24T13:51:12Z",
+              13
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "IxRV2hy_hkI",
+          "videoUrl": "https://www.youtube.com/watch?v=IxRV2hy_hkI",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-24T01:02:35Z",
+          "minutes": 575.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day1 初めてやるOnceHuman！禁断の島なんて罪な匂いがしますね【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 20,
+          "avgViewers": 14.5,
+          "samples": [
+            [
+              "2026-10-23T15:26:47Z",
+              13
+            ],
+            [
+              "2026-10-23T19:28:55Z",
+              10
+            ],
+            [
+              "2026-10-23T22:33:33Z",
+              20
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "Lx06HckAsNo",
+          "videoUrl": "https://www.youtube.com/watch?v=Lx06HckAsNo",
+          "start": "2026-10-20T23:39:11Z",
+          "end": "2026-10-21T02:02:45Z",
+          "minutes": 143.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 22.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "0WTtF2TaJrw",
+          "videoUrl": "https://www.youtube.com/watch?v=0WTtF2TaJrw",
+          "start": "2026-10-20T12:05:52Z",
+          "end": "2026-10-20T15:55:07Z",
+          "minutes": 229.2,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【飲酒雑談】酒飲みつつ、話題の浮気判定シートやってみよう🍶【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "bD5HivIq6Nw",
+          "videoUrl": "https://www.youtube.com/watch?v=bD5HivIq6Nw",
+          "start": "2026-10-18T23:33:42Z",
+          "end": "2026-10-19T01:38:22Z",
+          "minutes": 124.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 17.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "XU70BA97134",
+          "videoUrl": "https://www.youtube.com/watch?v=XU70BA97134",
+          "start": "2026-10-17T15:58:59Z",
+          "end": "2026-10-17T18:23:29Z",
+          "minutes": 144.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】深夜のチル歌枠💤 疲れたそんな時にほっと一息1曲聞いていきませんか？【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 19,
+          "avgViewers": 19.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "i8pko09UQoM",
+          "videoUrl": "https://www.youtube.com/watch?v=i8pko09UQoM",
+          "start": "2026-10-17T04:50:00Z",
+          "end": "2026-10-17T08:52:49Z",
+          "minutes": 242.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 ELDEN RING NIGHTREIGN 】ほぼ初めてのナイトレイン！リスナーさん参加型！お手柔らかに✋【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 23,
+      "livePeakViewers": 23,
+      "liveAvgViewers": 23.0,
+      "liveSamples": [
+        [
+          "2026-10-26T00:29:20Z",
+          23
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c"
+    },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -996,207 +1207,6 @@
           "game": null,
           "peakViewers": 709,
           "avgViewers": 709.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-24T19:33:18Z",
-      "lastTitle": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 4529.1,
-          "gameMinutes": 0.0,
-          "totalHours": 75.49,
-          "gameHours": 0.0,
-          "sessions": 22,
-          "avgViewers": 16.5,
-          "peakViewers": 30
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "9qjrJyzvFkk",
-          "videoUrl": "https://www.youtube.com/watch?v=9qjrJyzvFkk",
-          "start": "2026-10-24T17:13:57Z",
-          "end": "2026-10-24T19:33:18Z",
-          "minutes": 139.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [
-            [
-              "2026-10-24T17:13:57Z",
-              8
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "6muZomJFQuk",
-          "videoUrl": "https://www.youtube.com/watch?v=6muZomJFQuk",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【BigWalk】みんなで協力？いいえ散歩です【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              13
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "IxRV2hy_hkI",
-          "videoUrl": "https://www.youtube.com/watch?v=IxRV2hy_hkI",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-24T01:02:35Z",
-          "minutes": 575.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #戯れ処 #OnceHuman 】Day1 初めてやるOnceHuman！禁断の島なんて罪な匂いがしますね【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 20,
-          "avgViewers": 14.5,
-          "samples": [
-            [
-              "2026-10-23T15:26:47Z",
-              13
-            ],
-            [
-              "2026-10-23T19:28:55Z",
-              10
-            ],
-            [
-              "2026-10-23T22:33:33Z",
-              20
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "Lx06HckAsNo",
-          "videoUrl": "https://www.youtube.com/watch?v=Lx06HckAsNo",
-          "start": "2026-10-20T23:39:11Z",
-          "end": "2026-10-21T02:02:45Z",
-          "minutes": 143.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 22.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "0WTtF2TaJrw",
-          "videoUrl": "https://www.youtube.com/watch?v=0WTtF2TaJrw",
-          "start": "2026-10-20T12:05:52Z",
-          "end": "2026-10-20T15:55:07Z",
-          "minutes": 229.2,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【飲酒雑談】酒飲みつつ、話題の浮気判定シートやってみよう🍶【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "bD5HivIq6Nw",
-          "videoUrl": "https://www.youtube.com/watch?v=bD5HivIq6Nw",
-          "start": "2026-10-18T23:33:42Z",
-          "end": "2026-10-19T01:38:22Z",
-          "minutes": 124.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 17.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "XU70BA97134",
-          "videoUrl": "https://www.youtube.com/watch?v=XU70BA97134",
-          "start": "2026-10-17T15:58:59Z",
-          "end": "2026-10-17T18:23:29Z",
-          "minutes": 144.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】深夜のチル歌枠💤 疲れたそんな時にほっと一息1曲聞いていきませんか？【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 19,
-          "avgViewers": 19.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "i8pko09UQoM",
-          "videoUrl": "https://www.youtube.com/watch?v=i8pko09UQoM",
-          "start": "2026-10-17T04:50:00Z",
-          "end": "2026-10-17T08:52:49Z",
-          "minutes": 242.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 ELDEN RING NIGHTREIGN 】ほぼ初めてのナイトレイン！リスナーさん参加型！お手柔らかに✋【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
           "samples": [],
           "isTargetGame": false
         }
