@@ -1,92 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "dwhP45KfKxY",
-      "start": "2026-10-26T11:14:19Z",
-      "startSource": "observed",
-      "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 124,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-26T11:14:19Z",
-      "lastSeenAt": "2026-10-26T17:26:19Z",
-      "samples": [
-        [
-          "2026-10-26T11:14:19Z",
-          108
-        ],
-        [
-          "2026-10-26T17:26:19Z",
-          124
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "jNIB520uPn8",
-      "start": "2026-10-26T11:14:19Z",
-      "startSource": "observed",
-      "title": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 30,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-26T11:14:19Z",
-      "lastSeenAt": "2026-10-26T17:26:19Z",
-      "samples": [
-        [
-          "2026-10-26T11:14:19Z",
-          30
-        ],
-        [
-          "2026-10-26T17:26:19Z",
-          26
-        ]
-      ]
-    },
-    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "hF-zq_8wV8s",
-      "start": "2026-10-26T17:26:19Z",
-      "startSource": "observed",
-      "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
-      "game": null,
-      "peakViewers": 36,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-26T17:26:19Z",
-      "lastSeenAt": "2026-10-26T17:26:19Z",
-      "samples": [
-        [
-          "2026-10-26T17:26:19Z",
-          36
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "GS5dXMtzGDI",
-      "start": "2026-10-26T17:26:19Z",
-      "startSource": "observed",
-      "title": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "game": null,
-      "peakViewers": 13,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-26T17:26:19Z",
-      "lastSeenAt": "2026-10-26T17:26:19Z",
-      "samples": [
-        [
-          "2026-10-26T17:26:19Z",
-          13
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -510,80 +425,7 @@
       "game": null,
       "peakViewers": 739,
       "avgViewers": 573.9,
-      "samples": [
-        [
-          "2026-09-11T12:58:36Z",
-          468
-        ],
-        [
-          "2026-09-11T13:18:16Z",
-          533
-        ],
-        [
-          "2026-09-11T13:33:39Z",
-          624
-        ],
-        [
-          "2026-09-11T13:49:15Z",
-          653
-        ],
-        [
-          "2026-09-11T14:00:11Z",
-          644
-        ],
-        [
-          "2026-09-11T14:23:05Z",
-          724
-        ],
-        [
-          "2026-09-11T14:41:24Z",
-          730
-        ],
-        [
-          "2026-09-11T14:57:45Z",
-          650
-        ],
-        [
-          "2026-09-11T15:16:19Z",
-          670
-        ],
-        [
-          "2026-09-11T15:32:24Z",
-          696
-        ],
-        [
-          "2026-09-11T15:48:40Z",
-          739
-        ],
-        [
-          "2026-09-11T15:59:46Z",
-          652
-        ],
-        [
-          "2026-09-11T16:19:44Z",
-          662
-        ],
-        [
-          "2026-09-11T16:35:19Z",
-          641
-        ],
-        [
-          "2026-09-11T16:48:58Z",
-          578
-        ],
-        [
-          "2026-09-11T16:59:25Z",
-          620
-        ],
-        [
-          "2026-09-11T17:17:08Z",
-          11
-        ],
-        [
-          "2026-09-11T17:31:51Z",
-          11
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -634,60 +476,7 @@
       "game": null,
       "peakViewers": 57,
       "avgViewers": 36,
-      "samples": [
-        [
-          "2026-09-11T14:23:05Z",
-          26
-        ],
-        [
-          "2026-09-11T14:41:24Z",
-          25
-        ],
-        [
-          "2026-09-11T14:57:45Z",
-          29
-        ],
-        [
-          "2026-09-11T15:16:19Z",
-          41
-        ],
-        [
-          "2026-09-11T15:32:24Z",
-          33
-        ],
-        [
-          "2026-09-11T15:48:40Z",
-          38
-        ],
-        [
-          "2026-09-11T15:59:46Z",
-          40
-        ],
-        [
-          "2026-09-11T16:19:44Z",
-          57
-        ],
-        [
-          "2026-09-11T16:35:19Z",
-          35
-        ],
-        [
-          "2026-09-11T16:48:58Z",
-          37
-        ],
-        [
-          "2026-09-11T16:59:25Z",
-          27
-        ],
-        [
-          "2026-09-11T17:17:08Z",
-          47
-        ],
-        [
-          "2026-09-11T17:31:51Z",
-          38
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -704,68 +493,7 @@
       "game": null,
       "peakViewers": 78,
       "avgViewers": 71.7,
-      "samples": [
-        [
-          "2026-09-11T14:23:05Z",
-          55
-        ],
-        [
-          "2026-09-11T14:41:24Z",
-          72
-        ],
-        [
-          "2026-09-11T14:57:45Z",
-          77
-        ],
-        [
-          "2026-09-11T15:16:19Z",
-          60
-        ],
-        [
-          "2026-09-11T15:32:24Z",
-          77
-        ],
-        [
-          "2026-09-11T15:48:40Z",
-          78
-        ],
-        [
-          "2026-09-11T15:59:46Z",
-          76
-        ],
-        [
-          "2026-09-11T16:19:44Z",
-          66
-        ],
-        [
-          "2026-09-11T16:35:19Z",
-          76
-        ],
-        [
-          "2026-09-11T16:48:58Z",
-          77
-        ],
-        [
-          "2026-09-11T16:59:25Z",
-          70
-        ],
-        [
-          "2026-09-11T17:17:08Z",
-          73
-        ],
-        [
-          "2026-09-11T17:31:51Z",
-          78
-        ],
-        [
-          "2026-09-11T17:46:15Z",
-          75
-        ],
-        [
-          "2026-09-11T17:56:53Z",
-          72
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -38458,6 +38186,102 @@
         [
           "2026-10-26T11:14:19Z",
           10
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "dwhP45KfKxY",
+      "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
+      "start": "2026-10-26T11:14:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 632.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 124,
+      "avgViewers": 116.0,
+      "samples": [
+        [
+          "2026-10-26T11:14:19Z",
+          108
+        ],
+        [
+          "2026-10-26T17:26:19Z",
+          124
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "jNIB520uPn8",
+      "videoUrl": "https://www.youtube.com/watch?v=jNIB520uPn8",
+      "start": "2026-10-26T11:14:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 632.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 30,
+      "avgViewers": 28.0,
+      "samples": [
+        [
+          "2026-10-26T11:14:19Z",
+          30
+        ],
+        [
+          "2026-10-26T17:26:19Z",
+          26
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "hF-zq_8wV8s",
+      "videoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s",
+      "start": "2026-10-26T17:26:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 260.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
+      "game": null,
+      "peakViewers": 36,
+      "avgViewers": 36.0,
+      "samples": [
+        [
+          "2026-10-26T17:26:19Z",
+          36
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "GS5dXMtzGDI",
+      "videoUrl": "https://www.youtube.com/watch?v=GS5dXMtzGDI",
+      "start": "2026-10-26T17:26:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 260.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 13,
+      "avgViewers": 13.0,
+      "samples": [
+        [
+          "2026-10-26T17:26:19Z",
+          13
         ]
       ],
       "isTargetGame": false

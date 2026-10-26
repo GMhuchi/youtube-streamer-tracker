@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:26:19Z",
+  "updatedAt": "2026-10-26T21:46:45Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 585.3,
+      "totalMinutes": 1627.0,
       "gameMinutes": 0.0,
-      "totalHours": 9.75,
+      "totalHours": 27.12,
       "gameHours": 0.0,
       "sessions": 6,
       "avgViewers": 48.2,
       "peakViewers": 124
     },
     "week": {
-      "totalMinutes": 3185.5,
+      "totalMinutes": 4227.2,
       "gameMinutes": 0.0,
-      "totalHours": 53.09,
+      "totalHours": 70.45,
       "gameHours": 0.0,
       "sessions": 15,
-      "avgViewers": 73.6,
+      "avgViewers": 67.2,
       "peakViewers": 422
     },
     "month": {
-      "totalMinutes": 77135.2,
+      "totalMinutes": 78176.9,
       "gameMinutes": 267.6,
-      "totalHours": 1285.59,
+      "totalHours": 1302.95,
       "gameHours": 4.46,
       "sessions": 312,
-      "avgViewers": 131.6,
+      "avgViewers": 130.5,
       "peakViewers": 997
     }
   },
@@ -49,41 +49,67 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-10-26T11:14:19Z",
-      "liveTitle": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-10-25T16:37:00Z",
-      "lastTitle": "〖 メン限 〗 まったりハートピアするよ～！ 〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-26T21:46:45Z",
+      "lastTitle": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 146.3,
+          "totalMinutes": 406.8,
           "gameMinutes": 0.0,
-          "totalHours": 2.44,
+          "totalHours": 6.78,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 116.0,
           "peakViewers": 124
         },
         "week": {
-          "totalMinutes": 469.0,
+          "totalMinutes": 729.4,
           "gameMinutes": 0.0,
-          "totalHours": 7.82,
+          "totalHours": 12.16,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 116.0,
           "peakViewers": 124
         },
         "month": {
-          "totalMinutes": 7097.7,
+          "totalMinutes": 7358.1,
           "gameMinutes": 0.0,
-          "totalHours": 118.29,
+          "totalHours": 122.63,
           "gameHours": 0.0,
           "sessions": 22,
-          "avgViewers": 243.0,
+          "avgViewers": 238.0,
           "peakViewers": 526
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dwhP45KfKxY",
+          "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
+          "start": "2026-10-26T11:14:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 632.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 124,
+          "avgViewers": 116.0,
+          "samples": [
+            [
+              "2026-10-26T11:14:19Z",
+              108
+            ],
+            [
+              "2026-10-26T17:26:19Z",
+              124
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -137,16 +163,7 @@
           "game": null,
           "peakViewers": 172,
           "avgViewers": 134.0,
-          "samples": [
-            [
-              "2026-10-21T07:31:46Z",
-              172
-            ],
-            [
-              "2026-10-21T13:12:35Z",
-              96
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -216,651 +233,8 @@
           "avgViewers": 260.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "-EOYOgZhSpM",
-          "videoUrl": "https://www.youtube.com/watch?v=-EOYOgZhSpM",
-          "start": "2026-10-14T23:52:25Z",
-          "end": "2026-10-15T03:29:39Z",
-          "minutes": 217.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 てともに╎#9 〗 前回できなかった枠でみんなにおはよする☀ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 392,
-          "avgViewers": 392.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 124,
-      "livePeakViewers": 124,
-      "liveAvgViewers": 116.0,
-      "liveSamples": [
-        [
-          "2026-10-26T11:14:19Z",
-          108
-        ],
-        [
-          "2026-10-26T17:26:19Z",
-          124
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY"
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": true,
-      "liveSince": "2026-10-26T17:26:19Z",
-      "liveTitle": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "lastEnd": "2026-10-26T05:12:10Z",
-      "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 13.0,
-          "peakViewers": 13
-        },
-        "week": {
-          "totalMinutes": 282.8,
-          "gameMinutes": 0.0,
-          "totalHours": 4.71,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 23.0,
-          "peakViewers": 23
-        },
-        "month": {
-          "totalMinutes": 4812.0,
-          "gameMinutes": 0.0,
-          "totalHours": 80.2,
-          "gameHours": 0.0,
-          "sessions": 24,
-          "avgViewers": 16.9,
-          "peakViewers": 30
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "c5jkx76SK6c",
-          "videoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c",
-          "start": "2026-10-26T00:29:20Z",
-          "end": "2026-10-26T05:12:10Z",
-          "minutes": 282.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [
-            [
-              "2026-10-26T00:29:20Z",
-              23
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "9qjrJyzvFkk",
-          "videoUrl": "https://www.youtube.com/watch?v=9qjrJyzvFkk",
-          "start": "2026-10-24T17:13:57Z",
-          "end": "2026-10-24T19:33:18Z",
-          "minutes": 139.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [
-            [
-              "2026-10-24T17:13:57Z",
-              8
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "6muZomJFQuk",
-          "videoUrl": "https://www.youtube.com/watch?v=6muZomJFQuk",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【BigWalk】みんなで協力？いいえ散歩です【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              13
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "IxRV2hy_hkI",
-          "videoUrl": "https://www.youtube.com/watch?v=IxRV2hy_hkI",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-24T01:02:35Z",
-          "minutes": 575.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #戯れ処 #OnceHuman 】Day1 初めてやるOnceHuman！禁断の島なんて罪な匂いがしますね【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 20,
-          "avgViewers": 14.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "Lx06HckAsNo",
-          "videoUrl": "https://www.youtube.com/watch?v=Lx06HckAsNo",
-          "start": "2026-10-20T23:39:11Z",
-          "end": "2026-10-21T02:02:45Z",
-          "minutes": 143.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 22.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "0WTtF2TaJrw",
-          "videoUrl": "https://www.youtube.com/watch?v=0WTtF2TaJrw",
-          "start": "2026-10-20T12:05:52Z",
-          "end": "2026-10-20T15:55:07Z",
-          "minutes": 229.2,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【飲酒雑談】酒飲みつつ、話題の浮気判定シートやってみよう🍶【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "bD5HivIq6Nw",
-          "videoUrl": "https://www.youtube.com/watch?v=bD5HivIq6Nw",
-          "start": "2026-10-18T23:33:42Z",
-          "end": "2026-10-19T01:38:22Z",
-          "minutes": 124.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 17.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "XU70BA97134",
-          "videoUrl": "https://www.youtube.com/watch?v=XU70BA97134",
-          "start": "2026-10-17T15:58:59Z",
-          "end": "2026-10-17T18:23:29Z",
-          "minutes": 144.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】深夜のチル歌枠💤 疲れたそんな時にほっと一息1曲聞いていきませんか？【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 19,
-          "avgViewers": 19.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 13,
-      "livePeakViewers": 13,
-      "liveAvgViewers": 13.0,
-      "liveSamples": [
-        [
-          "2026-10-26T17:26:19Z",
-          13
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=GS5dXMtzGDI"
-    },
-    {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
-      "isLive": true,
-      "liveSince": "2026-10-26T11:14:19Z",
-      "liveTitle": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
-      "lastEnd": "2026-10-25T17:26:13Z",
-      "lastTitle": "【歌枠】歌って無限の伸びしろがありましてー【日裏クロ / ネオポルテ】#shorts",
-      "buckets": {
-        "today": {
-          "totalMinutes": 146.3,
-          "gameMinutes": 0.0,
-          "totalHours": 2.44,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 28.0,
-          "peakViewers": 30
-        },
-        "week": {
-          "totalMinutes": 518.2,
-          "gameMinutes": 0.0,
-          "totalHours": 8.64,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 46.3,
-          "peakViewers": 93
-        },
-        "month": {
-          "totalMinutes": 4735.8,
-          "gameMinutes": 0.0,
-          "totalHours": 78.93,
-          "gameHours": 0.0,
-          "sessions": 20,
-          "avgViewers": 51.0,
-          "peakViewers": 145
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "zRxsJQrgjJg",
-          "videoUrl": "https://www.youtube.com/watch?v=zRxsJQrgjJg",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T17:26:13Z",
-          "minutes": 215.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】歌って無限の伸びしろがありましてー【日裏クロ / ネオポルテ】#shorts",
-          "game": null,
-          "peakViewers": 93,
-          "avgViewers": 93.0,
-          "samples": [
-            [
-              "2026-10-25T13:50:31Z",
-              93
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "3pbOKzBQpVI",
-          "videoUrl": "https://www.youtube.com/watch?v=3pbOKzBQpVI",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-23T19:28:55Z",
-          "minutes": 242.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】最近なんかよくお腹が空きます【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 37,
-          "avgViewers": 37.0,
-          "samples": [
-            [
-              "2026-10-23T15:26:47Z",
-              37
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "tveH0p8El4M",
-          "videoUrl": "https://www.youtube.com/watch?v=tveH0p8El4M",
-          "start": "2026-10-22T15:13:02Z",
-          "end": "2026-10-22T22:27:52Z",
-          "minutes": 434.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【プラネットズー2】理想の動物園作りますよと【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 57,
-          "avgViewers": 47.0,
-          "samples": [
-            [
-              "2026-10-22T15:13:02Z",
-              37
-            ],
-            [
-              "2026-10-22T19:16:08Z",
-              57
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "T7Ped841JEI",
-          "videoUrl": "https://www.youtube.com/watch?v=T7Ped841JEI",
-          "start": "2026-10-20T12:51:55Z",
-          "end": "2026-10-20T17:48:01Z",
-          "minutes": 296.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【BOMBANANA!】男三人で爆弾解除する！！【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 76,
-          "avgViewers": 76.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "NcaK1vQkQG4",
-          "videoUrl": "https://www.youtube.com/watch?v=NcaK1vQkQG4",
-          "start": "2026-10-19T14:01:03Z",
-          "end": "2026-10-19T15:53:52Z",
-          "minutes": 112.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】今日もお疲れ様でしたメン限【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "XHgT4e90Bos",
-          "videoUrl": "https://www.youtube.com/watch?v=XHgT4e90Bos",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T20:49:26Z",
-          "minutes": 485.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほの暮しの庭】村が隠してる闇とは? #5【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 49,
-          "avgViewers": 38.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "Ibo1AOeaen0",
-          "videoUrl": "https://www.youtube.com/watch?v=Ibo1AOeaen0",
-          "start": "2026-10-15T13:40:53Z",
-          "end": "2026-10-15T17:54:42Z",
-          "minutes": 253.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【LTK】LTK DAY1 ウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "_2HG_OcyzDQ",
-          "videoUrl": "https://www.youtube.com/watch?v=_2HG_OcyzDQ",
-          "start": "2026-10-13T23:02:42Z",
-          "end": "2026-10-14T01:51:09Z",
-          "minutes": 168.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【OW2】早朝熱血OW部Withロウ【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 65,
-          "avgViewers": 65.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 26,
-      "livePeakViewers": 30,
-      "liveAvgViewers": 28.0,
-      "liveSamples": [
-        [
-          "2026-10-26T11:14:19Z",
-          30
-        ],
-        [
-          "2026-10-26T17:26:19Z",
-          26
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=jNIB520uPn8"
-    },
-    {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "isLive": true,
-      "liveSince": "2026-10-26T17:26:19Z",
-      "liveTitle": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
-      "lastEnd": "2026-10-25T13:50:31Z",
-      "lastTitle": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 36.0,
-          "peakViewers": 36
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 36.0,
-          "peakViewers": 36
-        },
-        "month": {
-          "totalMinutes": 3234.3,
-          "gameMinutes": 0.0,
-          "totalHours": 53.9,
-          "gameHours": 0.0,
-          "sessions": 13,
-          "avgViewers": 42.5,
-          "peakViewers": 106
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "b306RfiWFgQ",
-          "videoUrl": "https://www.youtube.com/watch?v=b306RfiWFgQ",
-          "start": "2026-10-25T09:23:12Z",
-          "end": "2026-10-25T13:50:31Z",
-          "minutes": 267.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 47,
-          "avgViewers": 47.0,
-          "samples": [
-            [
-              "2026-10-25T09:23:12Z",
-              47
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "l-fD8smPjN8",
-          "videoUrl": "https://www.youtube.com/watch?v=l-fD8smPjN8",
-          "start": "2026-10-19T14:05:23Z",
-          "end": "2026-10-19T19:52:04Z",
-          "minutes": 346.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#13〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛女装して事件解決できるのは私だけなんだよぉ！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 43,
-          "avgViewers": 43.0,
-          "samples": [
-            [
-              "2026-10-19T14:05:23Z",
-              43
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "sU3vtwOGZBI",
-          "videoUrl": "https://www.youtube.com/watch?v=sU3vtwOGZBI",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T16:46:57Z",
-          "minutes": 198.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#12〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛バード神獣を撃破していくぅ！！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 39,
-          "avgViewers": 39.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "_zn-X4-3Em8",
-          "videoUrl": "https://www.youtube.com/watch?v=_zn-X4-3Em8",
-          "start": "2026-10-17T08:52:49Z",
-          "end": "2026-10-17T15:58:59Z",
-          "minutes": 426.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 ELDEN RING〛フロム初心者🔰が完全初見で地獄のDLCクリアを目指す！ラスボス？倒すぞ#7 (#17)〚 甘成じゅい/ゆにれいど！ 〛#eldenring",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 33.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "FqSR3pjlSys",
-          "videoUrl": "https://www.youtube.com/watch?v=FqSR3pjlSys",
-          "start": "2026-10-16T11:46:11Z",
-          "end": "2026-10-16T15:36:00Z",
-          "minutes": 229.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#11〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛姫に会う前に神獣ってやつに会わないとなんですよ姐さん〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 31,
-          "avgViewers": 31.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "A8-ovHK7TGM",
-          "videoUrl": "https://www.youtube.com/watch?v=A8-ovHK7TGM",
-          "start": "2026-10-13T11:27:36Z",
-          "end": "2026-10-13T18:27:42Z",
-          "minutes": 420.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 妹に運転を教える〛低い声縛り！？妹ちゃんを兄の私が安全に案内すればいいんでしょ？〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 25,
-          "avgViewers": 25.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "kU7W0fLsupc",
-          "videoUrl": "https://www.youtube.com/watch?v=kU7W0fLsupc",
-          "start": "2026-10-07T09:48:37Z",
-          "end": "2026-10-07T12:32:59Z",
-          "minutes": 164.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚雑談 〛この世は食欲の秋に支配されているのだ！あ、普通の雑談です〚 甘成じゅい/ゆにれいど！ 〛#shorts",
-          "game": null,
-          "peakViewers": 46,
-          "avgViewers": 41.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "PrYfT_RtkZw",
-          "videoUrl": "https://www.youtube.com/watch?v=PrYfT_RtkZw",
-          "start": "2026-10-05T10:49:00Z",
-          "end": "2026-10-05T13:25:45Z",
-          "minutes": 156.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚雑談 〛初の歌みた皆きいてくれたかな？？〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 54,
-          "avgViewers": 42.9,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 36,
-      "livePeakViewers": 36,
-      "liveAvgViewers": 36.0,
-      "liveSamples": [
-        [
-          "2026-10-26T17:26:19Z",
-          36
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s"
+      ]
     },
     {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
@@ -1251,6 +625,396 @@
           "game": null,
           "peakViewers": 22,
           "avgViewers": 22.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-26T21:46:45Z",
+      "lastTitle": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 260.4,
+          "gameMinutes": 0.0,
+          "totalHours": 4.34,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 13.0,
+          "peakViewers": 13
+        },
+        "week": {
+          "totalMinutes": 543.3,
+          "gameMinutes": 0.0,
+          "totalHours": 9.05,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 18.2,
+          "peakViewers": 23
+        },
+        "month": {
+          "totalMinutes": 5072.4,
+          "gameMinutes": 0.0,
+          "totalHours": 84.54,
+          "gameHours": 0.0,
+          "sessions": 24,
+          "avgViewers": 16.7,
+          "peakViewers": 30
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "GS5dXMtzGDI",
+          "videoUrl": "https://www.youtube.com/watch?v=GS5dXMtzGDI",
+          "start": "2026-10-26T17:26:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 260.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [
+            [
+              "2026-10-26T17:26:19Z",
+              13
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "c5jkx76SK6c",
+          "videoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c",
+          "start": "2026-10-26T00:29:20Z",
+          "end": "2026-10-26T05:12:10Z",
+          "minutes": 282.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [
+            [
+              "2026-10-26T00:29:20Z",
+              23
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "9qjrJyzvFkk",
+          "videoUrl": "https://www.youtube.com/watch?v=9qjrJyzvFkk",
+          "start": "2026-10-24T17:13:57Z",
+          "end": "2026-10-24T19:33:18Z",
+          "minutes": 139.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [
+            [
+              "2026-10-24T17:13:57Z",
+              8
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "6muZomJFQuk",
+          "videoUrl": "https://www.youtube.com/watch?v=6muZomJFQuk",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【BigWalk】みんなで協力？いいえ散歩です【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "IxRV2hy_hkI",
+          "videoUrl": "https://www.youtube.com/watch?v=IxRV2hy_hkI",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-24T01:02:35Z",
+          "minutes": 575.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day1 初めてやるOnceHuman！禁断の島なんて罪な匂いがしますね【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 20,
+          "avgViewers": 14.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "Lx06HckAsNo",
+          "videoUrl": "https://www.youtube.com/watch?v=Lx06HckAsNo",
+          "start": "2026-10-20T23:39:11Z",
+          "end": "2026-10-21T02:02:45Z",
+          "minutes": 143.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 22.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "0WTtF2TaJrw",
+          "videoUrl": "https://www.youtube.com/watch?v=0WTtF2TaJrw",
+          "start": "2026-10-20T12:05:52Z",
+          "end": "2026-10-20T15:55:07Z",
+          "minutes": 229.2,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【飲酒雑談】酒飲みつつ、話題の浮気判定シートやってみよう🍶【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "bD5HivIq6Nw",
+          "videoUrl": "https://www.youtube.com/watch?v=bD5HivIq6Nw",
+          "start": "2026-10-18T23:33:42Z",
+          "end": "2026-10-19T01:38:22Z",
+          "minutes": 124.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 17.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-26T21:46:45Z",
+      "lastTitle": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 406.8,
+          "gameMinutes": 0.0,
+          "totalHours": 6.78,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 28.0,
+          "peakViewers": 30
+        },
+        "week": {
+          "totalMinutes": 778.6,
+          "gameMinutes": 0.0,
+          "totalHours": 12.98,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 40.2,
+          "peakViewers": 93
+        },
+        "month": {
+          "totalMinutes": 4996.3,
+          "gameMinutes": 0.0,
+          "totalHours": 83.27,
+          "gameHours": 0.0,
+          "sessions": 20,
+          "avgViewers": 49.7,
+          "peakViewers": 145
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "jNIB520uPn8",
+          "videoUrl": "https://www.youtube.com/watch?v=jNIB520uPn8",
+          "start": "2026-10-26T11:14:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 632.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 30,
+          "avgViewers": 28.0,
+          "samples": [
+            [
+              "2026-10-26T11:14:19Z",
+              30
+            ],
+            [
+              "2026-10-26T17:26:19Z",
+              26
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "zRxsJQrgjJg",
+          "videoUrl": "https://www.youtube.com/watch?v=zRxsJQrgjJg",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T17:26:13Z",
+          "minutes": 215.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】歌って無限の伸びしろがありましてー【日裏クロ / ネオポルテ】#shorts",
+          "game": null,
+          "peakViewers": 93,
+          "avgViewers": 93.0,
+          "samples": [
+            [
+              "2026-10-25T13:50:31Z",
+              93
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "3pbOKzBQpVI",
+          "videoUrl": "https://www.youtube.com/watch?v=3pbOKzBQpVI",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-23T19:28:55Z",
+          "minutes": 242.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】最近なんかよくお腹が空きます【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 37,
+          "avgViewers": 37.0,
+          "samples": [
+            [
+              "2026-10-23T15:26:47Z",
+              37
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "tveH0p8El4M",
+          "videoUrl": "https://www.youtube.com/watch?v=tveH0p8El4M",
+          "start": "2026-10-22T15:13:02Z",
+          "end": "2026-10-22T22:27:52Z",
+          "minutes": 434.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【プラネットズー2】理想の動物園作りますよと【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 57,
+          "avgViewers": 47.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "T7Ped841JEI",
+          "videoUrl": "https://www.youtube.com/watch?v=T7Ped841JEI",
+          "start": "2026-10-20T12:51:55Z",
+          "end": "2026-10-20T17:48:01Z",
+          "minutes": 296.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【BOMBANANA!】男三人で爆弾解除する！！【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 76,
+          "avgViewers": 76.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "NcaK1vQkQG4",
+          "videoUrl": "https://www.youtube.com/watch?v=NcaK1vQkQG4",
+          "start": "2026-10-19T14:01:03Z",
+          "end": "2026-10-19T15:53:52Z",
+          "minutes": 112.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】今日もお疲れ様でしたメン限【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "XHgT4e90Bos",
+          "videoUrl": "https://www.youtube.com/watch?v=XHgT4e90Bos",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T20:49:26Z",
+          "minutes": 485.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほの暮しの庭】村が隠してる闇とは? #5【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 49,
+          "avgViewers": 38.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "Ibo1AOeaen0",
+          "videoUrl": "https://www.youtube.com/watch?v=Ibo1AOeaen0",
+          "start": "2026-10-15T13:40:53Z",
+          "end": "2026-10-15T17:54:42Z",
+          "minutes": 253.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【LTK】LTK DAY1 ウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -2388,6 +2152,194 @@
           "game": null,
           "peakViewers": 57,
           "avgViewers": 57.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-10-26T21:46:45Z",
+      "lastTitle": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
+      "buckets": {
+        "today": {
+          "totalMinutes": 260.4,
+          "gameMinutes": 0.0,
+          "totalHours": 4.34,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 36.0,
+          "peakViewers": 36
+        },
+        "week": {
+          "totalMinutes": 260.4,
+          "gameMinutes": 0.0,
+          "totalHours": 4.34,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 36.0,
+          "peakViewers": 36
+        },
+        "month": {
+          "totalMinutes": 3494.7,
+          "gameMinutes": 0.0,
+          "totalHours": 58.24,
+          "gameHours": 0.0,
+          "sessions": 13,
+          "avgViewers": 42.1,
+          "peakViewers": 106
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "hF-zq_8wV8s",
+          "videoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s",
+          "start": "2026-10-26T17:26:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 260.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
+          "game": null,
+          "peakViewers": 36,
+          "avgViewers": 36.0,
+          "samples": [
+            [
+              "2026-10-26T17:26:19Z",
+              36
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "b306RfiWFgQ",
+          "videoUrl": "https://www.youtube.com/watch?v=b306RfiWFgQ",
+          "start": "2026-10-25T09:23:12Z",
+          "end": "2026-10-25T13:50:31Z",
+          "minutes": 267.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 47,
+          "avgViewers": 47.0,
+          "samples": [
+            [
+              "2026-10-25T09:23:12Z",
+              47
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "l-fD8smPjN8",
+          "videoUrl": "https://www.youtube.com/watch?v=l-fD8smPjN8",
+          "start": "2026-10-19T14:05:23Z",
+          "end": "2026-10-19T19:52:04Z",
+          "minutes": 346.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#13〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛女装して事件解決できるのは私だけなんだよぉ！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 43,
+          "avgViewers": 43.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "sU3vtwOGZBI",
+          "videoUrl": "https://www.youtube.com/watch?v=sU3vtwOGZBI",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T16:46:57Z",
+          "minutes": 198.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#12〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛バード神獣を撃破していくぅ！！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 39,
+          "avgViewers": 39.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "_zn-X4-3Em8",
+          "videoUrl": "https://www.youtube.com/watch?v=_zn-X4-3Em8",
+          "start": "2026-10-17T08:52:49Z",
+          "end": "2026-10-17T15:58:59Z",
+          "minutes": 426.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 ELDEN RING〛フロム初心者🔰が完全初見で地獄のDLCクリアを目指す！ラスボス？倒すぞ#7 (#17)〚 甘成じゅい/ゆにれいど！ 〛#eldenring",
+          "game": null,
+          "peakViewers": 48,
+          "avgViewers": 33.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "FqSR3pjlSys",
+          "videoUrl": "https://www.youtube.com/watch?v=FqSR3pjlSys",
+          "start": "2026-10-16T11:46:11Z",
+          "end": "2026-10-16T15:36:00Z",
+          "minutes": 229.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#11〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛姫に会う前に神獣ってやつに会わないとなんですよ姐さん〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 31,
+          "avgViewers": 31.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "A8-ovHK7TGM",
+          "videoUrl": "https://www.youtube.com/watch?v=A8-ovHK7TGM",
+          "start": "2026-10-13T11:27:36Z",
+          "end": "2026-10-13T18:27:42Z",
+          "minutes": 420.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 妹に運転を教える〛低い声縛り！？妹ちゃんを兄の私が安全に案内すればいいんでしょ？〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 25,
+          "avgViewers": 25.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "kU7W0fLsupc",
+          "videoUrl": "https://www.youtube.com/watch?v=kU7W0fLsupc",
+          "start": "2026-10-07T09:48:37Z",
+          "end": "2026-10-07T12:32:59Z",
+          "minutes": 164.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚雑談 〛この世は食欲の秋に支配されているのだ！あ、普通の雑談です〚 甘成じゅい/ゆにれいど！ 〛#shorts",
+          "game": null,
+          "peakViewers": 46,
+          "avgViewers": 41.5,
           "samples": [],
           "isTargetGame": false
         }
@@ -4072,6 +4024,38 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "hF-zq_8wV8s",
+      "videoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s",
+      "start": "2026-10-26T17:26:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 260.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
+      "game": null,
+      "peakViewers": 36,
+      "avgViewers": 36.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "GS5dXMtzGDI",
+      "videoUrl": "https://www.youtube.com/watch?v=GS5dXMtzGDI",
+      "start": "2026-10-26T17:26:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 260.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 13,
+      "avgViewers": 13.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
       "videoId": "244eYbt4uaw",
@@ -4101,6 +4085,38 @@
       "game": null,
       "peakViewers": 10,
       "avgViewers": 10.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "dwhP45KfKxY",
+      "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
+      "start": "2026-10-26T11:14:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 632.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 124,
+      "avgViewers": 116.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "jNIB520uPn8",
+      "videoUrl": "https://www.youtube.com/watch?v=jNIB520uPn8",
+      "start": "2026-10-26T11:14:19Z",
+      "end": "2026-10-26T21:46:45Z",
+      "minutes": 632.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 30,
+      "avgViewers": 28.0,
       "isTargetGame": false
     },
     {
@@ -4965,70 +4981,6 @@
       "game": null,
       "peakViewers": null,
       "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "44WI-EOGo9k",
-      "videoUrl": "https://www.youtube.com/watch?v=44WI-EOGo9k",
-      "start": "2026-10-20T07:24:49Z",
-      "end": "2026-10-20T12:51:55Z",
-      "minutes": 327.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【APEX】ソロランクでプラチナ行きたい (遠すぎる)【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 348,
-      "avgViewers": 348.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "dY25Wvvp-Rs",
-      "videoUrl": "https://www.youtube.com/watch?v=dY25Wvvp-Rs",
-      "start": "2026-10-20T07:24:49Z",
-      "end": "2026-10-20T12:51:55Z",
-      "minutes": 327.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "※ネタバレあり 憎き大人のパレス攻略をめざす！眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #20 #愁子",
-      "game": null,
-      "peakViewers": 72,
-      "avgViewers": 72.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "q-J5Ze1WSfk",
-      "videoUrl": "https://www.youtube.com/watch?v=q-J5Ze1WSfk",
-      "start": "2026-10-19T14:05:23Z",
-      "end": "2026-10-19T19:52:04Z",
-      "minutes": 346.7,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "〖 VALORANT 〗あやちゃんとﾃﾞｭｵｯ!!〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 320,
-      "avgViewers": 320.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "videoId": "l-fD8smPjN8",
-      "videoUrl": "https://www.youtube.com/watch?v=l-fD8smPjN8",
-      "start": "2026-10-19T14:05:23Z",
-      "end": "2026-10-19T19:52:04Z",
-      "minutes": 346.7,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "#13〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛女装して事件解決できるのは私だけなんだよぉ！〚 甘成じゅい/ゆにれいど！ 〛",
-      "game": null,
-      "peakViewers": 43,
-      "avgViewers": 43.0,
       "isTargetGame": false
     }
   ]
