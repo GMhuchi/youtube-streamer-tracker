@@ -1,27 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "c5jkx76SK6c",
-      "start": "2026-10-26T00:29:20Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 23,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-26T00:29:20Z",
-      "lastSeenAt": "2026-10-26T00:29:20Z",
-      "samples": [
-        [
-          "2026-10-26T00:29:20Z",
-          23
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -39297,6 +39277,28 @@
         [
           "2026-10-25T19:52:58Z",
           422
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "c5jkx76SK6c",
+      "videoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c",
+      "start": "2026-10-26T00:29:20Z",
+      "end": "2026-10-26T05:12:10Z",
+      "minutes": 282.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 23,
+      "avgViewers": 23.0,
+      "samples": [
+        [
+          "2026-10-26T00:29:20Z",
+          23
         ]
       ],
       "isTargetGame": false
