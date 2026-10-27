@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:54:01Z",
+  "updatedAt": "2026-10-27T06:00:59Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,25 +20,25 @@
       "gameMinutes": 0.0,
       "totalHours": 27.12,
       "gameHours": 0.0,
-      "sessions": 6,
-      "avgViewers": 48.2,
-      "peakViewers": 124
+      "sessions": 8,
+      "avgViewers": 48.3,
+      "peakViewers": 358
     },
     "week": {
-      "totalMinutes": 4227.2,
+      "totalMinutes": 4227.3,
       "gameMinutes": 0.0,
       "totalHours": 70.45,
       "gameHours": 0.0,
-      "sessions": 15,
+      "sessions": 17,
       "avgViewers": 67.2,
       "peakViewers": 422
     },
     "month": {
-      "totalMinutes": 78176.9,
+      "totalMinutes": 78177.0,
       "gameMinutes": 267.6,
       "totalHours": 1302.95,
       "gameHours": 4.46,
-      "sessions": 312,
+      "sessions": 314,
       "avgViewers": 130.5,
       "peakViewers": 997
     }
@@ -49,9 +49,9 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-10-27T06:00:59Z",
+      "liveTitle": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
       "lastEnd": "2026-10-26T21:46:45Z",
       "lastTitle": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
       "buckets": {
@@ -60,25 +60,25 @@
           "gameMinutes": 0.0,
           "totalHours": 6.78,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 116.0,
-          "peakViewers": 124
+          "peakViewers": 358
         },
         "week": {
           "totalMinutes": 729.4,
           "gameMinutes": 0.0,
           "totalHours": 12.16,
           "gameHours": 0.0,
-          "sessions": 2,
+          "sessions": 3,
           "avgViewers": 116.0,
-          "peakViewers": 124
+          "peakViewers": 358
         },
         "month": {
           "totalMinutes": 7358.1,
           "gameMinutes": 0.0,
           "totalHours": 122.63,
           "gameHours": 0.0,
-          "sessions": 22,
+          "sessions": 23,
           "avgViewers": 238.0,
           "peakViewers": 526
         }
@@ -234,7 +234,220 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 358,
+      "livePeakViewers": 358,
+      "liveAvgViewers": 358.0,
+      "liveSamples": [
+        [
+          "2026-10-27T06:00:59Z",
+          358
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=r9laKvK_FFo"
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-10-27T06:00:59Z",
+      "liveTitle": "【トルネコの大冒険】#3　トルネコとか大得意ジャンルだしやる🔥5回死んだらやめる☠　　#恋沼ミヤ",
+      "lastEnd": "2026-10-25T17:26:13Z",
+      "lastTitle": "【トルネコの大冒険】#2　トルネコとか大得意ジャンルだしやる🔥台パンとかしないし？　　#恋沼ミヤ",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 67.0,
+          "peakViewers": 67
+        },
+        "week": {
+          "totalMinutes": 146.2,
+          "gameMinutes": 0.0,
+          "totalHours": 2.44,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 51.0,
+          "peakViewers": 67
+        },
+        "month": {
+          "totalMinutes": 3368.5,
+          "gameMinutes": 0.0,
+          "totalHours": 56.14,
+          "gameHours": 0.0,
+          "sessions": 16,
+          "avgViewers": 43.8,
+          "peakViewers": 69
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "bvs8PbmzMSg",
+          "videoUrl": "https://www.youtube.com/watch?v=bvs8PbmzMSg",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T17:26:13Z",
+          "minutes": 215.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【トルネコの大冒険】#2　トルネコとか大得意ジャンルだしやる🔥台パンとかしないし？　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 51,
+          "avgViewers": 51.0,
+          "samples": [
+            [
+              "2026-10-25T13:50:31Z",
+              51
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "EzykmB334Jo",
+          "videoUrl": "https://www.youtube.com/watch?v=EzykmB334Jo",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【トルネコの大冒険】#1　トルネコとか大得意ジャンルだしやる🔥　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 59,
+          "avgViewers": 59.0,
+          "samples": [
+            [
+              "2026-10-24T13:51:12Z",
+              59
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "43kI8rtQTFM",
+          "videoUrl": "https://www.youtube.com/watch?v=43kI8rtQTFM",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-23T19:28:55Z",
+          "minutes": 242.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】宮城県の旅行から帰ってきたので、お話聞いて～🍷　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 58,
+          "avgViewers": 58.0,
+          "samples": [
+            [
+              "2026-10-23T15:26:47Z",
+              58
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "zSW6uGKyvvI",
+          "videoUrl": "https://www.youtube.com/watch?v=zSW6uGKyvvI",
+          "start": "2026-10-18T09:27:50Z",
+          "end": "2026-10-18T13:28:50Z",
+          "minutes": 241.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【亰都ザナドゥ -桜花幻舞-】#13　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "gU8XB9dileY",
+          "videoUrl": "https://www.youtube.com/watch?v=gU8XB9dileY",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T15:58:59Z",
+          "minutes": 195.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 47,
+          "avgViewers": 47.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Gj9T6mgvcyo",
+          "videoUrl": "https://www.youtube.com/watch?v=Gj9T6mgvcyo",
+          "start": "2026-10-14T23:52:25Z",
+          "end": "2026-10-15T03:29:39Z",
+          "minutes": 217.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 63,
+          "avgViewers": 63.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "YXBGD4ozGR0",
+          "videoUrl": "https://www.youtube.com/watch?v=YXBGD4ozGR0",
+          "start": "2026-10-08T13:30:47Z",
+          "end": "2026-10-08T15:47:03Z",
+          "minutes": 136.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 57,
+          "avgViewers": 48.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "I5LpOx_9tqE",
+          "videoUrl": "https://www.youtube.com/watch?v=I5LpOx_9tqE",
+          "start": "2026-10-07T14:47:58Z",
+          "end": "2026-10-07T17:36:55Z",
+          "minutes": 169.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 69,
+          "avgViewers": 59.9,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 67,
+      "livePeakViewers": 67,
+      "liveAvgViewers": 67.0,
+      "liveSamples": [
+        [
+          "2026-10-27T06:00:59Z",
+          67
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=A1WY3LJ59Xg"
     },
     {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
@@ -2340,199 +2553,6 @@
           "game": null,
           "peakViewers": 46,
           "avgViewers": 41.5,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-25T17:26:13Z",
-      "lastTitle": "【トルネコの大冒険】#2　トルネコとか大得意ジャンルだしやる🔥台パンとかしないし？　　#恋沼ミヤ",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 146.2,
-          "gameMinutes": 0.0,
-          "totalHours": 2.44,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 51.0,
-          "peakViewers": 51
-        },
-        "month": {
-          "totalMinutes": 3368.5,
-          "gameMinutes": 0.0,
-          "totalHours": 56.14,
-          "gameHours": 0.0,
-          "sessions": 15,
-          "avgViewers": 43.8,
-          "peakViewers": 69
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "bvs8PbmzMSg",
-          "videoUrl": "https://www.youtube.com/watch?v=bvs8PbmzMSg",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T17:26:13Z",
-          "minutes": 215.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【トルネコの大冒険】#2　トルネコとか大得意ジャンルだしやる🔥台パンとかしないし？　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 51,
-          "avgViewers": 51.0,
-          "samples": [
-            [
-              "2026-10-25T13:50:31Z",
-              51
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "EzykmB334Jo",
-          "videoUrl": "https://www.youtube.com/watch?v=EzykmB334Jo",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【トルネコの大冒険】#1　トルネコとか大得意ジャンルだしやる🔥　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 59,
-          "avgViewers": 59.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              59
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "43kI8rtQTFM",
-          "videoUrl": "https://www.youtube.com/watch?v=43kI8rtQTFM",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-23T19:28:55Z",
-          "minutes": 242.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】宮城県の旅行から帰ってきたので、お話聞いて～🍷　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 58,
-          "avgViewers": 58.0,
-          "samples": [
-            [
-              "2026-10-23T15:26:47Z",
-              58
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "zSW6uGKyvvI",
-          "videoUrl": "https://www.youtube.com/watch?v=zSW6uGKyvvI",
-          "start": "2026-10-18T09:27:50Z",
-          "end": "2026-10-18T13:28:50Z",
-          "minutes": 241.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【亰都ザナドゥ -桜花幻舞-】#13　完全初見　ストーリー気になるのでクリア耐久🔥　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "gU8XB9dileY",
-          "videoUrl": "https://www.youtube.com/watch?v=gU8XB9dileY",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T15:58:59Z",
-          "minutes": 195.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】お酒飲んでチルくお話するぞ～🍷2次会で1on1もあるぞ！ 　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 47,
-          "avgViewers": 47.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Gj9T6mgvcyo",
-          "videoUrl": "https://www.youtube.com/watch?v=Gj9T6mgvcyo",
-          "start": "2026-10-14T23:52:25Z",
-          "end": "2026-10-15T03:29:39Z",
-          "minutes": 217.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】今日も一日頑張れの朝活する　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 63,
-          "avgViewers": 63.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "YXBGD4ozGR0",
-          "videoUrl": "https://www.youtube.com/watch?v=YXBGD4ozGR0",
-          "start": "2026-10-08T13:30:47Z",
-          "end": "2026-10-08T15:47:03Z",
-          "minutes": 136.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 57,
-          "avgViewers": 48.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "I5LpOx_9tqE",
-          "videoUrl": "https://www.youtube.com/watch?v=I5LpOx_9tqE",
-          "start": "2026-10-07T14:47:58Z",
-          "end": "2026-10-07T17:36:55Z",
-          "minutes": 169.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】みんなとまったりお話する時間だよ…🌙　#vtuber  　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 69,
-          "avgViewers": 59.9,
           "samples": [],
           "isTargetGame": false
         }
