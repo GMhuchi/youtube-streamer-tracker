@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T19:05:57Z",
+  "updatedAt": "2026-10-28T23:10:07Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,16 +20,16 @@
       "gameMinutes": 0.0,
       "totalHours": 28.69,
       "gameHours": 0.0,
-      "sessions": 7,
+      "sessions": 9,
       "avgViewers": 33.7,
-      "peakViewers": 72
+      "peakViewers": 207
     },
     "week": {
       "totalMinutes": 10407.7,
       "gameMinutes": 0.0,
       "totalHours": 173.46,
       "gameHours": 0.0,
-      "sessions": 35,
+      "sessions": 37,
       "avgViewers": 66.8,
       "peakViewers": 422
     },
@@ -38,12 +38,422 @@
       "gameMinutes": 267.6,
       "totalHours": 1405.96,
       "gameHours": 4.46,
-      "sessions": 332,
+      "sessions": 334,
       "avgViewers": 125.8,
       "peakViewers": 997
     }
   },
   "channels": [
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": true,
+      "liveSince": "2026-10-28T23:10:07Z",
+      "liveTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "lastEnd": "2026-10-28T19:05:57Z",
+      "lastTitle": "【ゼルダの伝説 時のオカリナ】#3  今日は炎の神殿から！水の神殿クリアまで行きたい！【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 246.0,
+          "gameMinutes": 0.0,
+          "totalHours": 4.1,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 7.0,
+          "peakViewers": 18
+        },
+        "week": {
+          "totalMinutes": 1058.4,
+          "gameMinutes": 0.0,
+          "totalHours": 17.64,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 15.6,
+          "peakViewers": 23
+        },
+        "month": {
+          "totalMinutes": 5587.6,
+          "gameMinutes": 0.0,
+          "totalHours": 93.13,
+          "gameHours": 0.0,
+          "sessions": 27,
+          "avgViewers": 16.3,
+          "peakViewers": 30
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "RF4VFT-_V14",
+          "videoUrl": "https://www.youtube.com/watch?v=RF4VFT-_V14",
+          "start": "2026-10-28T13:36:05Z",
+          "end": "2026-10-28T19:05:57Z",
+          "minutes": 329.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ゼルダの伝説 時のオカリナ】#3  今日は炎の神殿から！水の神殿クリアまで行きたい！【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 7,
+          "avgViewers": 7.0,
+          "samples": [
+            [
+              "2026-10-28T13:36:05Z",
+              7
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "XPrjprtT3IE",
+          "videoUrl": "https://www.youtube.com/watch?v=XPrjprtT3IE",
+          "start": "2026-10-27T21:55:34Z",
+          "end": "2026-10-28T01:00:51Z",
+          "minutes": 185.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [
+            [
+              "2026-10-27T21:55:34Z",
+              23
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "GS5dXMtzGDI",
+          "videoUrl": "https://www.youtube.com/watch?v=GS5dXMtzGDI",
+          "start": "2026-10-26T17:26:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 260.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [
+            [
+              "2026-10-26T17:26:19Z",
+              13
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "c5jkx76SK6c",
+          "videoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c",
+          "start": "2026-10-26T00:29:20Z",
+          "end": "2026-10-26T05:12:10Z",
+          "minutes": 282.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "9qjrJyzvFkk",
+          "videoUrl": "https://www.youtube.com/watch?v=9qjrJyzvFkk",
+          "start": "2026-10-24T17:13:57Z",
+          "end": "2026-10-24T19:33:18Z",
+          "minutes": 139.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "6muZomJFQuk",
+          "videoUrl": "https://www.youtube.com/watch?v=6muZomJFQuk",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【BigWalk】みんなで協力？いいえ散歩です【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "IxRV2hy_hkI",
+          "videoUrl": "https://www.youtube.com/watch?v=IxRV2hy_hkI",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-24T01:02:35Z",
+          "minutes": 575.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #戯れ処 #OnceHuman 】Day1 初めてやるOnceHuman！禁断の島なんて罪な匂いがしますね【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 20,
+          "avgViewers": 14.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "Lx06HckAsNo",
+          "videoUrl": "https://www.youtube.com/watch?v=Lx06HckAsNo",
+          "start": "2026-10-20T23:39:11Z",
+          "end": "2026-10-21T02:02:45Z",
+          "minutes": 143.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 22.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 18,
+      "livePeakViewers": 18,
+      "liveAvgViewers": 18.0,
+      "liveSamples": [
+        [
+          "2026-10-28T23:10:07Z",
+          18
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=qeHkwrqBYxk"
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
+      "isLive": true,
+      "liveSince": "2026-10-28T23:10:07Z",
+      "liveTitle": "おはよ？【甘音あむ / ネオポルテ】",
+      "lastEnd": "2026-10-25T22:19:51Z",
+      "lastTitle": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 207.0,
+          "peakViewers": 207
+        },
+        "week": {
+          "totalMinutes": 293.6,
+          "gameMinutes": 0.0,
+          "totalHours": 4.89,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 331.0,
+          "peakViewers": 422
+        },
+        "month": {
+          "totalMinutes": 3075.8,
+          "gameMinutes": 0.0,
+          "totalHours": 51.26,
+          "gameHours": 0.0,
+          "sessions": 16,
+          "avgViewers": 225.9,
+          "peakViewers": 422
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "NFR6OoBJP1k",
+          "videoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k",
+          "start": "2026-10-25T17:26:13Z",
+          "end": "2026-10-25T22:19:51Z",
+          "minutes": 293.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 422,
+          "avgViewers": 331.0,
+          "samples": [
+            [
+              "2026-10-25T17:26:13Z",
+              240
+            ],
+            [
+              "2026-10-25T19:52:58Z",
+              422
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "S2VNK9MqX9g",
+          "videoUrl": "https://www.youtube.com/watch?v=S2VNK9MqX9g",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 266,
+          "avgViewers": 266.0,
+          "samples": [
+            [
+              "2026-10-24T13:51:12Z",
+              266
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "kf6GWi2ZgPQ",
+          "videoUrl": "https://www.youtube.com/watch?v=kf6GWi2ZgPQ",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-23T19:28:55Z",
+          "minutes": 242.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "おててテスト【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 267,
+          "avgViewers": 267.0,
+          "samples": [
+            [
+              "2026-10-23T15:26:47Z",
+              267
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "44WI-EOGo9k",
+          "videoUrl": "https://www.youtube.com/watch?v=44WI-EOGo9k",
+          "start": "2026-10-20T07:24:49Z",
+          "end": "2026-10-20T12:51:55Z",
+          "minutes": 327.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【APEX】ソロランクでプラチナ行きたい (遠すぎる)【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 348,
+          "avgViewers": 348.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "nx5j2wPajSQ",
+          "videoUrl": "https://www.youtube.com/watch?v=nx5j2wPajSQ",
+          "start": "2026-10-18T09:27:50Z",
+          "end": "2026-10-18T13:28:50Z",
+          "minutes": 241.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】あむの歌、聴いてくれますか ❕【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 277,
+          "avgViewers": 277.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "D4hKr7hjZ7I",
+          "videoUrl": "https://www.youtube.com/watch?v=D4hKr7hjZ7I",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T15:58:59Z",
+          "minutes": 195.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【My Little Puppy】🐶パパ！迎えに行くよ！【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 89,
+          "avgViewers": 89.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "VcL_dIBRsTE",
+          "videoUrl": "https://www.youtube.com/watch?v=VcL_dIBRsTE",
+          "start": "2026-10-15T23:38:38Z",
+          "end": "2026-10-16T01:39:42Z",
+          "minutes": 121.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝枠】おはよーしないの？【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 261,
+          "avgViewers": 261.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "O5G5Kv7CTHs",
+          "videoUrl": "https://www.youtube.com/watch?v=O5G5Kv7CTHs",
+          "start": "2026-10-15T11:00:29Z",
+          "end": "2026-10-15T13:42:55Z",
+          "minutes": 162.4,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】ファンレター読みながら雑談【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 207,
+      "livePeakViewers": 207,
+      "liveAvgViewers": 207.0,
+      "liveSamples": [
+        [
+          "2026-10-28T23:10:07Z",
+          207
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=uOs-bfCZPpg"
+    },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -612,199 +1022,6 @@
           "game": null,
           "peakViewers": 50,
           "avgViewers": 50.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-28T19:05:57Z",
-      "lastTitle": "【ゼルダの伝説 時のオカリナ】#3  今日は炎の神殿から！水の神殿クリアまで行きたい！【埼凰リンネ / YUMENOS】 #新人vtuber",
-      "buckets": {
-        "today": {
-          "totalMinutes": 245.9,
-          "gameMinutes": 0.0,
-          "totalHours": 4.1,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 7.0,
-          "peakViewers": 7
-        },
-        "week": {
-          "totalMinutes": 1058.4,
-          "gameMinutes": 0.0,
-          "totalHours": 17.64,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 15.6,
-          "peakViewers": 23
-        },
-        "month": {
-          "totalMinutes": 5587.6,
-          "gameMinutes": 0.0,
-          "totalHours": 93.13,
-          "gameHours": 0.0,
-          "sessions": 26,
-          "avgViewers": 16.3,
-          "peakViewers": 30
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "RF4VFT-_V14",
-          "videoUrl": "https://www.youtube.com/watch?v=RF4VFT-_V14",
-          "start": "2026-10-28T13:36:05Z",
-          "end": "2026-10-28T19:05:57Z",
-          "minutes": 329.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ゼルダの伝説 時のオカリナ】#3  今日は炎の神殿から！水の神殿クリアまで行きたい！【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 7,
-          "avgViewers": 7.0,
-          "samples": [
-            [
-              "2026-10-28T13:36:05Z",
-              7
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "XPrjprtT3IE",
-          "videoUrl": "https://www.youtube.com/watch?v=XPrjprtT3IE",
-          "start": "2026-10-27T21:55:34Z",
-          "end": "2026-10-28T01:00:51Z",
-          "minutes": 185.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [
-            [
-              "2026-10-27T21:55:34Z",
-              23
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "GS5dXMtzGDI",
-          "videoUrl": "https://www.youtube.com/watch?v=GS5dXMtzGDI",
-          "start": "2026-10-26T17:26:19Z",
-          "end": "2026-10-26T21:46:45Z",
-          "minutes": 260.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #戯れ処 #OnceHuman 】Day3 拠点はできたからあとは戦うのみ！何なら最終日！【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [
-            [
-              "2026-10-26T17:26:19Z",
-              13
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "c5jkx76SK6c",
-          "videoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c",
-          "start": "2026-10-26T00:29:20Z",
-          "end": "2026-10-26T05:12:10Z",
-          "minutes": 282.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "9qjrJyzvFkk",
-          "videoUrl": "https://www.youtube.com/watch?v=9qjrJyzvFkk",
-          "start": "2026-10-24T17:13:57Z",
-          "end": "2026-10-24T19:33:18Z",
-          "minutes": 139.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #戯れ処 #OnceHuman 】Day2 強い武器、防具を求めて三千里【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "6muZomJFQuk",
-          "videoUrl": "https://www.youtube.com/watch?v=6muZomJFQuk",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【BigWalk】みんなで協力？いいえ散歩です【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "IxRV2hy_hkI",
-          "videoUrl": "https://www.youtube.com/watch?v=IxRV2hy_hkI",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-24T01:02:35Z",
-          "minutes": 575.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #戯れ処 #OnceHuman 】Day1 初めてやるOnceHuman！禁断の島なんて罪な匂いがしますね【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 20,
-          "avgViewers": 14.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "Lx06HckAsNo",
-          "videoUrl": "https://www.youtube.com/watch?v=Lx06HckAsNo",
-          "start": "2026-10-20T23:39:11Z",
-          "end": "2026-10-21T02:02:45Z",
-          "minutes": 143.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 22.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -2905,203 +3122,6 @@
           "game": null,
           "peakViewers": 90,
           "avgViewers": 69.5,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-25T22:19:51Z",
-      "lastTitle": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 293.6,
-          "gameMinutes": 0.0,
-          "totalHours": 4.89,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 331.0,
-          "peakViewers": 422
-        },
-        "month": {
-          "totalMinutes": 3075.8,
-          "gameMinutes": 0.0,
-          "totalHours": 51.26,
-          "gameHours": 0.0,
-          "sessions": 15,
-          "avgViewers": 225.9,
-          "peakViewers": 422
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "NFR6OoBJP1k",
-          "videoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k",
-          "start": "2026-10-25T17:26:13Z",
-          "end": "2026-10-25T22:19:51Z",
-          "minutes": 293.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 422,
-          "avgViewers": 331.0,
-          "samples": [
-            [
-              "2026-10-25T17:26:13Z",
-              240
-            ],
-            [
-              "2026-10-25T19:52:58Z",
-              422
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "S2VNK9MqX9g",
-          "videoUrl": "https://www.youtube.com/watch?v=S2VNK9MqX9g",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 266,
-          "avgViewers": 266.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              266
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "kf6GWi2ZgPQ",
-          "videoUrl": "https://www.youtube.com/watch?v=kf6GWi2ZgPQ",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-23T19:28:55Z",
-          "minutes": 242.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "おててテスト【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 267,
-          "avgViewers": 267.0,
-          "samples": [
-            [
-              "2026-10-23T15:26:47Z",
-              267
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "44WI-EOGo9k",
-          "videoUrl": "https://www.youtube.com/watch?v=44WI-EOGo9k",
-          "start": "2026-10-20T07:24:49Z",
-          "end": "2026-10-20T12:51:55Z",
-          "minutes": 327.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【APEX】ソロランクでプラチナ行きたい (遠すぎる)【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 348,
-          "avgViewers": 348.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "nx5j2wPajSQ",
-          "videoUrl": "https://www.youtube.com/watch?v=nx5j2wPajSQ",
-          "start": "2026-10-18T09:27:50Z",
-          "end": "2026-10-18T13:28:50Z",
-          "minutes": 241.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】あむの歌、聴いてくれますか ❕【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 277,
-          "avgViewers": 277.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "D4hKr7hjZ7I",
-          "videoUrl": "https://www.youtube.com/watch?v=D4hKr7hjZ7I",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T15:58:59Z",
-          "minutes": 195.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【My Little Puppy】🐶パパ！迎えに行くよ！【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 89,
-          "avgViewers": 89.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "VcL_dIBRsTE",
-          "videoUrl": "https://www.youtube.com/watch?v=VcL_dIBRsTE",
-          "start": "2026-10-15T23:38:38Z",
-          "end": "2026-10-16T01:39:42Z",
-          "minutes": 121.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝枠】おはよーしないの？【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 261,
-          "avgViewers": 261.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "O5G5Kv7CTHs",
-          "videoUrl": "https://www.youtube.com/watch?v=O5G5Kv7CTHs",
-          "start": "2026-10-15T11:00:29Z",
-          "end": "2026-10-15T13:42:55Z",
-          "minutes": 162.4,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】ファンレター読みながら雑談【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
           "samples": [],
           "isTargetGame": false
         }
