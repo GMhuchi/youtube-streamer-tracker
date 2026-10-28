@@ -1,7 +1,27 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCElYE3bfzjjmJ9xwjvro9Yw": {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "kirAq8i0ZM4",
+      "start": "2026-10-28T06:49:01Z",
+      "startSource": "observed",
+      "title": "【OW】熱血OW部Withロウ【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 55,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-28T06:49:01Z",
+      "lastSeenAt": "2026-10-28T06:49:01Z",
+      "samples": [
+        [
+          "2026-10-28T06:49:01Z",
+          55
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
