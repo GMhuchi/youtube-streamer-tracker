@@ -2,41 +2,79 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "R4Y151dupGE",
-      "start": "2026-10-29T08:49:01Z",
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "NcuiMlPrcAY",
+      "start": "2026-10-29T15:39:17Z",
       "startSource": "observed",
-      "title": "【OW】熱血OW部今日エメいくぞ！Withロウ【日裏クロ / ネオポルテ】",
+      "title": "【ほぐラジ #12】みんなの『クリエイティブ』を集めてみた！【望月ほぐの/ゆにれいど！】",
       "game": null,
-      "peakViewers": 71,
+      "peakViewers": 445,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-29T08:49:01Z",
-      "lastSeenAt": "2026-10-29T08:49:01Z",
+      "firstSeenAt": "2026-10-29T15:39:17Z",
+      "lastSeenAt": "2026-10-29T15:39:17Z",
       "samples": [
         [
-          "2026-10-29T08:49:01Z",
-          71
+          "2026-10-29T15:39:17Z",
+          445
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "kIx9Gn2GTNc",
+      "start": "2026-10-29T15:39:17Z",
+      "startSource": "observed",
+      "title": "俺はOWが大好きなんだよっ！【 OW 】【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 33,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-29T15:39:17Z",
+      "lastSeenAt": "2026-10-29T15:39:17Z",
+      "samples": [
+        [
+          "2026-10-29T15:39:17Z",
+          33
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "EFVF17hMFa0",
+      "start": "2026-10-29T15:39:17Z",
+      "startSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　ドキ！こういうのが恋なの！？　 ～Day28～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 107,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-10-29T15:39:17Z",
+      "lastSeenAt": "2026-10-29T15:39:17Z",
+      "samples": [
+        [
+          "2026-10-29T15:39:17Z",
+          107
         ]
       ]
     },
     "UCb8nGgTFAL6B5zOm060Ff3Q": {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
       "name": "愁子",
-      "videoId": "5SXsdDJNmXY",
-      "start": "2026-10-29T08:49:01Z",
+      "videoId": "TmMXUJy3Q28",
+      "start": "2026-10-29T15:39:17Z",
       "startSource": "observed",
-      "title": "雑談 | シーシャをスパスパしながらちるにお喋り #愁子",
+      "title": "ずっとこんな時間が続けばいいのに…Big Walk4回目🎵 #愁子 #にぃらい #もちひよこ #矢毒けろる",
       "game": null,
-      "peakViewers": 95,
+      "peakViewers": 29,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-29T08:49:01Z",
-      "lastSeenAt": "2026-10-29T08:49:01Z",
+      "firstSeenAt": "2026-10-29T15:39:17Z",
+      "lastSeenAt": "2026-10-29T15:39:17Z",
       "samples": [
         [
-          "2026-10-29T08:49:01Z",
-          95
+          "2026-10-29T15:39:17Z",
+          29
         ]
       ]
     }
@@ -1501,20 +1539,7 @@
       "game": null,
       "peakViewers": 353,
       "avgViewers": 225.2,
-      "samples": [
-        [
-          "2026-09-14T10:11:57Z",
-          67
-        ],
-        [
-          "2026-09-14T10:32:14Z",
-          266
-        ],
-        [
-          "2026-09-14T10:50:30Z",
-          353
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1531,20 +1556,7 @@
       "game": null,
       "peakViewers": 28,
       "avgViewers": 25.6,
-      "samples": [
-        [
-          "2026-09-14T10:11:57Z",
-          22
-        ],
-        [
-          "2026-09-14T10:32:14Z",
-          28
-        ],
-        [
-          "2026-09-14T10:50:30Z",
-          27
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1561,20 +1573,7 @@
       "game": null,
       "peakViewers": 26,
       "avgViewers": 19,
-      "samples": [
-        [
-          "2026-09-14T10:11:57Z",
-          6
-        ],
-        [
-          "2026-09-14T10:32:14Z",
-          26
-        ],
-        [
-          "2026-09-14T10:50:30Z",
-          26
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1591,20 +1590,7 @@
       "game": null,
       "peakViewers": 821,
       "avgViewers": 293.4,
-      "samples": [
-        [
-          "2026-09-14T10:11:57Z",
-          821
-        ],
-        [
-          "2026-09-14T10:32:14Z",
-          15
-        ],
-        [
-          "2026-09-14T10:50:30Z",
-          2
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -1621,12 +1607,7 @@
       "game": null,
       "peakViewers": 1,
       "avgViewers": 1,
-      "samples": [
-        [
-          "2026-09-14T10:50:30Z",
-          1
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1643,12 +1624,7 @@
       "game": null,
       "peakViewers": 8,
       "avgViewers": 8,
-      "samples": [
-        [
-          "2026-09-14T10:50:30Z",
-          8
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1665,12 +1641,7 @@
       "game": null,
       "peakViewers": 8,
       "avgViewers": 8,
-      "samples": [
-        [
-          "2026-09-14T10:50:30Z",
-          8
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1687,12 +1658,7 @@
       "game": null,
       "peakViewers": 5,
       "avgViewers": 5,
-      "samples": [
-        [
-          "2026-09-14T10:50:30Z",
-          5
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1709,28 +1675,7 @@
       "game": null,
       "peakViewers": 320,
       "avgViewers": 279.4,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          320
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          288
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          274
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          262
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          256
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1747,28 +1692,7 @@
       "game": null,
       "peakViewers": 8,
       "avgViewers": 6.3,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          5
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          6
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          8
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          6
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          6
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1785,28 +1709,7 @@
       "game": null,
       "peakViewers": 26,
       "avgViewers": 24.3,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          26
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          22
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          25
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          25
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          24
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1823,28 +1726,7 @@
       "game": null,
       "peakViewers": 10,
       "avgViewers": 8.2,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          9
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          8
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          10
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          7
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          7
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1861,28 +1743,7 @@
       "game": null,
       "peakViewers": 10,
       "avgViewers": 8.1,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          8
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          10
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          8
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          8
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          6
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1899,32 +1760,7 @@
       "game": null,
       "peakViewers": 35,
       "avgViewers": 29.4,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          35
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          24
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          33
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          32
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          28
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          26
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1941,32 +1777,7 @@
       "game": null,
       "peakViewers": 204,
       "avgViewers": 190.9,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          198
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          193
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          192
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          204
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          192
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          169
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -1983,32 +1794,7 @@
       "game": null,
       "peakViewers": 31,
       "avgViewers": 25.3,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          20
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          24
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          25
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          23
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          31
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          28
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -2025,32 +1811,7 @@
       "game": null,
       "peakViewers": 22,
       "avgViewers": 21,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          21
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          21
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          20
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          22
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          20
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          22
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -2067,32 +1828,7 @@
       "game": null,
       "peakViewers": 11,
       "avgViewers": 9,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          11
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          10
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          9
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          9
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          10
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          5
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -2109,36 +1845,7 @@
       "game": null,
       "peakViewers": 102,
       "avgViewers": 85.1,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          102
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          78
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          86
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          80
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          77
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          79
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          96
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -2155,36 +1862,7 @@
       "game": null,
       "peakViewers": 35,
       "avgViewers": 27.9,
-      "samples": [
-        [
-          "2026-09-14T11:32:47Z",
-          33
-        ],
-        [
-          "2026-09-14T11:50:44Z",
-          30
-        ],
-        [
-          "2026-09-14T12:15:45Z",
-          24
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          35
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          28
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          23
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          23
-        ]
-      ],
+      "samples": [],
       "isTargetGame": true
     },
     {
@@ -2397,32 +2075,7 @@
       "game": null,
       "peakViewers": 267,
       "avgViewers": 232,
-      "samples": [
-        [
-          "2026-09-14T12:15:45Z",
-          208
-        ],
-        [
-          "2026-09-14T12:39:13Z",
-          232
-        ],
-        [
-          "2026-09-14T12:57:47Z",
-          267
-        ],
-        [
-          "2026-09-14T13:19:25Z",
-          245
-        ],
-        [
-          "2026-09-14T13:36:19Z",
-          229
-        ],
-        [
-          "2026-09-14T13:52:01Z",
-          213
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -36326,6 +35979,50 @@
         [
           "2026-10-29T02:27:12Z",
           417
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "R4Y151dupGE",
+      "videoUrl": "https://www.youtube.com/watch?v=R4Y151dupGE",
+      "start": "2026-10-29T08:49:01Z",
+      "end": "2026-10-29T15:39:17Z",
+      "minutes": 410.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【OW】熱血OW部今日エメいくぞ！Withロウ【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 71,
+      "avgViewers": 71.0,
+      "samples": [
+        [
+          "2026-10-29T08:49:01Z",
+          71
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "5SXsdDJNmXY",
+      "videoUrl": "https://www.youtube.com/watch?v=5SXsdDJNmXY",
+      "start": "2026-10-29T08:49:01Z",
+      "end": "2026-10-29T15:39:17Z",
+      "minutes": 410.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "雑談 | シーシャをスパスパしながらちるにお喋り #愁子",
+      "game": null,
+      "peakViewers": 95,
+      "avgViewers": 95.0,
+      "samples": [
+        [
+          "2026-10-29T08:49:01Z",
+          95
         ]
       ],
       "isTargetGame": false
