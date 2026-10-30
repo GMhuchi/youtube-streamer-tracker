@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:36:58Z",
+  "updatedAt": "2026-10-30T00:21:24Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1269.3,
+      "totalMinutes": 1493.7,
       "gameMinutes": 0.0,
-      "totalHours": 21.16,
+      "totalHours": 24.9,
       "gameHours": 0.0,
-      "sessions": 7,
-      "avgViewers": 149.1,
+      "sessions": 8,
+      "avgViewers": 206.5,
       "peakViewers": 548
     },
     "week": {
-      "totalMinutes": 13194.9,
+      "totalMinutes": 13419.4,
       "gameMinutes": 0.0,
-      "totalHours": 219.92,
+      "totalHours": 223.66,
       "gameHours": 0.0,
-      "sessions": 44,
-      "avgViewers": 86.2,
+      "sessions": 45,
+      "avgViewers": 93.8,
       "peakViewers": 548
     },
     "month": {
-      "totalMinutes": 87144.6,
+      "totalMinutes": 87369.1,
       "gameMinutes": 267.6,
-      "totalHours": 1452.41,
+      "totalHours": 1456.15,
       "gameHours": 4.46,
-      "sessions": 341,
-      "avgViewers": 126.8,
+      "sessions": 342,
+      "avgViewers": 127.9,
       "peakViewers": 997
     }
   },
@@ -56,30 +56,30 @@
       "lastTitle": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 224.4,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 3.74,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 548.0,
+          "avgViewers": 531.0,
           "peakViewers": 548
         },
         "week": {
-          "totalMinutes": 1091.2,
+          "totalMinutes": 1315.7,
           "gameMinutes": 0.0,
-          "totalHours": 18.19,
+          "totalHours": 21.93,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 204.1,
+          "avgViewers": 264.3,
           "peakViewers": 548
         },
         "month": {
-          "totalMinutes": 7719.9,
+          "totalMinutes": 7944.3,
           "gameMinutes": 0.0,
-          "totalHours": 128.66,
+          "totalHours": 132.41,
           "gameHours": 0.0,
           "sessions": 24,
-          "avgViewers": 244.2,
+          "avgViewers": 253.0,
           "peakViewers": 548
         }
       },
@@ -235,16 +235,231 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 548,
+      "liveViewers": 514,
       "livePeakViewers": 548,
-      "liveAvgViewers": 548.0,
+      "liveAvgViewers": 531.0,
       "liveSamples": [
         [
           "2026-10-29T20:36:58Z",
           548
+        ],
+        [
+          "2026-10-30T00:21:24Z",
+          514
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=_iQiNakvRH0"
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
+      "isLive": true,
+      "liveSince": "2026-10-30T00:21:24Z",
+      "liveTitle": "【朝枠】おきたー？おはよするー？【甘音あむ / ネオポルテ】",
+      "lastEnd": "2026-10-29T08:49:01Z",
+      "lastTitle": "おはよ？【甘音あむ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 286.0,
+          "peakViewers": 286
+        },
+        "week": {
+          "totalMinutes": 872.5,
+          "gameMinutes": 0.0,
+          "totalHours": 14.54,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 318.4,
+          "peakViewers": 422
+        },
+        "month": {
+          "totalMinutes": 3654.7,
+          "gameMinutes": 0.0,
+          "totalHours": 60.91,
+          "gameHours": 0.0,
+          "sessions": 17,
+          "avgViewers": 240.2,
+          "peakViewers": 422
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "uOs-bfCZPpg",
+          "videoUrl": "https://www.youtube.com/watch?v=uOs-bfCZPpg",
+          "start": "2026-10-28T23:10:07Z",
+          "end": "2026-10-29T08:49:01Z",
+          "minutes": 578.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "おはよ？【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 417,
+          "avgViewers": 312.0,
+          "samples": [
+            [
+              "2026-10-28T23:10:07Z",
+              207
+            ],
+            [
+              "2026-10-29T02:27:12Z",
+              417
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "NFR6OoBJP1k",
+          "videoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k",
+          "start": "2026-10-25T17:26:13Z",
+          "end": "2026-10-25T22:19:51Z",
+          "minutes": 293.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 422,
+          "avgViewers": 331.0,
+          "samples": [
+            [
+              "2026-10-25T17:26:13Z",
+              240
+            ],
+            [
+              "2026-10-25T19:52:58Z",
+              422
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "S2VNK9MqX9g",
+          "videoUrl": "https://www.youtube.com/watch?v=S2VNK9MqX9g",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 266,
+          "avgViewers": 266.0,
+          "samples": [
+            [
+              "2026-10-24T13:51:12Z",
+              266
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "kf6GWi2ZgPQ",
+          "videoUrl": "https://www.youtube.com/watch?v=kf6GWi2ZgPQ",
+          "start": "2026-10-23T15:26:47Z",
+          "end": "2026-10-23T19:28:55Z",
+          "minutes": 242.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "おててテスト【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 267,
+          "avgViewers": 267.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "44WI-EOGo9k",
+          "videoUrl": "https://www.youtube.com/watch?v=44WI-EOGo9k",
+          "start": "2026-10-20T07:24:49Z",
+          "end": "2026-10-20T12:51:55Z",
+          "minutes": 327.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【APEX】ソロランクでプラチナ行きたい (遠すぎる)【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 348,
+          "avgViewers": 348.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "nx5j2wPajSQ",
+          "videoUrl": "https://www.youtube.com/watch?v=nx5j2wPajSQ",
+          "start": "2026-10-18T09:27:50Z",
+          "end": "2026-10-18T13:28:50Z",
+          "minutes": 241.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】あむの歌、聴いてくれますか ❕【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 277,
+          "avgViewers": 277.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "D4hKr7hjZ7I",
+          "videoUrl": "https://www.youtube.com/watch?v=D4hKr7hjZ7I",
+          "start": "2026-10-17T12:43:37Z",
+          "end": "2026-10-17T15:58:59Z",
+          "minutes": 195.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【My Little Puppy】🐶パパ！迎えに行くよ！【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 89,
+          "avgViewers": 89.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "VcL_dIBRsTE",
+          "videoUrl": "https://www.youtube.com/watch?v=VcL_dIBRsTE",
+          "start": "2026-10-15T23:38:38Z",
+          "end": "2026-10-16T01:39:42Z",
+          "minutes": 121.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝枠】おはよーしないの？【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 261,
+          "avgViewers": 261.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 286,
+      "livePeakViewers": 286,
+      "liveAvgViewers": 286.0,
+      "liveSamples": [
+        [
+          "2026-10-30T00:21:24Z",
+          286
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=tDQotJTejR0"
     },
     {
       "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
@@ -2356,207 +2571,6 @@
           "game": null,
           "peakViewers": 12,
           "avgViewers": 12.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-10-29T08:49:01Z",
-      "lastTitle": "おはよ？【甘音あむ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 872.5,
-          "gameMinutes": 0.0,
-          "totalHours": 14.54,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 318.4,
-          "peakViewers": 422
-        },
-        "month": {
-          "totalMinutes": 3654.7,
-          "gameMinutes": 0.0,
-          "totalHours": 60.91,
-          "gameHours": 0.0,
-          "sessions": 16,
-          "avgViewers": 240.2,
-          "peakViewers": 422
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "uOs-bfCZPpg",
-          "videoUrl": "https://www.youtube.com/watch?v=uOs-bfCZPpg",
-          "start": "2026-10-28T23:10:07Z",
-          "end": "2026-10-29T08:49:01Z",
-          "minutes": 578.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "おはよ？【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 417,
-          "avgViewers": 312.0,
-          "samples": [
-            [
-              "2026-10-28T23:10:07Z",
-              207
-            ],
-            [
-              "2026-10-29T02:27:12Z",
-              417
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "NFR6OoBJP1k",
-          "videoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k",
-          "start": "2026-10-25T17:26:13Z",
-          "end": "2026-10-25T22:19:51Z",
-          "minutes": 293.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 422,
-          "avgViewers": 331.0,
-          "samples": [
-            [
-              "2026-10-25T17:26:13Z",
-              240
-            ],
-            [
-              "2026-10-25T19:52:58Z",
-              422
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "S2VNK9MqX9g",
-          "videoUrl": "https://www.youtube.com/watch?v=S2VNK9MqX9g",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 266,
-          "avgViewers": 266.0,
-          "samples": [
-            [
-              "2026-10-24T13:51:12Z",
-              266
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "kf6GWi2ZgPQ",
-          "videoUrl": "https://www.youtube.com/watch?v=kf6GWi2ZgPQ",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-23T19:28:55Z",
-          "minutes": 242.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "おててテスト【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 267,
-          "avgViewers": 267.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "44WI-EOGo9k",
-          "videoUrl": "https://www.youtube.com/watch?v=44WI-EOGo9k",
-          "start": "2026-10-20T07:24:49Z",
-          "end": "2026-10-20T12:51:55Z",
-          "minutes": 327.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【APEX】ソロランクでプラチナ行きたい (遠すぎる)【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 348,
-          "avgViewers": 348.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "nx5j2wPajSQ",
-          "videoUrl": "https://www.youtube.com/watch?v=nx5j2wPajSQ",
-          "start": "2026-10-18T09:27:50Z",
-          "end": "2026-10-18T13:28:50Z",
-          "minutes": 241.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】あむの歌、聴いてくれますか ❕【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 277,
-          "avgViewers": 277.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "D4hKr7hjZ7I",
-          "videoUrl": "https://www.youtube.com/watch?v=D4hKr7hjZ7I",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T15:58:59Z",
-          "minutes": 195.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【My Little Puppy】🐶パパ！迎えに行くよ！【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 89,
-          "avgViewers": 89.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "VcL_dIBRsTE",
-          "videoUrl": "https://www.youtube.com/watch?v=VcL_dIBRsTE",
-          "start": "2026-10-15T23:38:38Z",
-          "end": "2026-10-16T01:39:42Z",
-          "minutes": 121.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝枠】おはよーしないの？【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 261,
-          "avgViewers": 261.0,
           "samples": [],
           "isTargetGame": false
         }
