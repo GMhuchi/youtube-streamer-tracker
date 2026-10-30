@@ -2,45 +2,41 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "_iQiNakvRH0",
-      "start": "2026-10-29T20:36:58Z",
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "lmkhF__z5TE",
+      "start": "2026-10-30T06:13:56Z",
       "startSource": "observed",
-      "title": "〖 ALGS Year 6 Split 2╎ウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 1全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "title": "※ネタバレあり 最終回！？○○を倒しに…。眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #22 #愁子",
       "game": null,
-      "peakViewers": 548,
+      "peakViewers": 130,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-29T20:36:58Z",
-      "lastSeenAt": "2026-10-30T00:21:24Z",
+      "firstSeenAt": "2026-10-30T06:13:56Z",
+      "lastSeenAt": "2026-10-30T06:13:56Z",
       "samples": [
         [
-          "2026-10-29T20:36:58Z",
-          548
-        ],
-        [
-          "2026-10-30T00:21:24Z",
-          514
+          "2026-10-30T06:13:56Z",
+          130
         ]
       ]
     },
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "tDQotJTejR0",
-      "start": "2026-10-30T00:21:24Z",
+    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "onVa_aNQRlg",
+      "start": "2026-10-30T06:13:56Z",
       "startSource": "observed",
-      "title": "【朝枠】おきたー？おはよするー？【甘音あむ / ネオポルテ】",
+      "title": "【雑談】最近寒いよな、わかる【水上蒼太/ゆにれいど！】",
       "game": null,
-      "peakViewers": 286,
+      "peakViewers": 36,
       "isTargetGame": false,
-      "firstSeenAt": "2026-10-30T00:21:24Z",
-      "lastSeenAt": "2026-10-30T00:21:24Z",
+      "firstSeenAt": "2026-10-30T06:13:56Z",
+      "lastSeenAt": "2026-10-30T06:13:56Z",
       "samples": [
         [
-          "2026-10-30T00:21:24Z",
-          286
+          "2026-10-30T06:13:56Z",
+          36
         ]
       ]
     }
@@ -1964,32 +1960,7 @@
       "game": null,
       "peakViewers": 34,
       "avgViewers": 26.3,
-      "samples": [
-        [
-          "2026-09-15T03:51:13Z",
-          22
-        ],
-        [
-          "2026-09-15T04:12:25Z",
-          28
-        ],
-        [
-          "2026-09-15T04:33:32Z",
-          34
-        ],
-        [
-          "2026-09-15T04:51:48Z",
-          30
-        ],
-        [
-          "2026-09-15T05:11:32Z",
-          27
-        ],
-        [
-          "2026-09-15T05:32:26Z",
-          18
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -35775,6 +35746,54 @@
         [
           "2026-10-29T15:39:17Z",
           29
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "_iQiNakvRH0",
+      "videoUrl": "https://www.youtube.com/watch?v=_iQiNakvRH0",
+      "start": "2026-10-29T20:36:58Z",
+      "end": "2026-10-30T06:13:56Z",
+      "minutes": 577.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ALGS Year 6 Split 2╎ウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 1全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 548,
+      "avgViewers": 531.0,
+      "samples": [
+        [
+          "2026-10-29T20:36:58Z",
+          548
+        ],
+        [
+          "2026-10-30T00:21:24Z",
+          514
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "tDQotJTejR0",
+      "videoUrl": "https://www.youtube.com/watch?v=tDQotJTejR0",
+      "start": "2026-10-30T00:21:24Z",
+      "end": "2026-10-30T06:13:56Z",
+      "minutes": 352.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝枠】おきたー？おはよするー？【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 286,
+      "avgViewers": 286.0,
+      "samples": [
+        [
+          "2026-10-30T00:21:24Z",
+          286
         ]
       ],
       "isTargetGame": false
