@@ -1,58 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "IMuBCUhcgEI",
-      "start": "2026-10-30T13:09:23Z",
-      "startSource": "observed",
-      "title": "【スーパーマリオギャラクシー2】宇 宙 制 覇 ２【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 86,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-30T13:09:23Z",
-      "lastSeenAt": "2026-10-30T22:38:55Z",
-      "samples": [
-        [
-          "2026-10-30T13:09:23Z",
-          65
-        ],
-        [
-          "2026-10-30T18:37:28Z",
-          53
-        ],
-        [
-          "2026-10-30T22:38:55Z",
-          86
-        ]
-      ]
-    },
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "PCD1BMzYXpk",
-      "start": "2026-10-30T18:37:28Z",
-      "startSource": "observed",
-      "title": "〖 ALGS Year 6 Split 2╎A vs C , B vs Cウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 2全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 883,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-10-30T18:37:28Z",
-      "lastSeenAt": "2026-10-30T22:38:55Z",
-      "samples": [
-        [
-          "2026-10-30T18:37:28Z",
-          883
-        ],
-        [
-          "2026-10-30T22:38:55Z",
-          721
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -2261,40 +2210,7 @@
       "game": null,
       "peakViewers": 26,
       "avgViewers": 21,
-      "samples": [
-        [
-          "2026-09-15T22:13:16Z",
-          18
-        ],
-        [
-          "2026-09-15T22:30:11Z",
-          20
-        ],
-        [
-          "2026-09-15T22:42:58Z",
-          19
-        ],
-        [
-          "2026-09-15T22:55:40Z",
-          20
-        ],
-        [
-          "2026-09-15T23:11:17Z",
-          26
-        ],
-        [
-          "2026-09-15T23:29:21Z",
-          20
-        ],
-        [
-          "2026-09-15T23:41:58Z",
-          23
-        ],
-        [
-          "2026-09-15T23:55:43Z",
-          21
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -35193,6 +35109,62 @@
         [
           "2026-10-30T13:09:23Z",
           51
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "IMuBCUhcgEI",
+      "videoUrl": "https://www.youtube.com/watch?v=IMuBCUhcgEI",
+      "start": "2026-10-30T13:09:23Z",
+      "end": "2026-10-31T01:48:52Z",
+      "minutes": 759.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【スーパーマリオギャラクシー2】宇 宙 制 覇 ２【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 86,
+      "avgViewers": 68.6,
+      "samples": [
+        [
+          "2026-10-30T13:09:23Z",
+          65
+        ],
+        [
+          "2026-10-30T18:37:28Z",
+          53
+        ],
+        [
+          "2026-10-30T22:38:55Z",
+          86
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "PCD1BMzYXpk",
+      "videoUrl": "https://www.youtube.com/watch?v=PCD1BMzYXpk",
+      "start": "2026-10-30T18:37:28Z",
+      "end": "2026-10-31T01:48:52Z",
+      "minutes": 431.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ALGS Year 6 Split 2╎A vs C , B vs Cウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 2全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 883,
+      "avgViewers": 802.0,
+      "samples": [
+        [
+          "2026-10-30T18:37:28Z",
+          883
+        ],
+        [
+          "2026-10-30T22:38:55Z",
+          721
         ]
       ],
       "isTargetGame": false
