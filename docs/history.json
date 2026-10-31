@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T18:14:17Z",
+  "updatedAt": "2026-10-31T21:43:20Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,31 +16,31 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1766.0,
+      "totalMinutes": 1975.1,
       "gameMinutes": 0.0,
-      "totalHours": 29.43,
+      "totalHours": 32.92,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 82.4,
-      "peakViewers": 648
+      "avgViewers": 164.3,
+      "peakViewers": 899
     },
     "week": {
-      "totalMinutes": 20961.2,
+      "totalMinutes": 21170.3,
       "gameMinutes": 0.0,
-      "totalHours": 349.35,
+      "totalHours": 352.84,
       "gameHours": 0.0,
       "sessions": 69,
-      "avgViewers": 112.4,
-      "peakViewers": 883
+      "avgViewers": 119.2,
+      "peakViewers": 899
     },
     "month": {
-      "totalMinutes": 1766.0,
+      "totalMinutes": 1975.1,
       "gameMinutes": 0.0,
-      "totalHours": 29.43,
+      "totalHours": 32.92,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 82.4,
-      "peakViewers": 648
+      "avgViewers": 164.3,
+      "peakViewers": 899
     }
   },
   "channels": [
@@ -56,31 +56,31 @@
       "lastTitle": "〖 メン限 〗 みんなと雀魂！！〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 194.3,
+          "totalMinutes": 403.3,
           "gameMinutes": 0.0,
-          "totalHours": 3.24,
+          "totalHours": 6.72,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 648.0,
-          "peakViewers": 648
+          "avgViewers": 773.5,
+          "peakViewers": 899
         },
         "week": {
-          "totalMinutes": 2365.9,
+          "totalMinutes": 2575.0,
           "gameMinutes": 0.0,
-          "totalHours": 39.43,
+          "totalHours": 42.92,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 427.1,
-          "peakViewers": 883
+          "avgViewers": 459.8,
+          "peakViewers": 899
         },
         "month": {
-          "totalMinutes": 194.3,
+          "totalMinutes": 403.3,
           "gameMinutes": 0.0,
-          "totalHours": 3.24,
+          "totalHours": 6.72,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 648.0,
-          "peakViewers": 648
+          "avgViewers": 773.5,
+          "peakViewers": 899
         }
       },
       "recentSessions": [
@@ -239,13 +239,17 @@
           "isTargetGame": false
         }
       ],
-      "liveViewers": 648,
-      "livePeakViewers": 648,
-      "liveAvgViewers": 648.0,
+      "liveViewers": 899,
+      "livePeakViewers": 899,
+      "liveAvgViewers": 773.5,
       "liveSamples": [
         [
           "2026-10-31T18:14:17Z",
           648
+        ],
+        [
+          "2026-10-31T21:43:20Z",
+          899
         ]
       ],
       "liveVideoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g"
