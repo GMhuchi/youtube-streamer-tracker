@@ -1,7 +1,65 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "puYOK_eT7JI",
+      "start": "2026-11-01T06:43:31Z",
+      "startSource": "observed",
+      "title": "うたいたいー！！！！！ #歌枠 【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 218,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-01T06:43:31Z",
+      "lastSeenAt": "2026-11-01T06:43:31Z",
+      "samples": [
+        [
+          "2026-11-01T06:43:31Z",
+          218
+        ]
+      ]
+    },
+    "UCo3zRhsnXIieauvm6c-xwkA": {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "Zsos_pl90nY",
+      "start": "2026-11-01T06:43:31Z",
+      "startSource": "observed",
+      "title": "【Forza Horizon6】リスナーさんに聞いた最高のフォトスポットを巡る！#51【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 75,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-01T06:43:31Z",
+      "lastSeenAt": "2026-11-01T06:43:31Z",
+      "samples": [
+        [
+          "2026-11-01T06:43:31Z",
+          75
+        ]
+      ]
+    },
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "xE1bypATkT0",
+      "start": "2026-11-01T06:43:31Z",
+      "startSource": "observed",
+      "title": "【競馬】GⅠ 天皇賞秋 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 13,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-01T06:43:31Z",
+      "lastSeenAt": "2026-11-01T06:43:31Z",
+      "samples": [
+        [
+          "2026-11-01T06:43:31Z",
+          13
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -2958,48 +3016,7 @@
       "game": null,
       "peakViewers": 328,
       "avgViewers": 288.7,
-      "samples": [
-        [
-          "2026-09-16T21:58:44Z",
-          230
-        ],
-        [
-          "2026-09-16T22:16:52Z",
-          301
-        ],
-        [
-          "2026-09-16T22:31:44Z",
-          288
-        ],
-        [
-          "2026-09-16T22:47:21Z",
-          272
-        ],
-        [
-          "2026-09-16T22:58:07Z",
-          297
-        ],
-        [
-          "2026-09-16T23:16:02Z",
-          328
-        ],
-        [
-          "2026-09-16T23:30:26Z",
-          307
-        ],
-        [
-          "2026-09-16T23:45:58Z",
-          302
-        ],
-        [
-          "2026-09-16T23:56:47Z",
-          296
-        ],
-        [
-          "2026-09-17T00:19:43Z",
-          274
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -3016,40 +3033,7 @@
       "game": null,
       "peakViewers": 23,
       "avgViewers": 16.8,
-      "samples": [
-        [
-          "2026-09-16T22:47:21Z",
-          10
-        ],
-        [
-          "2026-09-16T22:58:07Z",
-          8
-        ],
-        [
-          "2026-09-16T23:16:02Z",
-          20
-        ],
-        [
-          "2026-09-16T23:30:26Z",
-          16
-        ],
-        [
-          "2026-09-16T23:45:58Z",
-          18
-        ],
-        [
-          "2026-09-16T23:56:47Z",
-          17
-        ],
-        [
-          "2026-09-17T00:19:43Z",
-          23
-        ],
-        [
-          "2026-09-17T00:39:40Z",
-          20
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -3066,20 +3050,7 @@
       "game": null,
       "peakViewers": 310,
       "avgViewers": 286.8,
-      "samples": [
-        [
-          "2026-09-17T00:56:14Z",
-          278
-        ],
-        [
-          "2026-09-17T01:13:21Z",
-          310
-        ],
-        [
-          "2026-09-17T01:31:01Z",
-          272
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
