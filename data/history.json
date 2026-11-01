@@ -2,60 +2,79 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "puYOK_eT7JI",
-      "start": "2026-11-01T06:43:31Z",
+    "UCNGMMdEgYIUR6rC44v9aZ8w": {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "i0vswj93hZk",
+      "start": "2026-11-01T13:50:35Z",
       "startSource": "observed",
-      "title": "うたいたいー！！！！！ #歌枠 【甘音あむ / ネオポルテ】",
+      "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
       "game": null,
-      "peakViewers": 218,
+      "peakViewers": 28,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-01T06:43:31Z",
-      "lastSeenAt": "2026-11-01T06:43:31Z",
+      "firstSeenAt": "2026-11-01T13:50:35Z",
+      "lastSeenAt": "2026-11-01T13:50:35Z",
       "samples": [
         [
-          "2026-11-01T06:43:31Z",
-          218
+          "2026-11-01T13:50:35Z",
+          28
         ]
       ]
     },
-    "UCo3zRhsnXIieauvm6c-xwkA": {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "Zsos_pl90nY",
-      "start": "2026-11-01T06:43:31Z",
+    "UCE0ETB-j-qiXQiKPIG-0tCA": {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "VDzMMfGFlmU",
+      "start": "2026-11-01T13:50:35Z",
       "startSource": "observed",
-      "title": "【Forza Horizon6】リスナーさんに聞いた最高のフォトスポットを巡る！#51【#七乃羽すず┆すずみあ】",
-      "game": null,
-      "peakViewers": 75,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-01T06:43:31Z",
-      "lastSeenAt": "2026-11-01T06:43:31Z",
-      "samples": [
-        [
-          "2026-11-01T06:43:31Z",
-          75
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "xE1bypATkT0",
-      "start": "2026-11-01T06:43:31Z",
-      "startSource": "observed",
-      "title": "【競馬】GⅠ 天皇賞秋 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+      "title": "🟣11/1【 #マーダーミステリー 】グリムギア　スカル役：maŸUko視点",
       "game": null,
       "peakViewers": 13,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-01T06:43:31Z",
-      "lastSeenAt": "2026-11-01T06:43:31Z",
+      "firstSeenAt": "2026-11-01T13:50:35Z",
+      "lastSeenAt": "2026-11-01T13:50:35Z",
       "samples": [
         [
-          "2026-11-01T06:43:31Z",
+          "2026-11-01T13:50:35Z",
           13
+        ]
+      ]
+    },
+    "UCADIxr9ho7V60xs9gT9xWhA": {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "wuhLGGgE2ZY",
+      "start": "2026-11-01T13:50:35Z",
+      "startSource": "observed",
+      "title": "【 #パレットタウン 】ギャング作るぞ！交流だ！！！1日目 #gta   【 #輝七瀬  / RIONECTION】",
+      "game": null,
+      "peakViewers": 8,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-01T13:50:35Z",
+      "lastSeenAt": "2026-11-01T13:50:35Z",
+      "samples": [
+        [
+          "2026-11-01T13:50:35Z",
+          8
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "ymAh5okwNNg",
+      "start": "2026-11-01T13:50:35Z",
+      "startSource": "observed",
+      "title": "【ストグラ2】Day40 　久しぶりの起床！悪いことする？【#恋沼ミヤ/#神楽坂レイナ】",
+      "game": null,
+      "peakViewers": 23,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-01T13:50:35Z",
+      "lastSeenAt": "2026-11-01T13:50:35Z",
+      "samples": [
+        [
+          "2026-11-01T13:50:35Z",
+          23
         ]
       ]
     }
@@ -3067,48 +3086,7 @@
       "game": null,
       "peakViewers": 103,
       "avgViewers": 81.8,
-      "samples": [
-        [
-          "2026-09-17T05:15:48Z",
-          43
-        ],
-        [
-          "2026-09-17T05:31:35Z",
-          62
-        ],
-        [
-          "2026-09-17T05:49:04Z",
-          75
-        ],
-        [
-          "2026-09-17T05:59:48Z",
-          74
-        ],
-        [
-          "2026-09-17T06:24:49Z",
-          84
-        ],
-        [
-          "2026-09-17T06:45:40Z",
-          103
-        ],
-        [
-          "2026-09-17T07:00:23Z",
-          92
-        ],
-        [
-          "2026-09-17T07:24:14Z",
-          93
-        ],
-        [
-          "2026-09-17T07:41:38Z",
-          92
-        ],
-        [
-          "2026-09-17T07:57:08Z",
-          97
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -3267,56 +3245,7 @@
       "game": null,
       "peakViewers": 57,
       "avgViewers": 43.7,
-      "samples": [
-        [
-          "2026-09-17T10:00:58Z",
-          16
-        ],
-        [
-          "2026-09-17T10:22:50Z",
-          38
-        ],
-        [
-          "2026-09-17T10:41:24Z",
-          36
-        ],
-        [
-          "2026-09-17T10:56:55Z",
-          45
-        ],
-        [
-          "2026-09-17T11:14:49Z",
-          49
-        ],
-        [
-          "2026-09-17T11:30:55Z",
-          45
-        ],
-        [
-          "2026-09-17T11:48:35Z",
-          48
-        ],
-        [
-          "2026-09-17T11:59:29Z",
-          52
-        ],
-        [
-          "2026-09-17T12:24:01Z",
-          57
-        ],
-        [
-          "2026-09-17T12:44:43Z",
-          52
-        ],
-        [
-          "2026-09-17T12:59:39Z",
-          46
-        ],
-        [
-          "2026-09-17T13:20:22Z",
-          44
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -3557,36 +3486,7 @@
       "game": null,
       "peakViewers": 270,
       "avgViewers": 210.9,
-      "samples": [
-        [
-          "2026-09-17T11:14:49Z",
-          73
-        ],
-        [
-          "2026-09-17T11:30:55Z",
-          162
-        ],
-        [
-          "2026-09-17T11:48:35Z",
-          220
-        ],
-        [
-          "2026-09-17T11:59:29Z",
-          233
-        ],
-        [
-          "2026-09-17T12:24:01Z",
-          242
-        ],
-        [
-          "2026-09-17T12:44:43Z",
-          262
-        ],
-        [
-          "2026-09-17T12:59:39Z",
-          270
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -34367,6 +34267,72 @@
         [
           "2026-10-31T21:43:20Z",
           899
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "puYOK_eT7JI",
+      "videoUrl": "https://www.youtube.com/watch?v=puYOK_eT7JI",
+      "start": "2026-11-01T06:43:31Z",
+      "end": "2026-11-01T13:50:35Z",
+      "minutes": 427.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "うたいたいー！！！！！ #歌枠 【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 218,
+      "avgViewers": 218.0,
+      "samples": [
+        [
+          "2026-11-01T06:43:31Z",
+          218
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "Zsos_pl90nY",
+      "videoUrl": "https://www.youtube.com/watch?v=Zsos_pl90nY",
+      "start": "2026-11-01T06:43:31Z",
+      "end": "2026-11-01T13:50:35Z",
+      "minutes": 427.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Forza Horizon6】リスナーさんに聞いた最高のフォトスポットを巡る！#51【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 75,
+      "avgViewers": 75.0,
+      "samples": [
+        [
+          "2026-11-01T06:43:31Z",
+          75
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "xE1bypATkT0",
+      "videoUrl": "https://www.youtube.com/watch?v=xE1bypATkT0",
+      "start": "2026-11-01T06:43:31Z",
+      "end": "2026-11-01T13:50:35Z",
+      "minutes": 427.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【競馬】GⅠ 天皇賞秋 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 13,
+      "avgViewers": 13.0,
+      "samples": [
+        [
+          "2026-11-01T06:43:31Z",
+          13
         ]
       ],
       "isTargetGame": false
