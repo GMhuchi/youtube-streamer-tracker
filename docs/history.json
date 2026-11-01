@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:43:20Z",
+  "updatedAt": "2026-11-01T00:28:09Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1975.1,
+      "totalMinutes": 2139.9,
       "gameMinutes": 0.0,
-      "totalHours": 32.92,
+      "totalHours": 35.66,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 164.3,
+      "avgViewers": 216.4,
       "peakViewers": 899
     },
     "week": {
-      "totalMinutes": 21170.3,
+      "totalMinutes": 21335.1,
       "gameMinutes": 0.0,
-      "totalHours": 352.84,
+      "totalHours": 355.58,
       "gameHours": 0.0,
       "sessions": 69,
-      "avgViewers": 119.2,
+      "avgViewers": 124.5,
       "peakViewers": 899
     },
     "month": {
-      "totalMinutes": 1975.1,
+      "totalMinutes": 2139.9,
       "gameMinutes": 0.0,
-      "totalHours": 32.92,
+      "totalHours": 35.66,
       "gameHours": 0.0,
       "sessions": 11,
-      "avgViewers": 164.3,
+      "avgViewers": 216.4,
       "peakViewers": 899
     }
   },
@@ -49,34 +49,34 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-10-31T18:14:17Z",
-      "liveTitle": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-10-31T18:14:17Z",
-      "lastTitle": "〖 メン限 〗 みんなと雀魂！！〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-01T00:28:09Z",
+      "lastTitle": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 403.3,
+          "totalMinutes": 568.1,
           "gameMinutes": 0.0,
-          "totalHours": 6.72,
+          "totalHours": 9.47,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 773.5,
           "peakViewers": 899
         },
         "week": {
-          "totalMinutes": 2575.0,
+          "totalMinutes": 2739.8,
           "gameMinutes": 0.0,
-          "totalHours": 42.92,
+          "totalHours": 45.66,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 459.8,
+          "avgViewers": 481.6,
           "peakViewers": 899
         },
         "month": {
-          "totalMinutes": 403.3,
+          "totalMinutes": 568.1,
           "gameMinutes": 0.0,
-          "totalHours": 6.72,
+          "totalHours": 9.47,
           "gameHours": 0.0,
           "sessions": 2,
           "avgViewers": 773.5,
@@ -84,6 +84,32 @@
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dnWIVhnph2g",
+          "videoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g",
+          "start": "2026-10-31T18:14:17Z",
+          "end": "2026-11-01T00:28:09Z",
+          "minutes": 373.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 899,
+          "avgViewers": 773.5,
+          "samples": [
+            [
+              "2026-10-31T18:14:17Z",
+              648
+            ],
+            [
+              "2026-10-31T21:43:20Z",
+              899
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -141,16 +167,7 @@
           "game": null,
           "peakViewers": 548,
           "avgViewers": 531.0,
-          "samples": [
-            [
-              "2026-10-29T20:36:58Z",
-              548
-            ],
-            [
-              "2026-10-30T00:21:24Z",
-              514
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -220,39 +237,8 @@
           "avgViewers": 316.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "rD_0Nl1QetM",
-          "videoUrl": "https://www.youtube.com/watch?v=rD_0Nl1QetM",
-          "start": "2026-10-21T07:31:46Z",
-          "end": "2026-10-21T18:07:22Z",
-          "minutes": 635.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 OW 〗 うーちゃんとオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 172,
-          "avgViewers": 134.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 899,
-      "livePeakViewers": 899,
-      "liveAvgViewers": 773.5,
-      "liveSamples": [
-        [
-          "2026-10-31T18:14:17Z",
-          648
-        ],
-        [
-          "2026-10-31T21:43:20Z",
-          899
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g"
+      ]
     },
     {
       "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
@@ -4048,6 +4034,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "dnWIVhnph2g",
+      "videoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g",
+      "start": "2026-10-31T18:14:17Z",
+      "end": "2026-11-01T00:28:09Z",
+      "minutes": 373.9,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 899,
+      "avgViewers": 773.5,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
       "name": "瀬尾カザリ",
       "videoId": "dxPO7HVW0Ss",
@@ -4989,22 +4991,6 @@
       "game": null,
       "peakViewers": 30,
       "avgViewers": 28.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "c5jkx76SK6c",
-      "videoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c",
-      "start": "2026-10-26T00:29:20Z",
-      "end": "2026-10-26T05:12:10Z",
-      "minutes": 282.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 23,
-      "avgViewers": 23.0,
       "isTargetGame": false
     }
   ]
