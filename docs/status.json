@@ -1,78 +1,24 @@
 {
-  "updatedAt": "2026-11-01T13:50:53Z",
+  "updatedAt": "2026-11-01T18:45:58Z",
   "ok": true,
-  "warning": null,
+  "warning": "[i0vswj93hZk] 종료 시각 확인 실패(관측 시각으로 대체): https://www.youtube.com/watch?v=i0vswj93hZk -> HTTP 429; [VDzMMfGFlmU] 종료 시각 확인 실패(관측 시각으로 대체): https://www.youtube.com/watch?v=VDzMMfGFlmU -> HTTP 429; [wuhLGGgE2ZY] 종료 시각 확인 실패(관측 시각으로 대체): https://www.youtube.com/watch?v=wuhLGGgE2ZY -> HTTP 429; [ymAh5okwNNg] 종료 시각 확인 실패(관측 시각으로 대체): https://www.youtube.com/watch?v=ymAh5okwNNg -> HTTP 429",
   "channels": [
     {
       "id": "UCNGMMdEgYIUR6rC44v9aZ8w",
       "name": "瀬尾カザリ",
       "autoAdded": false,
-      "isLive": true,
-      "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
+      "isLive": false,
+      "title": null,
       "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
-      "videoUrl": "https://www.youtube.com/watch?v=i0vswj93hZk",
-      "thumbnail": "https://i.ytimg.com/vi/i0vswj93hZk/hq720.jpg?v=6ae72441&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLNnGYosmhtAuzTkDrfWFSRaDLoA",
-      "viewers": 28,
+      "videoUrl": null,
+      "thumbnail": null,
+      "viewers": null,
       "startedAt": null,
       "game": null,
-      "videoId": "i0vswj93hZk",
+      "videoId": null,
       "latestVideoTitle": "【don't drop the cake】インフルの震え vs 震えたら終わるホラゲ【瀬尾カザリ / ネオポルテ】",
       "latestVideoAt": "2026-10-30T12:44:36+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:35Z",
-      "error": null
-    },
-    {
-      "id": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "autoAdded": false,
-      "isLive": true,
-      "title": "【ストグラ2】Day40 　久しぶりの起床！悪いことする？【#恋沼ミヤ/#神楽坂レイナ】",
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "videoUrl": "https://www.youtube.com/watch?v=ymAh5okwNNg",
-      "thumbnail": "https://i.ytimg.com/vi/ymAh5okwNNg/hq720.jpg?v=6ae44f5d&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA001fnSa8hThZRTH5WFq_c1IjcSA",
-      "viewers": 23,
-      "startedAt": null,
-      "game": null,
-      "videoId": "ymAh5okwNNg",
-      "latestVideoTitle": "【雑談】今日もおつかれさま～🌙ゆっくりお話しよう？　 #恋沼ミヤ",
-      "latestVideoAt": "2026-10-29T07:00:00+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:47Z",
-      "error": null
-    },
-    {
-      "id": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "autoAdded": false,
-      "isLive": true,
-      "title": "🟣11/1【 #マーダーミステリー 】グリムギア　スカル役：maŸUko視点",
-      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
-      "videoUrl": "https://www.youtube.com/watch?v=VDzMMfGFlmU",
-      "thumbnail": "https://i.ytimg.com/vi/VDzMMfGFlmU/hq720.jpg?v=6ad33b75&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJMc19PXpu8isN_O7mCUUHfey-sg",
-      "viewers": 13,
-      "startedAt": null,
-      "game": null,
-      "videoId": "VDzMMfGFlmU",
-      "latestVideoTitle": "🟣10/30【 #惨劇RoopeR 】今度は+クトゥルフ！？なボドゲで遊ぶぞ～～！【 maŸUko / #Vtuber 】",
-      "latestVideoAt": "2026-09-09T17:28:46+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:46Z",
-      "error": null
-    },
-    {
-      "id": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "autoAdded": false,
-      "isLive": true,
-      "title": "【 #パレットタウン 】ギャング作るぞ！交流だ！！！1日目 #gta   【 #輝七瀬  / RIONECTION】",
-      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
-      "videoUrl": "https://www.youtube.com/watch?v=wuhLGGgE2ZY",
-      "thumbnail": "https://i.ytimg.com/vi/wuhLGGgE2ZY/hq720.jpg?v=6ae6c6ec&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCruZ9AxR6vj2T6wlwbQn-8KHdNeQ",
-      "viewers": 8,
-      "startedAt": null,
-      "game": null,
-      "videoId": "wuhLGGgE2ZY",
-      "latestVideoTitle": "【 #歌枠 】軽く歌います #karaoke #新人vtuber 【 #輝七瀬 / RIONECTION】",
-      "latestVideoAt": "2026-10-30T06:43:13+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:47Z",
+      "lastCheckedAt": "2026-11-01T18:45:41Z",
       "error": null
     },
     {
@@ -90,7 +36,7 @@
       "videoId": null,
       "latestVideoTitle": "〖 ALGS Year 6 Split 2╎A vs Dウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 1全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
       "latestVideoAt": "2026-10-30T12:44:41+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:35Z",
+      "lastCheckedAt": "2026-11-01T18:45:42Z",
       "error": null
     },
     {
@@ -108,7 +54,7 @@
       "videoId": null,
       "latestVideoTitle": "【雑談】深夜のチル雑談【日裏クロ / ネオポルテ】",
       "latestVideoAt": "2026-10-30T03:56:01+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:36Z",
+      "lastCheckedAt": "2026-11-01T18:45:43Z",
       "error": null
     },
     {
@@ -126,7 +72,7 @@
       "videoId": null,
       "latestVideoTitle": "【朝枠】おきたー？おはよするー？【甘音あむ / ネオポルテ】",
       "latestVideoAt": "2026-10-30T01:39:21+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:37Z",
+      "lastCheckedAt": "2026-11-01T18:45:44Z",
       "error": null
     },
     {
@@ -144,7 +90,7 @@
       "videoId": null,
       "latestVideoTitle": "【耐久配信】同接2000人耐久？！達成したら重大告知が…！！！ #歌枠【 #無原唱レコード / #メーメントヴァニタス 】",
       "latestVideoAt": "2026-10-28T09:54:27+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:38Z",
+      "lastCheckedAt": "2026-11-01T18:45:44Z",
       "error": null
     },
     {
@@ -162,7 +108,7 @@
       "videoId": null,
       "latestVideoTitle": "〚雑談 〛ねぇもう夜なんだって、濃厚なアイスとか食べたい時期になったね〚 甘成じゅい/ゆにれいど！ 〛",
       "latestVideoAt": "2026-10-30T12:04:26+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:38Z",
+      "lastCheckedAt": "2026-11-01T18:45:45Z",
       "error": null
     },
     {
@@ -180,7 +126,7 @@
       "videoId": null,
       "latestVideoTitle": "【ほぐラジ #12】みんなの『クリエイティブ』を集めてみた！【望月ほぐの/ゆにれいど！】",
       "latestVideoAt": "2026-10-29T19:53:14+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:39Z",
+      "lastCheckedAt": "2026-11-01T18:45:46Z",
       "error": null
     },
     {
@@ -198,7 +144,7 @@
       "videoId": null,
       "latestVideoTitle": "ギルド会議までちょい前まで！【 OW 】【ゆにれいど！/ 火狩夜れんま】",
       "latestVideoAt": "2026-10-30T10:47:56+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:40Z",
+      "lastCheckedAt": "2026-11-01T18:45:46Z",
       "error": null
     },
     {
@@ -216,7 +162,7 @@
       "videoId": null,
       "latestVideoTitle": "【 ギルド会議 】10月も破壊のリーメルギルド会議【グラニット/ゆにれいど！/火狩夜れんま/鳴子ライチ/コンプサウルス/聖ルナティア/時羽しう】",
       "latestVideoAt": "2026-10-29T08:40:38+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:41Z",
+      "lastCheckedAt": "2026-11-01T18:45:47Z",
       "error": null
     },
     {
@@ -234,7 +180,7 @@
       "videoId": null,
       "latestVideoTitle": "【Forza Horizon6】シーズンイベント！春だ！ゴールドだ！無免許だ！#50【#七乃羽すず┆すずみあ】",
       "latestVideoAt": "2026-10-30T04:29:39+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:41Z",
+      "lastCheckedAt": "2026-11-01T18:45:48Z",
       "error": null
     },
     {
@@ -252,7 +198,7 @@
       "videoId": null,
       "latestVideoTitle": "【月見爆食】2026年最強の月見バーガーを食べ比べて決めてみた！！",
       "latestVideoAt": "2026-10-30T09:00:07+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:42Z",
+      "lastCheckedAt": "2026-11-01T18:45:49Z",
       "error": null
     },
     {
@@ -270,7 +216,7 @@
       "videoId": null,
       "latestVideoTitle": "【スーパーマリオギャラクシー2】宇 宙 制 覇 ２【綾見ユラ/YUMENOS】",
       "latestVideoAt": "2026-10-30T10:36:02+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:43Z",
+      "lastCheckedAt": "2026-11-01T18:45:49Z",
       "error": null
     },
     {
@@ -288,7 +234,7 @@
       "videoId": null,
       "latestVideoTitle": "【#ストグラ】#ストグラSeason2　抗争じゃああああ！！！　 ～Day29～【YUMENOS/那和ツムグ】",
       "latestVideoAt": "2026-10-30T10:56:54+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:44Z",
+      "lastCheckedAt": "2026-11-01T18:45:50Z",
       "error": null
     },
     {
@@ -306,7 +252,7 @@
       "videoId": null,
       "latestVideoTitle": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶【埼凰リンネ / YUMENOS】#新人vtuber",
       "latestVideoAt": "2026-10-30T11:40:00+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:44Z",
+      "lastCheckedAt": "2026-11-01T18:45:51Z",
       "error": null
     },
     {
@@ -324,7 +270,61 @@
       "videoId": null,
       "latestVideoTitle": "※ネタバレあり 最終回！？○○を倒しに…。眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #22 #愁子",
       "latestVideoAt": "2026-10-30T09:17:34+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:45Z",
+      "lastCheckedAt": "2026-11-01T18:45:51Z",
+      "error": null
+    },
+    {
+      "id": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "autoAdded": false,
+      "isLive": false,
+      "title": null,
+      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
+      "videoUrl": null,
+      "thumbnail": null,
+      "viewers": null,
+      "startedAt": null,
+      "game": null,
+      "videoId": null,
+      "latestVideoTitle": "🟣10/30【 #惨劇RoopeR 】今度は+クトゥルフ！？なボドゲで遊ぶぞ～～！【 maŸUko / #Vtuber 】",
+      "latestVideoAt": "2026-09-09T17:28:46+00:00",
+      "lastCheckedAt": "2026-11-01T18:45:52Z",
+      "error": null
+    },
+    {
+      "id": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "autoAdded": false,
+      "isLive": false,
+      "title": null,
+      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
+      "videoUrl": null,
+      "thumbnail": null,
+      "viewers": null,
+      "startedAt": null,
+      "game": null,
+      "videoId": null,
+      "latestVideoTitle": "【 #歌枠 】軽く歌います #karaoke #新人vtuber 【 #輝七瀬 / RIONECTION】",
+      "latestVideoAt": "2026-10-30T06:43:13+00:00",
+      "lastCheckedAt": "2026-11-01T18:45:53Z",
+      "error": null
+    },
+    {
+      "id": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "autoAdded": false,
+      "isLive": false,
+      "title": null,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "videoUrl": null,
+      "thumbnail": null,
+      "viewers": null,
+      "startedAt": null,
+      "game": null,
+      "videoId": null,
+      "latestVideoTitle": "【雑談】今日もおつかれさま～🌙ゆっくりお話しよう？　 #恋沼ミヤ",
+      "latestVideoAt": "2026-10-29T07:00:00+00:00",
+      "lastCheckedAt": "2026-11-01T18:45:54Z",
       "error": null
     },
     {
@@ -342,7 +342,7 @@
       "videoId": null,
       "latestVideoTitle": "【雑談】最近寒いよな、わかる【水上蒼太/ゆにれいど！】",
       "latestVideoAt": "2026-10-30T05:06:39+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:48Z",
+      "lastCheckedAt": "2026-11-01T18:45:54Z",
       "error": null
     },
     {
@@ -360,7 +360,7 @@
       "videoId": null,
       "latestVideoTitle": "※ネタバレ注意【都市伝説解体センター】都市伝説は人の話を聞くぐらいがちょうどいい【ゲーム実況】【十神仁/ YUMENOS】",
       "latestVideoAt": "2026-10-30T02:39:39+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:49Z",
+      "lastCheckedAt": "2026-11-01T18:45:55Z",
       "error": null
     },
     {
@@ -378,7 +378,7 @@
       "videoId": null,
       "latestVideoTitle": "【歌枠】初見さん歓迎！これが最後の歌枠です・・・・・(10月の)【氷乃渚 / ゆにれいど！】",
       "latestVideoAt": "2026-10-30T12:36:08+00:00",
-      "lastCheckedAt": "2026-11-01T13:50:50Z",
+      "lastCheckedAt": "2026-11-01T18:45:56Z",
       "error": null
     }
   ],
@@ -425,33 +425,33 @@
     ]
   },
   "historySummary": {
-    "updatedAt": "2026-11-01T13:50:35Z",
+    "updatedAt": "2026-11-01T18:45:41Z",
     "totals": {
       "today": {
-        "totalMinutes": 3421.1,
+        "totalMinutes": 902.7,
         "gameMinutes": 0.0,
-        "totalHours": 57.02,
+        "totalHours": 15.05,
         "gameHours": 0.0,
-        "sessions": 18,
-        "avgViewers": 170.7,
-        "peakViewers": 899
+        "sessions": 4,
+        "avgViewers": 18.0,
+        "peakViewers": 28
       },
       "week": {
-        "totalMinutes": 22616.3,
+        "totalMinutes": 902.7,
         "gameMinutes": 0.0,
-        "totalHours": 376.94,
+        "totalHours": 15.05,
         "gameHours": 0.0,
-        "sessions": 76,
-        "avgViewers": 123.2,
-        "peakViewers": 899
+        "sessions": 4,
+        "avgViewers": 18.0,
+        "peakViewers": 28
       },
       "month": {
-        "totalMinutes": 3421.1,
+        "totalMinutes": 4601.5,
         "gameMinutes": 0.0,
-        "totalHours": 57.02,
+        "totalHours": 76.69,
         "gameHours": 0.0,
         "sessions": 18,
-        "avgViewers": 170.7,
+        "avgViewers": 129.7,
         "peakViewers": 899
       }
     }
