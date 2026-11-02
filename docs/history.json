@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:28:14Z",
+  "updatedAt": "2026-11-02T01:44:50Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,44 +16,44 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 902.8,
+      "totalMinutes": 1295.9,
       "gameMinutes": 0.0,
-      "totalHours": 15.05,
+      "totalHours": 21.6,
       "gameHours": 0.0,
-      "sessions": 6,
-      "avgViewers": 18.0,
-      "peakViewers": 34
+      "sessions": 7,
+      "avgViewers": 20.9,
+      "peakViewers": 707
     },
     "week": {
-      "totalMinutes": 902.8,
+      "totalMinutes": 1295.9,
       "gameMinutes": 0.0,
-      "totalHours": 15.05,
+      "totalHours": 21.6,
       "gameHours": 0.0,
-      "sessions": 6,
-      "avgViewers": 18.0,
-      "peakViewers": 34
+      "sessions": 7,
+      "avgViewers": 20.9,
+      "peakViewers": 707
     },
     "month": {
-      "totalMinutes": 4601.5,
+      "totalMinutes": 4994.7,
       "gameMinutes": 0.0,
-      "totalHours": 76.69,
+      "totalHours": 83.24,
       "gameHours": 0.0,
-      "sessions": 20,
-      "avgViewers": 129.7,
+      "sessions": 21,
+      "avgViewers": 121.3,
       "peakViewers": 899
     }
   },
   "channels": [
     {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
       "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
       "isLive": true,
-      "liveSince": "2026-11-01T22:28:14Z",
-      "liveTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "lastEnd": "2026-11-01T13:50:35Z",
-      "lastTitle": "【競馬】GⅠ 天皇賞秋 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+      "liveSince": "2026-11-02T01:44:50Z",
+      "liveTitle": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-11-01T00:28:09Z",
+      "lastTitle": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
           "totalMinutes": 0.0,
@@ -61,8 +61,8 @@
           "totalHours": 0.0,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 21.0,
-          "peakViewers": 21
+          "avgViewers": 707.0,
+          "peakViewers": 707
         },
         "week": {
           "totalMinutes": 0.0,
@@ -70,20 +70,248 @@
           "totalHours": 0.0,
           "gameHours": 0.0,
           "sessions": 1,
+          "avgViewers": 707.0,
+          "peakViewers": 707
+        },
+        "month": {
+          "totalMinutes": 568.2,
+          "gameMinutes": 0.0,
+          "totalHours": 9.47,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 773.5,
+          "peakViewers": 899
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dnWIVhnph2g",
+          "videoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g",
+          "start": "2026-10-31T18:14:17Z",
+          "end": "2026-11-01T00:28:09Z",
+          "minutes": 373.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 899,
+          "avgViewers": 773.5,
+          "samples": [
+            [
+              "2026-10-31T18:14:17Z",
+              648
+            ],
+            [
+              "2026-10-31T21:43:20Z",
+              899
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "MulK7HXdSYs",
+          "videoUrl": "https://www.youtube.com/watch?v=MulK7HXdSYs",
+          "start": "2026-10-31T13:47:59Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 266.3,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "〖 メン限 〗 みんなと雀魂！！〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "PCD1BMzYXpk",
+          "videoUrl": "https://www.youtube.com/watch?v=PCD1BMzYXpk",
+          "start": "2026-10-30T18:37:28Z",
+          "end": "2026-10-31T01:48:52Z",
+          "minutes": 431.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎A vs C , B vs Cウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 2全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 883,
+          "avgViewers": 802.0,
+          "samples": [
+            [
+              "2026-10-30T18:37:28Z",
+              883
+            ],
+            [
+              "2026-10-30T22:38:55Z",
+              721
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "_iQiNakvRH0",
+          "videoUrl": "https://www.youtube.com/watch?v=_iQiNakvRH0",
+          "start": "2026-10-29T20:36:58Z",
+          "end": "2026-10-30T06:13:56Z",
+          "minutes": 577.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎ウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 1全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 548,
+          "avgViewers": 531.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "r9laKvK_FFo",
+          "videoUrl": "https://www.youtube.com/watch?v=r9laKvK_FFo",
+          "start": "2026-10-27T06:00:59Z",
+          "end": "2026-10-27T12:02:47Z",
+          "minutes": 361.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 358,
+          "avgViewers": 358.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dwhP45KfKxY",
+          "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
+          "start": "2026-10-26T11:14:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 632.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 124,
+          "avgViewers": 116.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "ooATiWxMO0s",
+          "videoUrl": "https://www.youtube.com/watch?v=ooATiWxMO0s",
+          "start": "2026-10-25T12:31:35Z",
+          "end": "2026-10-25T16:37:00Z",
+          "minutes": 245.4,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 まったりハートピアするよ～！ 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "VL-_ivdQ5R8",
+          "videoUrl": "https://www.youtube.com/watch?v=VL-_ivdQ5R8",
+          "start": "2026-10-25T09:23:12Z",
+          "end": "2026-10-25T13:50:31Z",
+          "minutes": 267.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ダービースタリオン2 〗 競馬したあとに馬を育成する🏇〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 316,
+          "avgViewers": 316.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 707,
+      "livePeakViewers": 707,
+      "liveAvgViewers": 707.0,
+      "liveSamples": [
+        [
+          "2026-11-02T01:44:50Z",
+          707
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI"
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-02T01:44:50Z",
+      "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 196.6,
+          "gameMinutes": 0.0,
+          "totalHours": 3.28,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 21.0,
+          "peakViewers": 21
+        },
+        "week": {
+          "totalMinutes": 196.6,
+          "gameMinutes": 0.0,
+          "totalHours": 3.28,
+          "gameHours": 0.0,
+          "sessions": 1,
           "avgViewers": 21.0,
           "peakViewers": 21
         },
         "month": {
-          "totalMinutes": 621.4,
+          "totalMinutes": 818.0,
           "gameMinutes": 0.0,
-          "totalHours": 10.36,
+          "totalHours": 13.63,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 13.6,
+          "avgViewers": 15.4,
           "peakViewers": 21
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "blgL4He1fS0",
+          "videoUrl": "https://www.youtube.com/watch?v=blgL4He1fS0",
+          "start": "2026-11-01T22:28:14Z",
+          "end": "2026-11-02T01:44:50Z",
+          "minutes": 196.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 21.0,
+          "samples": [
+            [
+              "2026-11-01T22:28:14Z",
+              21
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
           "name": "埼凰リンネ",
@@ -142,12 +370,7 @@
           "game": null,
           "peakViewers": 19,
           "avgViewers": 19.0,
-          "samples": [
-            [
-              "2026-10-30T13:09:23Z",
-              19
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -217,233 +440,8 @@
           "avgViewers": 13.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "c5jkx76SK6c",
-          "videoUrl": "https://www.youtube.com/watch?v=c5jkx76SK6c",
-          "start": "2026-10-26T00:29:20Z",
-          "end": "2026-10-26T05:12:10Z",
-          "minutes": 282.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 21,
-      "livePeakViewers": 21,
-      "liveAvgViewers": 21.0,
-      "liveSamples": [
-        [
-          "2026-11-01T22:28:14Z",
-          21
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=blgL4He1fS0"
-    },
-    {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "isLive": true,
-      "liveSince": "2026-11-01T22:28:14Z",
-      "liveTitle": "〚朝活 〛数億年ぶりの朝活！昨日は皆あったかくて楽しかったねｲｪ 〚甘成じゅい/ゆにれいど！ 〛",
-      "lastEnd": "2026-10-30T15:20:17Z",
-      "lastTitle": "〚雑談 〛ねぇもう夜なんだって、濃厚なアイスとか食べたい時期になったね〚 甘成じゅい/ゆにれいど！ 〛",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 34.0,
-          "peakViewers": 34
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 34.0,
-          "peakViewers": 34
-        },
-        "month": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 34.0,
-          "peakViewers": 34
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "8WlN0hL8oQc",
-          "videoUrl": "https://www.youtube.com/watch?v=8WlN0hL8oQc",
-          "start": "2026-10-30T12:32:30Z",
-          "end": "2026-10-30T15:20:17Z",
-          "minutes": 167.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〚雑談 〛ねぇもう夜なんだって、濃厚なアイスとか食べたい時期になったね〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 12.0,
-          "samples": [
-            [
-              "2026-10-30T13:09:23Z",
-              12
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "Ff4knYMrCW4",
-          "videoUrl": "https://www.youtube.com/watch?v=Ff4knYMrCW4",
-          "start": "2026-10-28T12:29:52Z",
-          "end": "2026-10-28T14:49:57Z",
-          "minutes": 140.1,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〚 めん限〛少しあるわおーーーーー！！歯茎めんっげんはこちら〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "hF-zq_8wV8s",
-          "videoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s",
-          "start": "2026-10-26T17:26:19Z",
-          "end": "2026-10-26T21:46:45Z",
-          "minutes": 260.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
-          "game": null,
-          "peakViewers": 36,
-          "avgViewers": 36.0,
-          "samples": [
-            [
-              "2026-10-26T17:26:19Z",
-              36
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "b306RfiWFgQ",
-          "videoUrl": "https://www.youtube.com/watch?v=b306RfiWFgQ",
-          "start": "2026-10-25T09:23:12Z",
-          "end": "2026-10-25T13:50:31Z",
-          "minutes": 267.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 47,
-          "avgViewers": 47.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "l-fD8smPjN8",
-          "videoUrl": "https://www.youtube.com/watch?v=l-fD8smPjN8",
-          "start": "2026-10-19T14:05:23Z",
-          "end": "2026-10-19T19:52:04Z",
-          "minutes": 346.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#13〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛女装して事件解決できるのは私だけなんだよぉ！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 43,
-          "avgViewers": 43.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "sU3vtwOGZBI",
-          "videoUrl": "https://www.youtube.com/watch?v=sU3vtwOGZBI",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T16:46:57Z",
-          "minutes": 198.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#12〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛バード神獣を撃破していくぅ！！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 39,
-          "avgViewers": 39.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "_zn-X4-3Em8",
-          "videoUrl": "https://www.youtube.com/watch?v=_zn-X4-3Em8",
-          "start": "2026-10-17T08:52:49Z",
-          "end": "2026-10-17T15:58:59Z",
-          "minutes": 426.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚 ELDEN RING〛フロム初心者🔰が完全初見で地獄のDLCクリアを目指す！ラスボス？倒すぞ#7 (#17)〚 甘成じゅい/ゆにれいど！ 〛#eldenring",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 33.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "FqSR3pjlSys",
-          "videoUrl": "https://www.youtube.com/watch?v=FqSR3pjlSys",
-          "start": "2026-10-16T11:46:11Z",
-          "end": "2026-10-16T15:36:00Z",
-          "minutes": 229.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#11〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛姫に会う前に神獣ってやつに会わないとなんですよ姐さん〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 31,
-          "avgViewers": 31.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 34,
-      "livePeakViewers": 34,
-      "liveAvgViewers": 34.0,
-      "liveSamples": [
-        [
-          "2026-11-01T22:28:14Z",
-          34
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=XT_pJaRGG9Q"
+      ]
     },
     {
       "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
@@ -633,202 +631,6 @@
           "game": null,
           "peakViewers": 348,
           "avgViewers": 348.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-01T00:28:09Z",
-      "lastTitle": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 568.1,
-          "gameMinutes": 0.0,
-          "totalHours": 9.47,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 773.5,
-          "peakViewers": 899
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dnWIVhnph2g",
-          "videoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g",
-          "start": "2026-10-31T18:14:17Z",
-          "end": "2026-11-01T00:28:09Z",
-          "minutes": 373.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 899,
-          "avgViewers": 773.5,
-          "samples": [
-            [
-              "2026-10-31T18:14:17Z",
-              648
-            ],
-            [
-              "2026-10-31T21:43:20Z",
-              899
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "MulK7HXdSYs",
-          "videoUrl": "https://www.youtube.com/watch?v=MulK7HXdSYs",
-          "start": "2026-10-31T13:47:59Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 266.3,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "〖 メン限 〗 みんなと雀魂！！〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "PCD1BMzYXpk",
-          "videoUrl": "https://www.youtube.com/watch?v=PCD1BMzYXpk",
-          "start": "2026-10-30T18:37:28Z",
-          "end": "2026-10-31T01:48:52Z",
-          "minutes": 431.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎A vs C , B vs Cウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 2全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 883,
-          "avgViewers": 802.0,
-          "samples": [
-            [
-              "2026-10-30T18:37:28Z",
-              883
-            ],
-            [
-              "2026-10-30T22:38:55Z",
-              721
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "_iQiNakvRH0",
-          "videoUrl": "https://www.youtube.com/watch?v=_iQiNakvRH0",
-          "start": "2026-10-29T20:36:58Z",
-          "end": "2026-10-30T06:13:56Z",
-          "minutes": 577.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎ウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 1全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 548,
-          "avgViewers": 531.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "r9laKvK_FFo",
-          "videoUrl": "https://www.youtube.com/watch?v=r9laKvK_FFo",
-          "start": "2026-10-27T06:00:59Z",
-          "end": "2026-10-27T12:02:47Z",
-          "minutes": 361.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 358,
-          "avgViewers": 358.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dwhP45KfKxY",
-          "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
-          "start": "2026-10-26T11:14:19Z",
-          "end": "2026-10-26T21:46:45Z",
-          "minutes": 632.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 124,
-          "avgViewers": 116.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "ooATiWxMO0s",
-          "videoUrl": "https://www.youtube.com/watch?v=ooATiWxMO0s",
-          "start": "2026-10-25T12:31:35Z",
-          "end": "2026-10-25T16:37:00Z",
-          "minutes": 245.4,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〖 メン限 〗 まったりハートピアするよ～！ 〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "VL-_ivdQ5R8",
-          "videoUrl": "https://www.youtube.com/watch?v=VL-_ivdQ5R8",
-          "start": "2026-10-25T09:23:12Z",
-          "end": "2026-10-25T13:50:31Z",
-          "minutes": 267.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ダービースタリオン2 〗 競馬したあとに馬を育成する🏇〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 316,
-          "avgViewers": 316.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -1779,6 +1581,194 @@
           "game": null,
           "peakViewers": 105,
           "avgViewers": 105.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-02T01:44:50Z",
+      "lastTitle": "〚朝活 〛数億年ぶりの朝活！昨日は皆あったかくて楽しかったねｲｪ 〚甘成じゅい/ゆにれいど！ 〛",
+      "buckets": {
+        "today": {
+          "totalMinutes": 196.6,
+          "gameMinutes": 0.0,
+          "totalHours": 3.28,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 34.0,
+          "peakViewers": 34
+        },
+        "week": {
+          "totalMinutes": 196.6,
+          "gameMinutes": 0.0,
+          "totalHours": 3.28,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 34.0,
+          "peakViewers": 34
+        },
+        "month": {
+          "totalMinutes": 196.6,
+          "gameMinutes": 0.0,
+          "totalHours": 3.28,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 34.0,
+          "peakViewers": 34
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "XT_pJaRGG9Q",
+          "videoUrl": "https://www.youtube.com/watch?v=XT_pJaRGG9Q",
+          "start": "2026-11-01T22:28:14Z",
+          "end": "2026-11-02T01:44:50Z",
+          "minutes": 196.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚朝活 〛数億年ぶりの朝活！昨日は皆あったかくて楽しかったねｲｪ 〚甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [
+            [
+              "2026-11-01T22:28:14Z",
+              34
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "8WlN0hL8oQc",
+          "videoUrl": "https://www.youtube.com/watch?v=8WlN0hL8oQc",
+          "start": "2026-10-30T12:32:30Z",
+          "end": "2026-10-30T15:20:17Z",
+          "minutes": 167.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〚雑談 〛ねぇもう夜なんだって、濃厚なアイスとか食べたい時期になったね〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 12.0,
+          "samples": [
+            [
+              "2026-10-30T13:09:23Z",
+              12
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "Ff4knYMrCW4",
+          "videoUrl": "https://www.youtube.com/watch?v=Ff4knYMrCW4",
+          "start": "2026-10-28T12:29:52Z",
+          "end": "2026-10-28T14:49:57Z",
+          "minutes": 140.1,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〚 めん限〛少しあるわおーーーーー！！歯茎めんっげんはこちら〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "hF-zq_8wV8s",
+          "videoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s",
+          "start": "2026-10-26T17:26:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 260.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
+          "game": null,
+          "peakViewers": 36,
+          "avgViewers": 36.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "b306RfiWFgQ",
+          "videoUrl": "https://www.youtube.com/watch?v=b306RfiWFgQ",
+          "start": "2026-10-25T09:23:12Z",
+          "end": "2026-10-25T13:50:31Z",
+          "minutes": 267.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 47,
+          "avgViewers": 47.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "l-fD8smPjN8",
+          "videoUrl": "https://www.youtube.com/watch?v=l-fD8smPjN8",
+          "start": "2026-10-19T14:05:23Z",
+          "end": "2026-10-19T19:52:04Z",
+          "minutes": 346.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#13〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛女装して事件解決できるのは私だけなんだよぉ！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 43,
+          "avgViewers": 43.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "sU3vtwOGZBI",
+          "videoUrl": "https://www.youtube.com/watch?v=sU3vtwOGZBI",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T16:46:57Z",
+          "minutes": 198.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#12〚 ゼルダの伝説 ブレス オブ ザ ワイルド〛バード神獣を撃破していくぅ！！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 39,
+          "avgViewers": 39.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "_zn-X4-3Em8",
+          "videoUrl": "https://www.youtube.com/watch?v=_zn-X4-3Em8",
+          "start": "2026-10-17T08:52:49Z",
+          "end": "2026-10-17T15:58:59Z",
+          "minutes": 426.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚 ELDEN RING〛フロム初心者🔰が完全初見で地獄のDLCクリアを目指す！ラスボス？倒すぞ#7 (#17)〚 甘成じゅい/ゆにれいど！ 〛#eldenring",
+          "game": null,
+          "peakViewers": 48,
+          "avgViewers": 33.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -4041,6 +4031,38 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "XT_pJaRGG9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=XT_pJaRGG9Q",
+      "start": "2026-11-01T22:28:14Z",
+      "end": "2026-11-02T01:44:50Z",
+      "minutes": 196.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〚朝活 〛数億年ぶりの朝活！昨日は皆あったかくて楽しかったねｲｪ 〚甘成じゅい/ゆにれいど！ 〛",
+      "game": null,
+      "peakViewers": 34,
+      "avgViewers": 34.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "blgL4He1fS0",
+      "videoUrl": "https://www.youtube.com/watch?v=blgL4He1fS0",
+      "start": "2026-11-01T22:28:14Z",
+      "end": "2026-11-02T01:44:50Z",
+      "minutes": 196.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 21,
+      "avgViewers": 21.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
       "name": "瀬尾カザリ",
       "videoId": "i0vswj93hZk",
@@ -4966,38 +4988,6 @@
       "game": null,
       "peakViewers": 7,
       "avgViewers": 7.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "Qx4l273POR0",
-      "videoUrl": "https://www.youtube.com/watch?v=Qx4l273POR0",
-      "start": "2026-10-27T11:05:03Z",
-      "end": "2026-10-27T12:55:41Z",
-      "minutes": 110.6,
-      "startSource": "youtube",
-      "endSource": "youtube",
-      "title": "【メンバー限定】作業とかいろいろやりながら雑談　【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": null,
-      "avgViewers": null,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "r9laKvK_FFo",
-      "videoUrl": "https://www.youtube.com/watch?v=r9laKvK_FFo",
-      "start": "2026-10-27T06:00:59Z",
-      "end": "2026-10-27T12:02:47Z",
-      "minutes": 361.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 358,
-      "avgViewers": 358.0,
       "isTargetGame": false
     }
   ]
