@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:44:50Z",
+  "updatedAt": "2026-11-02T08:23:09Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1295.9,
+      "totalMinutes": 1694.2,
       "gameMinutes": 0.0,
-      "totalHours": 21.6,
+      "totalHours": 28.24,
       "gameHours": 0.0,
       "sessions": 7,
-      "avgViewers": 20.9,
+      "avgViewers": 182.2,
       "peakViewers": 707
     },
     "week": {
-      "totalMinutes": 1295.9,
+      "totalMinutes": 1694.2,
       "gameMinutes": 0.0,
-      "totalHours": 21.6,
+      "totalHours": 28.24,
       "gameHours": 0.0,
       "sessions": 7,
-      "avgViewers": 20.9,
+      "avgViewers": 182.2,
       "peakViewers": 707
     },
     "month": {
-      "totalMinutes": 4994.7,
+      "totalMinutes": 5393.0,
       "gameMinutes": 0.0,
-      "totalHours": 83.24,
+      "totalHours": 89.88,
       "gameHours": 0.0,
       "sessions": 21,
-      "avgViewers": 121.3,
+      "avgViewers": 166.3,
       "peakViewers": 899
     }
   },
@@ -49,41 +49,63 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-11-02T01:44:50Z",
-      "liveTitle": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-11-01T00:28:09Z",
-      "lastTitle": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-02T08:23:09Z",
+      "lastTitle": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 398.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 6.64,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 707.0,
           "peakViewers": 707
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 398.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 6.64,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 707.0,
           "peakViewers": 707
         },
         "month": {
-          "totalMinutes": 568.2,
+          "totalMinutes": 966.5,
           "gameMinutes": 0.0,
-          "totalHours": 9.47,
+          "totalHours": 16.11,
           "gameHours": 0.0,
           "sessions": 3,
-          "avgViewers": 773.5,
+          "avgViewers": 739.2,
           "peakViewers": 899
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dgphPBulhVI",
+          "videoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI",
+          "start": "2026-11-02T01:44:50Z",
+          "end": "2026-11-02T08:23:09Z",
+          "minutes": 398.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 707,
+          "avgViewers": 707.0,
+          "samples": [
+            [
+              "2026-11-02T01:44:50Z",
+              707
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -141,16 +163,7 @@
           "game": null,
           "peakViewers": 883,
           "avgViewers": 802.0,
-          "samples": [
-            [
-              "2026-10-30T18:37:28Z",
-              883
-            ],
-            [
-              "2026-10-30T22:38:55Z",
-              721
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -220,35 +233,8 @@
           "avgViewers": null,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "VL-_ivdQ5R8",
-          "videoUrl": "https://www.youtube.com/watch?v=VL-_ivdQ5R8",
-          "start": "2026-10-25T09:23:12Z",
-          "end": "2026-10-25T13:50:31Z",
-          "minutes": 267.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ダービースタリオン2 〗 競馬したあとに馬を育成する🏇〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 316,
-          "avgViewers": 316.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 707,
-      "livePeakViewers": 707,
-      "liveAvgViewers": 707.0,
-      "liveSamples": [
-        [
-          "2026-11-02T01:44:50Z",
-          707
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI"
+      ]
     },
     {
       "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
@@ -4031,6 +4017,22 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "dgphPBulhVI",
+      "videoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI",
+      "start": "2026-11-02T01:44:50Z",
+      "end": "2026-11-02T08:23:09Z",
+      "minutes": 398.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 707,
+      "avgViewers": 707.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
       "name": "甘成じゅい",
       "videoId": "XT_pJaRGG9Q",
@@ -4972,22 +4974,6 @@
       "game": null,
       "peakViewers": 6,
       "avgViewers": 6.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "OJf4Fpbusf8",
-      "videoUrl": "https://www.youtube.com/watch?v=OJf4Fpbusf8",
-      "start": "2026-10-27T12:02:47Z",
-      "end": "2026-10-27T17:56:01Z",
-      "minutes": 353.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【Cursed Companions】楽しくやれるように頑張ります！ w/鳴子ライチ、愁子、七乃羽すず【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 7,
-      "avgViewers": 7.0,
       "isTargetGame": false
     }
   ]

@@ -1,27 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "dgphPBulhVI",
-      "start": "2026-11-02T01:44:50Z",
-      "startSource": "observed",
-      "title": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 707,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-02T01:44:50Z",
-      "lastSeenAt": "2026-11-02T01:44:50Z",
-      "samples": [
-        [
-          "2026-11-02T01:44:50Z",
-          707
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -3284,68 +3264,7 @@
       "game": null,
       "peakViewers": 88,
       "avgViewers": 67.6,
-      "samples": [
-        [
-          "2026-09-18T04:18:08Z",
-          21
-        ],
-        [
-          "2026-09-18T04:33:23Z",
-          24
-        ],
-        [
-          "2026-09-18T04:48:06Z",
-          31
-        ],
-        [
-          "2026-09-18T04:58:38Z",
-          43
-        ],
-        [
-          "2026-09-18T05:16:29Z",
-          54
-        ],
-        [
-          "2026-09-18T05:30:43Z",
-          74
-        ],
-        [
-          "2026-09-18T05:47:26Z",
-          80
-        ],
-        [
-          "2026-09-18T05:58:07Z",
-          76
-        ],
-        [
-          "2026-09-18T06:22:06Z",
-          82
-        ],
-        [
-          "2026-09-18T06:44:04Z",
-          85
-        ],
-        [
-          "2026-09-18T06:58:17Z",
-          84
-        ],
-        [
-          "2026-09-18T07:17:40Z",
-          86
-        ],
-        [
-          "2026-09-18T07:32:39Z",
-          86
-        ],
-        [
-          "2026-09-18T07:48:08Z",
-          88
-        ],
-        [
-          "2026-09-18T07:58:39Z",
-          85
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -33712,6 +33631,28 @@
         [
           "2026-11-01T22:28:14Z",
           21
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "dgphPBulhVI",
+      "videoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI",
+      "start": "2026-11-02T01:44:50Z",
+      "end": "2026-11-02T08:23:09Z",
+      "minutes": 398.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 707,
+      "avgViewers": 707.0,
+      "samples": [
+        [
+          "2026-11-02T01:44:50Z",
+          707
         ]
       ],
       "isTargetGame": false
