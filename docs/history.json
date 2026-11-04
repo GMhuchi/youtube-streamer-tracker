@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T08:07:52Z",
+  "updatedAt": "2026-11-04T16:16:32Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1079.0,
+      "totalMinutes": 153.1,
       "gameMinutes": 0.0,
-      "totalHours": 17.98,
+      "totalHours": 2.55,
       "gameHours": 0.0,
-      "sessions": 6,
-      "avgViewers": 213.7,
-      "peakViewers": 634
+      "sessions": 2,
+      "avgViewers": 29.5,
+      "peakViewers": 38
     },
     "week": {
-      "totalMinutes": 3192.1,
+      "totalMinutes": 4169.4,
       "gameMinutes": 0.0,
-      "totalHours": 53.2,
+      "totalHours": 69.49,
       "gameHours": 0.0,
       "sessions": 13,
-      "avgViewers": 174.2,
+      "avgViewers": 140.3,
       "peakViewers": 707
     },
     "month": {
-      "totalMinutes": 6890.9,
+      "totalMinutes": 7868.2,
       "gameMinutes": 0.0,
-      "totalHours": 114.85,
+      "totalHours": 131.14,
       "gameHours": 0.0,
       "sessions": 27,
-      "avgViewers": 166.0,
+      "avgViewers": 148.6,
       "peakViewers": 899
     }
   },
@@ -49,41 +49,63 @@
       "name": "火狩夜れんま",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UC_mXkuKyIkO1hYjSeMvbt5g",
-      "isLive": true,
-      "liveSince": "2026-11-04T08:07:52Z",
-      "liveTitle": "【 R.E.P.O 】大型アプデを拝見 w/ぴりから,白妙とき,史門,グラニット【ゆにれいど！/ 火狩夜れんま】",
-      "lastEnd": "2026-11-03T16:09:17Z",
-      "lastTitle": "【 VALORANT 】久々VALOで新キャラハッシュ初見!! w/えるくろさん【ゆにれいど！/ 火狩夜れんま】",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-04T16:16:32Z",
+      "lastTitle": "【 R.E.P.O 】大型アプデを拝見 w/ぴりから,白妙とき,史門,グラニット【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 69.3,
+          "totalMinutes": 76.5,
           "gameMinutes": 0.0,
-          "totalHours": 1.15,
+          "totalHours": 1.28,
           "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 40.0,
-          "peakViewers": 40
+          "sessions": 1,
+          "avgViewers": 38.0,
+          "peakViewers": 38
         },
         "week": {
-          "totalMinutes": 488.1,
+          "totalMinutes": 976.8,
           "gameMinutes": 0.0,
-          "totalHours": 8.14,
+          "totalHours": 16.28,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 40.0,
+          "avgViewers": 39.0,
           "peakViewers": 40
         },
         "month": {
-          "totalMinutes": 488.1,
+          "totalMinutes": 976.8,
           "gameMinutes": 0.0,
-          "totalHours": 8.14,
+          "totalHours": 16.28,
           "gameHours": 0.0,
           "sessions": 2,
-          "avgViewers": 40.0,
+          "avgViewers": 39.0,
           "peakViewers": 40
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+          "name": "火狩夜れんま",
+          "videoId": "uZOoerruyK4",
+          "videoUrl": "https://www.youtube.com/watch?v=uZOoerruyK4",
+          "start": "2026-11-04T08:07:52Z",
+          "end": "2026-11-04T16:16:32Z",
+          "minutes": 488.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 R.E.P.O 】大型アプデを拝見 w/ぴりから,白妙とき,史門,グラニット【ゆにれいど！/ 火狩夜れんま】",
+          "game": null,
+          "peakViewers": 38,
+          "avgViewers": 38.0,
+          "samples": [
+            [
+              "2026-11-04T08:07:52Z",
+              38
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
           "name": "火狩夜れんま",
@@ -142,12 +164,7 @@
           "game": null,
           "peakViewers": 26,
           "avgViewers": 26.0,
-          "samples": [
-            [
-              "2026-10-28T13:36:05Z",
-              26
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -217,233 +234,8 @@
           "avgViewers": 27.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-          "name": "火狩夜れんま",
-          "videoId": "VYP4fNeRYFA",
-          "videoUrl": "https://www.youtube.com/watch?v=VYP4fNeRYFA",
-          "start": "2026-10-21T18:07:22Z",
-          "end": "2026-10-21T21:38:46Z",
-          "minutes": 211.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 VALORANT 】超緊急VALOフルパ！！【ゆにれいど！/ 火狩夜れんま】",
-          "game": null,
-          "peakViewers": 41,
-          "avgViewers": 41.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 38,
-      "livePeakViewers": 38,
-      "liveAvgViewers": 38.0,
-      "liveSamples": [
-        [
-          "2026-11-04T08:07:52Z",
-          38
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=uZOoerruyK4"
-    },
-    {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC1_HUmjQShLtT_MuZjry3hQ",
-      "isLive": true,
-      "liveSince": "2026-11-04T08:07:52Z",
-      "liveTitle": "【 REPO 】アプデで色々変わったらしいハロウィン5日目 w/ 史門 火狩夜れんま 白妙とき ぴりから【グラニット/ゆにれいど！】",
-      "lastEnd": "2026-11-03T21:45:52Z",
-      "lastTitle": "【 スプラ 】弾当たらなくて困るイカね～【グラニット/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 336.6,
-          "gameMinutes": 0.0,
-          "totalHours": 5.61,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 30.0,
-          "peakViewers": 30
-        },
-        "week": {
-          "totalMinutes": 336.6,
-          "gameMinutes": 0.0,
-          "totalHours": 5.61,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 30.0,
-          "peakViewers": 30
-        },
-        "month": {
-          "totalMinutes": 336.6,
-          "gameMinutes": 0.0,
-          "totalHours": 5.61,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 30.0,
-          "peakViewers": 30
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "dUGKoCOq3As",
-          "videoUrl": "https://www.youtube.com/watch?v=dUGKoCOq3As",
-          "start": "2026-11-03T16:09:17Z",
-          "end": "2026-11-03T21:45:52Z",
-          "minutes": 336.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 スプラ 】弾当たらなくて困るイカね～【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 30,
-          "avgViewers": 30.0,
-          "samples": [
-            [
-              "2026-11-03T16:09:17Z",
-              30
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "bngT2iBufc0",
-          "videoUrl": "https://www.youtube.com/watch?v=bngT2iBufc0",
-          "start": "2026-10-28T13:36:05Z",
-          "end": "2026-10-28T19:05:57Z",
-          "minutes": 329.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 How to fish 】これは魚釣りなんだよな…？【グラニット/ゆにれいど！/火狩夜れんま/鳴子ライチ】",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [
-            [
-              "2026-10-28T13:36:05Z",
-              11
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "iunLpZRF5uk",
-          "videoUrl": "https://www.youtube.com/watch?v=iunLpZRF5uk",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T19:52:58Z",
-          "minutes": 362.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 6.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "HFdQdnLp7R0",
-          "videoUrl": "https://www.youtube.com/watch?v=HFdQdnLp7R0",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 LoL 】あんまりやらないキャラでも使おう【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 12.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "4Jr31E882sk",
-          "videoUrl": "https://www.youtube.com/watch?v=4Jr31E882sk",
-          "start": "2026-10-22T15:13:02Z",
-          "end": "2026-10-22T19:16:08Z",
-          "minutes": 243.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 LoL 】新メイヘム遊ぶ GOドーパミン【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 4.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "5Ivfyrq9qlM",
-          "videoUrl": "https://www.youtube.com/watch?v=5Ivfyrq9qlM",
-          "start": "2026-10-21T13:12:35Z",
-          "end": "2026-10-21T18:07:22Z",
-          "minutes": 294.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 アヒル人狼 】本当によくわからん人達でグースグース【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "F6s9v27kSj4",
-          "videoUrl": "https://www.youtube.com/watch?v=F6s9v27kSj4",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T16:46:57Z",
-          "minutes": 198.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 雑談 】色んなTier表作りながら雑談【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 25,
-          "avgViewers": 25.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-          "name": "グラニット",
-          "videoId": "uI0XxqGPuPA",
-          "videoUrl": "https://www.youtube.com/watch?v=uI0XxqGPuPA",
-          "start": "2026-10-17T12:43:37Z",
-          "end": "2026-10-17T20:49:26Z",
-          "minutes": 485.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 スマブラ 】校舎裏に呼び出された w/ れんま ぴりから【グラニット/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 16,
-          "avgViewers": 12.5,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 21,
-      "livePeakViewers": 21,
-      "liveAvgViewers": 21.0,
-      "liveSamples": [
-        [
-          "2026-11-04T08:07:52Z",
-          21
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=BHJWWzRbcYo"
+      ]
     },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
@@ -649,13 +441,13 @@
       "lastTitle": "🟣11/3【 #GTA5  】＃10 知らないこと、知りたい。 #リライフ【 maŸUko / #Vtuber 】",
       "buckets": {
         "today": {
-          "totalMinutes": 336.6,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 5.61,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 13.0,
-          "peakViewers": 13
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 562.3,
@@ -825,6 +617,199 @@
           "game": null,
           "peakViewers": 8,
           "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC1_HUmjQShLtT_MuZjry3hQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-04T16:16:32Z",
+      "lastTitle": "【 REPO 】アプデで色々変わったらしいハロウィン5日目 w/ 史門 火狩夜れんま 白妙とき ぴりから【グラニット/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 76.5,
+          "gameMinutes": 0.0,
+          "totalHours": 1.28,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 21.0,
+          "peakViewers": 21
+        },
+        "week": {
+          "totalMinutes": 825.2,
+          "gameMinutes": 0.0,
+          "totalHours": 13.75,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 24.7,
+          "peakViewers": 30
+        },
+        "month": {
+          "totalMinutes": 825.2,
+          "gameMinutes": 0.0,
+          "totalHours": 13.75,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 24.7,
+          "peakViewers": 30
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "BHJWWzRbcYo",
+          "videoUrl": "https://www.youtube.com/watch?v=BHJWWzRbcYo",
+          "start": "2026-11-04T08:07:52Z",
+          "end": "2026-11-04T16:16:32Z",
+          "minutes": 488.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 REPO 】アプデで色々変わったらしいハロウィン5日目 w/ 史門 火狩夜れんま 白妙とき ぴりから【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 21.0,
+          "samples": [
+            [
+              "2026-11-04T08:07:52Z",
+              21
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "dUGKoCOq3As",
+          "videoUrl": "https://www.youtube.com/watch?v=dUGKoCOq3As",
+          "start": "2026-11-03T16:09:17Z",
+          "end": "2026-11-03T21:45:52Z",
+          "minutes": 336.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 スプラ 】弾当たらなくて困るイカね～【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 30,
+          "avgViewers": 30.0,
+          "samples": [
+            [
+              "2026-11-03T16:09:17Z",
+              30
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "bngT2iBufc0",
+          "videoUrl": "https://www.youtube.com/watch?v=bngT2iBufc0",
+          "start": "2026-10-28T13:36:05Z",
+          "end": "2026-10-28T19:05:57Z",
+          "minutes": 329.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 How to fish 】これは魚釣りなんだよな…？【グラニット/ゆにれいど！/火狩夜れんま/鳴子ライチ】",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [
+            [
+              "2026-10-28T13:36:05Z",
+              11
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "iunLpZRF5uk",
+          "videoUrl": "https://www.youtube.com/watch?v=iunLpZRF5uk",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T19:52:58Z",
+          "minutes": 362.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 LoL 】5v5ランク w/ ハサキング 飴乃ももか みぃ太軍 ロミズリ【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 6.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "HFdQdnLp7R0",
+          "videoUrl": "https://www.youtube.com/watch?v=HFdQdnLp7R0",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 LoL 】あんまりやらないキャラでも使おう【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 12.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "4Jr31E882sk",
+          "videoUrl": "https://www.youtube.com/watch?v=4Jr31E882sk",
+          "start": "2026-10-22T15:13:02Z",
+          "end": "2026-10-22T19:16:08Z",
+          "minutes": 243.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 LoL 】新メイヘム遊ぶ GOドーパミン【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 4,
+          "avgViewers": 4.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "5Ivfyrq9qlM",
+          "videoUrl": "https://www.youtube.com/watch?v=5Ivfyrq9qlM",
+          "start": "2026-10-21T13:12:35Z",
+          "end": "2026-10-21T18:07:22Z",
+          "minutes": 294.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 アヒル人狼 】本当によくわからん人達でグースグース【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+          "name": "グラニット",
+          "videoId": "F6s9v27kSj4",
+          "videoUrl": "https://www.youtube.com/watch?v=F6s9v27kSj4",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T16:46:57Z",
+          "minutes": 198.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 雑談 】色んなTier表作りながら雑談【グラニット/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 25,
+          "avgViewers": 25.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -1985,13 +1970,13 @@
       "lastTitle": "【ポケモンチャンピオンズ】ランクマ最終日の世界にご挨拶！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 336.6,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 5.61,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 634.0,
-          "peakViewers": 634
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 336.6,
@@ -2447,12 +2432,7 @@
           "game": null,
           "peakViewers": 55,
           "avgViewers": 55.0,
-          "samples": [
-            [
-              "2026-10-28T06:49:01Z",
-              55
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -4027,6 +4007,38 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "uZOoerruyK4",
+      "videoUrl": "https://www.youtube.com/watch?v=uZOoerruyK4",
+      "start": "2026-11-04T08:07:52Z",
+      "end": "2026-11-04T16:16:32Z",
+      "minutes": 488.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 R.E.P.O 】大型アプデを拝見 w/ぴりから,白妙とき,史門,グラニット【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 38,
+      "avgViewers": 38.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "BHJWWzRbcYo",
+      "videoUrl": "https://www.youtube.com/watch?v=BHJWWzRbcYo",
+      "start": "2026-11-04T08:07:52Z",
+      "end": "2026-11-04T16:16:32Z",
+      "minutes": 488.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 REPO 】アプデで色々変わったらしいハロウィン5日目 w/ 史門 火狩夜れんま 白妙とき ぴりから【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 21,
+      "avgViewers": 21.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
       "videoId": "H0wMMR_eqgk",
@@ -4952,38 +4964,6 @@
       "game": null,
       "peakViewers": 409,
       "avgViewers": 409.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "XPrjprtT3IE",
-      "videoUrl": "https://www.youtube.com/watch?v=XPrjprtT3IE",
-      "start": "2026-10-27T21:55:34Z",
-      "end": "2026-10-28T01:00:51Z",
-      "minutes": 185.3,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 23,
-      "avgViewers": 23.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "6KC21Xxegpc",
-      "videoUrl": "https://www.youtube.com/watch?v=6KC21Xxegpc",
-      "start": "2026-10-27T12:02:47Z",
-      "end": "2026-10-27T17:56:01Z",
-      "minutes": 353.2,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 terraria 】完全初見！のんびりサバイバルなのか？！どうなんだ？【ゆにれいど！/ 火狩夜れんま/コンプサウルス/聖ルナティア/大門地リューゴン/夜十神封魔】",
-      "game": null,
-      "peakViewers": 28,
-      "avgViewers": 28.0,
       "isTargetGame": false
     }
   ]
