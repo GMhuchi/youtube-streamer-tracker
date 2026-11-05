@@ -2,60 +2,41 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "zEZfPPihCDk",
-      "start": "2026-11-05T17:37:51Z",
+    "UC6FprWVXuULaY9mZOcqTe4A": {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "QnZMJS81qQM",
+      "start": "2026-11-05T22:51:17Z",
       "startSource": "observed",
-      "title": "【ゼルダの伝説 時のオカリナ】勇者見習い、始めます #1【綾見ユラ/YUMENOS】",
+      "title": "【朝枠】おはよ！おはよ！おはよ！【甘音あむ / ネオポルテ】",
       "game": null,
-      "peakViewers": 88,
+      "peakViewers": 187,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-05T17:37:51Z",
-      "lastSeenAt": "2026-11-05T17:37:51Z",
+      "firstSeenAt": "2026-11-05T22:51:17Z",
+      "lastSeenAt": "2026-11-05T22:51:17Z",
       "samples": [
         [
-          "2026-11-05T17:37:51Z",
-          88
+          "2026-11-05T22:51:17Z",
+          187
         ]
       ]
     },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "J4VrYB4ju8I",
-      "start": "2026-11-05T17:37:51Z",
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "6foiqvCsL5w",
+      "start": "2026-11-05T22:51:17Z",
       "startSource": "observed",
-      "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.12 収穫祭にふらっと行くわよ #愁子",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 30,
+      "peakViewers": 21,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-05T17:37:51Z",
-      "lastSeenAt": "2026-11-05T17:37:51Z",
+      "firstSeenAt": "2026-11-05T22:51:17Z",
+      "lastSeenAt": "2026-11-05T22:51:17Z",
       "samples": [
         [
-          "2026-11-05T17:37:51Z",
-          30
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "By9HxIsvrGg",
-      "start": "2026-11-05T17:37:51Z",
-      "startSource": "observed",
-      "title": "【ストグラ2】Day41 　半グレの仲間探しながら…【#恋沼ミヤ/#神楽坂レイナ】",
-      "game": null,
-      "peakViewers": 13,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-05T17:37:51Z",
-      "lastSeenAt": "2026-11-05T17:37:51Z",
-      "samples": [
-        [
-          "2026-11-05T17:37:51Z",
-          13
+          "2026-11-05T22:51:17Z",
+          21
         ]
       ]
     }
@@ -5311,80 +5292,7 @@
       "game": null,
       "peakViewers": 41,
       "avgViewers": 35.1,
-      "samples": [
-        [
-          "2026-09-21T13:49:05Z",
-          23
-        ],
-        [
-          "2026-09-21T13:59:52Z",
-          33
-        ],
-        [
-          "2026-09-21T14:19:25Z",
-          36
-        ],
-        [
-          "2026-09-21T14:34:30Z",
-          35
-        ],
-        [
-          "2026-09-21T14:49:31Z",
-          33
-        ],
-        [
-          "2026-09-21T14:59:59Z",
-          36
-        ],
-        [
-          "2026-09-21T15:17:23Z",
-          41
-        ],
-        [
-          "2026-09-21T15:32:05Z",
-          36
-        ],
-        [
-          "2026-09-21T15:48:20Z",
-          38
-        ],
-        [
-          "2026-09-21T15:59:05Z",
-          40
-        ],
-        [
-          "2026-09-21T16:19:10Z",
-          37
-        ],
-        [
-          "2026-09-21T16:34:31Z",
-          37
-        ],
-        [
-          "2026-09-21T16:49:12Z",
-          34
-        ],
-        [
-          "2026-09-21T16:59:47Z",
-          37
-        ],
-        [
-          "2026-09-21T17:16:03Z",
-          31
-        ],
-        [
-          "2026-09-21T17:29:42Z",
-          35
-        ],
-        [
-          "2026-09-21T17:43:28Z",
-          34
-        ],
-        [
-          "2026-09-21T17:55:41Z",
-          30
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -5401,72 +5309,7 @@
       "game": null,
       "peakViewers": 141,
       "avgViewers": 99.7,
-      "samples": [
-        [
-          "2026-09-21T14:34:30Z",
-          46
-        ],
-        [
-          "2026-09-21T14:49:31Z",
-          68
-        ],
-        [
-          "2026-09-21T14:59:59Z",
-          70
-        ],
-        [
-          "2026-09-21T15:17:23Z",
-          79
-        ],
-        [
-          "2026-09-21T15:32:05Z",
-          92
-        ],
-        [
-          "2026-09-21T15:48:20Z",
-          89
-        ],
-        [
-          "2026-09-21T15:59:05Z",
-          83
-        ],
-        [
-          "2026-09-21T16:19:10Z",
-          98
-        ],
-        [
-          "2026-09-21T16:34:31Z",
-          107
-        ],
-        [
-          "2026-09-21T16:49:12Z",
-          108
-        ],
-        [
-          "2026-09-21T16:59:47Z",
-          107
-        ],
-        [
-          "2026-09-21T17:16:03Z",
-          113
-        ],
-        [
-          "2026-09-21T17:29:42Z",
-          126
-        ],
-        [
-          "2026-09-21T17:43:28Z",
-          141
-        ],
-        [
-          "2026-09-21T17:55:41Z",
-          135
-        ],
-        [
-          "2026-09-21T18:13:58Z",
-          138
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -28655,6 +28498,72 @@
         [
           "2026-11-05T09:36:53Z",
           490
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "zEZfPPihCDk",
+      "videoUrl": "https://www.youtube.com/watch?v=zEZfPPihCDk",
+      "start": "2026-11-05T17:37:51Z",
+      "end": "2026-11-05T22:51:17Z",
+      "minutes": 313.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ゼルダの伝説 時のオカリナ】勇者見習い、始めます #1【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 88,
+      "avgViewers": 88.0,
+      "samples": [
+        [
+          "2026-11-05T17:37:51Z",
+          88
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "J4VrYB4ju8I",
+      "videoUrl": "https://www.youtube.com/watch?v=J4VrYB4ju8I",
+      "start": "2026-11-05T17:37:51Z",
+      "end": "2026-11-05T22:51:17Z",
+      "minutes": 313.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.12 収穫祭にふらっと行くわよ #愁子",
+      "game": null,
+      "peakViewers": 30,
+      "avgViewers": 30.0,
+      "samples": [
+        [
+          "2026-11-05T17:37:51Z",
+          30
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "By9HxIsvrGg",
+      "videoUrl": "https://www.youtube.com/watch?v=By9HxIsvrGg",
+      "start": "2026-11-05T17:37:51Z",
+      "end": "2026-11-05T22:51:17Z",
+      "minutes": 313.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ストグラ2】Day41 　半グレの仲間探しながら…【#恋沼ミヤ/#神楽坂レイナ】",
+      "game": null,
+      "peakViewers": 13,
+      "avgViewers": 13.0,
+      "samples": [
+        [
+          "2026-11-05T17:37:51Z",
+          13
         ]
       ],
       "isTargetGame": false
