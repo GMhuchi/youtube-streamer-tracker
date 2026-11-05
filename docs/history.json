@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T02:11:10Z",
+  "updatedAt": "2026-11-05T09:36:53Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,16 +20,16 @@
       "gameMinutes": 0.0,
       "totalHours": 6.77,
       "gameHours": 0.0,
-      "sessions": 3,
+      "sessions": 5,
       "avgViewers": 305.2,
-      "peakViewers": 472
+      "peakViewers": 490
     },
     "week": {
       "totalMinutes": 4422.5,
       "gameMinutes": 0.0,
       "totalHours": 73.71,
       "gameHours": 0.0,
-      "sessions": 14,
+      "sessions": 16,
       "avgViewers": 159.3,
       "peakViewers": 707
     },
@@ -38,12 +38,408 @@
       "gameMinutes": 0.0,
       "totalHours": 135.35,
       "gameHours": 0.0,
-      "sessions": 28,
+      "sessions": 30,
       "avgViewers": 159.0,
       "peakViewers": 899
     }
   },
   "channels": [
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
+      "isLive": true,
+      "liveSince": "2026-11-05T09:36:53Z",
+      "liveTitle": "【空の軌跡 the 2nd】#1　完全初見　1では大号泣したが今回はどうだ？待望のリメイクやる🔥　　#恋沼ミヤ",
+      "lastEnd": "2026-11-01T18:45:41Z",
+      "lastTitle": "【ストグラ2】Day40 　久しぶりの起床！悪いことする？【#恋沼ミヤ/#神楽坂レイナ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 490.0,
+          "peakViewers": 490
+        },
+        "week": {
+          "totalMinutes": 225.7,
+          "gameMinutes": 0.0,
+          "totalHours": 3.76,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 23.0,
+          "peakViewers": 490
+        },
+        "month": {
+          "totalMinutes": 489.4,
+          "gameMinutes": 0.0,
+          "totalHours": 8.16,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 23.8,
+          "peakViewers": 490
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "ymAh5okwNNg",
+          "videoUrl": "https://www.youtube.com/watch?v=ymAh5okwNNg",
+          "start": "2026-11-01T13:50:35Z",
+          "end": "2026-11-01T18:45:41Z",
+          "minutes": 295.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラ2】Day40 　久しぶりの起床！悪いことする？【#恋沼ミヤ/#神楽坂レイナ】",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [
+            [
+              "2026-11-01T13:50:35Z",
+              23
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "gIxexrjaZBY",
+          "videoUrl": "https://www.youtube.com/watch?v=gIxexrjaZBY",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【同時視聴】ハッピーハロウィン👻ホラー映画：テリファーを一緒にみよ？　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 25,
+          "avgViewers": 25.0,
+          "samples": [
+            [
+              "2026-10-31T13:51:54Z",
+              25
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "AXgCEztErhU",
+          "videoUrl": "https://www.youtube.com/watch?v=AXgCEztErhU",
+          "start": "2026-10-31T06:03:55Z",
+          "end": "2026-10-31T07:44:43Z",
+          "minutes": 100.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】ハロウィンだからお菓子作りしてみる！🍪　（大黒柱さん以上対象）　【恋沼ミヤ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "Zb0ut4_EQJE",
+          "videoUrl": "https://www.youtube.com/watch?v=Zb0ut4_EQJE",
+          "start": "2026-10-30T13:09:23Z",
+          "end": "2026-10-30T18:37:28Z",
+          "minutes": 328.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】今日もおつかれさま～🌙ゆっくりお話しよう？　 #恋沼ミヤ",
+          "game": null,
+          "peakViewers": 51,
+          "avgViewers": 51.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "yTfGeSYrI0U",
+          "videoUrl": "https://www.youtube.com/watch?v=yTfGeSYrI0U",
+          "start": "2026-10-28T13:36:05Z",
+          "end": "2026-10-28T19:05:57Z",
+          "minutes": 329.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【トルネコの大冒険】#5　トルネコとか大得意ジャンルだしやる🔥27階へ…　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 53,
+          "avgViewers": 53.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "A1WY3LJ59Xg",
+          "videoUrl": "https://www.youtube.com/watch?v=A1WY3LJ59Xg",
+          "start": "2026-10-27T06:00:59Z",
+          "end": "2026-10-27T12:02:47Z",
+          "minutes": 361.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【トルネコの大冒険】#3　トルネコとか大得意ジャンルだしやる🔥5回死んだらやめる☠　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 67,
+          "avgViewers": 67.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "bvs8PbmzMSg",
+          "videoUrl": "https://www.youtube.com/watch?v=bvs8PbmzMSg",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T17:26:13Z",
+          "minutes": 215.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【トルネコの大冒険】#2　トルネコとか大得意ジャンルだしやる🔥台パンとかしないし？　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 51,
+          "avgViewers": 51.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "EzykmB334Jo",
+          "videoUrl": "https://www.youtube.com/watch?v=EzykmB334Jo",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【トルネコの大冒険】#1　トルネコとか大得意ジャンルだしやる🔥　　#恋沼ミヤ",
+          "game": null,
+          "peakViewers": 59,
+          "avgViewers": 59.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 490,
+      "livePeakViewers": 490,
+      "liveAvgViewers": 490.0,
+      "liveSamples": [
+        [
+          "2026-11-05T09:36:53Z",
+          490
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=dLg26Aq21V0"
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
+      "isLive": true,
+      "liveSince": "2026-11-05T09:36:53Z",
+      "liveTitle": "【VALORANT】おい、久々にやるぜVALORANT メンバー概要欄【瀬尾カザリ / ネオポルテ】",
+      "lastEnd": "2026-11-01T18:45:41Z",
+      "lastTitle": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 34.0,
+          "peakViewers": 34
+        },
+        "week": {
+          "totalMinutes": 225.7,
+          "gameMinutes": 0.0,
+          "totalHours": 3.76,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 28.0,
+          "peakViewers": 34
+        },
+        "month": {
+          "totalMinutes": 489.4,
+          "gameMinutes": 0.0,
+          "totalHours": 8.16,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 22.4,
+          "peakViewers": 34
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "i0vswj93hZk",
+          "videoUrl": "https://www.youtube.com/watch?v=i0vswj93hZk",
+          "start": "2026-11-01T13:50:35Z",
+          "end": "2026-11-01T18:45:41Z",
+          "minutes": 295.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 28.0,
+          "samples": [
+            [
+              "2026-11-01T13:50:35Z",
+              28
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "dxPO7HVW0Ss",
+          "videoUrl": "https://www.youtube.com/watch?v=dxPO7HVW0Ss",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【球ひろいシミュレーター】おい、ハロウィンに最恐ホラゲいくぞ【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [
+            [
+              "2026-10-31T13:51:54Z",
+              14
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "u7pyzXgnDXw",
+          "videoUrl": "https://www.youtube.com/watch?v=u7pyzXgnDXw",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T17:26:13Z",
+          "minutes": 215.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラSeason2】＃３ チルを極める 風見セオ視点【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "OsCj3OuOKD8",
+          "videoUrl": "https://www.youtube.com/watch?v=OsCj3OuOKD8",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラSeason2】＃２ なにするなにする 風見セオ視点【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 60,
+          "avgViewers": 60.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "ttENKVrxX1o",
+          "videoUrl": "https://www.youtube.com/watch?v=ttENKVrxX1o",
+          "start": "2026-10-16T15:36:00Z",
+          "end": "2026-10-16T19:01:06Z",
+          "minutes": 205.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGECITY】＃7 最終日の可能性あります【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "J4ca79EZ-7s",
+          "videoUrl": "https://www.youtube.com/watch?v=J4ca79EZ-7s",
+          "start": "2026-10-15T13:40:53Z",
+          "end": "2026-10-15T17:54:42Z",
+          "minutes": 253.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGECITY】＃６ 店番の帝王【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "eGO7CNEnu7E",
+          "videoUrl": "https://www.youtube.com/watch?v=eGO7CNEnu7E",
+          "start": "2026-10-14T12:55:26Z",
+          "end": "2026-10-14T17:49:11Z",
+          "minutes": 293.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGECITY】＃5 今日だけは合コン王【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 35.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "G6iICE9g74E",
+          "videoUrl": "https://www.youtube.com/watch?v=G6iICE9g74E",
+          "start": "2026-10-11T13:29:42Z",
+          "end": "2026-10-11T18:24:07Z",
+          "minutes": 294.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【SURGECITY】＃３ 燃えろメイド王【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 39,
+          "avgViewers": 39.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 34,
+      "livePeakViewers": 34,
+      "liveAvgViewers": 34.0,
+      "liveSamples": [
+        [
+          "2026-11-05T09:36:53Z",
+          34
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=Yglay6mziDU"
+    },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
       "name": "火狩夜れんま",
@@ -1384,382 +1780,6 @@
           "game": null,
           "peakViewers": 501,
           "avgViewers": 501.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-01T18:45:41Z",
-      "lastTitle": "【ストグラ2】Day40 　久しぶりの起床！悪いことする？【#恋沼ミヤ/#神楽坂レイナ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 225.7,
-          "gameMinutes": 0.0,
-          "totalHours": 3.76,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 23.0,
-          "peakViewers": 23
-        },
-        "month": {
-          "totalMinutes": 489.4,
-          "gameMinutes": 0.0,
-          "totalHours": 8.16,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 23.8,
-          "peakViewers": 25
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "ymAh5okwNNg",
-          "videoUrl": "https://www.youtube.com/watch?v=ymAh5okwNNg",
-          "start": "2026-11-01T13:50:35Z",
-          "end": "2026-11-01T18:45:41Z",
-          "minutes": 295.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラ2】Day40 　久しぶりの起床！悪いことする？【#恋沼ミヤ/#神楽坂レイナ】",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [
-            [
-              "2026-11-01T13:50:35Z",
-              23
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "gIxexrjaZBY",
-          "videoUrl": "https://www.youtube.com/watch?v=gIxexrjaZBY",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【同時視聴】ハッピーハロウィン👻ホラー映画：テリファーを一緒にみよ？　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 25,
-          "avgViewers": 25.0,
-          "samples": [
-            [
-              "2026-10-31T13:51:54Z",
-              25
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "AXgCEztErhU",
-          "videoUrl": "https://www.youtube.com/watch?v=AXgCEztErhU",
-          "start": "2026-10-31T06:03:55Z",
-          "end": "2026-10-31T07:44:43Z",
-          "minutes": 100.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】ハロウィンだからお菓子作りしてみる！🍪　（大黒柱さん以上対象）　【恋沼ミヤ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Zb0ut4_EQJE",
-          "videoUrl": "https://www.youtube.com/watch?v=Zb0ut4_EQJE",
-          "start": "2026-10-30T13:09:23Z",
-          "end": "2026-10-30T18:37:28Z",
-          "minutes": 328.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】今日もおつかれさま～🌙ゆっくりお話しよう？　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 51,
-          "avgViewers": 51.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "yTfGeSYrI0U",
-          "videoUrl": "https://www.youtube.com/watch?v=yTfGeSYrI0U",
-          "start": "2026-10-28T13:36:05Z",
-          "end": "2026-10-28T19:05:57Z",
-          "minutes": 329.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【トルネコの大冒険】#5　トルネコとか大得意ジャンルだしやる🔥27階へ…　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 53,
-          "avgViewers": 53.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "A1WY3LJ59Xg",
-          "videoUrl": "https://www.youtube.com/watch?v=A1WY3LJ59Xg",
-          "start": "2026-10-27T06:00:59Z",
-          "end": "2026-10-27T12:02:47Z",
-          "minutes": 361.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【トルネコの大冒険】#3　トルネコとか大得意ジャンルだしやる🔥5回死んだらやめる☠　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 67,
-          "avgViewers": 67.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "bvs8PbmzMSg",
-          "videoUrl": "https://www.youtube.com/watch?v=bvs8PbmzMSg",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T17:26:13Z",
-          "minutes": 215.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【トルネコの大冒険】#2　トルネコとか大得意ジャンルだしやる🔥台パンとかしないし？　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 51,
-          "avgViewers": 51.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "EzykmB334Jo",
-          "videoUrl": "https://www.youtube.com/watch?v=EzykmB334Jo",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【トルネコの大冒険】#1　トルネコとか大得意ジャンルだしやる🔥　　#恋沼ミヤ",
-          "game": null,
-          "peakViewers": 59,
-          "avgViewers": 59.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-01T18:45:41Z",
-      "lastTitle": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 225.7,
-          "gameMinutes": 0.0,
-          "totalHours": 3.76,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 28.0,
-          "peakViewers": 28
-        },
-        "month": {
-          "totalMinutes": 489.4,
-          "gameMinutes": 0.0,
-          "totalHours": 8.16,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 22.4,
-          "peakViewers": 28
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "i0vswj93hZk",
-          "videoUrl": "https://www.youtube.com/watch?v=i0vswj93hZk",
-          "start": "2026-11-01T13:50:35Z",
-          "end": "2026-11-01T18:45:41Z",
-          "minutes": 295.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 28.0,
-          "samples": [
-            [
-              "2026-11-01T13:50:35Z",
-              28
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "dxPO7HVW0Ss",
-          "videoUrl": "https://www.youtube.com/watch?v=dxPO7HVW0Ss",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【球ひろいシミュレーター】おい、ハロウィンに最恐ホラゲいくぞ【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
-          "samples": [
-            [
-              "2026-10-31T13:51:54Z",
-              14
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "u7pyzXgnDXw",
-          "videoUrl": "https://www.youtube.com/watch?v=u7pyzXgnDXw",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T17:26:13Z",
-          "minutes": 215.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラSeason2】＃３ チルを極める 風見セオ視点【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "OsCj3OuOKD8",
-          "videoUrl": "https://www.youtube.com/watch?v=OsCj3OuOKD8",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラSeason2】＃２ なにするなにする 風見セオ視点【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 60,
-          "avgViewers": 60.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "ttENKVrxX1o",
-          "videoUrl": "https://www.youtube.com/watch?v=ttENKVrxX1o",
-          "start": "2026-10-16T15:36:00Z",
-          "end": "2026-10-16T19:01:06Z",
-          "minutes": 205.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGECITY】＃7 最終日の可能性あります【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "J4ca79EZ-7s",
-          "videoUrl": "https://www.youtube.com/watch?v=J4ca79EZ-7s",
-          "start": "2026-10-15T13:40:53Z",
-          "end": "2026-10-15T17:54:42Z",
-          "minutes": 253.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGECITY】＃６ 店番の帝王【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "eGO7CNEnu7E",
-          "videoUrl": "https://www.youtube.com/watch?v=eGO7CNEnu7E",
-          "start": "2026-10-14T12:55:26Z",
-          "end": "2026-10-14T17:49:11Z",
-          "minutes": 293.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGECITY】＃5 今日だけは合コン王【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 35,
-          "avgViewers": 35.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "G6iICE9g74E",
-          "videoUrl": "https://www.youtube.com/watch?v=G6iICE9g74E",
-          "start": "2026-10-11T13:29:42Z",
-          "end": "2026-10-11T18:24:07Z",
-          "minutes": 294.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGECITY】＃３ 燃えろメイド王【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 39,
-          "avgViewers": 39.0,
           "samples": [],
           "isTargetGame": false
         }
