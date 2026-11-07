@@ -1,141 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "Ulazsa4Ny64",
-      "start": "2026-11-07T15:37:54Z",
-      "startSource": "observed",
-      "title": "〖 歌枠╎KARAOKE 〗 深夜に歌枠する日もある  〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 56,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T15:37:54Z",
-      "lastSeenAt": "2026-11-07T15:37:54Z",
-      "samples": [
-        [
-          "2026-11-07T15:37:54Z",
-          56
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "1lmLiBUhnQ0",
-      "start": "2026-11-07T15:37:54Z",
-      "startSource": "observed",
-      "title": "【イモ剥き】イモの山消えるまでイモ剥きします【Potato Please】【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 89,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T15:37:54Z",
-      "lastSeenAt": "2026-11-07T15:37:54Z",
-      "samples": [
-        [
-          "2026-11-07T15:37:54Z",
-          89
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "rMi9PFfHH_w",
-      "start": "2026-11-07T15:37:54Z",
-      "startSource": "observed",
-      "title": "【ゼルダの伝説 時のオカリナ】時の勇者、始めます #2【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 68,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T15:37:54Z",
-      "lastSeenAt": "2026-11-07T15:37:54Z",
-      "samples": [
-        [
-          "2026-11-07T15:37:54Z",
-          68
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "_3wPgDJfC-8",
-      "start": "2026-11-07T15:37:54Z",
-      "startSource": "observed",
-      "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
-      "game": null,
-      "peakViewers": 11,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T15:37:54Z",
-      "lastSeenAt": "2026-11-07T15:37:54Z",
-      "samples": [
-        [
-          "2026-11-07T15:37:54Z",
-          11
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "qvP6jdQieVY",
-      "start": "2026-11-07T15:37:54Z",
-      "startSource": "observed",
-      "title": "【ガチグラ２】Day1 　今回はなにする…？　【#恋沼ミヤ】",
-      "game": null,
-      "peakViewers": 52,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T15:37:54Z",
-      "lastSeenAt": "2026-11-07T15:37:54Z",
-      "samples": [
-        [
-          "2026-11-07T15:37:54Z",
-          52
-        ]
-      ]
-    },
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "cY1rna9nf0o",
-      "start": "2026-11-07T15:37:54Z",
-      "startSource": "observed",
-      "title": "【怪異番号~20✕✕~】ガチおもろホラー、続きをやっていくぞ　恐らくラスト【水上蒼太/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 27,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T15:37:54Z",
-      "lastSeenAt": "2026-11-07T15:37:54Z",
-      "samples": [
-        [
-          "2026-11-07T15:37:54Z",
-          27
-        ]
-      ]
-    },
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "EFxx4T2Qu94",
-      "start": "2026-11-07T15:37:54Z",
-      "startSource": "observed",
-      "title": "※ネタバレ注意【都市伝説解体センター】結構話が大きくなってきましたね？【ゲーム実況】【十神仁/ YUMENOS】",
-      "game": null,
-      "peakViewers": 6,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T15:37:54Z",
-      "lastSeenAt": "2026-11-07T15:37:54Z",
-      "samples": [
-        [
-          "2026-11-07T15:37:54Z",
-          6
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -5880,120 +5746,7 @@
       "game": null,
       "peakViewers": 31,
       "avgViewers": 16.6,
-      "samples": [
-        [
-          "2026-09-23T09:22:45Z",
-          28
-        ],
-        [
-          "2026-09-23T09:41:12Z",
-          22
-        ],
-        [
-          "2026-09-23T09:57:14Z",
-          19
-        ],
-        [
-          "2026-09-23T10:15:40Z",
-          18
-        ],
-        [
-          "2026-09-23T10:32:10Z",
-          13
-        ],
-        [
-          "2026-09-23T10:49:27Z",
-          19
-        ],
-        [
-          "2026-09-23T11:00:01Z",
-          15
-        ],
-        [
-          "2026-09-23T11:18:40Z",
-          18
-        ],
-        [
-          "2026-09-23T11:33:39Z",
-          22
-        ],
-        [
-          "2026-09-23T11:48:57Z",
-          18
-        ],
-        [
-          "2026-09-23T11:59:37Z",
-          19
-        ],
-        [
-          "2026-09-23T12:23:23Z",
-          18
-        ],
-        [
-          "2026-09-23T12:44:43Z",
-          15
-        ],
-        [
-          "2026-09-23T12:59:38Z",
-          12
-        ],
-        [
-          "2026-09-23T13:20:38Z",
-          15
-        ],
-        [
-          "2026-09-23T13:41:22Z",
-          20
-        ],
-        [
-          "2026-09-23T13:56:29Z",
-          16
-        ],
-        [
-          "2026-09-23T14:14:18Z",
-          16
-        ],
-        [
-          "2026-09-23T14:32:55Z",
-          14
-        ],
-        [
-          "2026-09-23T14:50:56Z",
-          12
-        ],
-        [
-          "2026-09-23T15:10:49Z",
-          12
-        ],
-        [
-          "2026-09-23T15:32:17Z",
-          18
-        ],
-        [
-          "2026-09-23T15:49:28Z",
-          31
-        ],
-        [
-          "2026-09-23T15:59:56Z",
-          13
-        ],
-        [
-          "2026-09-23T16:20:35Z",
-          14
-        ],
-        [
-          "2026-09-23T16:41:56Z",
-          16
-        ],
-        [
-          "2026-09-23T16:56:45Z",
-          9
-        ],
-        [
-          "2026-09-23T17:14:28Z",
-          14
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6010,112 +5763,7 @@
       "game": null,
       "peakViewers": 61,
       "avgViewers": 43.3,
-      "samples": [
-        [
-          "2026-09-23T09:57:14Z",
-          55
-        ],
-        [
-          "2026-09-23T10:15:40Z",
-          54
-        ],
-        [
-          "2026-09-23T10:32:10Z",
-          52
-        ],
-        [
-          "2026-09-23T10:49:27Z",
-          55
-        ],
-        [
-          "2026-09-23T11:00:01Z",
-          61
-        ],
-        [
-          "2026-09-23T11:18:40Z",
-          57
-        ],
-        [
-          "2026-09-23T11:33:39Z",
-          51
-        ],
-        [
-          "2026-09-23T11:48:57Z",
-          61
-        ],
-        [
-          "2026-09-23T11:59:37Z",
-          57
-        ],
-        [
-          "2026-09-23T12:23:23Z",
-          47
-        ],
-        [
-          "2026-09-23T12:44:43Z",
-          43
-        ],
-        [
-          "2026-09-23T12:59:38Z",
-          51
-        ],
-        [
-          "2026-09-23T13:20:38Z",
-          44
-        ],
-        [
-          "2026-09-23T13:41:22Z",
-          39
-        ],
-        [
-          "2026-09-23T13:56:29Z",
-          45
-        ],
-        [
-          "2026-09-23T14:14:18Z",
-          38
-        ],
-        [
-          "2026-09-23T14:32:55Z",
-          44
-        ],
-        [
-          "2026-09-23T14:50:56Z",
-          40
-        ],
-        [
-          "2026-09-23T15:10:49Z",
-          38
-        ],
-        [
-          "2026-09-23T15:32:17Z",
-          33
-        ],
-        [
-          "2026-09-23T15:49:28Z",
-          38
-        ],
-        [
-          "2026-09-23T15:59:56Z",
-          33
-        ],
-        [
-          "2026-09-23T16:20:35Z",
-          25
-        ],
-        [
-          "2026-09-23T16:41:56Z",
-          25
-        ],
-        [
-          "2026-09-23T16:56:45Z",
-          24
-        ],
-        [
-          "2026-09-23T17:14:28Z",
-          23
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6183,92 +5831,7 @@
       "game": null,
       "peakViewers": 61,
       "avgViewers": 53.4,
-      "samples": [
-        [
-          "2026-09-23T11:18:40Z",
-          33
-        ],
-        [
-          "2026-09-23T11:33:39Z",
-          57
-        ],
-        [
-          "2026-09-23T11:48:57Z",
-          56
-        ],
-        [
-          "2026-09-23T11:59:37Z",
-          60
-        ],
-        [
-          "2026-09-23T12:23:23Z",
-          53
-        ],
-        [
-          "2026-09-23T12:44:43Z",
-          50
-        ],
-        [
-          "2026-09-23T12:59:38Z",
-          47
-        ],
-        [
-          "2026-09-23T13:20:38Z",
-          50
-        ],
-        [
-          "2026-09-23T13:41:22Z",
-          56
-        ],
-        [
-          "2026-09-23T13:56:29Z",
-          55
-        ],
-        [
-          "2026-09-23T14:14:18Z",
-          51
-        ],
-        [
-          "2026-09-23T14:32:55Z",
-          53
-        ],
-        [
-          "2026-09-23T14:50:56Z",
-          58
-        ],
-        [
-          "2026-09-23T15:10:49Z",
-          58
-        ],
-        [
-          "2026-09-23T15:32:17Z",
-          61
-        ],
-        [
-          "2026-09-23T15:49:28Z",
-          54
-        ],
-        [
-          "2026-09-23T15:59:56Z",
-          53
-        ],
-        [
-          "2026-09-23T16:20:35Z",
-          52
-        ],
-        [
-          "2026-09-23T16:41:56Z",
-          51
-        ],
-        [
-          "2026-09-23T16:56:45Z",
-          59
-        ],
-        [
-          "2026-09-23T17:14:28Z",
-          51
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6285,96 +5848,7 @@
       "game": null,
       "peakViewers": 151,
       "avgViewers": 111.8,
-      "samples": [
-        [
-          "2026-09-23T11:18:40Z",
-          120
-        ],
-        [
-          "2026-09-23T11:33:39Z",
-          136
-        ],
-        [
-          "2026-09-23T11:48:57Z",
-          151
-        ],
-        [
-          "2026-09-23T11:59:37Z",
-          139
-        ],
-        [
-          "2026-09-23T12:23:23Z",
-          131
-        ],
-        [
-          "2026-09-23T12:44:43Z",
-          124
-        ],
-        [
-          "2026-09-23T12:59:38Z",
-          131
-        ],
-        [
-          "2026-09-23T13:20:38Z",
-          122
-        ],
-        [
-          "2026-09-23T13:41:22Z",
-          132
-        ],
-        [
-          "2026-09-23T13:56:29Z",
-          124
-        ],
-        [
-          "2026-09-23T14:14:18Z",
-          122
-        ],
-        [
-          "2026-09-23T14:32:55Z",
-          110
-        ],
-        [
-          "2026-09-23T14:50:56Z",
-          94
-        ],
-        [
-          "2026-09-23T15:10:49Z",
-          98
-        ],
-        [
-          "2026-09-23T15:32:17Z",
-          91
-        ],
-        [
-          "2026-09-23T15:49:28Z",
-          101
-        ],
-        [
-          "2026-09-23T15:59:56Z",
-          101
-        ],
-        [
-          "2026-09-23T16:20:35Z",
-          92
-        ],
-        [
-          "2026-09-23T16:41:56Z",
-          101
-        ],
-        [
-          "2026-09-23T16:56:45Z",
-          86
-        ],
-        [
-          "2026-09-23T17:14:28Z",
-          87
-        ],
-        [
-          "2026-09-23T17:30:36Z",
-          74
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6442,96 +5916,7 @@
       "game": null,
       "peakViewers": 83,
       "avgViewers": 40.8,
-      "samples": [
-        [
-          "2026-09-23T12:44:43Z",
-          28
-        ],
-        [
-          "2026-09-23T12:59:38Z",
-          34
-        ],
-        [
-          "2026-09-23T13:20:38Z",
-          36
-        ],
-        [
-          "2026-09-23T13:41:22Z",
-          34
-        ],
-        [
-          "2026-09-23T13:56:29Z",
-          36
-        ],
-        [
-          "2026-09-23T14:14:18Z",
-          31
-        ],
-        [
-          "2026-09-23T14:32:55Z",
-          29
-        ],
-        [
-          "2026-09-23T14:50:56Z",
-          29
-        ],
-        [
-          "2026-09-23T15:10:49Z",
-          33
-        ],
-        [
-          "2026-09-23T15:32:17Z",
-          34
-        ],
-        [
-          "2026-09-23T15:49:28Z",
-          37
-        ],
-        [
-          "2026-09-23T15:59:56Z",
-          34
-        ],
-        [
-          "2026-09-23T16:20:35Z",
-          30
-        ],
-        [
-          "2026-09-23T16:41:56Z",
-          38
-        ],
-        [
-          "2026-09-23T16:56:45Z",
-          27
-        ],
-        [
-          "2026-09-23T17:14:28Z",
-          30
-        ],
-        [
-          "2026-09-23T17:30:36Z",
-          83
-        ],
-        [
-          "2026-09-23T17:47:16Z",
-          64
-        ],
-        [
-          "2026-09-23T17:58:33Z",
-          61
-        ],
-        [
-          "2026-09-23T18:21:05Z",
-          61
-        ],
-        [
-          "2026-09-23T18:42:02Z",
-          62
-        ],
-        [
-          "2026-09-23T18:57:23Z",
-          54
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -27284,6 +26669,160 @@
         [
           "2026-11-07T09:03:40Z",
           8
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "Ulazsa4Ny64",
+      "videoUrl": "https://www.youtube.com/watch?v=Ulazsa4Ny64",
+      "start": "2026-11-07T15:37:54Z",
+      "end": "2026-11-07T19:37:06Z",
+      "minutes": 239.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 歌枠╎KARAOKE 〗 深夜に歌枠する日もある  〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 56,
+      "avgViewers": 56.0,
+      "samples": [
+        [
+          "2026-11-07T15:37:54Z",
+          56
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "1lmLiBUhnQ0",
+      "videoUrl": "https://www.youtube.com/watch?v=1lmLiBUhnQ0",
+      "start": "2026-11-07T15:37:54Z",
+      "end": "2026-11-07T19:37:06Z",
+      "minutes": 239.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【イモ剥き】イモの山消えるまでイモ剥きします【Potato Please】【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 89,
+      "avgViewers": 89.0,
+      "samples": [
+        [
+          "2026-11-07T15:37:54Z",
+          89
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "rMi9PFfHH_w",
+      "videoUrl": "https://www.youtube.com/watch?v=rMi9PFfHH_w",
+      "start": "2026-11-07T15:37:54Z",
+      "end": "2026-11-07T19:37:06Z",
+      "minutes": 239.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ゼルダの伝説 時のオカリナ】時の勇者、始めます #2【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 68,
+      "avgViewers": 68.0,
+      "samples": [
+        [
+          "2026-11-07T15:37:54Z",
+          68
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "_3wPgDJfC-8",
+      "videoUrl": "https://www.youtube.com/watch?v=_3wPgDJfC-8",
+      "start": "2026-11-07T15:37:54Z",
+      "end": "2026-11-07T19:37:06Z",
+      "minutes": 239.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
+      "game": null,
+      "peakViewers": 11,
+      "avgViewers": 11.0,
+      "samples": [
+        [
+          "2026-11-07T15:37:54Z",
+          11
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "qvP6jdQieVY",
+      "videoUrl": "https://www.youtube.com/watch?v=qvP6jdQieVY",
+      "start": "2026-11-07T15:37:54Z",
+      "end": "2026-11-07T19:37:06Z",
+      "minutes": 239.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ガチグラ２】Day1 　今回はなにする…？　【#恋沼ミヤ】",
+      "game": null,
+      "peakViewers": 52,
+      "avgViewers": 52.0,
+      "samples": [
+        [
+          "2026-11-07T15:37:54Z",
+          52
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "cY1rna9nf0o",
+      "videoUrl": "https://www.youtube.com/watch?v=cY1rna9nf0o",
+      "start": "2026-11-07T15:37:54Z",
+      "end": "2026-11-07T19:37:06Z",
+      "minutes": 239.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【怪異番号~20✕✕~】ガチおもろホラー、続きをやっていくぞ　恐らくラスト【水上蒼太/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 27,
+      "avgViewers": 27.0,
+      "samples": [
+        [
+          "2026-11-07T15:37:54Z",
+          27
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "EFxx4T2Qu94",
+      "videoUrl": "https://www.youtube.com/watch?v=EFxx4T2Qu94",
+      "start": "2026-11-07T15:37:54Z",
+      "end": "2026-11-07T19:37:06Z",
+      "minutes": 239.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "※ネタバレ注意【都市伝説解体センター】結構話が大きくなってきましたね？【ゲーム実況】【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 6,
+      "avgViewers": 6.0,
+      "samples": [
+        [
+          "2026-11-07T15:37:54Z",
+          6
         ]
       ],
       "isTargetGame": false
