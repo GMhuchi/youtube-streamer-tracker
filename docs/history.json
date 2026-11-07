@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:37:06Z",
+  "updatedAt": "2026-11-07T22:59:32Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,30 +20,233 @@
       "gameMinutes": 0.0,
       "totalHours": 29.17,
       "gameHours": 0.0,
-      "sessions": 9,
+      "sessions": 10,
       "avgViewers": 42.9,
-      "peakViewers": 89
+      "peakViewers": 789
     },
     "week": {
       "totalMinutes": 12276.3,
       "gameMinutes": 0.0,
       "totalHours": 204.6,
       "gameHours": 0.0,
-      "sessions": 38,
+      "sessions": 39,
       "avgViewers": 115.6,
-      "peakViewers": 738
+      "peakViewers": 789
     },
     "month": {
       "totalMinutes": 15975.0,
       "gameMinutes": 0.0,
       "totalHours": 266.25,
       "gameHours": 0.0,
-      "sessions": 52,
+      "sessions": 53,
       "avgViewers": 125.1,
       "peakViewers": 899
     }
   },
   "channels": [
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "isLive": true,
+      "liveSince": "2026-11-07T22:59:32Z",
+      "liveTitle": "【朝活/雑談】#314［2026.11/8］日曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "lastEnd": "2026-11-07T02:25:12Z",
+      "lastTitle": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 789.0,
+          "peakViewers": 789
+        },
+        "week": {
+          "totalMinutes": 805.7,
+          "gameMinutes": 0.0,
+          "totalHours": 13.43,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 611.0,
+          "peakViewers": 789
+        },
+        "month": {
+          "totalMinutes": 805.7,
+          "gameMinutes": 0.0,
+          "totalHours": 13.43,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 611.0,
+          "peakViewers": 789
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "HkaNlcXeY14",
+          "videoUrl": "https://www.youtube.com/watch?v=HkaNlcXeY14",
+          "start": "2026-11-06T22:49:11Z",
+          "end": "2026-11-07T02:25:12Z",
+          "minutes": 216.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 738,
+          "avgViewers": 738.0,
+          "samples": [
+            [
+              "2026-11-06T22:49:11Z",
+              738
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "tdEBCXI8Ayk",
+          "videoUrl": "https://www.youtube.com/watch?v=tdEBCXI8Ayk",
+          "start": "2026-11-04T21:58:07Z",
+          "end": "2026-11-05T02:11:10Z",
+          "minutes": 253.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#312［2026.11/5］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 472,
+          "avgViewers": 472.0,
+          "samples": [
+            [
+              "2026-11-04T21:58:07Z",
+              472
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "H0wMMR_eqgk",
+          "videoUrl": "https://www.youtube.com/watch?v=H0wMMR_eqgk",
+          "start": "2026-11-03T16:09:17Z",
+          "end": "2026-11-03T21:45:52Z",
+          "minutes": 336.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ポケモンチャンピオンズ】ランクマ最終日の世界にご挨拶！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 634,
+          "avgViewers": 634.0,
+          "samples": [
+            [
+              "2026-11-03T16:09:17Z",
+              634
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "NcuiMlPrcAY",
+          "videoUrl": "https://www.youtube.com/watch?v=NcuiMlPrcAY",
+          "start": "2026-10-29T15:39:17Z",
+          "end": "2026-10-29T20:36:58Z",
+          "minutes": 297.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほぐラジ #12】みんなの『クリエイティブ』を集めてみた！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 445,
+          "avgViewers": 445.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "bCI6mrt6n74",
+          "videoUrl": "https://www.youtube.com/watch?v=bCI6mrt6n74",
+          "start": "2026-10-27T21:55:34Z",
+          "end": "2026-10-28T01:00:51Z",
+          "minutes": 185.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#310［2026.10/28］久しぶり。【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 409,
+          "avgViewers": 409.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "H4dHs1m62Q0",
+          "videoUrl": "https://www.youtube.com/watch?v=H4dHs1m62Q0",
+          "start": "2026-10-19T12:01:49Z",
+          "end": "2026-10-19T16:38:02Z",
+          "minutes": 276.2,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【作業雑談】９月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "ucq4_s_RcxY",
+          "videoUrl": "https://www.youtube.com/watch?v=ucq4_s_RcxY",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T16:46:57Z",
+          "minutes": 198.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ポケモンチャンピオンズ】上位構築をお借りしてアブソルお勉強ランクマ！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 812,
+          "avgViewers": 812.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "DU5GIp-_TwU",
+          "videoUrl": "https://www.youtube.com/watch?v=DU5GIp-_TwU",
+          "start": "2026-10-17T22:43:08Z",
+          "end": "2026-10-18T00:26:35Z",
+          "minutes": 103.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#307［2026.10/18］18万人の瞬間を一緒に見届けたい朝活！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 676,
+          "avgViewers": 676.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 789,
+      "livePeakViewers": 789,
+      "liveAvgViewers": 789.0,
+      "liveSamples": [
+        [
+          "2026-11-07T22:59:32Z",
+          789
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=i-A-lb4Txj0"
+    },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
       "name": "恋沼ミヤ",
@@ -1963,199 +2166,6 @@
           "game": null,
           "peakViewers": 37,
           "avgViewers": 37.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-07T02:25:12Z",
-      "lastTitle": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 805.6,
-          "gameMinutes": 0.0,
-          "totalHours": 13.43,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 611.0,
-          "peakViewers": 738
-        },
-        "month": {
-          "totalMinutes": 805.6,
-          "gameMinutes": 0.0,
-          "totalHours": 13.43,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 611.0,
-          "peakViewers": 738
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "HkaNlcXeY14",
-          "videoUrl": "https://www.youtube.com/watch?v=HkaNlcXeY14",
-          "start": "2026-11-06T22:49:11Z",
-          "end": "2026-11-07T02:25:12Z",
-          "minutes": 216.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 738,
-          "avgViewers": 738.0,
-          "samples": [
-            [
-              "2026-11-06T22:49:11Z",
-              738
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "tdEBCXI8Ayk",
-          "videoUrl": "https://www.youtube.com/watch?v=tdEBCXI8Ayk",
-          "start": "2026-11-04T21:58:07Z",
-          "end": "2026-11-05T02:11:10Z",
-          "minutes": 253.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#312［2026.11/5］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 472,
-          "avgViewers": 472.0,
-          "samples": [
-            [
-              "2026-11-04T21:58:07Z",
-              472
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "H0wMMR_eqgk",
-          "videoUrl": "https://www.youtube.com/watch?v=H0wMMR_eqgk",
-          "start": "2026-11-03T16:09:17Z",
-          "end": "2026-11-03T21:45:52Z",
-          "minutes": 336.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ポケモンチャンピオンズ】ランクマ最終日の世界にご挨拶！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 634,
-          "avgViewers": 634.0,
-          "samples": [
-            [
-              "2026-11-03T16:09:17Z",
-              634
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "NcuiMlPrcAY",
-          "videoUrl": "https://www.youtube.com/watch?v=NcuiMlPrcAY",
-          "start": "2026-10-29T15:39:17Z",
-          "end": "2026-10-29T20:36:58Z",
-          "minutes": 297.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほぐラジ #12】みんなの『クリエイティブ』を集めてみた！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 445,
-          "avgViewers": 445.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "bCI6mrt6n74",
-          "videoUrl": "https://www.youtube.com/watch?v=bCI6mrt6n74",
-          "start": "2026-10-27T21:55:34Z",
-          "end": "2026-10-28T01:00:51Z",
-          "minutes": 185.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#310［2026.10/28］久しぶり。【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 409,
-          "avgViewers": 409.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "H4dHs1m62Q0",
-          "videoUrl": "https://www.youtube.com/watch?v=H4dHs1m62Q0",
-          "start": "2026-10-19T12:01:49Z",
-          "end": "2026-10-19T16:38:02Z",
-          "minutes": 276.2,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【作業雑談】９月にスパチャ・メンギフくれたみんなのお名前書きます！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "ucq4_s_RcxY",
-          "videoUrl": "https://www.youtube.com/watch?v=ucq4_s_RcxY",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T16:46:57Z",
-          "minutes": 198.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ポケモンチャンピオンズ】上位構築をお借りしてアブソルお勉強ランクマ！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 812,
-          "avgViewers": 812.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "DU5GIp-_TwU",
-          "videoUrl": "https://www.youtube.com/watch?v=DU5GIp-_TwU",
-          "start": "2026-10-17T22:43:08Z",
-          "end": "2026-10-18T00:26:35Z",
-          "minutes": 103.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#307［2026.10/18］18万人の瞬間を一緒に見届けたい朝活！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 676,
-          "avgViewers": 676.0,
           "samples": [],
           "isTargetGame": false
         }
