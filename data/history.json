@@ -1,27 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "HkaNlcXeY14",
-      "start": "2026-11-06T22:49:11Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 738,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-06T22:49:11Z",
-      "lastSeenAt": "2026-11-06T22:49:11Z",
-      "samples": [
-        [
-          "2026-11-06T22:49:11Z",
-          738
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -27624,6 +27604,28 @@
         [
           "2026-11-06T17:55:54Z",
           16
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "HkaNlcXeY14",
+      "videoUrl": "https://www.youtube.com/watch?v=HkaNlcXeY14",
+      "start": "2026-11-06T22:49:11Z",
+      "end": "2026-11-07T02:25:12Z",
+      "minutes": 216.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 738,
+      "avgViewers": 738.0,
+      "samples": [
+        [
+          "2026-11-06T22:49:11Z",
+          738
         ]
       ],
       "isTargetGame": false
