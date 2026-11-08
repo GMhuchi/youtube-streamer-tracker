@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:03:43Z",
+  "updatedAt": "2026-11-08T20:25:31Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 0.0,
+      "totalMinutes": 545.1,
       "gameMinutes": 0.0,
-      "totalHours": 0.0,
+      "totalHours": 9.08,
       "gameHours": 0.0,
       "sessions": 3,
       "avgViewers": 35.0,
       "peakViewers": 35
     },
     "week": {
-      "totalMinutes": 0.0,
+      "totalMinutes": 545.1,
       "gameMinutes": 0.0,
-      "totalHours": 0.0,
+      "totalHours": 9.08,
       "gameHours": 0.0,
       "sessions": 3,
       "avgViewers": 35.0,
       "peakViewers": 35
     },
     "month": {
-      "totalMinutes": 16173.6,
+      "totalMinutes": 16917.8,
       "gameMinutes": 0.0,
-      "totalHours": 269.56,
+      "totalHours": 281.96,
       "gameHours": 0.0,
       "sessions": 56,
-      "avgViewers": 133.4,
+      "avgViewers": 131.8,
       "peakViewers": 899
     }
   },
@@ -49,41 +49,63 @@
       "name": "恋沼ミヤ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": true,
-      "liveSince": "2026-11-08T16:03:43Z",
-      "liveTitle": "【ガチグラ２】Day2 　今回も警察頑張るよ～～～🔥　【#恋沼ミヤ】",
-      "lastEnd": "2026-11-07T19:37:06Z",
-      "lastTitle": "【ガチグラ２】Day1 　今回はなにする…？　【#恋沼ミヤ】",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-08T20:25:31Z",
+      "lastTitle": "【ガチグラ２】Day2 　今回も警察頑張るよ～～～🔥　【#恋沼ミヤ】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 261.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 4.36,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 35.0,
           "peakViewers": 35
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 261.8,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 4.36,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 35.0,
           "peakViewers": 35
         },
         "month": {
-          "totalMinutes": 1931.9,
+          "totalMinutes": 2193.7,
           "gameMinutes": 0.0,
-          "totalHours": 32.2,
+          "totalHours": 36.56,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 159.8,
+          "avgViewers": 144.9,
           "peakViewers": 490
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+          "name": "恋沼ミヤ",
+          "videoId": "aNK-Vj0TGBA",
+          "videoUrl": "https://www.youtube.com/watch?v=aNK-Vj0TGBA",
+          "start": "2026-11-08T16:03:43Z",
+          "end": "2026-11-08T20:25:31Z",
+          "minutes": 261.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ガチグラ２】Day2 　今回も警察頑張るよ～～～🔥　【#恋沼ミヤ】",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 35.0,
+          "samples": [
+            [
+              "2026-11-08T16:03:43Z",
+              35
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
           "name": "恋沼ミヤ",
@@ -142,12 +164,7 @@
           "game": null,
           "peakViewers": 13,
           "avgViewers": 13.0,
-          "samples": [
-            [
-              "2026-11-05T17:37:51Z",
-              13
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -217,69 +234,42 @@
           "avgViewers": null,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-          "name": "恋沼ミヤ",
-          "videoId": "Zb0ut4_EQJE",
-          "videoUrl": "https://www.youtube.com/watch?v=Zb0ut4_EQJE",
-          "start": "2026-10-30T13:09:23Z",
-          "end": "2026-10-30T18:37:28Z",
-          "minutes": 328.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】今日もおつかれさま～🌙ゆっくりお話しよう？　 #恋沼ミヤ",
-          "game": null,
-          "peakViewers": 51,
-          "avgViewers": 51.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 35,
-      "livePeakViewers": 35,
-      "liveAvgViewers": 35.0,
-      "liveSamples": [
-        [
-          "2026-11-08T16:03:43Z",
-          35
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=aNK-Vj0TGBA"
+      ]
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
       "name": "火狩夜れんま",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UC_mXkuKyIkO1hYjSeMvbt5g",
-      "isLive": true,
-      "liveSince": "2026-11-08T16:03:43Z",
-      "liveTitle": "【 メン限 】マロ読みチル雑談【ゆにれいど！/ 火狩夜れんま】",
-      "lastEnd": "2026-11-07T15:37:54Z",
-      "lastTitle": "呪われたダイスゲームに参戦するぞ！！ 【 インボキア-呪いのダイスゲーム- 】【ゆにれいど！/ 火狩夜れんま】",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-08T18:32:06Z",
+      "lastTitle": "【 メン限 】マロ読みチル雑談【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 212.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 3.53,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 212.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 3.53,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 1664.3,
+          "totalMinutes": 1896.9,
           "gameMinutes": 0.0,
-          "totalHours": 27.74,
+          "totalHours": 31.61,
           "gameHours": 0.0,
           "sessions": 5,
           "avgViewers": 31.2,
@@ -287,6 +277,23 @@
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+          "name": "火狩夜れんま",
+          "videoId": "M7p26i2YxHQ",
+          "videoUrl": "https://www.youtube.com/watch?v=M7p26i2YxHQ",
+          "start": "2026-11-08T14:39:32Z",
+          "end": "2026-11-08T18:32:06Z",
+          "minutes": 232.6,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【 メン限 】マロ読みチル雑談【ゆにれいど！/ 火狩夜れんま】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
         {
           "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
           "name": "火狩夜れんま",
@@ -345,12 +352,7 @@
           "game": null,
           "peakViewers": 38,
           "avgViewers": 38.0,
-          "samples": [
-            [
-              "2026-11-04T08:07:52Z",
-              38
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -420,64 +422,42 @@
           "avgViewers": 28.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-          "name": "火狩夜れんま",
-          "videoId": "4Pr7kRy2i1Q",
-          "videoUrl": "https://www.youtube.com/watch?v=4Pr7kRy2i1Q",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 Stray : #2 】人類はどこへ・・・【ゆにれいど！/ 火狩夜れんま】",
-          "game": null,
-          "peakViewers": 39,
-          "avgViewers": 39.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=M7p26i2YxHQ"
+      ]
     },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-11-08T16:03:43Z",
-      "liveTitle": "〖 メン限 〗 「コウノドリ(2015)」同時視聴配信〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-11-07T19:37:06Z",
-      "lastTitle": "〖 歌枠╎KARAOKE 〗 深夜に歌枠する日もある  〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-08T16:11:10Z",
+      "lastTitle": "〖 メン限 〗 「コウノドリ(2015)」同時視聴配信〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 71.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 1.19,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 71.2,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 1.19,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": null,
           "peakViewers": null
         },
         "month": {
-          "totalMinutes": 1205.7,
+          "totalMinutes": 1455.5,
           "gameMinutes": 0.0,
-          "totalHours": 20.09,
+          "totalHours": 24.26,
           "gameHours": 0.0,
           "sessions": 5,
           "avgViewers": 577.6,
@@ -485,6 +465,23 @@
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "evya5XU1z9s",
+          "videoUrl": "https://www.youtube.com/watch?v=evya5XU1z9s",
+          "start": "2026-11-08T12:01:19Z",
+          "end": "2026-11-08T16:11:10Z",
+          "minutes": 249.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 メン限 〗 「コウノドリ(2015)」同時視聴配信〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -613,30 +610,8 @@
           "avgViewers": 358.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dwhP45KfKxY",
-          "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
-          "start": "2026-10-26T11:14:19Z",
-          "end": "2026-10-26T21:46:45Z",
-          "minutes": 632.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 124,
-          "avgViewers": 116.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": null,
-      "livePeakViewers": null,
-      "liveAvgViewers": null,
-      "liveSamples": [],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=evya5XU1z9s"
+      ]
     },
     {
       "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
@@ -736,12 +711,7 @@
           "game": null,
           "peakViewers": 28,
           "avgViewers": 28.0,
-          "samples": [
-            [
-              "2026-11-01T13:50:35Z",
-              28
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -1503,12 +1473,7 @@
           "game": null,
           "peakViewers": 13,
           "avgViewers": 13.0,
-          "samples": [
-            [
-              "2026-11-01T13:50:35Z",
-              13
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -2216,12 +2181,7 @@
           "game": null,
           "peakViewers": 8,
           "avgViewers": 8.0,
-          "samples": [
-            [
-              "2026-11-01T13:50:35Z",
-              8
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -3980,6 +3940,54 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "aNK-Vj0TGBA",
+      "videoUrl": "https://www.youtube.com/watch?v=aNK-Vj0TGBA",
+      "start": "2026-11-08T16:03:43Z",
+      "end": "2026-11-08T20:25:31Z",
+      "minutes": 261.8,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ガチグラ２】Day2 　今回も警察頑張るよ～～～🔥　【#恋沼ミヤ】",
+      "game": null,
+      "peakViewers": 35,
+      "avgViewers": 35.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "M7p26i2YxHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=M7p26i2YxHQ",
+      "start": "2026-11-08T14:39:32Z",
+      "end": "2026-11-08T18:32:06Z",
+      "minutes": 232.6,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【 メン限 】マロ読みチル雑談【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "evya5XU1z9s",
+      "videoUrl": "https://www.youtube.com/watch?v=evya5XU1z9s",
+      "start": "2026-11-08T12:01:19Z",
+      "end": "2026-11-08T16:11:10Z",
+      "minutes": 249.8,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "〖 メン限 〗 「コウノドリ(2015)」同時視聴配信〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
       "name": "望月ほぐの",
       "videoId": "i-A-lb4Txj0",
@@ -4889,54 +4897,6 @@
       "game": null,
       "peakViewers": 16,
       "avgViewers": 16.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "nu8U2POuDFk",
-      "videoUrl": "https://www.youtube.com/watch?v=nu8U2POuDFk",
-      "start": "2026-10-30T13:09:23Z",
-      "end": "2026-10-30T18:37:28Z",
-      "minutes": 328.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【Forza Horizon6】シーズンイベント！春だ！ゴールドだ！無免許だ！#50【#七乃羽すず┆すずみあ】",
-      "game": null,
-      "peakViewers": 98,
-      "avgViewers": 98.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "oegMLIhIM9Y",
-      "videoUrl": "https://www.youtube.com/watch?v=oegMLIhIM9Y",
-      "start": "2026-10-30T13:09:23Z",
-      "end": "2026-10-30T18:37:28Z",
-      "minutes": 328.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　抗争じゃああああ！！！　 ～Day29～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 104,
-      "avgViewers": 104.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "-31KelIUGG4",
-      "videoUrl": "https://www.youtube.com/watch?v=-31KelIUGG4",
-      "start": "2026-10-30T13:09:23Z",
-      "end": "2026-10-30T18:37:28Z",
-      "minutes": 328.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 19,
-      "avgViewers": 19.0,
       "isTargetGame": false
     }
   ]
