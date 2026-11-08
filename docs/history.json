@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:12:39Z",
+  "updatedAt": "2026-11-08T16:03:43Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1948.8,
+      "totalMinutes": 0.0,
       "gameMinutes": 0.0,
-      "totalHours": 32.48,
+      "totalHours": 0.0,
       "gameHours": 0.0,
-      "sessions": 10,
-      "avgViewers": 118.9,
-      "peakViewers": 789
+      "sessions": 3,
+      "avgViewers": 35.0,
+      "peakViewers": 35
     },
     "week": {
-      "totalMinutes": 12474.8,
+      "totalMinutes": 0.0,
       "gameMinutes": 0.0,
-      "totalHours": 207.91,
+      "totalHours": 0.0,
       "gameHours": 0.0,
-      "sessions": 39,
-      "avgViewers": 126.4,
-      "peakViewers": 789
+      "sessions": 3,
+      "avgViewers": 35.0,
+      "peakViewers": 35
     },
     "month": {
       "totalMinutes": 16173.6,
       "gameMinutes": 0.0,
       "totalHours": 269.56,
       "gameHours": 0.0,
-      "sessions": 53,
+      "sessions": 56,
       "avgViewers": 133.4,
       "peakViewers": 899
     }
@@ -49,36 +49,36 @@
       "name": "恋沼ミヤ",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCXUu1nCtDMAbasD0wAK1cdw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-11-08T16:03:43Z",
+      "liveTitle": "【ガチグラ２】Day2 　今回も警察頑張るよ～～～🔥　【#恋沼ミヤ】",
       "lastEnd": "2026-11-07T19:37:06Z",
       "lastTitle": "【ガチグラ２】Day1 　今回はなにする…？　【#恋沼ミヤ】",
       "buckets": {
         "today": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 52.0,
-          "peakViewers": 52
+          "avgViewers": 35.0,
+          "peakViewers": 35
         },
         "week": {
-          "totalMinutes": 1668.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 27.8,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 5,
-          "avgViewers": 181.2,
-          "peakViewers": 490
+          "sessions": 1,
+          "avgViewers": 35.0,
+          "peakViewers": 35
         },
         "month": {
           "totalMinutes": 1931.9,
           "gameMinutes": 0.0,
           "totalHours": 32.2,
           "gameHours": 0.0,
-          "sessions": 6,
+          "sessions": 7,
           "avgViewers": 159.8,
           "peakViewers": 490
         }
@@ -235,43 +235,53 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 35,
+      "livePeakViewers": 35,
+      "liveAvgViewers": 35.0,
+      "liveSamples": [
+        [
+          "2026-11-08T16:03:43Z",
+          35
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=aNK-Vj0TGBA"
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
       "name": "火狩夜れんま",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UC_mXkuKyIkO1hYjSeMvbt5g",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-11-08T16:03:43Z",
+      "liveTitle": "【 メン限 】マロ読みチル雑談【ゆにれいど！/ 火狩夜れんま】",
       "lastEnd": "2026-11-07T15:37:54Z",
       "lastTitle": "呪われたダイスゲームに参戦するぞ！！ 【 インボキア-呪いのダイスゲーム- 】【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 37.9,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 0.63,
+          "totalHours": 0.0,
           "gameHours": 0.0,
           "sessions": 1,
-          "avgViewers": 23.0,
-          "peakViewers": 23
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1664.3,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 27.74,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 31.2,
-          "peakViewers": 40
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 1664.3,
           "gameMinutes": 0.0,
           "totalHours": 27.74,
           "gameHours": 0.0,
-          "sessions": 4,
+          "sessions": 5,
           "avgViewers": 31.2,
           "peakViewers": 40
         }
@@ -428,7 +438,205 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=M7p26i2YxHQ"
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
+      "isLive": true,
+      "liveSince": "2026-11-08T16:03:43Z",
+      "liveTitle": "〖 メン限 〗 「コウノドリ(2015)」同時視聴配信〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-11-07T19:37:06Z",
+      "lastTitle": "〖 歌枠╎KARAOKE 〗 深夜に歌枠する日もある  〖 心白てと / ネオポルテ 〗",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": null,
+          "peakViewers": null
+        },
+        "month": {
+          "totalMinutes": 1205.7,
+          "gameMinutes": 0.0,
+          "totalHours": 20.09,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 577.6,
+          "peakViewers": 899
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "Ulazsa4Ny64",
+          "videoUrl": "https://www.youtube.com/watch?v=Ulazsa4Ny64",
+          "start": "2026-11-07T15:37:54Z",
+          "end": "2026-11-07T19:37:06Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 歌枠╎KARAOKE 〗 深夜に歌枠する日もある  〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 56.0,
+          "samples": [
+            [
+              "2026-11-07T15:37:54Z",
+              56
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dgphPBulhVI",
+          "videoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI",
+          "start": "2026-11-02T01:44:50Z",
+          "end": "2026-11-02T08:23:09Z",
+          "minutes": 398.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 707,
+          "avgViewers": 707.0,
+          "samples": [
+            [
+              "2026-11-02T01:44:50Z",
+              707
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dnWIVhnph2g",
+          "videoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g",
+          "start": "2026-10-31T18:14:17Z",
+          "end": "2026-11-01T00:28:09Z",
+          "minutes": 373.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 899,
+          "avgViewers": 773.5,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "MulK7HXdSYs",
+          "videoUrl": "https://www.youtube.com/watch?v=MulK7HXdSYs",
+          "start": "2026-10-31T13:47:59Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 266.3,
+          "startSource": "youtube",
+          "endSource": "observed",
+          "title": "〖 メン限 〗 みんなと雀魂！！〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "PCD1BMzYXpk",
+          "videoUrl": "https://www.youtube.com/watch?v=PCD1BMzYXpk",
+          "start": "2026-10-30T18:37:28Z",
+          "end": "2026-10-31T01:48:52Z",
+          "minutes": 431.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎A vs C , B vs Cウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 2全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 883,
+          "avgViewers": 802.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "_iQiNakvRH0",
+          "videoUrl": "https://www.youtube.com/watch?v=_iQiNakvRH0",
+          "start": "2026-10-29T20:36:58Z",
+          "end": "2026-10-30T06:13:56Z",
+          "minutes": 577.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 ALGS Year 6 Split 2╎ウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 1全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 548,
+          "avgViewers": 531.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "r9laKvK_FFo",
+          "videoUrl": "https://www.youtube.com/watch?v=r9laKvK_FFo",
+          "start": "2026-10-27T06:00:59Z",
+          "end": "2026-10-27T12:02:47Z",
+          "minutes": 361.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 358,
+          "avgViewers": 358.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "dwhP45KfKxY",
+          "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
+          "start": "2026-10-26T11:14:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 632.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 124,
+          "avgViewers": 116.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": null,
+      "livePeakViewers": null,
+      "liveAvgViewers": null,
+      "liveSamples": [],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=evya5XU1z9s"
     },
     {
       "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
@@ -451,13 +659,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1115.6,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 18.59,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 28.0,
-          "peakViewers": 34
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 1379.3,
@@ -635,22 +843,22 @@
       "lastTitle": "【 インボギア 】呪いといえば呪術師の出番じゃないか？【グラニット/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 37.9,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 0.63,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 8.0,
-          "peakViewers": 8
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1219.5,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 20.32,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 19.3,
-          "peakViewers": 30
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 1219.5,
@@ -817,194 +1025,6 @@
       ]
     },
     {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-07T19:37:06Z",
-      "lastTitle": "〖 歌枠╎KARAOKE 〗 深夜に歌枠する日もある  〖 心白てと / ネオポルテ 〗",
-      "buckets": {
-        "today": {
-          "totalMinutes": 239.2,
-          "gameMinutes": 0.0,
-          "totalHours": 3.99,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 56.0,
-          "peakViewers": 56
-        },
-        "week": {
-          "totalMinutes": 637.5,
-          "gameMinutes": 0.0,
-          "totalHours": 10.63,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 462.7,
-          "peakViewers": 707
-        },
-        "month": {
-          "totalMinutes": 1205.7,
-          "gameMinutes": 0.0,
-          "totalHours": 20.09,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 577.6,
-          "peakViewers": 899
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "Ulazsa4Ny64",
-          "videoUrl": "https://www.youtube.com/watch?v=Ulazsa4Ny64",
-          "start": "2026-11-07T15:37:54Z",
-          "end": "2026-11-07T19:37:06Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 歌枠╎KARAOKE 〗 深夜に歌枠する日もある  〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 56.0,
-          "samples": [
-            [
-              "2026-11-07T15:37:54Z",
-              56
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dgphPBulhVI",
-          "videoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI",
-          "start": "2026-11-02T01:44:50Z",
-          "end": "2026-11-02T08:23:09Z",
-          "minutes": 398.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 707,
-          "avgViewers": 707.0,
-          "samples": [
-            [
-              "2026-11-02T01:44:50Z",
-              707
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dnWIVhnph2g",
-          "videoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g",
-          "start": "2026-10-31T18:14:17Z",
-          "end": "2026-11-01T00:28:09Z",
-          "minutes": 373.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 899,
-          "avgViewers": 773.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "MulK7HXdSYs",
-          "videoUrl": "https://www.youtube.com/watch?v=MulK7HXdSYs",
-          "start": "2026-10-31T13:47:59Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 266.3,
-          "startSource": "youtube",
-          "endSource": "observed",
-          "title": "〖 メン限 〗 みんなと雀魂！！〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "PCD1BMzYXpk",
-          "videoUrl": "https://www.youtube.com/watch?v=PCD1BMzYXpk",
-          "start": "2026-10-30T18:37:28Z",
-          "end": "2026-10-31T01:48:52Z",
-          "minutes": 431.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎A vs C , B vs Cウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 2全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 883,
-          "avgViewers": 802.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "_iQiNakvRH0",
-          "videoUrl": "https://www.youtube.com/watch?v=_iQiNakvRH0",
-          "start": "2026-10-29T20:36:58Z",
-          "end": "2026-10-30T06:13:56Z",
-          "minutes": 577.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎ウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎Group Stage Day 1全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 548,
-          "avgViewers": 531.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "r9laKvK_FFo",
-          "videoUrl": "https://www.youtube.com/watch?v=r9laKvK_FFo",
-          "start": "2026-10-27T06:00:59Z",
-          "end": "2026-10-27T12:02:47Z",
-          "minutes": 361.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 VALORANT 〗 ハッシュ先行体験させていただきます⁺₊✦ / とい〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 358,
-          "avgViewers": 358.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dwhP45KfKxY",
-          "videoUrl": "https://www.youtube.com/watch?v=dwhP45KfKxY",
-          "start": "2026-10-26T11:14:19Z",
-          "end": "2026-10-26T21:46:45Z",
-          "minutes": 632.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 OW 〗 うーちゃんクロ君とオーバーウォッチ⁺₊✦〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 124,
-          "avgViewers": 116.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
       "name": "綾見ユラ",
       "registered": true,
@@ -1016,22 +1036,22 @@
       "lastTitle": "【ゼルダの伝説 時のオカリナ】時の勇者、始めます #2【綾見ユラ/YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 68.0,
-          "peakViewers": 68
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 961.6,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 16.03,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 69.4,
-          "peakViewers": 88
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 1155.9,
@@ -1218,13 +1238,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 459.5,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 7.66,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 21.0,
-          "peakViewers": 21
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 1080.8,
@@ -1295,12 +1315,7 @@
           "game": null,
           "peakViewers": 13,
           "avgViewers": 13.0,
-          "samples": [
-            [
-              "2026-11-01T06:43:31Z",
-              13
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -1402,22 +1417,22 @@
       "lastTitle": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
       "buckets": {
         "today": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 11.0,
-          "peakViewers": 11
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 801.5,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 13.36,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 12.4,
-          "peakViewers": 13
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 1065.2,
@@ -1595,22 +1610,22 @@
       "lastTitle": "【朝活/雑談】#314［2026.11/8］日曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 198.6,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.31,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 789.0,
-          "peakViewers": 789
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 1004.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 16.74,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 646.2,
-          "peakViewers": 789
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 1004.2,
@@ -1797,13 +1812,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 262.9,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 4.38,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 187.0,
-          "peakViewers": 187
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 884.2,
@@ -1852,12 +1867,7 @@
           "game": null,
           "peakViewers": 218,
           "avgViewers": 218.0,
-          "samples": [
-            [
-              "2026-11-01T06:43:31Z",
-              218
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -1976,22 +1986,22 @@
       "lastTitle": "【イモ剥き】イモの山消えるまでイモ剥きします【Potato Please】【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 89.0,
-          "peakViewers": 89
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 648.1,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 10.8,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 46.7,
-          "peakViewers": 89
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 842.4,
@@ -2173,13 +2183,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 225.7,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.76,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 8.0,
-          "peakViewers": 8
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 489.4,
@@ -2389,12 +2399,7 @@
           "game": null,
           "peakViewers": 75,
           "avgViewers": 75.0,
-          "samples": [
-            [
-              "2026-11-01T06:43:31Z",
-              75
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -2539,13 +2544,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 408.9,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.82,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 43.0,
-          "peakViewers": 43
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 408.9,
@@ -2722,13 +2727,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 408.9,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.82,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 35.0,
-          "peakViewers": 35
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 408.9,
@@ -2905,13 +2910,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 313.4,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 5.22,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 30.0,
-          "peakViewers": 30
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 313.4,
@@ -3079,22 +3084,22 @@
       "lastTitle": "【怪異番号~20✕✕~】ガチおもろホラー、続きをやっていくぞ　恐らくラスト【水上蒼太/ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 27.0,
-          "peakViewers": 27
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 27.0,
-          "peakViewers": 27
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 256.6,
@@ -3262,22 +3267,22 @@
       "lastTitle": "※ネタバレ注意【都市伝説解体センター】結構話が大きくなってきましたね？【ゲーム実況】【十神仁/ YUMENOS】",
       "buckets": {
         "today": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 6.0,
-          "peakViewers": 6
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
-          "totalMinutes": 239.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.99,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 6.0,
-          "peakViewers": 6
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 239.2,
@@ -3454,13 +3459,13 @@
           "peakViewers": null
         },
         "week": {
-          "totalMinutes": 196.6,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 3.28,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 34.0,
-          "peakViewers": 34
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "month": {
           "totalMinutes": 196.6,

@@ -1,7 +1,55 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "evya5XU1z9s",
+      "start": "2026-11-08T16:03:43Z",
+      "startSource": "observed",
+      "title": "〖 メン限 〗 「コウノドリ(2015)」同時視聴配信〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-08T16:03:43Z",
+      "lastSeenAt": "2026-11-08T16:03:43Z",
+      "samples": []
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "M7p26i2YxHQ",
+      "start": "2026-11-08T16:03:43Z",
+      "startSource": "observed",
+      "title": "【 メン限 】マロ読みチル雑談【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-08T16:03:43Z",
+      "lastSeenAt": "2026-11-08T16:03:43Z",
+      "samples": []
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "aNK-Vj0TGBA",
+      "start": "2026-11-08T16:03:43Z",
+      "startSource": "observed",
+      "title": "【ガチグラ２】Day2 　今回も警察頑張るよ～～～🔥　【#恋沼ミヤ】",
+      "game": null,
+      "peakViewers": 35,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-08T16:03:43Z",
+      "lastSeenAt": "2026-11-08T16:03:43Z",
+      "samples": [
+        [
+          "2026-11-08T16:03:43Z",
+          35
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -6465,64 +6513,7 @@
       "game": null,
       "peakViewers": 46,
       "avgViewers": 33.8,
-      "samples": [
-        [
-          "2026-09-24T10:18:56Z",
-          38
-        ],
-        [
-          "2026-09-24T10:34:38Z",
-          34
-        ],
-        [
-          "2026-09-24T10:49:39Z",
-          43
-        ],
-        [
-          "2026-09-24T11:00:13Z",
-          46
-        ],
-        [
-          "2026-09-24T11:22:43Z",
-          25
-        ],
-        [
-          "2026-09-24T11:40:33Z",
-          37
-        ],
-        [
-          "2026-09-24T11:56:26Z",
-          40
-        ],
-        [
-          "2026-09-24T12:17:42Z",
-          30
-        ],
-        [
-          "2026-09-24T12:39:32Z",
-          28
-        ],
-        [
-          "2026-09-24T12:56:17Z",
-          19
-        ],
-        [
-          "2026-09-24T13:15:05Z",
-          29
-        ],
-        [
-          "2026-09-24T13:33:29Z",
-          31
-        ],
-        [
-          "2026-09-24T13:51:07Z",
-          46
-        ],
-        [
-          "2026-09-24T14:12:16Z",
-          26
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6539,24 +6530,7 @@
       "game": null,
       "peakViewers": 9,
       "avgViewers": 7.7,
-      "samples": [
-        [
-          "2026-09-24T11:00:13Z",
-          7
-        ],
-        [
-          "2026-09-24T11:22:43Z",
-          7
-        ],
-        [
-          "2026-09-24T11:40:33Z",
-          9
-        ],
-        [
-          "2026-09-24T11:56:26Z",
-          8
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6573,36 +6547,7 @@
       "game": null,
       "peakViewers": 865,
       "avgViewers": 132.1,
-      "samples": [
-        [
-          "2026-09-24T11:00:13Z",
-          79
-        ],
-        [
-          "2026-09-24T11:22:43Z",
-          865
-        ],
-        [
-          "2026-09-24T11:40:33Z",
-          11
-        ],
-        [
-          "2026-09-24T11:56:26Z",
-          11
-        ],
-        [
-          "2026-09-24T12:17:42Z",
-          11
-        ],
-        [
-          "2026-09-24T12:39:32Z",
-          1
-        ],
-        [
-          "2026-09-24T12:56:17Z",
-          1
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6807,20 +6752,7 @@
       "game": null,
       "peakViewers": 211,
       "avgViewers": 170.5,
-      "samples": [
-        [
-          "2026-09-24T12:17:42Z",
-          169
-        ],
-        [
-          "2026-09-24T12:39:32Z",
-          211
-        ],
-        [
-          "2026-09-24T12:56:17Z",
-          137
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6837,20 +6769,7 @@
       "game": null,
       "peakViewers": 40,
       "avgViewers": 39.3,
-      "samples": [
-        [
-          "2026-09-24T12:17:42Z",
-          39
-        ],
-        [
-          "2026-09-24T12:39:32Z",
-          40
-        ],
-        [
-          "2026-09-24T12:56:17Z",
-          39
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6969,36 +6888,7 @@
       "game": null,
       "peakViewers": 16,
       "avgViewers": 12.3,
-      "samples": [
-        [
-          "2026-09-24T12:39:32Z",
-          9
-        ],
-        [
-          "2026-09-24T12:56:17Z",
-          13
-        ],
-        [
-          "2026-09-24T13:15:05Z",
-          14
-        ],
-        [
-          "2026-09-24T13:33:29Z",
-          13
-        ],
-        [
-          "2026-09-24T13:51:07Z",
-          8
-        ],
-        [
-          "2026-09-24T14:12:16Z",
-          13
-        ],
-        [
-          "2026-09-24T14:33:19Z",
-          16
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -7015,40 +6905,7 @@
       "game": null,
       "peakViewers": 89,
       "avgViewers": 55.1,
-      "samples": [
-        [
-          "2026-09-24T12:39:32Z",
-          38
-        ],
-        [
-          "2026-09-24T12:56:17Z",
-          51
-        ],
-        [
-          "2026-09-24T13:15:05Z",
-          48
-        ],
-        [
-          "2026-09-24T13:33:29Z",
-          47
-        ],
-        [
-          "2026-09-24T13:51:07Z",
-          89
-        ],
-        [
-          "2026-09-24T14:12:16Z",
-          55
-        ],
-        [
-          "2026-09-24T14:33:19Z",
-          51
-        ],
-        [
-          "2026-09-24T14:51:59Z",
-          55
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
