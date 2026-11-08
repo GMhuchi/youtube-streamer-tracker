@@ -1,27 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "i-A-lb4Txj0",
-      "start": "2026-11-07T22:59:32Z",
-      "startSource": "observed",
-      "title": "【朝活/雑談】#314［2026.11/8］日曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 789,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-07T22:59:32Z",
-      "lastSeenAt": "2026-11-07T22:59:32Z",
-      "samples": [
-        [
-          "2026-11-07T22:59:32Z",
-          789
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -6004,40 +5984,7 @@
       "game": null,
       "peakViewers": 23,
       "avgViewers": 20.2,
-      "samples": [
-        [
-          "2026-09-23T21:31:46Z",
-          23
-        ],
-        [
-          "2026-09-23T21:46:34Z",
-          16
-        ],
-        [
-          "2026-09-23T21:57:04Z",
-          20
-        ],
-        [
-          "2026-09-23T22:14:46Z",
-          22
-        ],
-        [
-          "2026-09-23T22:29:40Z",
-          21
-        ],
-        [
-          "2026-09-23T22:43:29Z",
-          22
-        ],
-        [
-          "2026-09-23T22:55:48Z",
-          15
-        ],
-        [
-          "2026-09-23T23:10:01Z",
-          22
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6054,52 +6001,7 @@
       "game": null,
       "peakViewers": 292,
       "avgViewers": 251.5,
-      "samples": [
-        [
-          "2026-09-23T21:46:34Z",
-          156
-        ],
-        [
-          "2026-09-23T21:57:04Z",
-          211
-        ],
-        [
-          "2026-09-23T22:14:46Z",
-          267
-        ],
-        [
-          "2026-09-23T22:29:40Z",
-          292
-        ],
-        [
-          "2026-09-23T22:43:29Z",
-          291
-        ],
-        [
-          "2026-09-23T22:55:48Z",
-          277
-        ],
-        [
-          "2026-09-23T23:10:01Z",
-          255
-        ],
-        [
-          "2026-09-23T23:22:28Z",
-          264
-        ],
-        [
-          "2026-09-23T23:37:45Z",
-          248
-        ],
-        [
-          "2026-09-23T23:48:41Z",
-          253
-        ],
-        [
-          "2026-09-23T23:59:47Z",
-          242
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -26757,6 +26659,28 @@
         [
           "2026-11-07T15:37:54Z",
           6
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "i-A-lb4Txj0",
+      "videoUrl": "https://www.youtube.com/watch?v=i-A-lb4Txj0",
+      "start": "2026-11-07T22:59:32Z",
+      "end": "2026-11-08T02:18:06Z",
+      "minutes": 198.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#314［2026.11/8］日曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 789,
+      "avgViewers": 789.0,
+      "samples": [
+        [
+          "2026-11-07T22:59:32Z",
+          789
         ]
       ],
       "isTargetGame": false
