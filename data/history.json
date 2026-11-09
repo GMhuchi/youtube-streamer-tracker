@@ -1,7 +1,122 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "-hHnVbjKIvc",
+      "start": "2026-11-09T13:40:09Z",
+      "startSource": "observed",
+      "title": "〖 APEX 〗 新シーズンどうですかああ！！〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 208,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-09T13:40:09Z",
+      "lastSeenAt": "2026-11-09T13:40:09Z",
+      "samples": [
+        [
+          "2026-11-09T13:40:09Z",
+          208
+        ]
+      ]
+    },
+    "UCo3zRhsnXIieauvm6c-xwkA": {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "87R7qqba914",
+      "start": "2026-11-09T13:40:09Z",
+      "startSource": "observed",
+      "title": "【Forza Horizon6】シーズンイベント進める！無免許チル爆走#54【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 120,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-09T13:40:09Z",
+      "lastSeenAt": "2026-11-09T13:40:09Z",
+      "samples": [
+        [
+          "2026-11-09T13:40:09Z",
+          120
+        ]
+      ]
+    },
+    "UCB-aip0wsqKQPcrLW1BBJaw": {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "Sk-VBX8UkYs",
+      "start": "2026-11-09T13:40:09Z",
+      "startSource": "observed",
+      "title": "【ゼルダの伝説 時のオカリナ】時の勇者、全うします #4【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 38,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-09T13:40:09Z",
+      "lastSeenAt": "2026-11-09T13:40:09Z",
+      "samples": [
+        [
+          "2026-11-09T13:40:09Z",
+          38
+        ]
+      ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "1bJNevtPWgA",
+      "start": "2026-11-09T13:40:09Z",
+      "startSource": "observed",
+      "title": "Euro Truck Simulator2 | #85 鼻と喉が終わっているお姉さんのチルドライブ雑談 #愁子",
+      "game": null,
+      "peakViewers": 53,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-09T13:40:09Z",
+      "lastSeenAt": "2026-11-09T13:40:09Z",
+      "samples": [
+        [
+          "2026-11-09T13:40:09Z",
+          53
+        ]
+      ]
+    },
+    "UCE0ETB-j-qiXQiKPIG-0tCA": {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "InBdAxeMIyQ",
+      "start": "2026-11-09T13:40:09Z",
+      "startSource": "observed",
+      "title": "🟣11/9【 #マーダーミステリー 】その鉄のガラクタいわく 第１章　GM：maŸUko視点　#やかたま鉄ガクタいわ",
+      "game": null,
+      "peakViewers": 3,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-09T13:40:09Z",
+      "lastSeenAt": "2026-11-09T13:40:09Z",
+      "samples": [
+        [
+          "2026-11-09T13:40:09Z",
+          3
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "tQgIsGgdk8Q",
+      "start": "2026-11-09T13:40:09Z",
+      "startSource": "observed",
+      "title": "【雑談】月曜日お疲れ様だったね雑談！  　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 32,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-09T13:40:09Z",
+      "lastSeenAt": "2026-11-09T13:40:09Z",
+      "samples": [
+        [
+          "2026-11-09T13:40:09Z",
+          32
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -6324,36 +6439,7 @@
       "game": null,
       "peakViewers": 965,
       "avgViewers": 365.4,
-      "samples": [
-        [
-          "2026-09-25T04:19:29Z",
-          575
-        ],
-        [
-          "2026-09-25T04:35:36Z",
-          889
-        ],
-        [
-          "2026-09-25T04:50:36Z",
-          965
-        ],
-        [
-          "2026-09-25T05:10:32Z",
-          12
-        ],
-        [
-          "2026-09-25T05:30:56Z",
-          11
-        ],
-        [
-          "2026-09-25T05:49:00Z",
-          13
-        ],
-        [
-          "2026-09-25T05:59:27Z",
-          12
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6370,12 +6456,7 @@
       "game": null,
       "peakViewers": 26,
       "avgViewers": 26.0,
-      "samples": [
-        [
-          "2026-09-25T05:59:27Z",
-          26
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6392,28 +6473,7 @@
       "game": null,
       "peakViewers": 48,
       "avgViewers": 42.3,
-      "samples": [
-        [
-          "2026-09-25T06:45:57Z",
-          45
-        ],
-        [
-          "2026-09-25T07:00:17Z",
-          38
-        ],
-        [
-          "2026-09-25T07:23:45Z",
-          40
-        ],
-        [
-          "2026-09-25T07:41:24Z",
-          48
-        ],
-        [
-          "2026-09-25T07:57:32Z",
-          43
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -6718,36 +6778,7 @@
       "game": null,
       "peakViewers": 52,
       "avgViewers": 43.1,
-      "samples": [
-        [
-          "2026-09-25T09:24:09Z",
-          23
-        ],
-        [
-          "2026-09-25T09:41:40Z",
-          48
-        ],
-        [
-          "2026-09-25T09:57:14Z",
-          49
-        ],
-        [
-          "2026-09-25T10:16:06Z",
-          44
-        ],
-        [
-          "2026-09-25T10:33:04Z",
-          41
-        ],
-        [
-          "2026-09-25T10:49:33Z",
-          47
-        ],
-        [
-          "2026-09-25T11:00:34Z",
-          52
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -7218,24 +7249,7 @@
       "game": null,
       "peakViewers": 58,
       "avgViewers": 49.9,
-      "samples": [
-        [
-          "2026-09-25T11:41:31Z",
-          44
-        ],
-        [
-          "2026-09-25T11:56:54Z",
-          58
-        ],
-        [
-          "2026-09-25T12:19:23Z",
-          49
-        ],
-        [
-          "2026-09-25T12:39:52Z",
-          46
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -7252,24 +7266,7 @@
       "game": null,
       "peakViewers": 586,
       "avgViewers": 484.6,
-      "samples": [
-        [
-          "2026-09-25T11:41:31Z",
-          311
-        ],
-        [
-          "2026-09-25T11:56:54Z",
-          455
-        ],
-        [
-          "2026-09-25T12:19:23Z",
-          551
-        ],
-        [
-          "2026-09-25T12:39:52Z",
-          586
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
