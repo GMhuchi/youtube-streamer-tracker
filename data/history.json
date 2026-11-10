@@ -2,41 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "tlGKDpHSKZk",
-      "start": "2026-11-09T23:09:50Z",
+    "UCE4W22kKQQVdrA2KTiyZ_cA": {
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "name": "メーメントヴァニタス",
+      "videoId": "TjdeyetPICQ",
+      "start": "2026-11-10T04:37:29Z",
       "startSource": "observed",
-      "title": "【朝活/雑談】#315［2026.11/10］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "title": "【#雑談】こんにちは！へへ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
       "game": null,
-      "peakViewers": 702,
+      "peakViewers": 585,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-09T23:09:50Z",
-      "lastSeenAt": "2026-11-09T23:09:50Z",
+      "firstSeenAt": "2026-11-10T04:37:29Z",
+      "lastSeenAt": "2026-11-10T04:37:29Z",
       "samples": [
         [
-          "2026-11-09T23:09:50Z",
-          702
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "KtcpbtNTrA4",
-      "start": "2026-11-09T23:09:50Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 35,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-09T23:09:50Z",
-      "lastSeenAt": "2026-11-09T23:09:50Z",
-      "samples": [
-        [
-          "2026-11-09T23:09:50Z",
-          35
+          "2026-11-10T04:37:29Z",
+          585
         ]
       ]
     }
@@ -24968,6 +24949,50 @@
         [
           "2026-11-09T13:40:09Z",
           32
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "KtcpbtNTrA4",
+      "videoUrl": "https://www.youtube.com/watch?v=KtcpbtNTrA4",
+      "start": "2026-11-09T21:01:20Z",
+      "end": "2026-11-10T00:06:00Z",
+      "minutes": 184.7,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 35,
+      "avgViewers": 35.0,
+      "samples": [
+        [
+          "2026-11-09T23:09:50Z",
+          35
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "tlGKDpHSKZk",
+      "videoUrl": "https://www.youtube.com/watch?v=tlGKDpHSKZk",
+      "start": "2026-11-09T23:09:50Z",
+      "end": "2026-11-10T04:37:29Z",
+      "minutes": 327.7,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#315［2026.11/10］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 702,
+      "avgViewers": 702.0,
+      "samples": [
+        [
+          "2026-11-09T23:09:50Z",
+          702
         ]
       ],
       "isTargetGame": false
