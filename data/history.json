@@ -2,26 +2,22 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "pjGGYyF5B2g",
-      "start": "2026-11-10T12:58:48Z",
+    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "fcZ0t1pdIv0",
+      "start": "2026-11-11T00:46:55Z",
       "startSource": "observed",
-      "title": "〖 ダービースタリオン2╎#3 〗 G1に出ることを夢見て🏇.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
+      "title": "【豪鬼 レバー】　豪鬼を知る【LIVE】#スト6  【十神仁/ YUMENOS】",
       "game": null,
-      "peakViewers": 373,
+      "peakViewers": 9,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-10T12:58:48Z",
-      "lastSeenAt": "2026-11-10T20:24:37Z",
+      "firstSeenAt": "2026-11-11T00:46:55Z",
+      "lastSeenAt": "2026-11-11T00:46:55Z",
       "samples": [
         [
-          "2026-11-10T12:58:48Z",
-          147
-        ],
-        [
-          "2026-11-10T20:24:37Z",
-          373
+          "2026-11-11T00:46:55Z",
+          9
         ]
       ]
     }
@@ -23685,6 +23681,32 @@
         [
           "2026-11-10T12:58:48Z",
           11
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "pjGGYyF5B2g",
+      "videoUrl": "https://www.youtube.com/watch?v=pjGGYyF5B2g",
+      "start": "2026-11-10T12:58:48Z",
+      "end": "2026-11-11T00:46:55Z",
+      "minutes": 708.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 ダービースタリオン2╎#3 〗 G1に出ることを夢見て🏇.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 373,
+      "avgViewers": 260.0,
+      "samples": [
+        [
+          "2026-11-10T12:58:48Z",
+          147
+        ],
+        [
+          "2026-11-10T20:24:37Z",
+          373
         ]
       ],
       "isTargetGame": false
