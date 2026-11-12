@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T10:46:17Z",
+  "updatedAt": "2026-11-12T18:37:15Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 3018.0,
+      "totalMinutes": 217.2,
       "gameMinutes": 0.0,
-      "totalHours": 50.3,
+      "totalHours": 3.62,
       "gameHours": 0.0,
-      "sessions": 10,
-      "avgViewers": 77.7,
-      "peakViewers": 405
+      "sessions": 1,
+      "avgViewers": 328.0,
+      "peakViewers": 328
     },
     "week": {
-      "totalMinutes": 12212.5,
+      "totalMinutes": 12683.5,
       "gameMinutes": 0.0,
-      "totalHours": 203.54,
+      "totalHours": 211.39,
       "gameHours": 0.0,
       "sessions": 31,
-      "avgViewers": 115.8,
+      "avgViewers": 123.9,
       "peakViewers": 702
     },
     "month": {
-      "totalMinutes": 28585.3,
+      "totalMinutes": 29056.2,
       "gameMinutes": 0.0,
-      "totalHours": 476.42,
+      "totalHours": 484.27,
       "gameHours": 0.0,
       "sessions": 84,
-      "avgViewers": 125.9,
+      "avgViewers": 129.3,
       "peakViewers": 899
     }
   },
@@ -49,41 +49,63 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-11-12T10:46:17Z",
-      "liveTitle": "〖 #心白てと生誕祭2026 〗 今年も一緒に過ごせて嬉しい!!ありがとう⁺₊✦〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-11-12T02:56:28Z",
-      "lastTitle": "〖 てともに╎#10 〗 誕生日の朝っていいね☀☀〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-12T18:37:15Z",
+      "lastTitle": "〖 #心白てと生誕祭2026 〗 今年も一緒に過ごせて嬉しい!!ありがとう⁺₊✦〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 691.4,
+          "totalMinutes": 217.2,
           "gameMinutes": 0.0,
-          "totalHours": 11.52,
+          "totalHours": 3.62,
           "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 269.5,
-          "peakViewers": 405
+          "sessions": 1,
+          "avgViewers": 328.0,
+          "peakViewers": 328
         },
         "week": {
-          "totalMinutes": 2040.3,
+          "totalMinutes": 2511.3,
           "gameMinutes": 0.0,
-          "totalHours": 34.01,
+          "totalHours": 41.85,
           "gameHours": 0.0,
           "sessions": 6,
-          "avgViewers": 248.3,
+          "avgViewers": 263.7,
           "peakViewers": 405
         },
         "month": {
-          "totalMinutes": 3424.7,
+          "totalMinutes": 3895.6,
           "gameMinutes": 0.0,
-          "totalHours": 57.08,
+          "totalHours": 64.93,
           "gameHours": 0.0,
           "sessions": 10,
-          "avgViewers": 360.0,
+          "avgViewers": 355.7,
           "peakViewers": 899
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "sXlOvQ4AKLI",
+          "videoUrl": "https://www.youtube.com/watch?v=sXlOvQ4AKLI",
+          "start": "2026-11-12T10:46:17Z",
+          "end": "2026-11-12T18:37:15Z",
+          "minutes": 471.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 #心白てと生誕祭2026 〗 今年も一緒に過ごせて嬉しい!!ありがとう⁺₊✦〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 328,
+          "avgViewers": 328.0,
+          "samples": [
+            [
+              "2026-11-12T10:46:17Z",
+              328
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -142,16 +164,7 @@
           "game": null,
           "peakViewers": 373,
           "avgViewers": 260.0,
-          "samples": [
-            [
-              "2026-11-10T12:58:48Z",
-              147
-            ],
-            [
-              "2026-11-10T20:24:37Z",
-              373
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -221,35 +234,8 @@
           "avgViewers": 707.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dnWIVhnph2g",
-          "videoUrl": "https://www.youtube.com/watch?v=dnWIVhnph2g",
-          "start": "2026-10-31T18:14:17Z",
-          "end": "2026-11-01T00:28:09Z",
-          "minutes": 373.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎ELIM , WINNERSウォチパ 〗 世界大会.ᐟ.ᐟ⭐︎全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 899,
-          "avgViewers": 773.5,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 328,
-      "livePeakViewers": 328,
-      "liveAvgViewers": 328.0,
-      "liveSamples": [
-        [
-          "2026-11-12T10:46:17Z",
-          328
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=sXlOvQ4AKLI"
+      ]
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -263,13 +249,13 @@
       "lastTitle": "【ガチグラ２】Day４ 　ラーク担当とても楽しい🔥　【#恋沼ミヤ】",
       "buckets": {
         "today": {
-          "totalMinutes": 402.1,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.7,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 33.0,
-          "peakViewers": 33
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 1233.6,
@@ -837,13 +823,13 @@
       "lastTitle": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
       "buckets": {
         "today": {
-          "totalMinutes": 402.1,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.7,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 6.0,
-          "peakViewers": 6
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 971.8,
@@ -1030,13 +1016,13 @@
       "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 289.2,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 4.82,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 13.0,
-          "peakViewers": 13
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 919.7,
@@ -1223,13 +1209,13 @@
       "lastTitle": "【ガチグラ２】＃1 ド、パ？【瀬尾カザリ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 402.1,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.7,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 29.0,
-          "peakViewers": 29
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 402.1,
@@ -1309,12 +1295,7 @@
           "game": null,
           "peakViewers": 34,
           "avgViewers": 34.0,
-          "samples": [
-            [
-              "2026-11-05T09:36:53Z",
-              34
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -1416,13 +1397,13 @@
       "lastTitle": "【ほの暮しの庭】ほんのりホラー後寝ましょう #7【日裏クロ / ネオポルテ】",
       "buckets": {
         "today": {
-          "totalMinutes": 402.1,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.7,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 24.0,
-          "peakViewers": 24
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 848.0,
@@ -2920,13 +2901,13 @@
       "lastTitle": "【WARDOGS】マジで初めてなので助けてください w/U者【YUMENOS/那和ツムグ】",
       "buckets": {
         "today": {
-          "totalMinutes": 402.1,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.7,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 13.0,
-          "peakViewers": 13
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 402.1,
@@ -3835,11 +3816,11 @@
       "lastTitle": "【メン限】チル【氷乃渚 / ゆにれいど！】",
       "buckets": {
         "today": {
-          "totalMinutes": 26.8,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 0.45,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 0,
           "avgViewers": null,
           "peakViewers": null
         },
@@ -4003,6 +3984,22 @@
     }
   ],
   "recentSessions": [
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "sXlOvQ4AKLI",
+      "videoUrl": "https://www.youtube.com/watch?v=sXlOvQ4AKLI",
+      "start": "2026-11-12T10:46:17Z",
+      "end": "2026-11-12T18:37:15Z",
+      "minutes": 471.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 #心白てと生誕祭2026 〗 今年も一緒に過ごせて嬉しい!!ありがとう⁺₊✦〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 328,
+      "avgViewers": 328.0,
+      "isTargetGame": false
+    },
     {
       "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
       "name": "心白てと",
@@ -4945,22 +4942,6 @@
       "game": null,
       "peakViewers": 634,
       "avgViewers": 634.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "dUGKoCOq3As",
-      "videoUrl": "https://www.youtube.com/watch?v=dUGKoCOq3As",
-      "start": "2026-11-03T16:09:17Z",
-      "end": "2026-11-03T21:45:52Z",
-      "minutes": 336.6,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 スプラ 】弾当たらなくて困るイカね～【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 30,
-      "avgViewers": 30.0,
       "isTargetGame": false
     }
   ]
