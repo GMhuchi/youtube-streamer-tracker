@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:20:25Z",
+  "updatedAt": "2026-11-13T20:36:03Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1025.3,
+      "totalMinutes": 4032.6,
       "gameMinutes": 0.0,
-      "totalHours": 17.09,
+      "totalHours": 67.21,
       "gameHours": 0.0,
-      "sessions": 15,
-      "avgViewers": 329.9,
-      "peakViewers": 763
+      "sessions": 12,
+      "avgViewers": 135.5,
+      "peakViewers": 440
     },
     "week": {
-      "totalMinutes": 13491.5,
+      "totalMinutes": 18719.0,
       "gameMinutes": 0.0,
-      "totalHours": 224.86,
+      "totalHours": 311.98,
       "gameHours": 0.0,
       "sessions": 45,
-      "avgViewers": 136.6,
+      "avgViewers": 136.3,
       "peakViewers": 763
     },
     "month": {
-      "totalMinutes": 29864.2,
+      "totalMinutes": 35091.7,
       "gameMinutes": 0.0,
-      "totalHours": 497.74,
+      "totalHours": 584.86,
       "gameHours": 0.0,
       "sessions": 98,
-      "avgViewers": 134.8,
+      "avgViewers": 134.9,
       "peakViewers": 899
     }
   },
@@ -49,41 +49,63 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-11-12T18:37:15Z",
-      "lastTitle": "〖 #心白てと生誕祭2026 〗 今年も一緒に過ごせて嬉しい!!ありがとう⁺₊✦〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 217.3,
+          "totalMinutes": 336.1,
           "gameMinutes": 0.0,
-          "totalHours": 3.62,
+          "totalHours": 5.6,
           "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 328.0,
+          "sessions": 1,
+          "avgViewers": 390.0,
           "peakViewers": 390
         },
         "week": {
-          "totalMinutes": 2511.3,
+          "totalMinutes": 2946.9,
           "gameMinutes": 0.0,
-          "totalHours": 41.85,
+          "totalHours": 49.12,
           "gameHours": 0.0,
           "sessions": 7,
-          "avgViewers": 263.7,
+          "avgViewers": 282.8,
           "peakViewers": 405
         },
         "month": {
-          "totalMinutes": 3895.6,
+          "totalMinutes": 4331.3,
           "gameMinutes": 0.0,
-          "totalHours": 64.93,
+          "totalHours": 72.19,
           "gameHours": 0.0,
           "sessions": 11,
-          "avgViewers": 355.7,
+          "avgViewers": 359.5,
           "peakViewers": 899
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "jd4AYA4X8aE",
+          "videoUrl": "https://www.youtube.com/watch?v=jd4AYA4X8aE",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 390,
+          "avgViewers": 390.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              390
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -142,12 +164,7 @@
           "game": null,
           "peakViewers": 405,
           "avgViewers": 405.0,
-          "samples": [
-            [
-              "2026-11-11T15:25:07Z",
-              405
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -217,76 +234,71 @@
           "avgViewers": 56.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "dgphPBulhVI",
-          "videoUrl": "https://www.youtube.com/watch?v=dgphPBulhVI",
-          "start": "2026-11-02T01:44:50Z",
-          "end": "2026-11-02T08:23:09Z",
-          "minutes": 398.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 ALGS Year 6 Split 2╎MATCH POINT FINALウォチパ 〗 世界王者が決まる.ᐟ全力応援会場です📢🌟〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 707,
-          "avgViewers": 707.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 390,
-      "livePeakViewers": 390,
-      "liveAvgViewers": 390.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          390
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=jd4AYA4X8aE"
+      ]
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
       "name": "火狩夜れんま",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UC_mXkuKyIkO1hYjSeMvbt5g",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "完全初見で神ゲーと名高いゲームをやっていく！【 ゼルダの伝説 時のオカリナ  】【ゆにれいど！/ 火狩夜れんま】",
-      "lastEnd": "2026-11-13T13:20:25Z",
-      "lastTitle": "【 VALORANT 】早朝ランクハッシュ使ってるところ見たい！ w/えるくろさん【ゆにれいど！/ 火狩夜れんま】",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "完全初見で神ゲーと名高いゲームをやっていく！【 ゼルダの伝説 時のオカリナ  】【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
         "today": {
-          "totalMinutes": 476.1,
+          "totalMinutes": 336.1,
           "gameMinutes": 0.0,
-          "totalHours": 7.93,
+          "totalHours": 5.6,
           "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 29.0,
+          "sessions": 1,
+          "avgViewers": 68.0,
           "peakViewers": 68
         },
         "week": {
-          "totalMinutes": 1134.0,
+          "totalMinutes": 1569.6,
           "gameMinutes": 0.0,
-          "totalHours": 18.9,
+          "totalHours": 26.16,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 30.5,
+          "avgViewers": 42.5,
           "peakViewers": 68
         },
         "month": {
-          "totalMinutes": 2818.7,
+          "totalMinutes": 3254.4,
           "gameMinutes": 0.0,
-          "totalHours": 46.98,
+          "totalHours": 54.24,
           "gameHours": 0.0,
           "sessions": 8,
-          "avgViewers": 30.9,
+          "avgViewers": 36.3,
           "peakViewers": 68
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+          "name": "火狩夜れんま",
+          "videoId": "6cKJpLolJ_A",
+          "videoUrl": "https://www.youtube.com/watch?v=6cKJpLolJ_A",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "完全初見で神ゲーと名高いゲームをやっていく！【 ゼルダの伝説 時のオカリナ  】【ゆにれいど！/ 火狩夜れんま】",
+          "game": null,
+          "peakViewers": 68,
+          "avgViewers": 68.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              68
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
           "name": "火狩夜れんま",
@@ -415,2010 +427,8 @@
           "avgViewers": 40.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-          "name": "火狩夜れんま",
-          "videoId": "kIx9Gn2GTNc",
-          "videoUrl": "https://www.youtube.com/watch?v=kIx9Gn2GTNc",
-          "start": "2026-10-29T15:39:17Z",
-          "end": "2026-10-29T20:36:58Z",
-          "minutes": 297.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "俺はOWが大好きなんだよっ！【 OW 】【ゆにれいど！/ 火狩夜れんま】",
-          "game": null,
-          "peakViewers": 33,
-          "avgViewers": 33.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 68,
-      "livePeakViewers": 68,
-      "liveAvgViewers": 68.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          68
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=6cKJpLolJ_A"
-    },
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCB-aip0wsqKQPcrLW1BBJaw",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【浮気した夫に全部吐かせる】( ◜▿◝ )【綾見ユラ/YUMENOS】",
-      "lastEnd": "2026-11-10T20:24:37Z",
-      "lastTitle": "【スプラトゥーン3】ハマりすぎ注意ゲー参る【綾見ユラ/YUMENOS】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 119.0,
-          "peakViewers": 119
-        },
-        "week": {
-          "totalMinutes": 1015.5,
-          "gameMinutes": 0.0,
-          "totalHours": 16.93,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 59.1,
-          "peakViewers": 119
-        },
-        "month": {
-          "totalMinutes": 2171.4,
-          "gameMinutes": 0.0,
-          "totalHours": 36.19,
-          "gameHours": 0.0,
-          "sessions": 7,
-          "avgViewers": 68.1,
-          "peakViewers": 119
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "b2Y4gWWzDY8",
-          "videoUrl": "https://www.youtube.com/watch?v=b2Y4gWWzDY8",
-          "start": "2026-11-10T12:58:48Z",
-          "end": "2026-11-10T20:24:37Z",
-          "minutes": 445.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【スプラトゥーン3】ハマりすぎ注意ゲー参る【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 86,
-          "avgViewers": 86.0,
-          "samples": [
-            [
-              "2026-11-10T12:58:48Z",
-              86
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "Sk-VBX8UkYs",
-          "videoUrl": "https://www.youtube.com/watch?v=Sk-VBX8UkYs",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ゼルダの伝説 時のオカリナ】時の勇者、全うします #4【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 38,
-          "avgViewers": 38.0,
-          "samples": [
-            [
-              "2026-11-09T13:40:09Z",
-              38
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "rMi9PFfHH_w",
-          "videoUrl": "https://www.youtube.com/watch?v=rMi9PFfHH_w",
-          "start": "2026-11-07T15:37:54Z",
-          "end": "2026-11-07T19:37:06Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ゼルダの伝説 時のオカリナ】時の勇者、始めます #2【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 68,
-          "avgViewers": 68.0,
-          "samples": [
-            [
-              "2026-11-07T15:37:54Z",
-              68
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "yQBZhgvH_xU",
-          "videoUrl": "https://www.youtube.com/watch?v=yQBZhgvH_xU",
-          "start": "2026-11-06T11:06:58Z",
-          "end": "2026-11-06T17:55:54Z",
-          "minutes": 408.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【スプラトゥーン3】ゼロから始める夜活スプラ w/テン【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 56,
-          "avgViewers": 56.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "zEZfPPihCDk",
-          "videoUrl": "https://www.youtube.com/watch?v=zEZfPPihCDk",
-          "start": "2026-11-05T17:37:51Z",
-          "end": "2026-11-05T22:51:17Z",
-          "minutes": 313.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ゼルダの伝説 時のオカリナ】勇者見習い、始めます #1【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 88,
-          "avgViewers": 88.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "TNOs1lE40Oo",
-          "videoUrl": "https://www.youtube.com/watch?v=TNOs1lE40Oo",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】選ばれたのは【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 109,
-          "avgViewers": 109.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "IMuBCUhcgEI",
-          "videoUrl": "https://www.youtube.com/watch?v=IMuBCUhcgEI",
-          "start": "2026-10-30T13:09:23Z",
-          "end": "2026-10-31T01:48:52Z",
-          "minutes": 759.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【スーパーマリオギャラクシー2】宇 宙 制 覇 ２【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 86,
-          "avgViewers": 68.6,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-          "name": "綾見ユラ",
-          "videoId": "hPecc6_E3SQ",
-          "videoUrl": "https://www.youtube.com/watch?v=hPecc6_E3SQ",
-          "start": "2026-10-27T12:02:47Z",
-          "end": "2026-10-27T17:56:01Z",
-          "minutes": 353.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【BOMBANANA!】猿の戯れ w/テン,コン【綾見ユラ/YUMENOS】",
-          "game": null,
-          "peakViewers": 94,
-          "avgViewers": 94.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 119,
-      "livePeakViewers": 119,
-      "liveAvgViewers": 119.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          119
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=2X-iKiVsXm0"
-    },
-    {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
-      "lastEnd": "2026-11-11T22:07:15Z",
-      "lastTitle": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 10.0,
-          "peakViewers": 10
-        },
-        "week": {
-          "totalMinutes": 971.8,
-          "gameMinutes": 0.0,
-          "totalHours": 16.2,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 4.2,
-          "peakViewers": 10
-        },
-        "month": {
-          "totalMinutes": 2037.0,
-          "gameMinutes": 0.0,
-          "totalHours": 33.95,
-          "gameHours": 0.0,
-          "sessions": 7,
-          "avgViewers": 8.3,
-          "peakViewers": 13
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "n2jV6oTZc4U",
-          "videoUrl": "https://www.youtube.com/watch?v=n2jV6oTZc4U",
-          "start": "2026-11-11T15:25:07Z",
-          "end": "2026-11-11T22:07:15Z",
-          "minutes": 402.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 6,
-          "avgViewers": 6.0,
-          "samples": [
-            [
-              "2026-11-11T15:25:07Z",
-              6
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "InBdAxeMIyQ",
-          "videoUrl": "https://www.youtube.com/watch?v=InBdAxeMIyQ",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/9【 #マーダーミステリー 】その鉄のガラクタいわく 第１章　GM：maŸUko視点　#やかたま鉄ガクタいわ",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [
-            [
-              "2026-11-09T13:40:09Z",
-              3
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "_3wPgDJfC-8",
-          "videoUrl": "https://www.youtube.com/watch?v=_3wPgDJfC-8",
-          "start": "2026-11-07T15:37:54Z",
-          "end": "2026-11-07T19:37:06Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [
-            [
-              "2026-11-07T15:37:54Z",
-              11
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "zDqc_fmUVhk",
-          "videoUrl": "https://www.youtube.com/watch?v=zDqc_fmUVhk",
-          "start": "2026-11-03T16:09:17Z",
-          "end": "2026-11-03T21:45:52Z",
-          "minutes": 336.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/3【 #GTA5  】＃10 知らないこと、知りたい。 #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "VDzMMfGFlmU",
-          "videoUrl": "https://www.youtube.com/watch?v=VDzMMfGFlmU",
-          "start": "2026-11-01T13:50:35Z",
-          "end": "2026-11-01T18:45:41Z",
-          "minutes": 295.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/1【 #マーダーミステリー 】グリムギア　スカル役：maŸUko視点",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "Gft5bPIaYzY",
-          "videoUrl": "https://www.youtube.com/watch?v=Gft5bPIaYzY",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/31【 #GTA5  】＃8 ハロウィンっぽいことがしたいごはん屋さん🎃 #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "qxxh73PDfZU",
-          "videoUrl": "https://www.youtube.com/watch?v=qxxh73PDfZU",
-          "start": "2026-10-30T13:09:23Z",
-          "end": "2026-10-30T18:37:28Z",
-          "minutes": 328.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/30【 #惨劇RoopeR 】今度は+クトゥルフ！？なボドゲで遊ぶぞ～～！【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 1,
-          "avgViewers": 1.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "z91QGBXTpPo",
-          "videoUrl": "https://www.youtube.com/watch?v=z91QGBXTpPo",
-          "start": "2026-10-27T12:02:47Z",
-          "end": "2026-10-27T17:56:01Z",
-          "minutes": 353.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣10/27【 #マーダーミステリー 】魔女達のワルプルギス GM：maŸUko視点　#りあぷろマダミス部",
-          "game": null,
-          "peakViewers": 6,
-          "avgViewers": 6.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 10,
-      "livePeakViewers": 10,
-      "liveAvgViewers": 10.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          10
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4"
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "lastEnd": "2026-11-12T02:56:28Z",
-      "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 16.0,
-          "peakViewers": 16
-        },
-        "week": {
-          "totalMinutes": 919.7,
-          "gameMinutes": 0.0,
-          "totalHours": 15.33,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 16.4,
-          "peakViewers": 35
-        },
-        "month": {
-          "totalMinutes": 2000.5,
-          "gameMinutes": 0.0,
-          "totalHours": 33.34,
-          "gameHours": 0.0,
-          "sessions": 8,
-          "avgViewers": 16.6,
-          "peakViewers": 35
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "CYVwF3TTkF0",
-          "videoUrl": "https://www.youtube.com/watch?v=CYVwF3TTkF0",
-          "start": "2026-11-11T22:07:15Z",
-          "end": "2026-11-12T02:56:28Z",
-          "minutes": 289.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [
-            [
-              "2026-11-11T22:07:15Z",
-              13
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "d3Zhk8DvkmI",
-          "videoUrl": "https://www.youtube.com/watch?v=d3Zhk8DvkmI",
-          "start": "2026-11-10T12:58:48Z",
-          "end": "2026-11-10T20:24:37Z",
-          "minutes": 445.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ゼルダの伝説 時のオカリナ】#2  今日はゾーラの里から！大人になって森の神殿はいきたい！The Legend of Zelda【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [
-            [
-              "2026-11-10T12:58:48Z",
-              11
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "KtcpbtNTrA4",
-          "videoUrl": "https://www.youtube.com/watch?v=KtcpbtNTrA4",
-          "start": "2026-11-09T21:01:20Z",
-          "end": "2026-11-10T00:06:00Z",
-          "minutes": 184.7,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 35,
-          "avgViewers": 35.0,
-          "samples": [
-            [
-              "2026-11-09T23:09:50Z",
-              35
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "6foiqvCsL5w",
-          "videoUrl": "https://www.youtube.com/watch?v=6foiqvCsL5w",
-          "start": "2026-11-05T22:51:17Z",
-          "end": "2026-11-06T03:14:10Z",
-          "minutes": 262.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 21,
-          "avgViewers": 21.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "blgL4He1fS0",
-          "videoUrl": "https://www.youtube.com/watch?v=blgL4He1fS0",
-          "start": "2026-11-01T22:28:14Z",
-          "end": "2026-11-02T01:44:50Z",
-          "minutes": 196.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 21,
-          "avgViewers": 21.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "xE1bypATkT0",
-          "videoUrl": "https://www.youtube.com/watch?v=xE1bypATkT0",
-          "start": "2026-11-01T06:43:31Z",
-          "end": "2026-11-01T13:50:35Z",
-          "minutes": 427.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【競馬】GⅠ 天皇賞秋 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "2tTw9vTzqk8",
-          "videoUrl": "https://www.youtube.com/watch?v=2tTw9vTzqk8",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】HappyHalloween!!!!!! お菓子をくれなきゃ作って食べさせます🍩【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 15,
-          "avgViewers": 15.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "-31KelIUGG4",
-          "videoUrl": "https://www.youtube.com/watch?v=-31KelIUGG4",
-          "start": "2026-10-30T13:09:23Z",
-          "end": "2026-10-30T18:37:28Z",
-          "minutes": 328.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 19,
-          "avgViewers": 19.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 16,
-      "livePeakViewers": 16,
-      "liveAvgViewers": 16.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          16
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=zg7o6vVu2jM"
-    },
-    {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
-      "lastEnd": "2026-11-11T22:07:15Z",
-      "lastTitle": "【ガチグラ２】＃1 ド、パ？【瀬尾カザリ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 11.0,
-          "peakViewers": 11
-        },
-        "week": {
-          "totalMinutes": 402.1,
-          "gameMinutes": 0.0,
-          "totalHours": 6.7,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 29.0,
-          "peakViewers": 29
-        },
-        "month": {
-          "totalMinutes": 1781.4,
-          "gameMinutes": 0.0,
-          "totalHours": 29.69,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 26.7,
-          "peakViewers": 34
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "NYNFQZqDAIM",
-          "videoUrl": "https://www.youtube.com/watch?v=NYNFQZqDAIM",
-          "start": "2026-11-11T15:25:07Z",
-          "end": "2026-11-11T22:07:15Z",
-          "minutes": 402.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ガチグラ２】＃1 ド、パ？【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 29,
-          "avgViewers": 29.0,
-          "samples": [
-            [
-              "2026-11-11T15:25:07Z",
-              29
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "cwPMdPNl9vo",
-          "videoUrl": "https://www.youtube.com/watch?v=cwPMdPNl9vo",
-          "start": "2026-11-06T11:06:58Z",
-          "end": "2026-11-06T17:55:54Z",
-          "minutes": 408.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Japanese Ramen Simulator】サンタ家、開店ッ…！ withいつもの【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 21,
-          "avgViewers": 21.0,
-          "samples": [
-            [
-              "2026-11-06T11:06:58Z",
-              21
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "Yglay6mziDU",
-          "videoUrl": "https://www.youtube.com/watch?v=Yglay6mziDU",
-          "start": "2026-11-05T09:36:53Z",
-          "end": "2026-11-05T17:37:51Z",
-          "minutes": 481.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【VALORANT】おい、久々にやるぜVALORANT メンバー概要欄【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "i0vswj93hZk",
-          "videoUrl": "https://www.youtube.com/watch?v=i0vswj93hZk",
-          "start": "2026-11-01T13:50:35Z",
-          "end": "2026-11-01T18:45:41Z",
-          "minutes": 295.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 28.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "dxPO7HVW0Ss",
-          "videoUrl": "https://www.youtube.com/watch?v=dxPO7HVW0Ss",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【球ひろいシミュレーター】おい、ハロウィンに最恐ホラゲいくぞ【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "u7pyzXgnDXw",
-          "videoUrl": "https://www.youtube.com/watch?v=u7pyzXgnDXw",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T17:26:13Z",
-          "minutes": 215.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラSeason2】＃３ チルを極める 風見セオ視点【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "OsCj3OuOKD8",
-          "videoUrl": "https://www.youtube.com/watch?v=OsCj3OuOKD8",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ストグラSeason2】＃２ なにするなにする 風見セオ視点【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 60,
-          "avgViewers": 60.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "ttENKVrxX1o",
-          "videoUrl": "https://www.youtube.com/watch?v=ttENKVrxX1o",
-          "start": "2026-10-16T15:36:00Z",
-          "end": "2026-10-16T19:01:06Z",
-          "minutes": 205.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【SURGECITY】＃7 最終日の可能性あります【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 11,
-      "livePeakViewers": 11,
-      "liveAvgViewers": 11.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          11
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=RKHadHwXbDA"
-    },
-    {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【Minecraft】そういえばダイヤ1000個掘るって言ってましたね【日裏クロ / ネオポルテ】",
-      "lastEnd": "2026-11-11T22:07:15Z",
-      "lastTitle": "【ほの暮しの庭】ほんのりホラー後寝ましょう #7【日裏クロ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 36.0,
-          "peakViewers": 36
-        },
-        "week": {
-          "totalMinutes": 848.0,
-          "gameMinutes": 0.0,
-          "totalHours": 14.13,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 48.2,
-          "peakViewers": 70
-        },
-        "month": {
-          "totalMinutes": 1690.4,
-          "gameMinutes": 0.0,
-          "totalHours": 28.17,
-          "gameHours": 0.0,
-          "sessions": 6,
-          "avgViewers": 47.1,
-          "peakViewers": 89
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "qPSnK6YuY4w",
-          "videoUrl": "https://www.youtube.com/watch?v=qPSnK6YuY4w",
-          "start": "2026-11-11T15:25:07Z",
-          "end": "2026-11-11T22:07:15Z",
-          "minutes": 402.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほの暮しの庭】ほんのりホラー後寝ましょう #7【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 24,
-          "avgViewers": 24.0,
-          "samples": [
-            [
-              "2026-11-11T15:25:07Z",
-              24
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "27bLdYv2UUk",
-          "videoUrl": "https://www.youtube.com/watch?v=27bLdYv2UUk",
-          "start": "2026-11-10T12:58:48Z",
-          "end": "2026-11-10T20:24:37Z",
-          "minutes": 445.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】これって重い？判定シート記入させていただく【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 70,
-          "avgViewers": 70.0,
-          "samples": [
-            [
-              "2026-11-10T12:58:48Z",
-              70
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "1lmLiBUhnQ0",
-          "videoUrl": "https://www.youtube.com/watch?v=1lmLiBUhnQ0",
-          "start": "2026-11-07T15:37:54Z",
-          "end": "2026-11-07T19:37:06Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【イモ剥き】イモの山消えるまでイモ剥きします【Potato Please】【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 89,
-          "avgViewers": 89.0,
-          "samples": [
-            [
-              "2026-11-07T15:37:54Z",
-              89
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "KouTCA5TXZU",
-          "videoUrl": "https://www.youtube.com/watch?v=KouTCA5TXZU",
-          "start": "2026-11-06T11:06:58Z",
-          "end": "2026-11-06T17:55:54Z",
-          "minutes": 408.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【LTK】LTK レギュラーステージウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 22.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "bWxs2AyxZM0",
-          "videoUrl": "https://www.youtube.com/watch?v=bWxs2AyxZM0",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【プラネットズー2】ZOO日裏今日も開園です【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 44,
-          "avgViewers": 44.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "R4Y151dupGE",
-          "videoUrl": "https://www.youtube.com/watch?v=R4Y151dupGE",
-          "start": "2026-10-29T08:49:01Z",
-          "end": "2026-10-29T15:39:17Z",
-          "minutes": 410.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【OW】熱血OW部今日エメいくぞ！Withロウ【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 71,
-          "avgViewers": 71.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "kirAq8i0ZM4",
-          "videoUrl": "https://www.youtube.com/watch?v=kirAq8i0ZM4",
-          "start": "2026-10-28T06:49:01Z",
-          "end": "2026-10-28T13:36:05Z",
-          "minutes": 407.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【OW】熱血OW部Withロウ【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 55,
-          "avgViewers": 55.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-          "name": "日裏クロ",
-          "videoId": "jNIB520uPn8",
-          "videoUrl": "https://www.youtube.com/watch?v=jNIB520uPn8",
-          "start": "2026-10-26T11:14:19Z",
-          "end": "2026-10-26T21:46:45Z",
-          "minutes": 632.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【OW】箱内3人でOWするよーWithてとさんうつろさん【日裏クロ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 30,
-          "avgViewers": 28.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 36,
-      "livePeakViewers": 36,
-      "liveAvgViewers": 36.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          36
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=hz79qzqTIGE"
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【ポケモンチャンピオンズ】マスボ級目指して華金深夜のランクマへ🔥!【望月ほぐの/ゆにれいど！】",
-      "lastEnd": "2026-11-13T05:24:22Z",
-      "lastTitle": "【朝活/雑談】#317［2026.11/13］金曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 331.8,
-          "gameMinutes": 0.0,
-          "totalHours": 5.53,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 763.0,
-          "peakViewers": 763
-        },
-        "week": {
-          "totalMinutes": 659.5,
-          "gameMinutes": 0.0,
-          "totalHours": 10.99,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 732.7,
-          "peakViewers": 763
-        },
-        "month": {
-          "totalMinutes": 1663.7,
-          "gameMinutes": 0.0,
-          "totalHours": 27.73,
-          "gameHours": 0.0,
-          "sessions": 7,
-          "avgViewers": 680.5,
-          "peakViewers": 789
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "YmtYhA6uaxs",
-          "videoUrl": "https://www.youtube.com/watch?v=YmtYhA6uaxs",
-          "start": "2026-11-12T23:52:33Z",
-          "end": "2026-11-13T05:24:22Z",
-          "minutes": 331.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#317［2026.11/13］金曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 763,
-          "avgViewers": 763.0,
-          "samples": [
-            [
-              "2026-11-12T23:52:33Z",
-              763
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "tlGKDpHSKZk",
-          "videoUrl": "https://www.youtube.com/watch?v=tlGKDpHSKZk",
-          "start": "2026-11-09T23:09:50Z",
-          "end": "2026-11-10T04:37:29Z",
-          "minutes": 327.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#315［2026.11/10］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 702,
-          "avgViewers": 702.0,
-          "samples": [
-            [
-              "2026-11-09T23:09:50Z",
-              702
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "i-A-lb4Txj0",
-          "videoUrl": "https://www.youtube.com/watch?v=i-A-lb4Txj0",
-          "start": "2026-11-07T22:59:32Z",
-          "end": "2026-11-08T02:18:06Z",
-          "minutes": 198.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#314［2026.11/8］日曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 789,
-          "avgViewers": 789.0,
-          "samples": [
-            [
-              "2026-11-07T22:59:32Z",
-              789
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "HkaNlcXeY14",
-          "videoUrl": "https://www.youtube.com/watch?v=HkaNlcXeY14",
-          "start": "2026-11-06T22:49:11Z",
-          "end": "2026-11-07T02:25:12Z",
-          "minutes": 216.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 738,
-          "avgViewers": 738.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "tdEBCXI8Ayk",
-          "videoUrl": "https://www.youtube.com/watch?v=tdEBCXI8Ayk",
-          "start": "2026-11-04T21:58:07Z",
-          "end": "2026-11-05T02:11:10Z",
-          "minutes": 253.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#312［2026.11/5］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 472,
-          "avgViewers": 472.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "H0wMMR_eqgk",
-          "videoUrl": "https://www.youtube.com/watch?v=H0wMMR_eqgk",
-          "start": "2026-11-03T16:09:17Z",
-          "end": "2026-11-03T21:45:52Z",
-          "minutes": 336.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ポケモンチャンピオンズ】ランクマ最終日の世界にご挨拶！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 634,
-          "avgViewers": 634.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "NcuiMlPrcAY",
-          "videoUrl": "https://www.youtube.com/watch?v=NcuiMlPrcAY",
-          "start": "2026-10-29T15:39:17Z",
-          "end": "2026-10-29T20:36:58Z",
-          "minutes": 297.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ほぐラジ #12】みんなの『クリエイティブ』を集めてみた！【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 445,
-          "avgViewers": 445.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-          "name": "望月ほぐの",
-          "videoId": "bCI6mrt6n74",
-          "videoUrl": "https://www.youtube.com/watch?v=bCI6mrt6n74",
-          "start": "2026-10-27T21:55:34Z",
-          "end": "2026-10-28T01:00:51Z",
-          "minutes": 185.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝活/雑談】#310［2026.10/28］久しぶり。【望月ほぐの/ゆにれいど！】",
-          "game": null,
-          "peakViewers": 409,
-          "avgViewers": 409.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 440,
-      "livePeakViewers": 440,
-      "liveAvgViewers": 440.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          440
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=JCuwc8ElxGw"
-    },
-    {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【Forza Horizon6】行くぞ！シーズンイベント！金色の無免許#55【#七乃羽すず┆すずみあ】",
-      "lastEnd": "2026-11-10T20:24:37Z",
-      "lastTitle": "【マイクラ】廃キャンプ探し！星空の下でチルしようぜ【#七乃羽すず┆すずみあ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 94.0,
-          "peakViewers": 94
-        },
-        "week": {
-          "totalMinutes": 1015.5,
-          "gameMinutes": 0.0,
-          "totalHours": 16.93,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 93.7,
-          "peakViewers": 120
-        },
-        "month": {
-          "totalMinutes": 1442.6,
-          "gameMinutes": 0.0,
-          "totalHours": 24.04,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 88.1,
-          "peakViewers": 120
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "nHWf1tHW_Vs",
-          "videoUrl": "https://www.youtube.com/watch?v=nHWf1tHW_Vs",
-          "start": "2026-11-10T12:58:48Z",
-          "end": "2026-11-10T20:24:37Z",
-          "minutes": 445.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【マイクラ】廃キャンプ探し！星空の下でチルしようぜ【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 60,
-          "avgViewers": 60.0,
-          "samples": [
-            [
-              "2026-11-10T12:58:48Z",
-              60
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "87R7qqba914",
-          "videoUrl": "https://www.youtube.com/watch?v=87R7qqba914",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】シーズンイベント進める！無免許チル爆走#54【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 120,
-          "avgViewers": 120.0,
-          "samples": [
-            [
-              "2026-11-09T13:40:09Z",
-              120
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "Zsos_pl90nY",
-          "videoUrl": "https://www.youtube.com/watch?v=Zsos_pl90nY",
-          "start": "2026-11-01T06:43:31Z",
-          "end": "2026-11-01T13:50:35Z",
-          "minutes": 427.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】リスナーさんに聞いた最高のフォトスポットを巡る！#51【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 75,
-          "avgViewers": 75.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "nu8U2POuDFk",
-          "videoUrl": "https://www.youtube.com/watch?v=nu8U2POuDFk",
-          "start": "2026-10-30T13:09:23Z",
-          "end": "2026-10-30T18:37:28Z",
-          "minutes": 328.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】シーズンイベント！春だ！ゴールドだ！無免許だ！#50【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 98,
-          "avgViewers": 98.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "fW777jzgbcQ",
-          "videoUrl": "https://www.youtube.com/watch?v=fW777jzgbcQ",
-          "start": "2026-10-28T13:36:05Z",
-          "end": "2026-10-28T19:05:57Z",
-          "minutes": 329.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】金色の無免許による華麗なる走り＃４９【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 72,
-          "avgViewers": 72.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "Y_zI79Dd39k",
-          "videoUrl": "https://www.youtube.com/watch?v=Y_zI79Dd39k",
-          "start": "2026-10-27T12:02:47Z",
-          "end": "2026-10-27T17:56:01Z",
-          "minutes": 353.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Cursed Companions】NGワードを言ってはいけない協力ゲーに挑む【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "LD7QXrZ_DoU",
-          "videoUrl": "https://www.youtube.com/watch?v=LD7QXrZ_DoU",
-          "start": "2026-10-23T10:33:41Z",
-          "end": "2026-10-23T15:26:47Z",
-          "minutes": 293.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】金の無免許は冬のシーズンイベントを進める＃４７【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 95,
-          "avgViewers": 95.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-          "name": "七乃羽すず",
-          "videoId": "G_bY7gfj-iI",
-          "videoUrl": "https://www.youtube.com/watch?v=G_bY7gfj-iI",
-          "start": "2026-10-17T08:52:49Z",
-          "end": "2026-10-17T12:43:37Z",
-          "minutes": 230.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Forza Horizon6】シーズンイベントにアマプラセール雑談を添えて＃４５【#七乃羽すず┆すずみあ】",
-          "game": null,
-          "peakViewers": 123,
-          "avgViewers": 123.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 94,
-      "livePeakViewers": 94,
-      "liveAvgViewers": 94.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          94
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=JM2_V8ugcAs"
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "ただいま【甘音あむ / ネオポルテ】",
-      "lastEnd": "2026-11-06T03:14:10Z",
-      "lastTitle": "【朝枠】おはよ！おはよ！おはよ！【甘音あむ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 158.0,
-          "peakViewers": 158
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 158.0,
-          "peakViewers": 158
-        },
-        "month": {
-          "totalMinutes": 884.2,
-          "gameMinutes": 0.0,
-          "totalHours": 14.74,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 253.8,
-          "peakViewers": 423
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "QnZMJS81qQM",
-          "videoUrl": "https://www.youtube.com/watch?v=QnZMJS81qQM",
-          "start": "2026-11-05T22:51:17Z",
-          "end": "2026-11-06T03:14:10Z",
-          "minutes": 262.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝枠】おはよ！おはよ！おはよ！【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 187,
-          "avgViewers": 187.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "puYOK_eT7JI",
-          "videoUrl": "https://www.youtube.com/watch?v=puYOK_eT7JI",
-          "start": "2026-11-01T06:43:31Z",
-          "end": "2026-11-01T13:50:35Z",
-          "minutes": 427.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "うたいたいー！！！！！ #歌枠 【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 218,
-          "avgViewers": 218.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "ofTS7uaxG9o",
-          "videoUrl": "https://www.youtube.com/watch?v=ofTS7uaxG9o",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "˚｡‧˚ASMR┊🎃happy Halloween🍬お菓子をくれないといたずらしちゃうぞー？ 3Dio Whispering【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 423,
-          "avgViewers": 423.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "tDQotJTejR0",
-          "videoUrl": "https://www.youtube.com/watch?v=tDQotJTejR0",
-          "start": "2026-10-30T00:21:24Z",
-          "end": "2026-10-30T06:13:56Z",
-          "minutes": 352.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【朝枠】おきたー？おはよするー？【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 286,
-          "avgViewers": 286.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "uOs-bfCZPpg",
-          "videoUrl": "https://www.youtube.com/watch?v=uOs-bfCZPpg",
-          "start": "2026-10-28T23:10:07Z",
-          "end": "2026-10-29T08:49:01Z",
-          "minutes": 578.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "おはよ？【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 417,
-          "avgViewers": 312.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "NFR6OoBJP1k",
-          "videoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k",
-          "start": "2026-10-25T17:26:13Z",
-          "end": "2026-10-25T22:19:51Z",
-          "minutes": 293.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 422,
-          "avgViewers": 331.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "S2VNK9MqX9g",
-          "videoUrl": "https://www.youtube.com/watch?v=S2VNK9MqX9g",
-          "start": "2026-10-24T13:51:12Z",
-          "end": "2026-10-24T17:13:57Z",
-          "minutes": 202.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 266,
-          "avgViewers": 266.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-          "name": "甘音あむ",
-          "videoId": "kf6GWi2ZgPQ",
-          "videoUrl": "https://www.youtube.com/watch?v=kf6GWi2ZgPQ",
-          "start": "2026-10-23T15:26:47Z",
-          "end": "2026-10-23T19:28:55Z",
-          "minutes": 242.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "おててテスト【甘音あむ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 267,
-          "avgViewers": 267.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 158,
-      "livePeakViewers": 158,
-      "liveAvgViewers": 158.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          158
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=MekczGGahNI"
-    },
-    {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【 #パレットタウン 】ギャングボスがキャバ嬢編  #gta   【 #輝七瀬  / RIONECTION】",
-      "lastEnd": "2026-11-01T18:45:41Z",
-      "lastTitle": "【 #パレットタウン 】ギャング作るぞ！交流だ！！！1日目 #gta   【 #輝七瀬  / RIONECTION】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 10.0,
-          "peakViewers": 10
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 10.0,
-          "peakViewers": 10
-        },
-        "month": {
-          "totalMinutes": 489.4,
-          "gameMinutes": 0.0,
-          "totalHours": 8.16,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 12.4,
-          "peakViewers": 19
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "wuhLGGgE2ZY",
-          "videoUrl": "https://www.youtube.com/watch?v=wuhLGGgE2ZY",
-          "start": "2026-11-01T13:50:35Z",
-          "end": "2026-11-01T18:45:41Z",
-          "minutes": 295.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #パレットタウン 】ギャング作るぞ！交流だ！！！1日目 #gta   【 #輝七瀬  / RIONECTION】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "jbDj6GP17FQ",
-          "videoUrl": "https://www.youtube.com/watch?v=jbDj6GP17FQ",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【実写】Vが顔出しでぼっちハロウィンをキメる。【 #輝七瀬 / RIONECTION 】",
-          "game": null,
-          "peakViewers": 19,
-          "avgViewers": 19.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "zStH6XyugGI",
-          "videoUrl": "https://www.youtube.com/watch?v=zStH6XyugGI",
-          "start": "2026-10-22T05:01:17Z",
-          "end": "2026-10-22T10:06:02Z",
-          "minutes": 304.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #縦型雑談 】おひるのちょっぴり雑談  #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 12.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "jtbzzf2pUcA",
-          "videoUrl": "https://www.youtube.com/watch?v=jtbzzf2pUcA",
-          "start": "2026-10-16T15:36:00Z",
-          "end": "2026-10-16T19:01:06Z",
-          "minutes": 205.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #リライフ 】新しい犯罪に挑戦したい。資金集め＆交流 #gtarp  【 #輝七瀬  / RIONECTION】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "-WsMQmdAQDo",
-          "videoUrl": "https://www.youtube.com/watch?v=-WsMQmdAQDo",
-          "start": "2026-10-13T11:27:36Z",
-          "end": "2026-10-13T18:27:42Z",
-          "minutes": 420.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #リライフ 】水色ギャング設立に向けて。資金＆仲間集め #gtarp  【 #輝七瀬  / RIONECTION】",
-          "game": null,
-          "peakViewers": 8,
-          "avgViewers": 8.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "4tH1HREfIPE",
-          "videoUrl": "https://www.youtube.com/watch?v=4tH1HREfIPE",
-          "start": "2026-10-06T21:11:12Z",
-          "end": "2026-10-06T22:11:16Z",
-          "minutes": 60.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #朝活  】おはようってしにきてね #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
-          "game": null,
-          "peakViewers": 9,
-          "avgViewers": 7.8,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "9hi2QZtH0ck",
-          "videoUrl": "https://www.youtube.com/watch?v=9hi2QZtH0ck",
-          "start": "2026-10-05T12:01:04Z",
-          "end": "2026-10-05T12:59:35Z",
-          "minutes": 58.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #ちいかわ 】※ネタバレあり ちいかわ映画を見てきました。#雑談  【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 8.5,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-          "name": "輝 七瀬",
-          "videoId": "BpeaA9CfZVc",
-          "videoUrl": "https://www.youtube.com/watch?v=BpeaA9CfZVc",
-          "start": "2026-10-03T14:36:05Z",
-          "end": "2026-10-03T18:37:56Z",
-          "minutes": 241.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 #天下無双ARK 】天下無双最強s  最終回 【 #輝七瀬 / RIONECTION】",
-          "game": null,
-          "peakViewers": 4,
-          "avgViewers": 4.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 10,
-      "livePeakViewers": 10,
-      "liveAvgViewers": 10.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          10
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=aj4mpYeSEZU"
-    },
-    {
-      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-      "name": "氷乃渚",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCe5mbpYA9Yym4lZTdj06G6Q",
-      "isLive": true,
-      "liveSince": "2026-11-13T13:20:25Z",
-      "liveTitle": "【兄弟コラボ】2人でお便り読んでくよ！サプライズもあります【氷乃渚/玖音レオ/ゆにれいど！/FouRTe Project】",
-      "lastEnd": "2026-11-11T15:42:57Z",
-      "lastTitle": "【メン限】チル【氷乃渚 / ゆにれいど！】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 274.0,
-          "peakViewers": 274
-        },
-        "week": {
-          "totalMinutes": 26.8,
-          "gameMinutes": 0.0,
-          "totalHours": 0.45,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 274.0,
-          "peakViewers": 274
-        },
-        "month": {
-          "totalMinutes": 26.8,
-          "gameMinutes": 0.0,
-          "totalHours": 0.45,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 274.0,
-          "peakViewers": 274
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "o-BAYIHF8O8",
-          "videoUrl": "https://www.youtube.com/watch?v=o-BAYIHF8O8",
-          "start": "2026-11-11T15:16:11Z",
-          "end": "2026-11-11T15:42:57Z",
-          "minutes": 26.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メン限】チル【氷乃渚 / ゆにれいど！】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "5h2dKPboJ-o",
-          "videoUrl": "https://www.youtube.com/watch?v=5h2dKPboJ-o",
-          "start": "2026-10-18T13:28:50Z",
-          "end": "2026-10-18T16:46:57Z",
-          "minutes": 198.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】初見さん歓迎！週末はそりゃまぁ歌うよねって【氷乃渚 / ゆにれいど！】",
-          "game": null,
-          "peakViewers": 109,
-          "avgViewers": 109.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "JeTZD5g7AoA",
-          "videoUrl": "https://www.youtube.com/watch?v=JeTZD5g7AoA",
-          "start": "2026-10-14T12:55:26Z",
-          "end": "2026-10-14T17:49:11Z",
-          "minutes": 293.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】長い旅に出ていました【氷乃渚 / ゆにれいど！】",
-          "game": null,
-          "peakViewers": 52,
-          "avgViewers": 52.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "9rWQUbm7-EM",
-          "videoUrl": "https://www.youtube.com/watch?v=9rWQUbm7-EM",
-          "start": "2026-10-10T13:59:27Z",
-          "end": "2026-10-10T18:27:04Z",
-          "minutes": 267.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#歌枠 】初見さん歓迎！今日はとってもいい日だ#shorts #vtuber",
-          "game": null,
-          "peakViewers": 103,
-          "avgViewers": 103.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "7G5VOxTTKZ0",
-          "videoUrl": "https://www.youtube.com/watch?v=7G5VOxTTKZ0",
-          "start": "2026-10-08T12:33:21Z",
-          "end": "2026-10-08T15:21:17Z",
-          "minutes": 167.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】浮気判定シートガチで答えてみる【氷乃渚 / ゆにれいど！】",
-          "game": null,
-          "peakViewers": 90,
-          "avgViewers": 87.4,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "ayT7UzYekEI",
-          "videoUrl": "https://www.youtube.com/watch?v=ayT7UzYekEI",
-          "start": "2026-10-05T14:01:09Z",
-          "end": "2026-10-05T14:08:59Z",
-          "minutes": 7.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【飯食い動画】焼きポンデリングが食べたいんだ【氷乃渚 / ゆにれいど！】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "mnj0ZICkbaQ",
-          "videoUrl": "https://www.youtube.com/watch?v=mnj0ZICkbaQ",
-          "start": "2026-10-03T14:36:05Z",
-          "end": "2026-10-03T18:37:56Z",
-          "minutes": 241.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【歌枠】初見さん歓迎！深夜にバラード多めで歌います【氷乃渚 / ゆにれいど！】",
-          "game": null,
-          "peakViewers": 113,
-          "avgViewers": 113.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-          "name": "氷乃渚",
-          "videoId": "AFSv1sKu9ZA",
-          "videoUrl": "https://www.youtube.com/watch?v=AFSv1sKu9ZA",
-          "start": "2026-10-02T12:41:37Z",
-          "end": "2026-10-02T14:01:08Z",
-          "minutes": 79.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【妹に運転を教える】潜在ゴールド免許なので自分やれます【氷乃渚 / ゆにれいど！】",
-          "game": null,
-          "peakViewers": 68,
-          "avgViewers": 64.9,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 274,
-      "livePeakViewers": 274,
-      "liveAvgViewers": 274.0,
-      "liveSamples": [
-        [
-          "2026-11-13T13:20:25Z",
-          274
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=z9DvxW6aroY"
+      ]
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -2608,6 +618,1535 @@
           "game": null,
           "peakViewers": 23,
           "avgViewers": 23.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCB-aip0wsqKQPcrLW1BBJaw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【浮気した夫に全部吐かせる】( ◜▿◝ )【綾見ユラ/YUMENOS】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 119.0,
+          "peakViewers": 119
+        },
+        "week": {
+          "totalMinutes": 1451.1,
+          "gameMinutes": 0.0,
+          "totalHours": 24.19,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 77.1,
+          "peakViewers": 119
+        },
+        "month": {
+          "totalMinutes": 2607.0,
+          "gameMinutes": 0.0,
+          "totalHours": 43.45,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 76.6,
+          "peakViewers": 119
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "2X-iKiVsXm0",
+          "videoUrl": "https://www.youtube.com/watch?v=2X-iKiVsXm0",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【浮気した夫に全部吐かせる】( ◜▿◝ )【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 119,
+          "avgViewers": 119.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              119
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "b2Y4gWWzDY8",
+          "videoUrl": "https://www.youtube.com/watch?v=b2Y4gWWzDY8",
+          "start": "2026-11-10T12:58:48Z",
+          "end": "2026-11-10T20:24:37Z",
+          "minutes": 445.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【スプラトゥーン3】ハマりすぎ注意ゲー参る【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 86,
+          "avgViewers": 86.0,
+          "samples": [
+            [
+              "2026-11-10T12:58:48Z",
+              86
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "Sk-VBX8UkYs",
+          "videoUrl": "https://www.youtube.com/watch?v=Sk-VBX8UkYs",
+          "start": "2026-11-09T13:40:09Z",
+          "end": "2026-11-09T23:09:50Z",
+          "minutes": 569.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ゼルダの伝説 時のオカリナ】時の勇者、全うします #4【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 38,
+          "avgViewers": 38.0,
+          "samples": [
+            [
+              "2026-11-09T13:40:09Z",
+              38
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "rMi9PFfHH_w",
+          "videoUrl": "https://www.youtube.com/watch?v=rMi9PFfHH_w",
+          "start": "2026-11-07T15:37:54Z",
+          "end": "2026-11-07T19:37:06Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ゼルダの伝説 時のオカリナ】時の勇者、始めます #2【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 68,
+          "avgViewers": 68.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "yQBZhgvH_xU",
+          "videoUrl": "https://www.youtube.com/watch?v=yQBZhgvH_xU",
+          "start": "2026-11-06T11:06:58Z",
+          "end": "2026-11-06T17:55:54Z",
+          "minutes": 408.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【スプラトゥーン3】ゼロから始める夜活スプラ w/テン【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 56,
+          "avgViewers": 56.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "zEZfPPihCDk",
+          "videoUrl": "https://www.youtube.com/watch?v=zEZfPPihCDk",
+          "start": "2026-11-05T17:37:51Z",
+          "end": "2026-11-05T22:51:17Z",
+          "minutes": 313.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ゼルダの伝説 時のオカリナ】勇者見習い、始めます #1【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 88,
+          "avgViewers": 88.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "TNOs1lE40Oo",
+          "videoUrl": "https://www.youtube.com/watch?v=TNOs1lE40Oo",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】選ばれたのは【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 109,
+          "avgViewers": 109.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+          "name": "綾見ユラ",
+          "videoId": "IMuBCUhcgEI",
+          "videoUrl": "https://www.youtube.com/watch?v=IMuBCUhcgEI",
+          "start": "2026-10-30T13:09:23Z",
+          "end": "2026-10-31T01:48:52Z",
+          "minutes": 759.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【スーパーマリオギャラクシー2】宇 宙 制 覇 ２【綾見ユラ/YUMENOS】",
+          "game": null,
+          "peakViewers": 86,
+          "avgViewers": 68.6,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 10.0,
+          "peakViewers": 10
+        },
+        "week": {
+          "totalMinutes": 1407.4,
+          "gameMinutes": 0.0,
+          "totalHours": 23.46,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 6.0,
+          "peakViewers": 10
+        },
+        "month": {
+          "totalMinutes": 2472.6,
+          "gameMinutes": 0.0,
+          "totalHours": 41.21,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 8.6,
+          "peakViewers": 13
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "BQznWqUTkK4",
+          "videoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              10
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "n2jV6oTZc4U",
+          "videoUrl": "https://www.youtube.com/watch?v=n2jV6oTZc4U",
+          "start": "2026-11-11T15:25:07Z",
+          "end": "2026-11-11T22:07:15Z",
+          "minutes": 402.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 6,
+          "avgViewers": 6.0,
+          "samples": [
+            [
+              "2026-11-11T15:25:07Z",
+              6
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "InBdAxeMIyQ",
+          "videoUrl": "https://www.youtube.com/watch?v=InBdAxeMIyQ",
+          "start": "2026-11-09T13:40:09Z",
+          "end": "2026-11-09T23:09:50Z",
+          "minutes": 569.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/9【 #マーダーミステリー 】その鉄のガラクタいわく 第１章　GM：maŸUko視点　#やかたま鉄ガクタいわ",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [
+            [
+              "2026-11-09T13:40:09Z",
+              3
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "_3wPgDJfC-8",
+          "videoUrl": "https://www.youtube.com/watch?v=_3wPgDJfC-8",
+          "start": "2026-11-07T15:37:54Z",
+          "end": "2026-11-07T19:37:06Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "zDqc_fmUVhk",
+          "videoUrl": "https://www.youtube.com/watch?v=zDqc_fmUVhk",
+          "start": "2026-11-03T16:09:17Z",
+          "end": "2026-11-03T21:45:52Z",
+          "minutes": 336.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/3【 #GTA5  】＃10 知らないこと、知りたい。 #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "VDzMMfGFlmU",
+          "videoUrl": "https://www.youtube.com/watch?v=VDzMMfGFlmU",
+          "start": "2026-11-01T13:50:35Z",
+          "end": "2026-11-01T18:45:41Z",
+          "minutes": 295.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/1【 #マーダーミステリー 】グリムギア　スカル役：maŸUko視点",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "Gft5bPIaYzY",
+          "videoUrl": "https://www.youtube.com/watch?v=Gft5bPIaYzY",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/31【 #GTA5  】＃8 ハロウィンっぽいことがしたいごはん屋さん🎃 #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "qxxh73PDfZU",
+          "videoUrl": "https://www.youtube.com/watch?v=qxxh73PDfZU",
+          "start": "2026-10-30T13:09:23Z",
+          "end": "2026-10-30T18:37:28Z",
+          "minutes": 328.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣10/30【 #惨劇RoopeR 】今度は+クトゥルフ！？なボドゲで遊ぶぞ～～！【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 1,
+          "avgViewers": 1.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 16.0,
+          "peakViewers": 16
+        },
+        "week": {
+          "totalMinutes": 1355.3,
+          "gameMinutes": 0.0,
+          "totalHours": 22.59,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 16.3,
+          "peakViewers": 35
+        },
+        "month": {
+          "totalMinutes": 2436.2,
+          "gameMinutes": 0.0,
+          "totalHours": 40.6,
+          "gameHours": 0.0,
+          "sessions": 8,
+          "avgViewers": 16.5,
+          "peakViewers": 35
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "zg7o6vVu2jM",
+          "videoUrl": "https://www.youtube.com/watch?v=zg7o6vVu2jM",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 16,
+          "avgViewers": 16.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              16
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "CYVwF3TTkF0",
+          "videoUrl": "https://www.youtube.com/watch?v=CYVwF3TTkF0",
+          "start": "2026-11-11T22:07:15Z",
+          "end": "2026-11-12T02:56:28Z",
+          "minutes": 289.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [
+            [
+              "2026-11-11T22:07:15Z",
+              13
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "d3Zhk8DvkmI",
+          "videoUrl": "https://www.youtube.com/watch?v=d3Zhk8DvkmI",
+          "start": "2026-11-10T12:58:48Z",
+          "end": "2026-11-10T20:24:37Z",
+          "minutes": 445.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ゼルダの伝説 時のオカリナ】#2  今日はゾーラの里から！大人になって森の神殿はいきたい！The Legend of Zelda【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [
+            [
+              "2026-11-10T12:58:48Z",
+              11
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "KtcpbtNTrA4",
+          "videoUrl": "https://www.youtube.com/watch?v=KtcpbtNTrA4",
+          "start": "2026-11-09T21:01:20Z",
+          "end": "2026-11-10T00:06:00Z",
+          "minutes": 184.7,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 35.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "6foiqvCsL5w",
+          "videoUrl": "https://www.youtube.com/watch?v=6foiqvCsL5w",
+          "start": "2026-11-05T22:51:17Z",
+          "end": "2026-11-06T03:14:10Z",
+          "minutes": 262.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 21.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "blgL4He1fS0",
+          "videoUrl": "https://www.youtube.com/watch?v=blgL4He1fS0",
+          "start": "2026-11-01T22:28:14Z",
+          "end": "2026-11-02T01:44:50Z",
+          "minutes": 196.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 21.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "xE1bypATkT0",
+          "videoUrl": "https://www.youtube.com/watch?v=xE1bypATkT0",
+          "start": "2026-11-01T06:43:31Z",
+          "end": "2026-11-01T13:50:35Z",
+          "minutes": 427.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【競馬】GⅠ 天皇賞秋 2026 見るぞ！！癒しボイス💤執事による絶叫競馬【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "2tTw9vTzqk8",
+          "videoUrl": "https://www.youtube.com/watch?v=2tTw9vTzqk8",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】HappyHalloween!!!!!! お菓子をくれなきゃ作って食べさせます🍩【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 15,
+          "avgViewers": 15.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 11.0,
+          "peakViewers": 11
+        },
+        "week": {
+          "totalMinutes": 837.8,
+          "gameMinutes": 0.0,
+          "totalHours": 13.96,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 19.6,
+          "peakViewers": 29
+        },
+        "month": {
+          "totalMinutes": 2217.0,
+          "gameMinutes": 0.0,
+          "totalHours": 36.95,
+          "gameHours": 0.0,
+          "sessions": 6,
+          "avgViewers": 23.6,
+          "peakViewers": 34
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "RKHadHwXbDA",
+          "videoUrl": "https://www.youtube.com/watch?v=RKHadHwXbDA",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              11
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "NYNFQZqDAIM",
+          "videoUrl": "https://www.youtube.com/watch?v=NYNFQZqDAIM",
+          "start": "2026-11-11T15:25:07Z",
+          "end": "2026-11-11T22:07:15Z",
+          "minutes": 402.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ガチグラ２】＃1 ド、パ？【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 29,
+          "avgViewers": 29.0,
+          "samples": [
+            [
+              "2026-11-11T15:25:07Z",
+              29
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "cwPMdPNl9vo",
+          "videoUrl": "https://www.youtube.com/watch?v=cwPMdPNl9vo",
+          "start": "2026-11-06T11:06:58Z",
+          "end": "2026-11-06T17:55:54Z",
+          "minutes": 408.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Japanese Ramen Simulator】サンタ家、開店ッ…！ withいつもの【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 21.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "Yglay6mziDU",
+          "videoUrl": "https://www.youtube.com/watch?v=Yglay6mziDU",
+          "start": "2026-11-05T09:36:53Z",
+          "end": "2026-11-05T17:37:51Z",
+          "minutes": 481.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【VALORANT】おい、久々にやるぜVALORANT メンバー概要欄【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "i0vswj93hZk",
+          "videoUrl": "https://www.youtube.com/watch?v=i0vswj93hZk",
+          "start": "2026-11-01T13:50:35Z",
+          "end": "2026-11-01T18:45:41Z",
+          "minutes": 295.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 28.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "dxPO7HVW0Ss",
+          "videoUrl": "https://www.youtube.com/watch?v=dxPO7HVW0Ss",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【球ひろいシミュレーター】おい、ハロウィンに最恐ホラゲいくぞ【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "u7pyzXgnDXw",
+          "videoUrl": "https://www.youtube.com/watch?v=u7pyzXgnDXw",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T17:26:13Z",
+          "minutes": 215.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラSeason2】＃３ チルを極める 風見セオ視点【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "OsCj3OuOKD8",
+          "videoUrl": "https://www.youtube.com/watch?v=OsCj3OuOKD8",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ストグラSeason2】＃２ なにするなにする 風見セオ視点【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 60,
+          "avgViewers": 60.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCElYE3bfzjjmJ9xwjvro9Yw",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【Minecraft】そういえばダイヤ1000個掘るって言ってましたね【日裏クロ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 36.0,
+          "peakViewers": 36
+        },
+        "week": {
+          "totalMinutes": 1283.6,
+          "gameMinutes": 0.0,
+          "totalHours": 21.39,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 44.0,
+          "peakViewers": 70
+        },
+        "month": {
+          "totalMinutes": 2126.0,
+          "gameMinutes": 0.0,
+          "totalHours": 35.43,
+          "gameHours": 0.0,
+          "sessions": 6,
+          "avgViewers": 44.9,
+          "peakViewers": 89
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "hz79qzqTIGE",
+          "videoUrl": "https://www.youtube.com/watch?v=hz79qzqTIGE",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Minecraft】そういえばダイヤ1000個掘るって言ってましたね【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 36,
+          "avgViewers": 36.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              36
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "qPSnK6YuY4w",
+          "videoUrl": "https://www.youtube.com/watch?v=qPSnK6YuY4w",
+          "start": "2026-11-11T15:25:07Z",
+          "end": "2026-11-11T22:07:15Z",
+          "minutes": 402.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほの暮しの庭】ほんのりホラー後寝ましょう #7【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 24,
+          "avgViewers": 24.0,
+          "samples": [
+            [
+              "2026-11-11T15:25:07Z",
+              24
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "27bLdYv2UUk",
+          "videoUrl": "https://www.youtube.com/watch?v=27bLdYv2UUk",
+          "start": "2026-11-10T12:58:48Z",
+          "end": "2026-11-10T20:24:37Z",
+          "minutes": 445.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】これって重い？判定シート記入させていただく【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 70,
+          "avgViewers": 70.0,
+          "samples": [
+            [
+              "2026-11-10T12:58:48Z",
+              70
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "1lmLiBUhnQ0",
+          "videoUrl": "https://www.youtube.com/watch?v=1lmLiBUhnQ0",
+          "start": "2026-11-07T15:37:54Z",
+          "end": "2026-11-07T19:37:06Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【イモ剥き】イモの山消えるまでイモ剥きします【Potato Please】【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 89,
+          "avgViewers": 89.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "KouTCA5TXZU",
+          "videoUrl": "https://www.youtube.com/watch?v=KouTCA5TXZU",
+          "start": "2026-11-06T11:06:58Z",
+          "end": "2026-11-06T17:55:54Z",
+          "minutes": 408.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【LTK】LTK レギュラーステージウォチパさせていただく！Withザクさん【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 22.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "bWxs2AyxZM0",
+          "videoUrl": "https://www.youtube.com/watch?v=bWxs2AyxZM0",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【プラネットズー2】ZOO日裏今日も開園です【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 44,
+          "avgViewers": 44.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "R4Y151dupGE",
+          "videoUrl": "https://www.youtube.com/watch?v=R4Y151dupGE",
+          "start": "2026-10-29T08:49:01Z",
+          "end": "2026-10-29T15:39:17Z",
+          "minutes": 410.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【OW】熱血OW部今日エメいくぞ！Withロウ【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 71,
+          "avgViewers": 71.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+          "name": "日裏クロ",
+          "videoId": "kirAq8i0ZM4",
+          "videoUrl": "https://www.youtube.com/watch?v=kirAq8i0ZM4",
+          "start": "2026-10-28T06:49:01Z",
+          "end": "2026-10-28T13:36:05Z",
+          "minutes": 407.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【OW】熱血OW部Withロウ【日裏クロ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 55,
+          "avgViewers": 55.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【ポケモンチャンピオンズ】マスボ級目指して華金深夜のランクマへ🔥!【望月ほぐの/ゆにれいど！】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 440.0,
+          "peakViewers": 440
+        },
+        "week": {
+          "totalMinutes": 1095.1,
+          "gameMinutes": 0.0,
+          "totalHours": 18.25,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 616.3,
+          "peakViewers": 763
+        },
+        "month": {
+          "totalMinutes": 2099.3,
+          "gameMinutes": 0.0,
+          "totalHours": 34.99,
+          "gameHours": 0.0,
+          "sessions": 7,
+          "avgViewers": 630.6,
+          "peakViewers": 789
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "JCuwc8ElxGw",
+          "videoUrl": "https://www.youtube.com/watch?v=JCuwc8ElxGw",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ポケモンチャンピオンズ】マスボ級目指して華金深夜のランクマへ🔥!【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 440,
+          "avgViewers": 440.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              440
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "YmtYhA6uaxs",
+          "videoUrl": "https://www.youtube.com/watch?v=YmtYhA6uaxs",
+          "start": "2026-11-12T23:52:33Z",
+          "end": "2026-11-13T05:24:22Z",
+          "minutes": 331.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#317［2026.11/13］金曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 763,
+          "avgViewers": 763.0,
+          "samples": [
+            [
+              "2026-11-12T23:52:33Z",
+              763
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "tlGKDpHSKZk",
+          "videoUrl": "https://www.youtube.com/watch?v=tlGKDpHSKZk",
+          "start": "2026-11-09T23:09:50Z",
+          "end": "2026-11-10T04:37:29Z",
+          "minutes": 327.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#315［2026.11/10］火曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 702,
+          "avgViewers": 702.0,
+          "samples": [
+            [
+              "2026-11-09T23:09:50Z",
+              702
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "i-A-lb4Txj0",
+          "videoUrl": "https://www.youtube.com/watch?v=i-A-lb4Txj0",
+          "start": "2026-11-07T22:59:32Z",
+          "end": "2026-11-08T02:18:06Z",
+          "minutes": 198.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#314［2026.11/8］日曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 789,
+          "avgViewers": 789.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "HkaNlcXeY14",
+          "videoUrl": "https://www.youtube.com/watch?v=HkaNlcXeY14",
+          "start": "2026-11-06T22:49:11Z",
+          "end": "2026-11-07T02:25:12Z",
+          "minutes": 216.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#313［2026.11/7］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 738,
+          "avgViewers": 738.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "tdEBCXI8Ayk",
+          "videoUrl": "https://www.youtube.com/watch?v=tdEBCXI8Ayk",
+          "start": "2026-11-04T21:58:07Z",
+          "end": "2026-11-05T02:11:10Z",
+          "minutes": 253.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝活/雑談】#312［2026.11/5］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 472,
+          "avgViewers": 472.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "H0wMMR_eqgk",
+          "videoUrl": "https://www.youtube.com/watch?v=H0wMMR_eqgk",
+          "start": "2026-11-03T16:09:17Z",
+          "end": "2026-11-03T21:45:52Z",
+          "minutes": 336.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ポケモンチャンピオンズ】ランクマ最終日の世界にご挨拶！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 634,
+          "avgViewers": 634.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+          "name": "望月ほぐの",
+          "videoId": "NcuiMlPrcAY",
+          "videoUrl": "https://www.youtube.com/watch?v=NcuiMlPrcAY",
+          "start": "2026-10-29T15:39:17Z",
+          "end": "2026-10-29T20:36:58Z",
+          "minutes": 297.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ほぐラジ #12】みんなの『クリエイティブ』を集めてみた！【望月ほぐの/ゆにれいど！】",
+          "game": null,
+          "peakViewers": 445,
+          "avgViewers": 445.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCo3zRhsnXIieauvm6c-xwkA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【Forza Horizon6】行くぞ！シーズンイベント！金色の無免許#55【#七乃羽すず┆すずみあ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 94.0,
+          "peakViewers": 94
+        },
+        "week": {
+          "totalMinutes": 1451.1,
+          "gameMinutes": 0.0,
+          "totalHours": 24.19,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 93.8,
+          "peakViewers": 120
+        },
+        "month": {
+          "totalMinutes": 1878.2,
+          "gameMinutes": 0.0,
+          "totalHours": 31.3,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 89.5,
+          "peakViewers": 120
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "JM2_V8ugcAs",
+          "videoUrl": "https://www.youtube.com/watch?v=JM2_V8ugcAs",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】行くぞ！シーズンイベント！金色の無免許#55【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 94,
+          "avgViewers": 94.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              94
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "nHWf1tHW_Vs",
+          "videoUrl": "https://www.youtube.com/watch?v=nHWf1tHW_Vs",
+          "start": "2026-11-10T12:58:48Z",
+          "end": "2026-11-10T20:24:37Z",
+          "minutes": 445.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【マイクラ】廃キャンプ探し！星空の下でチルしようぜ【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 60,
+          "avgViewers": 60.0,
+          "samples": [
+            [
+              "2026-11-10T12:58:48Z",
+              60
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "87R7qqba914",
+          "videoUrl": "https://www.youtube.com/watch?v=87R7qqba914",
+          "start": "2026-11-09T13:40:09Z",
+          "end": "2026-11-09T23:09:50Z",
+          "minutes": 569.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】シーズンイベント進める！無免許チル爆走#54【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 120,
+          "avgViewers": 120.0,
+          "samples": [
+            [
+              "2026-11-09T13:40:09Z",
+              120
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "Zsos_pl90nY",
+          "videoUrl": "https://www.youtube.com/watch?v=Zsos_pl90nY",
+          "start": "2026-11-01T06:43:31Z",
+          "end": "2026-11-01T13:50:35Z",
+          "minutes": 427.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】リスナーさんに聞いた最高のフォトスポットを巡る！#51【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 75,
+          "avgViewers": 75.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "nu8U2POuDFk",
+          "videoUrl": "https://www.youtube.com/watch?v=nu8U2POuDFk",
+          "start": "2026-10-30T13:09:23Z",
+          "end": "2026-10-30T18:37:28Z",
+          "minutes": 328.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】シーズンイベント！春だ！ゴールドだ！無免許だ！#50【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 98,
+          "avgViewers": 98.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "fW777jzgbcQ",
+          "videoUrl": "https://www.youtube.com/watch?v=fW777jzgbcQ",
+          "start": "2026-10-28T13:36:05Z",
+          "end": "2026-10-28T19:05:57Z",
+          "minutes": 329.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】金色の無免許による華麗なる走り＃４９【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 72,
+          "avgViewers": 72.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "Y_zI79Dd39k",
+          "videoUrl": "https://www.youtube.com/watch?v=Y_zI79Dd39k",
+          "start": "2026-10-27T12:02:47Z",
+          "end": "2026-10-27T17:56:01Z",
+          "minutes": 353.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Cursed Companions】NGワードを言ってはいけない協力ゲーに挑む【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+          "name": "七乃羽すず",
+          "videoId": "LD7QXrZ_DoU",
+          "videoUrl": "https://www.youtube.com/watch?v=LD7QXrZ_DoU",
+          "start": "2026-10-23T10:33:41Z",
+          "end": "2026-10-23T15:26:47Z",
+          "minutes": 293.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Forza Horizon6】金の無免許は冬のシーズンイベントを進める＃４７【#七乃羽すず┆すずみあ】",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 95.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC6FprWVXuULaY9mZOcqTe4A",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "ただいま【甘音あむ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 158.0,
+          "peakViewers": 158
+        },
+        "week": {
+          "totalMinutes": 435.6,
+          "gameMinutes": 0.0,
+          "totalHours": 7.26,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 158.0,
+          "peakViewers": 158
+        },
+        "month": {
+          "totalMinutes": 1319.9,
+          "gameMinutes": 0.0,
+          "totalHours": 22.0,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 222.2,
+          "peakViewers": 423
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "MekczGGahNI",
+          "videoUrl": "https://www.youtube.com/watch?v=MekczGGahNI",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "ただいま【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 158,
+          "avgViewers": 158.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              158
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "QnZMJS81qQM",
+          "videoUrl": "https://www.youtube.com/watch?v=QnZMJS81qQM",
+          "start": "2026-11-05T22:51:17Z",
+          "end": "2026-11-06T03:14:10Z",
+          "minutes": 262.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝枠】おはよ！おはよ！おはよ！【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 187,
+          "avgViewers": 187.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "puYOK_eT7JI",
+          "videoUrl": "https://www.youtube.com/watch?v=puYOK_eT7JI",
+          "start": "2026-11-01T06:43:31Z",
+          "end": "2026-11-01T13:50:35Z",
+          "minutes": 427.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "うたいたいー！！！！！ #歌枠 【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 218,
+          "avgViewers": 218.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "ofTS7uaxG9o",
+          "videoUrl": "https://www.youtube.com/watch?v=ofTS7uaxG9o",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "˚｡‧˚ASMR┊🎃happy Halloween🍬お菓子をくれないといたずらしちゃうぞー？ 3Dio Whispering【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 423,
+          "avgViewers": 423.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "tDQotJTejR0",
+          "videoUrl": "https://www.youtube.com/watch?v=tDQotJTejR0",
+          "start": "2026-10-30T00:21:24Z",
+          "end": "2026-10-30T06:13:56Z",
+          "minutes": 352.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【朝枠】おきたー？おはよするー？【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 286,
+          "avgViewers": 286.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "uOs-bfCZPpg",
+          "videoUrl": "https://www.youtube.com/watch?v=uOs-bfCZPpg",
+          "start": "2026-10-28T23:10:07Z",
+          "end": "2026-10-29T08:49:01Z",
+          "minutes": 578.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "おはよ？【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 417,
+          "avgViewers": 312.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "NFR6OoBJP1k",
+          "videoUrl": "https://www.youtube.com/watch?v=NFR6OoBJP1k",
+          "start": "2026-10-25T17:26:13Z",
+          "end": "2026-10-25T22:19:51Z",
+          "minutes": 293.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Minecraft】深夜雑談マイクラ！聴きながらねる？🐾【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 422,
+          "avgViewers": 331.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+          "name": "甘音あむ",
+          "videoId": "S2VNK9MqX9g",
+          "videoUrl": "https://www.youtube.com/watch?v=S2VNK9MqX9g",
+          "start": "2026-10-24T13:51:12Z",
+          "end": "2026-10-24T17:13:57Z",
+          "minutes": 202.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "飲酒雑談ってこと！そしてお手🐾【甘音あむ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 266,
+          "avgViewers": 266.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -2985,6 +2524,189 @@
       ]
     },
     {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCADIxr9ho7V60xs9gT9xWhA",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【 #パレットタウン 】ギャングボスがキャバ嬢編  #gta   【 #輝七瀬  / RIONECTION】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 10.0,
+          "peakViewers": 10
+        },
+        "week": {
+          "totalMinutes": 435.6,
+          "gameMinutes": 0.0,
+          "totalHours": 7.26,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 10.0,
+          "peakViewers": 10
+        },
+        "month": {
+          "totalMinutes": 925.0,
+          "gameMinutes": 0.0,
+          "totalHours": 15.42,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 11.3,
+          "peakViewers": 19
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "aj4mpYeSEZU",
+          "videoUrl": "https://www.youtube.com/watch?v=aj4mpYeSEZU",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #パレットタウン 】ギャングボスがキャバ嬢編  #gta   【 #輝七瀬  / RIONECTION】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              10
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "wuhLGGgE2ZY",
+          "videoUrl": "https://www.youtube.com/watch?v=wuhLGGgE2ZY",
+          "start": "2026-11-01T13:50:35Z",
+          "end": "2026-11-01T18:45:41Z",
+          "minutes": 295.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #パレットタウン 】ギャング作るぞ！交流だ！！！1日目 #gta   【 #輝七瀬  / RIONECTION】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "jbDj6GP17FQ",
+          "videoUrl": "https://www.youtube.com/watch?v=jbDj6GP17FQ",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【実写】Vが顔出しでぼっちハロウィンをキメる。【 #輝七瀬 / RIONECTION 】",
+          "game": null,
+          "peakViewers": 19,
+          "avgViewers": 19.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "zStH6XyugGI",
+          "videoUrl": "https://www.youtube.com/watch?v=zStH6XyugGI",
+          "start": "2026-10-22T05:01:17Z",
+          "end": "2026-10-22T10:06:02Z",
+          "minutes": 304.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #縦型雑談 】おひるのちょっぴり雑談  #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 12.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "jtbzzf2pUcA",
+          "videoUrl": "https://www.youtube.com/watch?v=jtbzzf2pUcA",
+          "start": "2026-10-16T15:36:00Z",
+          "end": "2026-10-16T19:01:06Z",
+          "minutes": 205.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #リライフ 】新しい犯罪に挑戦したい。資金集め＆交流 #gtarp  【 #輝七瀬  / RIONECTION】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "-WsMQmdAQDo",
+          "videoUrl": "https://www.youtube.com/watch?v=-WsMQmdAQDo",
+          "start": "2026-10-13T11:27:36Z",
+          "end": "2026-10-13T18:27:42Z",
+          "minutes": 420.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #リライフ 】水色ギャング設立に向けて。資金＆仲間集め #gtarp  【 #輝七瀬  / RIONECTION】",
+          "game": null,
+          "peakViewers": 8,
+          "avgViewers": 8.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "4tH1HREfIPE",
+          "videoUrl": "https://www.youtube.com/watch?v=4tH1HREfIPE",
+          "start": "2026-10-06T21:11:12Z",
+          "end": "2026-10-06T22:11:16Z",
+          "minutes": 60.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #朝活  】おはようってしにきてね #shorts #雑談 #新人vtuber 【 #輝七瀬  / RIONECTION】",
+          "game": null,
+          "peakViewers": 9,
+          "avgViewers": 7.8,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+          "name": "輝 七瀬",
+          "videoId": "9hi2QZtH0ck",
+          "videoUrl": "https://www.youtube.com/watch?v=9hi2QZtH0ck",
+          "start": "2026-10-05T12:01:04Z",
+          "end": "2026-10-05T12:59:35Z",
+          "minutes": 58.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 #ちいかわ 】※ネタバレあり ちいかわ映画を見てきました。#雑談  【 #輝七瀬 / RIONECTION】",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 8.5,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
       "name": "愁子",
       "registered": true,
@@ -3243,12 +2965,7 @@
           "game": null,
           "peakViewers": 43,
           "avgViewers": 43.0,
-          "samples": [
-            [
-              "2026-11-06T11:06:58Z",
-              43
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -3431,12 +3148,7 @@
           "game": null,
           "peakViewers": 35,
           "avgViewers": 35.0,
-          "samples": [
-            [
-              "2026-11-06T11:06:58Z",
-              35
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -3726,6 +3438,189 @@
           "game": null,
           "peakViewers": null,
           "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+      "name": "氷乃渚",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCe5mbpYA9Yym4lZTdj06G6Q",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-13T20:36:03Z",
+      "lastTitle": "【兄弟コラボ】2人でお便り読んでくよ！サプライズもあります【氷乃渚/玖音レオ/ゆにれいど！/FouRTe Project】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 336.1,
+          "gameMinutes": 0.0,
+          "totalHours": 5.6,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 274.0,
+          "peakViewers": 274
+        },
+        "week": {
+          "totalMinutes": 462.4,
+          "gameMinutes": 0.0,
+          "totalHours": 7.71,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 274.0,
+          "peakViewers": 274
+        },
+        "month": {
+          "totalMinutes": 462.4,
+          "gameMinutes": 0.0,
+          "totalHours": 7.71,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 274.0,
+          "peakViewers": 274
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "z9DvxW6aroY",
+          "videoUrl": "https://www.youtube.com/watch?v=z9DvxW6aroY",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【兄弟コラボ】2人でお便り読んでくよ！サプライズもあります【氷乃渚/玖音レオ/ゆにれいど！/FouRTe Project】",
+          "game": null,
+          "peakViewers": 274,
+          "avgViewers": 274.0,
+          "samples": [
+            [
+              "2026-11-13T13:20:25Z",
+              274
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "o-BAYIHF8O8",
+          "videoUrl": "https://www.youtube.com/watch?v=o-BAYIHF8O8",
+          "start": "2026-11-11T15:16:11Z",
+          "end": "2026-11-11T15:42:57Z",
+          "minutes": 26.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メン限】チル【氷乃渚 / ゆにれいど！】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "5h2dKPboJ-o",
+          "videoUrl": "https://www.youtube.com/watch?v=5h2dKPboJ-o",
+          "start": "2026-10-18T13:28:50Z",
+          "end": "2026-10-18T16:46:57Z",
+          "minutes": 198.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】初見さん歓迎！週末はそりゃまぁ歌うよねって【氷乃渚 / ゆにれいど！】",
+          "game": null,
+          "peakViewers": 109,
+          "avgViewers": 109.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "JeTZD5g7AoA",
+          "videoUrl": "https://www.youtube.com/watch?v=JeTZD5g7AoA",
+          "start": "2026-10-14T12:55:26Z",
+          "end": "2026-10-14T17:49:11Z",
+          "minutes": 293.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】長い旅に出ていました【氷乃渚 / ゆにれいど！】",
+          "game": null,
+          "peakViewers": 52,
+          "avgViewers": 52.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "9rWQUbm7-EM",
+          "videoUrl": "https://www.youtube.com/watch?v=9rWQUbm7-EM",
+          "start": "2026-10-10T13:59:27Z",
+          "end": "2026-10-10T18:27:04Z",
+          "minutes": 267.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#歌枠 】初見さん歓迎！今日はとってもいい日だ#shorts #vtuber",
+          "game": null,
+          "peakViewers": 103,
+          "avgViewers": 103.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "7G5VOxTTKZ0",
+          "videoUrl": "https://www.youtube.com/watch?v=7G5VOxTTKZ0",
+          "start": "2026-10-08T12:33:21Z",
+          "end": "2026-10-08T15:21:17Z",
+          "minutes": 167.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】浮気判定シートガチで答えてみる【氷乃渚 / ゆにれいど！】",
+          "game": null,
+          "peakViewers": 90,
+          "avgViewers": 87.4,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "ayT7UzYekEI",
+          "videoUrl": "https://www.youtube.com/watch?v=ayT7UzYekEI",
+          "start": "2026-10-05T14:01:09Z",
+          "end": "2026-10-05T14:08:59Z",
+          "minutes": 7.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【飯食い動画】焼きポンデリングが食べたいんだ【氷乃渚 / ゆにれいど！】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+          "name": "氷乃渚",
+          "videoId": "mnj0ZICkbaQ",
+          "videoUrl": "https://www.youtube.com/watch?v=mnj0ZICkbaQ",
+          "start": "2026-10-03T14:36:05Z",
+          "end": "2026-10-03T18:37:56Z",
+          "minutes": 241.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【歌枠】初見さん歓迎！深夜にバラード多めで歌います【氷乃渚 / ゆにれいど！】",
+          "game": null,
+          "peakViewers": 113,
+          "avgViewers": 113.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -4094,6 +3989,198 @@
     }
   ],
   "recentSessions": [
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "RKHadHwXbDA",
+      "videoUrl": "https://www.youtube.com/watch?v=RKHadHwXbDA",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 11,
+      "avgViewers": 11.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "jd4AYA4X8aE",
+      "videoUrl": "https://www.youtube.com/watch?v=jd4AYA4X8aE",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 390,
+      "avgViewers": 390.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "hz79qzqTIGE",
+      "videoUrl": "https://www.youtube.com/watch?v=hz79qzqTIGE",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Minecraft】そういえばダイヤ1000個掘るって言ってましたね【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 36,
+      "avgViewers": 36.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "MekczGGahNI",
+      "videoUrl": "https://www.youtube.com/watch?v=MekczGGahNI",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "ただいま【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 158,
+      "avgViewers": 158.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "JCuwc8ElxGw",
+      "videoUrl": "https://www.youtube.com/watch?v=JCuwc8ElxGw",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ポケモンチャンピオンズ】マスボ級目指して華金深夜のランクマへ🔥!【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 440,
+      "avgViewers": 440.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "6cKJpLolJ_A",
+      "videoUrl": "https://www.youtube.com/watch?v=6cKJpLolJ_A",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "完全初見で神ゲーと名高いゲームをやっていく！【 ゼルダの伝説 時のオカリナ  】【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 68,
+      "avgViewers": 68.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "JM2_V8ugcAs",
+      "videoUrl": "https://www.youtube.com/watch?v=JM2_V8ugcAs",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Forza Horizon6】行くぞ！シーズンイベント！金色の無免許#55【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 94,
+      "avgViewers": 94.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "2X-iKiVsXm0",
+      "videoUrl": "https://www.youtube.com/watch?v=2X-iKiVsXm0",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【浮気した夫に全部吐かせる】( ◜▿◝ )【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 119,
+      "avgViewers": 119.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "zg7o6vVu2jM",
+      "videoUrl": "https://www.youtube.com/watch?v=zg7o6vVu2jM",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 16,
+      "avgViewers": 16.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "BQznWqUTkK4",
+      "videoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 10.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "aj4mpYeSEZU",
+      "videoUrl": "https://www.youtube.com/watch?v=aj4mpYeSEZU",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #パレットタウン 】ギャングボスがキャバ嬢編  #gta   【 #輝七瀬  / RIONECTION】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 10.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+      "name": "氷乃渚",
+      "videoId": "z9DvxW6aroY",
+      "videoUrl": "https://www.youtube.com/watch?v=z9DvxW6aroY",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【兄弟コラボ】2人でお便り読んでくよ！サプライズもあります【氷乃渚/玖音レオ/ゆにれいど！/FouRTe Project】",
+      "game": null,
+      "peakViewers": 274,
+      "avgViewers": 274.0,
+      "isTargetGame": false
+    },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
       "name": "火狩夜れんま",
@@ -4860,198 +4947,6 @@
       "game": null,
       "peakViewers": 43,
       "avgViewers": 43.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "yQBZhgvH_xU",
-      "videoUrl": "https://www.youtube.com/watch?v=yQBZhgvH_xU",
-      "start": "2026-11-06T11:06:58Z",
-      "end": "2026-11-06T17:55:54Z",
-      "minutes": 408.9,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【スプラトゥーン3】ゼロから始める夜活スプラ w/テン【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 56,
-      "avgViewers": 56.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "koees4LXq6I",
-      "videoUrl": "https://www.youtube.com/watch?v=koees4LXq6I",
-      "start": "2026-11-06T11:06:58Z",
-      "end": "2026-11-06T17:55:54Z",
-      "minutes": 408.9,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 Japanese Ramen Simulator 】元ラーメン屋店員によるガチラーメン屋経営/w石狩、カザ【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 35,
-      "avgViewers": 35.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "HKRuUvBU5BM",
-      "videoUrl": "https://www.youtube.com/watch?v=HKRuUvBU5BM",
-      "start": "2026-11-06T11:06:58Z",
-      "end": "2026-11-06T17:55:54Z",
-      "minutes": 408.9,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【空の軌跡 the 2nd】#2　完全初見　アネラスさんかわいいね　　#恋沼ミヤ",
-      "game": null,
-      "peakViewers": 110,
-      "avgViewers": 110.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "QnZMJS81qQM",
-      "videoUrl": "https://www.youtube.com/watch?v=QnZMJS81qQM",
-      "start": "2026-11-05T22:51:17Z",
-      "end": "2026-11-06T03:14:10Z",
-      "minutes": 262.9,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【朝枠】おはよ！おはよ！おはよ！【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 187,
-      "avgViewers": 187.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "6foiqvCsL5w",
-      "videoUrl": "https://www.youtube.com/watch?v=6foiqvCsL5w",
-      "start": "2026-11-05T22:51:17Z",
-      "end": "2026-11-06T03:14:10Z",
-      "minutes": 262.9,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 21,
-      "avgViewers": 21.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "zEZfPPihCDk",
-      "videoUrl": "https://www.youtube.com/watch?v=zEZfPPihCDk",
-      "start": "2026-11-05T17:37:51Z",
-      "end": "2026-11-05T22:51:17Z",
-      "minutes": 313.4,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【ゼルダの伝説 時のオカリナ】勇者見習い、始めます #1【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 88,
-      "avgViewers": 88.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "J4VrYB4ju8I",
-      "videoUrl": "https://www.youtube.com/watch?v=J4VrYB4ju8I",
-      "start": "2026-11-05T17:37:51Z",
-      "end": "2026-11-05T22:51:17Z",
-      "minutes": 313.4,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.12 収穫祭にふらっと行くわよ #愁子",
-      "game": null,
-      "peakViewers": 30,
-      "avgViewers": 30.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "By9HxIsvrGg",
-      "videoUrl": "https://www.youtube.com/watch?v=By9HxIsvrGg",
-      "start": "2026-11-05T17:37:51Z",
-      "end": "2026-11-05T22:51:17Z",
-      "minutes": 313.4,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【ストグラ2】Day41 　半グレの仲間探しながら…【#恋沼ミヤ/#神楽坂レイナ】",
-      "game": null,
-      "peakViewers": 13,
-      "avgViewers": 13.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "Yglay6mziDU",
-      "videoUrl": "https://www.youtube.com/watch?v=Yglay6mziDU",
-      "start": "2026-11-05T09:36:53Z",
-      "end": "2026-11-05T17:37:51Z",
-      "minutes": 481.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【VALORANT】おい、久々にやるぜVALORANT メンバー概要欄【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 34,
-      "avgViewers": 34.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "dLg26Aq21V0",
-      "videoUrl": "https://www.youtube.com/watch?v=dLg26Aq21V0",
-      "start": "2026-11-05T09:36:53Z",
-      "end": "2026-11-05T17:37:51Z",
-      "minutes": 481.0,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【空の軌跡 the 2nd】#1　完全初見　1では大号泣したが今回はどうだ？待望のリメイクやる🔥　　#恋沼ミヤ",
-      "game": null,
-      "peakViewers": 490,
-      "avgViewers": 490.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "tdEBCXI8Ayk",
-      "videoUrl": "https://www.youtube.com/watch?v=tdEBCXI8Ayk",
-      "start": "2026-11-04T21:58:07Z",
-      "end": "2026-11-05T02:11:10Z",
-      "minutes": 253.1,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【朝活/雑談】#312［2026.11/5］木曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 472,
-      "avgViewers": 472.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "uZOoerruyK4",
-      "videoUrl": "https://www.youtube.com/watch?v=uZOoerruyK4",
-      "start": "2026-11-04T08:07:52Z",
-      "end": "2026-11-04T16:16:32Z",
-      "minutes": 488.7,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 R.E.P.O 】大型アプデを拝見 w/ぴりから,白妙とき,史門,グラニット【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 38,
-      "avgViewers": 38.0,
       "isTargetGame": false
     }
   ]

@@ -1,236 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCNGMMdEgYIUR6rC44v9aZ8w": {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "RKHadHwXbDA",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 11,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          11
-        ]
-      ]
-    },
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "jd4AYA4X8aE",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 390,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          390
-        ]
-      ]
-    },
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "hz79qzqTIGE",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【Minecraft】そういえばダイヤ1000個掘るって言ってましたね【日裏クロ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 36,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          36
-        ]
-      ]
-    },
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "MekczGGahNI",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "ただいま【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 158,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          158
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "JCuwc8ElxGw",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【ポケモンチャンピオンズ】マスボ級目指して華金深夜のランクマへ🔥!【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 440,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          440
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "6cKJpLolJ_A",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "完全初見で神ゲーと名高いゲームをやっていく！【 ゼルダの伝説 時のオカリナ  】【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 68,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          68
-        ]
-      ]
-    },
-    "UCo3zRhsnXIieauvm6c-xwkA": {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "JM2_V8ugcAs",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【Forza Horizon6】行くぞ！シーズンイベント！金色の無免許#55【#七乃羽すず┆すずみあ】",
-      "game": null,
-      "peakViewers": 94,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          94
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "2X-iKiVsXm0",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【浮気した夫に全部吐かせる】( ◜▿◝ )【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 119,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          119
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "zg7o6vVu2jM",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 16,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          16
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "BQznWqUTkK4",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 10,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          10
-        ]
-      ]
-    },
-    "UCADIxr9ho7V60xs9gT9xWhA": {
-      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
-      "name": "輝 七瀬",
-      "videoId": "aj4mpYeSEZU",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【 #パレットタウン 】ギャングボスがキャバ嬢編  #gta   【 #輝七瀬  / RIONECTION】",
-      "game": null,
-      "peakViewers": 10,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          10
-        ]
-      ]
-    },
-    "UCe5mbpYA9Yym4lZTdj06G6Q": {
-      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-      "name": "氷乃渚",
-      "videoId": "z9DvxW6aroY",
-      "start": "2026-11-13T13:20:25Z",
-      "startSource": "observed",
-      "title": "【兄弟コラボ】2人でお便り読んでくよ！サプライズもあります【氷乃渚/玖音レオ/ゆにれいど！/FouRTe Project】",
-      "game": null,
-      "peakViewers": 274,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-13T13:20:25Z",
-      "lastSeenAt": "2026-11-13T13:20:25Z",
-      "samples": [
-        [
-          "2026-11-13T13:20:25Z",
-          274
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -7964,104 +7735,7 @@
       "game": null,
       "peakViewers": 22,
       "avgViewers": 12.5,
-      "samples": [
-        [
-          "2026-09-29T10:20:26Z",
-          15
-        ],
-        [
-          "2026-09-29T10:43:54Z",
-          22
-        ],
-        [
-          "2026-09-29T10:58:58Z",
-          19
-        ],
-        [
-          "2026-09-29T11:19:02Z",
-          16
-        ],
-        [
-          "2026-09-29T11:34:42Z",
-          14
-        ],
-        [
-          "2026-09-29T11:51:52Z",
-          17
-        ],
-        [
-          "2026-09-29T12:15:48Z",
-          15
-        ],
-        [
-          "2026-09-29T12:41:27Z",
-          11
-        ],
-        [
-          "2026-09-29T13:02:56Z",
-          16
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          12
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          8
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          8
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          14
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          14
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          12
-        ],
-        [
-          "2026-09-29T15:27:14Z",
-          11
-        ],
-        [
-          "2026-09-29T15:46:55Z",
-          16
-        ],
-        [
-          "2026-09-29T16:00:56Z",
-          11
-        ],
-        [
-          "2026-09-29T16:27:05Z",
-          12
-        ],
-        [
-          "2026-09-29T16:47:23Z",
-          9
-        ],
-        [
-          "2026-09-29T17:00:48Z",
-          7
-        ],
-        [
-          "2026-09-29T17:23:33Z",
-          8
-        ],
-        [
-          "2026-09-29T17:42:57Z",
-          8
-        ],
-        [
-          "2026-09-29T17:59:50Z",
-          6
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8078,100 +7752,7 @@
       "game": null,
       "peakViewers": 15,
       "avgViewers": 5.7,
-      "samples": [
-        [
-          "2026-09-29T10:20:26Z",
-          5
-        ],
-        [
-          "2026-09-29T10:43:54Z",
-          5
-        ],
-        [
-          "2026-09-29T10:58:58Z",
-          5
-        ],
-        [
-          "2026-09-29T11:19:02Z",
-          4
-        ],
-        [
-          "2026-09-29T11:34:42Z",
-          6
-        ],
-        [
-          "2026-09-29T11:51:52Z",
-          15
-        ],
-        [
-          "2026-09-29T12:15:48Z",
-          5
-        ],
-        [
-          "2026-09-29T12:41:27Z",
-          7
-        ],
-        [
-          "2026-09-29T13:02:56Z",
-          9
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          7
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          6
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          6
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          5
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          7
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          5
-        ],
-        [
-          "2026-09-29T15:27:14Z",
-          5
-        ],
-        [
-          "2026-09-29T15:46:55Z",
-          5
-        ],
-        [
-          "2026-09-29T16:00:56Z",
-          3
-        ],
-        [
-          "2026-09-29T16:27:05Z",
-          5
-        ],
-        [
-          "2026-09-29T16:47:23Z",
-          6
-        ],
-        [
-          "2026-09-29T17:00:48Z",
-          4
-        ],
-        [
-          "2026-09-29T17:23:33Z",
-          3
-        ],
-        [
-          "2026-09-29T17:42:57Z",
-          2
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8205,36 +7786,7 @@
       "game": null,
       "peakViewers": 750,
       "avgViewers": 678.8,
-      "samples": [
-        [
-          "2026-09-29T12:15:48Z",
-          750
-        ],
-        [
-          "2026-09-29T12:41:27Z",
-          704
-        ],
-        [
-          "2026-09-29T13:02:56Z",
-          738
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          659
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          658
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          654
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          557
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8251,52 +7803,7 @@
       "game": null,
       "peakViewers": 554,
       "avgViewers": 514.8,
-      "samples": [
-        [
-          "2026-09-29T12:15:48Z",
-          468
-        ],
-        [
-          "2026-09-29T12:41:27Z",
-          554
-        ],
-        [
-          "2026-09-29T13:02:56Z",
-          547
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          514
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          534
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          532
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          541
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          536
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          512
-        ],
-        [
-          "2026-09-29T15:27:14Z",
-          491
-        ],
-        [
-          "2026-09-29T15:46:55Z",
-          446
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8313,52 +7820,7 @@
       "game": null,
       "peakViewers": 26,
       "avgViewers": 19.1,
-      "samples": [
-        [
-          "2026-09-29T12:15:48Z",
-          26
-        ],
-        [
-          "2026-09-29T12:41:27Z",
-          20
-        ],
-        [
-          "2026-09-29T13:02:56Z",
-          18
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          15
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          20
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          17
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          18
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          17
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          19
-        ],
-        [
-          "2026-09-29T15:27:14Z",
-          21
-        ],
-        [
-          "2026-09-29T15:46:55Z",
-          18
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8375,80 +7837,7 @@
       "game": null,
       "peakViewers": 44,
       "avgViewers": 36.3,
-      "samples": [
-        [
-          "2026-09-29T12:15:48Z",
-          23
-        ],
-        [
-          "2026-09-29T12:41:27Z",
-          37
-        ],
-        [
-          "2026-09-29T13:02:56Z",
-          33
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          39
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          38
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          36
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          32
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          42
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          40
-        ],
-        [
-          "2026-09-29T15:27:14Z",
-          44
-        ],
-        [
-          "2026-09-29T15:46:55Z",
-          44
-        ],
-        [
-          "2026-09-29T16:00:56Z",
-          44
-        ],
-        [
-          "2026-09-29T16:27:05Z",
-          41
-        ],
-        [
-          "2026-09-29T16:47:23Z",
-          34
-        ],
-        [
-          "2026-09-29T17:00:48Z",
-          35
-        ],
-        [
-          "2026-09-29T17:23:33Z",
-          29
-        ],
-        [
-          "2026-09-29T17:42:57Z",
-          34
-        ],
-        [
-          "2026-09-29T17:59:50Z",
-          33
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8465,36 +7854,7 @@
       "game": null,
       "peakViewers": 14,
       "avgViewers": 8.6,
-      "samples": [
-        [
-          "2026-09-29T12:41:27Z",
-          9
-        ],
-        [
-          "2026-09-29T13:02:56Z",
-          8
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          9
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          14
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          11
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          5
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          6
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8511,60 +7871,7 @@
       "game": null,
       "peakViewers": 49,
       "avgViewers": 35.7,
-      "samples": [
-        [
-          "2026-09-29T13:02:56Z",
-          19
-        ],
-        [
-          "2026-09-29T13:28:52Z",
-          32
-        ],
-        [
-          "2026-09-29T13:49:32Z",
-          28
-        ],
-        [
-          "2026-09-29T14:03:20Z",
-          30
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          32
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          33
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          40
-        ],
-        [
-          "2026-09-29T15:27:14Z",
-          41
-        ],
-        [
-          "2026-09-29T15:46:55Z",
-          45
-        ],
-        [
-          "2026-09-29T16:00:56Z",
-          37
-        ],
-        [
-          "2026-09-29T16:27:05Z",
-          49
-        ],
-        [
-          "2026-09-29T16:47:23Z",
-          42
-        ],
-        [
-          "2026-09-29T17:00:48Z",
-          42
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8581,24 +7888,7 @@
       "game": null,
       "peakViewers": 122,
       "avgViewers": 87.3,
-      "samples": [
-        [
-          "2026-09-29T14:03:20Z",
-          37
-        ],
-        [
-          "2026-09-29T14:26:03Z",
-          95
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          106
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          122
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8615,40 +7905,7 @@
       "game": null,
       "peakViewers": 288,
       "avgViewers": 212.1,
-      "samples": [
-        [
-          "2026-09-29T14:26:03Z",
-          196
-        ],
-        [
-          "2026-09-29T14:45:46Z",
-          255
-        ],
-        [
-          "2026-09-29T15:02:18Z",
-          288
-        ],
-        [
-          "2026-09-29T15:27:14Z",
-          256
-        ],
-        [
-          "2026-09-29T15:46:55Z",
-          201
-        ],
-        [
-          "2026-09-29T16:00:56Z",
-          173
-        ],
-        [
-          "2026-09-29T16:27:05Z",
-          169
-        ],
-        [
-          "2026-09-29T16:47:23Z",
-          158
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -22168,6 +21425,270 @@
         [
           "2026-11-13T05:24:22Z",
           29
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "RKHadHwXbDA",
+      "videoUrl": "https://www.youtube.com/watch?v=RKHadHwXbDA",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 11,
+      "avgViewers": 11.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          11
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "jd4AYA4X8aE",
+      "videoUrl": "https://www.youtube.com/watch?v=jd4AYA4X8aE",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 390,
+      "avgViewers": 390.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          390
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "hz79qzqTIGE",
+      "videoUrl": "https://www.youtube.com/watch?v=hz79qzqTIGE",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Minecraft】そういえばダイヤ1000個掘るって言ってましたね【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 36,
+      "avgViewers": 36.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          36
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "MekczGGahNI",
+      "videoUrl": "https://www.youtube.com/watch?v=MekczGGahNI",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "ただいま【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 158,
+      "avgViewers": 158.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          158
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "JCuwc8ElxGw",
+      "videoUrl": "https://www.youtube.com/watch?v=JCuwc8ElxGw",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ポケモンチャンピオンズ】マスボ級目指して華金深夜のランクマへ🔥!【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 440,
+      "avgViewers": 440.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          440
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "6cKJpLolJ_A",
+      "videoUrl": "https://www.youtube.com/watch?v=6cKJpLolJ_A",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "完全初見で神ゲーと名高いゲームをやっていく！【 ゼルダの伝説 時のオカリナ  】【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 68,
+      "avgViewers": 68.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          68
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "JM2_V8ugcAs",
+      "videoUrl": "https://www.youtube.com/watch?v=JM2_V8ugcAs",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Forza Horizon6】行くぞ！シーズンイベント！金色の無免許#55【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 94,
+      "avgViewers": 94.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          94
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "2X-iKiVsXm0",
+      "videoUrl": "https://www.youtube.com/watch?v=2X-iKiVsXm0",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【浮気した夫に全部吐かせる】( ◜▿◝ )【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 119,
+      "avgViewers": 119.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          119
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "zg7o6vVu2jM",
+      "videoUrl": "https://www.youtube.com/watch?v=zg7o6vVu2jM",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 16,
+      "avgViewers": 16.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          16
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "BQznWqUTkK4",
+      "videoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 10.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          10
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCADIxr9ho7V60xs9gT9xWhA",
+      "name": "輝 七瀬",
+      "videoId": "aj4mpYeSEZU",
+      "videoUrl": "https://www.youtube.com/watch?v=aj4mpYeSEZU",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 #パレットタウン 】ギャングボスがキャバ嬢編  #gta   【 #輝七瀬  / RIONECTION】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 10.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          10
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
+      "name": "氷乃渚",
+      "videoId": "z9DvxW6aroY",
+      "videoUrl": "https://www.youtube.com/watch?v=z9DvxW6aroY",
+      "start": "2026-11-13T13:20:25Z",
+      "end": "2026-11-13T20:36:03Z",
+      "minutes": 435.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【兄弟コラボ】2人でお便り読んでくよ！サプライズもあります【氷乃渚/玖音レオ/ゆにれいど！/FouRTe Project】",
+      "game": null,
+      "peakViewers": 274,
+      "avgViewers": 274.0,
+      "samples": [
+        [
+          "2026-11-13T13:20:25Z",
+          274
         ]
       ],
       "isTargetGame": false
