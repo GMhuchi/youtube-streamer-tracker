@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T02:47:30Z",
+  "updatedAt": "2026-11-15T09:58:27Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 0.0,
       "totalHours": 35.4,
       "gameHours": 0.0,
-      "sessions": 8,
+      "sessions": 9,
       "avgViewers": 112.1,
       "peakViewers": 545
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 364.95,
       "gameHours": 0.0,
-      "sessions": 54,
+      "sessions": 55,
       "avgViewers": 129.3,
       "peakViewers": 763
     },
@@ -38,7 +38,7 @@
       "gameMinutes": 0.0,
       "totalHours": 637.83,
       "gameHours": 0.0,
-      "sessions": 107,
+      "sessions": 108,
       "avgViewers": 131.1,
       "peakViewers": 899
     }
@@ -49,9 +49,9 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-11-15T09:58:27Z",
+      "liveTitle": "〖 ダービースタリオン2╎#4 〗 重賞で優勝するぞおおお🏇.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
       "lastEnd": "2026-11-13T20:36:03Z",
       "lastTitle": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
       "buckets": {
@@ -60,16 +60,16 @@
           "gameMinutes": 0.0,
           "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 1,
+          "avgViewers": 310.0,
+          "peakViewers": 310
         },
         "week": {
           "totalMinutes": 2946.9,
           "gameMinutes": 0.0,
           "totalHours": 49.12,
           "gameHours": 0.0,
-          "sessions": 7,
+          "sessions": 8,
           "avgViewers": 282.8,
           "peakViewers": 405
         },
@@ -78,7 +78,7 @@
           "gameMinutes": 0.0,
           "totalHours": 72.19,
           "gameHours": 0.0,
-          "sessions": 11,
+          "sessions": 12,
           "avgViewers": 359.5,
           "peakViewers": 899
         }
@@ -235,7 +235,17 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 310,
+      "livePeakViewers": 310,
+      "liveAvgViewers": 310.0,
+      "liveSamples": [
+        [
+          "2026-11-15T09:58:27Z",
+          310
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=CTxEfICZu-A"
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
