@@ -1,7 +1,65 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "5ABHqJDoTF8",
+      "start": "2026-11-17T10:41:39Z",
+      "startSource": "observed",
+      "title": "〚Probably Stolen 〛皆沼ると噂の高評価ゲーム！裏社会で何が欲しいってんだい！売るよ！！〚 甘成じゅい/ゆにれいど！ 〛",
+      "game": null,
+      "peakViewers": 55,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-17T10:41:39Z",
+      "lastSeenAt": "2026-11-17T10:41:39Z",
+      "samples": [
+        [
+          "2026-11-17T10:41:39Z",
+          55
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "pTxcK3s-uG8",
+      "start": "2026-11-17T10:41:39Z",
+      "startSource": "observed",
+      "title": "神殿攻略編行くぞ！【 ゼルダの伝説 時のオカリナ #3  】【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 40,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-17T10:41:39Z",
+      "lastSeenAt": "2026-11-17T10:41:39Z",
+      "samples": [
+        [
+          "2026-11-17T10:41:39Z",
+          40
+        ]
+      ]
+    },
+    "UCo3zRhsnXIieauvm6c-xwkA": {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "EIrVLUSZGtU",
+      "start": "2026-11-17T10:41:39Z",
+      "startSource": "observed",
+      "title": "【Forza Horizon6】走れ無免許！報酬をとりつくせ！ #56【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 109,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-17T10:41:39Z",
+      "lastSeenAt": "2026-11-17T10:41:39Z",
+      "samples": [
+        [
+          "2026-11-17T10:41:39Z",
+          109
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -8857,28 +8915,7 @@
       "game": null,
       "peakViewers": 119,
       "avgViewers": 94.8,
-      "samples": [
-        [
-          "2026-10-03T02:15:43Z",
-          22
-        ],
-        [
-          "2026-10-03T02:42:13Z",
-          100
-        ],
-        [
-          "2026-10-03T03:10:25Z",
-          113
-        ],
-        [
-          "2026-10-03T03:40:25Z",
-          117
-        ],
-        [
-          "2026-10-03T04:06:12Z",
-          119
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -8895,28 +8932,7 @@
       "game": null,
       "peakViewers": 997,
       "avgViewers": 287.4,
-      "samples": [
-        [
-          "2026-10-03T05:17:15Z",
-          603
-        ],
-        [
-          "2026-10-03T05:43:06Z",
-          997
-        ],
-        [
-          "2026-10-03T06:04:51Z",
-          1
-        ],
-        [
-          "2026-10-03T06:31:01Z",
-          11
-        ],
-        [
-          "2026-10-03T07:02:51Z",
-          11
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
