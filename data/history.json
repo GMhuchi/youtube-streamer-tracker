@@ -1,46 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UC6FprWVXuULaY9mZOcqTe4A": {
-      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
-      "name": "甘音あむ",
-      "videoId": "Pjq5jX3ivF0",
-      "start": "2026-11-16T18:47:16Z",
-      "startSource": "observed",
-      "title": "歌うかゲームか飲むか雑談か【甘音あむ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 238,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-16T18:47:16Z",
-      "lastSeenAt": "2026-11-16T18:47:16Z",
-      "samples": [
-        [
-          "2026-11-16T18:47:16Z",
-          238
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "OwmgYiJTVPo",
-      "start": "2026-11-16T18:47:16Z",
-      "startSource": "observed",
-      "title": "【 OW 】(俺が)眠くなるまでお話していきませんか？...W【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 33,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-16T18:47:16Z",
-      "lastSeenAt": "2026-11-16T18:47:16Z",
-      "samples": [
-        [
-          "2026-11-16T18:47:16Z",
-          33
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -8845,84 +8806,7 @@
       "game": null,
       "peakViewers": 802,
       "avgViewers": 718.8,
-      "samples": [
-        [
-          "2026-10-02T12:41:37Z",
-          711
-        ],
-        [
-          "2026-10-02T13:02:26Z",
-          710
-        ],
-        [
-          "2026-10-02T13:26:50Z",
-          736
-        ],
-        [
-          "2026-10-02T13:46:53Z",
-          748
-        ],
-        [
-          "2026-10-02T14:01:08Z",
-          728
-        ],
-        [
-          "2026-10-02T14:27:11Z",
-          767
-        ],
-        [
-          "2026-10-02T14:48:35Z",
-          752
-        ],
-        [
-          "2026-10-02T15:02:34Z",
-          799
-        ],
-        [
-          "2026-10-02T15:27:00Z",
-          802
-        ],
-        [
-          "2026-10-02T15:47:18Z",
-          715
-        ],
-        [
-          "2026-10-02T16:00:24Z",
-          679
-        ],
-        [
-          "2026-10-02T16:25:11Z",
-          748
-        ],
-        [
-          "2026-10-02T16:45:07Z",
-          687
-        ],
-        [
-          "2026-10-02T16:59:20Z",
-          623
-        ],
-        [
-          "2026-10-02T17:19:57Z",
-          681
-        ],
-        [
-          "2026-10-02T17:36:03Z",
-          692
-        ],
-        [
-          "2026-10-02T17:51:29Z",
-          766
-        ],
-        [
-          "2026-10-02T18:15:29Z",
-          679
-        ],
-        [
-          "2026-10-02T18:39:38Z",
-          617
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -20105,6 +19989,50 @@
         [
           "2026-11-16T08:20:46Z",
           19
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC6FprWVXuULaY9mZOcqTe4A",
+      "name": "甘音あむ",
+      "videoId": "Pjq5jX3ivF0",
+      "videoUrl": "https://www.youtube.com/watch?v=Pjq5jX3ivF0",
+      "start": "2026-11-16T18:47:16Z",
+      "end": "2026-11-17T02:08:24Z",
+      "minutes": 441.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "歌うかゲームか飲むか雑談か【甘音あむ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 238,
+      "avgViewers": 238.0,
+      "samples": [
+        [
+          "2026-11-16T18:47:16Z",
+          238
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "OwmgYiJTVPo",
+      "videoUrl": "https://www.youtube.com/watch?v=OwmgYiJTVPo",
+      "start": "2026-11-16T18:47:16Z",
+      "end": "2026-11-17T02:08:24Z",
+      "minutes": 441.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 OW 】(俺が)眠くなるまでお話していきませんか？...W【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 33,
+      "avgViewers": 33.0,
+      "samples": [
+        [
+          "2026-11-16T18:47:16Z",
+          33
         ]
       ],
       "isTargetGame": false
