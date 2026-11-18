@@ -2,22 +2,79 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UC9jM73Rqa_4Ec4PknBHG9pQ": {
-      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
-      "name": "十神仁",
-      "videoId": "pGSejmDVMg4",
-      "start": "2026-11-18T01:48:19Z",
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "juZP45MTvRU",
+      "start": "2026-11-18T09:15:38Z",
       "startSource": "observed",
-      "title": "【目標：レジェンド リュウ レバー】いいから時間を使うんだ！！！　【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "title": "〖 APEX 〗 エぺ練習.ᐟ.ᐟ⭐︎ / テンちゃん〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 17,
+      "peakViewers": 198,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-18T01:48:19Z",
-      "lastSeenAt": "2026-11-18T01:48:19Z",
+      "firstSeenAt": "2026-11-18T09:15:38Z",
+      "lastSeenAt": "2026-11-18T09:15:38Z",
       "samples": [
         [
-          "2026-11-18T01:48:19Z",
-          17
+          "2026-11-18T09:15:38Z",
+          198
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "W-v1baUpPuQ",
+      "start": "2026-11-18T09:15:38Z",
+      "startSource": "observed",
+      "title": "【 Japanese Ramen Simulator 】俺たちラーメン屋さん経営してやってくからみんな今までありがとうw/グラニット,史門,白妙とき,ぴりから【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 42,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-18T09:15:38Z",
+      "lastSeenAt": "2026-11-18T09:15:38Z",
+      "samples": [
+        [
+          "2026-11-18T09:15:38Z",
+          42
+        ]
+      ]
+    },
+    "UC1_HUmjQShLtT_MuZjry3hQ": {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "8as-wwVJBhk",
+      "start": "2026-11-18T09:15:38Z",
+      "startSource": "observed",
+      "title": "【 Japanese Ramen Simulator 】ラーメン屋開店準備そして閉店間近 w/ 火狩夜れんま ぴりから 白妙とき (史門)【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 14,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-18T09:15:38Z",
+      "lastSeenAt": "2026-11-18T09:15:38Z",
+      "samples": [
+        [
+          "2026-11-18T09:15:38Z",
+          14
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "h9-aEyuKeog",
+      "start": "2026-11-18T09:15:38Z",
+      "startSource": "observed",
+      "title": "【空の軌跡 the 2nd】#６　完全初見　おばけ調査を終えて👻2章へ突入🔥　　#恋沼ミヤ",
+      "game": null,
+      "peakViewers": 50,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-18T09:15:38Z",
+      "lastSeenAt": "2026-11-18T09:15:38Z",
+      "samples": [
+        [
+          "2026-11-18T09:15:38Z",
+          50
         ]
       ]
     }
@@ -9111,12 +9168,7 @@
       "game": null,
       "peakViewers": 22,
       "avgViewers": 22.0,
-      "samples": [
-        [
-          "2026-10-04T04:11:09Z",
-          22
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -19895,6 +19947,28 @@
         [
           "2026-11-17T10:41:39Z",
           109
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC9jM73Rqa_4Ec4PknBHG9pQ",
+      "name": "十神仁",
+      "videoId": "pGSejmDVMg4",
+      "videoUrl": "https://www.youtube.com/watch?v=pGSejmDVMg4",
+      "start": "2026-11-18T01:48:19Z",
+      "end": "2026-11-18T09:15:38Z",
+      "minutes": 447.3,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【目標：レジェンド リュウ レバー】いいから時間を使うんだ！！！　【LIVE】#スト6  【十神仁/ YUMENOS】",
+      "game": null,
+      "peakViewers": 17,
+      "avgViewers": 17.0,
+      "samples": [
+        [
+          "2026-11-18T01:48:19Z",
+          17
         ]
       ],
       "isTargetGame": false
