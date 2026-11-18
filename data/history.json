@@ -1,84 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "juZP45MTvRU",
-      "start": "2026-11-18T09:15:38Z",
-      "startSource": "observed",
-      "title": "〖 APEX 〗 エぺ練習.ᐟ.ᐟ⭐︎ / テンちゃん〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 198,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-18T09:15:38Z",
-      "lastSeenAt": "2026-11-18T09:15:38Z",
-      "samples": [
-        [
-          "2026-11-18T09:15:38Z",
-          198
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "W-v1baUpPuQ",
-      "start": "2026-11-18T09:15:38Z",
-      "startSource": "observed",
-      "title": "【 Japanese Ramen Simulator 】俺たちラーメン屋さん経営してやってくからみんな今までありがとうw/グラニット,史門,白妙とき,ぴりから【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 42,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-18T09:15:38Z",
-      "lastSeenAt": "2026-11-18T09:15:38Z",
-      "samples": [
-        [
-          "2026-11-18T09:15:38Z",
-          42
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "8as-wwVJBhk",
-      "start": "2026-11-18T09:15:38Z",
-      "startSource": "observed",
-      "title": "【 Japanese Ramen Simulator 】ラーメン屋開店準備そして閉店間近 w/ 火狩夜れんま ぴりから 白妙とき (史門)【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 14,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-18T09:15:38Z",
-      "lastSeenAt": "2026-11-18T09:15:38Z",
-      "samples": [
-        [
-          "2026-11-18T09:15:38Z",
-          14
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "h9-aEyuKeog",
-      "start": "2026-11-18T09:15:38Z",
-      "startSource": "observed",
-      "title": "【空の軌跡 the 2nd】#６　完全初見　おばけ調査を終えて👻2章へ突入🔥　　#恋沼ミヤ",
-      "game": null,
-      "peakViewers": 50,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-18T09:15:38Z",
-      "lastSeenAt": "2026-11-18T09:15:38Z",
-      "samples": [
-        [
-          "2026-11-18T09:15:38Z",
-          50
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -9138,20 +9061,7 @@
       "game": null,
       "peakViewers": 42,
       "avgViewers": 35.4,
-      "samples": [
-        [
-          "2026-10-04T02:16:06Z",
-          16
-        ],
-        [
-          "2026-10-04T04:11:09Z",
-          42
-        ],
-        [
-          "2026-10-04T07:16:39Z",
-          42
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9185,12 +9095,7 @@
       "game": null,
       "peakViewers": 107,
       "avgViewers": 107.0,
-      "samples": [
-        [
-          "2026-10-04T07:16:39Z",
-          107
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -19969,6 +19874,94 @@
         [
           "2026-11-18T01:48:19Z",
           17
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "juZP45MTvRU",
+      "videoUrl": "https://www.youtube.com/watch?v=juZP45MTvRU",
+      "start": "2026-11-18T09:15:38Z",
+      "end": "2026-11-18T18:11:11Z",
+      "minutes": 535.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 エぺ練習.ᐟ.ᐟ⭐︎ / テンちゃん〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 198,
+      "avgViewers": 198.0,
+      "samples": [
+        [
+          "2026-11-18T09:15:38Z",
+          198
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "W-v1baUpPuQ",
+      "videoUrl": "https://www.youtube.com/watch?v=W-v1baUpPuQ",
+      "start": "2026-11-18T09:15:38Z",
+      "end": "2026-11-18T18:11:11Z",
+      "minutes": 535.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 Japanese Ramen Simulator 】俺たちラーメン屋さん経営してやってくからみんな今までありがとうw/グラニット,史門,白妙とき,ぴりから【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 42,
+      "avgViewers": 42.0,
+      "samples": [
+        [
+          "2026-11-18T09:15:38Z",
+          42
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "8as-wwVJBhk",
+      "videoUrl": "https://www.youtube.com/watch?v=8as-wwVJBhk",
+      "start": "2026-11-18T09:15:38Z",
+      "end": "2026-11-18T18:11:11Z",
+      "minutes": 535.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 Japanese Ramen Simulator 】ラーメン屋開店準備そして閉店間近 w/ 火狩夜れんま ぴりから 白妙とき (史門)【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 14,
+      "avgViewers": 14.0,
+      "samples": [
+        [
+          "2026-11-18T09:15:38Z",
+          14
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "h9-aEyuKeog",
+      "videoUrl": "https://www.youtube.com/watch?v=h9-aEyuKeog",
+      "start": "2026-11-18T09:15:38Z",
+      "end": "2026-11-18T18:11:11Z",
+      "minutes": 535.6,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【空の軌跡 the 2nd】#６　完全初見　おばけ調査を終えて👻2章へ突入🔥　　#恋沼ミヤ",
+      "game": null,
+      "peakViewers": 50,
+      "avgViewers": 50.0,
+      "samples": [
+        [
+          "2026-11-18T09:15:38Z",
+          50
         ]
       ],
       "isTargetGame": false
