@@ -1,84 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCNGMMdEgYIUR6rC44v9aZ8w": {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "z33P00FrwQg",
-      "start": "2026-11-20T13:09:49Z",
-      "startSource": "observed",
-      "title": "【ガチグラ２】＃６　ギャンブル禁止令（笑）　【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 11,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-20T13:09:49Z",
-      "lastSeenAt": "2026-11-20T13:09:49Z",
-      "samples": [
-        [
-          "2026-11-20T13:09:49Z",
-          11
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "0BMSq9TnDR0",
-      "start": "2026-11-20T13:09:49Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　推しアイドルグループのライブを見る　 ～Day34～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 72,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-20T13:09:49Z",
-      "lastSeenAt": "2026-11-20T13:09:49Z",
-      "samples": [
-        [
-          "2026-11-20T13:09:49Z",
-          72
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "zeW7j9-JPXE",
-      "start": "2026-11-20T13:09:49Z",
-      "startSource": "observed",
-      "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 里いもの唐揚げ！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 17,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-20T13:09:49Z",
-      "lastSeenAt": "2026-11-20T13:09:49Z",
-      "samples": [
-        [
-          "2026-11-20T13:09:49Z",
-          17
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "h3sswaTbHBA",
-      "start": "2026-11-20T13:09:49Z",
-      "startSource": "observed",
-      "title": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 10,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-20T13:09:49Z",
-      "lastSeenAt": "2026-11-20T13:09:49Z",
-      "samples": [
-        [
-          "2026-11-20T13:09:49Z",
-          10
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -9546,84 +9469,7 @@
       "game": null,
       "peakViewers": 526,
       "avgViewers": 342.5,
-      "samples": [
-        [
-          "2026-10-06T10:25:44Z",
-          335
-        ],
-        [
-          "2026-10-06T10:44:59Z",
-          502
-        ],
-        [
-          "2026-10-06T10:59:58Z",
-          526
-        ],
-        [
-          "2026-10-06T11:20:13Z",
-          464
-        ],
-        [
-          "2026-10-06T11:43:23Z",
-          403
-        ],
-        [
-          "2026-10-06T11:59:50Z",
-          455
-        ],
-        [
-          "2026-10-06T12:25:31Z",
-          355
-        ],
-        [
-          "2026-10-06T12:48:44Z",
-          390
-        ],
-        [
-          "2026-10-06T13:04:16Z",
-          327
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          332
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          305
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          303
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          285
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          279
-        ],
-        [
-          "2026-10-06T15:03:40Z",
-          274
-        ],
-        [
-          "2026-10-06T15:25:51Z",
-          243
-        ],
-        [
-          "2026-10-06T15:44:43Z",
-          242
-        ],
-        [
-          "2026-10-06T16:00:01Z",
-          239
-        ],
-        [
-          "2026-10-06T16:23:08Z",
-          238
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9640,52 +9486,7 @@
       "game": null,
       "peakViewers": 910,
       "avgViewers": 757.7,
-      "samples": [
-        [
-          "2026-10-06T11:20:13Z",
-          475
-        ],
-        [
-          "2026-10-06T11:43:23Z",
-          671
-        ],
-        [
-          "2026-10-06T11:59:50Z",
-          750
-        ],
-        [
-          "2026-10-06T12:25:31Z",
-          607
-        ],
-        [
-          "2026-10-06T12:48:44Z",
-          814
-        ],
-        [
-          "2026-10-06T13:04:16Z",
-          889
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          799
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          808
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          878
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          910
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          766
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9702,52 +9503,7 @@
       "game": null,
       "peakViewers": 123,
       "avgViewers": 61.6,
-      "samples": [
-        [
-          "2026-10-06T11:20:13Z",
-          51
-        ],
-        [
-          "2026-10-06T11:43:23Z",
-          53
-        ],
-        [
-          "2026-10-06T11:59:50Z",
-          50
-        ],
-        [
-          "2026-10-06T12:25:31Z",
-          56
-        ],
-        [
-          "2026-10-06T12:48:44Z",
-          52
-        ],
-        [
-          "2026-10-06T13:04:16Z",
-          53
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          44
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          56
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          42
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          123
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          102
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9764,40 +9520,7 @@
       "game": null,
       "peakViewers": 62,
       "avgViewers": 39.6,
-      "samples": [
-        [
-          "2026-10-06T11:43:23Z",
-          62
-        ],
-        [
-          "2026-10-06T11:59:50Z",
-          48
-        ],
-        [
-          "2026-10-06T12:25:31Z",
-          40
-        ],
-        [
-          "2026-10-06T12:48:44Z",
-          36
-        ],
-        [
-          "2026-10-06T13:04:16Z",
-          32
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          32
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          40
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          29
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9831,44 +9554,7 @@
       "game": null,
       "peakViewers": 125,
       "avgViewers": 114.4,
-      "samples": [
-        [
-          "2026-10-06T12:25:31Z",
-          106
-        ],
-        [
-          "2026-10-06T12:48:44Z",
-          112
-        ],
-        [
-          "2026-10-06T13:04:16Z",
-          125
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          103
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          121
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          116
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          114
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          112
-        ],
-        [
-          "2026-10-06T15:03:40Z",
-          121
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9885,44 +9571,7 @@
       "game": null,
       "peakViewers": 55,
       "avgViewers": 46.5,
-      "samples": [
-        [
-          "2026-10-06T12:48:44Z",
-          40
-        ],
-        [
-          "2026-10-06T13:04:16Z",
-          42
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          38
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          42
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          55
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          54
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          48
-        ],
-        [
-          "2026-10-06T15:03:40Z",
-          52
-        ],
-        [
-          "2026-10-06T15:25:51Z",
-          44
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9939,48 +9588,7 @@
       "game": null,
       "peakViewers": 13,
       "avgViewers": 9.6,
-      "samples": [
-        [
-          "2026-10-06T13:04:16Z",
-          13
-        ],
-        [
-          "2026-10-06T13:27:30Z",
-          12
-        ],
-        [
-          "2026-10-06T13:48:13Z",
-          13
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          10
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          9
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          8
-        ],
-        [
-          "2026-10-06T15:03:40Z",
-          7
-        ],
-        [
-          "2026-10-06T15:25:51Z",
-          8
-        ],
-        [
-          "2026-10-06T15:44:43Z",
-          8
-        ],
-        [
-          "2026-10-06T16:00:01Z",
-          8
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -9997,24 +9605,7 @@
       "game": null,
       "peakViewers": 78,
       "avgViewers": 65.0,
-      "samples": [
-        [
-          "2026-10-06T13:48:13Z",
-          38
-        ],
-        [
-          "2026-10-06T14:03:38Z",
-          65
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          73
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          78
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10031,36 +9622,7 @@
       "game": null,
       "peakViewers": 147,
       "avgViewers": 116.8,
-      "samples": [
-        [
-          "2026-10-06T14:03:38Z",
-          60
-        ],
-        [
-          "2026-10-06T14:27:23Z",
-          102
-        ],
-        [
-          "2026-10-06T14:47:36Z",
-          114
-        ],
-        [
-          "2026-10-06T15:03:40Z",
-          129
-        ],
-        [
-          "2026-10-06T15:25:51Z",
-          143
-        ],
-        [
-          "2026-10-06T15:44:43Z",
-          139
-        ],
-        [
-          "2026-10-06T16:00:01Z",
-          147
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -19704,6 +19266,94 @@
         [
           "2026-11-19T23:33:10Z",
           786
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "z33P00FrwQg",
+      "videoUrl": "https://www.youtube.com/watch?v=z33P00FrwQg",
+      "start": "2026-11-20T13:09:49Z",
+      "end": "2026-11-20T21:04:56Z",
+      "minutes": 475.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ガチグラ２】＃６　ギャンブル禁止令（笑）　【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 11,
+      "avgViewers": 11.0,
+      "samples": [
+        [
+          "2026-11-20T13:09:49Z",
+          11
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "0BMSq9TnDR0",
+      "videoUrl": "https://www.youtube.com/watch?v=0BMSq9TnDR0",
+      "start": "2026-11-20T13:09:49Z",
+      "end": "2026-11-20T21:04:56Z",
+      "minutes": 475.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　推しアイドルグループのライブを見る　 ～Day34～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 72,
+      "avgViewers": 72.0,
+      "samples": [
+        [
+          "2026-11-20T13:09:49Z",
+          72
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "zeW7j9-JPXE",
+      "videoUrl": "https://www.youtube.com/watch?v=zeW7j9-JPXE",
+      "start": "2026-11-20T13:09:49Z",
+      "end": "2026-11-20T21:04:56Z",
+      "minutes": 475.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 里いもの唐揚げ！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 17,
+      "avgViewers": 17.0,
+      "samples": [
+        [
+          "2026-11-20T13:09:49Z",
+          17
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "h3sswaTbHBA",
+      "videoUrl": "https://www.youtube.com/watch?v=h3sswaTbHBA",
+      "start": "2026-11-20T13:09:49Z",
+      "end": "2026-11-20T21:04:56Z",
+      "minutes": 475.1,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 10,
+      "avgViewers": 10.0,
+      "samples": [
+        [
+          "2026-11-20T13:09:49Z",
+          10
         ]
       ],
       "isTargetGame": false
