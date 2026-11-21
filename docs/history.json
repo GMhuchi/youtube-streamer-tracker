@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:48:38Z",
+  "updatedAt": "2026-11-21T16:59:08Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1459.8,
+      "totalMinutes": 238.3,
       "gameMinutes": 0.0,
-      "totalHours": 24.33,
+      "totalHours": 3.97,
       "gameHours": 0.0,
-      "sessions": 6,
-      "avgViewers": 27.5,
+      "sessions": 7,
+      "avgViewers": 310.4,
       "peakViewers": 602
     },
     "week": {
-      "totalMinutes": 9534.5,
+      "totalMinutes": 10395.5,
       "gameMinutes": 0.0,
-      "totalHours": 158.91,
+      "totalHours": 173.26,
       "gameHours": 0.0,
-      "sessions": 24,
-      "avgViewers": 88.3,
+      "sessions": 29,
+      "avgViewers": 106.7,
       "peakViewers": 786
     },
     "month": {
-      "totalMinutes": 48106.0,
+      "totalMinutes": 48967.0,
       "gameMinutes": 0.0,
-      "totalHours": 801.77,
+      "totalHours": 816.12,
       "gameHours": 0.0,
-      "sessions": 131,
-      "avgViewers": 123.6,
+      "sessions": 136,
+      "avgViewers": 126.9,
       "peakViewers": 899
     }
   },
@@ -50,40 +50,62 @@
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
       "isLive": true,
-      "liveSince": "2026-11-21T09:48:38Z",
-      "liveTitle": "〖 APEX╎Watch Party 〗 Apex Legends LCQ  Elim2 〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-11-18T18:11:11Z",
-      "lastTitle": "〖 APEX 〗 エぺ練習.ᐟ.ᐟ⭐︎ / テンちゃん〖 心白てと / ネオポルテ 〗",
+      "liveSince": "2026-11-21T16:59:08Z",
+      "liveTitle": "〖 APEX 〗 明日できない分今日練習する！！ / さくちゃん〖 心白てと / ネオポルテ 〗",
+      "lastEnd": "2026-11-21T16:59:08Z",
+      "lastTitle": "〖 APEX╎Watch Party 〗 Apex Legends LCQ  Elim2 〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 119.1,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 1.99,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 602.0,
           "peakViewers": 602
         },
         "week": {
-          "totalMinutes": 652.2,
+          "totalMinutes": 1082.7,
           "gameMinutes": 0.0,
-          "totalHours": 10.87,
+          "totalHours": 18.05,
           "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 218.0,
+          "sessions": 4,
+          "avgViewers": 370.7,
           "peakViewers": 602
         },
         "month": {
-          "totalMinutes": 5285.0,
+          "totalMinutes": 5715.5,
           "gameMinutes": 0.0,
-          "totalHours": 88.08,
+          "totalHours": 95.26,
           "gameHours": 0.0,
-          "sessions": 14,
-          "avgViewers": 337.4,
+          "sessions": 15,
+          "avgViewers": 359.0,
           "peakViewers": 899
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "xKbBsm06G3s",
+          "videoUrl": "https://www.youtube.com/watch?v=xKbBsm06G3s",
+          "start": "2026-11-21T09:48:38Z",
+          "end": "2026-11-21T16:59:08Z",
+          "minutes": 430.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〖 APEX╎Watch Party 〗 Apex Legends LCQ  Elim2 〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 602,
+          "avgViewers": 602.0,
+          "samples": [
+            [
+              "2026-11-21T09:48:38Z",
+              602
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -212,46 +234,29 @@
           "avgViewers": 260.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "-hHnVbjKIvc",
-          "videoUrl": "https://www.youtube.com/watch?v=-hHnVbjKIvc",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 新シーズンどうですかああ！！〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 208,
-          "avgViewers": 208.0,
-          "samples": [],
-          "isTargetGame": false
         }
       ],
-      "liveViewers": 602,
-      "livePeakViewers": 602,
-      "liveAvgViewers": 602.0,
+      "liveViewers": 332,
+      "livePeakViewers": 332,
+      "liveAvgViewers": 332.0,
       "liveSamples": [
         [
-          "2026-11-21T09:48:38Z",
-          602
+          "2026-11-21T16:59:08Z",
+          332
         ]
       ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=xKbBsm06G3s"
+      "liveVideoUrl": "https://www.youtube.com/watch?v=AkbYymvvFpo"
     },
     {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
       "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC_mXkuKyIkO1hYjSeMvbt5g",
+      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
       "isLive": true,
-      "liveSince": "2026-11-21T09:48:38Z",
-      "liveTitle": "【 OW 】頭空っぽでAIMキャラやるんや【ゆにれいど！/ 火狩夜れんま】",
-      "lastEnd": "2026-11-19T23:33:10Z",
-      "lastTitle": "【 OW 】キリコの森出身キリコ族の長　寝るまで【ゆにれいど！/ 火狩夜れんま】",
+      "liveSince": "2026-11-21T16:59:08Z",
+      "liveTitle": "🟣11/21【 #GTA5  】＃17 ひっそり起きる #リライフ【 maŸUko / #Vtuber 】",
+      "lastEnd": "2026-11-20T21:04:56Z",
+      "lastTitle": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
       "buckets": {
         "today": {
           "totalMinutes": 0.0,
@@ -259,29 +264,828 @@
           "totalHours": 0.0,
           "gameHours": 0.0,
           "sessions": 1,
+          "avgViewers": 3.0,
+          "peakViewers": 3
+        },
+        "week": {
+          "totalMinutes": 475.1,
+          "gameMinutes": 0.0,
+          "totalHours": 7.92,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 10.0,
+          "peakViewers": 10
+        },
+        "month": {
+          "totalMinutes": 3244.1,
+          "gameMinutes": 0.0,
+          "totalHours": 54.07,
+          "gameHours": 0.0,
+          "sessions": 10,
+          "avgViewers": 8.5,
+          "peakViewers": 13
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "h3sswaTbHBA",
+          "videoUrl": "https://www.youtube.com/watch?v=h3sswaTbHBA",
+          "start": "2026-11-20T13:09:49Z",
+          "end": "2026-11-20T21:04:56Z",
+          "minutes": 475.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [
+            [
+              "2026-11-20T13:09:49Z",
+              10
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "BnRpBPVUXsk",
+          "videoUrl": "https://www.youtube.com/watch?v=BnRpBPVUXsk",
+          "start": "2026-11-14T14:29:11Z",
+          "end": "2026-11-14T19:25:30Z",
+          "minutes": 296.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/14【 #マーダーミステリー 】供花に命を　弓塚リンカ役：maŸUko視点",
+          "game": null,
+          "peakViewers": 5,
+          "avgViewers": 5.0,
+          "samples": [
+            [
+              "2026-11-14T14:29:11Z",
+              5
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "BQznWqUTkK4",
+          "videoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "n2jV6oTZc4U",
+          "videoUrl": "https://www.youtube.com/watch?v=n2jV6oTZc4U",
+          "start": "2026-11-11T15:25:07Z",
+          "end": "2026-11-11T22:07:15Z",
+          "minutes": 402.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 6,
+          "avgViewers": 6.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "InBdAxeMIyQ",
+          "videoUrl": "https://www.youtube.com/watch?v=InBdAxeMIyQ",
+          "start": "2026-11-09T13:40:09Z",
+          "end": "2026-11-09T23:09:50Z",
+          "minutes": 569.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/9【 #マーダーミステリー 】その鉄のガラクタいわく 第１章　GM：maŸUko視点　#やかたま鉄ガクタいわ",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "_3wPgDJfC-8",
+          "videoUrl": "https://www.youtube.com/watch?v=_3wPgDJfC-8",
+          "start": "2026-11-07T15:37:54Z",
+          "end": "2026-11-07T19:37:06Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "zDqc_fmUVhk",
+          "videoUrl": "https://www.youtube.com/watch?v=zDqc_fmUVhk",
+          "start": "2026-11-03T16:09:17Z",
+          "end": "2026-11-03T21:45:52Z",
+          "minutes": 336.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/3【 #GTA5  】＃10 知らないこと、知りたい。 #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "VDzMMfGFlmU",
+          "videoUrl": "https://www.youtube.com/watch?v=VDzMMfGFlmU",
+          "start": "2026-11-01T13:50:35Z",
+          "end": "2026-11-01T18:45:41Z",
+          "minutes": 295.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/1【 #マーダーミステリー 】グリムギア　スカル役：maŸUko視点",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 3,
+      "livePeakViewers": 3,
+      "liveAvgViewers": 3.0,
+      "liveSamples": [
+        [
+          "2026-11-21T16:59:08Z",
+          3
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=5JNhQo-kCcs"
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
+      "isLive": true,
+      "liveSince": "2026-11-21T16:59:08Z",
+      "liveTitle": "【ガチグラ２】＃７　最終日うおおおおおおおおおおおおおおおおおおお　【瀬尾カザリ / ネオポルテ】",
+      "lastEnd": "2026-11-20T21:04:56Z",
+      "lastTitle": "【ガチグラ２】＃６　ギャンブル禁止令（笑）　【瀬尾カザリ / ネオポルテ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 18.0,
+          "peakViewers": 18
+        },
+        "week": {
+          "totalMinutes": 475.1,
+          "gameMinutes": 0.0,
+          "totalHours": 7.92,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 11.0,
+          "peakViewers": 18
+        },
+        "month": {
+          "totalMinutes": 2988.5,
+          "gameMinutes": 0.0,
+          "totalHours": 49.81,
+          "gameHours": 0.0,
+          "sessions": 9,
+          "avgViewers": 22.4,
+          "peakViewers": 34
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "z33P00FrwQg",
+          "videoUrl": "https://www.youtube.com/watch?v=z33P00FrwQg",
+          "start": "2026-11-20T13:09:49Z",
+          "end": "2026-11-20T21:04:56Z",
+          "minutes": 475.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ガチグラ２】＃６　ギャンブル禁止令（笑）　【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [
+            [
+              "2026-11-20T13:09:49Z",
+              11
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "gaL2DIhA_tA",
+          "videoUrl": "https://www.youtube.com/watch?v=gaL2DIhA_tA",
+          "start": "2026-11-14T14:29:11Z",
+          "end": "2026-11-14T19:25:30Z",
+          "minutes": 296.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ガチグラ２】＃３ スキルアップ目指していきます【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 32,
+          "avgViewers": 32.0,
+          "samples": [
+            [
+              "2026-11-14T14:29:11Z",
+              32
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "RKHadHwXbDA",
+          "videoUrl": "https://www.youtube.com/watch?v=RKHadHwXbDA",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "NYNFQZqDAIM",
+          "videoUrl": "https://www.youtube.com/watch?v=NYNFQZqDAIM",
+          "start": "2026-11-11T15:25:07Z",
+          "end": "2026-11-11T22:07:15Z",
+          "minutes": 402.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ガチグラ２】＃1 ド、パ？【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 29,
+          "avgViewers": 29.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "cwPMdPNl9vo",
+          "videoUrl": "https://www.youtube.com/watch?v=cwPMdPNl9vo",
+          "start": "2026-11-06T11:06:58Z",
+          "end": "2026-11-06T17:55:54Z",
+          "minutes": 408.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【Japanese Ramen Simulator】サンタ家、開店ッ…！ withいつもの【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 21,
+          "avgViewers": 21.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "Yglay6mziDU",
+          "videoUrl": "https://www.youtube.com/watch?v=Yglay6mziDU",
+          "start": "2026-11-05T09:36:53Z",
+          "end": "2026-11-05T17:37:51Z",
+          "minutes": 481.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【VALORANT】おい、久々にやるぜVALORANT メンバー概要欄【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "i0vswj93hZk",
+          "videoUrl": "https://www.youtube.com/watch?v=i0vswj93hZk",
+          "start": "2026-11-01T13:50:35Z",
+          "end": "2026-11-01T18:45:41Z",
+          "minutes": 295.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
+          "game": null,
+          "peakViewers": 28,
+          "avgViewers": 28.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+          "name": "瀬尾カザリ",
+          "videoId": "dxPO7HVW0Ss",
+          "videoUrl": "https://www.youtube.com/watch?v=dxPO7HVW0Ss",
+          "start": "2026-10-31T13:51:54Z",
+          "end": "2026-10-31T18:14:17Z",
+          "minutes": 262.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【球ひろいシミュレーター】おい、ハロウィンに最恐ホラゲいくぞ【瀬尾カザリ / ネオポルテ】",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 18,
+      "livePeakViewers": 18,
+      "liveAvgViewers": 18.0,
+      "liveSamples": [
+        [
+          "2026-11-21T16:59:08Z",
+          18
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=UyzHbQLOQVQ"
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "isLive": true,
+      "liveSince": "2026-11-21T16:59:08Z",
+      "liveTitle": "【#ストグラ】#ストグラSeason2　なんか新しいことを考えよう　 ～Day35～【YUMENOS/那和ツムグ】",
+      "lastEnd": "2026-11-20T21:04:56Z",
+      "lastTitle": "【#ストグラ】#ストグラSeason2　推しアイドルグループのライブを見る　 ～Day34～【YUMENOS/那和ツムグ】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 60.0,
+          "peakViewers": 60
+        },
+        "week": {
+          "totalMinutes": 475.1,
+          "gameMinutes": 0.0,
+          "totalHours": 7.92,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 72.0,
+          "peakViewers": 72
+        },
+        "month": {
+          "totalMinutes": 1286.2,
+          "gameMinutes": 0.0,
+          "totalHours": 21.44,
+          "gameHours": 0.0,
+          "sessions": 4,
+          "avgViewers": 41.8,
+          "peakViewers": 72
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "0BMSq9TnDR0",
+          "videoUrl": "https://www.youtube.com/watch?v=0BMSq9TnDR0",
+          "start": "2026-11-20T13:09:49Z",
+          "end": "2026-11-20T21:04:56Z",
+          "minutes": 475.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#ストグラ】#ストグラSeason2　推しアイドルグループのライブを見る　 ～Day34～【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 72,
+          "avgViewers": 72.0,
+          "samples": [
+            [
+              "2026-11-20T13:09:49Z",
+              72
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "7zkD6V9d90c",
+          "videoUrl": "https://www.youtube.com/watch?v=7zkD6V9d90c",
+          "start": "2026-11-11T15:25:07Z",
+          "end": "2026-11-11T22:07:15Z",
+          "minutes": 402.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【WARDOGS】マジで初めてなので助けてください w/U者【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "koees4LXq6I",
+          "videoUrl": "https://www.youtube.com/watch?v=koees4LXq6I",
+          "start": "2026-11-06T11:06:58Z",
+          "end": "2026-11-06T17:55:54Z",
+          "minutes": 408.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 Japanese Ramen Simulator 】元ラーメン屋店員によるガチラーメン屋経営/w石狩、カザ【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 35.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "oegMLIhIM9Y",
+          "videoUrl": "https://www.youtube.com/watch?v=oegMLIhIM9Y",
+          "start": "2026-10-30T13:09:23Z",
+          "end": "2026-10-30T18:37:28Z",
+          "minutes": 328.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#ストグラ】#ストグラSeason2　抗争じゃああああ！！！　 ～Day29～【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 104,
+          "avgViewers": 104.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "EFVF17hMFa0",
+          "videoUrl": "https://www.youtube.com/watch?v=EFVF17hMFa0",
+          "start": "2026-10-29T15:39:17Z",
+          "end": "2026-10-29T20:36:58Z",
+          "minutes": 297.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#ストグラ】#ストグラSeason2　ドキ！こういうのが恋なの！？　 ～Day28～【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 107,
+          "avgViewers": 107.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "URI34JBu7UU",
+          "videoUrl": "https://www.youtube.com/watch?v=URI34JBu7UU",
+          "start": "2026-10-28T13:36:05Z",
+          "end": "2026-10-28T19:05:57Z",
+          "minutes": 329.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#ストグラ】#ストグラSeason2　進路に悩むN.A.W.A　 ～Day27～【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 53,
+          "avgViewers": 53.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "Qx4l273POR0",
+          "videoUrl": "https://www.youtube.com/watch?v=Qx4l273POR0",
+          "start": "2026-10-27T11:05:03Z",
+          "end": "2026-10-27T12:55:41Z",
+          "minutes": 110.6,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【メンバー限定】作業とかいろいろやりながら雑談　【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+          "name": "那和ツムグ",
+          "videoId": "X3-UTnERFVk",
+          "videoUrl": "https://www.youtube.com/watch?v=X3-UTnERFVk",
+          "start": "2026-10-25T13:50:31Z",
+          "end": "2026-10-25T17:26:13Z",
+          "minutes": 215.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【#ストグラ】#ストグラSeason2　プロデューサー野間のために曲作り　 ～Day25～【YUMENOS/那和ツムグ】",
+          "game": null,
+          "peakViewers": 79,
+          "avgViewers": 79.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 60,
+      "livePeakViewers": 60,
+      "liveAvgViewers": 60.0,
+      "liveSamples": [
+        [
+          "2026-11-21T16:59:08Z",
+          60
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=gB8BpimAII4"
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
+      "isLive": true,
+      "liveSince": "2026-11-21T16:59:08Z",
+      "liveTitle": "ダンガンロンパ  希望の学園と絶望の高校生 | #5の続き 俺たちもうタッグ解消っすか… #愁子",
+      "lastEnd": "2026-11-09T23:09:50Z",
+      "lastTitle": "Euro Truck Simulator2 | #85 鼻と喉が終わっているお姉さんのチルドライブ雑談 #愁子",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 47.0,
+          "peakViewers": 47
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 47.0,
+          "peakViewers": 47
+        },
+        "month": {
+          "totalMinutes": 883.1,
+          "gameMinutes": 0.0,
+          "totalHours": 14.72,
+          "gameHours": 0.0,
+          "sessions": 3,
+          "avgViewers": 44.8,
+          "peakViewers": 53
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "1bJNevtPWgA",
+          "videoUrl": "https://www.youtube.com/watch?v=1bJNevtPWgA",
+          "start": "2026-11-09T13:40:09Z",
+          "end": "2026-11-09T23:09:50Z",
+          "minutes": 569.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "Euro Truck Simulator2 | #85 鼻と喉が終わっているお姉さんのチルドライブ雑談 #愁子",
+          "game": null,
+          "peakViewers": 53,
+          "avgViewers": 53.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "J4VrYB4ju8I",
+          "videoUrl": "https://www.youtube.com/watch?v=J4VrYB4ju8I",
+          "start": "2026-11-05T17:37:51Z",
+          "end": "2026-11-05T22:51:17Z",
+          "minutes": 313.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.12 収穫祭にふらっと行くわよ #愁子",
+          "game": null,
+          "peakViewers": 30,
+          "avgViewers": 30.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "lmkhF__z5TE",
+          "videoUrl": "https://www.youtube.com/watch?v=lmkhF__z5TE",
+          "start": "2026-10-30T06:13:56Z",
+          "end": "2026-10-30T13:09:23Z",
+          "minutes": 415.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "※ネタバレあり 最終回！？○○を倒しに…。眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #22 #愁子",
+          "game": null,
+          "peakViewers": 130,
+          "avgViewers": 130.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "TmMXUJy3Q28",
+          "videoUrl": "https://www.youtube.com/watch?v=TmMXUJy3Q28",
+          "start": "2026-10-29T15:39:17Z",
+          "end": "2026-10-29T20:36:58Z",
+          "minutes": 297.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "ずっとこんな時間が続けばいいのに…Big Walk4回目🎵 #愁子 #にぃらい #もちひよこ #矢毒けろる",
+          "game": null,
+          "peakViewers": 29,
+          "avgViewers": 29.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "5SXsdDJNmXY",
+          "videoUrl": "https://www.youtube.com/watch?v=5SXsdDJNmXY",
+          "start": "2026-10-29T08:49:01Z",
+          "end": "2026-10-29T15:39:17Z",
+          "minutes": 410.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "雑談 | シーシャをスパスパしながらちるにお喋り #愁子",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 95.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "vpyNc0s0ATo",
+          "videoUrl": "https://www.youtube.com/watch?v=vpyNc0s0ATo",
+          "start": "2026-10-28T13:36:05Z",
+          "end": "2026-10-28T19:05:57Z",
+          "minutes": 329.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "Neighbors: Suburban Warfare | お隣さんの家具をぶっ壊すゲームに呼んでもらいました #愁子",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "NQV4hlo9Www",
+          "videoUrl": "https://www.youtube.com/watch?v=NQV4hlo9Www",
+          "start": "2026-10-27T12:02:47Z",
+          "end": "2026-10-27T17:56:01Z",
+          "minutes": 353.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "Cursed Companions | NGワードに気をつけろ！NEWTOWNファーマー達と協力ゲーで遊ぶぞ！ #愁子  #鳴子ライチ #七乃羽すず #十神仁",
+          "game": null,
+          "peakViewers": 22,
+          "avgViewers": 22.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "I3CTgTDENe4",
+          "videoUrl": "https://www.youtube.com/watch?v=I3CTgTDENe4",
+          "start": "2026-10-25T04:33:30Z",
+          "end": "2026-10-25T09:23:12Z",
+          "minutes": 289.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "※ネタバレありちょっと短め！12/14~眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #21 #愁子",
+          "game": null,
+          "peakViewers": 84,
+          "avgViewers": 84.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 47,
+      "livePeakViewers": 47,
+      "liveAvgViewers": 47.0,
+      "liveSamples": [
+        [
+          "2026-11-21T16:59:08Z",
+          47
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=qUQ73m22L1k"
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC_mXkuKyIkO1hYjSeMvbt5g",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-21T16:59:08Z",
+      "lastTitle": "【 OW 】頭空っぽでAIMキャラやるんや【ゆにれいど！/ 火狩夜れんま】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 119.1,
+          "gameMinutes": 0.0,
+          "totalHours": 1.99,
+          "gameHours": 0.0,
+          "sessions": 1,
           "avgViewers": 19.0,
           "peakViewers": 19
         },
         "week": {
-          "totalMinutes": 1888.5,
+          "totalMinutes": 2319.0,
           "gameMinutes": 0.0,
-          "totalHours": 31.48,
+          "totalHours": 38.65,
           "gameHours": 0.0,
           "sessions": 5,
-          "avgViewers": 35.2,
+          "avgViewers": 32.2,
           "peakViewers": 42
         },
         "month": {
-          "totalMinutes": 5142.9,
+          "totalMinutes": 5573.4,
           "gameMinutes": 0.0,
-          "totalHours": 85.71,
+          "totalHours": 92.89,
           "gameHours": 0.0,
           "sessions": 13,
-          "avgViewers": 35.9,
+          "avgViewers": 34.5,
           "peakViewers": 68
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+          "name": "火狩夜れんま",
+          "videoId": "w4BWViURCVM",
+          "videoUrl": "https://www.youtube.com/watch?v=w4BWViURCVM",
+          "start": "2026-11-21T09:48:38Z",
+          "end": "2026-11-21T16:59:08Z",
+          "minutes": 430.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 OW 】頭空っぽでAIMキャラやるんや【ゆにれいど！/ 火狩夜れんま】",
+          "game": null,
+          "peakViewers": 19,
+          "avgViewers": 19.0,
+          "samples": [
+            [
+              "2026-11-21T09:48:38Z",
+              19
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
           "name": "火狩夜れんま",
@@ -340,12 +1144,7 @@
           "game": null,
           "peakViewers": 40,
           "avgViewers": 40.0,
-          "samples": [
-            [
-              "2026-11-17T10:41:39Z",
-              40
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -415,35 +1214,8 @@
           "avgViewers": 32.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-          "name": "火狩夜れんま",
-          "videoId": "M7p26i2YxHQ",
-          "videoUrl": "https://www.youtube.com/watch?v=M7p26i2YxHQ",
-          "start": "2026-11-08T14:39:32Z",
-          "end": "2026-11-08T18:32:06Z",
-          "minutes": 232.6,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【 メン限 】マロ読みチル雑談【ゆにれいど！/ 火狩夜れんま】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 19,
-      "livePeakViewers": 19,
-      "liveAvgViewers": 19.0,
-      "liveSamples": [
-        [
-          "2026-11-21T09:48:38Z",
-          19
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=w4BWViURCVM"
+      ]
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -640,13 +1412,13 @@
       "lastTitle": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 里いもの唐揚げ！【埼凰リンネ / YUMENOS】#新人vtuber",
       "buckets": {
         "today": {
-          "totalMinutes": 364.9,
+          "totalMinutes": 0.0,
           "gameMinutes": 0.0,
-          "totalHours": 6.08,
+          "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 17.0,
-          "peakViewers": 17
+          "sessions": 0,
+          "avgViewers": null,
+          "peakViewers": null
         },
         "week": {
           "totalMinutes": 704.6,
@@ -811,194 +1583,6 @@
           "game": null,
           "peakViewers": 21,
           "avgViewers": 21.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-20T21:04:56Z",
-      "lastTitle": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 364.9,
-          "gameMinutes": 0.0,
-          "totalHours": 6.08,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 10.0,
-          "peakViewers": 10
-        },
-        "week": {
-          "totalMinutes": 475.1,
-          "gameMinutes": 0.0,
-          "totalHours": 7.92,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 10.0,
-          "peakViewers": 10
-        },
-        "month": {
-          "totalMinutes": 3244.0,
-          "gameMinutes": 0.0,
-          "totalHours": 54.07,
-          "gameHours": 0.0,
-          "sessions": 9,
-          "avgViewers": 8.5,
-          "peakViewers": 13
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "h3sswaTbHBA",
-          "videoUrl": "https://www.youtube.com/watch?v=h3sswaTbHBA",
-          "start": "2026-11-20T13:09:49Z",
-          "end": "2026-11-20T21:04:56Z",
-          "minutes": 475.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [
-            [
-              "2026-11-20T13:09:49Z",
-              10
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "BnRpBPVUXsk",
-          "videoUrl": "https://www.youtube.com/watch?v=BnRpBPVUXsk",
-          "start": "2026-11-14T14:29:11Z",
-          "end": "2026-11-14T19:25:30Z",
-          "minutes": 296.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/14【 #マーダーミステリー 】供花に命を　弓塚リンカ役：maŸUko視点",
-          "game": null,
-          "peakViewers": 5,
-          "avgViewers": 5.0,
-          "samples": [
-            [
-              "2026-11-14T14:29:11Z",
-              5
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "BQznWqUTkK4",
-          "videoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4",
-          "start": "2026-11-13T13:20:25Z",
-          "end": "2026-11-13T20:36:03Z",
-          "minutes": 435.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "n2jV6oTZc4U",
-          "videoUrl": "https://www.youtube.com/watch?v=n2jV6oTZc4U",
-          "start": "2026-11-11T15:25:07Z",
-          "end": "2026-11-11T22:07:15Z",
-          "minutes": 402.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 6,
-          "avgViewers": 6.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "InBdAxeMIyQ",
-          "videoUrl": "https://www.youtube.com/watch?v=InBdAxeMIyQ",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/9【 #マーダーミステリー 】その鉄のガラクタいわく 第１章　GM：maŸUko視点　#やかたま鉄ガクタいわ",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "_3wPgDJfC-8",
-          "videoUrl": "https://www.youtube.com/watch?v=_3wPgDJfC-8",
-          "start": "2026-11-07T15:37:54Z",
-          "end": "2026-11-07T19:37:06Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "zDqc_fmUVhk",
-          "videoUrl": "https://www.youtube.com/watch?v=zDqc_fmUVhk",
-          "start": "2026-11-03T16:09:17Z",
-          "end": "2026-11-03T21:45:52Z",
-          "minutes": 336.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/3【 #GTA5  】＃10 知らないこと、知りたい。 #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "VDzMMfGFlmU",
-          "videoUrl": "https://www.youtube.com/watch?v=VDzMMfGFlmU",
-          "start": "2026-11-01T13:50:35Z",
-          "end": "2026-11-01T18:45:41Z",
-          "minutes": 295.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/1【 #マーダーミステリー 】グリムギア　スカル役：maŸUko視点",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -1196,194 +1780,6 @@
           "game": null,
           "peakViewers": 8,
           "avgViewers": 6.5,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCNGMMdEgYIUR6rC44v9aZ8w",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-20T21:04:56Z",
-      "lastTitle": "【ガチグラ２】＃６　ギャンブル禁止令（笑）　【瀬尾カザリ / ネオポルテ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 364.9,
-          "gameMinutes": 0.0,
-          "totalHours": 6.08,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 11.0,
-          "peakViewers": 11
-        },
-        "week": {
-          "totalMinutes": 475.1,
-          "gameMinutes": 0.0,
-          "totalHours": 7.92,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 11.0,
-          "peakViewers": 11
-        },
-        "month": {
-          "totalMinutes": 2988.5,
-          "gameMinutes": 0.0,
-          "totalHours": 49.81,
-          "gameHours": 0.0,
-          "sessions": 8,
-          "avgViewers": 22.4,
-          "peakViewers": 34
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "z33P00FrwQg",
-          "videoUrl": "https://www.youtube.com/watch?v=z33P00FrwQg",
-          "start": "2026-11-20T13:09:49Z",
-          "end": "2026-11-20T21:04:56Z",
-          "minutes": 475.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ガチグラ２】＃６　ギャンブル禁止令（笑）　【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [
-            [
-              "2026-11-20T13:09:49Z",
-              11
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "gaL2DIhA_tA",
-          "videoUrl": "https://www.youtube.com/watch?v=gaL2DIhA_tA",
-          "start": "2026-11-14T14:29:11Z",
-          "end": "2026-11-14T19:25:30Z",
-          "minutes": 296.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ガチグラ２】＃３ スキルアップ目指していきます【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 32,
-          "avgViewers": 32.0,
-          "samples": [
-            [
-              "2026-11-14T14:29:11Z",
-              32
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "RKHadHwXbDA",
-          "videoUrl": "https://www.youtube.com/watch?v=RKHadHwXbDA",
-          "start": "2026-11-13T13:20:25Z",
-          "end": "2026-11-13T20:36:03Z",
-          "minutes": 435.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ガチグラ２】＃２ ギャ、ング？【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "NYNFQZqDAIM",
-          "videoUrl": "https://www.youtube.com/watch?v=NYNFQZqDAIM",
-          "start": "2026-11-11T15:25:07Z",
-          "end": "2026-11-11T22:07:15Z",
-          "minutes": 402.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ガチグラ２】＃1 ド、パ？【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 29,
-          "avgViewers": 29.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "cwPMdPNl9vo",
-          "videoUrl": "https://www.youtube.com/watch?v=cwPMdPNl9vo",
-          "start": "2026-11-06T11:06:58Z",
-          "end": "2026-11-06T17:55:54Z",
-          "minutes": 408.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【Japanese Ramen Simulator】サンタ家、開店ッ…！ withいつもの【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 21,
-          "avgViewers": 21.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "Yglay6mziDU",
-          "videoUrl": "https://www.youtube.com/watch?v=Yglay6mziDU",
-          "start": "2026-11-05T09:36:53Z",
-          "end": "2026-11-05T17:37:51Z",
-          "minutes": 481.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【VALORANT】おい、久々にやるぜVALORANT メンバー概要欄【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "i0vswj93hZk",
-          "videoUrl": "https://www.youtube.com/watch?v=i0vswj93hZk",
-          "start": "2026-11-01T13:50:35Z",
-          "end": "2026-11-01T18:45:41Z",
-          "minutes": 295.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【雑談】配信の音声環境を整える配信をさせていただく→ヴぁ、ろ【ネオポルテ／瀬尾カザリ】",
-          "game": null,
-          "peakViewers": 28,
-          "avgViewers": 28.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-          "name": "瀬尾カザリ",
-          "videoId": "dxPO7HVW0Ss",
-          "videoUrl": "https://www.youtube.com/watch?v=dxPO7HVW0Ss",
-          "start": "2026-10-31T13:51:54Z",
-          "end": "2026-10-31T18:14:17Z",
-          "minutes": 262.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【球ひろいシミュレーター】おい、ハロウィンに最恐ホラゲいくぞ【瀬尾カザリ / ネオポルテ】",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -2503,189 +2899,6 @@
       ]
     },
     {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-20T21:04:56Z",
-      "lastTitle": "【#ストグラ】#ストグラSeason2　推しアイドルグループのライブを見る　 ～Day34～【YUMENOS/那和ツムグ】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 364.9,
-          "gameMinutes": 0.0,
-          "totalHours": 6.08,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 72.0,
-          "peakViewers": 72
-        },
-        "week": {
-          "totalMinutes": 475.1,
-          "gameMinutes": 0.0,
-          "totalHours": 7.92,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 72.0,
-          "peakViewers": 72
-        },
-        "month": {
-          "totalMinutes": 1286.2,
-          "gameMinutes": 0.0,
-          "totalHours": 21.44,
-          "gameHours": 0.0,
-          "sessions": 3,
-          "avgViewers": 41.8,
-          "peakViewers": 72
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "0BMSq9TnDR0",
-          "videoUrl": "https://www.youtube.com/watch?v=0BMSq9TnDR0",
-          "start": "2026-11-20T13:09:49Z",
-          "end": "2026-11-20T21:04:56Z",
-          "minutes": 475.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#ストグラ】#ストグラSeason2　推しアイドルグループのライブを見る　 ～Day34～【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": 72,
-          "avgViewers": 72.0,
-          "samples": [
-            [
-              "2026-11-20T13:09:49Z",
-              72
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "7zkD6V9d90c",
-          "videoUrl": "https://www.youtube.com/watch?v=7zkD6V9d90c",
-          "start": "2026-11-11T15:25:07Z",
-          "end": "2026-11-11T22:07:15Z",
-          "minutes": 402.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【WARDOGS】マジで初めてなので助けてください w/U者【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "koees4LXq6I",
-          "videoUrl": "https://www.youtube.com/watch?v=koees4LXq6I",
-          "start": "2026-11-06T11:06:58Z",
-          "end": "2026-11-06T17:55:54Z",
-          "minutes": 408.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 Japanese Ramen Simulator 】元ラーメン屋店員によるガチラーメン屋経営/w石狩、カザ【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": 35,
-          "avgViewers": 35.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "oegMLIhIM9Y",
-          "videoUrl": "https://www.youtube.com/watch?v=oegMLIhIM9Y",
-          "start": "2026-10-30T13:09:23Z",
-          "end": "2026-10-30T18:37:28Z",
-          "minutes": 328.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#ストグラ】#ストグラSeason2　抗争じゃああああ！！！　 ～Day29～【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": 104,
-          "avgViewers": 104.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "EFVF17hMFa0",
-          "videoUrl": "https://www.youtube.com/watch?v=EFVF17hMFa0",
-          "start": "2026-10-29T15:39:17Z",
-          "end": "2026-10-29T20:36:58Z",
-          "minutes": 297.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#ストグラ】#ストグラSeason2　ドキ！こういうのが恋なの！？　 ～Day28～【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": 107,
-          "avgViewers": 107.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "URI34JBu7UU",
-          "videoUrl": "https://www.youtube.com/watch?v=URI34JBu7UU",
-          "start": "2026-10-28T13:36:05Z",
-          "end": "2026-10-28T19:05:57Z",
-          "minutes": 329.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#ストグラ】#ストグラSeason2　進路に悩むN.A.W.A　 ～Day27～【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": 53,
-          "avgViewers": 53.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "Qx4l273POR0",
-          "videoUrl": "https://www.youtube.com/watch?v=Qx4l273POR0",
-          "start": "2026-10-27T11:05:03Z",
-          "end": "2026-10-27T12:55:41Z",
-          "minutes": 110.6,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【メンバー限定】作業とかいろいろやりながら雑談　【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-          "name": "那和ツムグ",
-          "videoId": "X3-UTnERFVk",
-          "videoUrl": "https://www.youtube.com/watch?v=X3-UTnERFVk",
-          "start": "2026-10-25T13:50:31Z",
-          "end": "2026-10-25T17:26:13Z",
-          "minutes": 215.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【#ストグラ】#ストグラSeason2　プロデューサー野間のために曲作り　 ～Day25～【YUMENOS/那和ツムグ】",
-          "game": null,
-          "peakViewers": 79,
-          "avgViewers": 79.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
       "name": "赤彩みあ",
       "registered": true,
@@ -3408,184 +3621,6 @@
       ]
     },
     {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-09T23:09:50Z",
-      "lastTitle": "Euro Truck Simulator2 | #85 鼻と喉が終わっているお姉さんのチルドライブ雑談 #愁子",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 883.1,
-          "gameMinutes": 0.0,
-          "totalHours": 14.72,
-          "gameHours": 0.0,
-          "sessions": 2,
-          "avgViewers": 44.8,
-          "peakViewers": 53
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "1bJNevtPWgA",
-          "videoUrl": "https://www.youtube.com/watch?v=1bJNevtPWgA",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "Euro Truck Simulator2 | #85 鼻と喉が終わっているお姉さんのチルドライブ雑談 #愁子",
-          "game": null,
-          "peakViewers": 53,
-          "avgViewers": 53.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "J4VrYB4ju8I",
-          "videoUrl": "https://www.youtube.com/watch?v=J4VrYB4ju8I",
-          "start": "2026-11-05T17:37:51Z",
-          "end": "2026-11-05T22:51:17Z",
-          "minutes": 313.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.12 収穫祭にふらっと行くわよ #愁子",
-          "game": null,
-          "peakViewers": 30,
-          "avgViewers": 30.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "lmkhF__z5TE",
-          "videoUrl": "https://www.youtube.com/watch?v=lmkhF__z5TE",
-          "start": "2026-10-30T06:13:56Z",
-          "end": "2026-10-30T13:09:23Z",
-          "minutes": 415.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "※ネタバレあり 最終回！？○○を倒しに…。眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #22 #愁子",
-          "game": null,
-          "peakViewers": 130,
-          "avgViewers": 130.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "TmMXUJy3Q28",
-          "videoUrl": "https://www.youtube.com/watch?v=TmMXUJy3Q28",
-          "start": "2026-10-29T15:39:17Z",
-          "end": "2026-10-29T20:36:58Z",
-          "minutes": 297.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "ずっとこんな時間が続けばいいのに…Big Walk4回目🎵 #愁子 #にぃらい #もちひよこ #矢毒けろる",
-          "game": null,
-          "peakViewers": 29,
-          "avgViewers": 29.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "5SXsdDJNmXY",
-          "videoUrl": "https://www.youtube.com/watch?v=5SXsdDJNmXY",
-          "start": "2026-10-29T08:49:01Z",
-          "end": "2026-10-29T15:39:17Z",
-          "minutes": 410.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "雑談 | シーシャをスパスパしながらちるにお喋り #愁子",
-          "game": null,
-          "peakViewers": 95,
-          "avgViewers": 95.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "vpyNc0s0ATo",
-          "videoUrl": "https://www.youtube.com/watch?v=vpyNc0s0ATo",
-          "start": "2026-10-28T13:36:05Z",
-          "end": "2026-10-28T19:05:57Z",
-          "minutes": 329.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "Neighbors: Suburban Warfare | お隣さんの家具をぶっ壊すゲームに呼んでもらいました #愁子",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "NQV4hlo9Www",
-          "videoUrl": "https://www.youtube.com/watch?v=NQV4hlo9Www",
-          "start": "2026-10-27T12:02:47Z",
-          "end": "2026-10-27T17:56:01Z",
-          "minutes": 353.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "Cursed Companions | NGワードに気をつけろ！NEWTOWNファーマー達と協力ゲーで遊ぶぞ！ #愁子  #鳴子ライチ #七乃羽すず #十神仁",
-          "game": null,
-          "peakViewers": 22,
-          "avgViewers": 22.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "I3CTgTDENe4",
-          "videoUrl": "https://www.youtube.com/watch?v=I3CTgTDENe4",
-          "start": "2026-10-25T04:33:30Z",
-          "end": "2026-10-25T09:23:12Z",
-          "minutes": 289.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "※ネタバレありちょっと短め！12/14~眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #21 #愁子",
-          "game": null,
-          "peakViewers": 84,
-          "avgViewers": 84.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
       "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
       "name": "氷乃渚",
       "registered": true,
@@ -3953,6 +3988,38 @@
     }
   ],
   "recentSessions": [
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "xKbBsm06G3s",
+      "videoUrl": "https://www.youtube.com/watch?v=xKbBsm06G3s",
+      "start": "2026-11-21T09:48:38Z",
+      "end": "2026-11-21T16:59:08Z",
+      "minutes": 430.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX╎Watch Party 〗 Apex Legends LCQ  Elim2 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 602,
+      "avgViewers": 602.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "w4BWViURCVM",
+      "videoUrl": "https://www.youtube.com/watch?v=w4BWViURCVM",
+      "start": "2026-11-21T09:48:38Z",
+      "end": "2026-11-21T16:59:08Z",
+      "minutes": 430.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 OW 】頭空っぽでAIMキャラやるんや【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 19,
+      "avgViewers": 19.0,
+      "isTargetGame": false
+    },
     {
       "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
       "name": "瀬尾カザリ",
@@ -4879,38 +4946,6 @@
       "game": null,
       "peakViewers": 21,
       "avgViewers": 21.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "w0q_TYHAXFM",
-      "videoUrl": "https://www.youtube.com/watch?v=w0q_TYHAXFM",
-      "start": "2026-11-10T12:58:48Z",
-      "end": "2026-11-10T20:24:37Z",
-      "minutes": 445.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【 マイクラ 】焼肉大好きトライブでまったりエンドラ討伐⚔️大博士に任せろ！ w/コンプサウルス,聖ルナティア,夜十神封魔,羽汐なゆた,儚牙紺,大門地リューゴン【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 32,
-      "avgViewers": 32.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
-      "name": "七乃羽すず",
-      "videoId": "nHWf1tHW_Vs",
-      "videoUrl": "https://www.youtube.com/watch?v=nHWf1tHW_Vs",
-      "start": "2026-11-10T12:58:48Z",
-      "end": "2026-11-10T20:24:37Z",
-      "minutes": 445.8,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【マイクラ】廃キャンプ探し！星空の下でチルしようぜ【#七乃羽すず┆すずみあ】",
-      "game": null,
-      "peakViewers": 60,
-      "avgViewers": 60.0,
       "isTargetGame": false
     }
   ]
