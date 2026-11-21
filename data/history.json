@@ -1,103 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCNGMMdEgYIUR6rC44v9aZ8w": {
-      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
-      "name": "瀬尾カザリ",
-      "videoId": "UyzHbQLOQVQ",
-      "start": "2026-11-21T16:59:08Z",
-      "startSource": "observed",
-      "title": "【ガチグラ２】＃７　最終日うおおおおおおおおおおおおおおおおおおお　【瀬尾カザリ / ネオポルテ】",
-      "game": null,
-      "peakViewers": 18,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-21T16:59:08Z",
-      "lastSeenAt": "2026-11-21T16:59:08Z",
-      "samples": [
-        [
-          "2026-11-21T16:59:08Z",
-          18
-        ]
-      ]
-    },
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "AkbYymvvFpo",
-      "start": "2026-11-21T16:59:08Z",
-      "startSource": "observed",
-      "title": "〖 APEX 〗 明日できない分今日練習する！！ / さくちゃん〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 332,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-21T16:59:08Z",
-      "lastSeenAt": "2026-11-21T16:59:08Z",
-      "samples": [
-        [
-          "2026-11-21T16:59:08Z",
-          332
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "gB8BpimAII4",
-      "start": "2026-11-21T16:59:08Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　なんか新しいことを考えよう　 ～Day35～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 60,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-21T16:59:08Z",
-      "lastSeenAt": "2026-11-21T16:59:08Z",
-      "samples": [
-        [
-          "2026-11-21T16:59:08Z",
-          60
-        ]
-      ]
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "qUQ73m22L1k",
-      "start": "2026-11-21T16:59:08Z",
-      "startSource": "observed",
-      "title": "ダンガンロンパ  希望の学園と絶望の高校生 | #5の続き 俺たちもうタッグ解消っすか… #愁子",
-      "game": null,
-      "peakViewers": 47,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-21T16:59:08Z",
-      "lastSeenAt": "2026-11-21T16:59:08Z",
-      "samples": [
-        [
-          "2026-11-21T16:59:08Z",
-          47
-        ]
-      ]
-    },
-    "UCE0ETB-j-qiXQiKPIG-0tCA": {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "videoId": "5JNhQo-kCcs",
-      "start": "2026-11-21T16:59:08Z",
-      "startSource": "observed",
-      "title": "🟣11/21【 #GTA5  】＃17 ひっそり起きる #リライフ【 maŸUko / #Vtuber 】",
-      "game": null,
-      "peakViewers": 3,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-21T16:59:08Z",
-      "lastSeenAt": "2026-11-21T16:59:08Z",
-      "samples": [
-        [
-          "2026-11-21T16:59:08Z",
-          3
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10075,32 +9979,7 @@
       "game": null,
       "peakViewers": 73,
       "avgViewers": 53.2,
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          39
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          73
-        ],
-        [
-          "2026-10-07T15:37:05Z",
-          56
-        ],
-        [
-          "2026-10-07T15:59:02Z",
-          47
-        ],
-        [
-          "2026-10-07T16:22:14Z",
-          49
-        ],
-        [
-          "2026-10-07T16:46:32Z",
-          43
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10117,32 +9996,7 @@
       "game": null,
       "peakViewers": 45,
       "avgViewers": 33.0,
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          45
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          42
-        ],
-        [
-          "2026-10-07T15:37:05Z",
-          31
-        ],
-        [
-          "2026-10-07T15:59:02Z",
-          29
-        ],
-        [
-          "2026-10-07T16:22:14Z",
-          26
-        ],
-        [
-          "2026-10-07T16:46:32Z",
-          25
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10159,36 +10013,7 @@
       "game": null,
       "peakViewers": 69,
       "avgViewers": 59.9,
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          66
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          48
-        ],
-        [
-          "2026-10-07T15:37:05Z",
-          58
-        ],
-        [
-          "2026-10-07T15:59:02Z",
-          68
-        ],
-        [
-          "2026-10-07T16:22:14Z",
-          55
-        ],
-        [
-          "2026-10-07T16:46:32Z",
-          62
-        ],
-        [
-          "2026-10-07T17:11:09Z",
-          69
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10205,44 +10030,7 @@
       "game": null,
       "peakViewers": 457,
       "avgViewers": 294.1,
-      "samples": [
-        [
-          "2026-10-07T14:47:58Z",
-          457
-        ],
-        [
-          "2026-10-07T15:03:50Z",
-          305
-        ],
-        [
-          "2026-10-07T15:37:05Z",
-          212
-        ],
-        [
-          "2026-10-07T15:59:02Z",
-          186
-        ],
-        [
-          "2026-10-07T16:22:14Z",
-          191
-        ],
-        [
-          "2026-10-07T16:46:32Z",
-          370
-        ],
-        [
-          "2026-10-07T17:11:09Z",
-          336
-        ],
-        [
-          "2026-10-07T17:36:55Z",
-          327
-        ],
-        [
-          "2026-10-07T17:54:52Z",
-          308
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -19018,6 +18806,116 @@
         [
           "2026-11-21T09:48:38Z",
           19
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCNGMMdEgYIUR6rC44v9aZ8w",
+      "name": "瀬尾カザリ",
+      "videoId": "UyzHbQLOQVQ",
+      "videoUrl": "https://www.youtube.com/watch?v=UyzHbQLOQVQ",
+      "start": "2026-11-21T16:59:08Z",
+      "end": "2026-11-21T22:07:39Z",
+      "minutes": 308.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【ガチグラ２】＃７　最終日うおおおおおおおおおおおおおおおおおおお　【瀬尾カザリ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 18,
+      "avgViewers": 18.0,
+      "samples": [
+        [
+          "2026-11-21T16:59:08Z",
+          18
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "AkbYymvvFpo",
+      "videoUrl": "https://www.youtube.com/watch?v=AkbYymvvFpo",
+      "start": "2026-11-21T16:59:08Z",
+      "end": "2026-11-21T22:07:39Z",
+      "minutes": 308.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX 〗 明日できない分今日練習する！！ / さくちゃん〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 332,
+      "avgViewers": 332.0,
+      "samples": [
+        [
+          "2026-11-21T16:59:08Z",
+          332
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "gB8BpimAII4",
+      "videoUrl": "https://www.youtube.com/watch?v=gB8BpimAII4",
+      "start": "2026-11-21T16:59:08Z",
+      "end": "2026-11-21T22:07:39Z",
+      "minutes": 308.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　なんか新しいことを考えよう　 ～Day35～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 60,
+      "avgViewers": 60.0,
+      "samples": [
+        [
+          "2026-11-21T16:59:08Z",
+          60
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "qUQ73m22L1k",
+      "videoUrl": "https://www.youtube.com/watch?v=qUQ73m22L1k",
+      "start": "2026-11-21T16:59:08Z",
+      "end": "2026-11-21T22:07:39Z",
+      "minutes": 308.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "ダンガンロンパ  希望の学園と絶望の高校生 | #5の続き 俺たちもうタッグ解消っすか… #愁子",
+      "game": null,
+      "peakViewers": 47,
+      "avgViewers": 47.0,
+      "samples": [
+        [
+          "2026-11-21T16:59:08Z",
+          47
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "5JNhQo-kCcs",
+      "videoUrl": "https://www.youtube.com/watch?v=5JNhQo-kCcs",
+      "start": "2026-11-21T16:59:08Z",
+      "end": "2026-11-21T22:07:39Z",
+      "minutes": 308.5,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "🟣11/21【 #GTA5  】＃17 ひっそり起きる #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 3,
+      "avgViewers": 3.0,
+      "samples": [
+        [
+          "2026-11-21T16:59:08Z",
+          3
         ]
       ],
       "isTargetGame": false
