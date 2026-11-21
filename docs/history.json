@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:09:28Z",
+  "updatedAt": "2026-11-21T09:48:38Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,29 +16,29 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 1459.7,
+      "totalMinutes": 1459.8,
       "gameMinutes": 0.0,
       "totalHours": 24.33,
       "gameHours": 0.0,
-      "sessions": 4,
+      "sessions": 6,
       "avgViewers": 27.5,
-      "peakViewers": 72
+      "peakViewers": 602
     },
     "week": {
       "totalMinutes": 9534.5,
       "gameMinutes": 0.0,
       "totalHours": 158.91,
       "gameHours": 0.0,
-      "sessions": 22,
+      "sessions": 24,
       "avgViewers": 88.3,
       "peakViewers": 786
     },
     "month": {
-      "totalMinutes": 48105.9,
+      "totalMinutes": 48106.0,
       "gameMinutes": 0.0,
       "totalHours": 801.77,
       "gameHours": 0.0,
-      "sessions": 129,
+      "sessions": 131,
       "avgViewers": 123.6,
       "peakViewers": 899
     }
@@ -49,9 +49,9 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-11-21T09:48:38Z",
+      "liveTitle": "〖 APEX╎Watch Party 〗 Apex Legends LCQ  Elim2 〖 心白てと / ネオポルテ 〗",
       "lastEnd": "2026-11-18T18:11:11Z",
       "lastTitle": "〖 APEX 〗 エぺ練習.ᐟ.ᐟ⭐︎ / テンちゃん〖 心白てと / ネオポルテ 〗",
       "buckets": {
@@ -60,25 +60,25 @@
           "gameMinutes": 0.0,
           "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 1,
+          "avgViewers": 602.0,
+          "peakViewers": 602
         },
         "week": {
           "totalMinutes": 652.2,
           "gameMinutes": 0.0,
           "totalHours": 10.87,
           "gameHours": 0.0,
-          "sessions": 2,
+          "sessions": 3,
           "avgViewers": 218.0,
-          "peakViewers": 310
+          "peakViewers": 602
         },
         "month": {
           "totalMinutes": 5285.0,
           "gameMinutes": 0.0,
           "totalHours": 88.08,
           "gameHours": 0.0,
-          "sessions": 13,
+          "sessions": 14,
           "avgViewers": 337.4,
           "peakViewers": 899
         }
@@ -230,16 +230,26 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 602,
+      "livePeakViewers": 602,
+      "liveAvgViewers": 602.0,
+      "liveSamples": [
+        [
+          "2026-11-21T09:48:38Z",
+          602
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=xKbBsm06G3s"
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
       "name": "火狩夜れんま",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UC_mXkuKyIkO1hYjSeMvbt5g",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-11-21T09:48:38Z",
+      "liveTitle": "【 OW 】頭空っぽでAIMキャラやるんや【ゆにれいど！/ 火狩夜れんま】",
       "lastEnd": "2026-11-19T23:33:10Z",
       "lastTitle": "【 OW 】キリコの森出身キリコ族の長　寝るまで【ゆにれいど！/ 火狩夜れんま】",
       "buckets": {
@@ -248,16 +258,16 @@
           "gameMinutes": 0.0,
           "totalHours": 0.0,
           "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
+          "sessions": 1,
+          "avgViewers": 19.0,
+          "peakViewers": 19
         },
         "week": {
           "totalMinutes": 1888.5,
           "gameMinutes": 0.0,
           "totalHours": 31.48,
           "gameHours": 0.0,
-          "sessions": 4,
+          "sessions": 5,
           "avgViewers": 35.2,
           "peakViewers": 42
         },
@@ -266,7 +276,7 @@
           "gameMinutes": 0.0,
           "totalHours": 85.71,
           "gameHours": 0.0,
-          "sessions": 12,
+          "sessions": 13,
           "avgViewers": 35.9,
           "peakViewers": 68
         }
@@ -423,7 +433,17 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 19,
+      "livePeakViewers": 19,
+      "liveAvgViewers": 19.0,
+      "liveSamples": [
+        [
+          "2026-11-21T09:48:38Z",
+          19
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=w4BWViURCVM"
     },
     {
       "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
@@ -706,12 +726,7 @@
           "game": null,
           "peakViewers": 27,
           "avgViewers": 27.0,
-          "samples": [
-            [
-              "2026-11-14T01:01:28Z",
-              27
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {

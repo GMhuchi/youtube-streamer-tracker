@@ -1,7 +1,46 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "xKbBsm06G3s",
+      "start": "2026-11-21T09:48:38Z",
+      "startSource": "observed",
+      "title": "〖 APEX╎Watch Party 〗 Apex Legends LCQ  Elim2 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 602,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-21T09:48:38Z",
+      "lastSeenAt": "2026-11-21T09:48:38Z",
+      "samples": [
+        [
+          "2026-11-21T09:48:38Z",
+          602
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "w4BWViURCVM",
+      "start": "2026-11-21T09:48:38Z",
+      "startSource": "observed",
+      "title": "【 OW 】頭空っぽでAIMキャラやるんや【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 19,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-21T09:48:38Z",
+      "lastSeenAt": "2026-11-21T09:48:38Z",
+      "samples": [
+        [
+          "2026-11-21T09:48:38Z",
+          19
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -9763,24 +9802,7 @@
       "game": null,
       "peakViewers": 165,
       "avgViewers": 153.4,
-      "samples": [
-        [
-          "2026-10-07T08:28:44Z",
-          126
-        ],
-        [
-          "2026-10-07T08:50:06Z",
-          165
-        ],
-        [
-          "2026-10-07T09:03:33Z",
-          165
-        ],
-        [
-          "2026-10-07T09:27:47Z",
-          161
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
