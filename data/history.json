@@ -2,41 +2,60 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "mFzKMCNU3KE",
-      "start": "2026-11-22T02:12:01Z",
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "OzWUFKE2OU8",
+      "start": "2026-11-22T09:54:22Z",
       "startSource": "observed",
-      "title": "【スト6】ガイル村で集まる前にガイル動かしとく【日裏クロ / ネオポルテ】",
+      "title": "〖 APEX╎Watch Party 〗 Apex Legends LCQ FINAL〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 62,
+      "peakViewers": 611,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-22T02:12:01Z",
-      "lastSeenAt": "2026-11-22T02:12:01Z",
+      "firstSeenAt": "2026-11-22T09:54:22Z",
+      "lastSeenAt": "2026-11-22T09:54:22Z",
       "samples": [
         [
-          "2026-11-22T02:12:01Z",
-          62
+          "2026-11-22T09:54:22Z",
+          611
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "GYk218BHjL8",
+      "start": "2026-11-22T09:54:22Z",
+      "startSource": "observed",
+      "title": "【 The Outlast Trials 】なんかガチ攻略ホラーに呼ばれたんだけど、人違いだと思います...  w/ぴりから,鳴子ライチ,グラニット【 ゆにれいど！/ 火狩夜れんま 】",
+      "game": null,
+      "peakViewers": 30,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-22T09:54:22Z",
+      "lastSeenAt": "2026-11-22T09:54:22Z",
+      "samples": [
+        [
+          "2026-11-22T09:54:22Z",
+          30
         ]
       ]
     },
     "UC1_HUmjQShLtT_MuZjry3hQ": {
       "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
       "name": "グラニット",
-      "videoId": "rwyQ44mmiWw",
-      "start": "2026-11-22T02:12:01Z",
+      "videoId": "UKzNNQ2ezQ8",
+      "start": "2026-11-22T09:54:22Z",
       "startSource": "observed",
-      "title": "【 雑談 】ブランチ雑談 ブラ雑【グラニット/ゆにれいど！】",
+      "title": "【 ホラゲ 】本気の攻略アウトラストトライアルズ w/鳴子ライチ ぴりから 火狩夜れんま【グラニット/ゆにれいど！】",
       "game": null,
-      "peakViewers": 28,
+      "peakViewers": 14,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-22T02:12:01Z",
-      "lastSeenAt": "2026-11-22T02:12:01Z",
+      "firstSeenAt": "2026-11-22T09:54:22Z",
+      "lastSeenAt": "2026-11-22T09:54:22Z",
       "samples": [
         [
-          "2026-11-22T02:12:01Z",
-          28
+          "2026-11-22T09:54:22Z",
+          14
         ]
       ]
     }
@@ -10120,28 +10139,7 @@
       "game": null,
       "peakViewers": 39,
       "avgViewers": 30.1,
-      "samples": [
-        [
-          "2026-10-08T05:13:08Z",
-          21
-        ],
-        [
-          "2026-10-08T05:35:36Z",
-          26
-        ],
-        [
-          "2026-10-08T05:53:51Z",
-          39
-        ],
-        [
-          "2026-10-08T06:16:50Z",
-          32
-        ],
-        [
-          "2026-10-08T06:45:07Z",
-          31
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -18901,6 +18899,50 @@
         [
           "2026-11-21T16:59:08Z",
           3
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "mFzKMCNU3KE",
+      "videoUrl": "https://www.youtube.com/watch?v=mFzKMCNU3KE",
+      "start": "2026-11-22T02:12:01Z",
+      "end": "2026-11-22T09:54:22Z",
+      "minutes": 462.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【スト6】ガイル村で集まる前にガイル動かしとく【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 62,
+      "avgViewers": 62.0,
+      "samples": [
+        [
+          "2026-11-22T02:12:01Z",
+          62
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "rwyQ44mmiWw",
+      "videoUrl": "https://www.youtube.com/watch?v=rwyQ44mmiWw",
+      "start": "2026-11-22T02:12:01Z",
+      "end": "2026-11-22T09:54:22Z",
+      "minutes": 462.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 雑談 】ブランチ雑談 ブラ雑【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 28,
+      "avgViewers": 28.0,
+      "samples": [
+        [
+          "2026-11-22T02:12:01Z",
+          28
         ]
       ],
       "isTargetGame": false
