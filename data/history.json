@@ -1,41 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "Ivl18bRsb3s",
-      "start": "2026-11-22T17:38:24Z",
-      "startSource": "observed",
-      "title": "【Potato Please】頼む、ジャガイモ剝かせろ【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 122,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-22T17:38:24Z",
-      "lastSeenAt": "2026-11-22T17:38:24Z",
-      "samples": [
-        [
-          "2026-11-22T17:38:24Z",
-          122
-        ]
-      ]
-    },
-    "UCAS1tKQTTPVw4-TFnKTzvnw": {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "mbb5ru3N31A",
-      "start": "2026-11-22T17:38:24Z",
-      "startSource": "observed",
-      "title": "頭痛すぎベテランメン限【水上蒼太/ゆにれいど！】",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-22T17:38:24Z",
-      "lastSeenAt": "2026-11-22T17:38:24Z",
-      "samples": []
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10336,52 +10302,7 @@
       "game": null,
       "peakViewers": 104,
       "avgViewers": 89.8,
-      "samples": [
-        [
-          "2026-10-08T14:15:07Z",
-          73
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          99
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          101
-        ],
-        [
-          "2026-10-08T15:21:17Z",
-          98
-        ],
-        [
-          "2026-10-08T15:47:03Z",
-          89
-        ],
-        [
-          "2026-10-08T16:03:23Z",
-          94
-        ],
-        [
-          "2026-10-08T16:29:53Z",
-          104
-        ],
-        [
-          "2026-10-08T16:52:28Z",
-          81
-        ],
-        [
-          "2026-10-08T17:12:55Z",
-          95
-        ],
-        [
-          "2026-10-08T17:35:26Z",
-          70
-        ],
-        [
-          "2026-10-08T17:53:46Z",
-          80
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10398,48 +10319,7 @@
       "game": null,
       "peakViewers": 267,
       "avgViewers": 248.2,
-      "samples": [
-        [
-          "2026-10-08T16:29:53Z",
-          228
-        ],
-        [
-          "2026-10-08T16:52:28Z",
-          232
-        ],
-        [
-          "2026-10-08T17:12:55Z",
-          246
-        ],
-        [
-          "2026-10-08T17:35:26Z",
-          251
-        ],
-        [
-          "2026-10-08T17:53:46Z",
-          254
-        ],
-        [
-          "2026-10-08T18:13:57Z",
-          265
-        ],
-        [
-          "2026-10-08T18:41:33Z",
-          244
-        ],
-        [
-          "2026-10-08T19:03:27Z",
-          254
-        ],
-        [
-          "2026-10-08T19:26:30Z",
-          267
-        ],
-        [
-          "2026-10-08T19:46:08Z",
-          239
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -18670,6 +18550,45 @@
         [
           "2026-11-22T09:54:22Z",
           14
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "mbb5ru3N31A",
+      "videoUrl": "https://www.youtube.com/watch?v=mbb5ru3N31A",
+      "start": "2026-11-22T16:08:44Z",
+      "end": "2026-11-22T17:42:52Z",
+      "minutes": 94.1,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "頭痛すぎベテランメン限【水上蒼太/ゆにれいど！】",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "Ivl18bRsb3s",
+      "videoUrl": "https://www.youtube.com/watch?v=Ivl18bRsb3s",
+      "start": "2026-11-22T17:38:24Z",
+      "end": "2026-11-22T22:47:34Z",
+      "minutes": 309.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Potato Please】頼む、ジャガイモ剝かせろ【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 122,
+      "avgViewers": 122.0,
+      "samples": [
+        [
+          "2026-11-22T17:38:24Z",
+          122
         ]
       ],
       "isTargetGame": false
