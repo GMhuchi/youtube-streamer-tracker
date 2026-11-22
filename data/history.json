@@ -2,62 +2,38 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "OzWUFKE2OU8",
-      "start": "2026-11-22T09:54:22Z",
+    "UCB-aip0wsqKQPcrLW1BBJaw": {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "Ivl18bRsb3s",
+      "start": "2026-11-22T17:38:24Z",
       "startSource": "observed",
-      "title": "〖 APEX╎Watch Party 〗 Apex Legends LCQ FINAL〖 心白てと / ネオポルテ 〗",
+      "title": "【Potato Please】頼む、ジャガイモ剝かせろ【綾見ユラ/YUMENOS】",
       "game": null,
-      "peakViewers": 611,
+      "peakViewers": 122,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-22T09:54:22Z",
-      "lastSeenAt": "2026-11-22T09:54:22Z",
+      "firstSeenAt": "2026-11-22T17:38:24Z",
+      "lastSeenAt": "2026-11-22T17:38:24Z",
       "samples": [
         [
-          "2026-11-22T09:54:22Z",
-          611
+          "2026-11-22T17:38:24Z",
+          122
         ]
       ]
     },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "GYk218BHjL8",
-      "start": "2026-11-22T09:54:22Z",
+    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "mbb5ru3N31A",
+      "start": "2026-11-22T17:38:24Z",
       "startSource": "observed",
-      "title": "【 The Outlast Trials 】なんかガチ攻略ホラーに呼ばれたんだけど、人違いだと思います...  w/ぴりから,鳴子ライチ,グラニット【 ゆにれいど！/ 火狩夜れんま 】",
+      "title": "頭痛すぎベテランメン限【水上蒼太/ゆにれいど！】",
       "game": null,
-      "peakViewers": 30,
+      "peakViewers": null,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-22T09:54:22Z",
-      "lastSeenAt": "2026-11-22T09:54:22Z",
-      "samples": [
-        [
-          "2026-11-22T09:54:22Z",
-          30
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "UKzNNQ2ezQ8",
-      "start": "2026-11-22T09:54:22Z",
-      "startSource": "observed",
-      "title": "【 ホラゲ 】本気の攻略アウトラストトライアルズ w/鳴子ライチ ぴりから 火狩夜れんま【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 14,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-22T09:54:22Z",
-      "lastSeenAt": "2026-11-22T09:54:22Z",
-      "samples": [
-        [
-          "2026-11-22T09:54:22Z",
-          14
-        ]
-      ]
+      "firstSeenAt": "2026-11-22T17:38:24Z",
+      "lastSeenAt": "2026-11-22T17:38:24Z",
+      "samples": []
     }
   },
   "sessions": [
@@ -10156,20 +10132,7 @@
       "game": null,
       "peakViewers": 114,
       "avgViewers": 102.8,
-      "samples": [
-        [
-          "2026-10-08T10:21:16Z",
-          98
-        ],
-        [
-          "2026-10-08T10:45:21Z",
-          114
-        ],
-        [
-          "2026-10-08T11:00:47Z",
-          100
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10186,40 +10149,7 @@
       "game": null,
       "peakViewers": 6,
       "avgViewers": 4.4,
-      "samples": [
-        [
-          "2026-10-08T11:00:47Z",
-          4
-        ],
-        [
-          "2026-10-08T11:26:30Z",
-          5
-        ],
-        [
-          "2026-10-08T11:46:06Z",
-          3
-        ],
-        [
-          "2026-10-08T12:01:18Z",
-          4
-        ],
-        [
-          "2026-10-08T12:33:21Z",
-          6
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          4
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          4
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          5
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10236,56 +10166,7 @@
       "game": null,
       "peakViewers": 379,
       "avgViewers": 284.4,
-      "samples": [
-        [
-          "2026-10-08T11:26:30Z",
-          301
-        ],
-        [
-          "2026-10-08T11:46:06Z",
-          362
-        ],
-        [
-          "2026-10-08T12:01:18Z",
-          349
-        ],
-        [
-          "2026-10-08T12:33:21Z",
-          379
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          322
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          273
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          223
-        ],
-        [
-          "2026-10-08T14:15:07Z",
-          245
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          239
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          251
-        ],
-        [
-          "2026-10-08T15:21:17Z",
-          240
-        ],
-        [
-          "2026-10-08T15:47:03Z",
-          208
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10302,24 +10183,7 @@
       "game": null,
       "peakViewers": 819,
       "avgViewers": 637.2,
-      "samples": [
-        [
-          "2026-10-08T12:01:18Z",
-          361
-        ],
-        [
-          "2026-10-08T12:33:21Z",
-          697
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          819
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          694
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10336,28 +10200,7 @@
       "game": null,
       "peakViewers": 12,
       "avgViewers": 9.8,
-      "samples": [
-        [
-          "2026-10-08T12:01:18Z",
-          6
-        ],
-        [
-          "2026-10-08T12:33:21Z",
-          12
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          9
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          11
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          12
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10374,36 +10217,7 @@
       "game": null,
       "peakViewers": 90,
       "avgViewers": 87.4,
-      "samples": [
-        [
-          "2026-10-08T12:33:21Z",
-          87
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          89
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          85
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          87
-        ],
-        [
-          "2026-10-08T14:15:07Z",
-          90
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          88
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          85
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10420,40 +10234,7 @@
       "game": null,
       "peakViewers": 91,
       "avgViewers": 75.0,
-      "samples": [
-        [
-          "2026-10-08T12:33:21Z",
-          45
-        ],
-        [
-          "2026-10-08T13:00:14Z",
-          69
-        ],
-        [
-          "2026-10-08T13:30:47Z",
-          75
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          78
-        ],
-        [
-          "2026-10-08T14:15:07Z",
-          78
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          83
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          89
-        ],
-        [
-          "2026-10-08T15:21:17Z",
-          91
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10487,28 +10268,7 @@
       "game": null,
       "peakViewers": 219,
       "avgViewers": 180.3,
-      "samples": [
-        [
-          "2026-10-08T13:30:47Z",
-          219
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          189
-        ],
-        [
-          "2026-10-08T14:15:07Z",
-          165
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          172
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          160
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10525,32 +10285,7 @@
       "game": null,
       "peakViewers": 57,
       "avgViewers": 48.5,
-      "samples": [
-        [
-          "2026-10-08T13:30:47Z",
-          34
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          42
-        ],
-        [
-          "2026-10-08T14:15:07Z",
-          47
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          55
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          56
-        ],
-        [
-          "2026-10-08T15:21:17Z",
-          57
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10567,52 +10302,7 @@
       "game": null,
       "peakViewers": 41,
       "avgViewers": 30.7,
-      "samples": [
-        [
-          "2026-10-08T13:30:47Z",
-          13
-        ],
-        [
-          "2026-10-08T13:50:44Z",
-          31
-        ],
-        [
-          "2026-10-08T14:15:07Z",
-          24
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          35
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          27
-        ],
-        [
-          "2026-10-08T15:21:17Z",
-          29
-        ],
-        [
-          "2026-10-08T15:47:03Z",
-          34
-        ],
-        [
-          "2026-10-08T16:03:23Z",
-          41
-        ],
-        [
-          "2026-10-08T16:29:53Z",
-          36
-        ],
-        [
-          "2026-10-08T16:52:28Z",
-          37
-        ],
-        [
-          "2026-10-08T17:12:55Z",
-          30
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10629,36 +10319,7 @@
       "game": null,
       "peakViewers": 104,
       "avgViewers": 91.9,
-      "samples": [
-        [
-          "2026-10-08T13:50:44Z",
-          63
-        ],
-        [
-          "2026-10-08T14:15:07Z",
-          89
-        ],
-        [
-          "2026-10-08T14:39:35Z",
-          96
-        ],
-        [
-          "2026-10-08T14:58:53Z",
-          104
-        ],
-        [
-          "2026-10-08T15:21:17Z",
-          98
-        ],
-        [
-          "2026-10-08T15:47:03Z",
-          97
-        ],
-        [
-          "2026-10-08T16:03:23Z",
-          100
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -18943,6 +18604,72 @@
         [
           "2026-11-22T02:12:01Z",
           28
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "OzWUFKE2OU8",
+      "videoUrl": "https://www.youtube.com/watch?v=OzWUFKE2OU8",
+      "start": "2026-11-22T09:54:22Z",
+      "end": "2026-11-22T17:38:24Z",
+      "minutes": 464.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX╎Watch Party 〗 Apex Legends LCQ FINAL〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 611,
+      "avgViewers": 611.0,
+      "samples": [
+        [
+          "2026-11-22T09:54:22Z",
+          611
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "GYk218BHjL8",
+      "videoUrl": "https://www.youtube.com/watch?v=GYk218BHjL8",
+      "start": "2026-11-22T09:54:22Z",
+      "end": "2026-11-22T17:38:24Z",
+      "minutes": 464.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 The Outlast Trials 】なんかガチ攻略ホラーに呼ばれたんだけど、人違いだと思います...  w/ぴりから,鳴子ライチ,グラニット【 ゆにれいど！/ 火狩夜れんま 】",
+      "game": null,
+      "peakViewers": 30,
+      "avgViewers": 30.0,
+      "samples": [
+        [
+          "2026-11-22T09:54:22Z",
+          30
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "UKzNNQ2ezQ8",
+      "videoUrl": "https://www.youtube.com/watch?v=UKzNNQ2ezQ8",
+      "start": "2026-11-22T09:54:22Z",
+      "end": "2026-11-22T17:38:24Z",
+      "minutes": 464.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 ホラゲ 】本気の攻略アウトラストトライアルズ w/鳴子ライチ ぴりから 火狩夜れんま【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 14,
+      "avgViewers": 14.0,
+      "samples": [
+        [
+          "2026-11-22T09:54:22Z",
+          14
         ]
       ],
       "isTargetGame": false
