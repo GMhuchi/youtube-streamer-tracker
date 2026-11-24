@@ -1,7 +1,84 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "lxQuAZNGmlc",
+      "start": "2026-11-24T10:49:19Z",
+      "startSource": "observed",
+      "title": "〖 雑談 〗もう11月後半ということが本当なのかを話そう🍁🍠 〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 233,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-24T10:49:19Z",
+      "lastSeenAt": "2026-11-24T10:49:19Z",
+      "samples": [
+        [
+          "2026-11-24T10:49:19Z",
+          233
+        ]
+      ]
+    },
+    "UC3Wxd3RwdF-3gwt-Bud0oEQ": {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "videoId": "q1vdvmeH9Hc",
+      "start": "2026-11-24T10:49:19Z",
+      "startSource": "observed",
+      "title": "〚 DBD〛完全初見だがしかし、教えて！群ロマせんせーー！！ｗ/群青ロマン〚 甘成じゅい/ゆにれいど！ 〛〚 Dead by Daylight〛",
+      "game": null,
+      "peakViewers": 60,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-24T10:49:19Z",
+      "lastSeenAt": "2026-11-24T10:49:19Z",
+      "samples": [
+        [
+          "2026-11-24T10:49:19Z",
+          60
+        ]
+      ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "zOohNYOHOvU",
+      "start": "2026-11-24T10:49:19Z",
+      "startSource": "observed",
+      "title": "ダンガンロンパ  希望の学園と絶望の高校生 | #6 チャプター3から！地獄は続くよどこまでも #愁子",
+      "game": null,
+      "peakViewers": 66,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-24T10:49:19Z",
+      "lastSeenAt": "2026-11-24T10:49:19Z",
+      "samples": [
+        [
+          "2026-11-24T10:49:19Z",
+          66
+        ]
+      ]
+    },
+    "UCE0ETB-j-qiXQiKPIG-0tCA": {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "videoId": "sCkttg7cWJ4",
+      "start": "2026-11-24T10:49:19Z",
+      "startSource": "observed",
+      "title": "🟣11/24【 #GTA5  】＃18 しばらく早番の民になる #リライフ【 maŸUko / #Vtuber 】",
+      "game": null,
+      "peakViewers": 12,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-24T10:49:19Z",
+      "lastSeenAt": "2026-11-24T10:49:19Z",
+      "samples": [
+        [
+          "2026-11-24T10:49:19Z",
+          12
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10455,12 +10532,7 @@
       "game": null,
       "peakViewers": 326,
       "avgViewers": 326.0,
-      "samples": [
-        [
-          "2026-10-09T21:52:12Z",
-          326
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10477,12 +10549,7 @@
       "game": null,
       "peakViewers": 103,
       "avgViewers": 103.0,
-      "samples": [
-        [
-          "2026-10-10T01:32:38Z",
-          103
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {

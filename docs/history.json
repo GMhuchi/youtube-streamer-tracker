@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T00:59:58Z",
+  "updatedAt": "2026-11-24T10:49:19Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -20,7 +20,7 @@
       "gameMinutes": 0.0,
       "totalHours": 70.0,
       "gameHours": 0.0,
-      "sessions": 7,
+      "sessions": 11,
       "avgViewers": 140.6,
       "peakViewers": 661
     },
@@ -29,7 +29,7 @@
       "gameMinutes": 0.0,
       "totalHours": 97.25,
       "gameHours": 0.0,
-      "sessions": 12,
+      "sessions": 16,
       "avgViewers": 146.0,
       "peakViewers": 661
     },
@@ -38,7 +38,7 @@
       "gameMinutes": 0.0,
       "totalHours": 969.76,
       "gameHours": 0.0,
-      "sessions": 150,
+      "sessions": 154,
       "avgViewers": 128.0,
       "peakViewers": 899
     }
@@ -49,9 +49,9 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
+      "isLive": true,
+      "liveSince": "2026-11-24T10:49:19Z",
+      "liveTitle": "〖 雑談 〗もう11月後半ということが本当なのかを話そう🍁🍠 〖 心白てと / ネオポルテ 〗",
       "lastEnd": "2026-11-24T00:59:58Z",
       "lastTitle": "〖 APEX╎#ぶいすぽGG 〗 3人で楽しくGGっていうぞおお！目指せチャンピオン⁺₊✦ / さくちゃん、ゆらちゃん〖 心白てと / ネオポルテ 〗",
       "buckets": {
@@ -60,16 +60,16 @@
           "gameMinutes": 0.0,
           "totalHours": 10.0,
           "gameHours": 0.0,
-          "sessions": 1,
+          "sessions": 2,
           "avgViewers": 140.0,
-          "peakViewers": 140
+          "peakViewers": 233
         },
         "week": {
           "totalMinutes": 866.4,
           "gameMinutes": 0.0,
           "totalHours": 14.44,
           "gameHours": 0.0,
-          "sessions": 2,
+          "sessions": 3,
           "avgViewers": 226.1,
           "peakViewers": 611
         },
@@ -78,7 +78,7 @@
           "gameMinutes": 0.0,
           "totalHours": 119.94,
           "gameHours": 0.0,
-          "sessions": 17,
+          "sessions": 18,
           "avgViewers": 352.1,
           "peakViewers": 899
         }
@@ -235,7 +235,611 @@
           "samples": [],
           "isTargetGame": false
         }
-      ]
+      ],
+      "liveViewers": 233,
+      "livePeakViewers": 233,
+      "liveAvgViewers": 233.0,
+      "liveSamples": [
+        [
+          "2026-11-24T10:49:19Z",
+          233
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=lxQuAZNGmlc"
+    },
+    {
+      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+      "name": "maŸUko",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
+      "isLive": true,
+      "liveSince": "2026-11-24T10:49:19Z",
+      "liveTitle": "🟣11/24【 #GTA5  】＃18 しばらく早番の民になる #リライフ【 maŸUko / #Vtuber 】",
+      "lastEnd": "2026-11-21T22:07:39Z",
+      "lastTitle": "🟣11/21【 #GTA5  】＃17 ひっそり起きる #リライフ【 maŸUko / #Vtuber 】",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 12.0,
+          "peakViewers": 12
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 12.0,
+          "peakViewers": 12
+        },
+        "month": {
+          "totalMinutes": 3552.6,
+          "gameMinutes": 0.0,
+          "totalHours": 59.21,
+          "gameHours": 0.0,
+          "sessions": 11,
+          "avgViewers": 8.0,
+          "peakViewers": 13
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "5JNhQo-kCcs",
+          "videoUrl": "https://www.youtube.com/watch?v=5JNhQo-kCcs",
+          "start": "2026-11-21T16:59:08Z",
+          "end": "2026-11-21T22:07:39Z",
+          "minutes": 308.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/21【 #GTA5  】＃17 ひっそり起きる #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [
+            [
+              "2026-11-21T16:59:08Z",
+              3
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "h3sswaTbHBA",
+          "videoUrl": "https://www.youtube.com/watch?v=h3sswaTbHBA",
+          "start": "2026-11-20T13:09:49Z",
+          "end": "2026-11-20T21:04:56Z",
+          "minutes": 475.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [
+            [
+              "2026-11-20T13:09:49Z",
+              10
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "BnRpBPVUXsk",
+          "videoUrl": "https://www.youtube.com/watch?v=BnRpBPVUXsk",
+          "start": "2026-11-14T14:29:11Z",
+          "end": "2026-11-14T19:25:30Z",
+          "minutes": 296.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/14【 #マーダーミステリー 】供花に命を　弓塚リンカ役：maŸUko視点",
+          "game": null,
+          "peakViewers": 5,
+          "avgViewers": 5.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "BQznWqUTkK4",
+          "videoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 10,
+          "avgViewers": 10.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "n2jV6oTZc4U",
+          "videoUrl": "https://www.youtube.com/watch?v=n2jV6oTZc4U",
+          "start": "2026-11-11T15:25:07Z",
+          "end": "2026-11-11T22:07:15Z",
+          "minutes": 402.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 6,
+          "avgViewers": 6.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "InBdAxeMIyQ",
+          "videoUrl": "https://www.youtube.com/watch?v=InBdAxeMIyQ",
+          "start": "2026-11-09T13:40:09Z",
+          "end": "2026-11-09T23:09:50Z",
+          "minutes": 569.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/9【 #マーダーミステリー 】その鉄のガラクタいわく 第１章　GM：maŸUko視点　#やかたま鉄ガクタいわ",
+          "game": null,
+          "peakViewers": 3,
+          "avgViewers": 3.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "_3wPgDJfC-8",
+          "videoUrl": "https://www.youtube.com/watch?v=_3wPgDJfC-8",
+          "start": "2026-11-07T15:37:54Z",
+          "end": "2026-11-07T19:37:06Z",
+          "minutes": 239.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
+          "name": "maŸUko",
+          "videoId": "zDqc_fmUVhk",
+          "videoUrl": "https://www.youtube.com/watch?v=zDqc_fmUVhk",
+          "start": "2026-11-03T16:09:17Z",
+          "end": "2026-11-03T21:45:52Z",
+          "minutes": 336.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "🟣11/3【 #GTA5  】＃10 知らないこと、知りたい。 #リライフ【 maŸUko / #Vtuber 】",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 12,
+      "livePeakViewers": 12,
+      "liveAvgViewers": 12.0,
+      "liveSamples": [
+        [
+          "2026-11-24T10:49:19Z",
+          12
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=sCkttg7cWJ4"
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
+      "isLive": true,
+      "liveSince": "2026-11-24T10:49:19Z",
+      "liveTitle": "ダンガンロンパ  希望の学園と絶望の高校生 | #6 チャプター3から！地獄は続くよどこまでも #愁子",
+      "lastEnd": "2026-11-24T00:59:58Z",
+      "lastTitle": "Euro Truck Simulator2 | #87 バスドライバーの眼鏡お姉さんと喋ろうや 枠ガチャ #愁子",
+      "buckets": {
+        "today": {
+          "totalMinutes": 600.0,
+          "gameMinutes": 0.0,
+          "totalHours": 10.0,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 48.0,
+          "peakViewers": 66
+        },
+        "week": {
+          "totalMinutes": 708.0,
+          "gameMinutes": 0.0,
+          "totalHours": 11.8,
+          "gameHours": 0.0,
+          "sessions": 2,
+          "avgViewers": 48.0,
+          "peakViewers": 66
+        },
+        "month": {
+          "totalMinutes": 1899.7,
+          "gameMinutes": 0.0,
+          "totalHours": 31.66,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 46.4,
+          "peakViewers": 66
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "GcXEiQE2MHc",
+          "videoUrl": "https://www.youtube.com/watch?v=GcXEiQE2MHc",
+          "start": "2026-11-23T13:11:56Z",
+          "end": "2026-11-24T00:59:58Z",
+          "minutes": 708.0,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "Euro Truck Simulator2 | #87 バスドライバーの眼鏡お姉さんと喋ろうや 枠ガチャ #愁子",
+          "game": null,
+          "peakViewers": 48,
+          "avgViewers": 48.0,
+          "samples": [
+            [
+              "2026-11-23T13:11:56Z",
+              48
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "qUQ73m22L1k",
+          "videoUrl": "https://www.youtube.com/watch?v=qUQ73m22L1k",
+          "start": "2026-11-21T16:59:08Z",
+          "end": "2026-11-21T22:07:39Z",
+          "minutes": 308.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "ダンガンロンパ  希望の学園と絶望の高校生 | #5の続き 俺たちもうタッグ解消っすか… #愁子",
+          "game": null,
+          "peakViewers": 47,
+          "avgViewers": 47.0,
+          "samples": [
+            [
+              "2026-11-21T16:59:08Z",
+              47
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "1bJNevtPWgA",
+          "videoUrl": "https://www.youtube.com/watch?v=1bJNevtPWgA",
+          "start": "2026-11-09T13:40:09Z",
+          "end": "2026-11-09T23:09:50Z",
+          "minutes": 569.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "Euro Truck Simulator2 | #85 鼻と喉が終わっているお姉さんのチルドライブ雑談 #愁子",
+          "game": null,
+          "peakViewers": 53,
+          "avgViewers": 53.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "J4VrYB4ju8I",
+          "videoUrl": "https://www.youtube.com/watch?v=J4VrYB4ju8I",
+          "start": "2026-11-05T17:37:51Z",
+          "end": "2026-11-05T22:51:17Z",
+          "minutes": 313.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.12 収穫祭にふらっと行くわよ #愁子",
+          "game": null,
+          "peakViewers": 30,
+          "avgViewers": 30.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "lmkhF__z5TE",
+          "videoUrl": "https://www.youtube.com/watch?v=lmkhF__z5TE",
+          "start": "2026-10-30T06:13:56Z",
+          "end": "2026-10-30T13:09:23Z",
+          "minutes": 415.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "※ネタバレあり 最終回！？○○を倒しに…。眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #22 #愁子",
+          "game": null,
+          "peakViewers": 130,
+          "avgViewers": 130.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "TmMXUJy3Q28",
+          "videoUrl": "https://www.youtube.com/watch?v=TmMXUJy3Q28",
+          "start": "2026-10-29T15:39:17Z",
+          "end": "2026-10-29T20:36:58Z",
+          "minutes": 297.7,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "ずっとこんな時間が続けばいいのに…Big Walk4回目🎵 #愁子 #にぃらい #もちひよこ #矢毒けろる",
+          "game": null,
+          "peakViewers": 29,
+          "avgViewers": 29.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "5SXsdDJNmXY",
+          "videoUrl": "https://www.youtube.com/watch?v=5SXsdDJNmXY",
+          "start": "2026-10-29T08:49:01Z",
+          "end": "2026-10-29T15:39:17Z",
+          "minutes": 410.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "雑談 | シーシャをスパスパしながらちるにお喋り #愁子",
+          "game": null,
+          "peakViewers": 95,
+          "avgViewers": 95.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+          "name": "愁子",
+          "videoId": "vpyNc0s0ATo",
+          "videoUrl": "https://www.youtube.com/watch?v=vpyNc0s0ATo",
+          "start": "2026-10-28T13:36:05Z",
+          "end": "2026-10-28T19:05:57Z",
+          "minutes": 329.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "Neighbors: Suburban Warfare | お隣さんの家具をぶっ壊すゲームに呼んでもらいました #愁子",
+          "game": null,
+          "peakViewers": 14,
+          "avgViewers": 14.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 66,
+      "livePeakViewers": 66,
+      "liveAvgViewers": 66.0,
+      "liveSamples": [
+        [
+          "2026-11-24T10:49:19Z",
+          66
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=zOohNYOHOvU"
+    },
+    {
+      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "name": "甘成じゅい",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
+      "isLive": true,
+      "liveSince": "2026-11-24T10:49:19Z",
+      "liveTitle": "〚 DBD〛完全初見だがしかし、教えて！群ロマせんせーー！！ｗ/群青ロマン〚 甘成じゅい/ゆにれいど！ 〛〚 Dead by Daylight〛",
+      "lastEnd": "2026-11-19T23:33:10Z",
+      "lastTitle": "〚Probably Stolen 〛皆沼ると噂の高評価ゲーム！深夜にチルく世界を回していく〚 甘成じゅい/ゆにれいど！ 〛",
+      "buckets": {
+        "today": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 60.0,
+          "peakViewers": 60
+        },
+        "week": {
+          "totalMinutes": 0.0,
+          "gameMinutes": 0.0,
+          "totalHours": 0.0,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 60.0,
+          "peakViewers": 60
+        },
+        "month": {
+          "totalMinutes": 1384.3,
+          "gameMinutes": 0.0,
+          "totalHours": 23.07,
+          "gameHours": 0.0,
+          "sessions": 5,
+          "avgViewers": 47.9,
+          "peakViewers": 60
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "15KCyolI73w",
+          "videoUrl": "https://www.youtube.com/watch?v=15KCyolI73w",
+          "start": "2026-11-19T17:05:53Z",
+          "end": "2026-11-19T23:33:10Z",
+          "minutes": 387.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚Probably Stolen 〛皆沼ると噂の高評価ゲーム！深夜にチルく世界を回していく〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 51,
+          "avgViewers": 51.0,
+          "samples": [
+            [
+              "2026-11-19T17:05:53Z",
+              51
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "5ABHqJDoTF8",
+          "videoUrl": "https://www.youtube.com/watch?v=5ABHqJDoTF8",
+          "start": "2026-11-17T10:41:39Z",
+          "end": "2026-11-17T19:26:12Z",
+          "minutes": 524.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚Probably Stolen 〛皆沼ると噂の高評価ゲーム！裏社会で何が欲しいってんだい！売るよ！！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 55,
+          "avgViewers": 55.0,
+          "samples": [
+            [
+              "2026-11-17T10:41:39Z",
+              55
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "BbCbPX4WZ88",
+          "videoUrl": "https://www.youtube.com/watch?v=BbCbPX4WZ88",
+          "start": "2026-11-15T16:56:39Z",
+          "end": "2026-11-15T21:32:31Z",
+          "minutes": 275.9,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚BOMBANANA!  〛仲良い３人ならぶちぎれることもなく爆弾解除できますよね？？w/群青ロマン、卯埜らび〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 40,
+          "avgViewers": 40.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "XT_pJaRGG9Q",
+          "videoUrl": "https://www.youtube.com/watch?v=XT_pJaRGG9Q",
+          "start": "2026-11-01T22:28:14Z",
+          "end": "2026-11-02T01:44:50Z",
+          "minutes": 196.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚朝活 〛数億年ぶりの朝活！昨日は皆あったかくて楽しかったねｲｪ 〚甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 34,
+          "avgViewers": 34.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "8WlN0hL8oQc",
+          "videoUrl": "https://www.youtube.com/watch?v=8WlN0hL8oQc",
+          "start": "2026-10-30T12:32:30Z",
+          "end": "2026-10-30T15:20:17Z",
+          "minutes": 167.8,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〚雑談 〛ねぇもう夜なんだって、濃厚なアイスとか食べたい時期になったね〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 12,
+          "avgViewers": 12.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "Ff4knYMrCW4",
+          "videoUrl": "https://www.youtube.com/watch?v=Ff4knYMrCW4",
+          "start": "2026-10-28T12:29:52Z",
+          "end": "2026-10-28T14:49:57Z",
+          "minutes": 140.1,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〚 めん限〛少しあるわおーーーーー！！歯茎めんっげんはこちら〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": null,
+          "avgViewers": null,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "hF-zq_8wV8s",
+          "videoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s",
+          "start": "2026-10-26T17:26:19Z",
+          "end": "2026-10-26T21:46:45Z",
+          "minutes": 260.4,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
+          "game": null,
+          "peakViewers": 36,
+          "avgViewers": 36.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
+          "name": "甘成じゅい",
+          "videoId": "b306RfiWFgQ",
+          "videoUrl": "https://www.youtube.com/watch?v=b306RfiWFgQ",
+          "start": "2026-10-25T09:23:12Z",
+          "end": "2026-10-25T13:50:31Z",
+          "minutes": 267.3,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
+          "game": null,
+          "peakViewers": 47,
+          "avgViewers": 47.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ],
+      "liveViewers": 60,
+      "livePeakViewers": 60,
+      "liveAvgViewers": 60.0,
+      "liveSamples": [
+        [
+          "2026-11-24T10:49:19Z",
+          60
+        ]
+      ],
+      "liveVideoUrl": "https://www.youtube.com/watch?v=q1vdvmeH9Hc"
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
@@ -994,194 +1598,6 @@
           "game": null,
           "peakViewers": 88,
           "avgViewers": 88.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-      "name": "maŸUko",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCE0ETB-j-qiXQiKPIG-0tCA",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-21T22:07:39Z",
-      "lastTitle": "🟣11/21【 #GTA5  】＃17 ひっそり起きる #リライフ【 maŸUko / #Vtuber 】",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 3552.6,
-          "gameMinutes": 0.0,
-          "totalHours": 59.21,
-          "gameHours": 0.0,
-          "sessions": 10,
-          "avgViewers": 8.0,
-          "peakViewers": 13
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "5JNhQo-kCcs",
-          "videoUrl": "https://www.youtube.com/watch?v=5JNhQo-kCcs",
-          "start": "2026-11-21T16:59:08Z",
-          "end": "2026-11-21T22:07:39Z",
-          "minutes": 308.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/21【 #GTA5  】＃17 ひっそり起きる #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [
-            [
-              "2026-11-21T16:59:08Z",
-              3
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "h3sswaTbHBA",
-          "videoUrl": "https://www.youtube.com/watch?v=h3sswaTbHBA",
-          "start": "2026-11-20T13:09:49Z",
-          "end": "2026-11-20T21:04:56Z",
-          "minutes": 475.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/20【 #GTA5  】＃16 開店準備を着々と #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [
-            [
-              "2026-11-20T13:09:49Z",
-              10
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "BnRpBPVUXsk",
-          "videoUrl": "https://www.youtube.com/watch?v=BnRpBPVUXsk",
-          "start": "2026-11-14T14:29:11Z",
-          "end": "2026-11-14T19:25:30Z",
-          "minutes": 296.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/14【 #マーダーミステリー 】供花に命を　弓塚リンカ役：maŸUko視点",
-          "game": null,
-          "peakViewers": 5,
-          "avgViewers": 5.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "BQznWqUTkK4",
-          "videoUrl": "https://www.youtube.com/watch?v=BQznWqUTkK4",
-          "start": "2026-11-13T13:20:25Z",
-          "end": "2026-11-13T20:36:03Z",
-          "minutes": 435.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/13【 #GTA5  】＃13 店番したり、バイトしたり、ラジバンダリ #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 10,
-          "avgViewers": 10.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "n2jV6oTZc4U",
-          "videoUrl": "https://www.youtube.com/watch?v=n2jV6oTZc4U",
-          "start": "2026-11-11T15:25:07Z",
-          "end": "2026-11-11T22:07:15Z",
-          "minutes": 402.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/11 🍜ラーメン作るよ！(；`・ω・） #JapaneseRamenSimulator 🔍【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 6,
-          "avgViewers": 6.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "InBdAxeMIyQ",
-          "videoUrl": "https://www.youtube.com/watch?v=InBdAxeMIyQ",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/9【 #マーダーミステリー 】その鉄のガラクタいわく 第１章　GM：maŸUko視点　#やかたま鉄ガクタいわ",
-          "game": null,
-          "peakViewers": 3,
-          "avgViewers": 3.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "_3wPgDJfC-8",
-          "videoUrl": "https://www.youtube.com/watch?v=_3wPgDJfC-8",
-          "start": "2026-11-07T15:37:54Z",
-          "end": "2026-11-07T19:37:06Z",
-          "minutes": 239.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/7【 #マーダーミステリー 】命に供花を　ライセ役：maŸUko視点　#",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCE0ETB-j-qiXQiKPIG-0tCA",
-          "name": "maŸUko",
-          "videoId": "zDqc_fmUVhk",
-          "videoUrl": "https://www.youtube.com/watch?v=zDqc_fmUVhk",
-          "start": "2026-11-03T16:09:17Z",
-          "end": "2026-11-03T21:45:52Z",
-          "minutes": 336.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "🟣11/3【 #GTA5  】＃10 知らないこと、知りたい。 #リライフ【 maŸUko / #Vtuber 】",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -2188,12 +2604,7 @@
           "game": null,
           "peakViewers": 238,
           "avgViewers": 238.0,
-          "samples": [
-            [
-              "2026-11-16T18:47:16Z",
-              238
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -2295,194 +2706,6 @@
           "game": null,
           "peakViewers": 417,
           "avgViewers": 312.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UCb8nGgTFAL6B5zOm060Ff3Q",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-24T00:59:58Z",
-      "lastTitle": "Euro Truck Simulator2 | #87 バスドライバーの眼鏡お姉さんと喋ろうや 枠ガチャ #愁子",
-      "buckets": {
-        "today": {
-          "totalMinutes": 600.0,
-          "gameMinutes": 0.0,
-          "totalHours": 10.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 48.0,
-          "peakViewers": 48
-        },
-        "week": {
-          "totalMinutes": 708.0,
-          "gameMinutes": 0.0,
-          "totalHours": 11.8,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 48.0,
-          "peakViewers": 48
-        },
-        "month": {
-          "totalMinutes": 1899.7,
-          "gameMinutes": 0.0,
-          "totalHours": 31.66,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 46.4,
-          "peakViewers": 53
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "GcXEiQE2MHc",
-          "videoUrl": "https://www.youtube.com/watch?v=GcXEiQE2MHc",
-          "start": "2026-11-23T13:11:56Z",
-          "end": "2026-11-24T00:59:58Z",
-          "minutes": 708.0,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "Euro Truck Simulator2 | #87 バスドライバーの眼鏡お姉さんと喋ろうや 枠ガチャ #愁子",
-          "game": null,
-          "peakViewers": 48,
-          "avgViewers": 48.0,
-          "samples": [
-            [
-              "2026-11-23T13:11:56Z",
-              48
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "qUQ73m22L1k",
-          "videoUrl": "https://www.youtube.com/watch?v=qUQ73m22L1k",
-          "start": "2026-11-21T16:59:08Z",
-          "end": "2026-11-21T22:07:39Z",
-          "minutes": 308.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "ダンガンロンパ  希望の学園と絶望の高校生 | #5の続き 俺たちもうタッグ解消っすか… #愁子",
-          "game": null,
-          "peakViewers": 47,
-          "avgViewers": 47.0,
-          "samples": [
-            [
-              "2026-11-21T16:59:08Z",
-              47
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "1bJNevtPWgA",
-          "videoUrl": "https://www.youtube.com/watch?v=1bJNevtPWgA",
-          "start": "2026-11-09T13:40:09Z",
-          "end": "2026-11-09T23:09:50Z",
-          "minutes": 569.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "Euro Truck Simulator2 | #85 鼻と喉が終わっているお姉さんのチルドライブ雑談 #愁子",
-          "game": null,
-          "peakViewers": 53,
-          "avgViewers": 53.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "J4VrYB4ju8I",
-          "videoUrl": "https://www.youtube.com/watch?v=J4VrYB4ju8I",
-          "start": "2026-11-05T17:37:51Z",
-          "end": "2026-11-05T22:51:17Z",
-          "minutes": 313.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.12 収穫祭にふらっと行くわよ #愁子",
-          "game": null,
-          "peakViewers": 30,
-          "avgViewers": 30.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "lmkhF__z5TE",
-          "videoUrl": "https://www.youtube.com/watch?v=lmkhF__z5TE",
-          "start": "2026-10-30T06:13:56Z",
-          "end": "2026-10-30T13:09:23Z",
-          "minutes": 415.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "※ネタバレあり 最終回！？○○を倒しに…。眼鏡のお姉さんが行くペルソナ5 ザ・ロイヤル #22 #愁子",
-          "game": null,
-          "peakViewers": 130,
-          "avgViewers": 130.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "TmMXUJy3Q28",
-          "videoUrl": "https://www.youtube.com/watch?v=TmMXUJy3Q28",
-          "start": "2026-10-29T15:39:17Z",
-          "end": "2026-10-29T20:36:58Z",
-          "minutes": 297.7,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "ずっとこんな時間が続けばいいのに…Big Walk4回目🎵 #愁子 #にぃらい #もちひよこ #矢毒けろる",
-          "game": null,
-          "peakViewers": 29,
-          "avgViewers": 29.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "5SXsdDJNmXY",
-          "videoUrl": "https://www.youtube.com/watch?v=5SXsdDJNmXY",
-          "start": "2026-10-29T08:49:01Z",
-          "end": "2026-10-29T15:39:17Z",
-          "minutes": 410.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "雑談 | シーシャをスパスパしながらちるにお喋り #愁子",
-          "game": null,
-          "peakViewers": 95,
-          "avgViewers": 95.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-          "name": "愁子",
-          "videoId": "vpyNc0s0ATo",
-          "videoUrl": "https://www.youtube.com/watch?v=vpyNc0s0ATo",
-          "start": "2026-10-28T13:36:05Z",
-          "end": "2026-10-28T19:05:57Z",
-          "minutes": 329.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "Neighbors: Suburban Warfare | お隣さんの家具をぶっ壊すゲームに呼んでもらいました #愁子",
-          "game": null,
-          "peakViewers": 14,
-          "avgViewers": 14.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -2671,194 +2894,6 @@
           "game": null,
           "peakViewers": null,
           "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ]
-    },
-    {
-      "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "name": "甘成じゅい",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC3Wxd3RwdF-3gwt-Bud0oEQ",
-      "isLive": false,
-      "liveSince": null,
-      "liveTitle": null,
-      "lastEnd": "2026-11-19T23:33:10Z",
-      "lastTitle": "〚Probably Stolen 〛皆沼ると噂の高評価ゲーム！深夜にチルく世界を回していく〚 甘成じゅい/ゆにれいど！ 〛",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 0,
-          "avgViewers": null,
-          "peakViewers": null
-        },
-        "month": {
-          "totalMinutes": 1384.3,
-          "gameMinutes": 0.0,
-          "totalHours": 23.07,
-          "gameHours": 0.0,
-          "sessions": 4,
-          "avgViewers": 47.9,
-          "peakViewers": 55
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "15KCyolI73w",
-          "videoUrl": "https://www.youtube.com/watch?v=15KCyolI73w",
-          "start": "2026-11-19T17:05:53Z",
-          "end": "2026-11-19T23:33:10Z",
-          "minutes": 387.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚Probably Stolen 〛皆沼ると噂の高評価ゲーム！深夜にチルく世界を回していく〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 51,
-          "avgViewers": 51.0,
-          "samples": [
-            [
-              "2026-11-19T17:05:53Z",
-              51
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "5ABHqJDoTF8",
-          "videoUrl": "https://www.youtube.com/watch?v=5ABHqJDoTF8",
-          "start": "2026-11-17T10:41:39Z",
-          "end": "2026-11-17T19:26:12Z",
-          "minutes": 524.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚Probably Stolen 〛皆沼ると噂の高評価ゲーム！裏社会で何が欲しいってんだい！売るよ！！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 55,
-          "avgViewers": 55.0,
-          "samples": [
-            [
-              "2026-11-17T10:41:39Z",
-              55
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "BbCbPX4WZ88",
-          "videoUrl": "https://www.youtube.com/watch?v=BbCbPX4WZ88",
-          "start": "2026-11-15T16:56:39Z",
-          "end": "2026-11-15T21:32:31Z",
-          "minutes": 275.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚BOMBANANA!  〛仲良い３人ならぶちぎれることもなく爆弾解除できますよね？？w/群青ロマン、卯埜らび〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 40,
-          "avgViewers": 40.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "XT_pJaRGG9Q",
-          "videoUrl": "https://www.youtube.com/watch?v=XT_pJaRGG9Q",
-          "start": "2026-11-01T22:28:14Z",
-          "end": "2026-11-02T01:44:50Z",
-          "minutes": 196.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚朝活 〛数億年ぶりの朝活！昨日は皆あったかくて楽しかったねｲｪ 〚甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 34,
-          "avgViewers": 34.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "8WlN0hL8oQc",
-          "videoUrl": "https://www.youtube.com/watch?v=8WlN0hL8oQc",
-          "start": "2026-10-30T12:32:30Z",
-          "end": "2026-10-30T15:20:17Z",
-          "minutes": 167.8,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〚雑談 〛ねぇもう夜なんだって、濃厚なアイスとか食べたい時期になったね〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 12,
-          "avgViewers": 12.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "Ff4knYMrCW4",
-          "videoUrl": "https://www.youtube.com/watch?v=Ff4knYMrCW4",
-          "start": "2026-10-28T12:29:52Z",
-          "end": "2026-10-28T14:49:57Z",
-          "minutes": 140.1,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "〚 めん限〛少しあるわおーーーーー！！歯茎めんっげんはこちら〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": null,
-          "avgViewers": null,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "hF-zq_8wV8s",
-          "videoUrl": "https://www.youtube.com/watch?v=hF-zq_8wV8s",
-          "start": "2026-10-26T17:26:19Z",
-          "end": "2026-10-26T21:46:45Z",
-          "minutes": 260.4,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚デスゲーム報告書 〛事件は会議室で起こってるんじゃない！現場で起こっているだ！〚 甘成じゅい/ゆにれいど！ 〛#デスゲーム報告書",
-          "game": null,
-          "peakViewers": 36,
-          "avgViewers": 36.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC3Wxd3RwdF-3gwt-Bud0oEQ",
-          "name": "甘成じゅい",
-          "videoId": "b306RfiWFgQ",
-          "videoUrl": "https://www.youtube.com/watch?v=b306RfiWFgQ",
-          "start": "2026-10-25T09:23:12Z",
-          "end": "2026-10-25T13:50:31Z",
-          "minutes": 267.3,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〚#雑談 〛音チェックしながら雑談していくのだ！みなしゅうごー！〚 甘成じゅい/ゆにれいど！ 〛",
-          "game": null,
-          "peakViewers": 47,
-          "avgViewers": 47.0,
           "samples": [],
           "isTargetGame": false
         }
