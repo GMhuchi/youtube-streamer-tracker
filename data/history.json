@@ -1,141 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "S9tcsGF-8MQ",
-      "start": "2026-11-23T13:11:56Z",
-      "startSource": "observed",
-      "title": "〖 APEX╎#ぶいすぽGG 〗 3人で楽しくGGっていうぞおお！目指せチャンピオン⁺₊✦ / さくちゃん、ゆらちゃん〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 140,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-23T13:11:56Z",
-      "lastSeenAt": "2026-11-23T13:11:56Z",
-      "samples": [
-        [
-          "2026-11-23T13:11:56Z",
-          140
-        ]
-      ]
-    },
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "Q7XzTqEyee0",
-      "start": "2026-11-23T13:11:56Z",
-      "startSource": "observed",
-      "title": "【Potato Please】続き！6万個のお芋を剥くとこ見てて🥔！【望月ほぐの/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 661,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-23T13:11:56Z",
-      "lastSeenAt": "2026-11-23T13:11:56Z",
-      "samples": [
-        [
-          "2026-11-23T13:11:56Z",
-          661
-        ]
-      ]
-    },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "SuoEAhTgZho",
-      "start": "2026-11-23T13:11:56Z",
-      "startSource": "observed",
-      "title": "【 APEX 】オクタン最強！オクタン最強！ w/聖ルナティア,ちょぼぼびさん【ゆにれいど！/ 火狩夜れんま】",
-      "game": null,
-      "peakViewers": 22,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-23T13:11:56Z",
-      "lastSeenAt": "2026-11-23T13:11:56Z",
-      "samples": [
-        [
-          "2026-11-23T13:11:56Z",
-          22
-        ]
-      ]
-    },
-    "UC1_HUmjQShLtT_MuZjry3hQ": {
-      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
-      "name": "グラニット",
-      "videoId": "Bo0UHCFbN8c",
-      "start": "2026-11-23T13:11:56Z",
-      "startSource": "observed",
-      "title": "【 カービィのエアライダー 】発売日に買ったのにやってなかったエアライド世代【グラニット/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 13,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-23T13:11:56Z",
-      "lastSeenAt": "2026-11-23T13:11:56Z",
-      "samples": [
-        [
-          "2026-11-23T13:11:56Z",
-          13
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "EQffWFPDjMk",
-      "start": "2026-11-23T13:11:56Z",
-      "startSource": "observed",
-      "title": "【Pokémon LEGENDS Z-A】Re : ミアレシティ【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 43,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-23T13:11:56Z",
-      "lastSeenAt": "2026-11-23T13:11:56Z",
-      "samples": [
-        [
-          "2026-11-23T13:11:56Z",
-          43
-        ]
-      ]
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "GcXEiQE2MHc",
-      "start": "2026-11-23T13:11:56Z",
-      "startSource": "observed",
-      "title": "Euro Truck Simulator2 | #87 バスドライバーの眼鏡お姉さんと喋ろうや 枠ガチャ #愁子",
-      "game": null,
-      "peakViewers": 48,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-23T13:11:56Z",
-      "lastSeenAt": "2026-11-23T13:11:56Z",
-      "samples": [
-        [
-          "2026-11-23T13:11:56Z",
-          48
-        ]
-      ]
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "0aywsHEkPfE",
-      "start": "2026-11-23T13:11:56Z",
-      "startSource": "observed",
-      "title": "【雑談】今週もよろしくね！色々話そう🌹　 #恋沼ミヤ",
-      "game": null,
-      "peakViewers": 57,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-23T13:11:56Z",
-      "lastSeenAt": "2026-11-23T13:11:56Z",
-      "samples": [
-        [
-          "2026-11-23T13:11:56Z",
-          57
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10504,12 +10370,7 @@
       "game": null,
       "peakViewers": 36,
       "avgViewers": 36.0,
-      "samples": [
-        [
-          "2026-10-09T11:30:41Z",
-          36
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10526,12 +10387,7 @@
       "game": null,
       "peakViewers": 237,
       "avgViewers": 237.0,
-      "samples": [
-        [
-          "2026-10-09T11:30:41Z",
-          237
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10548,12 +10404,7 @@
       "game": null,
       "peakViewers": 17,
       "avgViewers": 17.0,
-      "samples": [
-        [
-          "2026-10-09T11:30:41Z",
-          17
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10570,12 +10421,7 @@
       "game": null,
       "peakViewers": 79,
       "avgViewers": 79.0,
-      "samples": [
-        [
-          "2026-10-09T11:30:41Z",
-          79
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10592,12 +10438,7 @@
       "game": null,
       "peakViewers": 3,
       "avgViewers": 3.0,
-      "samples": [
-        [
-          "2026-10-09T17:32:35Z",
-          3
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -18657,6 +18498,160 @@
         [
           "2026-11-22T17:38:24Z",
           122
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "S9tcsGF-8MQ",
+      "videoUrl": "https://www.youtube.com/watch?v=S9tcsGF-8MQ",
+      "start": "2026-11-23T13:11:56Z",
+      "end": "2026-11-24T00:59:58Z",
+      "minutes": 708.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "〖 APEX╎#ぶいすぽGG 〗 3人で楽しくGGっていうぞおお！目指せチャンピオン⁺₊✦ / さくちゃん、ゆらちゃん〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 140,
+      "avgViewers": 140.0,
+      "samples": [
+        [
+          "2026-11-23T13:11:56Z",
+          140
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "Q7XzTqEyee0",
+      "videoUrl": "https://www.youtube.com/watch?v=Q7XzTqEyee0",
+      "start": "2026-11-23T13:11:56Z",
+      "end": "2026-11-24T00:59:58Z",
+      "minutes": 708.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Potato Please】続き！6万個のお芋を剥くとこ見てて🥔！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 661,
+      "avgViewers": 661.0,
+      "samples": [
+        [
+          "2026-11-23T13:11:56Z",
+          661
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "SuoEAhTgZho",
+      "videoUrl": "https://www.youtube.com/watch?v=SuoEAhTgZho",
+      "start": "2026-11-23T13:11:56Z",
+      "end": "2026-11-24T00:59:58Z",
+      "minutes": 708.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 APEX 】オクタン最強！オクタン最強！ w/聖ルナティア,ちょぼぼびさん【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 22,
+      "avgViewers": 22.0,
+      "samples": [
+        [
+          "2026-11-23T13:11:56Z",
+          22
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット",
+      "videoId": "Bo0UHCFbN8c",
+      "videoUrl": "https://www.youtube.com/watch?v=Bo0UHCFbN8c",
+      "start": "2026-11-23T13:11:56Z",
+      "end": "2026-11-24T00:59:58Z",
+      "minutes": 708.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 カービィのエアライダー 】発売日に買ったのにやってなかったエアライド世代【グラニット/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 13,
+      "avgViewers": 13.0,
+      "samples": [
+        [
+          "2026-11-23T13:11:56Z",
+          13
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "EQffWFPDjMk",
+      "videoUrl": "https://www.youtube.com/watch?v=EQffWFPDjMk",
+      "start": "2026-11-23T13:11:56Z",
+      "end": "2026-11-24T00:59:58Z",
+      "minutes": 708.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【Pokémon LEGENDS Z-A】Re : ミアレシティ【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 43,
+      "avgViewers": 43.0,
+      "samples": [
+        [
+          "2026-11-23T13:11:56Z",
+          43
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "GcXEiQE2MHc",
+      "videoUrl": "https://www.youtube.com/watch?v=GcXEiQE2MHc",
+      "start": "2026-11-23T13:11:56Z",
+      "end": "2026-11-24T00:59:58Z",
+      "minutes": 708.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "Euro Truck Simulator2 | #87 バスドライバーの眼鏡お姉さんと喋ろうや 枠ガチャ #愁子",
+      "game": null,
+      "peakViewers": 48,
+      "avgViewers": 48.0,
+      "samples": [
+        [
+          "2026-11-23T13:11:56Z",
+          48
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "0aywsHEkPfE",
+      "videoUrl": "https://www.youtube.com/watch?v=0aywsHEkPfE",
+      "start": "2026-11-23T13:11:56Z",
+      "end": "2026-11-24T00:59:58Z",
+      "minutes": 708.0,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【雑談】今週もよろしくね！色々話そう🌹　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 57,
+      "avgViewers": 57.0,
+      "samples": [
+        [
+          "2026-11-23T13:11:56Z",
+          57
         ]
       ],
       "isTargetGame": false
