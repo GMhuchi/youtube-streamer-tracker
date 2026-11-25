@@ -1,7 +1,117 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCElYE3bfzjjmJ9xwjvro9Yw": {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "36HXCiNyyx8",
+      "start": "2026-11-25T14:06:20Z",
+      "startSource": "observed",
+      "title": "【歌枠】アニソン歌枠いくぞおおおおお！！【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 110,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-25T14:06:20Z",
+      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          110
+        ]
+      ]
+    },
+    "UC_mXkuKyIkO1hYjSeMvbt5g": {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "ou4K4f5QM4g",
+      "start": "2026-11-25T14:06:20Z",
+      "startSource": "observed",
+      "title": "【 浮気判定シート 】浮気判定シート書いてみる！【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 61,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-25T14:06:20Z",
+      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          61
+        ]
+      ]
+    },
+    "UCB-aip0wsqKQPcrLW1BBJaw": {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "acAliLq6F_Q",
+      "start": "2026-11-25T14:06:20Z",
+      "startSource": "observed",
+      "title": "【地獄怨根】ベジファでいかせてもらう【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 92,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-25T14:06:20Z",
+      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          92
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "kgBPXXuLFY0",
+      "start": "2026-11-25T14:06:20Z",
+      "startSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　同期回があるらしいね　 ～Day37～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 73,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-25T14:06:20Z",
+      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          73
+        ]
+      ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "wwX9hL25cF0",
+      "start": "2026-11-25T14:06:20Z",
+      "startSource": "observed",
+      "title": "11月が終わる…ッ！メンバー限定雑談",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-25T14:06:20Z",
+      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "samples": []
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "JMgEdQsTmqo",
+      "start": "2026-11-25T14:06:20Z",
+      "startSource": "observed",
+      "title": "【空の軌跡 the 2nd】#８　完全初見　2章へ突入🔥メインストーリー進めるぞ！　　#恋沼ミヤ",
+      "game": null,
+      "peakViewers": 24,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-25T14:06:20Z",
+      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          24
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10727,12 +10837,7 @@
       "game": null,
       "peakViewers": 371,
       "avgViewers": 371.0,
-      "samples": [
-        [
-          "2026-10-11T06:31:12Z",
-          371
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
