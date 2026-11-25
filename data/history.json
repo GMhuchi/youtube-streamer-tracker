@@ -2,112 +2,41 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCElYE3bfzjjmJ9xwjvro9Yw": {
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ",
-      "videoId": "36HXCiNyyx8",
-      "start": "2026-11-25T14:06:20Z",
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "QT5OqxYl3GE",
+      "start": "2026-11-25T23:03:33Z",
       "startSource": "observed",
-      "title": "【歌枠】アニソン歌枠いくぞおおおおお！！【日裏クロ / ネオポルテ】",
+      "title": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
       "game": null,
-      "peakViewers": 110,
+      "peakViewers": 372,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T14:06:20Z",
-      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "firstSeenAt": "2026-11-25T23:03:33Z",
+      "lastSeenAt": "2026-11-25T23:03:33Z",
       "samples": [
         [
-          "2026-11-25T14:06:20Z",
-          110
+          "2026-11-25T23:03:33Z",
+          372
         ]
       ]
     },
-    "UC_mXkuKyIkO1hYjSeMvbt5g": {
-      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
-      "name": "火狩夜れんま",
-      "videoId": "ou4K4f5QM4g",
-      "start": "2026-11-25T14:06:20Z",
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "Bc4PChPN1Z4",
+      "start": "2026-11-25T23:03:33Z",
       "startSource": "observed",
-      "title": "【 浮気判定シート 】浮気判定シート書いてみる！【ゆにれいど！/ 火狩夜れんま】",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 61,
+      "peakViewers": 32,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T14:06:20Z",
-      "lastSeenAt": "2026-11-25T14:06:20Z",
+      "firstSeenAt": "2026-11-25T23:03:33Z",
+      "lastSeenAt": "2026-11-25T23:03:33Z",
       "samples": [
         [
-          "2026-11-25T14:06:20Z",
-          61
-        ]
-      ]
-    },
-    "UCB-aip0wsqKQPcrLW1BBJaw": {
-      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
-      "name": "綾見ユラ",
-      "videoId": "acAliLq6F_Q",
-      "start": "2026-11-25T14:06:20Z",
-      "startSource": "observed",
-      "title": "【地獄怨根】ベジファでいかせてもらう【綾見ユラ/YUMENOS】",
-      "game": null,
-      "peakViewers": 92,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T14:06:20Z",
-      "lastSeenAt": "2026-11-25T14:06:20Z",
-      "samples": [
-        [
-          "2026-11-25T14:06:20Z",
-          92
-        ]
-      ]
-    },
-    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
-      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
-      "name": "那和ツムグ",
-      "videoId": "kgBPXXuLFY0",
-      "start": "2026-11-25T14:06:20Z",
-      "startSource": "observed",
-      "title": "【#ストグラ】#ストグラSeason2　同期回があるらしいね　 ～Day37～【YUMENOS/那和ツムグ】",
-      "game": null,
-      "peakViewers": 73,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T14:06:20Z",
-      "lastSeenAt": "2026-11-25T14:06:20Z",
-      "samples": [
-        [
-          "2026-11-25T14:06:20Z",
-          73
-        ]
-      ]
-    },
-    "UCb8nGgTFAL6B5zOm060Ff3Q": {
-      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
-      "name": "愁子",
-      "videoId": "wwX9hL25cF0",
-      "start": "2026-11-25T14:06:20Z",
-      "startSource": "observed",
-      "title": "11月が終わる…ッ！メンバー限定雑談",
-      "game": null,
-      "peakViewers": null,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T14:06:20Z",
-      "lastSeenAt": "2026-11-25T14:06:20Z",
-      "samples": []
-    },
-    "UCXUu1nCtDMAbasD0wAK1cdw": {
-      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
-      "name": "恋沼ミヤ",
-      "videoId": "JMgEdQsTmqo",
-      "start": "2026-11-25T14:06:20Z",
-      "startSource": "observed",
-      "title": "【空の軌跡 the 2nd】#８　完全初見　2章へ突入🔥メインストーリー進めるぞ！　　#恋沼ミヤ",
-      "game": null,
-      "peakViewers": 24,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T14:06:20Z",
-      "lastSeenAt": "2026-11-25T14:06:20Z",
-      "samples": [
-        [
-          "2026-11-25T14:06:20Z",
-          24
+          "2026-11-25T23:03:33Z",
+          32
         ]
       ]
     }
@@ -10854,12 +10783,7 @@
       "game": null,
       "peakViewers": 39,
       "avgViewers": 39.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          39
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10876,12 +10800,7 @@
       "game": null,
       "peakViewers": 121,
       "avgViewers": 121.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          121
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10898,12 +10817,7 @@
       "game": null,
       "peakViewers": 114,
       "avgViewers": 114.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          114
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10920,12 +10834,7 @@
       "game": null,
       "peakViewers": 709,
       "avgViewers": 709.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          709
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10942,12 +10851,7 @@
       "game": null,
       "peakViewers": 44,
       "avgViewers": 44.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          44
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10964,12 +10868,7 @@
       "game": null,
       "peakViewers": 10,
       "avgViewers": 10.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          10
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -10986,12 +10885,7 @@
       "game": null,
       "peakViewers": 12,
       "avgViewers": 12.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          12
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -11008,12 +10902,7 @@
       "game": null,
       "peakViewers": 4,
       "avgViewers": 4.0,
-      "samples": [
-        [
-          "2026-10-11T13:29:42Z",
-          4
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -18770,6 +18659,133 @@
         [
           "2026-11-24T10:49:19Z",
           12
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "wwX9hL25cF0",
+      "videoUrl": "https://www.youtube.com/watch?v=wwX9hL25cF0",
+      "start": "2026-11-25T13:02:18Z",
+      "end": "2026-11-25T14:46:53Z",
+      "minutes": 104.6,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "11月が終わる…ッ！メンバー限定雑談",
+      "game": null,
+      "peakViewers": null,
+      "avgViewers": null,
+      "samples": [],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "36HXCiNyyx8",
+      "videoUrl": "https://www.youtube.com/watch?v=36HXCiNyyx8",
+      "start": "2026-11-25T14:06:20Z",
+      "end": "2026-11-25T23:03:33Z",
+      "minutes": 537.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【歌枠】アニソン歌枠いくぞおおおおお！！【日裏クロ / ネオポルテ】",
+      "game": null,
+      "peakViewers": 110,
+      "avgViewers": 110.0,
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          110
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
+      "name": "火狩夜れんま",
+      "videoId": "ou4K4f5QM4g",
+      "videoUrl": "https://www.youtube.com/watch?v=ou4K4f5QM4g",
+      "start": "2026-11-25T14:06:20Z",
+      "end": "2026-11-25T23:03:33Z",
+      "minutes": 537.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【 浮気判定シート 】浮気判定シート書いてみる！【ゆにれいど！/ 火狩夜れんま】",
+      "game": null,
+      "peakViewers": 61,
+      "avgViewers": 61.0,
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          61
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCB-aip0wsqKQPcrLW1BBJaw",
+      "name": "綾見ユラ",
+      "videoId": "acAliLq6F_Q",
+      "videoUrl": "https://www.youtube.com/watch?v=acAliLq6F_Q",
+      "start": "2026-11-25T14:06:20Z",
+      "end": "2026-11-25T23:03:33Z",
+      "minutes": 537.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【地獄怨根】ベジファでいかせてもらう【綾見ユラ/YUMENOS】",
+      "game": null,
+      "peakViewers": 92,
+      "avgViewers": 92.0,
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          92
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "kgBPXXuLFY0",
+      "videoUrl": "https://www.youtube.com/watch?v=kgBPXXuLFY0",
+      "start": "2026-11-25T14:06:20Z",
+      "end": "2026-11-25T23:03:33Z",
+      "minutes": 537.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　同期回があるらしいね　 ～Day37～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 73,
+      "avgViewers": 73.0,
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          73
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "JMgEdQsTmqo",
+      "videoUrl": "https://www.youtube.com/watch?v=JMgEdQsTmqo",
+      "start": "2026-11-25T14:06:20Z",
+      "end": "2026-11-25T23:03:33Z",
+      "minutes": 537.2,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【空の軌跡 the 2nd】#８　完全初見　2章へ突入🔥メインストーリー進めるぞ！　　#恋沼ミヤ",
+      "game": null,
+      "peakViewers": 24,
+      "avgViewers": 24.0,
+      "samples": [
+        [
+          "2026-11-25T14:06:20Z",
+          24
         ]
       ],
       "isTargetGame": false
