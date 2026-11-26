@@ -1,46 +1,7 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {
-    "UCEtUOMEAuAMz8dor89rt2RA": {
-      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-      "name": "心白てと",
-      "videoId": "QT5OqxYl3GE",
-      "start": "2026-11-25T23:03:33Z",
-      "startSource": "observed",
-      "title": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
-      "game": null,
-      "peakViewers": 372,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T23:03:33Z",
-      "lastSeenAt": "2026-11-25T23:03:33Z",
-      "samples": [
-        [
-          "2026-11-25T23:03:33Z",
-          372
-        ]
-      ]
-    },
-    "UC7W6gEF88kzL-mN8V_QxzVg": {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "videoId": "Bc4PChPN1Z4",
-      "start": "2026-11-25T23:03:33Z",
-      "startSource": "observed",
-      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "game": null,
-      "peakViewers": 32,
-      "isTargetGame": false,
-      "firstSeenAt": "2026-11-25T23:03:33Z",
-      "lastSeenAt": "2026-11-25T23:03:33Z",
-      "samples": [
-        [
-          "2026-11-25T23:03:33Z",
-          32
-        ]
-      ]
-    }
-  },
+  "open": {},
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10919,12 +10880,7 @@
       "game": null,
       "peakViewers": 470,
       "avgViewers": 470.0,
-      "samples": [
-        [
-          "2026-10-11T22:17:01Z",
-          470
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -18786,6 +18742,50 @@
         [
           "2026-11-25T14:06:20Z",
           24
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "Bc4PChPN1Z4",
+      "videoUrl": "https://www.youtube.com/watch?v=Bc4PChPN1Z4",
+      "start": "2026-11-25T21:05:26Z",
+      "end": "2026-11-26T00:03:58Z",
+      "minutes": 178.5,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 32,
+      "avgViewers": 32.0,
+      "samples": [
+        [
+          "2026-11-25T23:03:33Z",
+          32
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "QT5OqxYl3GE",
+      "videoUrl": "https://www.youtube.com/watch?v=QT5OqxYl3GE",
+      "start": "2026-11-25T21:32:46Z",
+      "end": "2026-11-26T01:40:07Z",
+      "minutes": 247.3,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 372,
+      "avgViewers": 372.0,
+      "samples": [
+        [
+          "2026-11-25T23:03:33Z",
+          372
         ]
       ],
       "isTargetGame": false

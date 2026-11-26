@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:03:33Z",
+  "updatedAt": "2026-11-26T04:58:19Z",
   "timezone": "Asia/Seoul (UTC+9)",
   "windows": {
     "today": "오늘 00:00부터",
@@ -16,30 +16,30 @@
   ],
   "totals": {
     "today": {
-      "totalMinutes": 2417.8,
+      "totalMinutes": 2843.6,
       "gameMinutes": 0.0,
-      "totalHours": 40.3,
+      "totalHours": 47.39,
       "gameHours": 0.0,
       "sessions": 7,
-      "avgViewers": 72.0,
+      "avgViewers": 95.6,
       "peakViewers": 372
     },
     "week": {
-      "totalMinutes": 11043.6,
+      "totalMinutes": 11469.5,
       "gameMinutes": 0.0,
-      "totalHours": 184.06,
+      "totalHours": 191.16,
       "gameHours": 0.0,
       "sessions": 24,
-      "avgViewers": 115.8,
+      "avgViewers": 120.1,
       "peakViewers": 661
     },
     "month": {
-      "totalMinutes": 63394.7,
+      "totalMinutes": 63820.6,
       "gameMinutes": 0.0,
-      "totalHours": 1056.58,
+      "totalHours": 1063.68,
       "gameHours": 0.0,
       "sessions": 162,
-      "avgViewers": 124.3,
+      "avgViewers": 125.0,
       "peakViewers": 899
     }
   },
@@ -49,41 +49,63 @@
       "name": "心白てと",
       "registered": true,
       "channelUrl": "https://www.youtube.com/channel/UCEtUOMEAuAMz8dor89rt2RA",
-      "isLive": true,
-      "liveSince": "2026-11-25T23:03:33Z",
-      "liveTitle": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
-      "lastEnd": "2026-11-24T20:53:52Z",
-      "lastTitle": "〖 雑談 〗もう11月後半ということが本当なのかを話そう🍁🍠 〖 心白てと / ネオポルテ 〗",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-26T01:40:07Z",
+      "lastTitle": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
       "buckets": {
         "today": {
-          "totalMinutes": 0.0,
+          "totalMinutes": 247.3,
           "gameMinutes": 0.0,
-          "totalHours": 0.0,
+          "totalHours": 4.12,
           "gameHours": 0.0,
           "sessions": 1,
           "avgViewers": 372.0,
           "peakViewers": 372
         },
         "week": {
-          "totalMinutes": 1471.0,
+          "totalMinutes": 1718.3,
           "gameMinutes": 0.0,
-          "totalHours": 24.52,
+          "totalHours": 28.64,
           "gameHours": 0.0,
           "sessions": 4,
-          "avgViewers": 228.9,
+          "avgViewers": 249.5,
           "peakViewers": 611
         },
         "month": {
-          "totalMinutes": 7800.7,
+          "totalMinutes": 8048.0,
           "gameMinutes": 0.0,
-          "totalHours": 130.01,
+          "totalHours": 134.13,
           "gameHours": 0.0,
           "sessions": 19,
-          "avgViewers": 342.3,
+          "avgViewers": 343.3,
           "peakViewers": 899
         }
       },
       "recentSessions": [
+        {
+          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+          "name": "心白てと",
+          "videoId": "QT5OqxYl3GE",
+          "videoUrl": "https://www.youtube.com/watch?v=QT5OqxYl3GE",
+          "start": "2026-11-25T21:32:46Z",
+          "end": "2026-11-26T01:40:07Z",
+          "minutes": 247.3,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
+          "game": null,
+          "peakViewers": 372,
+          "avgViewers": 372.0,
+          "samples": [
+            [
+              "2026-11-25T23:03:33Z",
+              372
+            ]
+          ],
+          "isTargetGame": false
+        },
         {
           "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
           "name": "心白てと",
@@ -142,12 +164,7 @@
           "game": null,
           "peakViewers": 611,
           "avgViewers": 611.0,
-          "samples": [
-            [
-              "2026-11-22T09:54:22Z",
-              611
-            ]
-          ],
+          "samples": [],
           "isTargetGame": false
         },
         {
@@ -217,228 +234,8 @@
           "avgViewers": 310.0,
           "samples": [],
           "isTargetGame": false
-        },
-        {
-          "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
-          "name": "心白てと",
-          "videoId": "jd4AYA4X8aE",
-          "videoUrl": "https://www.youtube.com/watch?v=jd4AYA4X8aE",
-          "start": "2026-11-13T13:20:25Z",
-          "end": "2026-11-13T20:36:03Z",
-          "minutes": 435.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "〖 APEX 〗 ゴジラがいるらしいぞ.ᐟ.ᐟ⭐︎〖 心白てと / ネオポルテ 〗",
-          "game": null,
-          "peakViewers": 390,
-          "avgViewers": 390.0,
-          "samples": [],
-          "isTargetGame": false
         }
-      ],
-      "liveViewers": 372,
-      "livePeakViewers": 372,
-      "liveAvgViewers": 372.0,
-      "liveSamples": [
-        [
-          "2026-11-25T23:03:33Z",
-          372
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=QT5OqxYl3GE"
-    },
-    {
-      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-      "name": "埼凰リンネ",
-      "registered": true,
-      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
-      "isLive": true,
-      "liveSince": "2026-11-25T23:03:33Z",
-      "liveTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "lastEnd": "2026-11-20T21:04:56Z",
-      "lastTitle": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 里いもの唐揚げ！【埼凰リンネ / YUMENOS】#新人vtuber",
-      "buckets": {
-        "today": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 32.0,
-          "peakViewers": 32
-        },
-        "week": {
-          "totalMinutes": 0.0,
-          "gameMinutes": 0.0,
-          "totalHours": 0.0,
-          "gameHours": 0.0,
-          "sessions": 1,
-          "avgViewers": 32.0,
-          "peakViewers": 32
-        },
-        "month": {
-          "totalMinutes": 3533.6,
-          "gameMinutes": 0.0,
-          "totalHours": 58.89,
-          "gameHours": 0.0,
-          "sessions": 12,
-          "avgViewers": 18.2,
-          "peakViewers": 35
-        }
-      },
-      "recentSessions": [
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "zeW7j9-JPXE",
-          "videoUrl": "https://www.youtube.com/watch?v=zeW7j9-JPXE",
-          "start": "2026-11-20T13:09:49Z",
-          "end": "2026-11-20T21:04:56Z",
-          "minutes": 475.1,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 里いもの唐揚げ！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 17,
-          "avgViewers": 17.0,
-          "samples": [
-            [
-              "2026-11-20T13:09:49Z",
-              17
-            ]
-          ],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "GjUMt2zCwrQ",
-          "videoUrl": "https://www.youtube.com/watch?v=GjUMt2zCwrQ",
-          "start": "2026-11-15T21:32:31Z",
-          "end": "2026-11-16T01:22:01Z",
-          "minutes": 229.5,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 23,
-          "avgViewers": 23.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "tD-0xiNMxVs",
-          "videoUrl": "https://www.youtube.com/watch?v=tD-0xiNMxVs",
-          "start": "2026-11-14T01:01:28Z",
-          "end": "2026-11-14T07:34:15Z",
-          "minutes": 392.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 27,
-          "avgViewers": 27.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "zg7o6vVu2jM",
-          "videoUrl": "https://www.youtube.com/watch?v=zg7o6vVu2jM",
-          "start": "2026-11-13T13:20:25Z",
-          "end": "2026-11-13T20:36:03Z",
-          "minutes": 435.6,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 16,
-          "avgViewers": 16.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "CYVwF3TTkF0",
-          "videoUrl": "https://www.youtube.com/watch?v=CYVwF3TTkF0",
-          "start": "2026-11-11T22:07:15Z",
-          "end": "2026-11-12T02:56:28Z",
-          "minutes": 289.2,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 13,
-          "avgViewers": 13.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "d3Zhk8DvkmI",
-          "videoUrl": "https://www.youtube.com/watch?v=d3Zhk8DvkmI",
-          "start": "2026-11-10T12:58:48Z",
-          "end": "2026-11-10T20:24:37Z",
-          "minutes": 445.8,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【ゼルダの伝説 時のオカリナ】#2  今日はゾーラの里から！大人になって森の神殿はいきたい！The Legend of Zelda【埼凰リンネ / YUMENOS】 #新人vtuber",
-          "game": null,
-          "peakViewers": 11,
-          "avgViewers": 11.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "KtcpbtNTrA4",
-          "videoUrl": "https://www.youtube.com/watch?v=KtcpbtNTrA4",
-          "start": "2026-11-09T21:01:20Z",
-          "end": "2026-11-10T00:06:00Z",
-          "minutes": 184.7,
-          "startSource": "youtube",
-          "endSource": "youtube",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 35,
-          "avgViewers": 35.0,
-          "samples": [],
-          "isTargetGame": false
-        },
-        {
-          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
-          "name": "埼凰リンネ",
-          "videoId": "6foiqvCsL5w",
-          "videoUrl": "https://www.youtube.com/watch?v=6foiqvCsL5w",
-          "start": "2026-11-05T22:51:17Z",
-          "end": "2026-11-06T03:14:10Z",
-          "minutes": 262.9,
-          "startSource": "observed",
-          "endSource": "observed",
-          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
-          "game": null,
-          "peakViewers": 21,
-          "avgViewers": 21.0,
-          "samples": [],
-          "isTargetGame": false
-        }
-      ],
-      "liveViewers": 32,
-      "livePeakViewers": 32,
-      "liveAvgViewers": 32.0,
-      "liveSamples": [
-        [
-          "2026-11-25T23:03:33Z",
-          32
-        ]
-      ],
-      "liveVideoUrl": "https://www.youtube.com/watch?v=Bc4PChPN1Z4"
+      ]
     },
     {
       "channelId": "UC_mXkuKyIkO1hYjSeMvbt5g",
@@ -1395,6 +1192,194 @@
           "game": null,
           "peakViewers": 11,
           "avgViewers": 11.0,
+          "samples": [],
+          "isTargetGame": false
+        }
+      ]
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "registered": true,
+      "channelUrl": "https://www.youtube.com/channel/UC7W6gEF88kzL-mN8V_QxzVg",
+      "isLive": false,
+      "liveSince": null,
+      "liveTitle": null,
+      "lastEnd": "2026-11-26T00:03:58Z",
+      "lastTitle": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "buckets": {
+        "today": {
+          "totalMinutes": 178.5,
+          "gameMinutes": 0.0,
+          "totalHours": 2.98,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 32.0,
+          "peakViewers": 32
+        },
+        "week": {
+          "totalMinutes": 178.5,
+          "gameMinutes": 0.0,
+          "totalHours": 2.98,
+          "gameHours": 0.0,
+          "sessions": 1,
+          "avgViewers": 32.0,
+          "peakViewers": 32
+        },
+        "month": {
+          "totalMinutes": 3712.1,
+          "gameMinutes": 0.0,
+          "totalHours": 61.87,
+          "gameHours": 0.0,
+          "sessions": 12,
+          "avgViewers": 18.8,
+          "peakViewers": 35
+        }
+      },
+      "recentSessions": [
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "Bc4PChPN1Z4",
+          "videoUrl": "https://www.youtube.com/watch?v=Bc4PChPN1Z4",
+          "start": "2026-11-25T21:05:26Z",
+          "end": "2026-11-26T00:03:58Z",
+          "minutes": 178.5,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 32,
+          "avgViewers": 32.0,
+          "samples": [
+            [
+              "2026-11-25T23:03:33Z",
+              32
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "zeW7j9-JPXE",
+          "videoUrl": "https://www.youtube.com/watch?v=zeW7j9-JPXE",
+          "start": "2026-11-20T13:09:49Z",
+          "end": "2026-11-20T21:04:56Z",
+          "minutes": 475.1,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 里いもの唐揚げ！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 17,
+          "avgViewers": 17.0,
+          "samples": [
+            [
+              "2026-11-20T13:09:49Z",
+              17
+            ]
+          ],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "GjUMt2zCwrQ",
+          "videoUrl": "https://www.youtube.com/watch?v=GjUMt2zCwrQ",
+          "start": "2026-11-15T21:32:31Z",
+          "end": "2026-11-16T01:22:01Z",
+          "minutes": 229.5,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 23,
+          "avgViewers": 23.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "tD-0xiNMxVs",
+          "videoUrl": "https://www.youtube.com/watch?v=tD-0xiNMxVs",
+          "start": "2026-11-14T01:01:28Z",
+          "end": "2026-11-14T07:34:15Z",
+          "minutes": 392.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 27,
+          "avgViewers": 27.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "zg7o6vVu2jM",
+          "videoUrl": "https://www.youtube.com/watch?v=zg7o6vVu2jM",
+          "start": "2026-11-13T13:20:25Z",
+          "end": "2026-11-13T20:36:03Z",
+          "minutes": 435.6,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【飲酒雑談】華金の飲み！今日もゆったり飲むぞ！🍶 肉じゃが！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 16,
+          "avgViewers": 16.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "CYVwF3TTkF0",
+          "videoUrl": "https://www.youtube.com/watch?v=CYVwF3TTkF0",
+          "start": "2026-11-11T22:07:15Z",
+          "end": "2026-11-12T02:56:28Z",
+          "minutes": 289.2,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 13,
+          "avgViewers": 13.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "d3Zhk8DvkmI",
+          "videoUrl": "https://www.youtube.com/watch?v=d3Zhk8DvkmI",
+          "start": "2026-11-10T12:58:48Z",
+          "end": "2026-11-10T20:24:37Z",
+          "minutes": 445.8,
+          "startSource": "observed",
+          "endSource": "observed",
+          "title": "【ゼルダの伝説 時のオカリナ】#2  今日はゾーラの里から！大人になって森の神殿はいきたい！The Legend of Zelda【埼凰リンネ / YUMENOS】 #新人vtuber",
+          "game": null,
+          "peakViewers": 11,
+          "avgViewers": 11.0,
+          "samples": [],
+          "isTargetGame": false
+        },
+        {
+          "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+          "name": "埼凰リンネ",
+          "videoId": "KtcpbtNTrA4",
+          "videoUrl": "https://www.youtube.com/watch?v=KtcpbtNTrA4",
+          "start": "2026-11-09T21:01:20Z",
+          "end": "2026-11-10T00:06:00Z",
+          "minutes": 184.7,
+          "startSource": "youtube",
+          "endSource": "youtube",
+          "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+          "game": null,
+          "peakViewers": 35,
+          "avgViewers": 35.0,
           "samples": [],
           "isTargetGame": false
         }
@@ -3965,6 +3950,38 @@
   ],
   "recentSessions": [
     {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "QT5OqxYl3GE",
+      "videoUrl": "https://www.youtube.com/watch?v=QT5OqxYl3GE",
+      "start": "2026-11-25T21:32:46Z",
+      "end": "2026-11-26T01:40:07Z",
+      "minutes": 247.3,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "〖 てともに╎#11 〗 みんなにおはよする☀〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 372,
+      "avgViewers": 372.0,
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "Bc4PChPN1Z4",
+      "videoUrl": "https://www.youtube.com/watch?v=Bc4PChPN1Z4",
+      "start": "2026-11-25T21:05:26Z",
+      "end": "2026-11-26T00:03:58Z",
+      "minutes": 178.5,
+      "startSource": "youtube",
+      "endSource": "youtube",
+      "title": "【 朝活 / 雑談 】癒しボイスで朝から健康！☕～作業雑談～初見さん・ROM勢さんも大歓迎ですよ～！【埼凰リンネ / YUMENOS】#新人vtuber",
+      "game": null,
+      "peakViewers": 32,
+      "avgViewers": 32.0,
+      "isTargetGame": false
+    },
+    {
       "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
       "name": "日裏クロ",
       "videoId": "36HXCiNyyx8",
@@ -4890,38 +4907,6 @@
       "game": null,
       "peakViewers": 5,
       "avgViewers": 5.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
-      "name": "水上蒼太",
-      "videoId": "Mglynfx6kxw",
-      "videoUrl": "https://www.youtube.com/watch?v=Mglynfx6kxw",
-      "start": "2026-11-14T14:29:11Z",
-      "end": "2026-11-14T19:25:30Z",
-      "minutes": 296.3,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【深夜雑談】初見さん大歓迎雑談、土曜の部　とてもいい声【水上蒼太/ゆにれいど！】",
-      "game": null,
-      "peakViewers": 29,
-      "avgViewers": 29.0,
-      "isTargetGame": false
-    },
-    {
-      "channelId": "UCe5mbpYA9Yym4lZTdj06G6Q",
-      "name": "氷乃渚",
-      "videoId": "2cLixp1TP2E",
-      "videoUrl": "https://www.youtube.com/watch?v=2cLixp1TP2E",
-      "start": "2026-11-14T14:29:11Z",
-      "end": "2026-11-14T19:25:30Z",
-      "minutes": 296.3,
-      "startSource": "observed",
-      "endSource": "observed",
-      "title": "【歌枠】初見さん歓迎！今日も沢山歌っちゃいますよと【氷乃渚 / ゆにれいど！】",
-      "game": null,
-      "peakViewers": 101,
-      "avgViewers": 101.0,
       "isTargetGame": false
     }
   ]
