@@ -1,7 +1,122 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCElYE3bfzjjmJ9xwjvro9Yw": {
+      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
+      "name": "日裏クロ",
+      "videoId": "KJfivnZ4KR4",
+      "start": "2026-11-26T14:56:51Z",
+      "startSource": "observed",
+      "title": "【スト6】初めてのガイル村集会！コンボだけは負けない！！！",
+      "game": null,
+      "peakViewers": 71,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-26T14:56:51Z",
+      "lastSeenAt": "2026-11-26T14:56:51Z",
+      "samples": [
+        [
+          "2026-11-26T14:56:51Z",
+          71
+        ]
+      ]
+    },
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "HyB5trbYnkI",
+      "start": "2026-11-26T14:56:51Z",
+      "startSource": "observed",
+      "title": "【ポケモンチャンピオンズ】パーモットと行く夜のランクマ🔥!【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 624,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-26T14:56:51Z",
+      "lastSeenAt": "2026-11-26T14:56:51Z",
+      "samples": [
+        [
+          "2026-11-26T14:56:51Z",
+          624
+        ]
+      ]
+    },
+    "UCo3zRhsnXIieauvm6c-xwkA": {
+      "channelId": "UCo3zRhsnXIieauvm6c-xwkA",
+      "name": "七乃羽すず",
+      "videoId": "ENgfFN4Gxng",
+      "start": "2026-11-26T14:56:51Z",
+      "startSource": "observed",
+      "title": "【雑談】バイオハザード展に行ってきた、ほか【#七乃羽すず┆すずみあ】",
+      "game": null,
+      "peakViewers": 46,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-26T14:56:51Z",
+      "lastSeenAt": "2026-11-26T14:56:51Z",
+      "samples": [
+        [
+          "2026-11-26T14:56:51Z",
+          46
+        ]
+      ]
+    },
+    "UCRY2TC7xV6N_q9Fsx4Mp2Pw": {
+      "channelId": "UCRY2TC7xV6N_q9Fsx4Mp2Pw",
+      "name": "那和ツムグ",
+      "videoId": "Leg4PbEBBgw",
+      "start": "2026-11-26T14:56:51Z",
+      "startSource": "observed",
+      "title": "【#ストグラ】#ストグラSeason2　あ～ラップがしてぇ　 ～Day38～【YUMENOS/那和ツムグ】",
+      "game": null,
+      "peakViewers": 52,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-26T14:56:51Z",
+      "lastSeenAt": "2026-11-26T14:56:51Z",
+      "samples": [
+        [
+          "2026-11-26T14:56:51Z",
+          52
+        ]
+      ]
+    },
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "x-blw978rFA",
+      "start": "2026-11-26T14:56:51Z",
+      "startSource": "observed",
+      "title": "【ゼルダの伝説 時のオカリナ】#5  最後までクリアなるか？魂の神殿から！The Legend of Zelda【埼凰リンネ / YUMENOS】 #新人vtuber",
+      "game": null,
+      "peakViewers": 13,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-26T14:56:51Z",
+      "lastSeenAt": "2026-11-26T14:56:51Z",
+      "samples": [
+        [
+          "2026-11-26T14:56:51Z",
+          13
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "7RD8ifz3GKw",
+      "start": "2026-11-26T14:56:51Z",
+      "startSource": "observed",
+      "title": "【浮気した夫に全部吐かせる】は？なんで浮気した？　 #恋沼ミヤ",
+      "game": null,
+      "peakViewers": 28,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-26T14:56:51Z",
+      "lastSeenAt": "2026-11-26T14:56:51Z",
+      "samples": [
+        [
+          "2026-11-26T14:56:51Z",
+          28
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10897,16 +11012,7 @@
       "game": null,
       "peakViewers": 27,
       "avgViewers": 19.5,
-      "samples": [
-        [
-          "2026-10-11T22:17:01Z",
-          12
-        ],
-        [
-          "2026-10-12T01:25:05Z",
-          27
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
