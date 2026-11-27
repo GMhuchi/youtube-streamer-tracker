@@ -1,7 +1,98 @@
 {
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
-  "open": {},
+  "open": {
+    "UCEtUOMEAuAMz8dor89rt2RA": {
+      "channelId": "UCEtUOMEAuAMz8dor89rt2RA",
+      "name": "心白てと",
+      "videoId": "-1f7rrEjfuY",
+      "start": "2026-11-27T15:27:15Z",
+      "startSource": "observed",
+      "title": "〖 APEX 〗 珍しいメンバーフルパ⁺₊✦ / あおはるちゃん、テンちゃん〖 心白てと / ネオポルテ 〗",
+      "game": null,
+      "peakViewers": 286,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-27T15:27:15Z",
+      "lastSeenAt": "2026-11-27T15:27:15Z",
+      "samples": [
+        [
+          "2026-11-27T15:27:15Z",
+          286
+        ]
+      ]
+    },
+    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "9Zka2pybww4",
+      "start": "2026-11-27T15:27:15Z",
+      "startSource": "observed",
+      "title": "【歌枠】２周年目前だしいろいろ歌いますか。【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": null,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-27T15:27:15Z",
+      "lastSeenAt": "2026-11-27T15:27:15Z",
+      "samples": []
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "PguvoS5gX-4",
+      "start": "2026-11-27T15:27:15Z",
+      "startSource": "observed",
+      "title": "#ストグラSeason2 GTAV | メロイシ ユーコ Day.14 今日は出勤するわよ～！ #愁子",
+      "game": null,
+      "peakViewers": 39,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-27T15:27:15Z",
+      "lastSeenAt": "2026-11-27T15:27:15Z",
+      "samples": [
+        [
+          "2026-11-27T15:27:15Z",
+          39
+        ]
+      ]
+    },
+    "UCXUu1nCtDMAbasD0wAK1cdw": {
+      "channelId": "UCXUu1nCtDMAbasD0wAK1cdw",
+      "name": "恋沼ミヤ",
+      "videoId": "V3i1hjE1Pww",
+      "start": "2026-11-27T15:27:15Z",
+      "startSource": "observed",
+      "title": "【歌枠/Singing】冬の歌⛄歌ってもいい季節…　【 #恋沼ミヤ】",
+      "game": null,
+      "peakViewers": 52,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-27T15:27:15Z",
+      "lastSeenAt": "2026-11-27T15:27:15Z",
+      "samples": [
+        [
+          "2026-11-27T15:27:15Z",
+          52
+        ]
+      ]
+    },
+    "UCAS1tKQTTPVw4-TFnKTzvnw": {
+      "channelId": "UCAS1tKQTTPVw4-TFnKTzvnw",
+      "name": "水上蒼太",
+      "videoId": "Nqt30EmzZxY",
+      "start": "2026-11-27T15:27:15Z",
+      "startSource": "observed",
+      "title": "激怖ホラーやっていきます。イケメンなので叫びません。水上蒼太/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 56,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-27T15:27:15Z",
+      "lastSeenAt": "2026-11-27T15:27:15Z",
+      "samples": [
+        [
+          "2026-11-27T15:27:15Z",
+          56
+        ]
+      ]
+    }
+  },
   "sessions": [
     {
       "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
@@ -10999,12 +11090,7 @@
       "game": null,
       "peakViewers": 57,
       "avgViewers": 57.0,
-      "samples": [
-        [
-          "2026-10-13T03:51:29Z",
-          57
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
