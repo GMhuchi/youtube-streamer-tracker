@@ -2,22 +2,41 @@
   "_설명": "방송 이력 원본 데이터입니다. track.py가 매 확인 주기에 자동으로 갱신하므로 직접 수정할 필요는 없습니다. open = 지금 진행 중인 방송(채널ID -> 세션), sessions = 끝난 방송 기록.",
   "version": 1,
   "open": {
-    "UCJWTT5HZQbrkP1NUBwwVEbQ": {
-      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
-      "name": "望月ほぐの",
-      "videoId": "HNySO_rxgwU",
-      "start": "2026-11-27T23:39:26Z",
+    "UC7W6gEF88kzL-mN8V_QxzVg": {
+      "channelId": "UC7W6gEF88kzL-mN8V_QxzVg",
+      "name": "埼凰リンネ",
+      "videoId": "Lf2XWIIiGFo",
+      "start": "2026-11-28T04:57:50Z",
       "startSource": "observed",
-      "title": "【朝活/雑談】#325［2026.11/28］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "title": "【作業雑談】朝活でありゆったり雑談である、いや作業もある！【埼凰リンネ / YUMENOS】#新人vtuber",
       "game": null,
-      "peakViewers": 809,
+      "peakViewers": 22,
       "isTargetGame": false,
-      "firstSeenAt": "2026-11-27T23:39:26Z",
-      "lastSeenAt": "2026-11-27T23:39:26Z",
+      "firstSeenAt": "2026-11-28T04:57:50Z",
+      "lastSeenAt": "2026-11-28T04:57:50Z",
       "samples": [
         [
-          "2026-11-27T23:39:26Z",
-          809
+          "2026-11-28T04:57:50Z",
+          22
+        ]
+      ]
+    },
+    "UCb8nGgTFAL6B5zOm060Ff3Q": {
+      "channelId": "UCb8nGgTFAL6B5zOm060Ff3Q",
+      "name": "愁子",
+      "videoId": "PmIWTQIUM5E",
+      "start": "2026-11-28T04:57:50Z",
+      "startSource": "observed",
+      "title": "昼活 | お仕事までまったりしよ～ #愁子",
+      "game": null,
+      "peakViewers": 76,
+      "isTargetGame": false,
+      "firstSeenAt": "2026-11-28T04:57:50Z",
+      "lastSeenAt": "2026-11-28T04:57:50Z",
+      "samples": [
+        [
+          "2026-11-28T04:57:50Z",
+          76
         ]
       ]
     }
@@ -11155,12 +11174,7 @@
       "game": null,
       "peakViewers": 65,
       "avgViewers": 65.0,
-      "samples": [
-        [
-          "2026-10-13T23:02:42Z",
-          65
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -11177,12 +11191,7 @@
       "game": null,
       "peakViewers": 606,
       "avgViewers": 606.0,
-      "samples": [
-        [
-          "2026-10-13T23:02:42Z",
-          606
-        ]
-      ],
+      "samples": [],
       "isTargetGame": false
     },
     {
@@ -19035,6 +19044,28 @@
         [
           "2026-11-27T15:27:15Z",
           56
+        ]
+      ],
+      "isTargetGame": false
+    },
+    {
+      "channelId": "UCJWTT5HZQbrkP1NUBwwVEbQ",
+      "name": "望月ほぐの",
+      "videoId": "HNySO_rxgwU",
+      "videoUrl": "https://www.youtube.com/watch?v=HNySO_rxgwU",
+      "start": "2026-11-27T23:39:26Z",
+      "end": "2026-11-28T04:57:50Z",
+      "minutes": 318.4,
+      "startSource": "observed",
+      "endSource": "observed",
+      "title": "【朝活/雑談】#325［2026.11/28］土曜日の朝に癒しをお届け！【望月ほぐの/ゆにれいど！】",
+      "game": null,
+      "peakViewers": 809,
+      "avgViewers": 809.0,
+      "samples": [
+        [
+          "2026-11-27T23:39:26Z",
+          809
         ]
       ],
       "isTargetGame": false
